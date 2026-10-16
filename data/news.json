@@ -1,7 +1,88 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T07:23:44+00:00",
+  "updated_at": "2026-10-16T07:41:21+00:00",
   "articles": [
+    {
+      "id": "c71194e2892bdea99449",
+      "url": "https://news.hada.io/topic?id=35468",
+      "title": "AI로 하드웨어 역공학하기",
+      "original_title": "AI로 하드웨어 역공학하기",
+      "published_at": "2026-10-16T07:40:19+00:00",
+      "collected_at": "2026-10-16T07:41:04+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Windows 드라이버의 정상 동작과 Linux 드라이버의 동작을 AI로 비교 해, 필름 스캐너 드라이버를 개발하고 노트북 MIPI 카메라의 화질 문제를 개선함 실제 장치를 연결한 Windows 가상 머신과 호스트 측 USB 캡처 를 활용하자, 수개월간 막혀 있던 스캐너 작업에서 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35468",
+          "title": "AI로 하드웨어 역공학하기"
+        }
+      ]
+    },
+    {
+      "id": "5f55223d421733469020",
+      "url": "https://news.hada.io/topic?id=35467",
+      "title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석",
+      "original_title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석",
+      "published_at": "2026-10-16T07:37:19+00:00",
+      "collected_at": "2026-10-16T07:41:04+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta는 2026년 10월 30일 부터 비즈니스 계정과 연관된 웹사이트의 콘텐츠를 수집하고 자사 제품 훈련에 사용할 수 있도록 상업용 약관을 변경하며, 뉴스 발행사도 적용 대상임 약관을 검토한 법률 전문가 3명은 새 문구가 뉴스 콘텐츠의 AI 학습 이용 을 정당화하는...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35467",
+          "title": "Meta의 새 상업용 약관, 뉴스 사이트 스크래핑 허용할 수 있다는 전문가 분석"
+        }
+      ]
+    },
+    {
+      "id": "720bddb48f8901b05ef8",
+      "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software",
+      "title": "AI is driving a boom in modestly successful software projects",
+      "original_title": "AI is driving a boom in modestly successful software projects",
+      "published_at": "2026-10-16T07:26:47+00:00",
+      "collected_at": "2026-10-16T07:41:04+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software",
+          "title": "AI is driving a boom in modestly successful software projects",
+          "discussion_url": "https://news.ycombinator.com/item?id=50115251"
+        }
+      ]
+    },
+    {
+      "id": "55ad5c051c6e3f5908c9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216333",
+      "title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
+      "original_title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\"",
+      "published_at": "2026-10-16T07:25:25+00:00",
+      "collected_at": "2026-10-16T07:41:04+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "\"서버, 카메라, 로봇 등 현장 맞춤형 AI 솔루션을 통해 국방을 넘어 자율주행과 선박 안전 운항으로 적용 분야를 넓히고 로봇 플랫폼을 다각화해 수익원을 확대하겠습니다.\"인텔리빅스(대표 최은수)는 16일 서울 여의도 콘래드 호텔에서 기자간담회를 열고 코스닥 상장을 통한 안전 AI 미래 전략을 밝혔다.먼저 중대재해처벌…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216333",
+          "title": "인텔리빅스, 30일 코스닥 상장...\"안전 AI로 국방·자율주행·선박 공략\""
+        }
+      ]
+    },
     {
       "id": "a0840cb9edcc70ad0341",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216347",
