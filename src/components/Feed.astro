@@ -1,0 +1,102 @@
+---
+import NewsCard from './NewsCard.astro';
+import { categories, type Article } from '../lib/data';
+interface Props {
+  articles: Article[];
+  archive?: boolean;
+}
+const { articles, archive = false } = Astro.props;
+---
+
+<section class="feed-section" data-feed>
+  <div class="section-heading">
+    <div>
+      <span class="eyebrow">{archive ? 'THE ARCHIVE' : 'THE FEED'}</span>
+      <h2>{archive ? '모아둔 AI의 흐름' : '지금, AI에서 일어나는 일'}</h2>
+    </div>
+    <span class="article-count">
+      <strong data-result-count>{articles.length}</strong>개의 뉴스
+    </span>
+  </div>
+  <form class="feed-tools" role="search" onsubmit="return false">
+    <div class="tabs" role="group" aria-label="카테고리 필터">
+      <button type="button" data-category-filter="all" aria-pressed="true">
+        전체
+      </button>
+      {categories.map((c) => (
+        <button type="button" data-category-filter={c} aria-pressed="false">
+          {c}
+        </button>
+      ))}
+    </div>
+    <div class="filter-row">
+      <label class="inline-search">
+        <svg
+          width="18"
+          height="18"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+          aria-hidden="true"
+        >
+          <circle cx="10" cy="10" r="6" />
+          <path d="m15 15 6 6" />
+        </svg>
+        <input
+          type="search"
+          data-query
+          aria-label="목록 내 기사 검색"
+          placeholder="키워드로 뉴스 찾기"
+        />
+      </label>
+      <div class="filter-selects">
+        <label>
+          <span class="sr-only">지역</span>
+          <select data-region-filter>
+            <option value="all">국내 + 해외</option>
+            <option value="kr">국내</option>
+            <option value="global">해외</option>
+          </select>
+        </label>
+        <label>
+          <span class="sr-only">요약 여부</span>
+          <select data-summary-filter>
+            <option value="all">모든 뉴스</option>
+            <option value="summarized">AI 요약만</option>
+            <option value="saved">저장한 뉴스</option>
+          </select>
+        </label>
+      </div>
+    </div>
+  </form>
+  <div class="news-grid">
+    {articles.map((a) => (
+      <NewsCard article={a} saveable />
+    ))}
+  </div>
+  <div class="empty-state" data-empty hidden>
+    <span>↗</span>
+    <h3>조건에 맞는 뉴스가 없습니다.</h3>
+    <p>
+      검색어나 필터를 바꿔보세요. 뉴스 카드의 저장 버튼으로 기사를 모아둘 수
+      있습니다.
+    </p>
+    <button class="button" type="button" data-reset>
+      전체 뉴스 보기
+    </button>
+  </div>
+  <p class="sr-only" aria-live="polite" data-live></p>
+  <div class="load-more">
+    <button class="button" data-more type="button" hidden>
+      뉴스 더 보기 <span aria-hidden="true">↓</span>
+    </button>
+  </div>
+  <noscript>
+    <p>
+      검색·필터·저장 기능에는 JavaScript가 필요합니다. 모든 기사와 원문 링크는
+      그대로 읽을 수 있습니다.
+    </p>
+  </noscript>
+</section>
+<script src="../scripts/feed.ts"></script>

@@ -1,0 +1,10 @@
+# Copy to /etc/logrotate.d/ai-brief, replacing user/group if needed.
+/opt/ai-brief/.runtime/cron.log {
+    weekly
+    rotate 8
+    compress
+    missingok
+    notifempty
+    copytruncate
+    su news news
+}

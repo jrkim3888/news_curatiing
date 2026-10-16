@@ -1,0 +1,82 @@
+name: Collect AI news
+
+on:
+  schedule:
+    # UTC; KST 03:17, 09:17, 15:17, 21:17. GitHub may delay scheduled jobs.
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      no_llm:
+        description: Collect and publish links without paid OpenRouter calls
+        type: boolean
+        default: true
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-news-collection
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    # A first manual run is allowed before enabling the production schedule.
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'workflow_dispatch' || vars.COLLECTION_ENABLED == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Prepare Python
+        run: |
+          python -m venv .venv
+          .venv/bin/python -m pip install -r requirements.txt
+          mkdir -p .runtime
+          sha256sum requirements.txt | cut -d ' ' -f1 > .runtime/requirements.sha256
+      - name: Restore request cooldowns
+        uses: actions/cache/restore@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: .runtime/summary-attempts.json
+          key: summary-attempts-v1-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: summary-attempts-v1-
+      - name: Collect, validate and publish one batch
+        id: collect
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
+          MAX_SUMMARIES_PER_RUN: ${{ vars.MAX_SUMMARIES_PER_RUN || '1' }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          NO_LLM: ${{ github.event_name == 'workflow_dispatch' && inputs.no_llm }}
+          NEWS_BRANCH: main
+        run: |
+          if [[ "$NO_LLM" == true || "$MAX_SUMMARIES_PER_RUN" == 0 ]]; then
+            export MAX_SUMMARIES_PER_RUN=0
+          elif [[ -z "$OPENROUTER_API_KEY" || -z "$OPENROUTER_MODEL" ]]; then
+            echo '::error::Set the OpenRouter secret and model variable, or run with no_llm enabled.'
+            exit 1
+          fi
+          timeout --signal=TERM --kill-after=30s 50m bash ops/run-collector.sh
+      - name: Save request cooldowns even after a failed batch
+        if: always() && hashFiles('.runtime/summary-attempts.json') != ''
+        uses: actions/cache/save@0057852bfaa89a56745cba8c7296529d2fc39830 # v4
+        with:
+          path: .runtime/summary-attempts.json
+          key: summary-attempts-v1-${{ github.run_id }}-${{ github.run_attempt }}
+      - name: Save public batch and safe diagnostics for recovery
+        if: always() && steps.collect.outcome != 'skipped'
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: collection-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            data/news.json
+            .runtime/last-run.json
+            .runtime/summary-attempts.json
+          include-hidden-files: true
+          retention-days: 7
+          if-no-files-found: ignore

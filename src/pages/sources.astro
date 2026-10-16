@@ -1,0 +1,60 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { data, articles, roleNames } from '../lib/data';
+import config from '../../config/sources.json';
+---
+
+<Layout title="수집 출처">
+  <div class="container page-content">
+    <div class="page-intro">
+      <span class="eyebrow">ALWAYS TRACEABLE</span>
+      <h1>
+        소식이 시작된 곳<span class="dot">.</span>
+      </h1>
+      <p>
+        공식 발표, 언론의 보도, 전문가와 커뮤니티의 관점.
+        <br />각 출처의 성격을 알고 읽으면 맥락이 더 선명해집니다.
+      </p>
+    </div>
+    <div class="source-legend">
+      공식 발표는 발표 주체의 주장입니다. 커뮤니티 링크는 관심도 신호이며,
+      독립적인 사실 검증으로 계산하지 않습니다.
+    </div>
+    <div class="sources-grid">
+      {data.sources.map((s, i) => (
+        <article class="source-card">
+          <div class="source-card-top">
+            <span class="source-number">{String(i + 1).padStart(2, '0')}</span>
+            <span class="tag">{roleNames[s.role]}</span>
+          </div>
+          <h2>
+            <a href={s.homepage} target="_blank" rel="noopener noreferrer">
+              {s.name} ↗
+            </a>
+          </h2>
+          <p>{config.find((c) => c.id === s.id)?.description}</p>
+          <div class="source-card-footer">
+            <span>
+              {s.region === 'kr' ? '국내' : '해외'} ·{' '}
+              {s.enabled ? '수집 대상' : '일시 중지'}
+            </span>
+            <span>
+              보관 기사{' '}
+              {
+                articles.filter((a) =>
+                  a.sources.some((r) => r.source_id === s.id),
+                ).length
+              }
+              개
+            </span>
+          </div>
+        </article>
+      ))}
+    </div>
+    <p class="disclosure">
+      수집 대상 표시는 실시간 연결 상태를 뜻하지 않습니다. 소스별 실패·누락
+      내역은 운영자가 수집 로그에서 확인합니다. 사이트와 피드의 변경에 따라 일부
+      소식이 늦거나 누락될 수 있습니다.
+    </p>
+  </div>
+</Layout>

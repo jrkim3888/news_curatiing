@@ -1,0 +1,6 @@
+# Install with `crontab -e` as the news user's crontab (not /etc/crontab).
+# Assumes the VM system timezone is UTC. 00:17, 06:17, 12:17, 18:17 UTC.
+# In Korea: 09:17, 15:17, 21:17, 03:17. Cron timing is relative to the VM timezone.
+SHELL=/bin/bash
+PATH=/usr/local/bin:/usr/bin:/bin
+17 */6 * * * cd /opt/ai-brief && /usr/bin/timeout --signal=TERM --kill-after=30s 50m /bin/bash ops/run-collector.sh >> /opt/ai-brief/.runtime/cron.log 2>&1

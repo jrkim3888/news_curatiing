@@ -1,0 +1,123 @@
+---
+import '../styles/global.css';
+interface Props {
+  title?: string;
+  description?: string;
+  article?: boolean;
+  noindex?: boolean;
+}
+const {
+  title,
+  description = '국내외 AI 뉴스와 공식 발표를 한곳에서. 출처와 함께 읽는 AI 브리프.',
+  article = false,
+  noindex = false,
+} = Astro.props;
+const path = Astro.url.pathname;
+const canonical = new URL(path, Astro.site);
+const fullTitle = title
+  ? `${title} · AI 브리프`
+  : 'AI 브리프 — AI의 다음을, 한눈에';
+---
+
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f6f5f1" />
+    <meta name="description" content={description} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="AI 브리프"
+      href="/rss.xml"
+    />
+    <meta property="og:locale" content="ko_KR" />
+    <meta property="og:site_name" content="AI 브리프" />
+    <meta property="og:type" content={article ? 'article' : 'website'} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta name="twitter:card" content="summary" />
+    <title>{fullTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">
+      본문으로 건너뛰기
+    </a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="/" aria-label="AI 브리프 홈">
+          <span class="brand-icon" aria-hidden="true">
+            a<span>i</span>
+          </span>
+          <span>
+            AI 브리프<span class="brand-sub">THE NEXT, IN BRIEF.</span>
+          </span>
+        </a>
+        <nav aria-label="주 메뉴">
+          <a href="/" aria-current={path === '/' ? 'page' : undefined}>
+            브리핑
+          </a>
+          <a
+            href="/archive/"
+            aria-current={path.startsWith('/archive') ? 'page' : undefined}
+          >
+            아카이브
+          </a>
+          <a
+            href="/sources/"
+            aria-current={path.startsWith('/sources') ? 'page' : undefined}
+          >
+            출처
+          </a>
+          <a
+            href="/about/"
+            aria-current={path.startsWith('/about') ? 'page' : undefined}
+          >
+            소개
+          </a>
+        </nav>
+        <div class="header-actions">
+          <a href="/search/" aria-label="뉴스 검색" class="icon-link">
+            <svg
+              width="21"
+              height="21"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.6"
+              aria-hidden="true"
+            >
+              <circle cx="10.5" cy="10.5" r="6.5" />
+              <path d="m16 16 5 5" />
+            </svg>
+          </a>
+          <a class="saved-link" href="/archive/?saved=1">
+            저장한 뉴스 <span aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </div>
+    </header>
+    <main id="main">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div>
+        <a href="/" class="footer-brand">
+          AI 브리프<span class="dot">.</span>
+        </a>
+        <p>빠르게 변하는 AI, 차분하게 읽는 맥락.</p>
+      </div>
+      <div class="footer-links">
+        <a href="/about/">편집 원칙</a>
+        <a href="/sources/">수집 출처</a>
+        <a href="/rss.xml">RSS ↗</a>
+        <span>원문의 권리는 각 출처에 있습니다.</span>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+---
+import { sourceMap, roleNames, dateLabel, type Article } from '../lib/data';
+interface Props {
+  article: Article;
+  saveable?: boolean;
+}
+const { article: a, saveable = false } = Astro.props;
+const source = sourceMap.get(a.sources[0].source_id)!;
+---
+
+<article
+  class="news-card"
+  data-card
+  data-id={a.id}
+  data-category={a.category}
+  data-region={a.region}
+  data-summary={a.status}
+  data-search={`${a.title} ${a.original_title} ${a.summary || a.excerpt} ${a.sources.map((s) => sourceMap.get(s.source_id)?.name).join(' ')}`.toLocaleLowerCase()}
+>
+  <div class="card-top">
+    <span class="category">{a.category}</span>
+    {saveable && (
+      <button
+        class="bookmark"
+        type="button"
+        data-bookmark={a.id}
+        aria-label={`${a.title} 저장`}
+        aria-pressed="false"
+      >
+        <svg
+          width="18"
+          height="20"
+          viewBox="0 0 20 22"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.5"
+          aria-hidden="true"
+        >
+          <path d="M5 3h10v16l-5-3-5 3z" />
+        </svg>
+      </button>
+    )}
+  </div>
+  <h3>
+    <a href={`/news/${a.id}/`}>{a.title}</a>
+  </h3>
+  <p class="card-description">
+    {a.summary || a.excerpt || '원문에서 자세한 내용을 확인하세요.'}
+  </p>
+  <div class="card-footer">
+    <span class:list={['source-dot', source.role]} aria-hidden="true"></span>
+    <span>{source.name}</span>
+    <span class="card-date">{dateLabel(a.published_at)}</span>
+  </div>
+  <div class="card-tags">
+    <span>{roleNames[source.role] || source.role}</span>
+    <span>{a.region === 'kr' ? '국내' : '해외'}</span>
+    {a.status === 'summarized' ? (
+      <span class="ai-tag">AI 요약</span>
+    ) : (
+      <span>원문 링크</span>
+    )}
+    {a.sources.length > 1 && <span>출처 {a.sources.length}</span>}
+  </div>
+</article>

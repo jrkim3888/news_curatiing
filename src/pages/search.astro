@@ -1,0 +1,100 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="뉴스 검색" noindex>
+  <div class="container page-content search-page">
+    <div class="page-intro">
+      <span class="eyebrow">FIND YOUR CONTEXT</span>
+      <h1>
+        궁금한 AI를 찾아보세요<span class="dot">.</span>
+      </h1>
+      <p>기사 제목·요약·출처를 함께 검색합니다.</p>
+    </div>
+    <form id="search-form" role="search">
+      <label class="sr-only" for="global-search">
+        검색어
+      </label>
+      <input
+        id="global-search"
+        name="q"
+        type="search"
+        placeholder="예: 클로드, OpenAI, 에이전트"
+        autocomplete="off"
+      />
+      <button class="button" type="submit">
+        검색 ↗
+      </button>
+    </form>
+    <p id="search-status" aria-live="polite">
+      검색어를 입력하세요.
+    </p>
+    <ol id="search-results" class="search-results"></ol>
+    <noscript>
+      <p>
+        검색에는 JavaScript가 필요합니다.{' '}
+        <a href="/archive/">아카이브에서 기사를 살펴보세요.</a>
+      </p>
+    </noscript>
+  </div>
+</Layout>
+<script>
+  const form = document.querySelector<HTMLFormElement>('#search-form')!;
+  const input = document.querySelector<HTMLInputElement>('#global-search')!;
+  const status = document.querySelector('#search-status')!;
+  const results = document.querySelector('#search-results')!;
+  let version = 0;
+  async function search() {
+    const current = ++version;
+    results.replaceChildren();
+    const q = input.value.trim();
+    if (!q) {
+      status.textContent = '검색어를 입력하세요.';
+      return;
+    }
+    status.textContent = '검색 중…';
+    history.replaceState(null, '', `?q=${encodeURIComponent(q)}`);
+    try {
+      const path = '/pagefind/pagefind.js';
+      const pagefind = await import(/* @vite-ignore */ path);
+      const response = await pagefind.search(q);
+      const records = await Promise.all(
+        response.results.slice(0, 30).map(
+          (r: {
+            data: () => Promise<{
+              url: string;
+              meta: { title: string };
+              excerpt: string;
+            }>;
+          }) => r.data(),
+        ),
+      );
+      if (current !== version) return;
+      status.textContent = response.results.length
+        ? `${response.results.length}개 검색 결과${response.results.length > 30 ? ' · 처음 30개 표시' : ''}`
+        : '검색 결과가 없습니다. 다른 키워드를 입력해보세요.';
+      for (const r of records) {
+        const li = document.createElement('li'),
+          a = document.createElement('a'),
+          p = document.createElement('p');
+        a.href = r.url;
+        a.textContent = r.meta.title;
+        // Search excerpts can contain highlights. Render as text, never arbitrary HTML.
+        const doc = new DOMParser().parseFromString(r.excerpt, 'text/html');
+        p.textContent = doc.body.textContent;
+        li.append(a, p);
+        results.append(li);
+      }
+    } catch {
+      if (current === version)
+        status.textContent =
+          '검색 인덱스를 불러올 수 없습니다. 아카이브를 이용하거나 잠시 뒤 다시 시도하세요.';
+    }
+  }
+  form.addEventListener('submit', (event) => {
+    event.preventDefault();
+    void search();
+  });
+  input.value = new URLSearchParams(location.search).get('q') || '';
+  if (input.value) void search();
+</script>

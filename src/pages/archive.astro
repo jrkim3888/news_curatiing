@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Feed from '../components/Feed.astro';
+import { articles } from '../lib/data';
+---
+
+<Layout title="아카이브">
+  <div class="container page-content">
+    <div class="page-intro">
+      <span class="eyebrow">EVERY SIGNAL, IN ONE PLACE</span>
+      <h1>
+        뉴스 아카이브<span class="dot">.</span>
+      </h1>
+      <p>
+        지나간 소식을 찾아보고, 다시 읽을 뉴스를 저장하세요.
+        <br />
+        저장한 뉴스는 이 브라우저에만 보관됩니다.
+      </p>
+    </div>
+    <Feed articles={articles} archive />
+  </div>
+</Layout>

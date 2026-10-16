@@ -1,0 +1,152 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import NewsCard from '../../components/NewsCard.astro';
+import { articles, sourceMap, roleNames, dateLabel } from '../../lib/data';
+export function getStaticPaths() {
+  return articles.map((a) => ({ params: { id: a.id }, props: { article: a } }));
+}
+const { article: a } = Astro.props;
+const source = sourceMap.get(a.sources[0].source_id)!;
+const related = articles
+  .filter((other) => other.id !== a.id && other.category === a.category)
+  .slice(0, 3);
+const description =
+  a.summary ||
+  a.excerpt ||
+  `${source.name}의 원문에서 자세한 내용을 확인하세요.`;
+const structured = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: a.title,
+  description,
+  datePublished: a.collected_at,
+  dateModified: a.summary_meta?.generated_at || a.collected_at,
+  inLanguage: a.status === 'summarized' || a.region === 'kr' ? 'ko' : 'en',
+  publisher: { '@type': 'Organization', name: 'AI 브리프' },
+  citation: a.sources.map((s) => s.url),
+  mainEntityOfPage: new URL(`/news/${a.id}/`, Astro.site).href,
+};
+---
+
+<Layout title={a.title} description={description} article>
+  <div class="container article-container">
+    <a class="back-link" href="/">
+      ← 브리핑으로 돌아가기
+    </a>
+    <article class="article-body" data-pagefind-body>
+      <div class="article-kicker">
+        <span class="category" data-pagefind-filter="category">
+          {a.category}
+        </span>
+        <span>{roleNames[source.role]}</span>
+        <span>{a.region === 'kr' ? '국내' : '해외'}</span>
+      </div>
+      <h1 data-pagefind-meta="title">{a.title}</h1>
+      <div class="article-byline">
+        <strong>{source.name}</strong>
+        <span>
+          원문 게시{' '}
+          {dateLabel(a.published_at, a.published_precision === 'time')}{' '}
+          {a.published_precision === 'time' ? 'KST' : '(날짜만 제공)'}
+        </span>
+      </div>
+      {a.status === 'summarized' ? (
+        <>
+          <section class="summary-block">
+            <span class="eyebrow">THE BRIEF · AI 요약</span>
+            <h2>핵심 내용</h2>
+            <p data-pagefind-meta="description">{a.summary}</p>
+          </section>
+          <section class="why-block">
+            <span class="eyebrow">WHY IT MATTERS · AI 해석</span>
+            <h2>주목할 이유</h2>
+            <p>{a.why_it_matters}</p>
+          </section>
+          <p class="disclosure">
+            이 요약과 해석은 AI가 작성했습니다. 근거 구절의 원문 포함 여부를
+            자동 검사했으며, 사실 전체의 정확성을 보장하는 것은 아닙니다. 중요한
+            내용은 아래 원문을 확인하세요.
+          </p>
+        </>
+      ) : (
+        <section class="summary-block">
+          <span class="eyebrow">FROM THE SOURCE</span>
+          <h2>원문 미리보기</h2>
+          {a.excerpt ? (
+            <p data-pagefind-meta="description">{a.excerpt}</p>
+          ) : (
+            <p>
+              이 기사는 원문 링크로 제공됩니다. 아래 링크에서 전체 내용을 읽을
+              수 있습니다.
+            </p>
+          )}
+          <p class="disclosure">
+            피드에서 제공한 원문 일부입니다. 이 기사에는 AI 요약이 제공되지
+            않습니다.
+          </p>
+        </section>
+      )}
+      {a.correction && (
+        <aside class="correction">
+          <h2>정정·편집 메모</h2>
+          <p>{a.correction}</p>
+        </aside>
+      )}
+      <section class="article-sources">
+        <span class="eyebrow">GO TO THE SOURCE</span>
+        <h2>출처에서 더 읽기</h2>
+        {a.sources.map((ref) => (
+          <div class="source-reference">
+            <div>
+              <span>
+                {roleNames[sourceMap.get(ref.source_id)?.role || 'media']} ·{' '}
+                {sourceMap.get(ref.source_id)?.name}
+              </span>
+              <a href={ref.url} target="_blank" rel="noopener noreferrer">
+                {ref.title} ↗
+              </a>
+              {ref.discussion_url && (
+                <a
+                  class="discussion-link"
+                  href={ref.discussion_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  커뮤니티 토론 보기 ↗
+                </a>
+              )}
+            </div>
+          </div>
+        ))}
+      </section>
+      <div class="article-fineprint">
+        수집 {dateLabel(a.collected_at, true)} KST
+        {a.summary_meta && (
+          <>
+            {' '}
+            · 요약 {dateLabel(a.summary_meta.generated_at, true)} KST
+            <br />
+            모델: {a.summary_meta.model} · {a.summary_meta.prompt_version}
+          </>
+        )}
+      </div>
+    </article>
+    {related.length > 0 && (
+      <section class="related">
+        <div class="section-heading">
+          <h2>같은 주제, 다른 소식</h2>
+          <a href="/archive/">전체 보기 ↗</a>
+        </div>
+        <div class="news-grid">
+          {related.map((article) => (
+            <NewsCard article={article} />
+          ))}
+        </div>
+      </section>
+    )}
+  </div>
+  <script
+    type="application/ld+json"
+    set:html={JSON.stringify(structured).replace(/</g, '\\u003c')}
+  />
+</Layout>

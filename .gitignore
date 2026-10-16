@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.astro/
+.venv/
+.cache/
+.runtime/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+data/*.tmp
+data/*.bak
+test-results/
+playwright-report/
