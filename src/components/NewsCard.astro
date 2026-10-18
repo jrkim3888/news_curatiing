@@ -1,5 +1,6 @@
 ---
 import { sourceMap, roleNames, dateLabel, type Article } from '../lib/data';
+import { kstDay } from '../lib/dates';
 interface Props {
   article: Article;
   saveable?: boolean;
@@ -15,6 +16,8 @@ const source = sourceMap.get(a.sources[0].source_id)!;
   data-category={a.category}
   data-region={a.region}
   data-summary={a.status}
+  data-date={kstDay(new Date(a.published_at))}
+  data-sources={a.sources.map((s) => s.source_id).join(' ')}
   data-search={`${a.title} ${a.original_title} ${a.summary || a.excerpt} ${a.sources.map((s) => sourceMap.get(s.source_id)?.name).join(' ')}`.toLocaleLowerCase()}
 >
   <div class="card-top">
@@ -50,7 +53,9 @@ const source = sourceMap.get(a.sources[0].source_id)!;
   <div class="card-footer">
     <span class:list={['source-dot', source.role]} aria-hidden="true"></span>
     <span>{source.name}</span>
-    <span class="card-date">{dateLabel(a.published_at)}</span>
+    <time class="card-date" datetime={a.published_at}>
+      {dateLabel(a.published_at)}
+    </time>
   </div>
   <div class="card-tags">
     <span>{roleNames[source.role] || source.role}</span>

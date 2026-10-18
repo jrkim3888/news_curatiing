@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import { kstDay, todayLabel } from '../lib/dates';
 interface Props {
   title?: string;
   description?: string;
@@ -88,6 +89,12 @@ const fullTitle = title
           </a>
         </nav>
         <div class="header-actions">
+          <div class="header-date">
+            <span>오늘 · KST</span>
+            <time data-today datetime={kstDay()}>
+              {todayLabel()}
+            </time>
+          </div>
           <a href="/search/" aria-label="뉴스 검색" class="icon-link">
             <svg
               width="21"
@@ -128,3 +135,21 @@ const fullTitle = title
     </footer>
   </body>
 </html>
+<script>
+  import { kstDay, todayLabel } from '../lib/dates';
+  let lastDay = '';
+  const updateDate = () => {
+    const now = new Date();
+    const day = kstDay(now);
+    if (day === lastDay) return;
+    document.querySelectorAll<HTMLTimeElement>('[data-today]').forEach((el) => {
+      el.dateTime = day;
+      el.textContent = todayLabel(now);
+    });
+    lastDay = day;
+    document.dispatchEvent(new Event('site:datechange'));
+  };
+  updateDate();
+  window.setInterval(updateDate, 60000);
+  document.addEventListener('visibilitychange', updateDate);
+</script>

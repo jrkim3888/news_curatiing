@@ -3,16 +3,18 @@ import { dayLabel, dayUrl, representative, timeLabel } from '../lib/briefings';
 interface Props {
   days: string[];
   filterable?: boolean;
+  cards?: boolean;
 }
-const { days, filterable = false } = Astro.props;
+const { days, filterable = false, cards = false } = Astro.props;
 ---
 
-<ol class="brief-history-list">
+<ol class:list={['brief-history-list', { 'brief-week-grid': cards }]}>
   {days.map((day) => {
     const e = representative(day);
     return (
       <li
         class="brief-day-card"
+        data-week-day={cards ? day : undefined}
         data-history-day={filterable ? day : undefined}
         data-history-text={
           filterable

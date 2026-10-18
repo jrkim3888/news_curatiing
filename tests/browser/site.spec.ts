@@ -58,9 +58,9 @@ test('filters, empty state, saved articles and persistence', async ({
 }) => {
   const errors: string[] = [];
   page.on('pageerror', (e) => errors.push(e.message));
-  await page.goto('/');
+  await page.goto('/archive/');
   await expect(page.getByRole('heading', { level: 1 })).toContainText(
-    '오늘의 AI',
+    '뉴스 아카이브',
   );
   await expect(page.locator('[data-card]:visible')).toHaveCount(18);
   await page.locator('[data-card]:visible [data-bookmark]').first().click();
@@ -70,6 +70,7 @@ test('filters, empty state, saved articles and persistence', async ({
   );
   await page.goto('/archive/?saved=1');
   await expect(page.locator('[data-card]:visible')).toHaveCount(1);
+  await page.locator('[data-saved-filter]').uncheck();
   await page.locator('[data-summary-filter]').selectOption('all');
   await page.locator('[data-region-filter]').selectOption('kr');
   expect(await page.locator('[data-card]:visible').count()).toBeGreaterThan(0);
@@ -138,7 +139,7 @@ test('articles render without JavaScript and public feeds are available', async 
     baseURL: 'http://127.0.0.1:4322',
   });
   const page = await context.newPage();
-  await page.goto('/');
+  await page.goto('/archive/');
   await page.locator('.news-card h3 a').first().click();
   await expect(page.locator('h1')).not.toBeEmpty();
   await expect(page.locator('.article-sources a').first()).toHaveAttribute(

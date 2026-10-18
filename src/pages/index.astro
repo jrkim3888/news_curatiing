@@ -1,10 +1,13 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import Feed from '../components/Feed.astro';
 import Briefing from '../components/Briefing.astro';
 import BriefingDays from '../components/BriefingDays.astro';
-import { articles, data, dateLabel } from '../lib/data';
 import { latestEdition, visibleDays, dayLabel } from '../lib/briefings';
+import { recentWeek, weekLabel } from '../lib/dates';
+const week = recentWeek();
+const weekDays = visibleDays.filter(
+  (day) => day >= week.start && day <= week.end,
+);
 ---
 
 <Layout>
@@ -51,10 +54,10 @@ import { latestEdition, visibleDays, dayLabel } from '../lib/briefings';
         <p>
           종합 브리핑이 생성되면 주요 이슈와 근거 기사를 이곳에 보여드립니다.
           <br />
-          지금은 아래에서 수집한 뉴스를 살펴볼 수 있습니다.
+          지금은 뉴스 아카이브에서 수집한 뉴스를 살펴볼 수 있습니다.
         </p>
-        <a class="text-link" href="#news-feed">
-          수집한 뉴스 읽기 ↓
+        <a class="text-link" href="/archive/">
+          수집한 뉴스 읽기 ↗
         </a>
       </section>
     )}
@@ -63,37 +66,24 @@ import { latestEdition, visibleDays, dayLabel } from '../lib/briefings';
         <div>
           <span class="eyebrow">PREVIOUSLY IN AI</span>
           <h2>날짜로 돌아보는 AI</h2>
+          <p class="brief-history-note" data-week-range>
+            {weekLabel(week)}
+          </p>
         </div>
         <a href="/briefings/" class="text-link">
           히스토리 전체 보기 ↗
         </a>
       </div>
-      {visibleDays.length ? (
-        <BriefingDays days={visibleDays.slice(0, 3)} />
-      ) : (
-        <p class="brief-history-note">
-          저장된 브리핑은 날짜별로 쌓입니다. 첫 기록부터 이곳에서 다시 읽을 수
-          있습니다.
-        </p>
-      )}
-    </section>
-    <div id="news-feed">
-      <Feed articles={articles.slice(0, 120)} />
-    </div>
-    <p class="brief-history-note">
-      기사 데이터 갱신{' '}
-      {data.updated_at
-        ? `${dateLabel(data.updated_at, true)} KST`
-        : '수집 대기'}{' '}
-      · 기사 목록은 하루 한 번 발행하는 브리핑보다 먼저 갱신될 수 있습니다.
-    </p>
-    {articles.length > 120 && (
-      <p class="archive-link">
-        <a class="text-link" href="/archive/">
-          이전 뉴스까지 모두 보기 ↗
-        </a>
+      <BriefingDays days={weekDays} cards />
+      <p
+        class="brief-history-note"
+        data-week-empty
+        hidden={weekDays.length > 0}
+      >
+        최근 7일에 발행된 브리핑이 없습니다. 지난 기록은 히스토리에서
+        읽어보세요.
       </p>
-    )}
+    </section>
     <aside class="editorial-banner">
       <span class="banner-mark" aria-hidden="true">
         ↗
@@ -114,8 +104,26 @@ import { latestEdition, visibleDays, dayLabel } from '../lib/briefings';
   </div>
 </Layout>
 <script>
+  import { recentWeek, weekLabel } from '../lib/dates';
   const notice = document.querySelector<HTMLElement>('[data-briefing-asof]');
   if (notice)
     notice.hidden =
       Date.now() - Date.parse(notice.dataset.briefingAsof!) < 86400000;
+  const updateWeek = () => {
+    const range = recentWeek();
+    document.querySelector('[data-week-range]')!.textContent = weekLabel(range);
+    let count = 0;
+    document
+      .querySelectorAll<HTMLElement>('[data-week-day]')
+      .forEach((card) => {
+        card.hidden =
+          card.dataset.weekDay! < range.start ||
+          card.dataset.weekDay! > range.end;
+        if (!card.hidden) count++;
+      });
+    document.querySelector<HTMLElement>('[data-week-empty]')!.hidden =
+      count > 0;
+  };
+  updateWeek();
+  document.addEventListener('site:datechange', updateWeek);
 </script>

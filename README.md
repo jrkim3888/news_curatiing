@@ -19,7 +19,9 @@ GitHub main → Cloudflare Pages 빌드 → 정적 HTML·검색·RSS
 - 당시 요약·출처 보존, 같은 날짜 중복 생성 방지, 실패 시 이전 브리핑 유지
 - 전날 06:00 이상~당일 06:00 미만의 기사 대상. 발행 예정 06:30과 실제 생성 시각을 구분
 
-- 반응형 홈, 기사 상세, 전체 아카이브, 카테고리·국내외 필터, 검색, 브라우저 북마크
+- 상단의 오늘 날짜(KST), 최신 브리핑과 최근 7일 브리핑 카드로 구성한 홈
+- 뉴스 아카이브의 카테고리 탭, 키워드·발행일 범위·출처·국내외·AI 요약·북마크 복합 필터
+- 카드/리스트 보기 전환, 브라우저 북마크와 보기 방식 저장, URL로 검색 조건 유지
 - 한국어·영문 정적 전체 검색(Pagefind), RSS, 사이트맵, canonical·OG·구조화 메타데이터
 - 검증한 14개 출처: RSS/Atom 12개, Hacker News 공식 API, Anthropic 공식 HTML
 - 한국 시간 보정, 미래/오래된 기사 제외, 혼합 매체 AI 필터, URL/동일 제목 중복 제거
@@ -70,7 +72,7 @@ npx playwright install chromium
 npm run test:browser
 ```
 
-이미 Chromium이 있으면 `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:browser`. 검색 인덱스는 `npm run build`에서 생성하므로 검색 검증은 dev 대신 preview를 사용합니다. 한국어 검색은 지원하지만 어간 분석은 지원하지 않습니다. 홈 목록 검색은 부분 문자열 검색입니다.
+이미 Chromium이 있으면 `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:browser`. 검색 인덱스는 `npm run build`에서 생성하므로 검색 검증은 dev 대신 preview를 사용합니다. 한국어 검색은 지원하지만 어간 분석은 지원하지 않습니다. 아카이브 목록 내 검색은 키워드별 부분 문자열 검색입니다.
 
 권한이 제한된 Codex 환경에서는 `NPM_CONFIG_CACHE=/tmp/ai-brief-npm-cache`, `ASTRO_TELEMETRY_DISABLED=1` 환경 변수를 사용합니다. 테스트용 서버는 운영 서버가 아닙니다.
 

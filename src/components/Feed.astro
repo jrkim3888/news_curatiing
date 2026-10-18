@@ -1,23 +1,27 @@
 ---
 import NewsCard from './NewsCard.astro';
-import { categories, type Article } from '../lib/data';
+import { categories, sourceMap, type Article } from '../lib/data';
 interface Props {
   articles: Article[];
   archive?: boolean;
 }
 const { articles, archive = false } = Astro.props;
+const availableSources = [
+  ...new Set(articles.flatMap((a) => a.sources.map((s) => s.source_id))),
+]
+  .map((id) => sourceMap.get(id)!)
+  .sort((a, b) => a.name.localeCompare(b.name, 'ko'));
 ---
 
-<section class="feed-section" data-feed>
-  <div class="section-heading">
-    <div>
-      <span class="eyebrow">{archive ? 'THE ARCHIVE' : 'THE FEED'}</span>
-      <h2>{archive ? '모아둔 AI의 흐름' : '지금, AI에서 일어나는 일'}</h2>
+<section class="feed-section" data-feed aria-label="뉴스 목록">
+  {!archive && (
+    <div class="section-heading">
+      <div>
+        <span class="eyebrow">THE FEED</span>
+        <h2>지금, AI에서 일어나는 일</h2>
+      </div>
     </div>
-    <span class="article-count">
-      <strong data-result-count>{articles.length}</strong>개의 뉴스
-    </span>
-  </div>
+  )}
   <form class="feed-tools" role="search" onsubmit="return false">
     <div class="tabs" role="group" aria-label="카테고리 필터">
       <button type="button" data-category-filter="all" aria-pressed="true">
@@ -50,27 +54,97 @@ const { articles, archive = false } = Astro.props;
           placeholder="키워드로 뉴스 찾기"
         />
       </label>
-      <div class="filter-selects">
-        <label>
-          <span class="sr-only">지역</span>
-          <select data-region-filter>
-            <option value="all">국내 + 해외</option>
-            <option value="kr">국내</option>
-            <option value="global">해외</option>
-          </select>
-        </label>
-        <label>
-          <span class="sr-only">요약 여부</span>
-          <select data-summary-filter>
-            <option value="all">모든 뉴스</option>
-            <option value="summarized">AI 요약만</option>
-            <option value="saved">저장한 뉴스</option>
-          </select>
-        </label>
+      <div class="view-switch" role="group" aria-label="뉴스 보기 방식">
+        <button type="button" data-view="card" aria-pressed="true">
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 16 16"
+            fill="none"
+            stroke="currentColor"
+            aria-hidden="true"
+          >
+            <path d="M1 1h5v5H1zM10 1h5v5h-5zM1 10h5v5H1zM10 10h5v5h-5z" />
+          </svg>
+          카드
+        </button>
+        <button type="button" data-view="list" aria-pressed="false">
+          <svg
+            width="16"
+            height="16"
+            viewBox="0 0 16 16"
+            fill="none"
+            stroke="currentColor"
+            aria-hidden="true"
+          >
+            <path d="M1 3h2m3 0h9M1 8h2m3 0h9M1 13h2m3 0h9" />
+          </svg>
+          리스트
+        </button>
       </div>
     </div>
+    <div class="archive-filters">
+      <fieldset class="date-filter">
+        <legend>기사 발행일 · KST</legend>
+        <div>
+          <input
+            type="date"
+            data-date-from
+            aria-label="시작일"
+            aria-describedby="date-filter-error"
+          />
+          <span aria-hidden="true">—</span>
+          <input
+            type="date"
+            data-date-to
+            aria-label="종료일"
+            aria-describedby="date-filter-error"
+          />
+        </div>
+      </fieldset>
+      <label>
+        <span>출처</span>
+        <select data-source-filter>
+          <option value="all">모든 출처</option>
+          {availableSources.map((source) => (
+            <option value={source.id}>{source.name}</option>
+          ))}
+        </select>
+      </label>
+      <label>
+        <span>지역</span>
+        <select data-region-filter>
+          <option value="all">국내 + 해외</option>
+          <option value="kr">국내</option>
+          <option value="global">해외</option>
+        </select>
+      </label>
+      <label>
+        <span>요약 여부</span>
+        <select data-summary-filter>
+          <option value="all">모든 뉴스</option>
+          <option value="summarized">AI 요약만</option>
+        </select>
+      </label>
+      <label class="saved-filter">
+        <input type="checkbox" data-saved-filter />
+        <span>북마크만</span>
+      </label>
+    </div>
+    <p class="filter-error" id="date-filter-error" role="status" hidden>
+      종료일을 시작일과 같거나 이후로 선택해 주세요.
+    </p>
+    <div class="feed-results">
+      <span class="article-count">
+        <strong data-result-count>{articles.length}</strong>개의 뉴스{' '}
+        <span class="result-order">· 최신순</span>
+      </span>
+      <button class="text-link" type="button" data-reset>
+        필터 초기화 ↺
+      </button>
+    </div>
   </form>
-  <div class="news-grid">
+  <div class="news-grid" data-results data-view="card">
     {articles.map((a) => (
       <NewsCard article={a} saveable />
     ))}
@@ -79,7 +153,7 @@ const { articles, archive = false } = Astro.props;
     <span>↗</span>
     <h3>조건에 맞는 뉴스가 없습니다.</h3>
     <p>
-      검색어나 필터를 바꿔보세요. 뉴스 카드의 저장 버튼으로 기사를 모아둘 수
+      검색어나 필터를 바꿔보세요. 기사 옆 저장 버튼으로 기사를 모아둘 수
       있습니다.
     </p>
     <button class="button" type="button" data-reset>

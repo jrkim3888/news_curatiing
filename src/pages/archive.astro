@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Feed from '../components/Feed.astro';
-import { articles } from '../lib/data';
+import { articles, data, dateLabel } from '../lib/data';
 ---
 
 <Layout title="아카이브">
@@ -21,5 +21,11 @@ import { articles } from '../lib/data';
       </a>
     </div>
     <Feed articles={articles} archive />
+    <p class="brief-history-note">
+      기사 데이터 갱신 ·{' '}
+      {data.updated_at
+        ? `${dateLabel(data.updated_at, true)} KST`
+        : '수집 대기'}
+    </p>
   </div>
 </Layout>
