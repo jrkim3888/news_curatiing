@@ -32,13 +32,16 @@ class CronPublishTests(unittest.TestCase):
         (self.repo / 'requirements.txt').write_text('')
         (self.repo / '.runtime/requirements.sha256').write_text(hashlib.sha256(b'').hexdigest())
         (self.repo / 'data/news.json').write_text('{"value": 1}\n')
+        (self.repo / 'data/briefings.json').write_text('{"editions": []}\n')
         (self.repo / 'collector/__main__.py').write_text('''import json,os,sys
 from pathlib import Path
 p=Path('data/news.json')
 if len(sys.argv)>1 and sys.argv[1]=='validate':
  json.loads(p.read_text())
+ json.loads(Path('data/briefings.json').read_text())
 else:
  p.write_text('{"value": 2}\\n')
+ Path('data/briefings.json').write_text('{"editions": ["new"]}\\n')
  if os.environ.get('SIMULATE_FAILURE'): raise SystemExit(1)
 ''')
         self.git('add', '.')
@@ -57,6 +60,7 @@ else:
         self.assertEqual(first.returncode, 0, first.stdout + first.stderr)
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '2')
         self.assertEqual(self.git('rev-parse', 'HEAD'), self.git('rev-parse', 'origin/main'))
+        self.assertEqual(set(self.git('diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD').splitlines()), {'data/news.json', 'data/briefings.json'})
         second = self.run_job()
         self.assertEqual(second.returncode, 0, second.stderr)
         self.assertIn('No content changes', second.stdout)
@@ -64,9 +68,11 @@ else:
 
     def test_failed_collection_restores_data_and_index(self):
         before = (self.repo / 'data/news.json').read_bytes()
+        before_history = (self.repo / 'data/briefings.json').read_bytes()
         result = self.run_job(SIMULATE_FAILURE='1')
         self.assertNotEqual(result.returncode, 0)
         self.assertEqual((self.repo / 'data/news.json').read_bytes(), before)
+        self.assertEqual((self.repo / 'data/briefings.json').read_bytes(), before_history)
         self.assertEqual(self.git('status', '--porcelain'), '')
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
 

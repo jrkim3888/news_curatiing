@@ -1,6 +1,7 @@
-# Install with `crontab -e` as the news user's crontab (not /etc/crontab).
-# Assumes the VM system timezone is UTC. 00:17, 06:17, 12:17, 18:17 UTC.
-# In Korea: 09:17, 15:17, 21:17, 03:17. Cron timing is relative to the VM timezone.
+# Install with crontab -e as the unprivileged news user. VM timezone: UTC.
+# Collection: KST 00:00, 06:00, 12:00, 18:00. Daily briefing: KST 06:30.
+# Shared flock serializes both jobs. A delayed daily job recovers a missing morning collection.
 SHELL=/bin/bash
 PATH=/usr/local/bin:/usr/bin:/bin
-17 */6 * * * cd /opt/ai-brief && /usr/bin/timeout --signal=TERM --kill-after=30s 50m /bin/bash ops/run-collector.sh >> /opt/ai-brief/.runtime/cron.log 2>&1
+0 3,9,15,21 * * * cd /opt/ai-brief && NEWS_MODE=collect /usr/bin/timeout --signal=TERM --kill-after=30s 50m /bin/bash ops/run-collector.sh >> /opt/ai-brief/.runtime/cron.log 2>&1
+30 21 * * * cd /opt/ai-brief && NEWS_MODE=brief /usr/bin/timeout --signal=TERM --kill-after=30s 50m /bin/bash ops/run-collector.sh >> /opt/ai-brief/.runtime/cron.log 2>&1

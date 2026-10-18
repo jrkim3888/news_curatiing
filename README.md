@@ -1,17 +1,23 @@
 # AI 브리프
 
-국내외 AI 뉴스를 원문과 함께 읽는 한국어 큐레이션 사이트. **GitHub Actions가 6시간마다 Python 수집기를 실행하고, Cloudflare Pages가 정적 프런트를 제공합니다.** 상시 서버, Docker, Workers, DB는 필요하지 않습니다.
+국내외 AI 뉴스를 원문과 함께 읽는 한국어 큐레이션 사이트. **GitHub Actions가 6시간마다 뉴스를 수집하고, 매일 오전 6:30(KST)에 일일 브리핑을 만듭니다. Cloudflare Pages가 정적 프런트를 제공합니다.** 상시 서버, Docker, Workers, DB는 필요하지 않습니다.
 
 ```text
-GitHub Actions (6시간마다 예약 실행)
-  Python 수집 → 필터·중복 제거 → OpenRouter 요약 → JSON 검증
-  → 변경된 data/news.json만 한 번 commit / push
+GitHub Actions
+  KST 00/06/12/18시: Python 수집 → 필터·중복 제거 (LLM 호출 없음)
+  KST 06:30: 전날 06:00~당일 06:00 자료 → OpenRouter 일일 브리핑 1회
+  각 작업: JSON 검증 → 변경된 뉴스·브리핑 JSON을 한 번 commit / push
 GitHub main → Cloudflare Pages 빌드 → 정적 HTML·검색·RSS
 ```
 
 **배포 순서는 [docs/deployment.md](docs/deployment.md)를 보세요.** 키와 변수를 등록하고 수동 실행을 확인한 다음 `COLLECTION_ENABLED=true`로 예약을 켭니다. Codex 클라우드는 개발과 수동 테스트용이며 운영 스케줄러가 아닙니다. 상시 VM에서 직접 돌릴 경우 [Oracle + cron 대안](docs/deployment-oracle.md)도 사용할 수 있습니다. 두 실행기를 동시에 켜지 않습니다.
 
 ## 구현된 기능
+
+- 고정된 24시간의 자료를 사건별로 묶는 AI 일일 브리핑, 사실별 근거 링크와 별도 AI 해석
+- 날짜별 히스토리(`/briefings/`), 월·키워드 필터, 하루 한 편의 고유 주소(`/briefings/YYYY-MM-DD/`)
+- 당시 요약·출처 보존, 같은 날짜 중복 생성 방지, 실패 시 이전 브리핑 유지
+- 전날 06:00 이상~당일 06:00 미만의 기사 대상. 발행 예정 06:30과 실제 생성 시각을 구분
 
 - 반응형 홈, 기사 상세, 전체 아카이브, 카테고리·국내외 필터, 검색, 브라우저 북마크
 - 한국어·영문 정적 전체 검색(Pagefind), RSS, 사이트맵, canonical·OG·구조화 메타데이터
@@ -44,11 +50,13 @@ npm run dev
 .venv/bin/python -m collector --no-llm --days 14
 # 원본은 보존하고 수집만 검사. LLM도 호출하지 않음.
 .venv/bin/python -m collector --dry-run
-# .env에 OpenRouter 설정이 있을 때 실제 요약 포함
-.venv/bin/python -m collector
+# .env에 OpenRouter 설정이 있을 때 일일 브리핑 생성 (같은 날짜는 건너뜀)
+.venv/bin/python -m collector brief
+# 필요할 때만 개별 기사 요약도 생성하는 수동 옵션
+.venv/bin/python -m collector collect --summarize-articles
 ```
 
-수동 수집은 `data/news.json`을 변경할 수 있지만 Git 커밋·push를 하지 않습니다. **운영용 `ops/run-collector.sh`만 커밋·push합니다.** 개발 머신에 운영 cron을 설치하지 마세요.
+수동 수집은 `data/news.json`과 `data/briefings.json`을 변경할 수 있지만 Git 커밋·push를 하지 않습니다. **운영용 `ops/run-collector.sh`만 커밋·push합니다.** 개발 머신에 운영 cron을 설치하지 마세요.
 
 ```bash
 .venv/bin/python -m unittest discover -s tests -v
@@ -73,9 +81,10 @@ npm run test:browser
 | `config/sources.json` | 실제 수집하는 출처·어댑터·필터·본문/요약 정책 |
 | `config/editorial.json` | `hidden_ids`로 숨김, `corrections`의 기사 ID에 정정 메모 |
 | `data/news.json` | 공개하는 메타데이터·짧은 발췌·요약. 전문과 키 없음 |
+| `data/briefings.json` | 날짜별 일일 브리핑 스냅샷과 근거 링크. 전문·근거 원문 인용은 저장하지 않음 |
 | `.runtime/last-run.json` | 마지막 수집 결과. Git 제외, Actions 아티팩트 또는 VM에 보존 |
 | `.runtime/summary-attempts.json` | 유료 요청 대기 상태. Actions 캐시 또는 VM에 보존. 캐시는 삭제될 수 있음 |
-| `.github/workflows/collect.yml` | 6시간 예약 및 수동 수집, 기본 `GITHUB_TOKEN`으로 게시 |
+| `.github/workflows/collect.yml` | 6시간 수집·매일 06:30 브리핑 및 수동 실행, 기본 `GITHUB_TOKEN`으로 게시 |
 | `.env` | Oracle 또는 개발 환경의 비밀 설정. Git 제외 |
 | `docs/source-research.json` | 검토한 49개 후보의 연구 기록. 운영 설정과 별개 |
 
@@ -90,10 +99,12 @@ npm run test:browser
 
 ## 현재 범위
 
-- 동일 URL과 72시간 내 충분히 긴 동일 제목만 합칩니다. 다국어 의미 기반 사건 군집화는 아직 하지 않습니다.
+- 기사 데이터는 동일 URL과 72시간 내 충분히 긴 동일 제목만 합칩니다. 브리핑에서는 AI가 관련 사건을 묶지만 장기적으로 같은 이슈를 추적하는 고정 ID는 아직 없습니다.
 - 요약은 처음 성공한 결과를 재사용합니다. 원문 수정 추적·자동 재요약, 로그인, 이메일 발송, 개인화, 주간 AI 편집 보고서는 후속 범위입니다.
 - 본문은 요약 요청에만 사용하며 공개 JSON에는 저장하지 않습니다. TechCrunch와 커뮤니티 소스는 현재 링크 전용입니다. 본문 요청은 허용 호스트·robots·유료 콘텐츠 표시를 확인합니다. 공개 피드가 재배포 권리를 보장하지는 않습니다.
 - HN은 최근 제출 60개, 다른 소스는 피드가 제공하는 항목 안에서 선별합니다. 6시간 사이의 모든 기사를 보장하지 않습니다.
-- 기본 3일 범위 안에서 요약을 재시도합니다. 처음 수집 때 `--no-llm`으로 넣은 오래된 기사까지 소급 요약하려면 `--days 14` 같은 범위를 지정해야 합니다.
+- `MAX_SUMMARIES_PER_RUN`의 기본값은 1입니다. 일반 수집에는 LLM을 호출하지 않으며, 일일 브리핑은 값이 1 이상이어도 최대 1회만 요청합니다. 0이면 생성을 중지합니다. 수동 `--summarize-articles` 옵션의 기사 요약에도 이 상한을 적용합니다. 브리핑 입력은 최대 16건, 본문 발췌는 건당 최대 2,400자이며 출력은 최대 6,144토큰입니다. 모든 수집 기사가 브리핑에 포함되는 것은 아닙니다.
+- 브리핑은 정해진 06:00~06:00 범위만 사용합니다. 06:30 전에 수동 실행하면 직전 발행일을 대상으로 합니다. 아침 수집이 누락되면 먼저 수집을 복구합니다. 수동 기사별 요약은 기본 3일 범위 안에서 재시도합니다. 처음 수집 때 `--no-llm`으로 넣은 오래된 기사까지 소급 요약하려면 `--days 14` 같은 범위를 지정해야 합니다.
+- 브리핑은 실제 생성 시점부터 누적하며 과거 기록을 임의로 만들지 않습니다. 같은 발행일은 자료나 모델이 바뀌어도 덮어쓰지 않습니다. GitHub 예약과 Pages 빌드 지연으로 06:30보다 늦게 게시될 수 있습니다. 3,000일에서 추가 저장을 막는 보호 장치가 있으므로 장기 운영 전 월별 분할이 필요합니다.
 - 기사 5,000개에서 저장을 중단하는 보호 장치가 있습니다. 장기 운영 전 아카이브 분할과 Pages 파일 수·빌드 시간을 확인하세요. 자동 삭제로 기존 링크를 깨뜨리지 않습니다.
 - 외부 접속·실제 유료 LLM·Actions 예약 실행·Pages 배포는 서로 다른 검증 단계입니다. [검증 기록](docs/verification.md)에 실행 여부를 구분했습니다.

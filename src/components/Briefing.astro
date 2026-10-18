@@ -1,0 +1,188 @@
+---
+import {
+  editionUrl,
+  dayLabel,
+  timeLabel,
+  rangeLabel,
+  type Edition,
+} from '../lib/briefings';
+import { roleNames } from '../lib/data';
+interface Props {
+  edition: Edition;
+  compact?: boolean;
+}
+const { edition: e, compact = false } = Astro.props;
+const snapshots = new Map(e.articles.map((a) => [a.id, a]));
+---
+
+<article
+  class="brief-edition"
+  data-pagefind-body={!compact || undefined}
+  data-pagefind-ignore={compact || undefined}
+>
+  {e.status === 'withdrawn' ? (
+    <div class="brief-empty">
+      <h2>비공개 처리된 브리핑입니다.</h2>
+      <p>편집 정책에 따라 이날 브리핑의 내용을 제공하지 않습니다.</p>
+      <a href="/briefings/" class="text-link">
+        다른 브리핑 보기 ↗
+      </a>
+    </div>
+  ) : (
+    <>
+      <div class="brief-overview">
+        <div class="brief-overview-heading">
+          <span class="eyebrow">THE BIG PICTURE · AI 종합</span>
+          <span>
+            {e.issues.length}개 이슈 · 근거 기사 {e.articles.length}건
+          </span>
+        </div>
+        <h2 data-pagefind-meta={!compact ? 'title' : undefined}>
+          {e.headline}
+        </h2>
+        <div class="brief-overview-copy">
+          {e.overview.map((entry) => (
+            <p>
+              {entry.text}{' '}
+              <span class="brief-citations">
+                {entry.issue_ids.map((id) => (
+                  <a
+                    href={`#${id}`}
+                    aria-label={`${e.issues.find((i) => i.id === id)!.title} 이슈로 이동`}
+                  >
+                    [{id.split('-')[1]}]
+                  </a>
+                ))}
+              </span>
+            </p>
+          ))}
+        </div>
+        <p class="brief-window">집계 범위 · {rangeLabel(e)}</p>
+      </div>
+      <div class="brief-issues">
+        {e.issues.map((issue, index) => (
+          <section class="brief-issue" id={issue.id}>
+            <div class="brief-issue-number">
+              {String(index + 1).padStart(2, '0')}
+            </div>
+            <div class="brief-issue-content">
+              <div class="brief-issue-meta">
+                <span>{issue.category}</span>
+                <span>
+                  관련 기사 {issue.article_ids.length}건
+                  {issue.article_ids.length === 1 ? ' · 단일 기사 근거' : ''}
+                </span>
+              </div>
+              <h3>{issue.title}</h3>
+              <div class="brief-facts">
+                {issue.facts.map((fact) => (
+                  <p>
+                    {fact.text}{' '}
+                    <span class="brief-citations">
+                      {fact.article_ids.map((id) => (
+                        <a
+                          href={`#source-${issue.id}-${id}`}
+                          aria-label={`${snapshots.get(id)!.title} 근거 기사`}
+                        >
+                          [{issue.article_ids.indexOf(id) + 1}]
+                        </a>
+                      ))}
+                    </span>
+                  </p>
+                ))}
+              </div>
+              <div class="brief-meaning">
+                <strong>
+                  살펴볼 이유 <small>AI 해석</small>
+                </strong>
+                <p>{issue.why_it_matters}</p>
+              </div>
+              <div class="brief-source-list">
+                <h4>관련 원문에서 더 읽기</h4>
+                {issue.article_ids.map((id, sourceIndex) => {
+                  const article = snapshots.get(id)!;
+                  const primary = article.sources[0];
+                  return (
+                    <div class="brief-source" id={`source-${issue.id}-${id}`}>
+                      <span class="brief-source-caption">
+                        [{sourceIndex + 1}] {primary.name} ·{' '}
+                        {roleNames[primary.role] || primary.role}
+                      </span>
+                      <a
+                        href={primary.url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {article.title} <span aria-hidden="true">↗</span>
+                      </a>
+                      {primary.discussion_url && (
+                        <a
+                          class="discussion-link"
+                          href={primary.discussion_url}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          커뮤니티 토론 ↗
+                        </a>
+                      )}
+                      {article.sources.length > 1 && (
+                        <details>
+                          <summary>
+                            함께 수집한 출처 {article.sources.length - 1}개
+                          </summary>
+                          {article.sources.slice(1).map((ref) => (
+                            <a
+                              href={ref.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              {ref.name} · {ref.title} ↗
+                            </a>
+                          ))}
+                        </details>
+                      )}
+                      {article.correction && (
+                        <p class="brief-correction">
+                          <strong>정정 메모</strong> {article.correction}
+                        </p>
+                      )}
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          </section>
+        ))}
+      </div>
+      <div class="brief-disclosure">
+        <p>
+          수집 자료를 바탕으로 AI가 종합했습니다. 인용 구절의 원문 포함 여부를
+          검사하지만, 사실 전체의 정확성을 보장하지는 않습니다. 중요한 내용은
+          관련 원문에서 확인하세요.
+        </p>
+        {compact ? (
+          <a class="text-link" href={editionUrl(e)}>
+            이날의 브리핑 페이지 ↗
+          </a>
+        ) : (
+          <details>
+            <summary>생성 정보</summary>
+            <p>
+              발행 예정 {dayLabel(e.day)} {timeLabel(e.scheduled_at)} KST
+              <br />
+              실제 생성{' '}
+              {dayLabel(
+                new Date(Date.parse(e.generated_at) + 9 * 3600000)
+                  .toISOString()
+                  .slice(0, 10),
+              )}{' '}
+              {timeLabel(e.generated_at)} KST
+              <br />
+              {e.model} · {e.prompt_version} · 분석 자료 {e.reviewed_articles}건
+            </p>
+          </details>
+        )}
+      </div>
+    </>
+  )}
+</article>

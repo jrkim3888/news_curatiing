@@ -60,7 +60,7 @@ test('filters, empty state, saved articles and persistence', async ({
   page.on('pageerror', (e) => errors.push(e.message));
   await page.goto('/');
   await expect(page.getByRole('heading', { level: 1 })).toContainText(
-    'AI의 다음을',
+    '오늘의 AI',
   );
   await expect(page.locator('[data-card]:visible')).toHaveCount(18);
   await page.locator('[data-card]:visible [data-bookmark]').first().click();
@@ -98,7 +98,7 @@ test('Korean and English search index returns real article links', async ({
     await page.goto(`/search/?q=${encodeURIComponent(query)}`);
     await expect(page.locator('#search-results li').first()).toBeVisible();
     await expect(page.locator('#search-status')).toContainText('검색 결과');
-    const link = page.locator('#search-results a').first();
+    const link = page.locator('#search-results a[href^="/news/"]').first();
     const title = await link.textContent();
     await link.click();
     await expect(page.locator('h1')).toHaveText(title!);
