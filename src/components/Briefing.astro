@@ -3,6 +3,7 @@ import {
   editionUrl,
   dayLabel,
   timeLabel,
+  dateTimeLabel,
   rangeLabel,
   type Edition,
 } from '../lib/briefings';
@@ -17,6 +18,8 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
 
 <article
   class="brief-edition"
+  aria-label={e.headline}
+  data-pagefind-meta={!compact ? 'title[aria-label]' : undefined}
   data-pagefind-body={!compact || undefined}
   data-pagefind-ignore={compact || undefined}
 >
@@ -32,25 +35,22 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
     <>
       <div class="brief-overview">
         <div class="brief-overview-heading">
-          <span class="eyebrow">THE BIG PICTURE · AI 종합</span>
-          <span>
-            {e.issues.length}개 이슈 · 근거 기사 {e.articles.length}건
-          </span>
+          <h2>하루를 읽는 요약</h2>
+          <span>AI 종합 · {e.issues.length}개 이슈</span>
         </div>
-        <h2 data-pagefind-meta={!compact ? 'title' : undefined}>
-          {e.headline}
-        </h2>
         <div class="brief-overview-copy">
           {e.overview.map((entry) => (
             <p>
               {entry.text}{' '}
-              <span class="brief-citations">
+              <span class="brief-overview-links">
                 {entry.issue_ids.map((id) => (
                   <a
                     href={`#${id}`}
                     aria-label={`${e.issues.find((i) => i.id === id)!.title} 이슈로 이동`}
+                    title={e.issues.find((i) => i.id === id)!.title}
                   >
-                    [{id.split('-')[1]}]
+                    관련 이슈 {id.split('-')[1]}{' '}
+                    <span aria-hidden="true">↓</span>
                   </a>
                 ))}
               </span>
@@ -58,6 +58,14 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
           ))}
         </div>
         <p class="brief-window">집계 범위 · {rangeLabel(e)}</p>
+        {e.overview_revision && (
+          <p class="brief-revision">
+            <time datetime={e.overview_revision.revised_at}>
+              {dateTimeLabel(e.overview_revision.revised_at)} KST
+            </time>{' '}
+            · {e.overview_revision.note}
+          </p>
+        )}
       </div>
       <div class="brief-issues">
         {e.issues.map((issue, index) => (
@@ -75,21 +83,48 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
               </div>
               <h3>{issue.title}</h3>
               <div class="brief-facts">
-                {issue.facts.map((fact) => (
-                  <p>
-                    {fact.text}{' '}
-                    <span class="brief-citations">
-                      {fact.article_ids.map((id) => (
+                {issue.facts.map((fact) => {
+                  const primary = snapshots.get(fact.article_ids[0])!
+                    .sources[0];
+                  return (
+                    <p>
+                      {fact.article_ids.length === 1 ? (
                         <a
-                          href={`#source-${issue.id}-${id}`}
-                          aria-label={`${snapshots.get(id)!.title} 근거 기사`}
+                          class="brief-fact-link"
+                          href={primary.url}
+                          target="_blank"
+                          rel="noopener noreferrer"
                         >
-                          [{issue.article_ids.indexOf(id) + 1}]
+                          {fact.text}{' '}
+                          <span class="brief-fact-origin">
+                            {primary.name} 원문 ↗
+                          </span>
                         </a>
-                      ))}
-                    </span>
-                  </p>
-                ))}
+                      ) : (
+                        <>
+                          {fact.text}{' '}
+                          <span class="brief-source-links">
+                            {fact.article_ids.map((id) => {
+                              const article = snapshots.get(id)!;
+                              const source = article.sources[0];
+                              return (
+                                <a
+                                  href={source.url}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  title={article.title}
+                                  aria-label={`${source.name}: ${article.title} 원문`}
+                                >
+                                  {source.name} 원문 ↗
+                                </a>
+                              );
+                            })}
+                          </span>
+                        </>
+                      )}
+                    </p>
+                  );
+                })}
               </div>
               <div class="brief-meaning">
                 <strong>
@@ -99,13 +134,13 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
               </div>
               <div class="brief-source-list">
                 <h4>관련 원문에서 더 읽기</h4>
-                {issue.article_ids.map((id, sourceIndex) => {
+                {issue.article_ids.map((id) => {
                   const article = snapshots.get(id)!;
                   const primary = article.sources[0];
                   return (
                     <div class="brief-source" id={`source-${issue.id}-${id}`}>
                       <span class="brief-source-caption">
-                        [{sourceIndex + 1}] {primary.name} ·{' '}
+                        {primary.name} ·{' '}
                         {roleNames[primary.role] || primary.role}
                       </span>
                       <a

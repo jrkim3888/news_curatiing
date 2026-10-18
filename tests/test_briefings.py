@@ -17,7 +17,7 @@ from collector.core import UTC, article_id
 
 def response(inputs):
     return {"headline": "새로운 AI 개발 도구와 연구 발표를 살펴봅니다",
-            "overview": [{"text": "여러 출처에서 AI 개발 도구의 새로운 기능과 적용 방법을 소개했습니다.", "issue_indexes": [0]}],
+            "overview": [{"text": "여러 출처에서 새로운 AI 개발 도구를 사용할 수 있다고 발표했습니다. 개발자는 도구를 도입하기 전에 각 발표의 원문에서 자신에게 필요한 기능을 제공하는지 확인할 수 있습니다.", "issue_indexes": [0]}],
             "issues": [{"title": "AI 개발 도구의 새로운 기능 발표", "category": "개발·도구",
                         "facts": [{"text": "제공된 자료에서는 AI 개발 도구의 새로운 기능을 발표했다고 설명합니다.",
                                    "evidence": [{"article_id": i["article_id"], "quote": "A new AI tool is available."} for i in inputs[:2]]}],
@@ -193,6 +193,34 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(end.astimezone(briefings.KST).hour, 6)
         self.assertEqual(scheduled, after)
         self.assertEqual(briefings.daily_window(after+timedelta(hours=8))[2], end)
+
+    def test_headline_lists_and_single_paragraph_roundups_are_rejected(self):
+        paragraph = {'text': response([])['overview'][0]['text'], 'issue_ids': ['issue-1']}
+        title = '새 AI 개발 도구의 적용 가능성을 살펴봅니다'
+        briefings.validate_narrative(title, [paragraph], 1)
+        briefings.validate_narrative(title, [paragraph, {**paragraph, 'issue_ids': ['issue-2']}], 2)
+        for headline, paragraphs, count in [
+            ('모델 공개·AI 코딩 혁신…기업 보안 이슈 동시 부상', [paragraph], 1),
+            (title, [paragraph], 5),
+            (title, [{**paragraph, 'text': 'AI 도구 출시와 기업 보안 논의 등 새로운 기술의 활용 범위를 넓히고 결과를 검증하려는 다양한 시도가 여러 분야에서 함께 주목받으며 시장의 새로운 흐름으로 부상'}], 1),
+            (title, [{**paragraph, 'issue_ids': ['issue-1', 'issue-2', 'issue-3', 'issue-4']}, paragraph], 4),
+        ]:
+            with self.subTest(headline=headline, count=count), self.assertRaises(ValueError):
+                briefings.validate_narrative(headline, paragraphs, count)
+
+    def test_v1_history_remains_readable_and_overview_revisions_are_validated(self):
+        self.run_batch()
+        history = json.loads((self.root / 'briefings.json').read_text())
+        e = history['editions'][0]
+        original_overview = copy.deepcopy(e['overview'])
+        e.update(prompt_version='daily-brief-v1', headline='모델 발표·코딩 도구…새로운 소식 모음',
+                 overview=[{'text': '여러 AI 도구와 기업의 발표가 함께 주요 소식으로 전해졌습니다.', 'issue_ids': ['issue-1']}])
+        briefings.validate_history(history)
+        e.update(headline='새로운 AI 개발 도구의 적용 가능성을 살펴봅니다', overview=original_overview,
+                 overview_revision={'revised_at': e['generated_at'], 'note': '상단 요약을 설명하는 문단으로 다듬었습니다.'})
+        briefings.validate_history(history)
+        e['overview_revision']['revised_at'] = e['window_start']
+        with self.assertRaises(ValueError): briefings.validate_history(history)
 
     def test_merged_link_uses_allowed_body_and_exact_window_boundaries(self):
         allowed = next(s for s in self.sources if s['summarize'])

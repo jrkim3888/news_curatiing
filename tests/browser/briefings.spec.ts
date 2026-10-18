@@ -59,15 +59,50 @@ test('edition content and citations remain accessible without JavaScript', async
   if (editions.length) {
     const e = editions[0];
     await page.goto(`/briefings/${e.id}/`);
-    await expect(page.locator('.brief-overview h2')).toHaveText(e.headline);
+    await expect(page.locator('.brief-overview h2')).toHaveText(
+      '하루를 읽는 요약',
+    );
+    await expect(page.locator('.brief-overview-copy > p')).toHaveCount(
+      e.overview.length,
+    );
+    for (const paragraph of e.overview)
+      await expect(page.locator('.brief-overview-copy')).toContainText(
+        paragraph.text,
+      );
     await expect(page.locator('.brief-issue')).toHaveCount(e.issues.length);
     for (const issue of e.issues) {
       await expect(page.locator(`#${issue.id} h3`)).toHaveText(issue.title);
-      for (const fact of issue.facts)
+      for (const [index, fact] of issue.facts.entries()) {
         await expect(page.locator(`#${issue.id} .brief-facts`)).toContainText(
           fact.text,
         );
+        const links = page
+          .locator(`#${issue.id} .brief-facts > p`)
+          .nth(index)
+          .getByRole('link');
+        await expect(links).toHaveCount(fact.article_ids.length);
+        for (const [sourceIndex, id] of fact.article_ids.entries()) {
+          const source = e.articles.find((a) => a.id === id)!.sources[0];
+          await expect(links.nth(sourceIndex)).toHaveAttribute(
+            'href',
+            source.url,
+          );
+          await expect(links.nth(sourceIndex)).toHaveAttribute(
+            'target',
+            '_blank',
+          );
+          await expect(links.nth(sourceIndex)).toContainText(source.name);
+        }
+      }
     }
+    await expect(page.locator('.brief-facts a[href^="#"]')).toHaveCount(0);
+    await expect(
+      page.locator('.brief-edition a').filter({ hasText: /^\[\d+\]$/ }),
+    ).toHaveCount(0);
+    if (e.overview_revision)
+      await expect(page.locator('.brief-revision')).toContainText(
+        e.overview_revision.note,
+      );
     const sitemap = await (await request.get('/sitemap.xml')).text();
     expect(sitemap).toContain(`/briefings/${e.id}/`);
     await expect(page.locator('.brief-reading-heading')).toContainText(
@@ -98,6 +133,16 @@ test('history and briefing mobile layout has no overflow', async ({ page }) => {
       route,
     ).toBe(true);
   }
+  if (editions.length) {
+    await page.goto('/');
+    await page
+      .locator('.brief-overview')
+      .screenshot({ path: '.runtime/overview-mobile.png' });
+    await page
+      .locator('.brief-issue')
+      .last()
+      .screenshot({ path: '.runtime/source-mobile.png' });
+  }
   await page.goto('/briefings/');
   await page.screenshot({
     path: '.runtime/history-mobile.png',
@@ -108,4 +153,14 @@ test('history and briefing mobile layout has no overflow', async ({ page }) => {
     path: '.runtime/history-desktop.png',
     fullPage: true,
   });
+  if (editions.length) {
+    await page.goto('/');
+    await page
+      .locator('.brief-overview')
+      .screenshot({ path: '.runtime/overview-desktop.png' });
+    await page
+      .locator('.brief-issue')
+      .last()
+      .screenshot({ path: '.runtime/source-desktop.png' });
+  }
 });

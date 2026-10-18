@@ -23,6 +23,7 @@ const editionSchema = z
     status: z.enum(['published', 'withdrawn']),
     headline: text,
     overview: z.array(z.object({ text, issue_ids: z.array(text).min(1) })),
+    overview_revision: z.object({ revised_at: stamp, note: text }).optional(),
     issues: z.array(issue),
     articles: z.array(
       z.object({
@@ -71,6 +72,11 @@ const editionSchema = z
         fail('Withdrawn content remains');
       return;
     }
+    if (
+      e.overview_revision &&
+      Date.parse(e.overview_revision.revised_at) < Date.parse(e.generated_at)
+    )
+      fail('Overview revision predates generation');
     if (!e.issues.length || e.issues.length > 5 || !e.overview.length)
       fail('Incomplete edition');
     const articles = new Set(e.articles.map((a) => a.id));
@@ -129,6 +135,15 @@ export const dayLabel = (day: string) =>
 export const timeLabel = (stamp: string) =>
   new Intl.DateTimeFormat('ko-KR', {
     timeZone: 'Asia/Seoul',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  }).format(new Date(stamp));
+export const dateTimeLabel = (stamp: string) =>
+  new Intl.DateTimeFormat('ko-KR', {
+    timeZone: 'Asia/Seoul',
+    month: 'long',
+    day: 'numeric',
     hour: '2-digit',
     minute: '2-digit',
     hour12: false,
