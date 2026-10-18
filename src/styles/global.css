@@ -1452,11 +1452,31 @@ svg {
   color: #d4dfce;
 }
 .brief-overview h2 {
-  color: #d4dfce;
-  font-size: 16px;
+  color: #f6f5f1;
+  font-size: clamp(26px, 3vw, 34px);
   font-weight: 600;
   letter-spacing: -0.02em;
-  margin: 0;
+  line-height: 1.4;
+  margin: 24px 0;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+.brief-takeaway {
+  max-width: 820px;
+  border-left: 2px solid #acb99f;
+  padding-left: 18px;
+}
+.brief-takeaway > span {
+  font-size: 12px;
+  color: #d4dfce;
+}
+.brief-takeaway p {
+  margin-top: 7px;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.7;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
 }
 .brief-overview-copy {
   max-width: 820px;
@@ -1470,18 +1490,13 @@ svg {
 .brief-overview-copy p + p {
   margin-top: 22px;
 }
-.brief-overview-copy p:first-child {
-  font-size: 20px;
-  font-weight: 500;
-}
 .brief-revision {
   color: #d4dfce;
   font-size: 12px;
   line-height: 1.8;
   margin-bottom: 0;
 }
-.brief-overview-links,
-.brief-source-links {
+.brief-overview-links {
   display: inline-flex;
   flex-wrap: wrap;
   gap: 4px 12px;
@@ -1493,27 +1508,22 @@ svg {
   margin-top: 8px;
   color: #d4dfce;
 }
-.brief-overview-links a,
-.brief-source-links a {
+.brief-overview-links a {
   display: inline-block;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-.brief-fact-link {
-  color: inherit;
+.brief-keyword-link {
+  color: #36584a;
+  font-weight: 500;
   text-decoration: underline;
-  text-decoration-color: #c8d0c3;
+  text-decoration-color: #7c9588;
   text-underline-offset: 4px;
 }
-.brief-fact-link:hover,
-.brief-fact-link:focus-visible {
+.brief-keyword-link:hover,
+.brief-keyword-link:focus-visible {
+  color: var(--accent);
   text-decoration-color: var(--accent);
-}
-.brief-fact-origin {
-  color: #36584a;
-  font-size: 12px;
-  font-weight: 500;
-  white-space: normal;
 }
 .brief-window {
   margin-top: 26px;
@@ -1869,7 +1879,7 @@ svg {
     font-size: 16px;
     margin-top: 22px;
   }
-  .brief-overview-copy p:first-child {
+  .brief-takeaway p {
     font-size: 18px;
   }
   .brief-window {

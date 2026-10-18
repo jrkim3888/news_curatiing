@@ -16,11 +16,13 @@ from collector.core import UTC, article_id
 
 
 def response(inputs):
-    return {"headline": "새로운 AI 개발 도구와 연구 발표를 살펴봅니다",
+    return {"headline": "새 개발 도구를 고르는 기준",
+            "takeaway": "새 도구를 도입하기 전에 필요한 기능을 원문에서 확인할 수 있습니다.",
             "overview": [{"text": "여러 출처에서 새로운 AI 개발 도구를 사용할 수 있다고 발표했습니다. 개발자는 도구를 도입하기 전에 각 발표의 원문에서 자신에게 필요한 기능을 제공하는지 확인할 수 있습니다.", "issue_indexes": [0]}],
             "issues": [{"title": "AI 개발 도구의 새로운 기능 발표", "category": "개발·도구",
                         "facts": [{"text": "제공된 자료에서는 AI 개발 도구의 새로운 기능을 발표했다고 설명합니다.",
-                                   "evidence": [{"article_id": i["article_id"], "quote": "A new AI tool is available."} for i in inputs[:2]]}],
+                                   "evidence": [{"article_id": i["article_id"], "quote": "A new AI tool is available."} for i in inputs[:2]],
+                                   "links": [{"text": phrase, "article_id": i["article_id"]} for phrase, i in zip(['AI 개발 도구', '새로운 기능'], inputs[:2])]}],
                         "why_it_matters": "개발자는 새로운 도구의 적용 가능성을 원문에서 확인할 수 있습니다."}]}
 
 
@@ -143,6 +145,7 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(withdrawn['editions'][0]['id'], history['editions'][0]['id'])
         self.assertEqual(withdrawn['editions'][0]['status'], 'withdrawn')
         self.assertEqual(withdrawn['editions'][0]['articles'], [])
+        self.assertNotIn('takeaway', withdrawn['editions'][0])
 
     def test_kst_day_and_window_validation(self):
         self.run_batch()
@@ -213,6 +216,9 @@ class BriefingTests(unittest.TestCase):
         history = json.loads((self.root / 'briefings.json').read_text())
         e = history['editions'][0]
         original_overview = copy.deepcopy(e['overview'])
+        e.pop('takeaway')
+        for issue in e['issues']:
+            for fact in issue['facts']: fact.pop('links', None)
         e.update(prompt_version='daily-brief-v1', headline='모델 발표·코딩 도구…새로운 소식 모음',
                  overview=[{'text': '여러 AI 도구와 기업의 발표가 함께 주요 소식으로 전해졌습니다.', 'issue_ids': ['issue-1']}])
         briefings.validate_history(history)
@@ -221,6 +227,56 @@ class BriefingTests(unittest.TestCase):
         briefings.validate_history(history)
         e['overview_revision']['revised_at'] = e['window_start']
         with self.assertRaises(ValueError): briefings.validate_history(history)
+
+    def test_title_and_takeaway_are_distinct_and_required_for_new_editions(self):
+        self.run_batch()
+        history = json.loads((self.root / 'briefings.json').read_text())
+        e = history['editions'][0]
+        self.assertEqual(e['headline'], response([])['headline'])
+        for takeaway in [None, e['headline'], '한 문장입니다. 이어지는 두 번째 문장도 있습니다.', '짧은 한 줄']:
+            with self.subTest(takeaway=takeaway), self.assertRaises(ValueError):
+                e['takeaway'] = takeaway
+                briefings.validate_history(history)
+
+    def test_bad_model_link_annotations_do_not_discard_grounded_facts(self):
+        def generated(inputs):
+            value = response(inputs)
+            fact = value['issues'][0]['facts'][0]
+            fact['links'] += [
+                {'text': '발표했다고', 'article_id': '0' * 20},
+                {'text': '존재하지 않는 구절', 'article_id': inputs[0]['article_id']},
+                {'text': '설명합니다', 'article_id': inputs[0]['article_id'], 'url': 'https://untrusted.example'},
+            ]
+            return value
+        result = self.run_batch(generate=generated)
+        self.assertEqual(result['briefing']['result'], 'created')
+        history = json.loads((self.root / 'briefings.json').read_text())
+        fact = history['editions'][0]['issues'][0]['facts'][0]
+        self.assertEqual([link['text'] for link in fact['links']], ['AI 개발 도구', '새로운 기능'])
+        self.assertEqual([link['article_id'] for link in fact['links']], fact['article_ids'])
+        briefings.validate_history(history)
+        fact['links'][0]['article_id'] = '0' * 20
+        with self.assertRaises(ValueError): briefings.validate_history(history)
+
+    def test_keyword_links_are_short_unambiguous_nonoverlapping_and_grounded(self):
+        aid = 'a' * 20
+        def link(text, **extra): return {'text': text, 'article_id': aid, **extra}
+        text = '새 AI 개발 도구가 코드 작성과 검토를 지원한다고 발표했습니다.'
+        briefings.validate_keyword_links(text, [link('AI 개발 도구'), link('검토')], [aid])
+        for content, links in [
+            (text, [link(text)]),
+            (text, [link('없는 단어')]),
+            (text, [link('AI 개발 도구', article_id='b' * 20)]),
+            (text, [link('AI 개발 도구'), link('개발 도구')]),
+            (text, [link('AI 개발 도구', url='https://untrusted.example')]),
+            (text, [link('AI'), link('개발'), link('도구'), link('검토')]),
+            ('AI 도구와 AI 도구가 서로 다른 결과를 보여줬습니다.', [link('AI 도구')]),
+            ('aaa라는 반복 문자열을 검사하는 예제입니다.', [link('aa')]),
+            ('새로운 모델이 출시됐습니다.', [link('새로운 모델이 출시')]),
+        ]:
+            with self.subTest(content=content, links=links), self.assertRaises(ValueError):
+                briefings.validate_keyword_links(content, links, [aid])
+        self.assertEqual(briefings.clean_keyword_links(text, [link('없는 단어')], [aid]), [])
 
     def test_merged_link_uses_allowed_body_and_exact_window_boundaries(self):
         allowed = next(s for s in self.sources if s['summarize'])

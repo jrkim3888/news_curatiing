@@ -16,7 +16,7 @@ const { days, filterable = false } = Astro.props;
         data-history-day={filterable ? day : undefined}
         data-history-text={
           filterable
-            ? `${e.headline} ${e.issues.map((i) => i.title).join(' ')}`.toLocaleLowerCase()
+            ? `${e.headline} ${e.takeaway || ''} ${e.issues.map((i) => i.title).join(' ')}`.toLocaleLowerCase()
             : undefined
         }
       >
@@ -28,7 +28,7 @@ const { days, filterable = false } = Astro.props;
           <a href={dayUrl(day)}>
             <h3>{e.headline}</h3>
           </a>
-          <p>{e.overview[0]?.text}</p>
+          <p>{e.takeaway || e.overview[0]?.text}</p>
           <div class="brief-topic-chips">
             {e.issues.slice(0, 3).map((i) => (
               <span>{i.category}</span>

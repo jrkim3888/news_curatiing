@@ -5,6 +5,7 @@ import {
   timeLabel,
   dateTimeLabel,
   rangeLabel,
+  splitFact,
   type Edition,
 } from '../lib/briefings';
 import { roleNames } from '../lib/data';
@@ -35,9 +36,16 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
     <>
       <div class="brief-overview">
         <div class="brief-overview-heading">
-          <h2>하루를 읽는 요약</h2>
+          <span>하루를 읽는 요약</span>
           <span>AI 종합 · {e.issues.length}개 이슈</span>
         </div>
+        <h2>{e.headline}</h2>
+        {e.takeaway && (
+          <div class="brief-takeaway">
+            <span>{compact ? '오늘의 한 줄' : '이날의 한 줄'}</span>
+            <p>{e.takeaway}</p>
+          </div>
+        )}
         <div class="brief-overview-copy">
           {e.overview.map((entry) => (
             <p>
@@ -83,48 +91,27 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
               </div>
               <h3>{issue.title}</h3>
               <div class="brief-facts">
-                {issue.facts.map((fact) => {
-                  const primary = snapshots.get(fact.article_ids[0])!
-                    .sources[0];
-                  return (
-                    <p>
-                      {fact.article_ids.length === 1 ? (
+                {issue.facts.map((fact) => (
+                  <p>
+                    {splitFact(fact).map((part) => {
+                      if (!part.article_id) return part.text;
+                      const article = snapshots.get(part.article_id)!;
+                      const source = article.sources[0];
+                      return (
                         <a
-                          class="brief-fact-link"
-                          href={primary.url}
+                          class="brief-keyword-link"
+                          href={source.url}
                           target="_blank"
                           rel="noopener noreferrer"
+                          title={`${source.name}: ${article.title}`}
+                          aria-label={`${part.text} — ${source.name} 원문 (새 탭)`}
                         >
-                          {fact.text}{' '}
-                          <span class="brief-fact-origin">
-                            {primary.name} 원문 ↗
-                          </span>
+                          {part.text}
                         </a>
-                      ) : (
-                        <>
-                          {fact.text}{' '}
-                          <span class="brief-source-links">
-                            {fact.article_ids.map((id) => {
-                              const article = snapshots.get(id)!;
-                              const source = article.sources[0];
-                              return (
-                                <a
-                                  href={source.url}
-                                  target="_blank"
-                                  rel="noopener noreferrer"
-                                  title={article.title}
-                                  aria-label={`${source.name}: ${article.title} 원문`}
-                                >
-                                  {source.name} 원문 ↗
-                                </a>
-                              );
-                            })}
-                          </span>
-                        </>
-                      )}
-                    </p>
-                  );
-                })}
+                      );
+                    })}
+                  </p>
+                ))}
               </div>
               <div class="brief-meaning">
                 <strong>

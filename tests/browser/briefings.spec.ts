@@ -59,9 +59,13 @@ test('edition content and citations remain accessible without JavaScript', async
   if (editions.length) {
     const e = editions[0];
     await page.goto(`/briefings/${e.id}/`);
-    await expect(page.locator('.brief-overview h2')).toHaveText(
-      '하루를 읽는 요약',
-    );
+    await expect(page.locator('.brief-overview h2')).toHaveText(e.headline);
+    if (e.takeaway) {
+      await expect(page.locator('.brief-takeaway p')).toHaveText(e.takeaway);
+      await expect(page.locator('.brief-takeaway > span')).toHaveText(
+        '이날의 한 줄',
+      );
+    }
     await expect(page.locator('.brief-overview-copy > p')).toHaveCount(
       e.overview.length,
     );
@@ -73,16 +77,21 @@ test('edition content and citations remain accessible without JavaScript', async
     for (const issue of e.issues) {
       await expect(page.locator(`#${issue.id} h3`)).toHaveText(issue.title);
       for (const [index, fact] of issue.facts.entries()) {
-        await expect(page.locator(`#${issue.id} .brief-facts`)).toContainText(
-          fact.text,
-        );
-        const links = page
+        const paragraph = page
           .locator(`#${issue.id} .brief-facts > p`)
-          .nth(index)
-          .getByRole('link');
-        await expect(links).toHaveCount(fact.article_ids.length);
-        for (const [sourceIndex, id] of fact.article_ids.entries()) {
-          const source = e.articles.find((a) => a.id === id)!.sources[0];
+          .nth(index);
+        await expect(paragraph).toHaveText(fact.text);
+        const links = paragraph.getByRole('link');
+        const annotations = [...(fact.links || [])].sort(
+          (a, b) => fact.text.indexOf(a.text) - fact.text.indexOf(b.text),
+        );
+        await expect(links).toHaveCount(annotations.length);
+        expect(
+          annotations.reduce((sum, link) => sum + link.text.length, 0),
+        ).toBeLessThanOrEqual(fact.text.length / 2);
+        for (const [sourceIndex, annotation] of annotations.entries()) {
+          const source = e.articles.find((a) => a.id === annotation.article_id)!
+            .sources[0];
           await expect(links.nth(sourceIndex)).toHaveAttribute(
             'href',
             source.url,
@@ -91,8 +100,17 @@ test('edition content and citations remain accessible without JavaScript', async
             'target',
             '_blank',
           );
-          await expect(links.nth(sourceIndex)).toContainText(source.name);
+          await expect(links.nth(sourceIndex)).toHaveText(annotation.text);
+          await expect(links.nth(sourceIndex)).toHaveAccessibleName(
+            `${annotation.text} — ${source.name} 원문 (새 탭)`,
+          );
         }
+      }
+      for (const id of issue.article_ids) {
+        const article = e.articles.find((a) => a.id === id)!;
+        await expect(
+          page.locator(`#source-${issue.id}-${id} > a`).first(),
+        ).toHaveAttribute('href', article.sources[0].url);
       }
     }
     await expect(page.locator('.brief-facts a[href^="#"]')).toHaveCount(0);
@@ -135,6 +153,10 @@ test('history and briefing mobile layout has no overflow', async ({ page }) => {
   }
   if (editions.length) {
     await page.goto('/');
+    if (editions[0].takeaway)
+      await expect(page.locator('.brief-takeaway > span')).toHaveText(
+        '오늘의 한 줄',
+      );
     await page
       .locator('.brief-overview')
       .screenshot({ path: '.runtime/overview-mobile.png' });

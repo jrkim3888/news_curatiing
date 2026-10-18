@@ -4,11 +4,26 @@ import raw from '../../data/briefings.json';
 const stamp = z.iso.datetime({ offset: true });
 const id = z.string().regex(/^[a-f0-9]{20}$/);
 const text = z.string().min(1);
+const factSchema = z.object({
+  text,
+  article_ids: z.array(id).min(1),
+  links: z
+    .array(
+      z
+        .object({
+          text: z.string().min(2).max(30),
+          article_id: id,
+        })
+        .strict(),
+    )
+    .max(3)
+    .optional(),
+});
 const issue = z.object({
   id: z.string().regex(/^issue-[1-5]$/),
   title: text,
   category: text,
-  facts: z.array(z.object({ text, article_ids: z.array(id).min(1) })).min(1),
+  facts: z.array(factSchema).min(1),
   why_it_matters: text,
   article_ids: z.array(id).min(1),
 });
@@ -22,6 +37,7 @@ const editionSchema = z
     window_end: stamp,
     status: z.enum(['published', 'withdrawn']),
     headline: text,
+    takeaway: z.string().min(20).max(120).optional(),
     overview: z.array(z.object({ text, issue_ids: z.array(text).min(1) })),
     overview_revision: z.object({ revised_at: stamp, note: text }).optional(),
     issues: z.array(issue),
@@ -68,7 +84,12 @@ const editionSchema = z
     )
       fail('Invalid edition date');
     if (e.status === 'withdrawn') {
-      if (e.articles.length || e.issues.length || e.overview.length)
+      if (
+        e.articles.length ||
+        e.issues.length ||
+        e.overview.length ||
+        e.takeaway
+      )
         fail('Withdrawn content remains');
       return;
     }
@@ -79,6 +100,8 @@ const editionSchema = z
       fail('Overview revision predates generation');
     if (!e.issues.length || e.issues.length > 5 || !e.overview.length)
       fail('Incomplete edition');
+    if (e.prompt_version === 'daily-brief-v3' && !e.takeaway)
+      fail('Missing daily takeaway');
     const articles = new Set(e.articles.map((a) => a.id));
     const issues = new Set(e.issues.map((i) => i.id));
     if (articles.size !== e.articles.length || issues.size !== e.issues.length)
@@ -99,6 +122,26 @@ const editionSchema = z
         )
       )
         fail('Unknown claim source');
+      for (const fact of i.facts) {
+        const ranges: [number, number][] = [];
+        let linkedLength = 0;
+        for (const link of fact.links || []) {
+          const start = fact.text.indexOf(link.text);
+          const end = start + link.text.length;
+          if (
+            !fact.article_ids.includes(link.article_id) ||
+            link.text !== link.text.trim() ||
+            start < 0 ||
+            fact.text.indexOf(link.text, start + 1) !== -1 ||
+            ranges.some(([left, right]) => start < right && end > left)
+          )
+            fail('Invalid keyword source link');
+          ranges.push([start, end]);
+          linkedLength += link.text.length;
+        }
+        if (linkedLength > fact.text.length / 2)
+          fail('Most of the fact must remain unlinked');
+      }
     }
     if (e.overview.some((o) => o.issue_ids.some((i) => !issues.has(i))))
       fail('Unknown overview issue');
@@ -110,6 +153,22 @@ export const history = z
 if (new Set(history.editions.map((e) => e.id)).size !== history.editions.length)
   throw new Error('Duplicate edition IDs');
 export type Edition = z.infer<typeof editionSchema>;
+// Render escaped text, resolving URLs only from the edition's source snapshots.
+export function splitFact(fact: z.infer<typeof factSchema>) {
+  const parts: { text: string; article_id?: string }[] = [];
+  let offset = 0;
+  const links = [...(fact.links || [])].sort(
+    (a, b) => fact.text.indexOf(a.text) - fact.text.indexOf(b.text),
+  );
+  for (const link of links) {
+    const start = fact.text.indexOf(link.text);
+    if (start > offset) parts.push({ text: fact.text.slice(offset, start) });
+    parts.push(link);
+    offset = start + link.text.length;
+  }
+  if (offset < fact.text.length) parts.push({ text: fact.text.slice(offset) });
+  return parts;
+}
 export const editions = [...history.editions].sort(
   (a, b) =>
     b.window_end.localeCompare(a.window_end) || b.id.localeCompare(a.id),
