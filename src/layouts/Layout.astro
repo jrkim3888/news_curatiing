@@ -60,13 +60,19 @@ const fullTitle = title
         </a>
         <nav aria-label="주 메뉴">
           <a href="/" aria-current={path === '/' ? 'page' : undefined}>
-            브리핑
+            최신 브리핑
+          </a>
+          <a
+            href="/briefings/"
+            aria-current={path.startsWith('/briefings') ? 'page' : undefined}
+          >
+            히스토리
           </a>
           <a
             href="/archive/"
             aria-current={path.startsWith('/archive') ? 'page' : undefined}
           >
-            아카이브
+            전체 뉴스
           </a>
           <a
             href="/sources/"
@@ -113,6 +119,7 @@ const fullTitle = title
         <p>빠르게 변하는 AI, 차분하게 읽는 맥락.</p>
       </div>
       <div class="footer-links">
+        <a href="/briefings/">브리핑 히스토리</a>
         <a href="/about/">편집 원칙</a>
         <a href="/sources/">수집 출처</a>
         <a href="/rss.xml">RSS ↗</a>

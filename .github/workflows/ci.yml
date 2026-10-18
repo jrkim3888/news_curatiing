@@ -3,6 +3,7 @@ on:
   push:
     paths-ignore:
       - 'data/news.json'
+      - 'data/briefings.json'
       - 'docs/**'
       - '**.md'
   pull_request:

@@ -1,7 +1,1140 @@
 {
   "version": 1,
-  "updated_at": "2026-10-16T07:41:21+00:00",
+  "updated_at": "2026-10-18T03:58:04+00:00",
   "articles": [
+    {
+      "id": "c5c94908702a5d6f03d7",
+      "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+      "title": "Phishing emails are baiting your AI assistant",
+      "original_title": "Phishing emails are baiting your AI assistant",
+      "published_at": "2026-10-18T03:52:35+00:00",
+      "collected_at": "2026-10-18T03:57:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.malwarebytes.com/blog/ai/2026/10/phishing-emails-are-baiting-your-ai-assistant",
+          "title": "Phishing emails are baiting your AI assistant",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137768"
+        }
+      ]
+    },
+    {
+      "id": "507684fcb6f5b3f34c4a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42328",
+      "title": "최태원 회장, \"AI 시대, 정답 찾는 인재보다 문제 푸는 인재가 필요하다\"",
+      "original_title": "최태원 회장, \"AI 시대, 정답 찾는 인재보다 문제 푸는 인재가 필요하다\"",
+      "published_at": "2026-10-18T03:19:14+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최태원 SK그룹 회장 겸 대한상공회의소 회장이 인공지능(AI) 시대의 청년들에게 정해진 일자리를 찾는 데 머무르지 말고, 사회가 직면한 문제를 발견하고 해결하는 데 도전할 것을 주문했다.AI가 인간의 업무를 빠르게 대체하고 직업의 개념까지 바꾸는 상황에서 미래 경쟁력은 지식의 양이나 학력보다 문제를 정의하고 해결책을…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42328",
+          "title": "최태원 회장, \"AI 시대, 정답 찾는 인재보다 문제 푸는 인재가 필요하다\""
+        }
+      ]
+    },
+    {
+      "id": "7b57d70ef9fdae9e5203",
+      "url": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+      "title": "Hugging Face Pricing 2026: Complete Cost Guide (Free Tier and Paid Plans)",
+      "original_title": "Hugging Face Pricing 2026: Complete Cost Guide (Free Tier and Paid Plans)",
+      "published_at": "2026-10-18T03:08:41+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.metacto.com/blogs/the-true-cost-of-hugging-face-a-guide-to-pricing-and-integration",
+          "title": "Hugging Face Pricing 2026: Complete Cost Guide (Free Tier and Paid Plans)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137551"
+        }
+      ]
+    },
+    {
+      "id": "7983191ffd89d8856d20",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216378",
+      "title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지",
+      "original_title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지",
+      "published_at": "2026-10-18T02:42:17+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 캐나다에서 처음으로 데이터센터 임대 계약을 체결했다. 일본에서도 첫 전용 데이터센터 건설을 위한 협상을 진행하는 등 AI 모델 개발과 서비스 운영에 필요한 인프라를 전방위로 확보하고 있다.로이터와 블룸버그는 16일(현지시간) 앤트로픽이 에버윈드와 캐나다 노바스코샤주 포인트터퍼에 들어설 데이터센터의 용량을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216378",
+          "title": "앤트로픽, 캐나다 첫 데이터센터 계약…일본서도 건설 협상 막바지"
+        }
+      ]
+    },
+    {
+      "id": "62fa9c84cabd29868580",
+      "url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+      "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "original_title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+      "published_at": "2026-10-18T02:35:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.gmicloud.ai/ja/blog/best-free-gpu-cloud-options-for-ai-startups-and-researchers",
+          "title": "Best Free GPU Cloud Options for AI Startups and Researchers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137325"
+        }
+      ]
+    },
+    {
+      "id": "f4f6f67dea14e24a190e",
+      "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+      "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+      "original_title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+      "published_at": "2026-10-18T02:20:40+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/10/16/ai-espionage-openai-jay-clayton.html",
+          "title": "OpenAI Saudi national bugging case shows threat to U.S. leadership in AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137246"
+        }
+      ]
+    },
+    {
+      "id": "219b4a2766046fc9c492",
+      "url": "https://www.fenwick.com/insights/publications/nothing-remove-ninth-circuit-holds-copilot-creates-new-code-not-stripped",
+      "title": "Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
+      "original_title": "Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
+      "published_at": "2026-10-18T02:12:49+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.fenwick.com/insights/publications/nothing-remove-ninth-circuit-holds-copilot-creates-new-code-not-stripped",
+          "title": "Ninth Circuit Holds Copilot Creates New Code, Not Stripped Copies",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137198"
+        }
+      ]
+    },
+    {
+      "id": "70e1f702ff6371a34d82",
+      "url": "https://angadh.com/ai-and-jobs-1",
+      "title": "Anthropic reports reducing recruitment of entry-level engineers",
+      "original_title": "Anthropic reports reducing recruitment of entry-level engineers",
+      "published_at": "2026-10-18T02:12:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://angadh.com/ai-and-jobs-1",
+          "title": "Anthropic reports reducing recruitment of entry-level engineers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137192"
+        }
+      ]
+    },
+    {
+      "id": "b3c446333e9069517f44",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216376",
+      "title": "앤트로픽 ‘미소스 5’, 양자회로 설계 개선…53시간 만에 새 계산법 발견",
+      "original_title": "앤트로픽 ‘미소스 5’, 양자회로 설계 개선…53시간 만에 새 계산법 발견",
+      "published_at": "2026-10-18T02:11:42+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 AI를 활용해 양자컴퓨터가 같은 계산을 더 적은 자원으로 수행하는 방법을 찾아냈다. 기존 논문에 발표된 설계의 효율을 개선했으며, 특정 연산에서는 계산에 필요한 기본 연산 수를 12분의 1로 줄였다. AI가 양자컴퓨터의 계산 방식을 설계하는 연구 도구로 활용될 가능성을 보여준 결과다.앤트로픽은 16일(현지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216376",
+          "title": "앤트로픽 ‘미소스 5’, 양자회로 설계 개선…53시간 만에 새 계산법 발견"
+        }
+      ]
+    },
+    {
+      "id": "b3ec1b5fa0371ec33a5e",
+      "url": "https://github.com/ahmtsahin/claude-env-tabs",
+      "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+      "original_title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+      "published_at": "2026-10-18T01:44:24+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ahmtsahin/claude-env-tabs",
+          "title": "Show HN: Env-tabs – Pin your projects in Claude Desktop's Code tab",
+          "discussion_url": "https://news.ycombinator.com/item?id=50137006"
+        }
+      ]
+    },
+    {
+      "id": "0394868125827f9387dd",
+      "url": "https://www.youtube.com/watch?v=kAkpzlR7io8",
+      "title": "What will AI do to our jobs and our wages? [video]",
+      "original_title": "What will AI do to our jobs and our wages? [video]",
+      "published_at": "2026-10-18T01:30:17+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=kAkpzlR7io8",
+          "title": "What will AI do to our jobs and our wages? [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50136939"
+        }
+      ]
+    },
+    {
+      "id": "29da0aa40627f3acaf65",
+      "url": "https://defuzex.ai/blog/what-500-minimax-code-tests-revealed-about-ai-saying-done",
+      "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
+      "original_title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
+      "published_at": "2026-10-18T00:59:44+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://defuzex.ai/blog/what-500-minimax-code-tests-revealed-about-ai-saying-done",
+          "title": "What 500 MiniMax Code Tests Revealed About AI Saying \"Done\"",
+          "discussion_url": "https://news.ycombinator.com/item?id=50136796"
+        }
+      ]
+    },
+    {
+      "id": "8d3e35138710facac454",
+      "url": "https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns",
+      "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
+      "original_title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
+      "published_at": "2026-10-18T00:50:48+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://noisypixel.net/drunken-goddess-reflux-public-demo-canceled-ai-imitation-concerns",
+          "title": "Drunken Goddess Reflux Public Demo Canceled over AI Imitation Concerns",
+          "discussion_url": "https://news.ycombinator.com/item?id=50136741"
+        }
+      ]
+    },
+    {
+      "id": "f97290cc12b79161713a",
+      "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+      "title": "Anthropic warns AI models could self-replicate across home devices",
+      "original_title": "Anthropic warns AI models could self-replicate across home devices",
+      "published_at": "2026-10-18T00:44:06+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
+          "title": "Anthropic warns AI models could self-replicate across home devices",
+          "discussion_url": "https://news.ycombinator.com/item?id=50136716"
+        }
+      ]
+    },
+    {
+      "id": "fd7e5c381b86eed93988",
+      "url": "https://github.com/rogeriojunior31/lazyagents",
+      "title": "Lazyagents – Lazygit for AI coding agents",
+      "original_title": "Lazyagents – Lazygit for AI coding agents",
+      "published_at": "2026-10-18T00:42:19+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/rogeriojunior31/lazyagents",
+          "title": "Lazyagents – Lazygit for AI coding agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50136701"
+        }
+      ]
+    },
+    {
+      "id": "439e86d9330ecff756eb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216373",
+      "title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
+      "original_title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”",
+      "published_at": "2026-10-18T00:41:18+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 주요 은행들이 메타의 개인용 AI 에이전트 ‘뮤즈’ 등의 고객 계좌 접근과 자금 이체를 제한하고 있다. 고객이 맡긴 AI라도 은행 계좌에 직접 접속해 돈을 움직이도록 허용하기에는 보안과 사고 책임 문제가 해결되지 않았다는 설명이다. AI가 낮은 금리의 예금을 찾아 다른 금융상품으로 옮기면서 은행의 수익 구조를 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216373",
+          "title": "미국 은행들, 메타 ‘뮤즈’ 계좌 접근 차단…“AI가 옮긴 돈, 누가 책임지나”"
+        }
+      ]
+    },
+    {
+      "id": "b31543fcd7d1501be961",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "title": "Blocking AI-bot can be a double-edged Sword",
+      "original_title": "Blocking AI-bot can be a double-edged Sword",
+      "published_at": "2026-10-18T00:39:15+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "title": "Blocking AI-bot can be a double-edged Sword",
+          "discussion_url": "https://news.ycombinator.com/item?id=50136684"
+        }
+      ]
+    },
+    {
+      "id": "7bb0053aa760a3d5be8b",
+      "url": "https://news.hada.io/topic?id=35557",
+      "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
+      "original_title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경",
+      "published_at": "2026-10-18T00:30:03+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "여러 AI 에이전트를 독립된 샌드박스에서 실행 하고, 대기 중인 에이전트의 자원을 회수하는 인프라 도구 모델 응답이나 도구 실행을 기다리는 동안 메모리와 파일 상태를 저장 하고, 요청이 들어오면 복원해 작업 재개 미리 준비된 소수의 Kubernetes Pod를...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35557",
+          "title": "Agent Substrate - AI 에이전트를 격리하고 대기 자원을 줄이는 Kubernetes 실행 환경"
+        }
+      ]
+    },
+    {
+      "id": "e772c6b2a1c4ef245885",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216370",
+      "title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개",
+      "original_title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개",
+      "published_at": "2026-10-18T00:03:13+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "딥시크가 코딩과 에이전트 성능을 높이면서 작업 시간과 출력 분량을 줄인 AI 모델을 공개했다. API 이용 단가는 유지하고 작업에 필요한 토큰을 줄여, 실제 사용 비용을 낮추는 데 초점을 맞췄다. 자체 평가에서는 일부 소프트웨어 개발·자동화 작업에서 오픈AI와 앤트로픽 모델을 앞선 결과가 나왔다.‘딥시크 V4.1-플…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216370",
+          "title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개"
+        }
+      ]
+    },
+    {
+      "id": "154721b658229b7a3e68",
+      "url": "https://news.hada.io/topic?id=35551",
+      "title": "Linux 7.2 개발 통계 - 기여자 2,652명으로 역대 최다, LLM 지원 패치도 증가",
+      "original_title": "Linux 7.2 개발 통계 - 기여자 2,652명으로 역대 최다, LLM 지원 패치도 증가",
+      "published_at": "2026-10-17T21:47:04+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Linux 7.2에 병합을 제외한 커밋 16,418개와 약 60만 줄의 코드 가 추가돼, 커밋 수 기준 커널 역사상 두 번째로 활발한 개발 주기 기록 참여 개발자 2,652명, 첫 기여자 613명 으로 모두 역대 최다. 소속을 확인할 수 없는 개발자의 기여도 크게 증가 LLM ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35551",
+          "title": "Linux 7.2 개발 통계 - 기여자 2,652명으로 역대 최다, LLM 지원 패치도 증가"
+        }
+      ]
+    },
+    {
+      "id": "5eb559e50fd7886d16ab",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "original_title": "Meta removes language that raised scraping and AI training concerns",
+      "published_at": "2026-10-17T21:31:32+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+          "title": "Meta removes language that raised scraping and AI training concerns"
+        }
+      ]
+    },
+    {
+      "id": "117a2d63c050809f98ed",
+      "url": "https://news.hada.io/topic?id=35547",
+      "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
+      "original_title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개",
+      "published_at": "2026-10-17T20:42:30+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "OpenAI가 AI 에이전트의 일탈 사례 4건 을 추가 공개함. 모두 6월에 발생했으며, 이 중 3건은 수개월 뒤인 8월이나 9월에야 파악함 중대 등급 으로 분류한 2건에서는 정부 웹사이트의 접근 통제를 우회해 병상 데이터를 내려받거나, 조직 내부 시스템을 변경하고 비공...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35547",
+          "title": "OpenAI, AI 에이전트의 일탈 사례 4건 추가 공개"
+        }
+      ]
+    },
+    {
+      "id": "ec0f189f0b04dacca897",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "original_title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "published_at": "2026-10-17T20:21:19+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings",
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings"
+        }
+      ]
+    },
+    {
+      "id": "f4aebbebe452fb087e45",
+      "url": "https://news.hada.io/topic?id=35544",
+      "title": "인공지능은 자본주의의 최종 목적지다",
+      "original_title": "인공지능은 자본주의의 최종 목적지다",
+      "published_at": "2026-10-17T19:43:51+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 산업은 인류가 축적한 지식과 창작물을 기업 자산으로 옮기는 새로운 식민화 . 기업이 공동의 지식을 장악하고, 누가 얼마를 내고 접근할 수 있는지 결정하는 구조 인류 멸종을 경고하는 논쟁은 AI 기업의 기술적 위력과 권력을 부각하지만, 무기화와 차별, 환경 파괴처럼...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35544",
+          "title": "인공지능은 자본주의의 최종 목적지다"
+        }
+      ]
+    },
+    {
+      "id": "7a80157db0183eb2ec13",
+      "url": "https://news.hada.io/topic?id=35543",
+      "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
+      "original_title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시",
+      "published_at": "2026-10-17T19:40:51+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "캐나다 노조와의 법적 분쟁에서 공개된 내부 문서에 따르면, Amazon의 AI 예측 도구 Atlas 가 미국, 캐나다, 영국 물류창고의 노조 결성, 점거 농성 등 노동행동 가능성을 평가하는 것으로 나타남 Reddit 게시물과 직원 설문 응답 등 수백 개 데이터 항목을 모아 창...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35543",
+          "title": "Amazon, AI로 영국 물류창고의 노조 결성 위험 감시"
+        }
+      ]
+    },
+    {
+      "id": "f1da4b6eb4e4c122ec56",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "original_title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "published_at": "2026-10-17T18:48:08+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
+          "title": "Replit makes OpenAI its default over Anthropic, CEO says"
+        }
+      ]
+    },
+    {
+      "id": "acad19555206182264ef",
+      "url": "https://news.hada.io/topic?id=35541",
+      "title": "예전의 내 일은 이제 멀게 느껴진다 - AI 에이전트와 달라진 개발 업무",
+      "original_title": "예전의 내 일은 이제 멀게 느껴진다 - AI 에이전트와 달라진 개발 업무",
+      "published_at": "2026-10-17T18:45:23+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "검색과 코드 복사/붙여넣기로 시작한 AI 활용이 에이전트에 작업을 맡기고 결과를 확인하는 방식 으로 바뀌고, 최근에는 코드 검토보다 QA와 결과의 제약 조건 을 먼저 생각하는 단계로 이동 Opus 4.5/6 이후 세밀한 지시와 개입이 줄고, 수개월간 병합한 PR...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35541",
+          "title": "예전의 내 일은 이제 멀게 느껴진다 - AI 에이전트와 달라진 개발 업무"
+        }
+      ]
+    },
+    {
+      "id": "e610a68f545188b92e6a",
+      "url": "https://news.hada.io/topic?id=35531",
+      "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
+      "original_title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계",
+      "published_at": "2026-10-17T16:33:01+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "직접 Suno로 곡을 만들어 유튜브에 올리고 있고(수익도 나고 있습니다), 그 과정에서 이런 실패를 줄이려고 쓰던 작사 규칙을 Claude 에이전트 스킬로 정리해 공개했습니다. Suno로 노래를 만들면 가사는 멀쩡한데 이상하게 들리는 경우가 많습니다. 줄 끝이 랩처럼 몰아치거나, 한 글자를 길게 끌어 늘어지거…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35531",
+          "title": "Show GN: 수노(Suno)용 한국어 작사 Claude 스킬 – 부를 수 있는 가사와 Style 입력을 같이 설계"
+        }
+      ]
+    },
+    {
+      "id": "ef2721f6220ca64be458",
+      "url": "https://news.hada.io/topic?id=35530",
+      "title": "Claude, 양자 회로 설계 개선으로 타원곡선 연산 게이트 수 17분의 1로",
+      "original_title": "Claude, 양자 회로 설계 개선으로 타원곡선 연산 게이트 수 17분의 1로",
+      "published_at": "2026-10-17T14:38:47+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Claude Mythos 5가 양자 계산의 기본 연산 8종에 대한 회로 설계를 개선 해, 기존에 발표된 설계보다 필요한 계산 자원을 줄임 자연어 명세를 받아 회로를 코드로 작성하고, 정확성과 큐비트 수 × 게이트 수를 검사하는 자동 평가기 의 피드백으로 설계를 반복 개선...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35530",
+          "title": "Claude, 양자 회로 설계 개선으로 타원곡선 연산 게이트 수 17분의 1로"
+        }
+      ]
+    },
+    {
+      "id": "e58a47602d1413e042f2",
+      "url": "https://news.hada.io/topic?id=35529",
+      "title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기",
+      "original_title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기",
+      "published_at": "2026-10-17T14:35:47+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Llmspeed 는 하드웨어를 구매하기 전에 로컬 LLM이 얼마나 빠르게 동작할지 체감해 보는 서비스임 하드웨어별 탐색 과 모델별 탐색 을 제공해 관심 있는 장비나 모델을 기준으로 살펴볼 수 있음 하드웨어 목록에는 NVIDIA/AMD/Intel GPU, M...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35529",
+          "title": "Show HN: Llmspeed - 하드웨어 구매 전에 로컬 LLM 실행 속도를 체감하기"
+        }
+      ]
+    },
+    {
+      "id": "7cd81fdcb0be90824543",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit",
+      "title": "web-edit 0.1a2",
+      "original_title": "web-edit 0.1a2",
+      "published_at": "2026-10-17T13:16:49+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Release: web-edit 0.1a2 web-edit ( previously ) is my tiny web app for browsing and editing files in a folder. I mainly built it for editing files on different machines via Tail…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/17/web-edit",
+          "title": "web-edit 0.1a2"
+        }
+      ]
+    },
+    {
+      "id": "8e6a83538a0c55ba9704",
+      "url": "https://news.hada.io/topic?id=35526",
+      "title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때",
+      "original_title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때",
+      "published_at": "2026-10-17T12:05:48+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "비정합성(decoherence) 은 개별적으로는 타당하지만 서로 호환되지 않거나 중복되는 모델이 시스템에 쌓이는 현상임. 모델 사이를 오가고 의도치 않은 부작용을 막는 일이 변경 비용의 대부분을 차지하게 됨 비정합성은 시간 자체가 아니라 시스템의 변경 에 따라 커...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35526",
+          "title": "비정합성의 함정: AI 저질 콘텐츠가 끝없는 잡음 속에 신호를 묻어버릴 때"
+        }
+      ]
+    },
+    {
+      "id": "dd9666b8c827c8c43ac3",
+      "url": "https://news.hada.io/topic?id=35525",
+      "title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델",
+      "original_title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델",
+      "published_at": "2026-10-17T11:32:19+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "DeepSeek V4.1 Flash 는 회사 최초로 Causal Encoder-Decoder(CED) 아키텍처를 적용한 희소 MoE 모델로, 사전 학습 시작부터 시각 및 텍스트 임베딩을 함께 학습함 총 5,520억 개 파라미터 중 입력 처리에 80억 개, 출력 생성에 160억 개를 활성화하는 비대칭 구조로...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35525",
+          "title": "DeepSeek V4.1 Flash 1017 - CED 아키텍처와 네이티브 이미지 이해를 도입한 MoE 모델"
+        }
+      ]
+    },
+    {
+      "id": "d45c9bba80ba975fd683",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+      "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+      "original_title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
+      "published_at": "2026-10-17T10:47:45+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 블랙포레스트랩스, 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인’ 가중치 공개블랙포레스트랩스(BFL)가 56억개의 매개변수를 갖춘 이미지 생성·편집 모델 ‘플럭스 3 이미지 클라인(FLUX 3 Image Klein)’의 가중치를 공개했다. 최대 10장의 참조 이미지와 4K 이미지 생성을 지원하며, 특정 영역만…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216368",
+          "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종"
+        }
+      ]
+    },
+    {
+      "id": "67ba33fa2612197efd9d",
+      "url": "https://news.hada.io/topic?id=35524",
+      "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
+      "original_title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트",
+      "published_at": "2026-10-17T10:31:48+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기존 DeepSeek V4.1 Flash의 소규모 업데이트 로, 추론과 코딩, 에이전트 작업, 이미지 이해 평가 전반의 성능 개선 DeepSeek 공개 평가에서 Terminal-Bench 4.0은 31.2 → 42.3 , ProgramBench는 20.3 → 29.1 로 상승 업무 자동화와 에이...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35524",
+          "title": "DeepSeek-V4.1-Flash-1017 - 추론, 코딩, 에이전트 및 시각 벤치마크 성능을 개선한 모델 업데이트"
+        }
+      ]
+    },
+    {
+      "id": "8fe912b67ad32c05436a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+      "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+      "original_title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+      "published_at": "2026-10-17T10:27:01+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI로 소프트웨어를 만드는 작업이 쉬워지면서, 결과물이 실제로 제대로 작동하는지 검증하는 문제가 부각되고 있다. AI 코딩 서비스 업체 레플릿도 외부 업체의 상용 테스트 플랫폼을 활용하는 것으로 알려졌다. 기업용 에이전트에 이어 AI 코딩 분야에서도 LLM에만 의존하지 않고 별도의 통제·검증 장치를 결합하는 움직임이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+          "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증"
+        }
+      ]
+    },
+    {
+      "id": "2cfcd3cd8f9a79396696",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+      "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+      "original_title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+      "published_at": "2026-10-17T09:45:28+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI 직원의 회의실 도청 혐의 사건을 계기로 미국 AI 기업을 겨냥한 첩보 활동에 대한 우려가 커지고 있다. 미국 정보당국은 AI 기밀 보호를 국가 경쟁력과 안보의 문제로 강조했으며, 주요 AI 기업들은 사건 이전부터 직원들에게 금전적 제안은 물론 일상적인 대화와 연애를 통한 정보 수집까지 경계하도록 교육해 온 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+          "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’"
+        }
+      ]
+    },
+    {
+      "id": "6507a039e6088e047dc1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+      "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "original_title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+      "published_at": "2026-10-17T09:06:23+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI의 ‘GPT-6 아스트라’가 미공개 이론물리학 연구 문제 50개 중 49개를 사람의 힌트 없이 해결했다. 문헌을 찾아 계산식을 구성하고 코드를 실행하는 과정을 자율적으로 수행했으며, 채점 과정에서는 전문가가 작성한 기준 답안의 오류까지 확인됐다.인도 국제이론과학센터(ICTS)와 타타 기초과학연구소, 펜실베이니…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+          "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견"
+        }
+      ]
+    },
+    {
+      "id": "80de6e760ad90c12de15",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+      "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "original_title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+      "published_at": "2026-10-17T08:02:23+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI의 내부 작동을 이해하기 어렵게 만드는 근본적인 장벽이 생각보다 낮을 수 있다는 주장이 나와 논쟁이 일고 있다. 신경망에 서로 무관한 개념이 뒤섞여 있다는 기존 해석을 연구자 스스로 뒤집었기 때문이다. 이번 주장이 AI 안전성 연구의 판도를 바꿀 획기적인 전환점인지, 아니면 단순한 부분적 진전에 불과한지를 두고 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+          "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려"
+        }
+      ]
+    },
+    {
+      "id": "dab54bcbeec24bfecd1a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+      "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+      "original_title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\"",
+      "published_at": "2026-10-17T06:40:58+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 '챗GPT'와 구글 크롬 브라우저의 통합을 강화했다. 챗GPT가 사용자가 열어 둔 여러 탭의 정보를 한꺼번에 분석하는 것은 물론, 탭을 직접 제어해 양식 작성이나 자료 정리 같은 작업도 수행할 수 있게 됐다.오픈AI는 15일(현지시간) X를 통해 크롬용 챗GPT 확장 프로그램의 개선 사항을 공개했다. 업데…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+          "title": "오픈AI, 크롬용 '챗GPT' 확장 기능 강화...\"열린 탭 분석하고 직접 제어\""
+        }
+      ]
+    },
+    {
+      "id": "b126d5040c663d14309d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216363",
+      "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+      "original_title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목",
+      "published_at": "2026-10-17T06:17:31+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI타임스와 이스트에이드의 10월 둘째 주(10월9일~15일) 이슈 분석 결과, 코스피 급락을 포함한 증시 이슈와 쿠팡 서비스 장애, 인천 흉기 난동 등이 상위권을 차지했다.이번 주 검색량 1위는 '코스피 6400선 붕괴(5.00%)'가 차지했다. 코스피는 외국인 매도와 반도체주 약세로 연속 하락했으며, 특히 지난 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216363",
+          "title": "[AI 이슈트렌드] 삼전 최대 실적에도 코스피 붕괴…쿠팡 먹통·인천 흉기난동 등 주목"
+        }
+      ]
+    },
+    {
+      "id": "c775d40fa4856a937243",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216352",
+      "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
+      "original_title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\"",
+      "published_at": "2026-10-17T03:05:55+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "앤트로픽이 미국 의회 의원들에게 첨단 AI 모델의 안전과 보안을 규제하는 법안 초안을 제안했다. 기업에 안전 평가와 정보 공개 의무를 부과하는 한편, 정부가 모델 출시나 사용을 중단할 수 있는 조건을 엄격히 제한하고 일부 주정부의 AI 안전 규제를 연방 기준으로 대체하는 내용이다.폴리티코는 16일(현지시간) 앤트로픽…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216352",
+          "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…\"정부 개입 제한·일부 주법 대체\""
+        }
+      ]
+    },
+    {
+      "id": "3bc592cc5b6877b701ba",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "original_title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "published_at": "2026-10-16T22:06:37+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "We think \"did a human read the code?\" is an imprecise proxy for \"what could go wrong with this change, and which check—automated or human—is the right one to catch it?\" Asking t…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/16/code-review",
+          "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang"
+        }
+      ]
+    },
+    {
+      "id": "9732b2763df5a67ab945",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "original_title": "How Itaú is building generative AI for its entire customer base",
+      "published_at": "2026-10-16T19:00:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated se…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "title": "How Itaú is building generative AI for its entire customer base"
+        }
+      ]
+    },
+    {
+      "id": "43f5d9299a926e4d769e",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "original_title": "India becomes the latest country to report rogue AI agent activity",
+      "published_at": "2026-10-16T17:52:24+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity",
+          "title": "India becomes the latest country to report rogue AI agent activity"
+        }
+      ]
+    },
+    {
+      "id": "6bee349d6c55071f4f28",
+      "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "original_title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark",
+      "published_at": "2026-10-16T17:00:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI agents are changing how software gets built. Developers have gone from writing every line of code by hand to directing agents that write most of the code. As... AI agents are…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/code-test-and-deploy-on-one-machine-with-nvidia-rtx-spark",
+          "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark"
+        }
+      ]
+    },
+    {
+      "id": "bf815e64fedf96f62911",
+      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "original_title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet"
+        }
+      ]
+    },
+    {
+      "id": "7cf2fb5203224340531f",
+      "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "original_title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "published_at": "2026-10-16T16:30:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it",
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it"
+        }
+      ]
+    },
+    {
+      "id": "75fa23d8834b88f0cdaa",
+      "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "original_title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "published_at": "2026-10-16T16:01:37+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them",
+          "title": "Elorian’s first AI model wants to reason with images, not just about them"
+        }
+      ]
+    },
+    {
+      "id": "08ae3f1b7d83d7996372",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "original_title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "published_at": "2026-10-16T15:33:49+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+          "title": "Jev is Vercel’s fastest-adopted AI model ever"
+        }
+      ]
+    },
+    {
+      "id": "9262fd3ba51ae243d490",
+      "url": "https://byline.network/2026/10/1016-8",
+      "title": "AI로 빨라진 업무…KT “고객 분석 업무, 8시간에서 10분으로 절감”",
+      "original_title": "AI로 빨라진 업무…KT “고객 분석 업무, 8시간에서 10분으로 절감”",
+      "published_at": "2026-10-16T14:35:38+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)을 활용해 고객 의견 분석에 걸리는 시간을 8시간에서 10분 이내로 줄이고, 연간 4만 시간의 업무시간을 절감한 사례가 나왔다. 다만 개별 업무의 처리시간 단축이 기업 전체의 생산성 향상이나 비용 절감으로 이어졌는지는 별도로 검증해야 한다. AI 결과물을 검수하고 오류를 수정하는 데 드는 시간과 비용까…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1016-8",
+          "title": "AI로 빨라진 업무…KT “고객 분석 업무, 8시간에서 10분으로 절감”"
+        }
+      ]
+    },
+    {
+      "id": "7dc0e5c6956b6261873f",
+      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "original_title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "published_at": "2026-10-16T14:26:51+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy",
+          "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy"
+        }
+      ]
+    },
+    {
+      "id": "657188b4be634999a7ee",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "original_title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "published_at": "2026-10-16T14:00:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the probl…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
+          "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles"
+        }
+      ]
+    },
+    {
+      "id": "02f60fa99bd6fa5dfa5e",
+      "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+      "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "original_title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+      "published_at": "2026-10-16T12:55:09+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+          "title": "Replit’s CEO says the future of work is the ‘self-driving company’"
+        }
+      ]
+    },
+    {
+      "id": "e1f243d8455c6aba3be5",
+      "url": "https://byline.network/2026/10/16-728",
+      "title": "13년 연속 흑자 낸 인텔리빅스, ‘자율형 안전 AI’로 코스닥 도전",
+      "original_title": "13년 연속 흑자 낸 인텔리빅스, ‘자율형 안전 AI’로 코스닥 도전",
+      "published_at": "2026-10-16T08:14:11+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "영상분석 인공지능(AI) 기업 인텔리빅스(대표 장정훈)가 13년 연속 흑자를 앞세워 기술특례가 아닌 일반상장 방식으로 코스닥 입성을 추진한다. 상장을 통해 확보할 자금을 자체 AI 기술 고도화에 투입하고, 기존 영상관제를 넘어 위험 상황을 이해하고 대응 방법까지 알아서 판단하는 ‘자율형 비전 AI’ 기술을 앞세워 국…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/16-728",
+          "title": "13년 연속 흑자 낸 인텔리빅스, ‘자율형 안전 AI’로 코스닥 도전"
+        }
+      ]
+    },
+    {
+      "id": "cc2b8151b090ed7bbdb1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42326",
+      "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
+      "original_title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
+      "published_at": "2026-10-16T07:51:05+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔젤로보틱스가 창업자 공경철 대표 체제로 전환하고 피지컬 인공지능(AI)을 중심으로 사업 전략을 강화한다.웨어러블 로봇 개발과 의료 현장 검증을 통해 축적한 기술을 로봇 구동기와 제어 플랫폼, 인체 동작 파운데이션 모델로 확장해 하드웨어 중심의 사업 구조를 넘어 사람의 움직임을 이해하고 현실 세계에서 작동하는 피지컬…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42326",
+          "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수"
+        }
+      ]
+    },
     {
       "id": "c71194e2892bdea99449",
       "url": "https://news.hada.io/topic?id=35468",
@@ -880,6 +2013,46 @@
       "published_precision": "time"
     },
     {
+      "id": "c9a6184923cc1a5837b4",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "original_title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "title": "Welcome Beam: a 501B open model you can own, customize, and scale"
+        }
+      ]
+    },
+    {
+      "id": "b6756c0a180ee554226c",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "original_title": "Benefit Street Partners answers questions faster with Codex",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/benefit-street-partners",
+          "title": "Benefit Street Partners answers questions faster with Codex"
+        }
+      ]
+    },
+    {
       "id": "b0bcef4df07a66d4d3cd",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216146",
       "title": "[AI리더의 서가] 벡터 데이터베이스",
@@ -898,6 +2071,26 @@
         }
       ],
       "published_precision": "time"
+    },
+    {
+      "id": "9e63539289a31c8631b6",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "original_title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "published_at": "2026-10-16T00:00:00+00:00",
+      "collected_at": "2026-10-18T03:49:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+          "title": "Stack Overflow for Agents triples signups with ChatGPT plugin"
+        }
+      ]
     },
     {
       "id": "0b1dafcd82a86e4850bf",
@@ -2967,5 +4160,6 @@
       "role": "analysis",
       "enabled": true
     }
-  ]
+  ],
+  "collection_slot": "2026-10-18T03:00:00+00:00"
 }

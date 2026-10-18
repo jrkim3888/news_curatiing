@@ -2,12 +2,19 @@ name: Collect AI news
 
 on:
   schedule:
-    # UTC; KST 03:17, 09:17, 15:17, 21:17. GitHub may delay scheduled jobs.
-    - cron: '17 */6 * * *'
+    # UTC; collection at KST 00:00, 06:00, 12:00, 18:00.
+    - cron: '0 3,9,15,21 * * *'
+    # Daily briefing at KST 06:30, covering yesterday 06:00 to today 06:00.
+    - cron: '30 21 * * *'
   workflow_dispatch:
     inputs:
+      mode:
+        description: Collect news or publish the daily briefing
+        type: choice
+        options: [collect, brief]
+        default: collect
       no_llm:
-        description: Collect and publish links without paid OpenRouter calls
+        description: Disable paid OpenRouter calls (uncheck to publish a briefing)
         type: boolean
         default: true
 
@@ -54,10 +61,11 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
           NO_LLM: ${{ github.event_name == 'workflow_dispatch' && inputs.no_llm }}
           NEWS_BRANCH: main
+          NEWS_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || (github.event.schedule == '30 21 * * *' && 'brief' || 'collect') }}
         run: |
           if [[ "$NO_LLM" == true || "$MAX_SUMMARIES_PER_RUN" == 0 ]]; then
             export MAX_SUMMARIES_PER_RUN=0
-          elif [[ -z "$OPENROUTER_API_KEY" || -z "$OPENROUTER_MODEL" ]]; then
+          elif [[ "$NEWS_MODE" == brief && ( -z "$OPENROUTER_API_KEY" || -z "$OPENROUTER_MODEL" ) ]]; then
             echo '::error::Set the OpenRouter secret and model variable, or run with no_llm enabled.'
             exit 1
           fi
@@ -75,6 +83,7 @@ jobs:
           name: collection-${{ github.run_id }}-${{ github.run_attempt }}
           path: |
             data/news.json
+            data/briefings.json
             .runtime/last-run.json
             .runtime/summary-attempts.json
           include-hidden-files: true

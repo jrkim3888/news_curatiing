@@ -119,17 +119,17 @@ nano .env
 ```dotenv
 OPENROUTER_API_KEY=본인_OpenRouter_키
 OPENROUTER_MODEL=선택한_정확한_모델_ID
-MAX_SUMMARIES_PER_RUN=8
+MAX_SUMMARIES_PER_RUN=1
 SITE_URL=https://실제프로젝트.pages.dev
 ```
 
 [OpenRouter 모델 목록](https://openrouter.ai/models)에서 사용 가능한 모델 ID, 가격, JSON mode 지원을 확인합니다. 무료 모델은 속도 제한·가용성이 달라질 수 있습니다. 이 구현은 Chat Completions와 `response_format: json_object`를 사용합니다.
 
-현재 실제 검증 모델은 **`z-ai/glm-5.3-flash`**입니다. 해당 엔드포인트는 추론을 끌 수 없어 낮은 추론 강도(`reasoning.effort=low`)와 4,096토큰 한도를 사용합니다. 1,600토큰에서는 추론이 예산을 소진해 빈 응답이 발생했고, 추론 비활성화는 HTTP 400으로 거절됐습니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다. JSON 등 요청 옵션을 지원하는 제공자로만 라우팅합니다.
+현재 실제 검증 모델은 **`z-ai/glm-5.3-flash`**입니다. 해당 엔드포인트는 추론을 끌 수 없어 낮은 추론 강도(`reasoning.effort=low`)를 사용하며, 일일 브리핑은 최대 6,144토큰, 개별 기사 요약은 4,096토큰입니다. 1,600토큰에서는 추론이 예산을 소진해 빈 응답이 발생했고, 추론 비활성화는 HTTP 400으로 거절됐습니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다. JSON 등 요청 옵션을 지원하는 제공자로만 라우팅합니다.
 
-**OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 기본값은 1회 최대 8요청, 하루 최대 32요청입니다. 수동 실행도 추가 호출을 만들 수 있습니다. 입력은 요청당 본문 12,000자, 응답은 기본 최대 1,600토큰(GLM 5.3 Flash는 추론 포함 4,096토큰)으로 제한합니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 해당 기사는 24시간 재요청을 기다립니다.
+**OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 일반 수집은 LLM을 호출하지 않고, 일일 브리핑은 하루 최대 1회 요청합니다. 브리핑 입력은 최대 16건·건당 2,400자, 출력은 최대 6,144토큰입니다. 수동 `--summarize-articles` 실행은 별도 비용을 만들 수 있습니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 브리핑은 같은 날짜 재요청을 막습니다. 수동 개별 기사 요약의 대기 시간은 24시간입니다.
 
-처음에는 `MAX_SUMMARIES_PER_RUN=1`로 수동 검증한 후 8로 올리면 됩니다. 키/모델이 비어 있으면 수집·배포는 정상 진행되지만 링크 전용입니다. `.runtime/summary-attempts.json`은 재시도 제어를 위해 보존합니다.
+`MAX_SUMMARIES_PER_RUN=1`을 유지하면 됩니다. 일일 브리핑은 값을 높여도 한 번만 요청합니다. 키/모델이 비어 있으면 수집·배포는 정상 진행되지만 링크 전용입니다. `.runtime/summary-attempts.json`은 재시도 제어를 위해 보존합니다.
 
 ## 5. Oracle에서 수동으로 끝까지 확인
 
@@ -137,7 +137,8 @@ SITE_URL=https://실제프로젝트.pages.dev
 cd /opt/ai-brief
 .venv/bin/python -m unittest discover -s tests -v
 .venv/bin/python -m collector --dry-run
-bash ops/run-collector.sh
+NEWS_MODE=collect bash ops/run-collector.sh
+NEWS_MODE=brief bash ops/run-collector.sh
 tail -n 60 .runtime/last-run.json
 git log -1 --oneline
 ```
@@ -155,7 +156,7 @@ timedatectl
 crontab -e
 ```
 
-`news` 사용자의 crontab에 [ops/collector.crontab.example](../ops/collector.crontab.example) 내용을 추가합니다. UTC 서버 기준 `17 */6 * * *`는 한국 시간 **03:17 / 09:17 / 15:17 / 21:17**입니다. 한국 시간 서버라면 00:17 / 06:17 / 12:17 / 18:17에 실행됩니다. 어느 경우에도 6시간 간격입니다. 다른 기존 cron 항목을 덮어쓰지 마세요.
+`news` 사용자의 crontab에 [ops/collector.crontab.example](../ops/collector.crontab.example) 내용을 추가합니다. 예시는 **UTC 서버 기준**입니다. 수집은 `0 3,9,15,21 * * *`(KST 00/06/12/18시), 브리핑은 `30 21 * * *`(KST 매일 06:30)입니다. 한국 시간 서버에서는 각각 `0 */6 * * *`, `30 6 * * *`를 사용합니다. 브리핑 범위는 전날 06:00 이상~당일 06:00 미만으로 고정합니다. 06:00 수집이 누락되면 브리핑 작업이 먼저 수집을 복구합니다. 다른 기존 cron 항목을 덮어쓰지 마세요.
 
 `flock`은 동시에 두 작업이 실행되는 것을 막습니다. `timeout`은 배치를 50분으로 제한합니다. cron은 VM이 꺼져 있거나 정지된 동안 실행하지 않으며 놓친 실행을 자동 보충하지 않습니다. 재시작 후 수동 실행하거나 다음 예약을 기다립니다. VM의 실제 Free Tier 자원 상태와 가용성은 별도 관리가 필요합니다.
 
@@ -169,9 +170,9 @@ tail -n 100 /opt/ai-brief/.runtime/cron.log
 ## 운영과 복구
 
 - **수집 실패**: `last-run.json`과 cron 로그 확인. 전체 소스의 절반 미만이 성공하면 공개 데이터를 보존하고 실패로 종료합니다. 일부 실패는 이전 기사를 유지하며 성공한 소스만 갱신합니다. 본문 수집/LLM 실패는 해당 기사를 링크로 남깁니다.
-- **push 실패**: 로컬 커밋을 보존합니다. 다음 실행에서 원격이 그대로라면 동일 커밋을 push하고 종료합니다. 원격과 서로 다른 새 커밋이 생겼다면 자동 병합을 중단하므로 운영자가 변경을 검토해 병합해야 합니다.
+- **push 실패**: 로컬 커밋을 보존합니다. 다음 실행에서 원격이 그대로라면 동일 커밋을 push합니다. 수집 모드에서는 종료하며, 브리핑 모드에서는 이어서 그날 발행 여부를 확인합니다. 원격과 서로 다른 새 커밋이 생겼다면 자동 병합을 중단하므로 운영자가 변경을 검토해 병합해야 합니다.
 - **코드 갱신**: 개발 브랜치를 main에 반영하면 다음 실행이 `--ff-only`로 받아옵니다. requirements.txt가 바뀌면 venv 의존성을 갱신합니다. 사전 CI를 통과한 코드만 main에 넣으세요.
-- **강제 종료/정전 후 dirty 상태**: `git diff -- data/news.json`과 `.runtime/news-before.json`을 확인합니다. 정상 배치라면 검증·커밋, 불완전하다면 백업 복원 후 재실행합니다. 래퍼는 알 수 없는 로컬 변경을 자동 삭제하지 않습니다.
+- **강제 종료/정전 후 dirty 상태**: `git diff -- data/news.json data/briefings.json`과 `.runtime/news-before.json`, `.runtime/briefings-before.json`을 함께 확인합니다. 정상 배치라면 검증·커밋, 불완전하다면 백업 복원 후 재실행합니다. 래퍼는 알 수 없는 로컬 변경을 자동 삭제하지 않습니다.
 - **요약 비용 급증**: OpenRouter 키 한도와 모델 가격을 먼저 확인합니다. `MAX_SUMMARIES_PER_RUN=0`이면 LLM 요청을 멈추고 링크 수집을 계속합니다.
 - **수집 일시 중지**: 해당 cron 줄을 주석 처리합니다. 사이트는 마지막 정적 배포를 계속 제공합니다.
 - **정정/삭제**: `config/editorial.json` 수정 → GitHub 반영 → Oracle에서 래퍼 수동 실행 → Pages 배포 확인. 페이지 내용은 다음 배포 전까지 바뀌지 않습니다.
@@ -179,6 +180,6 @@ tail -n 100 /opt/ai-brief/.runtime/cron.log
 
 ## 비용
 
-6시간당 변경 배포 1회면 월 약 120~124회입니다. 코드 변경·재시도·다른 Pages 프로젝트 빌드를 더해 계정의 실제 무료 한도와 비교합니다. 정적 Pages 호스팅에 유료 Workers를 추가할 필요는 없습니다. OpenRouter 호출, 도메인, Oracle 무료 범위 초과 자원은 별도 비용입니다.
+하루 수집 4회와 일일 브리핑 1회가 모두 배포되면 월 약 150~155회입니다. 코드 변경·재시도·다른 Pages 프로젝트 빌드를 더해 계정의 실제 무료 한도와 비교합니다. 정적 Pages 호스팅에 유료 Workers를 추가할 필요는 없습니다. OpenRouter 호출, 도메인, Oracle 무료 범위 초과 자원은 별도 비용입니다.
 
 공식 문서: [Cloudflare Pages Git 연결](https://developers.cloudflare.com/pages/get-started/git-integration/), [Pages 빌드 설정](https://developers.cloudflare.com/pages/configuration/build-configuration/), [Pages 제한](https://developers.cloudflare.com/pages/platform/limits/).

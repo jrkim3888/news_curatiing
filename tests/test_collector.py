@@ -180,15 +180,19 @@ class PipelineTests(unittest.TestCase):
     @patch.dict(os.environ, {'OPENROUTER_API_KEY': 'test-only-not-a-key', 'OPENROUTER_MODEL': 'test/model', 'MAX_SUMMARIES_PER_RUN': '1'})
     def test_paid_call_cap_and_failure_cooldown(self):
         self.args.no_llm = False
+        self.args.summarize_articles = True
         calls = []
         def failed(article, *_):
             calls.append(article['id'])
             raise RuntimeError('provider failure')
-        self.quiet_run(generate=failed)
+        # Here only article summaries are exercised; the briefing pipeline has its own tests.
+        with patch('collector.briefings.prepare_inputs', return_value=[]):
+            self.quiet_run(generate=failed)
         self.assertEqual(len(calls), 1)
         first_report = json.loads((Path(self.args.runtime_dir) / 'last-run.json').read_text())
         self.assertEqual(first_report['summary_errors'], [{'article_id': calls[0], 'reason': 'RuntimeError'}])
-        self.quiet_run(generate=failed)
+        with patch('collector.briefings.prepare_inputs', return_value=[]):
+            self.quiet_run(generate=failed)
         self.assertEqual(len(calls), 2)
         self.assertNotEqual(calls[0], calls[1])
         self.assertTrue(all(a['status'] == 'link' for a in json.loads(self.path.read_text())['articles']))

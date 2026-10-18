@@ -55,6 +55,7 @@ export const data = z
   .object({
     version: z.literal(1),
     updated_at: z.string().nullable(),
+    collection_slot: z.iso.datetime({ offset: true }).optional(),
     articles: z.array(articleSchema),
     sources: z.array(
       z.object({

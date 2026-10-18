@@ -1,0 +1,49 @@
+---
+import { dayLabel, dayUrl, representative, timeLabel } from '../lib/briefings';
+interface Props {
+  days: string[];
+  filterable?: boolean;
+}
+const { days, filterable = false } = Astro.props;
+---
+
+<ol class="brief-history-list">
+  {days.map((day) => {
+    const e = representative(day);
+    return (
+      <li
+        class="brief-day-card"
+        data-history-day={filterable ? day : undefined}
+        data-history-text={
+          filterable
+            ? `${e.headline} ${e.issues.map((i) => i.title).join(' ')}`.toLocaleLowerCase()
+            : undefined
+        }
+      >
+        <div class="brief-day-date">
+          <time datetime={day}>{dayLabel(day)}</time>
+          <span>{timeLabel(e.scheduled_at)} 발행 기준 · KST</span>
+        </div>
+        <div class="brief-day-body">
+          <a href={dayUrl(day)}>
+            <h3>{e.headline}</h3>
+          </a>
+          <p>{e.overview[0]?.text}</p>
+          <div class="brief-topic-chips">
+            {e.issues.slice(0, 3).map((i) => (
+              <span>{i.category}</span>
+            ))}
+          </div>
+          <div class="brief-day-footer">
+            <span>
+              이슈 {e.issues.length}개 · 근거 기사 {e.articles.length}건
+            </span>
+            <a href={dayUrl(day)} aria-label={`${dayLabel(day)} 브리핑 보기`}>
+              이날의 브리핑 <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+        </div>
+      </li>
+    );
+  })}
+</ol>
