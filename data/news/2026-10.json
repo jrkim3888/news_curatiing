@@ -3,6 +3,276 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6aa5f67846a0e9a10337",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "original_title": "People are using AI to make their smart TVs dumb again",
+      "published_at": "2026-10-19T16:13:22+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
+          "title": "People are using AI to make their smart TVs dumb again"
+        }
+      ]
+    },
+    {
+      "id": "7c30093bee87a8ea6f53",
+      "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
+      "title": "AI and the future of human made music (2023)",
+      "original_title": "AI and the future of human made music (2023)",
+      "published_at": "2026-10-19T16:11:17+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.furious.com/perfect/artificialintelligencemusic.html",
+          "title": "AI and the future of human made music (2023)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50154170"
+        }
+      ]
+    },
+    {
+      "id": "4c5212fd0bc57a8e05d0",
+      "url": "http://crawl-check.user-sentry.com/",
+      "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+      "original_title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+      "published_at": "2026-10-19T16:08:01+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "http://crawl-check.user-sentry.com/",
+          "title": "Check if AI crawlers are blocked by your robots.txt – free tool",
+          "discussion_url": "https://news.ycombinator.com/item?id=50154131"
+        }
+      ]
+    },
+    {
+      "id": "14ed41bc99b9f847022d",
+      "url": "https://www.thebignewsletter.com/p/monopoly-round-up-pop-the-damn-ai",
+      "title": "Monopoly Round-Up: Goodbye AI Bubble, Hello Real Economy",
+      "original_title": "Monopoly Round-Up: Goodbye AI Bubble, Hello Real Economy",
+      "published_at": "2026-10-19T16:06:22+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.thebignewsletter.com/p/monopoly-round-up-pop-the-damn-ai",
+          "title": "Monopoly Round-Up: Goodbye AI Bubble, Hello Real Economy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50154101"
+        }
+      ]
+    },
+    {
+      "id": "55b176af9147158e7e3c",
+      "url": "https://github.com/mujtabamisri/contextbridge-ai",
+      "title": "Contextbridge-AI",
+      "original_title": "Contextbridge-AI",
+      "published_at": "2026-10-19T16:03:31+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/mujtabamisri/contextbridge-ai",
+          "title": "Contextbridge-AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50154061"
+        }
+      ]
+    },
+    {
+      "id": "3cd074efa04e9ffb2291",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "title": "AI companies are coming for the plumbers",
+      "original_title": "AI companies are coming for the plumbers",
+      "published_at": "2026-10-19T16:03:29+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+          "title": "AI companies are coming for the plumbers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50154060"
+        }
+      ]
+    },
+    {
+      "id": "7644f14f0a2b90c52d15",
+      "url": "https://dismodels.com/tutorials",
+      "title": "Distributed AI Models",
+      "original_title": "Distributed AI Models",
+      "published_at": "2026-10-19T16:01:58+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dismodels.com/tutorials",
+          "title": "Distributed AI Models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50154045"
+        }
+      ]
+    },
+    {
+      "id": "57e42ab31b4895fffae0",
+      "url": "https://agenticmarket.exchange/challenge",
+      "title": "A $10M prize for whoever builds 1M working AI agents",
+      "original_title": "A $10M prize for whoever builds 1M working AI agents",
+      "published_at": "2026-10-19T15:54:08+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://agenticmarket.exchange/challenge",
+          "title": "A $10M prize for whoever builds 1M working AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50153946"
+        }
+      ]
+    },
+    {
+      "id": "726ad3b8b1659e553f52",
+      "url": "https://news.hada.io/topic?id=35647",
+      "title": "Superlite: Superpowers보다 빠른 대안",
+      "original_title": "Superlite: Superpowers보다 빠른 대안",
+      "published_at": "2026-10-19T15:46:43+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Superlite 는 명세를 받아 계획 수립, 병렬 구현, 통합 경계 점검, 리뷰까지 수행하는 Claude Code 플러그인으로, 반복적인 승인 없이 개발을 진행하도록 설계됨 파일 소유권과 인터페이스, 테스트를 명시한 작업 그래프 를 만들고, 파일을 공유하지 않으며 서로 의존...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35647",
+          "title": "Superlite: Superpowers보다 빠른 대안"
+        }
+      ]
+    },
+    {
+      "id": "02f39eb30d6a3dad3b3e",
+      "url": "https://opentokenmini.org/",
+      "title": "Show HN: OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)",
+      "original_title": "Show HN: OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)",
+      "published_at": "2026-10-19T15:44:01+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://opentokenmini.org/",
+          "title": "Show HN: OpenTokenMini: Monitor and Fix Your AI Spending (FOSS)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50153820"
+        }
+      ]
+    },
+    {
+      "id": "d7ed5284865c5a3c15ab",
+      "url": "https://github.com/orsinium-labs/deslopify",
+      "title": "Deslopify: Analyze a project to find out when it turned into AI slop",
+      "original_title": "Deslopify: Analyze a project to find out when it turned into AI slop",
+      "published_at": "2026-10-19T15:40:58+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/orsinium-labs/deslopify",
+          "title": "Deslopify: Analyze a project to find out when it turned into AI slop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50153780"
+        }
+      ]
+    },
+    {
+      "id": "bfa70917f3b198d14601",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "original_title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "published_at": "2026-10-19T15:37:09+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+          "title": "Nvidia launches new open models to run agents in the enterprise and on PCs"
+        }
+      ]
+    },
+    {
+      "id": "ddfc020402814e8b4c47",
+      "url": "https://www.town.com/operate-at-the-speed-of-ai",
+      "title": "Town raises $108M to help your team operate at the speed of AI",
+      "original_title": "Town raises $108M to help your team operate at the speed of AI",
+      "published_at": "2026-10-19T15:34:55+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.town.com/operate-at-the-speed-of-ai",
+          "title": "Town raises $108M to help your team operate at the speed of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50153708"
+        }
+      ]
+    },
+    {
       "id": "b27a2bcccd7124b848fb",
       "url": "https://blog.jetbrains.com/research/2026/10/dynamics-of-sentiment-and-attitudes-toward-ai-among-developers",
       "title": "Dynamics of Sentiment and Attitudes Toward AI Among Developers",
@@ -1011,6 +1281,26 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=35608",
           "title": "AI 에이전트에게 고치라고 시켰더니 \"수정했습니다\" 라는 답만 오고 파일 md5 는 그대로였다"
+        }
+      ]
+    },
+    {
+      "id": "2a24e0be949d667f82da",
+      "url": "https://news.hada.io/topic?id=35607",
+      "title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]",
+      "original_title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]",
+      "published_at": "2026-10-19T00:36:04+00:00",
+      "collected_at": "2026-10-19T16:15:46+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI로 수학의 역할과 평가 기준이 흔들리는 지금, 새로 들어오는 사람도 변화의 방향을 만들 수 있음. 3Blue1Brown이 AI 때문에 수학 진로를 포기할지 고민하는 학생들에게 전하는 조언 수학자의 일은 증명 생성뿐 아니라 좋은 질문을 고르고, 여러 결과를 새로운 이론으로 엮...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35607",
+          "title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]"
         }
       ]
     },
