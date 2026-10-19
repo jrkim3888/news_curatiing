@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { history } from '../../src/lib/briefings';
-import type { Edition } from '../../src/lib/briefings';
+import { timeLabel, type Edition } from '../../src/lib/briefings';
+import { kstDay } from '../../src/lib/dates';
 
 const editions = (history.editions as Edition[]).filter(
   (e) => e.status === 'published',
@@ -62,6 +63,13 @@ test('edition content and citations remain accessible without JavaScript', async
     const e = editions[0];
     await page.goto(`/briefings/${e.id}/`);
     await expect(page.locator('.brief-overview h2')).toHaveText(e.headline);
+    await expect(page.locator('.brief-publication time')).toHaveAttribute(
+      'datetime',
+      e.generated_at,
+    );
+    await expect(page.locator('.brief-publication time')).toHaveText(
+      `발행 · ${kstDay(new Date(e.generated_at)).replaceAll('-', '.')} ${timeLabel(e.generated_at)} KST`,
+    );
     if (e.takeaway) {
       await expect(page.locator('.brief-takeaway p')).toHaveText(e.takeaway);
       await expect(page.locator('.brief-takeaway > span')).toHaveText(
@@ -78,6 +86,12 @@ test('edition content and citations remain accessible without JavaScript', async
     await expect(page.locator('.brief-issue')).toHaveCount(e.issues.length);
     for (const issue of e.issues) {
       await expect(page.locator(`#${issue.id} h3`)).toHaveText(issue.title);
+      await expect(
+        page.locator(`#${issue.id} .brief-issue-meta time`),
+      ).toHaveAttribute('datetime', e.day);
+      await expect(
+        page.locator(`#${issue.id} .brief-issue-meta time`),
+      ).toHaveText(`${e.day.replaceAll('-', '.')} 브리핑`);
       for (const [index, fact] of issue.facts.entries()) {
         const paragraph = page
           .locator(`#${issue.id} .brief-facts > p`)
@@ -110,6 +124,12 @@ test('edition content and citations remain accessible without JavaScript', async
       }
       for (const id of issue.article_ids) {
         const article = e.articles.find((a) => a.id === id)!;
+        await expect(
+          page.locator(`#source-${issue.id}-${id} time`),
+        ).toHaveAttribute('datetime', article.published_at);
+        await expect(page.locator(`#source-${issue.id}-${id} time`)).toHaveText(
+          `원문 발행 · ${kstDay(new Date(article.published_at)).replaceAll('-', '.')} KST`,
+        );
         await expect(
           page.locator(`#source-${issue.id}-${id} > a`).first(),
         ).toHaveAttribute('href', article.sources[0].url);
@@ -155,6 +175,10 @@ test('history and briefing mobile layout has no overflow', async ({ page }) => {
   }
   if (editions.length) {
     await page.goto('/');
+    await expect(page.locator('.brief-publication time')).toHaveAttribute(
+      'datetime',
+      editions[0].generated_at,
+    );
     if (editions[0].takeaway)
       await expect(page.locator('.brief-takeaway > span')).toHaveText(
         '오늘의 한 줄',

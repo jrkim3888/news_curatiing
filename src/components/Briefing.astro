@@ -10,6 +10,7 @@ import {
   type Edition,
 } from '../lib/briefings';
 import { roleNames } from '../lib/data';
+import { kstDay } from '../lib/dates';
 interface Props {
   edition: Edition;
   compact?: boolean;
@@ -53,7 +54,16 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
       <div class="brief-overview">
         <div class="brief-overview-heading">
           <span>하루를 읽는 요약</span>
-          <span>AI 종합 · {e.issues.length}개 이슈</span>
+          <div class="brief-publication">
+            <span>AI 종합 · {e.issues.length}개 이슈</span>
+            <time
+              datetime={e.generated_at}
+              title="브리핑을 생성해 저장한 시각 기준"
+            >
+              발행 · {kstDay(new Date(e.generated_at)).replaceAll('-', '.')}{' '}
+              {timeLabel(e.generated_at)} KST
+            </time>
+          </div>
         </div>
         <h2>{e.headline}</h2>
         {e.takeaway && (
@@ -100,6 +110,12 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
             <div class="brief-issue-content">
               <div class="brief-issue-meta">
                 <span>{issue.category}</span>
+                <time
+                  datetime={e.day}
+                  title="이 이슈가 실린 브리핑의 발행 기준일"
+                >
+                  {e.day.replaceAll('-', '.')} 브리핑
+                </time>
                 <span>
                   관련 기사 {issue.article_ids.length}건
                   {issue.article_ids.length === 1 ? ' · 단일 기사 근거' : ''}
@@ -145,6 +161,14 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
                       <span class="brief-source-caption">
                         {primary.name} ·{' '}
                         {roleNames[primary.role] || primary.role}
+                        <time datetime={article.published_at}>
+                          원문 발행 ·{' '}
+                          {kstDay(new Date(article.published_at)).replaceAll(
+                            '-',
+                            '.',
+                          )}{' '}
+                          KST
+                        </time>
                       </span>
                       <a
                         href={primary.url}

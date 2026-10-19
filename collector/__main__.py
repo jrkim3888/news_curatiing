@@ -123,8 +123,10 @@ def run(args, *, fetch_source=collect_source, generate=summarize) -> dict:
                 reason = exc.reason if isinstance(exc, (SummaryError, RequestError)) else type(exc).__name__
                 run_report["summary_errors"].append({"article_id": article["id"], "reason": reason})
                 print(f"[summary] {article['id']}: kept as link ({reason})", flush=True)
+    elif not getattr(args, "summarize_articles", False):
+        print("[summary] article summaries not requested; collection saves source links. Daily briefing is a separate job.", flush=True)
     else:
-        print("[summary] disabled or missing OpenRouter settings; keeping source links", flush=True)
+        print("[summary] article summaries disabled by no-llm/dry-run or missing OpenRouter settings; keeping source links", flush=True)
     articles = [a for a in articles if a["id"] not in editorial["hidden_ids"]]
     for article in articles:
         correction = editorial["corrections"].get(article["id"])
