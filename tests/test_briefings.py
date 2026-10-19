@@ -7,9 +7,11 @@ import json
 import os
 from pathlib import Path
 import tempfile
+import shutil
 import unittest
 from unittest.mock import patch
 
+from collector.storage import Archive, encoded, read_news, read_history
 from collector import briefings
 from collector.__main__ import ROOT, run, run_daily
 from collector.core import UTC, article_id
@@ -48,18 +50,16 @@ class BriefingTests(unittest.TestCase):
             with patch('collector.__main__.datetime', wraps=datetime) as clock:
                 clock.now.return_value = self.now
                 run(collection_args, fetch_source=fetch)
-            path = self.root / 'news.json'
-            data = json.loads(path.read_text())
-            data['collection_slot'] = briefings.daily_window(self.now)[2].isoformat()
-            path.write_text(json.dumps(data))
+            store = Archive(self.root, self.args.runtime_dir)
+            store.save(collection_slot=briefings.daily_window(self.now)[2].isoformat())
+            store.close()
             return run_daily(self.args, fetch_source=fetch, generate_briefing=call, now=self.now)
 
     def test_edition_synthesizes_multiple_sources_and_reuses_identical_inputs(self):
         first = self.run_batch()
         self.assertEqual(first['llm_requests'], 1)
         self.assertEqual(first['briefing']['result'], 'created')
-        path = self.root / 'briefings.json'
-        before = path.read_bytes()
+        before = encoded(read_history(self.root))
         history = json.loads(before)
         briefings.validate_history(history)
         edition = history['editions'][0]
@@ -70,12 +70,11 @@ class BriefingTests(unittest.TestCase):
         second = self.run_batch(generate=lambda _: self.fail('Duplicate paid briefing'))
         self.assertEqual(second['briefing']['result'], 'already_published')
         self.assertEqual(second['llm_requests'], 0)
-        self.assertEqual(path.read_bytes(), before)
+        self.assertEqual(encoded(read_history(self.root)), before)
 
     def test_new_batch_appends_snapshot_without_rewriting_previous(self):
         self.run_batch()
-        path = self.root / 'briefings.json'
-        original = json.loads(path.read_text())['editions'][0]
+        original = read_history(self.root)['editions'][0]
         def changed(source):
             entries, note = self.fetch(source)
             entries[0]['url'] += '/next'
@@ -83,7 +82,7 @@ class BriefingTests(unittest.TestCase):
             return entries, note
         same_day = self.run_batch(fetch_source=changed)
         self.assertEqual(same_day['briefing']['result'], 'already_published')
-        self.assertEqual(json.loads(path.read_text())['editions'][0], original)
+        self.assertEqual(read_history(self.root)['editions'][0], original)
         self.now += timedelta(days=1)
         def next_day(source):
             entries, note = changed(source)
@@ -91,15 +90,14 @@ class BriefingTests(unittest.TestCase):
             entries[0]['title'] += ' tomorrow'
             return entries, note
         self.run_batch(fetch_source=next_day)
-        history = json.loads(path.read_text())
+        history = read_history(self.root)
         self.assertEqual(len(history['editions']), 2)
         self.assertEqual(history['editions'][1], original)
         self.assertNotEqual(history['editions'][0]['id'], original['id'])
 
     def test_failed_briefing_preserves_history_and_blocks_same_day_retry(self):
         self.run_batch()
-        path = self.root / 'briefings.json'
-        before = path.read_bytes()
+        before = encoded(read_history(self.root))
         self.now += timedelta(days=1)
         def changed(source):
             entries, note = self.fetch(source)
@@ -110,15 +108,15 @@ class BriefingTests(unittest.TestCase):
         result = self.run_batch(generate=lambda _: (_ for _ in ()).throw(ValueError('bad JSON')), fetch_source=changed)
         self.assertEqual(result['llm_requests'], 1)
         self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-        self.assertEqual(path.read_bytes(), before)
+        self.assertEqual(encoded(read_history(self.root)), before)
         result = self.run_batch(generate=lambda _: self.fail('Paid retry during cooldown'), fetch_source=changed)
         self.assertEqual(result['briefing']['result'], 'cooldown')
 
     def test_unknown_article_fabricated_quote_and_wrong_issue_reference_rejected(self):
         for kind in ('article', 'quote', 'overview'):
             with self.subTest(kind=kind):
-                for path in (self.root/'news.json', self.root/'briefings.json', self.root/'runtime/summary-attempts.json'):
-                    path.unlink(missing_ok=True)
+                shutil.rmtree(self.root)
+                self.root.mkdir()
                 def invalid(inputs):
                     value = response(inputs)
                     if kind == 'article': value['issues'][0]['facts'][0]['evidence'][0]['article_id'] = '0' * 20
@@ -131,11 +129,11 @@ class BriefingTests(unittest.TestCase):
                     return entries, note
                 result = self.run_batch(generate=invalid, fetch_source=case_source)
                 self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-                self.assertFalse((self.root / 'briefings.json').exists())
+                self.assertFalse(bool(read_history(self.root)['editions']))
 
     def test_withdrawal_scrubs_entire_historical_snapshot_and_correction_is_explicit(self):
         self.run_batch()
-        history = json.loads((self.root / 'briefings.json').read_text())
+        history = read_history(self.root)
         aid = history['editions'][0]['articles'][0]['id']
         corrected = briefings.apply_editorial(history, {'hidden_ids': [], 'corrections': {aid: '원문 정정: 발표 날짜를 확인하세요.'}})
         self.assertIn('correction', corrected['editions'][0]['articles'][0])
@@ -149,7 +147,7 @@ class BriefingTests(unittest.TestCase):
 
     def test_kst_day_and_window_validation(self):
         self.run_batch()
-        history = json.loads((self.root / 'briefings.json').read_text())
+        history = read_history(self.root)
         edition = history['editions'][0]
         # UTC 21:00 is the next Korean date at 06:00.
         end = datetime(2026, 10, 17, 21, 0, tzinfo=UTC)
@@ -164,11 +162,11 @@ class BriefingTests(unittest.TestCase):
         self.args.no_llm = True
         result = self.run_batch(generate=lambda _: self.fail('no_llm'))
         self.assertEqual(result['llm_requests'], 0)
-        self.assertFalse((self.root / 'briefings.json').exists())
+        self.assertFalse(bool(read_history(self.root)['editions']))
         self.args.no_llm, self.args.dry_run = False, True
         result = self.run_batch(generate=lambda _: self.fail('dry_run'))
         self.assertEqual(result['llm_requests'], 0)
-        self.assertFalse((self.root / 'briefings.json').exists())
+        self.assertFalse(bool(read_history(self.root)['editions']))
 
     def test_inputs_exclude_link_only_sources_old_and_future_articles(self):
         articles, evidence = [], {}
@@ -213,7 +211,7 @@ class BriefingTests(unittest.TestCase):
 
     def test_v1_history_remains_readable_and_overview_revisions_are_validated(self):
         self.run_batch()
-        history = json.loads((self.root / 'briefings.json').read_text())
+        history = read_history(self.root)
         e = history['editions'][0]
         original_overview = copy.deepcopy(e['overview'])
         e.pop('takeaway')
@@ -230,7 +228,7 @@ class BriefingTests(unittest.TestCase):
 
     def test_title_and_takeaway_are_distinct_and_required_for_new_editions(self):
         self.run_batch()
-        history = json.loads((self.root / 'briefings.json').read_text())
+        history = read_history(self.root)
         e = history['editions'][0]
         self.assertEqual(e['headline'], response([])['headline'])
         for takeaway in [None, e['headline'], '한 문장입니다. 이어지는 두 번째 문장도 있습니다.', '짧은 한 줄']:
@@ -250,7 +248,7 @@ class BriefingTests(unittest.TestCase):
             return value
         result = self.run_batch(generate=generated)
         self.assertEqual(result['briefing']['result'], 'created')
-        history = json.loads((self.root / 'briefings.json').read_text())
+        history = read_history(self.root)
         fact = history['editions'][0]['issues'][0]['facts'][0]
         self.assertEqual([link['text'] for link in fact['links']], ['AI 개발 도구', '새로운 기능'])
         self.assertEqual([link['article_id'] for link in fact['links']], fact['article_ids'])
@@ -300,17 +298,35 @@ class BriefingTests(unittest.TestCase):
         with redirect_stdout(io.StringIO()), patch.dict(os.environ, {'OPENROUTER_API_KEY':'test-only', 'OPENROUTER_MODEL':'test/model'}):
             result = run(self.args, fetch_source=self.fetch, generate=lambda *_: self.fail('Collection spent LLM budget'))
         self.assertEqual(result['llm_requests'], 0)
-        self.assertFalse((self.root/'briefings.json').exists())
-        data = json.loads((self.root/'news.json').read_text())
+        self.assertFalse(bool(read_history(self.root)['editions']))
+        data = read_news(self.root)
         self.assertEqual(datetime.fromisoformat(data['collection_slot']).astimezone(briefings.KST).hour % 6, 0)
 
     def test_daily_job_recovers_missing_morning_collection_before_generation(self):
-        (self.root/'news.json').write_text(json.dumps({'version':1, 'updated_at':None, 'articles':[], 'sources':[]}))
         with redirect_stdout(io.StringIO()), patch.dict(os.environ, {'OPENROUTER_API_KEY':'test-only', 'OPENROUTER_MODEL':'test/model', 'MAX_SUMMARIES_PER_RUN':'1'}):
             result = run_daily(self.args, fetch_source=self.fetch, generate_briefing=lambda inputs,*_:response(inputs), now=self.now)
         self.assertTrue(result['collection_recovered'])
         self.assertEqual(result['briefing']['result'], 'created')
         self.assertEqual(result['llm_requests'], 1)
+
+    def test_first_day_briefing_reads_both_news_months(self):
+        self.now = datetime(2026, 11, 1, 0, 0, tzinfo=UTC)
+        def across_months(source):
+            entries, note = self.fetch(source)
+            # The fixed 24h window includes Oct 31 KST and Nov 1 KST.
+            entries[0]['published_at'] = '2026-10-31T10:00:00+00:00' if source['id'] == 'openai' else '2026-10-31T20:00:00+00:00'
+            return entries, note
+        seen = []
+        def generated(inputs):
+            seen.extend(i['published_at'] for i in inputs)
+            return response(inputs)
+        result = self.run_batch(generate=generated, fetch_source=across_months)
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertIn('2026-10-31T10:00:00+00:00', seen)
+        self.assertIn('2026-10-31T20:00:00+00:00', seen)
+        self.assertTrue((self.root/'news/2026-10.json').exists())
+        self.assertTrue((self.root/'news/2026-11.json').exists())
+        self.assertTrue((self.root/'briefings/2026-11.json').exists())
 
     @patch('collector.briefings.request')
     def test_truncated_provider_output_is_not_an_edition(self, request):

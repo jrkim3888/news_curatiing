@@ -1,6 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Feed from '../components/Feed.astro';
+import { NEWS_PAGE_SIZE } from '../lib/pagination';
 import { articles, data, dateLabel } from '../lib/data';
 ---
 
@@ -20,7 +21,11 @@ import { articles, data, dateLabel } from '../lib/data';
         날짜별 종합 브리핑은 히스토리에서 읽어보세요 ↗
       </a>
     </div>
-    <Feed articles={articles} archive />
+    <Feed
+      articles={articles.slice(0, NEWS_PAGE_SIZE)}
+      total={articles.length}
+      archive
+    />
     <p class="brief-history-note">
       기사 데이터 갱신 ·{' '}
       {data.updated_at

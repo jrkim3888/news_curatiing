@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-18T03:58:04+00:00",
+  "month": "2026-10",
   "articles": [
     {
       "id": "c5c94908702a5d6f03d7",
@@ -4046,120 +4046,5 @@
       ],
       "published_precision": "time"
     }
-  ],
-  "sources": [
-    {
-      "id": "techcrunch",
-      "name": "TechCrunch AI",
-      "homepage": "https://techcrunch.com/category/artificial-intelligence/",
-      "region": "global",
-      "role": "media",
-      "enabled": true
-    },
-    {
-      "id": "aitimes",
-      "name": "AI타임스",
-      "homepage": "https://www.aitimes.com/",
-      "region": "kr",
-      "role": "media",
-      "enabled": true
-    },
-    {
-      "id": "aitimes_kr",
-      "name": "인공지능신문",
-      "homepage": "https://www.aitimes.kr/",
-      "region": "kr",
-      "role": "media",
-      "enabled": true
-    },
-    {
-      "id": "hackernews",
-      "name": "Hacker News",
-      "homepage": "https://news.ycombinator.com/",
-      "region": "global",
-      "role": "signal",
-      "enabled": true
-    },
-    {
-      "id": "geeknews",
-      "name": "긱뉴스",
-      "homepage": "https://news.hada.io/",
-      "region": "kr",
-      "role": "signal",
-      "enabled": true
-    },
-    {
-      "id": "openai",
-      "name": "OpenAI News",
-      "homepage": "https://openai.com/news/",
-      "region": "global",
-      "role": "official",
-      "enabled": true
-    },
-    {
-      "id": "anthropic",
-      "name": "Anthropic News",
-      "homepage": "https://www.anthropic.com/news",
-      "region": "global",
-      "role": "official",
-      "enabled": true
-    },
-    {
-      "id": "google_ai",
-      "name": "Google The Keyword / AI",
-      "homepage": "https://blog.google/innovation-and-ai/technology/ai/",
-      "region": "global",
-      "role": "official",
-      "enabled": true
-    },
-    {
-      "id": "deepmind",
-      "name": "Google DeepMind Blog",
-      "homepage": "https://deepmind.google/discover/blog/",
-      "region": "global",
-      "role": "official_research",
-      "enabled": true
-    },
-    {
-      "id": "huggingface",
-      "name": "Hugging Face Blog",
-      "homepage": "https://huggingface.co/blog",
-      "region": "global",
-      "role": "official_community",
-      "enabled": true
-    },
-    {
-      "id": "nvidia",
-      "name": "NVIDIA Technical Blog",
-      "homepage": "https://developer.nvidia.com/blog/",
-      "region": "global",
-      "role": "official",
-      "enabled": true
-    },
-    {
-      "id": "byline",
-      "name": "바이라인네트워크",
-      "homepage": "https://byline.network/",
-      "region": "kr",
-      "role": "media",
-      "enabled": true
-    },
-    {
-      "id": "naver_d2",
-      "name": "NAVER D2",
-      "homepage": "https://d2.naver.com/home",
-      "region": "kr",
-      "role": "official",
-      "enabled": true
-    },
-    {
-      "id": "simonwillison",
-      "name": "Simon Willison",
-      "homepage": "https://simonwillison.net/",
-      "region": "global",
-      "role": "analysis",
-      "enabled": true
-    }
-  ],
-  "collection_slot": "2026-10-18T03:00:00+00:00"
+  ]
 }

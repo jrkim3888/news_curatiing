@@ -58,7 +58,7 @@ npm run dev
 .venv/bin/python -m collector collect --summarize-articles
 ```
 
-수동 수집은 `data/news.json`과 `data/briefings.json`을 변경할 수 있지만 Git 커밋·push를 하지 않습니다. **운영용 `ops/run-collector.sh`만 커밋·push합니다.** 개발 머신에 운영 cron을 설치하지 마세요.
+수동 수집은 `data/catalog.json`과 `data/news/`·`data/briefings/`의 월별 JSON을 변경할 수 있지만 Git 커밋·push를 하지 않습니다. **운영용 `ops/run-collector.sh`만 커밋·push합니다.** 개발 머신에 운영 cron을 설치하지 마세요.
 
 ```bash
 .venv/bin/python -m unittest discover -s tests -v
@@ -72,7 +72,7 @@ npx playwright install chromium
 npm run test:browser
 ```
 
-이미 Chromium이 있으면 `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:browser`. 검색 인덱스는 `npm run build`에서 생성하므로 검색 검증은 dev 대신 preview를 사용합니다. 한국어 검색은 지원하지만 어간 분석은 지원하지 않습니다. 아카이브 목록 내 검색은 키워드별 부분 문자열 검색입니다.
+이미 Chromium이 있으면 `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH=/usr/bin/chromium npm run test:browser`. 검색 인덱스는 `npm run build`에서 생성하므로 검색 검증은 dev 대신 preview를 사용합니다. 한국어 검색은 지원하지만 어간 분석은 지원하지 않습니다. 아카이브·히스토리·통합 검색 모두 Pagefind 색인으로 전체 보관 기간을 검색합니다. 목록은 기사 18개, 브리핑 12개씩 페이지를 이동하며 읽습니다.
 
 권한이 제한된 Codex 환경에서는 `NPM_CONFIG_CACHE=/tmp/ai-brief-npm-cache`, `ASTRO_TELEMETRY_DISABLED=1` 환경 변수를 사용합니다. 테스트용 서버는 운영 서버가 아닙니다.
 
@@ -82,8 +82,11 @@ npm run test:browser
 | --- | --- |
 | `config/sources.json` | 실제 수집하는 출처·어댑터·필터·본문/요약 정책 |
 | `config/editorial.json` | `hidden_ids`로 숨김, `corrections`의 기사 ID에 정정 메모 |
-| `data/news.json` | 공개하는 메타데이터·짧은 발췌·요약. 전문과 키 없음 |
-| `data/briefings.json` | 날짜별 일일 브리핑 스냅샷과 근거 링크. 전문·근거 원문 인용은 저장하지 않음 |
+| `data/news/YYYY-MM.json` | 공개하는 메타데이터·짧은 발췌·요약. 전문과 키 없음 |
+| `data/briefings/YYYY-MM.json` | 날짜별 일일 브리핑 스냅샷과 근거 링크. 전문·근거 원문 인용은 저장하지 않음 |
+| `data/catalog.json` | 월별 파일 목록·개수·무결성 해시·수집 구간 |
+| `data/sources.json` | 현재·과거 기사의 출처 메타데이터 |
+| `.runtime/archive-index-*.sqlite3` | 월별 원본에서 재생성하는 로컬 조회 색인. Git 제외 |
 | `.runtime/last-run.json` | 마지막 수집 결과. Git 제외, Actions 아티팩트 또는 VM에 보존 |
 | `.runtime/summary-attempts.json` | 유료 요청 대기 상태. Actions 캐시 또는 VM에 보존. 캐시는 삭제될 수 있음 |
 | `.github/workflows/collect.yml` | 6시간 수집·매일 06:30 브리핑 및 수동 실행, 기본 `GITHUB_TOKEN`으로 게시 |
@@ -107,6 +110,6 @@ npm run test:browser
 - HN은 최근 제출 60개, 다른 소스는 피드가 제공하는 항목 안에서 선별합니다. 6시간 사이의 모든 기사를 보장하지 않습니다.
 - `MAX_SUMMARIES_PER_RUN`의 기본값은 1입니다. 일반 수집에는 LLM을 호출하지 않으며, 일일 브리핑은 값이 1 이상이어도 최대 1회만 요청합니다. 0이면 생성을 중지합니다. 수동 `--summarize-articles` 옵션의 기사 요약에도 이 상한을 적용합니다. 브리핑 입력은 최대 16건, 본문 발췌는 건당 최대 2,400자이며 출력은 최대 6,144토큰입니다. 모든 수집 기사가 브리핑에 포함되는 것은 아닙니다.
 - 브리핑은 정해진 06:00~06:00 범위만 사용합니다. 06:30 전에 수동 실행하면 직전 발행일을 대상으로 합니다. 아침 수집이 누락되면 먼저 수집을 복구합니다. 수동 기사별 요약은 기본 3일 범위 안에서 재시도합니다. 처음 수집 때 `--no-llm`으로 넣은 오래된 기사까지 소급 요약하려면 `--days 14` 같은 범위를 지정해야 합니다.
-- 브리핑은 실제 생성 시점부터 누적하며 과거 기록을 임의로 만들지 않습니다. 같은 발행일은 자료나 모델이 바뀌어도 덮어쓰지 않습니다. GitHub 예약과 Pages 빌드 지연으로 06:30보다 늦게 게시될 수 있습니다. 3,000일에서 추가 저장을 막는 보호 장치가 있으므로 장기 운영 전 월별 분할이 필요합니다.
-- 기사 5,000개에서 저장을 중단하는 보호 장치가 있습니다. 장기 운영 전 아카이브 분할과 Pages 파일 수·빌드 시간을 확인하세요. 자동 삭제로 기존 링크를 깨뜨리지 않습니다.
+- 브리핑은 실제 생성 시점부터 누적하며 과거 기록을 임의로 만들지 않습니다. 같은 발행일은 자료나 모델이 바뀌어도 덮어쓰지 않습니다. GitHub 예약과 Pages 빌드 지연으로 06:30보다 늦게 게시될 수 있습니다.
+- 기사는 원문 발행일의 KST 월, 브리핑은 발행일의 월로 나누어 보관합니다. 과거 기록을 자동 삭제하지 않으며 기존 주소와 북마크 ID를 유지합니다. 5,000개 전체 저장 제한은 제거했습니다. 정적 전체 빌드 시간·검색 색인·Pages 파일 수는 여전히 누적 데이터에 따라 증가합니다. [아카이브 구조와 운영 기준](docs/archive-storage.md)을 참고하세요.
 - 외부 접속·실제 유료 LLM·Actions 예약 실행·Pages 배포는 서로 다른 검증 단계입니다. [검증 기록](docs/verification.md)에 실행 여부를 구분했습니다.

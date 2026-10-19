@@ -6,6 +6,7 @@ import {
   dateTimeLabel,
   rangeLabel,
   splitFact,
+  briefingRecord,
   type Edition,
 } from '../lib/briefings';
 import { roleNames } from '../lib/data';
@@ -20,10 +21,25 @@ const snapshots = new Map(e.articles.map((a) => [a.id, a]));
 <article
   class="brief-edition"
   aria-label={e.headline}
-  data-pagefind-meta={!compact ? 'title[aria-label]' : undefined}
+  data-pagefind-meta={
+    !compact ? 'title[aria-label], record[data-record]' : undefined
+  }
+  data-record={
+    !compact && e.status === 'published'
+      ? JSON.stringify(briefingRecord(e))
+      : undefined
+  }
+  data-pagefind-filter={
+    !compact && e.status === 'published' ? 'kind:briefing' : undefined
+  }
+  data-pagefind-sort={!compact ? 'published[data-published]' : undefined}
+  data-published={e.window_end}
   data-pagefind-body={!compact || undefined}
-  data-pagefind-ignore={compact || undefined}
+  data-pagefind-ignore={compact || e.status === 'withdrawn' || undefined}
 >
+  {!compact && e.status === 'published' && (
+    <span data-pagefind-filter={`month:${e.day.slice(0, 7)}`}></span>
+  )}
   {e.status === 'withdrawn' ? (
     <div class="brief-empty">
       <h2>비공개 처리된 브리핑입니다.</h2>

@@ -1,5 +1,12 @@
 import { z } from 'zod';
-import raw from '../../data/news.json';
+import { catalog, sourceData, readMonths } from './storage';
+const raw = {
+  version: 1,
+  updated_at: catalog.updated_at,
+  collection_slot: catalog.collection_slot || undefined,
+  sources: sourceData.sources,
+  articles: readMonths('news'),
+};
 
 const url = z.url().refine((v) => /^https?:\/\//.test(v));
 const category = z.enum([
@@ -71,7 +78,18 @@ export const data = z
   .parse(raw);
 export type Article = z.infer<typeof articleSchema>;
 export const categories = category.options;
-export const articles = data.articles;
+export const articles = data.articles.sort(
+  (a, b) =>
+    b.published_at.localeCompare(a.published_at) || b.id.localeCompare(a.id),
+);
+if (new Set(articles.map((a) => a.id)).size !== articles.length)
+  throw new Error('Duplicate article IDs across months');
+export const articlesByCategory = new Map(
+  categories.map((category) => [
+    category,
+    articles.filter((a) => a.category === category),
+  ]),
+);
 export const sourceMap = new Map(data.sources.map((s) => [s.id, s]));
 export const roleNames: Record<string, string> = {
   official: '공식 발표',

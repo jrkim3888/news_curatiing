@@ -1,14 +1,23 @@
 ---
+import { kstDay } from '../../lib/dates';
 import Layout from '../../layouts/Layout.astro';
 import NewsCard from '../../components/NewsCard.astro';
-import { articles, sourceMap, roleNames, dateLabel } from '../../lib/data';
+import {
+  articles,
+  articlesByCategory,
+  sourceMap,
+  roleNames,
+  dateLabel,
+} from '../../lib/data';
 export function getStaticPaths() {
   return articles.map((a) => ({ params: { id: a.id }, props: { article: a } }));
 }
 const { article: a } = Astro.props;
 const source = sourceMap.get(a.sources[0].source_id)!;
-const related = articles
-  .filter((other) => other.id !== a.id && other.category === a.category)
+const related = articlesByCategory
+  .get(a.category)!
+  .slice(0, 4)
+  .filter((other) => other.id !== a.id)
   .slice(0, 3);
 const description =
   a.summary ||
@@ -33,7 +42,26 @@ const structured = {
     <a class="back-link" href="/">
       ← 브리핑으로 돌아가기
     </a>
-    <article class="article-body" data-pagefind-body>
+    <article
+      class="article-body"
+      data-pagefind-body
+      data-pagefind-filter="kind:news"
+      data-pagefind-meta="record[data-record]"
+      data-record={JSON.stringify(a)}
+      data-pagefind-sort="published[data-published]"
+      data-published={a.published_at}
+    >
+      {[
+        `date:${kstDay(new Date(a.published_at))}`,
+        `region:${a.region}`,
+        `summary:${a.status}`,
+        `article_id:${a.id}`,
+      ].map((filter) => (
+        <span data-pagefind-filter={filter}></span>
+      ))}
+      {a.sources.map((s) => (
+        <span data-pagefind-filter={`source:${s.source_id}`}></span>
+      ))}
       <div class="article-kicker">
         <span class="category" data-pagefind-filter="category">
           {a.category}

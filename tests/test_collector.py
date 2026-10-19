@@ -13,6 +13,7 @@ from collector.__main__ import ROOT, run
 from collector.adapters import parse_rss, parse_anthropic, extract_body
 from collector.core import UTC, article_id, canonical_url, is_ai_relevant, merge_candidates, parse_date, validate_summary, validate_dataset
 from collector.llm import SummaryError, summarize
+from collector.storage import read_news
 from collector.network import ensure_allowed, Robots
 
 
@@ -137,7 +138,7 @@ class PipelineTests(unittest.TestCase):
         self.temp = tempfile.TemporaryDirectory()
         self.addCleanup(self.temp.cleanup)
         self.args = argparse.Namespace(data_dir=self.temp.name, runtime_dir=str(Path(self.temp.name) / 'runtime'), days=3, no_llm=True, dry_run=False)
-        self.path = Path(self.temp.name) / 'news.json'
+        self.path = Path(self.temp.name) / 'catalog.json'
 
     def fetch(self, source):
         now = datetime.now(UTC)
@@ -157,7 +158,7 @@ class PipelineTests(unittest.TestCase):
         result = self.quiet_run()
         self.assertEqual(result['result'], 'unchanged')
         self.assertEqual(self.path.read_bytes(), before)
-        data = json.loads(before)
+        data = read_news(self.temp.name)
         self.assertEqual(len(data['articles']), 14)
         validate_dataset(data)
 
@@ -175,7 +176,7 @@ class PipelineTests(unittest.TestCase):
                 raise RuntimeError('offline')
             return self.fetch(source)
         self.quiet_run(fetch_source=partial)
-        self.assertEqual(len(json.loads(self.path.read_text())['articles']), 14)
+        self.assertEqual(len(read_news(self.temp.name)['articles']), 14)
 
     @patch.dict(os.environ, {'OPENROUTER_API_KEY': 'test-only-not-a-key', 'OPENROUTER_MODEL': 'test/model', 'MAX_SUMMARIES_PER_RUN': '1'})
     def test_paid_call_cap_and_failure_cooldown(self):
@@ -195,7 +196,21 @@ class PipelineTests(unittest.TestCase):
             self.quiet_run(generate=failed)
         self.assertEqual(len(calls), 2)
         self.assertNotEqual(calls[0], calls[1])
-        self.assertTrue(all(a['status'] == 'link' for a in json.loads(self.path.read_text())['articles']))
+        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.temp.name)['articles']))
+
+    def test_removed_source_keeps_historical_metadata_and_article_links(self):
+        self.quiet_run()
+        root = Path(self.temp.name)
+        (root / 'config').mkdir()
+        sources = json.loads((ROOT / 'config/sources.json').read_text())
+        (root / 'config/sources.json').write_text(json.dumps([s for s in sources if s['id'] != 'openai']))
+        (root / 'config/editorial.json').write_text('{"hidden_ids": [], "corrections": {}}')
+        with patch('collector.__main__.ROOT', root):
+            self.quiet_run()
+        data = read_news(root)
+        self.assertEqual(len(data['articles']), 14)
+        self.assertFalse(next(s for s in data['sources'] if s['id'] == 'openai')['enabled'])
+        validate_dataset(data)
 
     def test_dry_run_does_not_write_public_data_or_call_llm(self):
         self.args.dry_run = True

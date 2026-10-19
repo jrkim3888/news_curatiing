@@ -1,0 +1,49 @@
+---
+import { pageNumbers, staticPageUrl } from '../lib/pagination';
+interface Props {
+  page: number;
+  pages: number;
+  base: string;
+}
+const { page, pages, base } = Astro.props;
+---
+
+<nav
+  class="pagination"
+  data-pagination
+  aria-label="페이지 이동"
+  hidden={pages <= 1}
+>
+  {page > 1 && (
+    <a
+      href={staticPageUrl(base, page - 1)}
+      data-page={page - 1}
+      aria-label="이전 페이지"
+    >
+      ← 이전
+    </a>
+  )}
+  {pageNumbers(page, pages).map((n) =>
+    n === null ? (
+      <span aria-hidden="true">…</span>
+    ) : (
+      <a
+        href={staticPageUrl(base, n)}
+        data-page={n}
+        aria-label={`${n}페이지`}
+        aria-current={n === page ? 'page' : undefined}
+      >
+        {n}
+      </a>
+    ),
+  )}
+  {page < pages && (
+    <a
+      href={staticPageUrl(base, page + 1)}
+      data-page={page + 1}
+      aria-label="다음 페이지"
+    >
+      다음 →
+    </a>
+  )}
+</nav>

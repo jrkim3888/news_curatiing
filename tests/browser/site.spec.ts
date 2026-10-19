@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import news from '../../data/news.json' with { type: 'json' };
+import { data as news } from '../../src/lib/data';
 
 test('AI summary filter and generated article retain source and model attribution', async ({
   page,
@@ -73,7 +73,7 @@ test('filters, empty state, saved articles and persistence', async ({
   await page.locator('[data-saved-filter]').uncheck();
   await page.locator('[data-summary-filter]').selectOption('all');
   await page.locator('[data-region-filter]').selectOption('kr');
-  expect(await page.locator('[data-card]:visible').count()).toBeGreaterThan(0);
+  await expect(page.locator('[data-card]:visible').first()).toBeVisible();
   expect(
     await page.locator('[data-card][data-region=global]:visible').count(),
   ).toBe(0);
@@ -87,8 +87,8 @@ test('filters, empty state, saved articles and persistence', async ({
   await expect(page.locator('[data-empty]')).toBeVisible();
   await page.getByRole('button', { name: '전체 뉴스 보기' }).click();
   await expect(page.locator('[data-card]:visible')).toHaveCount(18);
-  await page.getByRole('button', { name: '뉴스 더 보기' }).click();
-  await expect(page.locator('[data-card]:visible')).toHaveCount(36);
+  await page.getByRole('link', { name: '다음 페이지', exact: true }).click();
+  await expect(page.locator('[data-card]:visible')).toHaveCount(18);
   expect(errors).toEqual([]);
 });
 

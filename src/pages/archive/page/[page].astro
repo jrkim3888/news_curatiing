@@ -1,0 +1,43 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import Feed from '../../../components/Feed.astro';
+import { articles } from '../../../lib/data';
+import { NEWS_PAGE_SIZE } from '../../../lib/pagination';
+export function getStaticPaths() {
+  return Array.from(
+    { length: Math.max(0, Math.ceil(articles.length / NEWS_PAGE_SIZE) - 1) },
+    (_, index) => ({
+      params: { page: String(index + 2) },
+      props: { page: index + 2 },
+    }),
+  );
+}
+const { page } = Astro.props;
+---
+
+<Layout title={`뉴스 아카이브 · ${page}페이지`}>
+  <div class="container page-content">
+    <div class="page-intro">
+      <span class="eyebrow">EVERY SIGNAL, IN ONE PLACE</span>
+      <h1>
+        뉴스 아카이브<span class="dot">.</span>
+      </h1>
+      <p>
+        수집한 기사를 날짜와 출처로 찾아보세요. 저장한 뉴스는 이 브라우저에
+        보관됩니다.
+      </p>
+      <a href="/briefings/" class="text-link">
+        날짜별 종합 브리핑은 히스토리에서 읽어보세요 ↗
+      </a>
+    </div>
+    <Feed
+      articles={articles.slice(
+        (page - 1) * NEWS_PAGE_SIZE,
+        page * NEWS_PAGE_SIZE,
+      )}
+      total={articles.length}
+      page={page}
+      archive
+    />
+  </div>
+</Layout>

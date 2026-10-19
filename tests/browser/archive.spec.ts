@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
-import news from '../../data/news.json' with { type: 'json' };
-import history from '../../data/briefings.json' with { type: 'json' };
+import { data as news } from '../../src/lib/data';
+import { history } from '../../src/lib/briefings';
 import { kstDay, recentWeek } from '../../src/lib/dates';
 
 test.use({ timezoneId: 'America/Los_Angeles' });
@@ -60,7 +60,10 @@ test('home week cards link to real editions and the full history stays available
     .screenshot({ path: '.runtime/week-desktop.png' });
   await page.getByRole('link', { name: '히스토리 전체 보기' }).click();
   await expect(page.locator('[data-history-day]')).toHaveCount(
-    history.editions.filter((e) => e.status === 'published').length,
+    Math.min(
+      12,
+      history.editions.filter((e) => e.status === 'published').length,
+    ),
   );
 });
 
@@ -123,10 +126,10 @@ test('archive combines dates, sources, category, search and bookmarks across vie
     String(news.articles.length),
   );
   await expect(page.locator('[data-card]:visible')).toHaveCount(18);
-  await page.getByRole('button', { name: '뉴스 더 보기' }).click();
-  await expect(page.locator('[data-card]:visible')).toHaveCount(36);
+  await page.getByRole('link', { name: '다음 페이지', exact: true }).click();
+  await expect(page.locator('[data-card]:visible')).toHaveCount(18);
   await page.getByRole('button', { name: '카드', exact: true }).click();
-  await expect(page.locator('[data-card]:visible')).toHaveCount(36);
+  await expect(page.locator('[data-card]:visible')).toHaveCount(18);
   await page.getByRole('button', { name: '리스트', exact: true }).click();
   await page.locator('[data-card]:visible h3 a').first().click();
   await page.goBack();

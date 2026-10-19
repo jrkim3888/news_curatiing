@@ -172,7 +172,7 @@ tail -n 100 /opt/ai-brief/.runtime/cron.log
 - **수집 실패**: `last-run.json`과 cron 로그 확인. 전체 소스의 절반 미만이 성공하면 공개 데이터를 보존하고 실패로 종료합니다. 일부 실패는 이전 기사를 유지하며 성공한 소스만 갱신합니다. 본문 수집/LLM 실패는 해당 기사를 링크로 남깁니다.
 - **push 실패**: 로컬 커밋을 보존합니다. 다음 실행에서 원격이 그대로라면 동일 커밋을 push합니다. 수집 모드에서는 종료하며, 브리핑 모드에서는 이어서 그날 발행 여부를 확인합니다. 원격과 서로 다른 새 커밋이 생겼다면 자동 병합을 중단하므로 운영자가 변경을 검토해 병합해야 합니다.
 - **코드 갱신**: 개발 브랜치를 main에 반영하면 다음 실행이 `--ff-only`로 받아옵니다. requirements.txt가 바뀌면 venv 의존성을 갱신합니다. 사전 CI를 통과한 코드만 main에 넣으세요.
-- **강제 종료/정전 후 dirty 상태**: `git diff -- data/news.json data/briefings.json`과 `.runtime/news-before.json`, `.runtime/briefings-before.json`을 함께 확인합니다. 정상 배치라면 검증·커밋, 불완전하다면 백업 복원 후 재실행합니다. 래퍼는 알 수 없는 로컬 변경을 자동 삭제하지 않습니다.
+- **강제 종료/정전 후 dirty 상태**: 먼저 `.venv/bin/python -m collector recover`로 중단된 월별 저장을 복구합니다. 래퍼도 다음 실행 전에 이 복구를 시도합니다. 이후 `git status --short`와 `git diff -- data`를 확인합니다. 정상 배치라면 전체 검증 후 관련 월 파일·catalog·sources를 함께 커밋합니다. 알 수 없는 변경이나 수동 편집은 자동 덮어쓰지 않습니다. [월별 아카이브 복구](archive-storage.md)를 참고하세요.
 - **요약 비용 급증**: OpenRouter 키 한도와 모델 가격을 먼저 확인합니다. `MAX_SUMMARIES_PER_RUN=0`이면 LLM 요청을 멈추고 링크 수집을 계속합니다.
 - **수집 일시 중지**: 해당 cron 줄을 주석 처리합니다. 사이트는 마지막 정적 배포를 계속 제공합니다.
 - **정정/삭제**: `config/editorial.json` 수정 → GitHub 반영 → Oracle에서 래퍼 수동 실행 → Pages 배포 확인. 페이지 내용은 다음 배포 전까지 바뀌지 않습니다.

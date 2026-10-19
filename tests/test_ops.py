@@ -24,24 +24,25 @@ class CronPublishTests(unittest.TestCase):
         self.git('init', '-b', 'main')
         self.git('config', 'user.name', 'Test')
         self.git('config', 'user.email', 'test@example.invalid')
-        for path in ('ops', 'data', 'collector', '.venv/bin', '.runtime'):
+        for path in ('ops', 'data/news', 'data/briefings', 'collector', '.venv/bin', '.runtime'):
             (self.repo / path).mkdir(parents=True)
         shutil.copy(ROOT / 'ops/run-collector.sh', self.repo / 'ops/run-collector.sh')
         (self.repo / '.venv/bin/python').symlink_to(sys.executable)
         (self.repo / '.gitignore').write_text('.runtime/\n.venv/\n__pycache__/\n')
         (self.repo / 'requirements.txt').write_text('')
         (self.repo / '.runtime/requirements.sha256').write_text(hashlib.sha256(b'').hexdigest())
-        (self.repo / 'data/news.json').write_text('{"value": 1}\n')
-        (self.repo / 'data/briefings.json').write_text('{"editions": []}\n')
+        (self.repo / 'data/catalog.json').write_text('{"value": 1}\n')
+        (self.repo / 'data/briefings/2026-10.json').write_text('{"editions": []}\n')
         (self.repo / 'collector/__main__.py').write_text('''import json,os,sys
 from pathlib import Path
-p=Path('data/news.json')
+p=Path('data/catalog.json')
 if len(sys.argv)>1 and sys.argv[1]=='validate':
  json.loads(p.read_text())
- json.loads(Path('data/briefings.json').read_text())
+ json.loads(Path('data/briefings/2026-10.json').read_text())
 else:
  p.write_text('{"value": 2}\\n')
- Path('data/briefings.json').write_text('{"editions": ["new"]}\\n')
+ Path('data/news/2026-11.json').write_text('{"articles": []}\\n')
+ Path('data/briefings/2026-10.json').write_text('{"editions": ["new"]}\\n')
  if os.environ.get('SIMULATE_FAILURE'): raise SystemExit(1)
 ''')
         self.git('add', '.')
@@ -60,19 +61,20 @@ else:
         self.assertEqual(first.returncode, 0, first.stdout + first.stderr)
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '2')
         self.assertEqual(self.git('rev-parse', 'HEAD'), self.git('rev-parse', 'origin/main'))
-        self.assertEqual(set(self.git('diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD').splitlines()), {'data/news.json', 'data/briefings.json'})
+        self.assertEqual(set(self.git('diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD').splitlines()), {'data/catalog.json', 'data/briefings/2026-10.json', 'data/news/2026-11.json'})
         second = self.run_job()
         self.assertEqual(second.returncode, 0, second.stderr)
         self.assertIn('No content changes', second.stdout)
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '2')
 
     def test_failed_collection_restores_data_and_index(self):
-        before = (self.repo / 'data/news.json').read_bytes()
-        before_history = (self.repo / 'data/briefings.json').read_bytes()
+        before = (self.repo / 'data/catalog.json').read_bytes()
+        before_history = (self.repo / 'data/briefings/2026-10.json').read_bytes()
         result = self.run_job(SIMULATE_FAILURE='1')
         self.assertNotEqual(result.returncode, 0)
-        self.assertEqual((self.repo / 'data/news.json').read_bytes(), before)
-        self.assertEqual((self.repo / 'data/briefings.json').read_bytes(), before_history)
+        self.assertEqual((self.repo / 'data/catalog.json').read_bytes(), before)
+        self.assertEqual((self.repo / 'data/briefings/2026-10.json').read_bytes(), before_history)
+        self.assertFalse((self.repo / 'data/news/2026-11.json').exists())
         self.assertEqual(self.git('status', '--porcelain'), '')
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
 
@@ -100,7 +102,14 @@ else:
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
 
     def test_dirty_checkout_is_not_overwritten(self):
-        (self.repo / 'data/news.json').write_text('operator edit')
+        (self.repo / 'data/catalog.json').write_text('operator edit')
         result = self.run_job()
         self.assertNotEqual(result.returncode, 0)
-        self.assertEqual((self.repo / 'data/news.json').read_text(), 'operator edit')
+        self.assertEqual((self.repo / 'data/catalog.json').read_text(), 'operator edit')
+
+    def test_untracked_archive_is_not_overwritten(self):
+        path = self.repo / 'data/news/2026-11.json'
+        path.write_text('operator backup')
+        result = self.run_job()
+        self.assertNotEqual(result.returncode, 0)
+        self.assertEqual(path.read_text(), 'operator backup')

@@ -1,5 +1,6 @@
 import { z } from 'zod';
-import raw from '../../data/briefings.json';
+import { readMonths } from './storage';
+const raw = { version: 1, editions: readMonths('briefings') };
 
 const stamp = z.iso.datetime({ offset: true });
 const id = z.string().regex(/^[a-f0-9]{20}$/);
@@ -175,7 +176,9 @@ export const editions = [...history.editions].sort(
 );
 export const latestEdition = editions.find((e) => e.status === 'published');
 export const days = [...new Set(editions.map((e) => e.day))].sort().reverse();
-export const forDay = (day: string) => editions.filter((e) => e.day === day);
+const editionByDay = new Map(editions.map((e) => [e.day, e]));
+export const forDay = (day: string) =>
+  editionByDay.has(day) ? [editionByDay.get(day)!] : [];
 export const representative = (day: string) =>
   forDay(day).find((e) => e.status === 'published') || forDay(day)[0];
 export const visibleDays = days.filter(
@@ -209,3 +212,15 @@ export const dateTimeLabel = (stamp: string) =>
   }).format(new Date(stamp));
 export const rangeLabel = (e: Edition) =>
   `${dayLabel(new Date(Date.parse(e.window_start) + 9 * 3600000).toISOString().slice(0, 10))} ${timeLabel(e.window_start)} — ${dayLabel(e.day)} ${timeLabel(e.window_end)} KST`;
+
+export const briefingRecord = (e: Edition) => ({
+  id: e.id,
+  day: e.day,
+  headline: e.headline,
+  takeaway: e.takeaway || e.overview[0]?.text || '',
+  scheduled_at: e.scheduled_at,
+  topics: [...new Set(e.issues.map((i) => i.category))].slice(0, 3),
+  issue_count: e.issues.length,
+  article_count: e.articles.length,
+});
+export type BriefingRecord = ReturnType<typeof briefingRecord>;

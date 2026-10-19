@@ -82,8 +82,10 @@ jobs:
         with:
           name: collection-${{ github.run_id }}-${{ github.run_attempt }}
           path: |
-            data/news.json
-            data/briefings.json
+            data/catalog.json
+            data/sources.json
+            data/news/
+            data/briefings/
             .runtime/last-run.json
             .runtime/summary-attempts.json
           include-hidden-files: true

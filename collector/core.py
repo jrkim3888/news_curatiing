@@ -139,7 +139,6 @@ def validate_summary(value: dict, evidence: str) -> dict:
 def validate_dataset(data: dict) -> None:
     assert data["version"] == 1
     assert data["updated_at"] is None or parse_date(data["updated_at"])
-    assert len(data["articles"]) <= 5000, "5,000 article guard: plan archive pagination before increasing"
     source_ids = {s["id"] for s in data["sources"]}
     assert len(source_ids) == len(data["sources"])
     seen = set()

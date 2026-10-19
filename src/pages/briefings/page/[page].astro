@@ -1,0 +1,22 @@
+---
+import Layout from '../../../layouts/Layout.astro';
+import History from '../../../components/History.astro';
+import { visibleDays } from '../../../lib/briefings';
+import { HISTORY_PAGE_SIZE } from '../../../lib/pagination';
+export function getStaticPaths() {
+  return Array.from(
+    {
+      length: Math.max(
+        0,
+        Math.ceil(visibleDays.length / HISTORY_PAGE_SIZE) - 1,
+      ),
+    },
+    (_, i) => ({ params: { page: String(i + 2) }, props: { page: i + 2 } }),
+  );
+}
+const { page } = Astro.props;
+---
+
+<Layout title={`브리핑 히스토리 · ${page}페이지`}>
+  <History page={page} />
+</Layout>

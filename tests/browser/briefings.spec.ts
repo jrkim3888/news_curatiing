@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test';
-import history from '../../data/briefings.json' with { type: 'json' };
+import { history } from '../../src/lib/briefings';
 import type { Edition } from '../../src/lib/briefings';
 
 const editions = (history.editions as Edition[]).filter(
@@ -22,12 +22,14 @@ test('history is reachable from home and distinguishes news from briefings', asy
     await expect(page.locator('.brief-day-card')).toHaveCount(0);
   } else {
     const days = new Set(editions.map((e) => e.day));
-    await expect(page.locator('.brief-day-card')).toHaveCount(days.size);
+    await expect(page.locator('.brief-day-card')).toHaveCount(
+      Math.min(12, days.size),
+    );
     await page.locator('#history-query').fill('no-matching-briefing-12345');
     await expect(page.locator('#history-empty')).toBeVisible();
     await page.locator('#history-reset').click();
     await expect(page.locator('.brief-day-card:visible')).toHaveCount(
-      days.size,
+      Math.min(12, days.size),
     );
     await page.locator('#history-month').fill('2000-01');
     await expect(page.locator('#history-empty')).toBeVisible();
