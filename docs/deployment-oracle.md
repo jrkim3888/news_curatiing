@@ -120,14 +120,15 @@ nano .env
 OPENROUTER_API_KEY=본인_OpenRouter_키
 OPENROUTER_MODEL=선택한_정확한_모델_ID
 MAX_SUMMARIES_PER_RUN=1
+BRIEFING_MAX_TOKENS=18432
 SITE_URL=https://실제프로젝트.pages.dev
 ```
 
 [OpenRouter 모델 목록](https://openrouter.ai/models)에서 사용 가능한 모델 ID, 가격, JSON mode 지원을 확인합니다. 무료 모델은 속도 제한·가용성이 달라질 수 있습니다. 이 구현은 Chat Completions와 `response_format: json_object`를 사용합니다.
 
-현재 실제 검증 모델은 **`z-ai/glm-5.3-flash`**입니다. 해당 엔드포인트는 추론을 끌 수 없어 낮은 추론 강도(`reasoning.effort=low`)를 사용하며, 일일 브리핑은 최대 6,144토큰, 개별 기사 요약은 4,096토큰입니다. 1,600토큰에서는 추론이 예산을 소진해 빈 응답이 발생했고, 추론 비활성화는 HTTP 400으로 거절됐습니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다. JSON 등 요청 옵션을 지원하는 제공자로만 라우팅합니다.
+현재 실제 검증 모델은 **`z-ai/glm-5.3-flash`**입니다. 해당 엔드포인트는 추론을 끌 수 없어 낮은 추론 강도(`reasoning.effort=low`)를 사용하며, 일일 브리핑과 주요 기사별 요약은 기본 최대 18,432토큰(`BRIEFING_MAX_TOKENS`), 개별 기사 요약은 4,096토큰입니다. 1,600토큰에서는 추론이 예산을 소진해 빈 응답이 발생했고, 추론 비활성화는 HTTP 400으로 거절됐습니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다. JSON 등 요청 옵션을 지원하는 제공자로만 라우팅합니다.
 
-**OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 일반 수집은 LLM을 호출하지 않고, 일일 브리핑은 하루 최대 1회 요청합니다. 브리핑 입력은 최대 16건·건당 2,400자, 출력은 최대 6,144토큰입니다. 수동 `--summarize-articles` 실행은 별도 비용을 만들 수 있습니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 브리핑은 같은 날짜 재요청을 막습니다. 수동 개별 기사 요약의 대기 시간은 24시간입니다.
+**OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 일반 수집은 LLM을 호출하지 않고, 일일 브리핑은 하루 최대 1회 요청합니다. 브리핑 입력은 최대 16건·건당 2,400자, 출력은 기본 최대 18,432토큰입니다. 수동 `--summarize-articles` 실행은 별도 비용을 만들 수 있습니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 브리핑은 같은 날짜 재요청을 막습니다. 수동 개별 기사 요약의 대기 시간은 24시간입니다.
 
 `MAX_SUMMARIES_PER_RUN=1`을 유지하면 됩니다. 일일 브리핑은 값을 높여도 한 번만 요청합니다. 키/모델이 비어 있으면 수집·배포는 정상 진행되지만 링크 전용입니다. `.runtime/summary-attempts.json`은 재시도 제어를 위해 보존합니다.
 
@@ -146,6 +147,14 @@ git log -1 --oneline
 `--dry-run`은 수집·검증만 하며 LLM과 공개 데이터 쓰기를 하지 않습니다. `run-collector.sh`는 실제 요약 요청과 데이터 커밋·push를 할 수 있습니다. 실행 전 Git 작업 폴더가 깨끗해야 합니다. 별도로 `.venv/bin/python -m collector`를 실행해 미커밋 데이터가 생겼다면 먼저 검토·커밋하거나 해당 변경을 명시적으로 처리하세요. 운영 래퍼는 사용자 변경을 덮어쓰지 않습니다.
 
 그 다음 GitHub에서 data 커밋이 생겼는지, Pages에서 해당 커밋으로 자동 배포됐는지, 기사 요약·한국어 검색이 보이는지 확인합니다. 데이터가 같으면 커밋이 생기지 않는 것이 정상입니다. 이 end-to-end 확인은 실제 Oracle/GitHub/Pages 권한이 있어야 완료할 수 있습니다.
+
+실패한 날짜만 재시도하려면 진단 기록을 확인한 뒤 다음과 같이 실행합니다. 최대 1회의 추가 유료 요청을 허용하며 이미 발행한 날짜는 보존합니다. 다른 날짜·기사의 대기 기록은 지우지 않습니다.
+
+```bash
+NEWS_MODE=brief BRIEFING_DATE=2026-10-20 RETRY_FAILED_BRIEFING=true bash ops/run-collector.sh
+```
+
+성공 시 주요 이슈에 선정된 기사의 AI 요약도 같은 요청에서 생성·검증해 아카이브에 함께 저장합니다. `[briefing-diagnostics]`와 `.runtime/last-run.json`에서 실패 단계·종료 사유·제공자가 반환한 토큰 사용량을 확인합니다. 자세한 입력과 진단 항목은 [Actions 복구 절차](deployment.md#실패한-날짜의-브리핑-재발행)를 참고하세요.
 
 ## 6. cron 등록
 

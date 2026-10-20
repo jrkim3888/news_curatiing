@@ -101,7 +101,10 @@ const editionSchema = z
       fail('Overview revision predates generation');
     if (!e.issues.length || e.issues.length > 5 || !e.overview.length)
       fail('Incomplete edition');
-    if (e.prompt_version === 'daily-brief-v3' && !e.takeaway)
+    if (
+      ['daily-brief-v3', 'daily-brief-v4'].includes(e.prompt_version) &&
+      !e.takeaway
+    )
       fail('Missing daily takeaway');
     const articles = new Set(e.articles.map((a) => a.id));
     const issues = new Set(e.issues.map((i) => i.id));

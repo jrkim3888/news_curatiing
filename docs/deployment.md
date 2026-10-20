@@ -36,6 +36,7 @@ git push -u origin HEAD:main
 | Repository secret | `OPENROUTER_API_KEY` | 서비스 전용 OpenRouter API 키 |
 | Repository variable | `OPENROUTER_MODEL` | 현재 검증 모델 `z-ai/glm-5.3-flash` |
 | Repository variable | `MAX_SUMMARIES_PER_RUN` | `1` 권장. 일일 브리핑은 최대 1회 요청, `0`은 생성 중지 |
+| Repository variable | `BRIEFING_MAX_TOKENS` | 기본 `18432`. 브리핑과 주요 기사별 요약을 합친 출력 한도 |
 | Repository variable | `SITE_URL` | 생성한 Pages 주소 또는 연결한 도메인 |
 | Repository variable | `COLLECTION_ENABLED` | 처음에는 `false`, 수동 검증 후 `true` |
 
@@ -43,7 +44,11 @@ git push -u origin HEAD:main
 
 OpenRouter 키에는 별도의 credit limit을 설정하세요. 정상 예약 기준 하루 최대 1회, 월 30~31회 생성 요청입니다. 수집은 LLM을 호출하지 않고, 이미 발행한 날짜는 재실행해도 건너뜁니다. 수동 개별 기사 요약은 추가 비용입니다. `MAX_SUMMARIES_PER_RUN=0`은 요약 호출을 중지하고 링크 수집을 계속합니다. 호출 수 한도는 달러 금액의 상한이 아닙니다.
 
-종합 브리핑은 최대 16건·건당 본문 발췌 2,400자와 출력 6,144토큰 한도를 사용합니다. GLM 5.3 Flash에는 `reasoning.effort=low`를 적용합니다. 수동 개별 기사 요약은 GLM 4,096토큰, 다른 모델 기본 1,600토큰입니다. JSON 모드를 지원하는 제공자로 라우팅하며, 실패한 응답은 공개 요약에 반영하지 않습니다.
+종합 브리핑은 최대 16건·건당 본문 발췌 2,400자와 기본 출력 **18,432토큰** 한도를 사용합니다. `BRIEFING_MAX_TOKENS`로 1,024~65,536 범위에서 설정할 수 있으며 실제 사용 모델의 지원 한도 내에서 지정합니다. GLM 5.3 Flash에는 `reasoning.effort=low`를 적용합니다. 모델에 따라 추론 토큰도 응답 예산에 포함됩니다. 한도를 높인 만큼 항상 소비하는 것은 아니지만 요청당 최대 비용은 늘어날 수 있습니다.
+
+브리핑의 주요 이슈에 사용된 모든 기사에 대해 **같은 요청에서 기사별 AI 요약도 생성**합니다. 각 기사의 허용된 원문 발췌에 근거 구절이 있는지 별도로 검사하며, 다른 기사에서 가져온 근거·누락·중복은 거부합니다. 성공하면 브리핑과 월별 기사 파일을 함께 저장하고 기사 상태를 `summarized`로 바꾸므로 아카이브의 ‘AI 요약’ 필터·상세·검색에 반영됩니다. 기존 기사 요약은 보존하며, 선정되지 않은 기사는 원문 링크로 남습니다. 이미 발행한 과거 브리핑의 기사를 소급 생성하지는 않습니다.
+
+이 방식은 기사마다 추가 호출하지 않지만 출력 토큰 사용량은 늘어납니다. 별도의 수동 개별 기사 요약은 GLM 4,096토큰, 다른 모델 기본 1,600토큰입니다. JSON 모드를 지원하는 제공자로 라우팅하며, 실패한 응답은 공개 요약에 반영하지 않습니다. 브리핑 요청은 최대 180초의 네트워크 대기를 허용하고 유료 POST를 자동 재전송하지 않습니다.
 
 ## 3. Cloudflare Pages 연결
 
@@ -82,7 +87,30 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 - 수동 실행 후 `last-run.json`의 `briefing.result`가 `created`인지 확인합니다. `already_published`는 같은 날짜의 중복 생성을 건너뛴 것이며, `insufficient_sources`는 고정된 24시간 범위에 요약 가능한 자료가 2건 미만인 경우입니다. `cooldown`은 그날 이미 유료 요청을 시도한 상태입니다.
 - Pages에서 `/briefings/` → 날짜를 선택해 당시 요약과 관련 원문을 확인합니다. 날짜당 한 편이며 `/briefings/YYYY-MM-DD/`에서 24시간 집계 범위, 발행 예정·실제 생성 시각을 표시합니다. 첫 성공 생성 전에는 빈 기록 안내가 정상입니다.
 - 날짜별 기록은 Git에 보존됩니다. 캐시를 지워도 기록은 유지됩니다. 단, 실패한 요청의 대기 시간은 캐시 유실 시 보장되지 않습니다.
-- 종합 브리핑 출력 한도는 6,144토큰입니다. 기사별 요약과 요청 크기가 다르므로 기존 단일 기사 요약 비용을 그대로 적용하지 마세요.
+- 종합 브리핑과 주요 기사별 요약의 기본 출력 한도는 18,432토큰입니다. 기존 단일 기사 요약 비용을 그대로 적용하지 마세요.
+
+## 실패한 날짜의 브리핑 재발행
+
+먼저 Actions의 `[briefing-diagnostics]` 로그 또는 아티팩트의 `.runtime/last-run.json`을 확인합니다. `briefing.reason`·`stage`는 실패 원인과 단계이며, `llm`에는 요청 모델·출력 한도, 제공자가 반환한 모델·요청 ID·종료 사유·입력/응답/추론 토큰·비용이 기록됩니다. 응답에 없는 사용량은 추정하지 않습니다. 키·원문·모델 응답 본문·추론 내용은 이 기록에 포함하지 않습니다.
+
+- `output_token_limit`: 모델이 `finish_reason=length`로 응답을 중단했습니다. 출력 예산과 추론 사용량을 확인합니다.
+- `invalid_response_json`: 응답을 기대한 JSON 구조로 읽을 수 없습니다.
+- `http_429`, `http_5xx`, `network_failed_or_timed_out`: API 제한·서버·네트워크 문제입니다.
+- `validation_failed`, `stage=briefing_validation` / `article_summary_validation`: 브리핑 / 기사별 요약 검증에서 실패했습니다. `validation_error`에는 원문이나 응답을 포함하지 않는 검증 항목 설명이 남습니다.
+
+원인을 수정한 후 **Actions → Collect AI news → Run workflow**에서 아래와 같이 실행합니다.
+
+| 입력 | 예: 실패한 2026-10-20 브리핑 |
+| --- | --- |
+| Branch | `main` |
+| `mode` | `brief` |
+| `no_llm` | 체크 해제 |
+| `briefing_date` | `2026-10-20` |
+| `retry_failed_briefing` | 체크 |
+
+실행당 최대 **1회 추가 유료 요청**을 허용합니다. 해당 날짜의 대기 기록만 무시하며 다른 날짜·기사의 기록은 보존합니다. 이미 발행·비공개 처리한 날짜는 덮어쓰지 않습니다. 기본 예약과 일반 재실행은 여전히 같은 날짜의 추가 요청을 막습니다. 미래 날짜와 발행 예정 시각 이전의 날짜는 거부하며, `no_llm` 또는 호출 한도 `0`이면 재시도도 호출하지 않습니다. 캐시 전체를 지울 필요는 없습니다.
+
+지난 날짜를 지정하면 그 날짜의 06:00 기준 24시간 범위를 유지합니다. 당시의 허용된 원문을 다시 확보할 수 없으면 발행하지 않습니다. 성공한 실행은 `briefing.result=created`, `articles_summarized`에 이번에 요약한 기사 수를 기록하고 data 커밋으로 Pages를 갱신합니다.
 
 ## 상태 보존과 복구
 

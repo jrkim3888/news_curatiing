@@ -15,6 +15,7 @@ from collector.storage import Archive, encoded, read_news, read_history
 from collector import briefings
 from collector.__main__ import ROOT, run, run_daily
 from collector.core import UTC, article_id
+from collector.llm import SummaryError
 
 
 def response(inputs):
@@ -25,7 +26,13 @@ def response(inputs):
                         "facts": [{"text": "제공된 자료에서는 AI 개발 도구의 새로운 기능을 발표했다고 설명합니다.",
                                    "evidence": [{"article_id": i["article_id"], "quote": "A new AI tool is available."} for i in inputs[:2]],
                                    "links": [{"text": phrase, "article_id": i["article_id"]} for phrase, i in zip(['AI 개발 도구', '새로운 기능'], inputs[:2])]}],
-                        "why_it_matters": "개발자는 새로운 도구의 적용 가능성을 원문에서 확인할 수 있습니다."}]}
+                        "why_it_matters": "개발자는 새로운 도구의 적용 가능성을 원문에서 확인할 수 있습니다."}],
+            "article_summaries": [
+                {"article_id": i["article_id"], "title": "AI 개발 도구의 새로운 기능 발표",
+                 "summary": "새로운 AI 개발 도구를 사용할 수 있다고 발표했습니다. 제공된 원문에서 도구의 기능과 적용 가능성을 확인할 수 있습니다.",
+                 "why_it_matters": "개발자는 새로운 도구의 적용 가능성을 원문에서 확인할 수 있습니다.",
+                 "category": "개발·도구", "evidence": ["A new AI tool is available."]}
+                for i in inputs[:2]]}
 
 
 class BriefingTests(unittest.TestCase):
@@ -42,7 +49,7 @@ class BriefingTests(unittest.TestCase):
                  "published_at": (briefings.daily_window(self.now)[2] - timedelta(hours=1)).isoformat(), "body": 'A new AI tool is available. ' * 35}], ''
 
     def run_batch(self, generate=response, **kwargs):
-        def call(inputs, *_): return generate(inputs)
+        def call(inputs, *_, **kwargs): return generate(inputs)
         fetch = kwargs.pop('fetch_source', self.fetch)
         with redirect_stdout(io.StringIO()), patch.dict(os.environ, {'OPENROUTER_API_KEY': 'test-only', 'OPENROUTER_MODEL': 'test/model', 'MAX_SUMMARIES_PER_RUN': '1'}):
             collection_args = argparse.Namespace(**vars(self.args))
@@ -71,6 +78,82 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(second['briefing']['result'], 'already_published')
         self.assertEqual(second['llm_requests'], 0)
         self.assertEqual(encoded(read_history(self.root)), before)
+        articles = read_news(self.root)['articles']
+        selected = set(edition['issues'][0]['article_ids'])
+        self.assertEqual(first['briefing']['articles_summarized'], len(selected))
+        self.assertEqual({a['id'] for a in articles if a['status'] == 'summarized'}, selected)
+        for article in articles:
+            if article['id'] in selected:
+                self.assertEqual(article['summary_meta']['briefing_day'], edition['day'])
+                self.assertTrue(article['summary_meta']['evidence_verified'])
+                self.assertNotIn('evidence', article)
+        self.assertNotIn('A new AI tool is available.', json.dumps([a['summary'] for a in articles if a['id'] in selected]))
+
+    def test_invalid_article_summaries_do_not_partially_publish(self):
+        for kind in ('missing', 'duplicate', 'unknown', 'evidence'):
+            with self.subTest(kind=kind):
+                shutil.rmtree(self.root)
+                self.root.mkdir()
+                def invalid(inputs):
+                    value = response(inputs)
+                    items = value['article_summaries']
+                    if kind == 'missing': items.pop()
+                    if kind == 'duplicate': items[1] = copy.deepcopy(items[0])
+                    if kind == 'unknown': items[1]['article_id'] = '0' * 20
+                    if kind == 'evidence': items[1]['evidence'] = ['An invented statement from another source.']
+                    return value
+                result = self.run_batch(generate=invalid)
+                self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+                self.assertEqual(result['briefing']['stage'], 'article_summary_validation')
+                self.assertEqual(result['briefing']['reason'], 'validation_failed')
+                self.assertTrue(result['briefing']['validation_error'])
+                self.assertFalse(read_history(self.root)['editions'])
+                self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
+    def test_article_summary_cannot_borrow_another_articles_evidence(self):
+        def different_sources(source):
+            entries, note = self.fetch(source)
+            entries[0]['body'] += f' This statement belongs only to {source["id"]}.'
+            return entries, note
+        def wrong_source(inputs):
+            value = response(inputs)
+            value['article_summaries'][0]['evidence'] = [f'This statement belongs only to {inputs[1]["source_id"]}.']
+            return value
+        result = self.run_batch(generate=wrong_source, fetch_source=different_sources)
+        self.assertEqual(result['briefing']['stage'], 'article_summary_validation')
+        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+
+    def test_existing_article_summary_and_other_dates_are_preserved(self):
+        self.now = datetime(2026, 10, 20, 0, 0, tzinfo=UTC)
+        selected = []
+        def fail_after_selection(inputs):
+            selected.append(inputs[0]['article_id'])
+            raise SummaryError('output_token_limit')
+        self.run_batch(generate=fail_after_selection)
+        store = Archive(self.root, self.args.runtime_dir)
+        month = next(iter(store.catalog['news']))
+        items = store.read('news', month)
+        chosen = next(a for a in items if a['id'] == selected[0])
+        chosen.update(status='summarized', title='기존 검증된 기사 제목',
+                      summary='이 기사의 요약은 이전 실행에서 생성됐습니다. 기존 검증된 내용을 유지해야 합니다.',
+                      why_it_matters='이전 실행에서 검증을 마친 요약을 계속 읽을 수 있습니다.',
+                      summary_meta={'model':'old/model', 'prompt_version':'old',
+                                    'generated_at':self.now.isoformat(), 'input_hash':'a'*64,
+                                    'evidence_verified':True})
+        older = copy.deepcopy(items[-1])
+        older.update(id=article_id('https://example.com/older'), url='https://example.com/older',
+                     published_at=(briefings.daily_window(self.now)[2]-timedelta(days=2)).isoformat())
+        older['sources'] = [{**older['sources'][0], 'url': older['url']}]
+        items.append(older)
+        store.save(news={month: items})
+        store.close()
+        saved = copy.deepcopy(chosen)
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        self.run_batch()
+        actual = {a['id']:a for a in read_news(self.root)['articles']}
+        self.assertEqual(actual[saved['id']], saved)
+        self.assertEqual(actual[older['id']], older)
 
     def test_new_batch_appends_snapshot_without_rewriting_previous(self):
         self.run_batch()
@@ -111,6 +194,59 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(encoded(read_history(self.root)), before)
         result = self.run_batch(generate=lambda _: self.fail('Paid retry during cooldown'), fetch_source=changed)
         self.assertEqual(result['briefing']['result'], 'cooldown')
+
+    def test_targeted_retry_preserves_other_cooldowns_and_published_editions(self):
+        self.run_batch(generate=lambda _: (_ for _ in ()).throw(SummaryError('output_token_limit')))
+        path = self.args.runtime_dir / 'summary-attempts.json'
+        attempts = json.loads(path.read_text())
+        attempts['daily:2020-01-01'] = '2020-01-01T00:00:00+00:00'
+        attempts['article-test-id'] = self.now.isoformat()
+        path.write_text(json.dumps(attempts))
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        retried = self.run_batch()
+        self.assertEqual(retried['briefing']['result'], 'created')
+        self.assertEqual(retried['llm_requests'], 1)
+        self.assertIn('previous_attempt_at', retried['briefing'])
+        after = json.loads(path.read_text())
+        self.assertEqual(after['daily:2020-01-01'], attempts['daily:2020-01-01'])
+        self.assertEqual(after['article-test-id'], attempts['article-test-id'])
+        again = self.run_batch(generate=lambda _: self.fail('Published edition overwritten by retry'))
+        self.assertEqual(again['briefing']['result'], 'already_published')
+        self.assertEqual(again['llm_requests'], 0)
+
+    def test_retry_still_respects_disable_dry_run_and_future_date(self):
+        self.run_batch(generate=lambda _: (_ for _ in ()).throw(SummaryError('output_token_limit')))
+        path = self.args.runtime_dir / 'summary-attempts.json'
+        before = path.read_bytes()
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        for flag, expected in [('no_llm', 'disabled'), ('dry_run', 'dry_run')]:
+            setattr(self.args, flag, True)
+            result = self.run_batch(generate=lambda _: self.fail('Disabled retry spent money'))
+            self.assertEqual(result['briefing']['result'], expected)
+            self.assertEqual(path.read_bytes(), before)
+            setattr(self.args, flag, False)
+        with patch.dict(os.environ, {'MAX_SUMMARIES_PER_RUN':'0'}):
+            result = run_daily(self.args, now=self.now, generate_briefing=lambda *_: self.fail('Zero budget retry'))
+        self.assertEqual(result['briefing']['result'], 'disabled')
+        self.args.briefing_date = None
+        with self.assertRaisesRegex(ValueError, 'explicit'):
+            run_daily(self.args, now=self.now)
+        self.args.briefing_date = (self.now + timedelta(days=2)).date().isoformat()
+        with self.assertRaisesRegex(ValueError, 'scheduled time'):
+            run_daily(self.args, now=self.now)
+
+    def test_explicit_past_date_keeps_its_fixed_window(self):
+        now = datetime(2026, 10, 22, 0, 0, tzinfo=UTC)
+        day, start, end, scheduled = briefings.daily_window(now, '2026-10-20')
+        self.assertEqual(day, '2026-10-20')
+        self.assertEqual(end.isoformat(), '2026-10-19T21:00:00+00:00')
+        self.assertEqual(end-start, timedelta(days=1))
+        self.assertEqual(scheduled-end, timedelta(minutes=30))
+        for invalid in ['2026-02-30', '20261020', 'bad;date']:
+            with self.assertRaises(ValueError):
+                briefings.daily_window(now, invalid)
 
     def test_unknown_article_fabricated_quote_and_wrong_issue_reference_rejected(self):
         for kind in ('article', 'quote', 'overview'):
@@ -304,7 +440,7 @@ class BriefingTests(unittest.TestCase):
 
     def test_daily_job_recovers_missing_morning_collection_before_generation(self):
         with redirect_stdout(io.StringIO()), patch.dict(os.environ, {'OPENROUTER_API_KEY':'test-only', 'OPENROUTER_MODEL':'test/model', 'MAX_SUMMARIES_PER_RUN':'1'}):
-            result = run_daily(self.args, fetch_source=self.fetch, generate_briefing=lambda inputs,*_:response(inputs), now=self.now)
+            result = run_daily(self.args, fetch_source=self.fetch, generate_briefing=lambda inputs,*_,**kwargs:response(inputs), now=self.now)
         self.assertTrue(result['collection_recovered'])
         self.assertEqual(result['briefing']['result'], 'created')
         self.assertEqual(result['llm_requests'], 1)
@@ -327,12 +463,68 @@ class BriefingTests(unittest.TestCase):
         self.assertTrue((self.root/'news/2026-10.json').exists())
         self.assertTrue((self.root/'news/2026-11.json').exists())
         self.assertTrue((self.root/'briefings/2026-11.json').exists())
+        articles = read_news(self.root)['articles']
+        edition = read_history(self.root)['editions'][0]
+        selected = {a['id'] for a in edition['articles']}
+        self.assertEqual({a['id'] for a in articles if a['status'] == 'summarized'}, selected)
+        store = Archive(self.root, self.args.runtime_dir).validate()
+        store.close()
 
     @patch('collector.briefings.request')
     def test_truncated_provider_output_is_not_an_edition(self, request):
-        request.return_value = b'{"choices":[{"finish_reason":"length","message":{"content":"{}"}}]}'
+        request.return_value = json.dumps({
+            'id':'gen-test', 'model':'test/provider-model',
+            'choices':[{'finish_reason':'length','message':{'content':'private partial text','reasoning':'private reasoning'}}],
+            'usage':{'prompt_tokens':1200,'completion_tokens':18432,'total_tokens':19632,
+                     'completion_tokens_details':{'reasoning_tokens':9000},'cost':0.01,'private':'do not retain'}
+        }).encode()
+        diagnostics = {}
         with self.assertRaisesRegex(ValueError, 'output_token_limit'):
-            briefings.generate([], 'test-only', 'test/model')
+            briefings.generate([], 'test-only', 'test/model', diagnostics=diagnostics)
+        self.assertEqual(diagnostics['finish_reason'], 'length')
+        self.assertEqual(diagnostics['usage']['reasoning_tokens'], 9000)
+        self.assertEqual(diagnostics['response_model'], 'test/provider-model')
+        self.assertNotIn('private', json.dumps(diagnostics))
+        self.assertNotIn('test-only', json.dumps(diagnostics))
+        self.assertEqual(request.call_count, 1)
+
+    @patch('collector.briefings.request')
+    def test_generation_budget_and_safe_diagnostics_on_invalid_json(self, request):
+        request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"not JSON"}}],"usage":{"completion_tokens":12}}'
+        for budget in ('18432', '24576'):
+            diagnostics = {}
+            with patch.dict(os.environ, {'BRIEFING_MAX_TOKENS':budget}), self.assertRaisesRegex(ValueError, 'invalid_response_json'):
+                briefings.generate([], 'test-only', 'z-ai/glm-5.3-flash', diagnostics=diagnostics)
+            payload = json.loads(request.call_args.kwargs['payload'])
+            self.assertEqual(payload['max_tokens'], int(budget))
+            self.assertEqual(payload['reasoning'], {'effort':'low'})
+            self.assertEqual(request.call_args.kwargs['timeout'], 180)
+            self.assertEqual(diagnostics['usage']['completion_tokens'], 12)
+        with patch.dict(os.environ, {}, clear=True):
+            self.assertEqual(briefings.max_tokens(), 6144 * 3)
+        request.reset_mock()
+        for invalid in ('0', 'abc', '999999'):
+            with patch.dict(os.environ, {'BRIEFING_MAX_TOKENS':invalid}), self.assertRaises(ValueError):
+                briefings.generate([], 'test-only', 'test/model')
+        request.assert_not_called()
+
+    @patch('collector.briefings.request')
+    def test_failure_reason_and_usage_reach_run_report_and_console(self, request):
+        request.return_value = b'{"choices":[{"finish_reason":"length"}],"usage":{"completion_tokens":18432}}'
+        self.run_batch(generate=lambda _: (_ for _ in ()).throw(SummaryError('output_token_limit')))
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        output = io.StringIO()
+        with redirect_stdout(output), patch.dict(os.environ, {'OPENROUTER_API_KEY':'secret-test', 'OPENROUTER_MODEL':'test/model', 'MAX_SUMMARIES_PER_RUN':'1', 'GITHUB_ACTIONS':'true'}):
+            result = run_daily(self.args, fetch_source=self.fetch, now=self.now)
+        report = json.loads((self.args.runtime_dir / 'last-run.json').read_text())
+        self.assertEqual(report, result)
+        self.assertEqual(report['llm']['usage']['completion_tokens'], 18432)
+        self.assertIn('output_token_limit', output.getvalue())
+        self.assertIn('::error title=Daily briefing failed::', output.getvalue())
+        self.assertIn('18432', output.getvalue())
+        self.assertNotIn('secret-test', output.getvalue())
+        self.assertEqual(request.call_count, 1)
 
 
 if __name__ == '__main__': unittest.main()

@@ -40,6 +40,7 @@ if len(sys.argv)>1 and sys.argv[1]=='validate':
  json.loads(p.read_text())
  json.loads(Path('data/briefings/2026-10.json').read_text())
 else:
+ Path('.runtime/collector-args.json').write_text(json.dumps(sys.argv[1:]))
  p.write_text('{"value": 2}\\n')
  Path('data/news/2026-11.json').write_text('{"articles": []}\\n')
  Path('data/briefings/2026-10.json').write_text('{"editions": ["new"]}\\n')
@@ -77,6 +78,16 @@ else:
         self.assertFalse((self.repo / 'data/news/2026-11.json').exists())
         self.assertEqual(self.git('status', '--porcelain'), '')
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
+
+    def test_briefing_retry_options_are_forwarded_without_shell_evaluation(self):
+        # The stub captures argv; the real CLI rejects this non-date before calling an LLM.
+        date = '2026-10-20; touch injected'
+        result = self.run_job(NEWS_MODE='brief', BRIEFING_DATE=date, RETRY_FAILED_BRIEFING='true')
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        import json
+        args = json.loads((self.repo / '.runtime/collector-args.json').read_text())
+        self.assertEqual(args, ['brief', '--briefing-date', date, '--retry-failed-briefing'])
+        self.assertFalse((self.repo / 'injected').exists())
 
     def test_push_failure_keeps_commit_and_next_run_recovers_it(self):
         hook = self.remote / 'hooks/pre-receive'

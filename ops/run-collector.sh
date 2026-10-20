@@ -17,6 +17,15 @@ echo "[start] $(date -u +%FT%TZ)"
 BRANCH="${NEWS_BRANCH:-main}"
 MODE="${NEWS_MODE:-collect}"
 case "$MODE" in collect|brief) ;; *) echo '[error] NEWS_MODE must be collect or brief.'; exit 1 ;; esac
+COLLECTOR_ARGS=("$MODE")
+if [[ -n "${BRIEFING_DATE:-}" ]]; then
+  COLLECTOR_ARGS+=(--briefing-date "$BRIEFING_DATE")
+fi
+case "${RETRY_FAILED_BRIEFING:-false}" in
+  true) COLLECTOR_ARGS+=(--retry-failed-briefing) ;;
+  false) ;;
+  *) echo '[error] RETRY_FAILED_BRIEFING must be true or false.'; exit 1 ;;
+esac
 if [[ "$(git branch --show-current)" != "$BRANCH" ]]; then
   echo "[error] Collector must be on $BRANCH."
   exit 1
@@ -78,7 +87,7 @@ trap restore_on_error EXIT
 trap 'exit 143' TERM
 trap 'exit 130' INT
 trap 'exit 129' HUP
-.venv/bin/python -u -m collector "$MODE"
+.venv/bin/python -u -m collector "${COLLECTOR_ARGS[@]}"
 .venv/bin/python -m collector validate --incremental
 if git diff --quiet -- data && [[ -z "$(git ls-files --others --exclude-standard -- data)" ]]; then
   echo '[done] No content changes; no commit or Pages build.'

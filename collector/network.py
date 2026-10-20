@@ -32,7 +32,7 @@ def ensure_allowed(url: str, hosts: set[str]) -> None:
         raise ValueError("Request outside source HTTPS allowlist")
 
 
-def request(url: str, hosts: set[str], *, payload: bytes | None = None, headers: dict | None = None) -> bytes:
+def request(url: str, hosts: set[str], *, payload: bytes | None = None, headers: dict | None = None, timeout: int = 30) -> bytes:
     ensure_allowed(url, hosts)
     opener = urllib.request.build_opener(AllowedRedirect(hosts))
     req_headers = {"User-Agent": USER_AGENT, "Accept-Encoding": "gzip", **(headers or {})}
@@ -40,7 +40,7 @@ def request(url: str, hosts: set[str], *, payload: bytes | None = None, headers:
     for attempt in range(1 if payload is not None else 2):
         try:
             req = urllib.request.Request(url, data=payload, headers=req_headers)
-            with opener.open(req, timeout=30) as response:
+            with opener.open(req, timeout=timeout) as response:
                 reader = gzip.GzipFile(fileobj=response) if response.headers.get("Content-Encoding") == "gzip" else response
                 content = reader.read(MAX_BYTES + 1)
                 if len(content) > MAX_BYTES:

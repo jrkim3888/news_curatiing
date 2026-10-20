@@ -24,7 +24,7 @@ def load_env() -> None:
             if not line.strip() or line.lstrip().startswith("#") or "=" not in line:
                 continue
             key, value = line.split("=", 1)
-            if key.strip() in ("OPENROUTER_API_KEY", "OPENROUTER_MODEL", "MAX_SUMMARIES_PER_RUN", "SITE_URL"):
+            if key.strip() in ("OPENROUTER_API_KEY", "OPENROUTER_MODEL", "MAX_SUMMARIES_PER_RUN", "BRIEFING_MAX_TOKENS", "SITE_URL"):
                 os.environ.setdefault(key.strip(), value.strip().strip('"\''))
 
 
@@ -159,7 +159,12 @@ def run(args, *, fetch_source=collect_source, generate=summarize) -> dict:
 def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.generate, now=None):
     """Publish one fixed 06:00-to-06:00 edition, scheduled for 06:30 KST."""
     now = now or datetime.now(UTC)
-    day, start, end, scheduled = briefings.daily_window(now)
+    requested_day = getattr(args, "briefing_date", None)
+    retry = getattr(args, "retry_failed_briefing", False)
+    if retry and not requested_day:
+        raise ValueError("A retry requires an explicit --briefing-date")
+    day, start, end, scheduled = briefings.daily_window(now, requested_day)
+    budget = briefings.max_tokens()  # Reject invalid configuration before a paid attempt.
     store = Archive(args.data_dir, args.runtime_dir)
     if store.legacy:
         raise RuntimeError('Run python -m collector migrate before publishing legacy data')
@@ -169,8 +174,11 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     changed_ids, revised_editions = store.editorial_changes(editorial)
     history = briefings.apply_editorial(old, editorial)
     report = {"started_at": now.isoformat(), "llm_requests": 0, "summary_failures": 0,
-              "briefing": {"day": day, "result": "disabled"}, "result": "unchanged"}
+              "briefing": {"day": day, "result": "disabled", "retry_requested": retry},
+              "llm": {"model": os.getenv("OPENROUTER_MODEL"), "max_tokens": budget},
+              "result": "unchanged"}
     runtime = Path(args.runtime_dir)
+    updated_news = {}
 
     def finish(result, **details):
         report["briefing"].update(result=result, **details)
@@ -179,11 +187,18 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
         if not args.dry_run:
             if history != old: revised_editions[month] = history['editions']
             # Do not mark news corrections as processed in a briefing-only run.
-            if revised_editions and store.save(editions=revised_editions):
+            if (revised_editions or updated_news) and store.save(
+                    news=updated_news, editions=revised_editions,
+                    updated_at=iso_now() if updated_news else None):
                 report["result"] = "changed"
         store.close()
         atomic_json(runtime / "last-run.json", report)
         print(f"[briefing] {day}: {result}; {report['llm_requests']} LLM requests", flush=True)
+        diagnostic = json.dumps({"briefing": report["briefing"], "llm": report["llm"]}, ensure_ascii=False)
+        print("[briefing-diagnostics] " + diagnostic, flush=True)
+        if result == "failed_previous_preserved" and os.getenv("GITHUB_ACTIONS") == "true":
+            escaped = diagnostic.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
+            print("::error title=Daily briefing failed::" + escaped, flush=True)
         return report
 
     # A published/withdrawn date is never rewritten, even if new articles or a new model arrive.
@@ -198,8 +213,10 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     attempts_path = runtime / "summary-attempts.json"
     attempts = json.loads(attempts_path.read_text()) if attempts_path.exists() else {}
     attempt_key = f"daily:{day}"
-    if attempts.get(attempt_key):
+    if attempts.get(attempt_key) and not retry:
         return finish("cooldown")
+    if attempts.get(attempt_key):
+        report["briefing"]["previous_attempt_at"] = attempts[attempt_key]
     slot = store.catalog.get("collection_slot")
     if not slot or datetime.fromisoformat(slot) < end:
         # Shared workflow concurrency + the shell flock serialize this recovery with collection.
@@ -217,7 +234,8 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
             raise RuntimeError("A successful morning collection is required before publishing")
     sources = json.loads((ROOT / "config/sources.json").read_text())
     months = {month_of(start), month_of(end - timedelta(microseconds=1))}
-    articles = [a for m in months for a in store.read('news', m)
+    news_by_month = {m: store.read('news', m) for m in sorted(months)}
+    articles = [a for items in news_by_month.values() for a in items
                 if a['id'] not in editorial['hidden_ids'] and start <= datetime.fromisoformat(a['published_at']) < end]
     # Re-read permitted source text for analysis, without adding news to the completed window.
     needed = {r["source_id"] for a in articles for r in a["sources"]}
@@ -244,17 +262,29 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     attempts[attempt_key] = iso_now()
     atomic_json(attempts_path, attempts)
     report["llm_requests"] = 1
+    report["briefing"]["reviewed_articles"] = len(inputs)
+    stage = "generation"
     try:
-        value = generate_briefing(inputs, key, model)
+        value = generate_briefing(inputs, key, model, diagnostics=report["llm"])
+        stage = "briefing_validation"
         edition = briefings.make_edition(value, inputs, articles, sources, end, model, digest)
         candidate = briefings.apply_editorial({"version": 1, "editions": [edition, *history["editions"]]}, editorial)
         briefings.validate_history(candidate)
-        history = candidate
+        stage = "article_summary_validation"
+        updates = briefings.article_summary_updates(value["article_summaries"], edition, inputs, articles)
     except Exception as exc:
         reason = exc.reason if isinstance(exc, (SummaryError, RequestError)) else type(exc).__name__
+        if isinstance(exc, briefings.BriefingValidationError):
+            reason = "validation_failed"
+            report["briefing"]["validation_error"] = str(exc)
         report["summary_failures"] = 1
-        return finish("failed_previous_preserved", reason=reason)
-    return finish("created", edition_id=edition["id"], issues=len(edition["issues"]))
+        return finish("failed_previous_preserved", reason=reason, stage=stage)
+    # Publish the edition and its article summaries in the same archive transaction.
+    history = candidate
+    updated_news = {m: [updates.get(a["id"], a) for a in items]
+                    for m, items in news_by_month.items() if any(a["id"] in updates for a in items)}
+    return finish("created", edition_id=edition["id"], issues=len(edition["issues"]),
+                  articles_summarized=len(updates), selected_articles=len(edition["articles"]))
 
 
 def main():
@@ -262,6 +292,9 @@ def main():
     parser.add_argument("command", nargs="?", choices=("collect", "brief", "validate", "migrate", "recover"), default="collect")
     parser.add_argument("--no-llm", action="store_true")
     parser.add_argument("--summarize-articles", action="store_true", help="Opt in to individual article summaries during manual collection")
+    parser.add_argument("--briefing-date", help="Publish a specific YYYY-MM-DD edition (KST); defaults to the latest due date")
+    parser.add_argument("--retry-failed-briefing", action="store_true",
+                        help="Allow one new paid attempt for --briefing-date; never replaces a published edition")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and validate, but do not call the LLM or change public data")
     parser.add_argument("--incremental", action="store_true", help="Validate changed archive shards using the disposable local index")
     parser.add_argument("--days", type=int, default=3, help="Lookback in days (initial bootstrap: 14)")
@@ -270,6 +303,15 @@ def main():
     args = parser.parse_args()
     if not 1 <= args.days <= 30:
         parser.error("--days must be between 1 and 30")
+    if (args.briefing_date or args.retry_failed_briefing) and args.command != "brief":
+        parser.error("Briefing date/retry options require the brief command")
+    if args.retry_failed_briefing and not args.briefing_date:
+        parser.error("--retry-failed-briefing requires --briefing-date")
+    if args.briefing_date:
+        try:
+            briefings.daily_window(datetime.now(UTC), args.briefing_date)
+        except ValueError as exc:
+            parser.error(str(exc))
     load_env()
     if args.command == "validate":
         store = Archive(args.data_dir, args.runtime_dir).validate(incremental=args.incremental)

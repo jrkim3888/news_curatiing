@@ -17,6 +17,14 @@ on:
         description: Disable paid OpenRouter calls (uncheck to publish a briefing)
         type: boolean
         default: true
+      briefing_date:
+        description: 'Briefing date in KST (YYYY-MM-DD); blank means latest due date; brief mode only'
+        type: string
+        default: ''
+      retry_failed_briefing:
+        description: 'Allow one additional paid attempt for briefing_date; published editions are preserved'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -58,6 +66,9 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           MAX_SUMMARIES_PER_RUN: ${{ vars.MAX_SUMMARIES_PER_RUN || '1' }}
+          BRIEFING_MAX_TOKENS: ${{ vars.BRIEFING_MAX_TOKENS || '18432' }}
+          BRIEFING_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.briefing_date || '' }}
+          RETRY_FAILED_BRIEFING: ${{ github.event_name == 'workflow_dispatch' && inputs.retry_failed_briefing || false }}
           SITE_URL: ${{ vars.SITE_URL }}
           NO_LLM: ${{ github.event_name == 'workflow_dispatch' && inputs.no_llm }}
           NEWS_BRANCH: main
