@@ -1,5 +1,6 @@
 import { NEWS_PAGE_SIZE, parsePage } from '../lib/pagination';
 import { newsCard, type Source } from './cards';
+import { archivePages, ArchiveChangedError } from './archive-pages';
 import {
   searchIndex,
   resetIndex,
@@ -43,8 +44,10 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
     days: string[];
     page: number;
     total: number;
+    version: string;
   } = JSON.parse(feed.querySelector('[data-feed-config]')!.textContent!);
   const sources = new Map(config.sources.map((s) => [s.id, s]));
+  const loadPage = archivePages(config.version, config.total);
   const query = feed.querySelector<HTMLInputElement>('[data-query]')!;
   const region = feed.querySelector<HTMLSelectElement>('[data-region-filter]')!;
   const summary = feed.querySelector<HTMLSelectElement>(
@@ -58,6 +61,8 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
   )!;
   const results = feed.querySelector<HTMLElement>('[data-results]')!,
     nav = feed.querySelector<HTMLElement>('[data-pagination]')!;
+  // These cards are already in the HTML. Reuse them on entry and when returning.
+  const initialCards = [...results.children];
   const error = feed.querySelector<HTMLElement>('[data-load-error]')!,
     empty = feed.querySelector<HTMLElement>('[data-empty]')!;
   const live = feed.querySelector<HTMLElement>('[data-live]')!,
@@ -74,6 +79,7 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
     saved = readSaved(),
     page = config.page,
     version = 0,
+    pending: AbortController | undefined,
     timer: ReturnType<typeof setTimeout> | undefined;
   function readLocation() {
     const params = new URLSearchParams(location.search);
@@ -134,8 +140,69 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
     );
     results.dataset.view = view;
   }
+  function hasFilters() {
+    return Boolean(
+      query.value.trim() ||
+      category !== 'all' ||
+      region.value !== 'all' ||
+      summary.value !== 'all' ||
+      source.value !== 'all' ||
+      from.value ||
+      to.value ||
+      savedOnly.checked,
+    );
+  }
+  function syncBookmarks() {
+    results
+      .querySelectorAll<HTMLElement>('[data-bookmark]')
+      .forEach((button) =>
+        button.setAttribute(
+          'aria-pressed',
+          String(saved.has(button.dataset.bookmark!)),
+        ),
+      );
+  }
+  function clampPage(total: number) {
+    const clamped = Math.min(
+      page,
+      Math.max(1, Math.ceil(total / NEWS_PAGE_SIZE)),
+    );
+    if (clamped !== page) {
+      page = clamped;
+      history.replaceState(null, '', url());
+    }
+  }
+  function loading() {
+    results.setAttribute('aria-busy', 'true');
+    results.hidden = true;
+    nav.hidden = true;
+    count.textContent = '…';
+    status.textContent = hasFilters()
+      ? '검색 결과를 불러오는 중…'
+      : '뉴스를 불러오는 중…';
+    live.textContent = status.textContent;
+  }
+  function show(total: number, focus: boolean) {
+    const pages = Math.max(1, Math.ceil(total / NEWS_PAGE_SIZE));
+    results.hidden = false;
+    count.textContent = String(total);
+    empty.hidden = total !== 0;
+    status.textContent = total
+      ? `${page} / ${pages} 페이지 · ${NEWS_PAGE_SIZE}개씩 보기`
+      : '';
+    live.textContent = `${total}개의 뉴스. ${page}페이지, ${results.children.length}개 표시 중.`;
+    renderPagination(nav, page, pages, url);
+    if (focus) {
+      results.tabIndex = -1;
+      results.focus({ preventScroll: true });
+      feed.querySelector('.feed-results')!.scrollIntoView({ block: 'start' });
+    }
+  }
   async function render(focus = false) {
     const current = ++version;
+    pending?.abort();
+    pending = undefined;
+    results.removeAttribute('aria-busy');
     controls();
     error.hidden = true;
     empty.hidden = true;
@@ -171,23 +238,39 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
       if (!saved.size) noMatches = true;
       else filters.article_id = { any: [...saved] };
     }
-    results.setAttribute('aria-busy', 'true');
-    results.hidden = true;
-    nav.hidden = true;
-    count.textContent = '…';
-    live.textContent = '뉴스를 찾고 있습니다.';
     try {
+      if (!hasFilters()) {
+        clampPage(config.total);
+        if (page === config.page) {
+          if (results.firstElementChild !== initialCards[0])
+            results.replaceChildren(...initialCards);
+          syncBookmarks();
+        } else {
+          loading();
+          const controller = new AbortController();
+          pending = controller;
+          const timeout = setTimeout(() => controller.abort(), 15000);
+          let records: Article[];
+          try {
+            records = await loadPage(page, controller.signal);
+          } finally {
+            clearTimeout(timeout);
+          }
+          if (current !== version) return;
+          results.replaceChildren(
+            ...records.map((a) => newsCard(a, sources, saved)),
+          );
+        }
+        show(config.total, focus);
+        return;
+      }
+      loading();
       const response = noMatches
         ? { results: [] }
         : await searchIndex(query.value.trim() || null, filters);
       if (current !== version) return;
-      const total = response.results.length,
-        pages = Math.max(1, Math.ceil(total / NEWS_PAGE_SIZE));
-      const clamped = Math.min(page, pages);
-      if (clamped !== page) {
-        page = clamped;
-        history.replaceState(null, '', url());
-      }
+      const total = response.results.length;
+      clampPage(total);
       const records = await Promise.all(
         response.results
           .slice((page - 1) * NEWS_PAGE_SIZE, page * NEWS_PAGE_SIZE)
@@ -199,21 +282,19 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
       results.replaceChildren(
         ...records.map((a) => newsCard(a, sources, saved)),
       );
-      results.hidden = false;
-      count.textContent = String(total);
-      empty.hidden = total !== 0;
-      status.textContent = total
-        ? `${page} / ${pages} 페이지 · ${NEWS_PAGE_SIZE}개씩 보기`
-        : '';
-      live.textContent = `${total}개의 뉴스. ${page}페이지, ${records.length}개 표시 중.`;
-      renderPagination(nav, page, pages, url);
-      if (focus) {
-        results.tabIndex = -1;
-        results.focus({ preventScroll: true });
-        feed.querySelector('.feed-results')!.scrollIntoView({ block: 'start' });
-      }
-    } catch {
+      show(total, focus);
+    } catch (cause) {
       if (current === version) {
+        if (
+          cause instanceof ArchiveChangedError &&
+          history.state?.archiveReloaded !== config.version
+        ) {
+          // A deployment removed the old version: obtain fresh HTML/config.
+          // Keep a marker through reload so a missing asset cannot cause a loop.
+          history.replaceState({ archiveReloaded: config.version }, '', url());
+          location.reload();
+          return;
+        }
         results.hidden = true;
         error.hidden = false;
         nav.hidden = true;
@@ -234,6 +315,7 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
   query.addEventListener('input', () => {
     clearTimeout(timer);
     ++version;
+    pending?.abort();
     timer = setTimeout(change, 150);
   });
   [region, summary, source, from, to, savedOnly].forEach((el) =>
@@ -292,9 +374,10 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
     history.pushState(null, '', url());
     void render(true);
   });
-  feed
-    .querySelector('[data-retry]')!
-    .addEventListener('click', () => void resetIndex().then(() => render()));
+  feed.querySelector('[data-retry]')!.addEventListener('click', () => {
+    if (hasFilters()) void resetIndex().then(() => render());
+    else void render();
+  });
   window.addEventListener('popstate', () => {
     clearTimeout(timer);
     readLocation();
@@ -303,7 +386,8 @@ document.querySelectorAll<HTMLElement>('[data-feed]').forEach((feed) => {
   window.addEventListener('storage', (event) => {
     if (event.key === storageKey || event.key === null) {
       saved = readSaved();
-      void render();
+      if (savedOnly.checked) void render();
+      else syncBookmarks();
     }
   });
   readLocation();

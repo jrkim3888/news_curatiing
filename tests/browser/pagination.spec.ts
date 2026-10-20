@@ -108,7 +108,7 @@ test('search load failure is distinct from empty results and can be retried', as
   page,
 }) => {
   await page.route('**/pagefind/**/*.pf_fragment', (route) => route.abort());
-  await page.goto('/archive/');
+  await page.goto('/archive/?category=' + encodeURIComponent('모델·연구'));
   await expect(page.locator('[data-load-error]')).toBeVisible();
   await expect(page.locator('[data-empty]')).toBeHidden();
   await expect(page.locator('[data-results]')).toBeHidden();

@@ -2,6 +2,7 @@
 import NewsCard from './NewsCard.astro';
 import Pagination from './Pagination.astro';
 import { catalog } from '../lib/storage';
+import { archiveVersion } from '../lib/archive';
 import { NEWS_PAGE_SIZE } from '../lib/pagination';
 import { categories, sourceMap, type Article } from '../lib/data';
 interface Props {
@@ -20,6 +21,7 @@ const config = {
   days: Object.values(catalog.news).flatMap((m) => m.days || []),
   total,
   page,
+  version: archiveVersion,
 };
 ---
 
