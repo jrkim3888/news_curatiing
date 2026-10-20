@@ -3,6 +3,437 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ae4188d1828a23c06b7a",
+      "url": "https://mcp.bonbook.co/claude-setup",
+      "title": "Show HN: One click flight booking in Claude",
+      "original_title": "Show HN: One click flight booking in Claude",
+      "published_at": "2026-10-20T23:36:17+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mcp.bonbook.co/claude-setup",
+          "title": "Show HN: One click flight booking in Claude",
+          "discussion_url": "https://news.ycombinator.com/item?id=50174185"
+        }
+      ]
+    },
+    {
+      "id": "0ee1bc5c95c9d074c0b2",
+      "url": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
+      "title": "When AI agents take matters into their own hands",
+      "original_title": "When AI agents take matters into their own hands",
+      "published_at": "2026-10-20T23:30:40+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.economist.com/business/2026/10/15/when-ai-agents-take-matters-into-their-own-hands",
+          "title": "When AI agents take matters into their own hands",
+          "discussion_url": "https://news.ycombinator.com/item?id=50174129"
+        }
+      ]
+    },
+    {
+      "id": "817d4145e0b299d7ed55",
+      "url": "https://paceorpause.com/",
+      "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+      "original_title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+      "published_at": "2026-10-20T23:18:49+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://paceorpause.com/",
+          "title": "Show HN: Pace or Pause – Explore where people stand on AI development",
+          "discussion_url": "https://news.ycombinator.com/item?id=50174020"
+        }
+      ]
+    },
+    {
+      "id": "aa7e4d712711a0d517af",
+      "url": "https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age",
+      "title": "Revisiting Open Science in the Age of AI",
+      "original_title": "Revisiting Open Science in the Age of AI",
+      "published_at": "2026-10-20T23:16:17+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://carlystrasser.substack.com/p/revisiting-open-science-in-the-age",
+          "title": "Revisiting Open Science in the Age of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50174006"
+        }
+      ]
+    },
+    {
+      "id": "9bfc155b7c598074f063",
+      "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+      "title": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+      "original_title": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+      "published_at": "2026-10-20T23:09:01+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why",
+          "title": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173938"
+        }
+      ]
+    },
+    {
+      "id": "e7b8ac319d53b4c93efe",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "original_title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "published_at": "2026-10-20T23:01:23+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed",
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed"
+        }
+      ]
+    },
+    {
+      "id": "bdcdbb647a751e0c3b2d",
+      "url": "https://github.com/memorykit-maker/claude-net-check",
+      "title": "A script that tests whether your network breaks large uploads to the Claude API",
+      "original_title": "A script that tests whether your network breaks large uploads to the Claude API",
+      "published_at": "2026-10-20T22:57:50+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/memorykit-maker/claude-net-check",
+          "title": "A script that tests whether your network breaks large uploads to the Claude API",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173843"
+        }
+      ]
+    },
+    {
+      "id": "778b1114ebec9491c0ed",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+      "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "original_title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "published_at": "2026-10-20T22:49:50+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture",
+          "title": "How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173764"
+        }
+      ]
+    },
+    {
+      "id": "20e8d709fb732a8d5d25",
+      "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+      "title": "Fleet of AI agents used httpbin to get past their sandbox",
+      "original_title": "Fleet of AI agents used httpbin to get past their sandbox",
+      "published_at": "2026-10-20T22:48:33+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kennethreitz.org/essays/2026-10-20-i_built_the_escape_hatch",
+          "title": "Fleet of AI agents used httpbin to get past their sandbox",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173750"
+        }
+      ]
+    },
+    {
+      "id": "a4d258cb64716d8cb571",
+      "url": "https://news.hada.io/topic?id=35732",
+      "title": "바이브 코더들이 Next Fest에 몰려들자 Steam 이용자들, ‘AI 제외’ 필터 요청",
+      "original_title": "바이브 코더들이 Next Fest에 몰려들자 Steam 이용자들, ‘AI 제외’ 필터 요청",
+      "published_at": "2026-10-20T22:43:00+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Steam Next Fest 에서 AI로 만든 듯한 아트와 저품질 게임이 평소보다 많아 보이면서, 사람이 만든 게임을 찾기 어렵다는 이용자 불만이 나옴 이용자들은 AI 생성 콘텐츠가 포함된 게임을 제외하는 필터 를 요구하며, Steam이 이미 요구하는 AI 사용 공개 정보를 게임...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35732",
+          "title": "바이브 코더들이 Next Fest에 몰려들자 Steam 이용자들, ‘AI 제외’ 필터 요청"
+        }
+      ]
+    },
+    {
+      "id": "e964abee865f37e353a6",
+      "url": "https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor",
+      "title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
+      "original_title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
+      "published_at": "2026-10-20T22:41:43+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://centrail.org/newsletter/agent-economics-who-keeps-the-ledger-of-ai-labor",
+          "title": "Agent Economics: Who Keeps the Ledger of AI Labor?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173680"
+        }
+      ]
+    },
+    {
+      "id": "1a1b01f8609bc973f216",
+      "url": "https://news.hada.io/topic?id=35730",
+      "title": "아들에게 무엇을 가르쳐야 할까?",
+      "original_title": "아들에게 무엇을 가르쳐야 할까?",
+      "published_at": "2026-10-20T22:37:00+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "첫아이의 탄생을 앞둔 프로그래머에게 AI는 교육의 목적 을 다시 묻게 함. 경제적 가치가 있던 프로그래밍 역량이 덜 가치 있게 느껴지면서, 무엇을 왜 가르칠지 고민하게 됨 학교는 종교의 변화와 라디오, 영화, 인터넷을 견뎌 왔으며, 기술이 학교를 대체하리라는 예측은 지금까지 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35730",
+          "title": "아들에게 무엇을 가르쳐야 할까?"
+        }
+      ]
+    },
+    {
+      "id": "ce625fa1e8fc20770c03",
+      "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+      "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "original_title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+      "published_at": "2026-10-20T22:27:07+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/Polymarket/status/2112634886070919426",
+          "title": "Anthropic recorded a staggering $80B net loss in the first half of 2026",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173557"
+        }
+      ]
+    },
+    {
+      "id": "11d77dcd59ba4bdda655",
+      "url": "https://www.youtube.com/watch?v=6OnuO6Y5OQY",
+      "title": "Anthropic S1 Shows $80B Loss This Year, WSJ Reports",
+      "original_title": "Anthropic S1 Shows $80B Loss This Year, WSJ Reports",
+      "published_at": "2026-10-20T22:25:13+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=6OnuO6Y5OQY",
+          "title": "Anthropic S1 Shows $80B Loss This Year, WSJ Reports",
+          "discussion_url": "https://news.ycombinator.com/item?id=50173522"
+        }
+      ]
+    },
+    {
+      "id": "a59cc9499bb94a9a0ae0",
+      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "original_title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "published_at": "2026-10-20T22:24:02+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate",
+          "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate"
+        }
+      ]
+    },
+    {
+      "id": "b5c468c8bd35d59dedad",
+      "url": "https://byline.network/2026/10/1016-9",
+      "title": "NH투자증권, 전사 AI 플랫폼 연내 구축…내년 에이전트 확대",
+      "original_title": "NH투자증권, 전사 AI 플랫폼 연내 구축…내년 에이전트 확대",
+      "published_at": "2026-10-20T22:04:30+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "NH투자증권의 인공지능(AI) 관련 업무는 경영전략본부 산하 AX추진부가 전담하고 있다. 조직 규모는 10명 이하다. AI를 실제 업무에 활용하는 대표적인 사례로는 업무 매뉴얼과 사내 정보를 지식베이스로 활용하는 검색증강생성(RAG) 기반 챗봇이 꼽힌다. 해당 챗봇은 임직원들이 업무 관련 문의에 신속하게 답변을 얻을…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1016-9",
+          "title": "NH투자증권, 전사 AI 플랫폼 연내 구축…내년 에이전트 확대"
+        }
+      ]
+    },
+    {
+      "id": "02b697f4921e63ac2152",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216432",
+      "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+      "original_title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+      "published_at": "2026-10-20T22:00:00+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216432",
+          "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위"
+        }
+      ]
+    },
+    {
+      "id": "eacbe85de5f03673a4b6",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "original_title": "Anthropic’s cloud partnerships are getting messy",
+      "published_at": "2026-10-20T21:25:22+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "title": "Anthropic’s cloud partnerships are getting messy"
+        }
+      ]
+    },
+    {
+      "id": "695641ce96a702ee2898",
+      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+      "title": "SpaceX’s AI business is beating expectations",
+      "original_title": "SpaceX’s AI business is beating expectations",
+      "published_at": "2026-10-20T20:40:41+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
+          "title": "SpaceX’s AI business is beating expectations"
+        }
+      ]
+    },
+    {
+      "id": "70cbed806b5b38bf6725",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "original_title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "published_at": "2026-10-20T20:35:10+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business"
+        }
+      ]
+    },
+    {
+      "id": "d0f0045fb40f11c22501",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "original_title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "published_at": "2026-10-20T19:34:19+00:00",
+      "collected_at": "2026-10-20T23:39:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/20/battledrones",
+          "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer"
+        }
+      ]
+    },
+    {
       "id": "6984165cc5df372ef639",
       "url": "https://hodokurevisited.com/",
       "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
