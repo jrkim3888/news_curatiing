@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "updated_at": "2026-10-20T00:08:24+00:00",
+  "updated_at": "2026-10-20T04:09:20+00:00",
   "collection_slot": "2026-10-19T21:00:00+00:00",
   "news": {
     "2026-10": {
       "count": 305,
-      "sha256": "7a21b08fb4f9fc06adff1e092781cd72a92700f23a54eecd817216ffe743f720",
+      "sha256": "d16142193332875c82179cd2a00335e16bd7aac7f7208171188d6b8823ee471f",
       "days": [
         "2026-10-03",
         "2026-10-04",
@@ -26,8 +26,8 @@
   },
   "briefings": {
     "2026-10": {
-      "count": 1,
-      "sha256": "430ffc86c6b49b2721b09206e1e9a5c2e40bf33385568a899ae8773859fe15e1"
+      "count": 2,
+      "sha256": "b336f3fadb2093e9985bcc8be2a1b7d609845cfbb359922834c68590adacd36f"
     }
   },
   "editorial": {
