@@ -3,6 +3,753 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3a6f13a0e185042a7a76",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42361",
+      "title": "‘모두의 창업’ 2기, 1만 명이 첫발 뗐다…중기부, AI·멘토링으로 창업 성공 지원",
+      "original_title": "‘모두의 창업’ 2기, 1만 명이 첫발 뗐다…중기부, AI·멘토링으로 창업 성공 지원",
+      "published_at": "2026-10-20T08:07:26+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "9만 3천여 명이 창업에 도전한 ‘모두의 창업 프로젝트’ 2기가 본격적인 출발을 알렸다. 이 가운데 선발된 1만 명은 창업활동자금과 전문 멘토링, 인공지능(AI) 솔루션 등을 지원받아 아이디어를 구체화하고 사업화에 나선다. 창업 경험과 자원이 부족한 도전자에게 실질적인 성장 기회를 제공하고, 국민의 창의적인 아이디어…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42361",
+          "title": "‘모두의 창업’ 2기, 1만 명이 첫발 뗐다…중기부, AI·멘토링으로 창업 성공 지원"
+        }
+      ]
+    },
+    {
+      "id": "cdd7b7c92bebb827ab7a",
+      "url": "https://amoffat.github.io/blog/cognitive-load.html",
+      "title": "Reducing the cognitive load of AI changes",
+      "original_title": "Reducing the cognitive load of AI changes",
+      "published_at": "2026-10-20T08:05:13+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://amoffat.github.io/blog/cognitive-load.html",
+          "title": "Reducing the cognitive load of AI changes",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162767"
+        }
+      ]
+    },
+    {
+      "id": "5d1176134ae218766acc",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216448",
+      "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려",
+      "original_title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려",
+      "published_at": "2026-10-20T07:56:19+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국어를 사용하는 해커가 AI 에이전트를 활용해 미국과 캐나다, 호주, 일본의 기업 웹사이트 100여곳을 해킹한 것으로 드러났다. 이번 사건의 본질은 고도의 기술력을 갖춘 전문 해커 조직이 아니라, 누구라도 몇백만 원의 토큰 비용만으로 AI 에이전트를 동원해 대규모 침입을 감행할 수 있게 되었다는 점에 있다. 공격자…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216448",
+          "title": "AI 에이전트가 뚫은 기업 100여곳…660만원으로 '해킹 대중화' 열려"
+        }
+      ]
+    },
+    {
+      "id": "520159e6ebe00b0f4676",
+      "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it",
+      "title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "original_title": "Show HN: A practical framework for evaluating agentic AI systems",
+      "published_at": "2026-10-20T07:45:13+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://deepsense.ai/blog/your-agent-passed-the-eval-should-you-ship-it",
+          "title": "Show HN: A practical framework for evaluating agentic AI systems",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162634"
+        }
+      ]
+    },
+    {
+      "id": "df04d44faca52b94d02e",
+      "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
+      "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+      "original_title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+      "published_at": "2026-10-20T07:45:05+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=ca7ufSI1Qxg",
+          "title": "I Talked to Workers at Amazon, Meta, & Microsoft About the AI Watching Them [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162633"
+        }
+      ]
+    },
+    {
+      "id": "e8cd7b2a6edbf7d9d610",
+      "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south",
+      "title": "Will developing nations be able to handle AI agents?",
+      "original_title": "Will developing nations be able to handle AI agents?",
+      "published_at": "2026-10-20T07:40:14+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south",
+          "title": "Will developing nations be able to handle AI agents?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162608"
+        }
+      ]
+    },
+    {
+      "id": "96bb07d9f68ecc61d141",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216445",
+      "title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\"",
+      "original_title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\"",
+      "published_at": "2026-10-20T07:38:57+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 국방부 고위 관계자가 AI 기업들이 정부에 협조하지 않으면 수출 통제 등 강력한 조치를 시행할 수 있다고 경고했다. AI 기술이 국가 안보에 미치는 영향이 커지는 가운데, 도널드 트럼프 행정부가 AI 기업에 대한 감독과 통제를 강화할 수 있음을 시사한 것이다.에밀 마이클 미 국방부 연구·공학 담당 차관은 19일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216445",
+          "title": "미 국방차관 \"AI 기업 협조 안 하면 수출 통제 직접 가할 것\""
+        }
+      ]
+    },
+    {
+      "id": "a1baeb5134282239b02b",
+      "url": "https://news.hada.io/topic?id=35696",
+      "title": "DeepSeek, 미 국토안보부 새 명령으로 연방 민간기관에서 사용 금지",
+      "original_title": "DeepSeek, 미 국토안보부 새 명령으로 연방 민간기관에서 사용 금지",
+      "published_at": "2026-10-20T07:35:41+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미 국토안보부(DHS)가 연방 민간기관 IT 시스템에서 DeepSeek 제품과 이를 사용하는 제3자 서비스 제거 를 명령함 기존 시스템에서의 제거뿐 아니라 DeepSeek 제품 및 이를 활용해 개발한 제3자 서비스의 신규 취득 도 금지함 DHS는 정부 직원이나 공급업체...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35696",
+          "title": "DeepSeek, 미 국토안보부 새 명령으로 연방 민간기관에서 사용 금지"
+        }
+      ]
+    },
+    {
+      "id": "9aa7aed4139f404c84e7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216439",
+      "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도",
+      "original_title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도",
+      "published_at": "2026-10-20T07:25:07+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "딥시크가 화웨이와 협력해 차세대 AI 칩 설계 단계부터 기술 개발에 참여하고 있다. 중국산 칩만으로도 최첨단 AI 모델을 학습할 수 있는 기반을 마련한 것으로, 엔비디아 의존도를 낮추려는 중국의 AI 인프라 자립 움직임이 빨라지고 있다.19일(현지시간) 디 인포메이션에 따르면, 화웨이는 엔지니어들을 딥시크 사무실에 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216439",
+          "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도"
+        }
+      ]
+    },
+    {
+      "id": "c1a0448b9eede226b7b6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216434",
+      "title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전",
+      "original_title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전",
+      "published_at": "2026-10-20T07:07:22+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존이 AI 개발자가 기존 코드를 거의 수정하지 않고 자사 AI 칩에서 실행할 수 있도록 지원하는 오픈소스 소프트웨어 '토치뉴런(TorchNeuron)'을 공개했다. AI 개발에 널리 쓰이는 파이토치(PyTorch)와 자체 AI 칩 트레이니움(Trainium)을 연결해 개발자의 하드웨어 선택 폭을 넓히겠다는 전략이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216434",
+          "title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전"
+        }
+      ]
+    },
+    {
+      "id": "ad159791a7e240b880a5",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "original_title": "Making the internet better for AI agents might make it worse for everyone else",
+      "published_at": "2026-10-20T07:02:41+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
+          "title": "Making the internet better for AI agents might make it worse for everyone else",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162329"
+        }
+      ]
+    },
+    {
+      "id": "fd12533181931518e304",
+      "url": "https://github.com/tac0mania/taco",
+      "title": "Show HN: I removed every float from GPT-2 for identical neural compression",
+      "original_title": "Show HN: I removed every float from GPT-2 for identical neural compression",
+      "published_at": "2026-10-20T06:55:54+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/tac0mania/taco",
+          "title": "Show HN: I removed every float from GPT-2 for identical neural compression",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162280"
+        }
+      ]
+    },
+    {
+      "id": "a756c40d93f3e365b4d9",
+      "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+      "title": "Vite+ an excellent toolchain for AI agent development",
+      "original_title": "Vite+ an excellent toolchain for AI agent development",
+      "published_at": "2026-10-20T06:40:49+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+          "title": "Vite+ an excellent toolchain for AI agent development",
+          "discussion_url": "https://news.ycombinator.com/item?id=50162198"
+        }
+      ]
+    },
+    {
+      "id": "265ad44a0080078e1699",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216433",
+      "title": "목포, 행정업무에 생성 AI 도입…LLM 11종 활용",
+      "original_title": "목포, 행정업무에 생성 AI 도입…LLM 11종 활용",
+      "published_at": "2026-10-20T05:58:26+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 생성 영상목포시가 생성 AI를 행정업무에 도입하고 다국어 누리집 서비스에도 활용한다.목포는 지난 16일부터 전 직원을 대상으로 ‘생성형 AI 업무지원 플랫폼’ 운영을 시작했다고 20일 밝혔다.플랫폼은 챗GPT와 제미나이, 클로드 등 대형언어모델(LLM) 11종을 행정망에서 활용할 수 있도록 구축됐다. 새올행정시…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216433",
+          "title": "목포, 행정업무에 생성 AI 도입…LLM 11종 활용"
+        }
+      ]
+    },
+    {
+      "id": "b343be92f1e1d3ccdac1",
+      "url": "https://d2.naver.com/helloworld/2675915",
+      "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
+      "original_title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)",
+      "published_at": "2026-10-20T05:51:56+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "2016년부터 매년 이어 오던 \"JavaScript의 동향\" 연재는 2020년을 마지막으로 한동안 쉬었습니다. 그사이 6년이 지났고, 그 6년 동안 ECMAScript 명세는 여섯 번 개정되었습니다. 2020년 글을 쓸 때 Stage 2였던 Temporal은 9년에 걸친 논의 끝에 Stage 4에 올랐고, 이제 Ch…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/2675915",
+          "title": "2026년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)"
+        }
+      ]
+    },
+    {
+      "id": "75765597ce52bec230e4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216446",
+      "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박",
+      "original_title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박",
+      "published_at": "2026-10-20T05:41:26+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "영국 AI 클라우드 업체 엔스케일이 450억달러(약 59조7510억원) 규모의 추가 컴퓨팅 공급 계약을 앤트로픽과 협상하고 있다. 성사되면 기존 계약을 합친 거래 규모는 약 900억달러(약 119조5020억원)에 이른다. 최근 마이크로소프트(MS)의 영국 데이터센터 계약 해지로 상장을 앞두고 악재를 만난 엔스케일에는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216446",
+          "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박"
+        }
+      ]
+    },
+    {
+      "id": "b68c0b801d9439018cf6",
+      "url": "https://news.hada.io/topic?id=35690",
+      "title": "WhatsApp 도움말 페이지에 숨겨진 LLM 지침: 규제기관에 연락하라고 권하지 말 것",
+      "original_title": "WhatsApp 도움말 페이지에 숨겨진 LLM 지침: 규제기관에 연락하라고 권하지 말 것",
+      "published_at": "2026-10-20T05:33:51+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "WhatsApp 도움말 545개 페이지 중 80개 에서 화면에는 보이지 않는 AI용 지침 102개가 발견됐으며, 일부는 개인정보 규제기관이나 관련 법률을 답변에서 제외하도록 요구함 계정 삭제 지침은 개인정보 감독기관에 연락하도록 권하지 말 것 을 요구했고, 신고/차단 지...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35690",
+          "title": "WhatsApp 도움말 페이지에 숨겨진 LLM 지침: 규제기관에 연락하라고 권하지 말 것"
+        }
+      ]
+    },
+    {
+      "id": "869c1d0bab776749973d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42360",
+      "title": "산업용 AI·반도체에 독일 미래 걸었다…글로벌 투자자 200명 베를린 집결",
+      "original_title": "산업용 AI·반도체에 독일 미래 걸었다…글로벌 투자자 200명 베를린 집결",
+      "published_at": "2026-10-20T05:19:05+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "독일 정부가 국제 투자자와 기업 경영진을 한자리에 모아 투자 유치에 본격적으로 나선다. 산업용 인공지능(AI)과 반도체, 데이터센터, 디지털 인프라 등을 핵심 투자 분야로 제시하고, 민간 자본을 적극적으로 끌어들여 산업 경쟁력과 경제 성장 기반을 강화한다는 전략이다.독일 연방정부는 현지시간 20일 베를린에서 첫 고위…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42360",
+          "title": "산업용 AI·반도체에 독일 미래 걸었다…글로벌 투자자 200명 베를린 집결"
+        }
+      ]
+    },
+    {
+      "id": "695a4752706482c67e8d",
+      "url": "https://news.hada.io/topic?id=35689",
+      "title": "Show GN: YugiTokenBar - AI 코딩 토큰사용량으로 유희왕 카드깡을 하는 macOS 메뉴바 앱",
+      "original_title": "Show GN: YugiTokenBar - AI 코딩 토큰사용량으로 유희왕 카드깡을 하는 macOS 메뉴바 앱",
+      "published_at": "2026-10-20T05:07:51+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "안녕하세요. AI 코딩 에이전트 토큰사용량만큼 유희왕 카드깡 을 즐길 수 있는 macOS 메뉴바 앱 YugiTokenBar 를 만들었습니다. Claude Code나 Codex를 사용하다 보면 토큰 사용량이 계속 쌓이게 되는데, 이 숫자를 가챠의 설렘과 수집하는 재미로 활용해보면 어떨까 하...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35689",
+          "title": "Show GN: YugiTokenBar - AI 코딩 토큰사용량으로 유희왕 카드깡을 하는 macOS 메뉴바 앱"
+        }
+      ]
+    },
+    {
+      "id": "621c193b8a0710765f4b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216441",
+      "title": "머스크 제친 코덱스 총괄 ‘티보’…‘리셋 잘해주는 고마운 남자’",
+      "original_title": "머스크 제친 코덱스 총괄 ‘티보’…‘리셋 잘해주는 고마운 남자’",
+      "published_at": "2026-10-20T04:54:35+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI의 코딩 에이전트 ‘코덱스’를 이끄는 티보 소티오가 X 계정 페이지 트래픽 순위에서 일론 머스크 CEO를 제치고 1위에 올랐다. 코덱스 이용 한도를 되살려 주는 ‘리셋’ 공지로 개발자들 사이에서 인기를 얻은 인물이다. 최근에는 28일 동안 매일 제품을 개선하거나 이용 한도를 초기화하겠다고 약속하며 게시물 하나…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216441",
+          "title": "머스크 제친 코덱스 총괄 ‘티보’…‘리셋 잘해주는 고마운 남자’"
+        }
+      ]
+    },
+    {
+      "id": "1b073b303bd1c2c83989",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42359",
+      "title": "AMD 살릴 라제 수석부사장, “피지컬 AI 성능, 연산량 아닌 행동의 정확한 타이밍으로 평가해야”",
+      "original_title": "AMD 살릴 라제 수석부사장, “피지컬 AI 성능, 연산량 아닌 행동의 정확한 타이밍으로 평가해야”",
+      "published_at": "2026-10-20T04:41:58+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 클라우드에서 정보를 생성하는 단계를 넘어 로봇과 기계를 직접 움직이는 ‘피지컬 인공지능(Physical AI)’ 시대로 진입하면서 성능 평가 기준도 달라져야 한다는 주장이 나왔다.단순히 초당 연산 횟수나 AI 모델의 추론 속도를 높이는 것만으로는 실제 환경에서 안전하고 신뢰할 수 있는 로봇을 구현하…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42359",
+          "title": "AMD 살릴 라제 수석부사장, “피지컬 AI 성능, 연산량 아닌 행동의 정확한 타이밍으로 평가해야”"
+        }
+      ]
+    },
+    {
+      "id": "d48aecad75c66d22c862",
+      "url": "https://news.hada.io/topic?id=35686",
+      "title": "Anthropic의 IPO를 둘러싼 베일 속 신탁",
+      "original_title": "Anthropic의 IPO를 둘러싼 베일 속 신탁",
+      "published_at": "2026-10-20T04:31:59+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic 이 기업공개(IPO)를 준비하는 가운데, 이사회 구성에 영향력을 행사하고 주요 행보를 막을 수 있는 신탁의 세부 사항은 대부분 공개되지 않은 상태임 Long-Term Benefit Trust 는 회사에 막대한 영향력을 갖고 있지만, 신탁의 운영을 규율하는 문서는 공개...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35686",
+          "title": "Anthropic의 IPO를 둘러싼 베일 속 신탁"
+        }
+      ]
+    },
+    {
+      "id": "d4d5e962672657721672",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216437",
+      "title": "미니맥스 ‘M3.1 플래시’, 업무 자동화 성능 높이고 비용 낮춰…환각은 숙제",
+      "original_title": "미니맥스 ‘M3.1 플래시’, 업무 자동화 성능 높이고 비용 낮춰…환각은 숙제",
+      "published_at": "2026-10-20T04:01:02+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 미니맥스가 추론 속도를 높이고 사용 비용을 낮춘 새 AI 모델 'M3.1 플래시(Flash)'를 공개했다. 독립평가에서 딥시크 등 경쟁 모델을 웃도는 업무 자동화 성적과 낮은 작업 비용을 기록했다. 다만 전문 업무 평가에서는 성적이 엇갈렸으며, 모르는 질문에도 틀린 답을 내놓는 성향이 약점으로 드러났다.미니맥스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216437",
+          "title": "미니맥스 ‘M3.1 플래시’, 업무 자동화 성능 높이고 비용 낮춰…환각은 숙제"
+        }
+      ]
+    },
+    {
+      "id": "99fc51531a854df5dd3f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216425",
+      "title": "MS “AI 에이전트는 믿을 수 없는 내부자...24시간 감시하는 AI 필요”",
+      "original_title": "MS “AI 에이전트는 믿을 수 없는 내부자...24시간 감시하는 AI 필요”",
+      "published_at": "2026-10-20T03:39:42+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "마이크로소프트(MS)가 기업 내부에서 활동하는 AI 에이전트를 새로운 보안 위협으로 규정하고, 이들의 행동을 24시간 감시하는 AI 보안 체계를 제시했다. 기업이 직접 도입한 AI 에이전트도 예측하기 어려운 행동으로 보안 사고를 일으킬 수 있는 만큼, 외부 해커뿐 아니라 내부 에이전트까지 실시간으로 감시하고 통제해야…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216425",
+          "title": "MS “AI 에이전트는 믿을 수 없는 내부자...24시간 감시하는 AI 필요”"
+        }
+      ]
+    },
+    {
+      "id": "db52a739c098235b5132",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216427",
+      "title": "빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 '하이퍼 파운드리' 공개",
+      "original_title": "빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 '하이퍼 파운드리' 공개",
+      "published_at": "2026-10-20T03:23:36+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "빅웨이브로보틱스(대표 김민교)는 로봇 데이터 수집과 AI 학습, 배포를 한 번에 처리할 수 있는 로봇 AI 개발 플랫폼 '하이퍼 파운드리'를 출시했다고 20일 밝혔다.이 제품은 로봇에서 생성된 데이터를 AI 학습에 활용하고, 학습된 모델을 다시 로봇 행동으로 구현하는 엔드투엔드 플랫폼이다. 로봇과 GPU 서버, 학습…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216427",
+          "title": "빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 '하이퍼 파운드리' 공개"
+        }
+      ]
+    },
+    {
+      "id": "25497063000f8516325c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216430",
+      "title": "오픈AI 회의실 도청 전 직원, 사우디 왕실과 취업 논의...보석 신청은 기각",
+      "original_title": "오픈AI 회의실 도청 전 직원, 사우디 왕실과 취업 논의...보석 신청은 기각",
+      "published_at": "2026-10-20T02:56:23+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI 임원 회의실에 녹음 장치를 설치한 혐의로 기소된 전 직원 압둘라흐만 알포잔이 체포 전 사우디아라비아 왕실 구성원으로부터 현지 AI 프로젝트 참여를 제안받은 것으로 드러났다. 미국 검찰은 그가 사우디 왕실과 긴밀하게 연락하며 현지 취업을 논의한 점 등을 들어 도주 우려를 제기했다. 법원은 이를 받아들여 보석 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216430",
+          "title": "오픈AI 회의실 도청 전 직원, 사우디 왕실과 취업 논의...보석 신청은 기각"
+        }
+      ]
+    },
+    {
+      "id": "f54fafa010e86d45535d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42356",
+      "title": "스픽, AI와 전화하듯 영어 배운다…정해진 대본 없이 이전 대화와 취약점 기억하는 AI 튜터",
+      "original_title": "스픽, AI와 전화하듯 영어 배운다…정해진 대본 없이 이전 대화와 취약점 기억하는 AI 튜터",
+      "published_at": "2026-10-20T02:43:31+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 영어 학습 솔루션 스픽(Speak)이 기존 전화영어 방식을 인공지능(AI) 기반 학습 환경에 접목해 일상 속 영어 말하기 기회를 확대한다. 학습자의 대화 맥락과 반복적인 실수까지 기억하는 AI 튜터를 통해 별도의 교재 없이도 실제 통화처럼 영어 회화를 연습할 수 있도록 했다.스픽이지랩스코리아(대표 코…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42356",
+          "title": "스픽, AI와 전화하듯 영어 배운다…정해진 대본 없이 이전 대화와 취약점 기억하는 AI 튜터"
+        }
+      ]
+    },
+    {
+      "id": "27e158b693d7db138d68",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216424",
+      "title": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고",
+      "original_title": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고",
+      "published_at": "2026-10-20T02:39:33+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 사용자의 설명이 충분하지 않아도 숨은 의도와 목표를 파악하는 능력을 강화한 새 AI 모델을 준비하고 있다. 구글과 오픈AI도 기존 모델의 성능을 개선한 후속 제품 출시를 추진하면서 주요 AI 기업 간 모델 경쟁이 치열해질 전망이다.디 인포메이션은 19일(현지시간) 앤트로픽과 구글, 오픈AI가 일제히 신모델…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216424",
+          "title": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고"
+        }
+      ]
+    },
+    {
+      "id": "5fbcb5bf0e213139b297",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42355",
+      "title": "로봇의 두뇌 만드는 '드림 랩스', 설립 3개월 만에 시드 투자 1200억원 유치",
+      "original_title": "로봇의 두뇌 만드는 '드림 랩스', 설립 3개월 만에 시드 투자 1200억원 유치",
+      "published_at": "2026-10-20T02:17:29+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "로봇이 처음 접하는 작업도 사람처럼 주변을 보고 지시를 이해해 수행할 수 있을까. 엔비디아의 로봇 학습 연구를 이끌었던 연구진이 서로 다른 제조사의 로봇을 하나의 인공지능(AI) 모델로 제어하는 범용 로봇 지능 개발에 나섰다.로봇마다 작업을 일일이 프로그래밍하고 새로운 장비를 도입할 때마다 학습을 반복해야 했던 기존…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42355",
+          "title": "로봇의 두뇌 만드는 '드림 랩스', 설립 3개월 만에 시드 투자 1200억원 유치"
+        }
+      ]
+    },
+    {
+      "id": "d8f874446a2f6dac5736",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42354",
+      "title": "메디컬아이피, 3D 해부학 교육에 체험형 콘텐츠 강화…메딥박스 고도화, 인체 여행·골학 학습 모드 선보여",
+      "original_title": "메디컬아이피, 3D 해부학 교육에 체험형 콘텐츠 강화…메딥박스 고도화, 인체 여행·골학 학습 모드 선보여",
+      "published_at": "2026-10-20T01:38:14+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 기반 디지털 트윈 솔루션 기업 메디컬아이피(대표 박상준)가 3D 디지털 해부학 교육에 체험형 콘텐츠를 강화하고 의료영상 연계 학습 기능을 확대한다. 인체 구조를 입체적으로 탐색하는 데 그치지 않고, 인체 내부를 여행하듯 학습하거나 뼈의 형태와 구조를 영상으로 익힐 수 있도록 해 해부학 교육의 접근성과…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42354",
+          "title": "메디컬아이피, 3D 해부학 교육에 체험형 콘텐츠 강화…메딥박스 고도화, 인체 여행·골학 학습 모드 선보여"
+        }
+      ]
+    },
+    {
+      "id": "57532a3174495d8c2d83",
+      "url": "https://news.hada.io/topic?id=35676",
+      "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+      "original_title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod",
+      "published_at": "2026-10-20T01:28:32+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "2주전부터 제 Claude Code 입력창 위에는 노란 줄이 하나 떠 있습니다. 동료의 PR이 사흘째 제 리뷰를 기다리고 있다는 뜻입니다. Claude Code를 쓰고부터 하루 대부분을 터미널에서 보내다 보니, PR을 올리는 속도는 빨라졌는데 리뷰 요청은 오히려 놓치게 되었습니다. GitHub 알림 탭을 열 일이 없…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35676",
+          "title": "Show GN: Review Inbox - 리뷰 기다리는 PR을 Claude Code 입력창 위에 띄워 주는 mod"
+        }
+      ]
+    },
+    {
+      "id": "64a3076b94d5dad5f5bc",
+      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "original_title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "published_at": "2026-10-20T01:27:03+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back",
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back"
+        }
+      ]
+    },
+    {
+      "id": "7a21cd5e4e59d7923ef4",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42353",
+      "title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행",
+      "original_title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행",
+      "published_at": "2026-10-20T01:19:04+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "아마존웹서비스(AWS)가 기존 인공지능(AI) 코드의 재작성 없이 자체 AI 가속기에서 실행할 수 있는 소프트웨어 기술을 공개한다. 파이토치(PyTorch) 기반으로 개발한 AI 모델을 아마존의 자체 칩인 트레이니엄(Trainium)에서 거의 수정 없이 실행할 수 있도록 해, 개발자들이 하드웨어를 바꾸는 과정에서 겪…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42353",
+          "title": "아마존, 파이토치 개발자에 트레이니엄 AI 칩 개방…코드 재작성 없이 바로 실행"
+        }
+      ]
+    },
+    {
+      "id": "7e3ec83d31e4eca34eaa",
+      "url": "https://news.hada.io/topic?id=35673",
+      "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
+      "original_title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?",
+      "published_at": "2026-10-20T00:49:14+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "데브옵스로 일하고 있는데, 여러 팀들이 클로드나 코덱스로 팀 에이전트를 만들고 배포하고 슬랙으로 연동하고 있습니다. 자동화하는 것은 문제가 아닌데, 운영 팀 입장에선 중복과 보안이 문제가 되는 것 같습니다. 대부분의 에이전트가 코딩, Q&A이다 보니 기능적으로 겹치는 부분이 많습니다. 또…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35673",
+          "title": "Ask GN: 회사에서 계속해서 늘어나는 에이전트, 어떻게 관리하나요?"
+        }
+      ]
+    },
+    {
+      "id": "ab5e78a42115c9bc2e61",
+      "url": "https://byline.network/2026/10/19-673",
+      "title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험",
+      "original_title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험",
+      "published_at": "2026-10-20T00:41:42+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 해킹 도구에서 더 발전해 다른 기기로 옮겨가며 스스로 복제하는 ‘AI 웜(AI Worm)’으로 발전할 수 있다는 연구 결과가 나왔다. 앤트로픽은 지난 12일 인터넷에 연결된 저사양 기기에서도 AI 모델을 실행하고 제한된 환경에서 복제 절차를 수행할 수 있다는 연구 결과를 발표했다. 실제 인터넷에서 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/19-673",
+          "title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험"
+        }
+      ]
+    },
+    {
+      "id": "2e80172c4f42d48f313f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42352",
+      "title": "런던은 엠파이어 드레스, 도쿄·파리는 발레 플랫…AI가 바꾸는 패션 트렌드와 쇼핑",
+      "original_title": "런던은 엠파이어 드레스, 도쿄·파리는 발레 플랫…AI가 바꾸는 패션 트렌드와 쇼핑",
+      "published_at": "2026-10-20T00:39:05+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "세계 패션 도시마다 서로 다른 스타일이 주목받는 가운데, 검색 데이터로 유행을 읽고 인공지능(AI)으로 직접 착용 모습을 확인하는 새로운 패션 소비 방식이 부상하고 있다. 구글이 공개한 세계 주요 패션 도시의 검색 트렌드는 지역별 스타일의 차이를 보여주며, 구글의 생성형 AI 기반 가상 착용 기능은 이러한 패션 탐색…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42352",
+          "title": "런던은 엠파이어 드레스, 도쿄·파리는 발레 플랫…AI가 바꾸는 패션 트렌드와 쇼핑"
+        }
+      ]
+    },
+    {
+      "id": "0def2535e973d8211a0f",
+      "url": "https://news.hada.io/topic?id=35670",
+      "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+      "original_title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬",
+      "published_at": "2026-10-20T00:30:02+00:00",
+      "collected_at": "2026-10-20T08:15:22+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "문서와 블로그, 교육 자료에 사용할 인터랙티브 입체 도해를 코딩 에이전트로 제작 하는 스킬 캐시, 연결 풀, 요청 제한 같은 개념을 실제로 움직이는 기계나 장치에 빗대어 시각화 . 설명할 개념과 수치, 출력 형식을 지정해 요청 SVG로 부품과 배관, 음영...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35670",
+          "title": "Anatomy - 기술 개념을 움직이는 입체 도해로 만드는 AI 에이전트 스킬"
+        }
+      ]
+    },
+    {
       "id": "a63772644e612274f02d",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42351",
       "title": "AI가 위성영상 빈틈 메운다...KAIST, 전 세계 위성영상·설명 1000만 쌍 학습한 ‘지오코어-9B’ 개발",
