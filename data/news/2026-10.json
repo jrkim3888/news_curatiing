@@ -3,6 +3,678 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a63772644e612274f02d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42351",
+      "title": "AI가 위성영상 빈틈 메운다...KAIST, 전 세계 위성영상·설명 1000만 쌍 학습한 ‘지오코어-9B’ 개발",
+      "original_title": "AI가 위성영상 빈틈 메운다...KAIST, 전 세계 위성영상·설명 1000만 쌍 학습한 ‘지오코어-9B’ 개발",
+      "published_at": "2026-10-20T00:07:15+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구름에 가려 보이지 않는 지상을 복원하고, 레이더로 촬영한 위성영상을 일반 사진처럼 변환하는 인공지능(AI)이 개발됐다. 한국과학기술원(KAIST) 연구진이 전 세계 위성영상과 설명 문장 1000만 쌍을 학습한 지구관측 특화 AI 모델을 개발했다.이 모델은 영상 속 지형과 건물의 형태뿐 아니라 촬영 위치와 실제 지상…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42351",
+          "title": "AI가 위성영상 빈틈 메운다...KAIST, 전 세계 위성영상·설명 1000만 쌍 학습한 ‘지오코어-9B’ 개발"
+        }
+      ]
+    },
+    {
+      "id": "a91ee1a21452ff25d0e0",
+      "url": "https://www.sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence",
+      "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+      "original_title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+      "published_at": "2026-10-20T00:06:32+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.sensenova.ai/has-gpt-6-astra-achieved-embodied-intelligence",
+          "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159663"
+        }
+      ]
+    },
+    {
+      "id": "5c04c69e83c72fe5123e",
+      "url": "https://chai-ui.com/",
+      "title": "Show HN: Chai-UI – A design system to generative AI apps",
+      "original_title": "Show HN: Chai-UI – A design system to generative AI apps",
+      "published_at": "2026-10-20T00:06:14+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://chai-ui.com/",
+          "title": "Show HN: Chai-UI – A design system to generative AI apps",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159662"
+        }
+      ]
+    },
+    {
+      "id": "fa73ff24ef85537d5c64",
+      "url": "https://news.hada.io/topic?id=35667",
+      "title": "사이트 가이드라인과 AI/LLM 태그 변경",
+      "original_title": "사이트 가이드라인과 AI/LLM 태그 변경",
+      "published_at": "2026-10-20T00:03:37+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Lobsters가 독자의 시간과 지성을 존중하는 컴퓨팅 콘텐츠 에 집중하도록 주제 적합성과 자기 홍보 규칙을 명확히 하고, AI/LLM 태그를 개편함 예정된 배포 이후에는 코드 저장소 자체를 제출할 수 없으며 , 코드의 제작 이유, 목적, 해결한 과제와 유용성을 다룬 콘...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35667",
+          "title": "사이트 가이드라인과 AI/LLM 태그 변경"
+        }
+      ]
+    },
+    {
+      "id": "a48e2b73ca3bf45d0d6e",
+      "url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "original_title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "published_at": "2026-10-19T23:58:34+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bbc.com/news/articles/cjkgeq0k1wevo",
+          "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159597"
+        }
+      ]
+    },
+    {
+      "id": "efd79bd778da1c28678a",
+      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+      "title": "My obituary for programming",
+      "original_title": "My obituary for programming",
+      "published_at": "2026-10-19T23:58:25+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
+          "title": "My obituary for programming"
+        }
+      ]
+    },
+    {
+      "id": "cb242c880ecbc5c13d6d",
+      "url": "https://www.snapflow.design/en",
+      "title": "Snapflow: An agentic design system for React, Vue and Angular",
+      "original_title": "Snapflow: An agentic design system for React, Vue and Angular",
+      "published_at": "2026-10-19T23:42:31+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.snapflow.design/en",
+          "title": "Snapflow: An agentic design system for React, Vue and Angular",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159484"
+        }
+      ]
+    },
+    {
+      "id": "a30a4fa4e51f3e78bca8",
+      "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19",
+      "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+      "original_title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+      "published_at": "2026-10-19T23:39:55+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/openai-seeks-accelerate-fundraising-ahead-anthropic-ipo-sources-say-2026-10-19",
+          "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159462"
+        }
+      ]
+    },
+    {
+      "id": "2da5c5a9206a6794cf8f",
+      "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "original_title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+      "published_at": "2026-10-19T23:39:38+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal",
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal"
+        }
+      ]
+    },
+    {
+      "id": "55c3c0be518a12ff39df",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "original_title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "published_at": "2026-10-19T23:22:18+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+          "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159341"
+        }
+      ]
+    },
+    {
+      "id": "872aa225ea55a78f567b",
+      "url": "https://www.reddit.com/r/opencode/comments/1xa1qy7/deepseek_v41_flash_updated_to_1017_in_opencode_go",
+      "title": "DeepSeek v4.1 Flash 1017 available in OpenCode Go and Free",
+      "original_title": "DeepSeek v4.1 Flash 1017 available in OpenCode Go and Free",
+      "published_at": "2026-10-19T23:21:28+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reddit.com/r/opencode/comments/1xa1qy7/deepseek_v41_flash_updated_to_1017_in_opencode_go",
+          "title": "DeepSeek v4.1 Flash 1017 available in OpenCode Go and Free",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159334"
+        }
+      ]
+    },
+    {
+      "id": "164170581538ef72bffb",
+      "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
+      "title": "AI's transformation of mathematics is a turning point for science",
+      "original_title": "AI's transformation of mathematics is a turning point for science",
+      "published_at": "2026-10-19T23:14:38+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.economist.com/science-and-technology/2026/10/12/ais-transformation-of-mathematics-is-a-turning-point-for-science",
+          "title": "AI's transformation of mathematics is a turning point for science",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159281"
+        }
+      ]
+    },
+    {
+      "id": "e09779e826942954463c",
+      "url": "https://mediationbench.com/",
+      "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
+      "original_title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
+      "published_at": "2026-10-19T23:06:41+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mediationbench.com/",
+          "title": "Show HN: MediationBench – testing AI mediators in 62 simulated conflicts",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159226"
+        }
+      ]
+    },
+    {
+      "id": "dc349a7394f4ce8993f6",
+      "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+      "title": "Is it too late to reduce catastrophic AI risk?",
+      "original_title": "Is it too late to reduce catastrophic AI risk?",
+      "published_at": "2026-10-19T23:05:22+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://news.harvard.edu/gazette/story/2026/10/is-it-already-too-late-to-reduce-catastrophic-ai-risk",
+          "title": "Is it too late to reduce catastrophic AI risk?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159213"
+        }
+      ]
+    },
+    {
+      "id": "b488736553c456addd60",
+      "url": "https://www.nature.com/articles/d41586-026-03313-7",
+      "title": "Why AI is not conscious and perhaps never will be",
+      "original_title": "Why AI is not conscious and perhaps never will be",
+      "published_at": "2026-10-19T22:52:13+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nature.com/articles/d41586-026-03313-7",
+          "title": "Why AI is not conscious and perhaps never will be",
+          "discussion_url": "https://news.ycombinator.com/item?id=50159110"
+        }
+      ]
+    },
+    {
+      "id": "11399fbe3d99cc26df84",
+      "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "original_title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "published_at": "2026-10-19T22:49:27+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is be…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says",
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says"
+        }
+      ]
+    },
+    {
+      "id": "0fc21b6838fcff99f17b",
+      "url": "https://arxiv.org/abs/2610.19264",
+      "title": "Profiling the Attack Surface of AI Agent Skills",
+      "original_title": "Profiling the Attack Surface of AI Agent Skills",
+      "published_at": "2026-10-19T22:33:35+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2610.19264",
+          "title": "Profiling the Attack Surface of AI Agent Skills",
+          "discussion_url": "https://news.ycombinator.com/item?id=50158954"
+        }
+      ]
+    },
+    {
+      "id": "fa2bb646c4b88b13d0bb",
+      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "original_title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "published_at": "2026-10-19T22:04:28+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’"
+        }
+      ]
+    },
+    {
+      "id": "95f9a8f3cab249cd8ac7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216396",
+      "title": "[10월19일] 뇌 읽는 AI, 공상과학을 현실로 이끄는 기술들",
+      "original_title": "[10월19일] 뇌 읽는 AI, 공상과학을 현실로 이끄는 기술들",
+      "published_at": "2026-10-19T22:00:00+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "사람의 뇌와 AI를 연결하자는 이야기는 오래됐습니다. '특이점이 온다(The Singularity Is Near)'의 저자 레이 커즈와일은 뇌를 디지털 지능과 연결해 사고 능력을 확장하는 미래를 예견했습니다. 일론 머스크도 인간이 AI에 뒤처지지 않도록 뇌와 컴퓨터를 연결해야 한다는 구상으로 뉴럴링크를 설립했습니다.…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216396",
+          "title": "[10월19일] 뇌 읽는 AI, 공상과학을 현실로 이끄는 기술들"
+        }
+      ]
+    },
+    {
+      "id": "b26e54861539689cbd04",
+      "url": "https://news.hada.io/topic?id=35662",
+      "title": "Ask HN: 이해하지 못하는 AI 작성 코드를 배포하는 상황에 어떻게 대처하시나요?",
+      "original_title": "Ask HN: 이해하지 못하는 AI 작성 코드를 배포하는 상황에 어떻게 대처하시나요?",
+      "published_at": "2026-10-19T21:33:18+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta 엔지니어의 LinkedIn 게시물 에 공감하며, AI가 작성한 코드를 충분히 이해하지 못한 채 배포하는 상황 에 다른 엔지니어들은 어떻게 대처하는지 경험을...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35662",
+          "title": "Ask HN: 이해하지 못하는 AI 작성 코드를 배포하는 상황에 어떻게 대처하시나요?"
+        }
+      ]
+    },
+    {
+      "id": "4adb94a84a67ec0181f8",
+      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "original_title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "published_at": "2026-10-19T20:09:24+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+          "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool"
+        }
+      ]
+    },
+    {
+      "id": "94c859547674dab55ea1",
+      "url": "https://news.hada.io/topic?id=35658",
+      "title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM",
+      "original_title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM",
+      "published_at": "2026-10-19T19:36:43+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Inception이 확산 기반 LLM Mercury 3 를 공개함. 회사 벤치마크 기준 GPT-6 Luna와 Claude Haiku 5.5를 여러 평가에서 앞서며, 초당 1,000토큰 이상으로 4~8배 빠르게 실행됨 총 파라미터 수는 Mercury 1 대비 40배 이상 늘었지만 속도는 유지됨. Inception 평가…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35658",
+          "title": "Mercury 3 - 대규모로 확장한 확산 기반 LLM"
+        }
+      ]
+    },
+    {
+      "id": "93427562692d3385c858",
+      "url": "https://news.hada.io/topic?id=35657",
+      "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
+      "original_title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델",
+      "published_at": "2026-10-19T19:33:43+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "MiniMax가 에이전트 작업, 코딩, 컴퓨터 사용, 사이버보안 역량을 강화한 M3.1 Flash 를 출시함 MiniMax에 따르면 온라인 추론 속도는 약 3배 빨라졌으며, 에이전트 작업의 전체 사용 비용은 이전 모델보다 70% 낮아짐 복잡한 소프트웨어...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35657",
+          "title": "MiniMax M3.1 Flash - 에이전트 성능을 높이고 사용 비용을 70% 낮춘 모델"
+        }
+      ]
+    },
+    {
+      "id": "ed940cd024f6727677f8",
+      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "original_title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "published_at": "2026-10-19T19:28:34+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+          "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts"
+        }
+      ]
+    },
+    {
+      "id": "e51e099393e443d09e1e",
+      "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+      "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "original_title": "Tolan snags $30M for its AI companion that helps users navigate life",
+      "published_at": "2026-10-19T19:00:12+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life",
+          "title": "Tolan snags $30M for its AI companion that helps users navigate life"
+        }
+      ]
+    },
+    {
+      "id": "b1581eb10a681d166a7b",
+      "url": "https://news.hada.io/topic?id=35655",
+      "title": "Show HN: Qwen3-4B의 AI 특유 글쓰기 습관을 학습으로 제거한 모델",
+      "original_title": "Show HN: Qwen3-4B의 AI 특유 글쓰기 습관을 학습으로 제거한 모델",
+      "published_at": "2026-10-19T18:52:06+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Qwen3-4B-Instruct 를 MacBook Air에서 답변 161개로 미세 조정한 qwen3-4b-deslop 을 공개함. 별도 시스템 프롬프트 없이 AI 특유의 문체를 줄이며 Ollama로 로컬 실행할 수 있음 학습에 쓰지 않은 40개 프롬프트에서 자체 문체 점수 가 1,000단어당...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35655",
+          "title": "Show HN: Qwen3-4B의 AI 특유 글쓰기 습관을 학습으로 제거한 모델"
+        }
+      ]
+    },
+    {
+      "id": "9acff241d46682295ae2",
+      "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+      "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "original_title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+      "published_at": "2026-10-19T18:49:04+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloa…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago",
+          "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago"
+        }
+      ]
+    },
+    {
+      "id": "9d9da2e7f0fdcefdb7a3",
+      "url": "https://news.hada.io/topic?id=35652",
+      "title": "CERN과 Mistral, 전략적 파트너십 구축을 위한 의향서 서명",
+      "original_title": "CERN과 Mistral, 전략적 파트너십 구축을 위한 의향서 서명",
+      "published_at": "2026-10-19T18:43:06+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "CERN과 Mistral 이 과학적 발견을 위한 파운데이션 모델 개발에 초점을 맞춘 장기 전략적 파트너십을 구축하고자 의향서에 서명함 핵심 목표는 수십억 건의 양성자 충돌 시뮬레이션으로 학습하는 Large Physics Model 개발이며, 충돌기 물리학 최초의 파운데이션 모...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35652",
+          "title": "CERN과 Mistral, 전략적 파트너십 구축을 위한 의향서 서명"
+        }
+      ]
+    },
+    {
+      "id": "958a6b96d1783a5bd35b",
+      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "original_title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+      "published_at": "2026-10-19T18:37:27+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
+          "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips"
+        }
+      ]
+    },
+    {
+      "id": "a5a41db56026f8a6f625",
+      "url": "https://news.hada.io/topic?id=35651",
+      "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+      "original_title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현",
+      "published_at": "2026-10-19T17:44:11+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "순수 Python으로 약 300줄의 AI 에이전트를 만들며 작동 원리를 배우는 입문서 . 프레임워크나 SDK 없이 HTTP 요청부터 시작해, 16개 장에 걸쳐 실행 가능한 작은 코딩 에이전트로 확장 LLM은 두뇌, 하네스는 몸 이라는 비유에서 출발. 모델에 전달할 대화를 관리하고...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35651",
+          "title": "Harness Engineering 101 - Python 약 300줄로 배우는 AI 에이전트 구현"
+        }
+      ]
+    },
+    {
+      "id": "c605888f4ae5e6aeabfe",
+      "url": "https://news.hada.io/topic?id=35650",
+      "title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계",
+      "original_title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계",
+      "published_at": "2026-10-19T17:41:11+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "tmux 는 AI 코딩 에이전트를 이름 있는 세션에 유지해 터미널을 닫거나 SSH 연결이 끊겨도 작업을 계속하게 하며, 여러 에이전트를 한 창에서 관리할 수 있게 함 최근 Claude Code의 claude --worktree --tmux 는 단일 브랜치에서 작업할 에이전트의 작...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35650",
+          "title": "tmux와 Claude Code: 세션, send-keys, 그리고 한계"
+        }
+      ]
+    },
+    {
+      "id": "5b32e38928db003bbd1f",
+      "url": "https://news.hada.io/topic?id=35649",
+      "title": "Ruby gem 개발을 그만두는 이유 - AI가 바꾼 생태계",
+      "original_title": "Ruby gem 개발을 그만두는 이유 - AI가 바꾼 생태계",
+      "published_at": "2026-10-19T17:38:11+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Ruby gem 개발자가 AI 중심으로 바뀐 생태계에서 개발 의욕을 잃고, 자신의 gem 저장소들을 모두 아카이브 . 사람과 함께 사람을 위해 코드를 만들던 즐거움이 사라진 것이 중단의 이유 Ruby는 “프로그래머를 행복하게 만드는 언어”, “기계가 아니라 인간을 위한 언어”...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35649",
+          "title": "Ruby gem 개발을 그만두는 이유 - AI가 바꾼 생태계"
+        }
+      ]
+    },
+    {
+      "id": "b60920b7518c9e20ef36",
+      "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
+      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "original_title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "published_at": "2026-10-19T17:00:00+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to... NVIDIA CUDA Tile…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
+          "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile"
+        }
+      ]
+    },
+    {
       "id": "6aa5f67846a0e9a10337",
       "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again",
       "title": "People are using AI to make their smart TVs dumb again",
@@ -561,6 +1233,46 @@
           "url": "https://www.reuters.com/legal/government/how-one-hacker-used-ai-agents-few-thousand-dollars-break-into-scores-sites-2026-10-19",
           "title": "One hacker used AI agents and a few thousand dollars to break into 100 sites",
           "discussion_url": "https://news.ycombinator.com/item?id=50152072"
+        }
+      ]
+    },
+    {
+      "id": "48afd38211c9b19987c9",
+      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "original_title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "published_at": "2026-10-19T12:30:00+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable s…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+          "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world"
+        }
+      ]
+    },
+    {
+      "id": "1dbe22633003a2af4fdd",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "title": "Advancing coding in low‑resource programming languages",
+      "original_title": "Advancing coding in low‑resource programming languages",
+      "published_at": "2026-10-19T12:00:00+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "title": "Advancing coding in low‑resource programming languages"
         }
       ]
     },
@@ -1301,6 +2013,26 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=35607",
           "title": "수학에 뛰어들기에 지금보다 좋은 때는 없었다, 3Blue1Brown [영상]"
+        }
+      ]
+    },
+    {
+      "id": "5c52b7d34becd1ccf770",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "original_title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "collected_at": "2026-10-20T00:08:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever"
         }
       ]
     },
