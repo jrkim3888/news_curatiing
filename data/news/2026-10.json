@@ -3,6 +3,675 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b2cce7e06af21ad0a3e7",
+      "url": "https://rcaptcha.vaultless.dev/",
+      "title": "Show HN: Reverse Captcha, prove your agent is AI",
+      "original_title": "Show HN: Reverse Captcha, prove your agent is AI",
+      "published_at": "2026-10-20T14:05:13+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rcaptcha.vaultless.dev/",
+          "title": "Show HN: Reverse Captcha, prove your agent is AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166667"
+        }
+      ]
+    },
+    {
+      "id": "66f15407d3277424d115",
+      "url": "https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html",
+      "title": "Agent Swarms Are Great for Local AI",
+      "original_title": "Agent Swarms Are Great for Local AI",
+      "published_at": "2026-10-20T13:56:57+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://jonready.com/blog/posts/agent-swarms-are-great-for-local-ai.html",
+          "title": "Agent Swarms Are Great for Local AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166552"
+        }
+      ]
+    },
+    {
+      "id": "19026eb09a275172b97a",
+      "url": "https://askdoozy.com/",
+      "title": "Show HN: Doozy – an AI coworker in Slack that works in prod without your keys",
+      "original_title": "Show HN: Doozy – an AI coworker in Slack that works in prod without your keys",
+      "published_at": "2026-10-20T13:54:51+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://askdoozy.com/",
+          "title": "Show HN: Doozy – an AI coworker in Slack that works in prod without your keys",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166515"
+        }
+      ]
+    },
+    {
+      "id": "68441749191918d1e6dc",
+      "url": "https://arxiv.org/abs/2610.25461",
+      "title": "Randomized test of an AI sales agent on 100 sites (ArXiv)",
+      "original_title": "Randomized test of an AI sales agent on 100 sites (ArXiv)",
+      "published_at": "2026-10-20T13:52:59+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2610.25461",
+          "title": "Randomized test of an AI sales agent on 100 sites (ArXiv)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166486"
+        }
+      ]
+    },
+    {
+      "id": "36d7f569bf777955d980",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42369",
+      "title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개",
+      "original_title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개",
+      "published_at": "2026-10-20T13:48:02+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글 리서치(Google Research)가 대형언어모델(LLM)의 가중치를 변경하지 않고도 인공지능(AI) 에이전트의 실행 환경을 반복적으로 개선하는 오픈소스 프레임워크 ‘하네스²(Harness²·Harness Squared)’를 공개했다.모델 자체를 재학습하는 대신 프롬프트, 도구 사용법, 메모리, 작업 절차 등…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42369",
+          "title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개"
+        }
+      ]
+    },
+    {
+      "id": "b88c78fe3a691d205cb3",
+      "url": "https://asktori.ai/",
+      "title": "Show HN: Tori by TalkJS. AI support that's actually good",
+      "original_title": "Show HN: Tori by TalkJS. AI support that's actually good",
+      "published_at": "2026-10-20T13:45:13+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://asktori.ai/",
+          "title": "Show HN: Tori by TalkJS. AI support that's actually good",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166358"
+        }
+      ]
+    },
+    {
+      "id": "9bee165b557a90686bc1",
+      "url": "https://github.com/microsoft/terminal/issues/20819",
+      "title": "Claude Code abuses WSL2 interop to just send clipboard",
+      "original_title": "Claude Code abuses WSL2 interop to just send clipboard",
+      "published_at": "2026-10-20T13:45:10+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/microsoft/terminal/issues/20819",
+          "title": "Claude Code abuses WSL2 interop to just send clipboard",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166355"
+        }
+      ]
+    },
+    {
+      "id": "b8ea50fd830539936505",
+      "url": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber",
+      "title": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
+      "original_title": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
+      "published_at": "2026-10-20T13:40:56+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://theintercept.com/2026/10/19/army-autonomous-ai-agents-arcyber",
+          "title": "The Army Wants to Sic AI Agents on Its Enemies. What Could Go Wrong?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166280"
+        }
+      ]
+    },
+    {
+      "id": "5b588a67132949177d19",
+      "url": "https://growthwiseteams.substack.com/p/how-ai-native-companies-turn-every",
+      "title": "AI-Native Companies Turn Every Employee into an Intrapreneur",
+      "original_title": "AI-Native Companies Turn Every Employee into an Intrapreneur",
+      "published_at": "2026-10-20T13:40:03+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://growthwiseteams.substack.com/p/how-ai-native-companies-turn-every",
+          "title": "AI-Native Companies Turn Every Employee into an Intrapreneur",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166270"
+        }
+      ]
+    },
+    {
+      "id": "c37d58c268a31505696e",
+      "url": "https://github.com/nimbalyst/nimbalyst-wiki",
+      "title": "Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct",
+      "original_title": "Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct",
+      "published_at": "2026-10-20T13:39:04+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/nimbalyst/nimbalyst-wiki",
+          "title": "Show HN: Local wiki Claude Code/Codex write for you to think, organize, direct",
+          "discussion_url": "https://news.ycombinator.com/item?id=50166250"
+        }
+      ]
+    },
+    {
+      "id": "05dce4322e459d220d19",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "original_title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "published_at": "2026-10-20T13:07:24+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+          "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems"
+        }
+      ]
+    },
+    {
+      "id": "da387e24567a95283722",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "original_title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "published_at": "2026-10-20T13:00:00+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving",
+          "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving"
+        }
+      ]
+    },
+    {
+      "id": "be50dc090c3863b51200",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
+      "title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화",
+      "original_title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화",
+      "published_at": "2026-10-20T12:46:53+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "에이전트 인공지능(AI)이 기업 현장으로 확산하면서 대형언어모델(LLM)을 얼마나 효율적으로 운영하느냐가 AI 경쟁력의 새로운 변수로 떠오르고 있다. 모델의 성능을 높이는 것만큼 추론 비용을 줄이고, 수많은 AI 에이전트의 요청을 안정적으로 처리하며, 서비스 중단 없이 인프라를 운영하는 기술이 중요해진 것이다.이러한…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
+          "title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화"
+        }
+      ]
+    },
+    {
+      "id": "d74ca0a9dd681eb2da13",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42367",
+      "title": "태아 뇌 MRI, AI가 움직임 따라 실시간 조정…대칭성 학습으로 산전 진단 정확도 높였다",
+      "original_title": "태아 뇌 MRI, AI가 움직임 따라 실시간 조정…대칭성 학습으로 산전 진단 정확도 높였다",
+      "published_at": "2026-10-20T12:23:02+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "태아가 자궁 안에서 움직이는 동안에도 뇌의 고해상도 자기공명영상(MRI)을 확보해 발달 이상을 조기에 발견할 수 있도록 돕는 인공지능(AI) 기술이 개발됐다.태아 머리의 좌우 대칭성과 물리학적 원리를 신경망 구조에 직접 반영해 움직임을 추적하고, MRI 영상 획득 과정을 실시간으로 조정하는 방식이다. 영상 품질을 높…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42367",
+          "title": "태아 뇌 MRI, AI가 움직임 따라 실시간 조정…대칭성 학습으로 산전 진단 정확도 높였다"
+        }
+      ]
+    },
+    {
+      "id": "502592e56dd6ed9ace1b",
+      "url": "https://news.hada.io/topic?id=35708",
+      "title": "Show GN: MacNotify - Mac 알림이 오면 MX Master 4가 진동하는 로지텍 플러그인",
+      "original_title": "Show GN: MacNotify - Mac 알림이 오면 MX Master 4가 진동하는 로지텍 플러그인",
+      "published_at": "2026-10-20T11:55:46+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "비싼 MX Master 4를 샀는데 진동 기능을 쓸 데가 없어서 만들었음. 주로 쓰는 건 Claude Code. 작업 맡겨 두고 다른 창에 가 있으면 언제 끝났는지 몰라서, 완료 알림이 뜨면 마우스가 진동하게 해 둠. Mac 알림 배너가 뜨면 MX Master 4의 햅틱 센스 패널이 진동함 Claude Code뿐 아…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35708",
+          "title": "Show GN: MacNotify - Mac 알림이 오면 MX Master 4가 진동하는 로지텍 플러그인"
+        }
+      ]
+    },
+    {
+      "id": "f1f3415fb9696ced7393",
+      "url": "https://news.hada.io/topic?id=35707",
+      "title": "Show GN: AI Quota Monitor - AI 할당량 소진 되셨나요? vs-code 상태바에서 모니터링 하세요!",
+      "original_title": "Show GN: AI Quota Monitor - AI 할당량 소진 되셨나요? vs-code 상태바에서 모니터링 하세요!",
+      "published_at": "2026-10-20T11:54:22+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Codex, Claude Code, Gemini 등 여러 AI를 구독해서 쓰다 보니 남은 할당량을 일일이 확인하는 게 번거로워서 직접 만들었습니다. 특히 주간 한도는 넉넉한데 5시간 한도가 먼저 소진되는 경우가 있어서, 단순히 숫자를 나열하는 대신 지금 주의해야 할 한도를 보여주는 방식으로 만들었습니다. 평소에…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35707",
+          "title": "Show GN: AI Quota Monitor - AI 할당량 소진 되셨나요? vs-code 상태바에서 모니터링 하세요!"
+        }
+      ]
+    },
+    {
+      "id": "887e01e91e380bc92162",
+      "url": "https://news.hada.io/topic?id=35704",
+      "title": "AfD 유출: 해킹된 이메일 421,179건이 드러낸 독일 극우의 실상",
+      "original_title": "AfD 유출: 해킹된 이메일 421,179건이 드러낸 독일 극우의 실상",
+      "published_at": "2026-10-20T11:31:59+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "해커들이 AfD 내부 이메일 421,179건 , 총 281GB 분량을 AI 요약 형태로 온라인에 공개함 이메일에서 지지자들의 인종차별적 비하 표현 과 유대인의 세계 지배를 주장하는 반유대주의 음모론이 반복적으로 나타남 난민 대상 폭력 을 소재로...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35704",
+          "title": "AfD 유출: 해킹된 이메일 421,179건이 드러낸 독일 극우의 실상"
+        }
+      ]
+    },
+    {
+      "id": "650a048e79be7f145a93",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+      "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "original_title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+      "published_at": "2026-10-20T11:00:00+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups with…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool",
+          "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool"
+        }
+      ]
+    },
+    {
+      "id": "0a36e1ee65f5d2aa8625",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "original_title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "published_at": "2026-10-20T11:00:00+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember y…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant",
+          "title": "Yelp can now call on your behalf to check wait times at a restaurant"
+        }
+      ]
+    },
+    {
+      "id": "b6ce0a33570f18b6185c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42366",
+      "title": "AI가 게임 속 극단주의 포섭 잡는다…EU, 실시간 탐지 플랫폼 ‘워치타워’ 개발",
+      "original_title": "AI가 게임 속 극단주의 포섭 잡는다…EU, 실시간 탐지 플랫폼 ‘워치타워’ 개발",
+      "published_at": "2026-10-20T10:37:16+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "온라인 게임과 관련 커뮤니티가 테러·폭력적 극단주의 세력의 청년층 포섭 경로로 악용되는 가운데, 유럽연합(EU)이 인공지능(AI) 기반 탐지 기술을 활용해 극단주의 활동을 조기에 포착하고 모집 시도를 차단하는 데 나섰다.EU 집행위원회 이민·내무총국은 20일(현지시간) EU 지원 연구 프로젝트 ‘젬스(GEMS·Gam…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42366",
+          "title": "AI가 게임 속 극단주의 포섭 잡는다…EU, 실시간 탐지 플랫폼 ‘워치타워’ 개발"
+        }
+      ]
+    },
+    {
+      "id": "9df3c876a6a4ea37f1d2",
+      "url": "https://news.hada.io/topic?id=35703",
+      "title": "DeepSeek, 추론 엔진을 오픈소스로 공개",
+      "original_title": "DeepSeek, 추론 엔진을 오픈소스로 공개",
+      "published_at": "2026-10-20T10:35:37+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "DeepSeek이 대규모 프로덕션 서비스를 구동하는 추론 프레임워크 DeepInfer 를 공개함. 이번 공개 버전은 대규모 서빙에 필요한 핵심 기능을 갖춘 오프라인 추론 을 제공함 지원 모델은 DeepSeek-V4.1-Flash 이며, NVIDIA SM100 GPU와 Huawe...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35703",
+          "title": "DeepSeek, 추론 엔진을 오픈소스로 공개"
+        }
+      ]
+    },
+    {
+      "id": "baa497c9321f5abf4d24",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42365",
+      "title": "딥시크, AI 추론 비용 낮출 실전 엔진 ‘딥인퍼’ 전격 공개…대규모 추론 최적화 기술 오픈소스화",
+      "original_title": "딥시크, AI 추론 비용 낮출 실전 엔진 ‘딥인퍼’ 전격 공개…대규모 추론 최적화 기술 오픈소스화",
+      "published_at": "2026-10-20T10:12:10+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "딥시크(DeepSeek)가 대규모 인공지능(AI) 모델을 실제 서비스 환경에서 구동하는 자체 추론 프레임워크를 오픈소스로 공개했다. 모델의 학습과 성능 경쟁을 넘어, AI가 사용자 요청에 응답하는 과정에서 처리량을 높이고 지연시간과 연산 비용을 줄이는 추론 인프라까지 공개해 개발자와 기업의 활용 범위를 넓히려는 움직…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42365",
+          "title": "딥시크, AI 추론 비용 낮출 실전 엔진 ‘딥인퍼’ 전격 공개…대규모 추론 최적화 기술 오픈소스화"
+        }
+      ]
+    },
+    {
+      "id": "792d290f40d5430cec12",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42364",
+      "title": "마이크로소프트, AI 에이전트를 ‘내부자 위협’으로 규정…프로젝트 퍼셉션으로 실시간 통제 나선다",
+      "original_title": "마이크로소프트, AI 에이전트를 ‘내부자 위협’으로 규정…프로젝트 퍼셉션으로 실시간 통제 나선다",
+      "published_at": "2026-10-20T09:31:59+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "마이크로소프트가 기업 내부에서 활동하는 인공지능(AI) 에이전트를 잠재적인 ‘내부자 위협(Insider Threat)’으로 규정하고, 실시간 위험 평가와 권한 조정, 위협 차단을 통해 통제하는 보안 체계 구축에 나섰다. 외부 공격자가 AI를 악용하는 문제를 넘어, 기업이 직접 도입한 AI 에이전트 자체가 의도하지 않…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42364",
+          "title": "마이크로소프트, AI 에이전트를 ‘내부자 위협’으로 규정…프로젝트 퍼셉션으로 실시간 통제 나선다"
+        }
+      ]
+    },
+    {
+      "id": "0232b5a0c6bc332263fc",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216438",
+      "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+      "original_title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\"",
+      "published_at": "2026-10-20T09:26:21+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 AI 자료 제작 도구 '제미나이 노트북(Gemini Notebook)'에 프레젠테이션과 동영상을 만들기 전 구성안을 검토하고 수정할 수 있는 기능을 추가했다. AI가 명령어를 입력받자마자 완성본을 만드는 방식에서 벗어나, 사용자가 기획 단계부터 AI와 함께 내용을 구성하고 결과물을 다듬을 수 있도록 했다.구글…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216438",
+          "title": "구글, 제미나이 노트북 개편…\"슬라이드·영상 생성 전 구성 검토\""
+        }
+      ]
+    },
+    {
+      "id": "aded2ca652cfb8618453",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
+      "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
+      "original_title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
+      "published_at": "2026-10-20T09:14:45+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다. 인텔과 퀄컴의 인수 가능성이 거론된 지 약 5개월 만에 매각 대신 독자 성장에 나서기로 했다.텐스토렌트는 19일(현지시간) 시리즈E 투자 라운드에서 15억…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
+          "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\""
+        }
+      ]
+    },
+    {
+      "id": "dd773da5f7fb2eb9384c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42363",
+      "title": "메타, 수십만 GPU 학습 병목 잡았다…뮤즈 AI 뒷받침하는 ‘프로메테우스’ 공개",
+      "original_title": "메타, 수십만 GPU 학습 병목 잡았다…뮤즈 AI 뒷받침하는 ‘프로메테우스’ 공개",
+      "published_at": "2026-10-20T08:58:16+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 초대형 인공지능(AI) 모델을 뒷받침하는 데이터센터 인프라의 운영 성능을 공개했다. 수십만 개의 그래픽처리장치(GPU)를 연결한 환경에서 사전학습과 강화학습의 유효 처리 효율을 높이고, 학습 중단을 줄이는 기술을 통해 대규모 AI 모델 개발의 핵심 과제인 인프라 안정성 확보에 나섰다.메타의 AI 연구 조직인 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42363",
+          "title": "메타, 수십만 GPU 학습 병목 잡았다…뮤즈 AI 뒷받침하는 ‘프로메테우스’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "5f8f6d26766c5e23d656",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216450",
+      "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
+      "original_title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
+      "published_at": "2026-10-20T08:44:24+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국의 스카이폴 AI(Skyfall AI)가 복잡한 물리적 제품의 설계를 자동화하는 월드모델 ‘스카이-001(SKY-001)’을 공개했다. 아이디어나 2D 스케치를 입력하면 설계 구조를 계층적으로 나누고, 컴퓨터 지원 설계(CAD)와 건축정보모델링(BIM) 소프트웨어에서 실제로 구현할 수 있는 단계별 제작 계획을 생…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216450",
+          "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "dc62087256427e7f03ca",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42362",
+      "title": "\"귀는 열고, 사운드는 채우고, AI는 깨운다\"…삼성 ‘갤럭시 버즈 온’ 착용감·저음·AI 다 잡았다",
+      "original_title": "\"귀는 열고, 사운드는 채우고, AI는 깨운다\"…삼성 ‘갤럭시 버즈 온’ 착용감·저음·AI 다 잡았다",
+      "published_at": "2026-10-20T08:43:54+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성전자가 20일 미디어 브리핑을 통해 지난 1일 공개한 갤럭시 버즈 시리즈 최초의 클립형 무선 이어폰 ‘갤럭시 버즈 온(Galaxy Buds On)’의 개발 과정을 소개했다.갤럭시 버즈 온은 귀를 막지 않고 귀 주변에 가볍게 걸쳐 착용하는 방식으로, 장시간 착용 시 부담을 줄이면서 음악을 듣는 중에도 주변 환경을 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42362",
+          "title": "\"귀는 열고, 사운드는 채우고, AI는 깨운다\"…삼성 ‘갤럭시 버즈 온’ 착용감·저음·AI 다 잡았다"
+        }
+      ]
+    },
+    {
+      "id": "af37535cee789a679292",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216452",
+      "title": "엘리스그룹, AI 인프라 상장 랠리 가세.. 코어위브 악재 돌파할까",
+      "original_title": "엘리스그룹, AI 인프라 상장 랠리 가세.. 코어위브 악재 돌파할까",
+      "published_at": "2026-10-20T08:26:52+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "AI 인프라 운영·관리 솔루션 기업들이 기업공개(IPO) 랠리를 이어 가며 잇따라 자본시장 평가무대에 오른다. 하지만, 최근 불거진 미국 코어위브발 AI 투자 우려 속 투자심리가 위축된 상황이어서 이들 기업들이 어떻게 기업가치를 입증하며 악재를 돌파할 지 주목된다. 20일 한국거래소에 따르면, 이날 코스닥 시장에 상…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216452",
+          "title": "엘리스그룹, AI 인프라 상장 랠리 가세.. 코어위브 악재 돌파할까"
+        }
+      ]
+    },
+    {
+      "id": "5e56ade7db17b50fd50f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216447",
+      "title": "플리토, 3분기 누적 창사이래 최대 실적 실현...영업이익률 50% 돌파",
+      "original_title": "플리토, 3분기 누적 창사이래 최대 실적 실현...영업이익률 50% 돌파",
+      "published_at": "2026-10-20T08:20:56+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 데이터 및 솔루션 전문 플리토가 창사 이래 최대 실적을 일궜다.플리토(대표 이정수)는 20일 연결 기준 2026년 3분기 누적 매출 약 311억 원, 영업이익 약 103억 원을 기록했다고 밝혔다. 매출은 전년 동기 대비 20.7%, 영업익은 89.7% 증가했다.누적 영업이익은 100억원 선을 돌파하며 이미 지난…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216447",
+          "title": "플리토, 3분기 누적 창사이래 최대 실적 실현...영업이익률 50% 돌파"
+        }
+      ]
+    },
+    {
+      "id": "50ff28184316249a97fe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216440",
+      "title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조",
+      "original_title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조",
+      "published_at": "2026-10-20T08:18:36+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "KT(대표 박윤영)는 의료 AI 전문 아크릴(대표 박외진)과 의료기관의 데이터 활용 및 AI 서비스 도입을 위한 의료 AX 사업을 공동 추진한다고 20일 밝혔다.두 회사는 KT의 AI·클라우드·데이터 기반 통합구축 역량과 의료 AX사업 추진 경험에 아크릴의 의료 데이터·AI 기술 및 병원 구축·실증 경험을 결합, 의…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216440",
+          "title": "KT, 아크릴과 의료기관 맞춤형 AX 사업 공조"
+        }
+      ]
+    },
+    {
+      "id": "0fd796f999311fccaee4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216436",
+      "title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급",
+      "original_title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급",
+      "published_at": "2026-10-20T08:17:30+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI·임베디드 솔루션 전문 MDS테크는 국내 기업의 휴머노이드 홈로봇 프로젝트에 40억원 규모의 엔비디아 젯슨(Jetson) 기반 AI 플랫폼 패키지를 공급한다고 20일 밝혔다. MDS테크의 AI 사업 조직 출범 이후 단일 프로젝트 기준 최대 규모의 수주 성과다.MDS테크는 국내기업 A사의 휴머노이드 홈로봇 프로젝트…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216436",
+          "title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급"
+        }
+      ]
+    },
+    {
+      "id": "e5ea9cb3e8123f7d2a05",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216451",
+      "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아",
+      "original_title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아",
+      "published_at": "2026-10-20T08:16:09+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽의 '클로드 코드'가 개발자의 맥(Mac)에 숨어 있던 암호화폐 채굴 프로그램을 찾아냈다. 악성 프로그램이 CPU 자원을 과도하게 점유해 컴퓨터 성능을 떨어뜨리자, AI 에이전트가 시스템 상태를 분석해 원인을 밝혀냈다.톰스하드웨어에 따르면, 개발자이자 레딧 이용자인 'UntilHEX'는 18일(현지시간) 맥의…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216451",
+          "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아"
+        }
+      ]
+    },
+    {
       "id": "3a6f13a0e185042a7a76",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42361",
       "title": "‘모두의 창업’ 2기, 1만 명이 첫발 뗐다…중기부, AI·멘토링으로 창업 성공 지원",
@@ -40,6 +709,26 @@
           "url": "https://amoffat.github.io/blog/cognitive-load.html",
           "title": "Reducing the cognitive load of AI changes",
           "discussion_url": "https://news.ycombinator.com/item?id=50162767"
+        }
+      ]
+    },
+    {
+      "id": "9f7b19316fe3d8f15954",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216455",
+      "title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신",
+      "original_title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신",
+      "published_at": "2026-10-20T08:00:00+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ NC AI(대표 이연수)는 3D 생성 AI '바르코 3D'와 사운드 생성 AI '바르코 사운드'의 상품 개편에 맞춰 다음 달 30일까지 첫 달 구독료 50% 할인 프로모션을 진행한다고 밝혔다. 신규 가입자와 무료 이용자가 유료 요금제를 결제하면 할인과 함께 보너스 포인트도 지급한다. 바르코 3D는 텍스트나 이미지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216455",
+          "title": "[게시판] NC AI, 바르코 3D·사운드 50% 할인 프로모션 등 단신"
         }
       ]
     },
@@ -828,6 +1517,46 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=35667",
           "title": "사이트 가이드라인과 AI/LLM 태그 변경"
+        }
+      ]
+    },
+    {
+      "id": "c2b4b68d7e0027f0e436",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "title": "MPS in PyTorch 2.15",
+      "original_title": "MPS in PyTorch 2.15",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+          "title": "MPS in PyTorch 2.15"
+        }
+      ]
+    },
+    {
+      "id": "41fb25a47d12d204a957",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "original_title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "collected_at": "2026-10-20T14:09:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+          "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms"
         }
       ]
     },
