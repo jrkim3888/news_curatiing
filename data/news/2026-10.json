@@ -3,6 +3,477 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6984165cc5df372ef639",
+      "url": "https://hodokurevisited.com/",
+      "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
+      "original_title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
+      "published_at": "2026-10-20T18:58:23+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hodokurevisited.com/",
+          "title": "HoDoKu Revisited – Classic Java Sudoku Solver Ported to PWA with AI Coaching",
+          "discussion_url": "https://news.ycombinator.com/item?id=50171006"
+        }
+      ]
+    },
+    {
+      "id": "cc0c6edf898433cfeb32",
+      "url": "https://huggingface.wtf/",
+      "title": "The Hugging Face Incident",
+      "original_title": "The Hugging Face Incident",
+      "published_at": "2026-10-20T18:48:52+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://huggingface.wtf/",
+          "title": "The Hugging Face Incident",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170876"
+        }
+      ]
+    },
+    {
+      "id": "5c56e57e7805380f482e",
+      "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics",
+      "title": "AWS launches open-source Physical AI Toolchain for robotics",
+      "original_title": "AWS launches open-source Physical AI Toolchain for robotics",
+      "published_at": "2026-10-20T18:47:08+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics",
+          "title": "AWS launches open-source Physical AI Toolchain for robotics",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170843"
+        }
+      ]
+    },
+    {
+      "id": "bcce540553b2057e03e8",
+      "url": "https://what-the-harness.polytomic.com/",
+      "title": "Show HN: What the Harness? LLM agent inconsistencies in MCP implementation",
+      "original_title": "Show HN: What the Harness? LLM agent inconsistencies in MCP implementation",
+      "published_at": "2026-10-20T18:40:52+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://what-the-harness.polytomic.com/",
+          "title": "Show HN: What the Harness? LLM agent inconsistencies in MCP implementation",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170765"
+        }
+      ]
+    },
+    {
+      "id": "83485fbd4b80f115a147",
+      "url": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
+      "title": "Agentic AI has potential uses in prior-authorization protocols",
+      "original_title": "Agentic AI has potential uses in prior-authorization protocols",
+      "published_at": "2026-10-20T18:40:17+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://civicpivot.blogspot.com/2026/09/healthcares-ai-arms-race-can-agentic-ai.html",
+          "title": "Agentic AI has potential uses in prior-authorization protocols",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170755"
+        }
+      ]
+    },
+    {
+      "id": "12805623e01e3a4326f6",
+      "url": "https://dismodels.com/",
+      "title": "Think App store shared revenue but for AI models",
+      "original_title": "Think App store shared revenue but for AI models",
+      "published_at": "2026-10-20T18:38:37+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dismodels.com/",
+          "title": "Think App store shared revenue but for AI models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170728"
+        }
+      ]
+    },
+    {
+      "id": "f934cb40a0468190f365",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "original_title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "published_at": "2026-10-20T18:38:24+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
+          "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers"
+        }
+      ]
+    },
+    {
+      "id": "281e944a65307ffe6dd0",
+      "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
+      "title": "ChatGPT now lets you lock your chats",
+      "original_title": "ChatGPT now lets you lock your chats",
+      "published_at": "2026-10-20T18:36:53+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private wh…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats",
+          "title": "ChatGPT now lets you lock your chats"
+        }
+      ]
+    },
+    {
+      "id": "51734d6a6080f44dbed0",
+      "url": "https://news.hada.io/topic?id=35725",
+      "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
+      "original_title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK",
+      "published_at": "2026-10-20T18:35:22+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Mistral이 Voxtral 3 음성 모델군과 음성 에이전트 SDK를 공개함. 음성 인식, 추론, 도구 호출, 음성 합성을 하나의 실시간 스트리밍 파이프라인으로 연결함 음성 전사 는 50개 언어를 지원하며, 화자 분리와 문맥 기반 인식 보정을 제공함. 실시간 모델은 35개 이상...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35725",
+          "title": "Voxtral 3 - 50개 이상 언어의 음성 인식 모델과 실시간 음성 에이전트 SDK"
+        }
+      ]
+    },
+    {
+      "id": "0d0273f85df250f5d926",
+      "url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
+      "title": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
+      "original_title": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
+      "published_at": "2026-10-20T18:35:02+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/bp-purana52127/openai-navier-stokes-critique/blob/main/README.md",
+          "title": "Structural and mathematical audit of OpenAI's Navier-Stokes formalization",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170670"
+        }
+      ]
+    },
+    {
+      "id": "7adf688cec64ff08695a",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "original_title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "published_at": "2026-10-20T18:34:30+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots",
+          "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170661"
+        }
+      ]
+    },
+    {
+      "id": "7dc78e3c72dce72befcb",
+      "url": "https://rocus.io/",
+      "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+      "original_title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+      "published_at": "2026-10-20T18:28:16+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rocus.io/",
+          "title": "Show HN: Rocus: Browser local LLM that organizes your websites, notes and files",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170581"
+        }
+      ]
+    },
+    {
+      "id": "8530a0e26b7383ed4f62",
+      "url": "https://airflow.apache.org/blog/common-ai-provider-1.0",
+      "title": "Apache Airflow AI Provider 1.0",
+      "original_title": "Apache Airflow AI Provider 1.0",
+      "published_at": "2026-10-20T18:23:24+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://airflow.apache.org/blog/common-ai-provider-1.0",
+          "title": "Apache Airflow AI Provider 1.0",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170494"
+        }
+      ]
+    },
+    {
+      "id": "ca250c64c9d1e50ae838",
+      "url": "https://engineering.monday.com/rebuilding-monday-api-edge-for-agents",
+      "title": "Rebuilding the monday.com API edge for AI Agents",
+      "original_title": "Rebuilding the monday.com API edge for AI Agents",
+      "published_at": "2026-10-20T18:22:18+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://engineering.monday.com/rebuilding-monday-api-edge-for-agents",
+          "title": "Rebuilding the monday.com API edge for AI Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50170482"
+        }
+      ]
+    },
+    {
+      "id": "e8a8161ff83426ef4f6b",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "original_title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "published_at": "2026-10-20T18:17:47+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
+        }
+      ]
+    },
+    {
+      "id": "11c7e6dde0dc11c16510",
+      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "original_title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+      "published_at": "2026-10-20T17:55:12+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
+          "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei"
+        }
+      ]
+    },
+    {
+      "id": "d3f9173dc1964ad08513",
+      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+      "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "original_title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+      "published_at": "2026-10-20T17:12:48+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is reta…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
+          "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps"
+        }
+      ]
+    },
+    {
+      "id": "c4857a3f49c132d63e5b",
+      "url": "https://news.hada.io/topic?id=35721",
+      "title": "가짜 통계를 게시해 LLM의 인용을 얻다",
+      "original_title": "가짜 통계를 게시해 LLM의 인용을 얻다",
+      "published_at": "2026-10-20T16:40:24+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "GPT-4.1로 만든 허위 통계 페이지 5만 개 를 게시한 실험 사이트가 7개월 동안 ChatGPT 유입 세션 1만 건 이상과 330개 이상의 도메인으로부터 링크를 얻음 Google 검색 노출이 급감한 뒤에도 ChatGPT의 조회와 인용은 지속됨 . 최근 30일간 ChatGPT가 답변 중 페이지...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35721",
+          "title": "가짜 통계를 게시해 LLM의 인용을 얻다"
+        }
+      ]
+    },
+    {
+      "id": "ef73bf2ace8ac6719291",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "original_title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "published_at": "2026-10-20T16:09:19+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
+        }
+      ]
+    },
+    {
+      "id": "bccd85bd7921db35887b",
+      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
+      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "original_title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+      "published_at": "2026-10-20T16:00:00+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language",
+          "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language"
+        }
+      ]
+    },
+    {
+      "id": "536f23cd94f139849c62",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "original_title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "published_at": "2026-10-20T15:19:48+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+          "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model"
+        }
+      ]
+    },
+    {
+      "id": "3fd043b79c6a2034a0d6",
+      "url": "https://byline.network/2026/10/1020-15",
+      "title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”",
+      "original_title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”",
+      "published_at": "2026-10-20T14:17:03+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최근 인공지능(AI) 코딩 도구 확산으로 기업이 관리해야 하는 소프트웨어 코드가 늘면서 보안 취약점 점검에 AI를 활용하는 방안이 주목받고 있다. 챗지피티 등 범용 대형언어모델(LLM)을 활용하면 코드 검증을 자동화할 수 있지만, 외부 클라우드 서버로 소스코드를 전송해야 해 정보 유출 우려가 있고 모델 운영 비용과 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1020-15",
+          "title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”"
+        }
+      ]
+    },
+    {
+      "id": "29e059fc3089a68bb383",
+      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "original_title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+      "published_at": "2026-10-20T14:13:32+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Figma said it plans to support as many standards as possible without exposing all of its data.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol",
+          "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol"
+        }
+      ]
+    },
+    {
       "id": "b2cce7e06af21ad0a3e7",
       "url": "https://rcaptcha.vaultless.dev/",
       "title": "Show HN: Reverse Captcha, prove your agent is AI",
@@ -448,6 +919,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42365",
           "title": "딥시크, AI 추론 비용 낮출 실전 엔진 ‘딥인퍼’ 전격 공개…대규모 추론 최적화 기술 오픈소스화"
+        }
+      ]
+    },
+    {
+      "id": "1725d137aa3debc0d8ae",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "original_title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "published_at": "2026-10-20T10:00:00+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/ted-taylor-restaurant",
+          "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work"
         }
       ]
     },
@@ -1557,6 +2048,46 @@
           "source_id": "huggingface",
           "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
           "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms"
+        }
+      ]
+    },
+    {
+      "id": "39e60f901a735303e0c0",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "original_title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/hf-torchtpu",
+          "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively"
+        }
+      ]
+    },
+    {
+      "id": "1cfb6291fa158d05a5ba",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "title": "OpenAI acquires Orchestra Bio",
+      "original_title": "OpenAI acquires Orchestra Bio",
+      "published_at": "2026-10-20T00:00:00+00:00",
+      "collected_at": "2026-10-20T18:59:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "title": "OpenAI acquires Orchestra Bio"
         }
       ]
     },
