@@ -124,9 +124,9 @@ BRIEFING_MAX_TOKENS=18432
 SITE_URL=https://실제프로젝트.pages.dev
 ```
 
-[OpenRouter 모델 목록](https://openrouter.ai/models)에서 사용 가능한 모델 ID, 가격, JSON mode 지원을 확인합니다. 무료 모델은 속도 제한·가용성이 달라질 수 있습니다. 이 구현은 Chat Completions와 `response_format: json_object`를 사용합니다.
+[OpenRouter 모델 목록](https://openrouter.ai/models)에서 사용 가능한 모델 ID, 가격, JSON mode 지원을 확인합니다. 무료 모델은 속도 제한·가용성이 달라질 수 있습니다. 이 구현은 Chat Completions를 사용하며 브리핑에는 strict JSON Schema, 별도 기사 요약에는 JSON 객체 모드를 요청합니다.
 
-현재 실제 검증 모델은 **`z-ai/glm-5.3-flash`**입니다. 해당 엔드포인트는 추론을 끌 수 없어 낮은 추론 강도(`reasoning.effort=low`)를 사용하며, 일일 브리핑과 주요 기사별 요약은 기본 최대 18,432토큰(`BRIEFING_MAX_TOKENS`), 개별 기사 요약은 4,096토큰입니다. 1,600토큰에서는 추론이 예산을 소진해 빈 응답이 발생했고, 추론 비활성화는 HTTP 400으로 거절됐습니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다. JSON 등 요청 옵션을 지원하는 제공자로만 라우팅합니다.
+초기 검증 모델 **`z-ai/glm-5.3-flash`**는 추론이 필수라 `reasoning.effort=low`를 사용합니다. 현재 Actions 운영 모델 **`deepseek/deepseek-v4.1-flash`**는 선택적인 추론의 기본 강도가 `high`여서 예산을 소진한 사례를 확인해 `none`을 명시했습니다. 일일 브리핑과 주요 기사별 요약은 기본 최대 18,432토큰(`BRIEFING_MAX_TOKENS`)이며 strict JSON Schema를 지원하는 제공자로 라우팅합니다. 별도 개별 기사 요약은 GLM 4,096토큰, 다른 모델 기본 1,600토큰입니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다.
 
 **OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 일반 수집은 LLM을 호출하지 않고, 일일 브리핑은 하루 최대 1회 요청합니다. 브리핑 입력은 최대 16건·건당 2,400자, 출력은 기본 최대 18,432토큰입니다. 수동 `--summarize-articles` 실행은 별도 비용을 만들 수 있습니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 브리핑은 같은 날짜 재요청을 막습니다. 수동 개별 기사 요약의 대기 시간은 24시간입니다.
 

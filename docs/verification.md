@@ -11,6 +11,8 @@
 - `78f2e73` 반영 후 GitHub CI와 Pages 배포 성공. [20일 브리핑 재시도](https://github.com/jrkim3888/news_curatiing/actions/runs/39367045285)는 출력 한도 초과로 실패했으나 새 오류 annotation으로 진단을 직접 확인했습니다. 실제 Actions 모델은 `deepseek/deepseek-v4.1-flash`였고, 입력 19,170 / 응답 18,432 / 추론 18,404토큰, API 보고 비용 $0.01515339였습니다. 공개 데이터는 보존됐습니다.
 - OpenRouter `/api/v1/models`에서 해당 모델의 `reasoning.mandatory=false`, `default_effort=high`, `supported_efforts=[max, high, low, none]`을 확인해 `reasoning.effort=none`을 명시했습니다. GLM의 필수 추론 `low`는 유지하며, 요청한 추론 옵션도 진단에 남깁니다.
 - [추론 옵션 수정 후 실행](https://github.com/jrkim3888/news_curatiing/actions/runs/39367525436)은 추론 0토큰·정상 종료였지만 이슈 목록 검증(`Invalid issue count`)에 실패했습니다. 입력 19,145 / 응답 15,501토큰, API 보고 비용 $0.01305515. JSON 객체 모드만으로 목록의 개수·형식을 보장할 수 없어, 제공자가 지원하는 strict JSON Schema로 이슈·문단·근거 개수 및 기사 ID를 제한했습니다. 로컬 원문 근거 검증은 계속 수행합니다.
+- 최종 코드 `ab8e1b1`에서 Python **68개** 통과 및 GitHub CI 성공. [구조화 출력 적용 후 실행](https://github.com/jrkim3888/news_curatiing/actions/runs/39367956415)은 **성공**했고, `a6aee26` 데이터 커밋으로 2026-10-20 **13:09 KST** 브리핑을 발행했습니다. 허용 자료 13건 검토 → 이슈 4개·선정 기사 4건 모두 AI 요약. 전체 기사 305건 중 AI 요약은 기존 1건에서 **5건**으로 증가했습니다.
+- 생성된 월별 데이터를 다시 받아 검증·정적 빌드하고 Chromium **8개**를 재실행해 모두 통과했습니다. AI 요약 필터·실제 생성 기사 상세·날짜별 브리핑·모바일·JavaScript 없는 화면을 확인했습니다. 데이터 커밋에 대한 **Cloudflare Pages 체크 성공**을 GitHub API로 확인했습니다. 운영 URL의 직접 HTTP 접속은 이 환경의 프록시가 403으로 차단해 확인하지 못했습니다.
 
 ## 2026-10-20: 브리핑 발행일 표시와 기사별 AI 요약 현황
 
