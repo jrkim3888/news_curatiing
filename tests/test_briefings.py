@@ -489,6 +489,18 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(request.call_count, 1)
 
     @patch('collector.briefings.request')
+    def test_deepseek_budget_is_reserved_for_visible_summaries(self, request):
+        request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
+        diagnostics = {}
+        with patch.dict(os.environ, {'BRIEFING_MAX_TOKENS':'18432'}):
+            briefings.generate([], 'test-only', 'deepseek/deepseek-v4.1-flash', diagnostics=diagnostics)
+        payload = json.loads(request.call_args.kwargs['payload'])
+        self.assertEqual(payload['reasoning'], {'effort':'none'})
+        self.assertEqual(payload['max_tokens'], 18432)
+        self.assertEqual(diagnostics['reasoning'], {'effort':'none'})
+        self.assertEqual(request.call_count, 1)
+
+    @patch('collector.briefings.request')
     def test_generation_budget_and_safe_diagnostics_on_invalid_json(self, request):
         request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"not JSON"}}],"usage":{"completion_tokens":12}}'
         for budget in ('18432', '24576'):

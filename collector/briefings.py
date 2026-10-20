@@ -230,6 +230,8 @@ def generate(inputs, key, model, *, diagnostics=None):
     payload.update(MODEL_OPTIONS.get(model, {}))
     payload["max_tokens"] = max_tokens()
     diagnostics.update(model=model, max_tokens=payload["max_tokens"])
+    if "reasoning" in payload:
+        diagnostics["reasoning"] = dict(payload["reasoning"])
     raw = request("https://openrouter.ai/api/v1/chat/completions", {"openrouter.ai"},
                   payload=json.dumps(payload).encode(), headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json", "X-Title": "AI Brief"},
                   timeout=180)

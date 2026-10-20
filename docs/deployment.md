@@ -34,7 +34,7 @@ git push -u origin HEAD:main
 | 위치 | 이름 | 값 |
 | --- | --- | --- |
 | Repository secret | `OPENROUTER_API_KEY` | 서비스 전용 OpenRouter API 키 |
-| Repository variable | `OPENROUTER_MODEL` | 현재 검증 모델 `z-ai/glm-5.3-flash` |
+| Repository variable | `OPENROUTER_MODEL` | 사용할 모델 ID. 현재 운영 값 `deepseek/deepseek-v4.1-flash` |
 | Repository variable | `MAX_SUMMARIES_PER_RUN` | `1` 권장. 일일 브리핑은 최대 1회 요청, `0`은 생성 중지 |
 | Repository variable | `BRIEFING_MAX_TOKENS` | 기본 `18432`. 브리핑과 주요 기사별 요약을 합친 출력 한도 |
 | Repository variable | `SITE_URL` | 생성한 Pages 주소 또는 연결한 도메인 |
@@ -44,7 +44,9 @@ git push -u origin HEAD:main
 
 OpenRouter 키에는 별도의 credit limit을 설정하세요. 정상 예약 기준 하루 최대 1회, 월 30~31회 생성 요청입니다. 수집은 LLM을 호출하지 않고, 이미 발행한 날짜는 재실행해도 건너뜁니다. 수동 개별 기사 요약은 추가 비용입니다. `MAX_SUMMARIES_PER_RUN=0`은 요약 호출을 중지하고 링크 수집을 계속합니다. 호출 수 한도는 달러 금액의 상한이 아닙니다.
 
-종합 브리핑은 최대 16건·건당 본문 발췌 2,400자와 기본 출력 **18,432토큰** 한도를 사용합니다. `BRIEFING_MAX_TOKENS`로 1,024~65,536 범위에서 설정할 수 있으며 실제 사용 모델의 지원 한도 내에서 지정합니다. GLM 5.3 Flash에는 `reasoning.effort=low`를 적용합니다. 모델에 따라 추론 토큰도 응답 예산에 포함됩니다. 한도를 높인 만큼 항상 소비하는 것은 아니지만 요청당 최대 비용은 늘어날 수 있습니다.
+종합 브리핑은 최대 16건·건당 본문 발췌 2,400자와 기본 출력 **18,432토큰** 한도를 사용합니다. `BRIEFING_MAX_TOKENS`로 1,024~65,536 범위에서 설정할 수 있으며 실제 사용 모델의 지원 한도 내에서 지정합니다. 모델에 따라 추론 토큰도 응답 예산에 포함됩니다. 한도를 높인 만큼 항상 소비하는 것은 아니지만 요청당 최대 비용은 늘어날 수 있습니다.
+
+`deepseek/deepseek-v4.1-flash`는 OpenRouter 모델 메타데이터상 추론이 선택 사항이고 기본 강도가 `high`입니다. 실제 실행에서 18,432토큰 중 18,404토큰을 추론에 사용해 응답이 잘렸으므로, 이 모델에는 지원되는 `reasoning.effort=none`을 명시합니다. 추론이 필수인 GLM 5.3 Flash는 기존 `low`를 유지합니다. 모델별 옵션은 `collector/llm.py`에 있으며 새 모델로 바꾸면 기본 추론 설정과 지원 옵션도 확인하세요.
 
 브리핑의 주요 이슈에 사용된 모든 기사에 대해 **같은 요청에서 기사별 AI 요약도 생성**합니다. 각 기사의 허용된 원문 발췌에 근거 구절이 있는지 별도로 검사하며, 다른 기사에서 가져온 근거·누락·중복은 거부합니다. 성공하면 브리핑과 월별 기사 파일을 함께 저장하고 기사 상태를 `summarized`로 바꾸므로 아카이브의 ‘AI 요약’ 필터·상세·검색에 반영됩니다. 기존 기사 요약은 보존하며, 선정되지 않은 기사는 원문 링크로 남습니다. 이미 발행한 과거 브리핑의 기사를 소급 생성하지는 않습니다.
 

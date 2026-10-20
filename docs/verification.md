@@ -8,6 +8,8 @@
 - 실패 원인·검증 단계/항목, 요청 모델·한도, 제공자가 반환한 모델·요청 ID·종료 사유·사용량을 안전한 보고서와 콘솔에 남깁니다. Actions 실패에는 같은 진단을 오류 annotation으로도 표시합니다. 응답 본문·추론 내용·키는 기록하지 않습니다.
 - CLI와 Actions에 날짜 지정 및 명시적 재시도를 추가했습니다. 지정 날짜만 최대 1회 추가 요청하고, 발행된 날짜·다른 대기 기록은 보존합니다. 미래 날짜·날짜 없는 재시도는 거부하며 no-LLM·0회 한도·dry-run은 재시도에서도 유료 요청을 하지 않습니다.
 - Python **66개**, Chromium 관련 **8개** 테스트 통과. 월 경계의 기사 요약 저장, 잘못된 기사별 근거·누락·중복 시 공개 데이터 보존, 기존 요약 유지, 재시도 제어, 토큰 제한과 진단 기록·비밀값 제외를 검증했습니다. Astro 타입 검사 오류·경고 없음, 현재 공개 데이터 검증과 정적 빌드(Pagefind 306페이지), Bash 구문·워크플로 YAML 검사 통과.
+- `78f2e73` 반영 후 GitHub CI와 Pages 배포 성공. [20일 브리핑 재시도](https://github.com/jrkim3888/news_curatiing/actions/runs/39367045285)는 출력 한도 초과로 실패했으나 새 오류 annotation으로 진단을 직접 확인했습니다. 실제 Actions 모델은 `deepseek/deepseek-v4.1-flash`였고, 입력 19,170 / 응답 18,432 / 추론 18,404토큰, API 보고 비용 $0.01515339였습니다. 공개 데이터는 보존됐습니다.
+- OpenRouter `/api/v1/models`에서 해당 모델의 `reasoning.mandatory=false`, `default_effort=high`, `supported_efforts=[max, high, low, none]`을 확인해 `reasoning.effort=none`을 명시했습니다. GLM의 필수 추론 `low`는 유지하며, 요청한 추론 옵션도 진단에 남깁니다.
 
 ## 2026-10-20: 브리핑 발행일 표시와 기사별 AI 요약 현황
 
