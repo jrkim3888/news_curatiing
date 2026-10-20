@@ -489,6 +489,23 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(request.call_count, 1)
 
     @patch('collector.briefings.request')
+    def test_provider_schema_bounds_issues_and_known_article_ids(self, request):
+        request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
+        briefings.generate([{'article_id':'a'*20}, {'article_id':'b'*20}], 'test-only', 'test/model')
+        payload = json.loads(request.call_args.kwargs['payload'])
+        response_format = payload['response_format']
+        self.assertEqual(response_format['type'], 'json_schema')
+        self.assertTrue(response_format['json_schema']['strict'])
+        schema = response_format['json_schema']['schema']
+        fields = schema['properties']
+        self.assertEqual(fields['issues']['maxItems'], 5)
+        self.assertEqual(fields['overview']['maxItems'], 3)
+        self.assertEqual(fields['article_summaries']['items']['properties']['article_id']['enum'], ['a'*20, 'b'*20])
+        self.assertIn('article_summaries', schema['required'])
+        self.assertFalse(schema['additionalProperties'])
+        self.assertTrue(payload['provider']['require_parameters'])
+
+    @patch('collector.briefings.request')
     def test_deepseek_budget_is_reserved_for_visible_summaries(self, request):
         request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
         diagnostics = {}

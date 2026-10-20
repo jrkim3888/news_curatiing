@@ -10,6 +10,7 @@
 - Python **66개**, Chromium 관련 **8개** 테스트 통과. 월 경계의 기사 요약 저장, 잘못된 기사별 근거·누락·중복 시 공개 데이터 보존, 기존 요약 유지, 재시도 제어, 토큰 제한과 진단 기록·비밀값 제외를 검증했습니다. Astro 타입 검사 오류·경고 없음, 현재 공개 데이터 검증과 정적 빌드(Pagefind 306페이지), Bash 구문·워크플로 YAML 검사 통과.
 - `78f2e73` 반영 후 GitHub CI와 Pages 배포 성공. [20일 브리핑 재시도](https://github.com/jrkim3888/news_curatiing/actions/runs/39367045285)는 출력 한도 초과로 실패했으나 새 오류 annotation으로 진단을 직접 확인했습니다. 실제 Actions 모델은 `deepseek/deepseek-v4.1-flash`였고, 입력 19,170 / 응답 18,432 / 추론 18,404토큰, API 보고 비용 $0.01515339였습니다. 공개 데이터는 보존됐습니다.
 - OpenRouter `/api/v1/models`에서 해당 모델의 `reasoning.mandatory=false`, `default_effort=high`, `supported_efforts=[max, high, low, none]`을 확인해 `reasoning.effort=none`을 명시했습니다. GLM의 필수 추론 `low`는 유지하며, 요청한 추론 옵션도 진단에 남깁니다.
+- [추론 옵션 수정 후 실행](https://github.com/jrkim3888/news_curatiing/actions/runs/39367525436)은 추론 0토큰·정상 종료였지만 이슈 목록 검증(`Invalid issue count`)에 실패했습니다. 입력 19,145 / 응답 15,501토큰, API 보고 비용 $0.01305515. JSON 객체 모드만으로 목록의 개수·형식을 보장할 수 없어, 제공자가 지원하는 strict JSON Schema로 이슈·문단·근거 개수 및 기사 ID를 제한했습니다. 로컬 원문 근거 검증은 계속 수행합니다.
 
 ## 2026-10-20: 브리핑 발행일 표시와 기사별 AI 요약 현황
 

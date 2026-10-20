@@ -266,6 +266,10 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     stage = "generation"
     try:
         value = generate_briefing(inputs, key, model, diagnostics=report["llm"])
+        if isinstance(value, dict):
+            report["llm"]["output_counts"] = {
+                field: len(value[field]) if isinstance(value.get(field), list) else None
+                for field in ("issues", "overview", "article_summaries")}
         stage = "briefing_validation"
         edition = briefings.make_edition(value, inputs, articles, sources, end, model, digest)
         candidate = briefings.apply_editorial({"version": 1, "editions": [edition, *history["editions"]]}, editorial)

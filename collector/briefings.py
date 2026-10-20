@@ -15,6 +15,7 @@ import re
 from zoneinfo import ZoneInfo
 
 from .adapters import extract_body, hosts_for
+from .briefing_schema import response_format
 from .core import CATEGORIES, UTC, article_id, canonical_url, validate_summary
 from .llm import MODEL_OPTIONS, SummaryError
 from .network import Robots, request
@@ -182,6 +183,7 @@ def input_hash(inputs, model):
     # Fingerprint the evidence and generation settings independently of the clock.
     material = {"prompt": PROMPT_VERSION, "model": model, "max_tokens": max_tokens(),
                 "model_options": MODEL_OPTIONS.get(model, {}),
+                "response_format": "json_schema_v1",
                 "inputs": sorted(inputs, key=lambda i: i["article_id"])}
     return hashlib.sha256(json.dumps(material, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
 
@@ -221,7 +223,7 @@ def response_diagnostics(response):
 def generate(inputs, key, model, *, diagnostics=None):
     diagnostics = diagnostics if diagnostics is not None else {}
     payload = {"model": model, "temperature": 0.1,
-               "provider": {"require_parameters": True}, "response_format": {"type": "json_object"},
+               "provider": {"require_parameters": True}, "response_format": response_format(inputs),
                "messages": [{"role": "system", "content": SYSTEM},
                             {"role": "user", "content": json.dumps({
                                 "articles": inputs,
