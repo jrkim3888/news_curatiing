@@ -3,6 +3,599 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "6d140a2bd0d9fd72e1b3",
+      "url": "https://github.com/LLMPanel/llmpanel-oss",
+      "title": "Open source Control Panel for LLM deployment",
+      "original_title": "Open source Control Panel for LLM deployment",
+      "published_at": "2026-10-21T14:21:38+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/LLMPanel/llmpanel-oss",
+          "title": "Open source Control Panel for LLM deployment",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181509"
+        }
+      ]
+    },
+    {
+      "id": "99464579bcd43f1107fc",
+      "url": "https://bloomer.news/stories/kcl-hrdpath-ovarian-cancer",
+      "title": "AI flags 91% of a treatable ovarian cancer weakness from tissue images",
+      "original_title": "AI flags 91% of a treatable ovarian cancer weakness from tissue images",
+      "published_at": "2026-10-21T14:17:08+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bloomer.news/stories/kcl-hrdpath-ovarian-cancer",
+          "title": "AI flags 91% of a treatable ovarian cancer weakness from tissue images",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181428"
+        }
+      ]
+    },
+    {
+      "id": "0abc6d1f0b7ae1c630eb",
+      "url": "https://github.com/sanagnos/taskman",
+      "title": "Show HN: Built Taskman, a Rust TUI for Parallel Claude/Codex Work on Issues+PRs",
+      "original_title": "Show HN: Built Taskman, a Rust TUI for Parallel Claude/Codex Work on Issues+PRs",
+      "published_at": "2026-10-21T14:03:50+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/sanagnos/taskman",
+          "title": "Show HN: Built Taskman, a Rust TUI for Parallel Claude/Codex Work on Issues+PRs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181179"
+        }
+      ]
+    },
+    {
+      "id": "de9db6f384cbc7887755",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "original_title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "published_at": "2026-10-21T14:03:43+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181175"
+        }
+      ]
+    },
+    {
+      "id": "ca357d9c25733405ad11",
+      "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+      "title": "AI edges closer to solving the Riemann hypothesis",
+      "original_title": "AI edges closer to solving the Riemann hypothesis",
+      "published_at": "2026-10-21T14:02:28+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
+          "title": "AI edges closer to solving the Riemann hypothesis",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181155"
+        }
+      ]
+    },
+    {
+      "id": "b88ddd4320d2ea72ade8",
+      "url": "https://elektric.ai/",
+      "title": "Elektric – Benchmark your AI requests across 150 models for cost/quality",
+      "original_title": "Elektric – Benchmark your AI requests across 150 models for cost/quality",
+      "published_at": "2026-10-21T14:00:51+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://elektric.ai/",
+          "title": "Elektric – Benchmark your AI requests across 150 models for cost/quality",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181126"
+        }
+      ]
+    },
+    {
+      "id": "cdeea79b887f7df1fc9a",
+      "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea",
+      "title": "AI Just Found a Bug That Puts Up to 70% of the Websites at Risk",
+      "original_title": "AI Just Found a Bug That Puts Up to 70% of the Websites at Risk",
+      "published_at": "2026-10-21T14:00:13+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/tech/cybersecurity/ai-just-found-a-bug-that-puts-up-to-70-of-the-worlds-websites-at-risk-fd0902ea",
+          "title": "AI Just Found a Bug That Puts Up to 70% of the Websites at Risk",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181107"
+        }
+      ]
+    },
+    {
+      "id": "44f6ff9d4a47c985250c",
+      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
+      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "original_title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+      "published_at": "2026-10-21T14:00:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey",
+          "title": "AI promises productivity, but for managers, it’s mostly a headache for now"
+        }
+      ]
+    },
+    {
+      "id": "de7812eb11f2ec2c7484",
+      "url": "https://skills.wheresryan.sh/anatomy",
+      "title": "Anatomy · a Skill for Claude Code",
+      "original_title": "Anatomy · a Skill for Claude Code",
+      "published_at": "2026-10-21T13:59:36+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://skills.wheresryan.sh/anatomy",
+          "title": "Anatomy · a Skill for Claude Code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50181096"
+        }
+      ]
+    },
+    {
+      "id": "ce1bc6cf05651577dfda",
+      "url": "https://byline.network/2026/10/1021-8",
+      "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+      "original_title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+      "published_at": "2026-10-21T13:24:20+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "핀테크 기업 핀다가 대원저축은행 인수를 계기로 금융상품 비교·중개를 넘어 직접 금융상품을 설계하고 공급하는 사업자로 영역을 넓힌다. 금융 데이터와 인공지능(AI)을 결합한 뱅킹 서비스 구축을 추진하는 동시에 보험업계 고객 발굴 사업과 전문 인력 영입에도 나서면서 사업 모델 다변화를 시도하고 있다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1021-8",
+          "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수"
+        }
+      ]
+    },
+    {
+      "id": "b1215e1aefc04c61e203",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "original_title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "published_at": "2026-10-21T13:00:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
+        }
+      ]
+    },
+    {
+      "id": "5c32755a71da49edb4fe",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "title": "NVIDIA, 시계열 예측 모델 'Kumo Forecast' 공개",
+      "original_title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "published_at": "2026-10-21T12:51:24+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+          "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability"
+        }
+      ],
+      "summary": "NVIDIA가 다변량 시계열 예측 모델 Kumo Forecast(구 NV-Tesseract Forecasting)를 공개했다. 사전학습된 Transformer 백본과 과거 데이터에서 패턴을 검색하는 DARR 모드를 결합했으며, Apache 2.0 라이선스로 제공된다. MOMENT-1-large 백본 기반 약 3억 4천만 파라미터 인코더와 학습 가능한 예측 헤드를 사용한다.",
+      "why_it_matters": "사전학습 표현과 검색 기반 컨텍스트를 결합하고 해석 가능성을 함께 제공하는 시도로, 기업용 시계열 예측 도구의 구성 방식을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T14:23:23+00:00",
+        "input_hash": "cf88d1bbc50b9be581911c2d550562652600acd528622defbdc7f79d3acc5142",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "95dedf578de78f3ec264",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "OpenAI models are coming to Google Cloud",
+      "original_title": "OpenAI models are coming to Google Cloud",
+      "published_at": "2026-10-21T12:00:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "title": "OpenAI models are coming to Google Cloud"
+        }
+      ]
+    },
+    {
+      "id": "065eaea28864626e83aa",
+      "url": "https://news.hada.io/topic?id=35754",
+      "title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단",
+      "original_title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단",
+      "published_at": "2026-10-21T10:32:34+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta의 AI 에이전트 Muse에서 사용자가 공유한 대화를 제3자도 찾아 열람할 수 있는 문제 가 발견됨. 링크를 직접 전달받지 않아도 로그인 없이 개인 금융 정보와 기업 내부 자료에 접근 가능했음 보안업체 Claroc은 과거 DNS 조회 기록을 모은 패시브 DNS 서비스에서 검색 한...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35754",
+          "title": "Meta Muse, 공유한 대화의 개인정보 노출로 공유 기능 중단"
+        }
+      ]
+    },
+    {
+      "id": "a8ecfd648f562c5697ea",
+      "url": "https://news.hada.io/topic?id=35752",
+      "title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개",
+      "original_title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개",
+      "published_at": "2026-10-21T10:00:19+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "크래프톤이 모델 아키텍처 설계부터 사전학습까지 독자 개발한 30B급 오픈웨이트 LLM 'Raon-1 mini' 프리뷰를 공개. 한국어·영어 대화와 추론, AI 에이전트 작업에 초점을 맞춘 모델 MoE(Mixture of Experts)와 자체 개발한 선형 어텐션 기술 을 결합. 전체 약 300억...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35752",
+          "title": "크래프톤, 자체 개발 30B급 고효율 LLM 'Raon-1 mini' 프리뷰 공개"
+        }
+      ]
+    },
+    {
+      "id": "c1913c4bc921d7e32c35",
+      "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+      "title": "NVIDIA Sentry: 런타임에서 AI 에이전트를 보호하는 보안 프레임워크 소개",
+      "original_title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+      "published_at": "2026-10-21T09:52:16+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "An AI agent can complete its assignment and still cross a security boundary. Recent incidents show that agents can circumvent security controls while using... An AI agent can co…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime",
+          "title": "Inside NVIDIA Sentry: Secure AI Agents at Runtime"
+        }
+      ],
+      "summary": "NVIDIA는 GTC Berlin에서 발표한 NVIDIA OpenShell 참조 아키텍처의 일부로 NVIDIA Sentry를 소개했다. 이는 NVIDIA DOCA 기반으로 NVIDIA BlueField-4 DPU에서 실행되며 호스트로부터 격리된 런타임 보호를 제공한다. 회사에 따르면 Sentry는 에이전트의 모델 접근 경로를 통제하고 변조 증거 추적성을 제공하며 실리콘 수준에서 세밀한 보안 제어를 시행한다.",
+      "why_it_matters": "에이전트가 보안 경계를 넘을 수 있다는 우려 속에서 호스트 소프트웨어와 독립된 하드웨어 신뢰 영역에서 모니터링과 정책 시행을 수행하려는 시도로 읽힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T14:23:19+00:00",
+        "input_hash": "f4a68ff498484d4f0919478aaa9959f17cb9028ecacfe56feb59469f34b7565b",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "844d2a2689f652be5a45",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
+      "title": "NVIDIA, AI 에이전트 보안·거버넌스 위한 OpenShell 레퍼런스 아키텍처 공개",
+      "original_title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale",
+      "published_at": "2026-10-21T09:50:14+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Autonomous agents can work for hours on complex tasks, accessing files, tools, the internet, and spawning other agents to collaborate with. Executing complex... Autonomous agent…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-openshell-reference-architecture-secures-and-governs-ai-agent-workloads-at-scale",
+          "title": "How NVIDIA OpenShell Reference Architecture Secures and Governs AI Agent Workloads at Scale"
+        }
+      ],
+      "summary": "NVIDIA가 AI 에이전트 워크로드의 보안과 거버넌스를 위한 오픈소스 런타임 OpenShell과 레퍼런스 아키텍처를 발표했다. OpenShell은 게이트웨이, 슈퍼바이저, 샌드박스, 정책 증명자로 구성되며 에이전트를 실행 전 과정에서 신뢰하지 않는 대상으로 취급한다. NVIDIA는 이 아키텍처가 Vera CPU, BlueField-4 DPU, Sentry 보안 프레임워크와 결합해 대규모 에이전트 실행을 지원한다고 밝혔다.",
+      "why_it_matters": "에이전트가 자율적으로 도구와 데이터에 접근하는 환경에서 보안 경계를 에이전트 외부 인프라에 두려는 시도로, 향후 에이전트 거버넌스 설계 방향에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T14:23:14+00:00",
+        "input_hash": "4560141d1d1193637e9bf7ca207dfe841c4c67ac686a82771e19baee5aff9f3c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "1ba50299caf1f65a0b98",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
+      "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
+      "original_title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
+      "published_at": "2026-10-21T09:49:48+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "동남아시아 디지털 경제가 생성형 인공지능(AI)의 일상화와 산업 전반의 도입 확대에 힘입어 2026년 3680억달러(약 487조원) 규모로 성장할 전망이다. 생성형 AI를 일상적으로 활용하는 동남아시아인은 2억4300만명에 달하며, 소비자가 AI 에이전트에 상품 비교와 구매까지 맡기는 ‘에이전틱 커머스(Agentic…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
+          "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명"
+        }
+      ]
+    },
+    {
+      "id": "24f50db3e043ed4cfdba",
+      "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
+      "title": "엔비디아, AI 팩토리 디지털 트윈용 에이전트 지원 워크플로 공개",
+      "original_title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow",
+      "published_at": "2026-10-21T09:38:49+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Building an AI factory digital twin requires developers to bring site plans, equipment assets, and engineering requirements into a consistent model that teams... Building an AI …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/developing-an-ai-factory-digital-twin-with-an-agent-assisted-workflow",
+          "title": "Developing an AI Factory Digital Twin with an Agent-Assisted Workflow"
+        }
+      ],
+      "summary": "엔비디아가 OpenUSD와 Omniverse 기반의 DSX 블루프린트를 활용해 AI 팩토리 디지털 트윈을 구축하는 에이전트 지원 워크플로를 소개했다. 개발자는 프론티어 AI 에이전트를 통해 설계 입력을 통합하고 OpenUSD 장면을 편집·검토할 수 있으며, DSX 참조 자산과 실제 건물(Voyager) 이미지, USGS 지리 데이터 등을 결합해 캠퍼스 모델을 구성하는 예시가 제시됐다. 또한 고정 전력 예산 내에서 Vera Rubin NVL72 추론 비교(MaxP 대비 DSX MaxLPS)를 활용한 용량 계획 연구 가능성이 언급됐으나, 해당 수치는 캠퍼스 모델 결과가 아닌 참조 가정이다.",
+      "why_it_matters": "AI 팩토리 설계·시뮬레이션에 에이전트와 디지털 트윈을 결합하려는 시도는 설계 반복과 엔지니어링 검토 과정을 자동화·가속화할 수 있는 방향성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T14:23:07+00:00",
+        "input_hash": "ab265e8f12dc57f07ffcb929a47f79dd9a9990f2223be3b687b3e981e68e686c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "8ac8568d654cd43433b0",
+      "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod",
+      "title": "엔비디아, 공장 제작 AI 팩토리 구현 모델 'DSX POD' 레퍼런스 디자인 공개",
+      "original_title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD",
+      "published_at": "2026-10-21T09:35:32+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "AI factories turn energy into intelligence. But before an AI workload can produce its first token, operators must bring an interconnected system of compute,... AI factories turn…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/achieve-productive-ai-capacity-faster-and-more-predictably-with-nvidia-dsx-pod",
+          "title": "Achieve Productive AI Capacity Faster and More Predictably with NVIDIA DSX POD"
+        }
+      ],
+      "summary": "엔비디아가 AI 팩토리 구현 모델의 하나로 표준화된 공장 제작 방식인 'NVIDIA DSX POD' 레퍼런스 디자인을 소개했다. 이 디자인은 컴퓨트·네트워킹·스토리지·전력·냉각·소프트웨어를 컨테이너에 사전 통합하고 출하 전 검증을 거쳐 현장 작업을 줄이는 반복 가능한 접근법을 제시한다. 엔비디아는 이를 통해 운영자가 생산적인 AI 용량에 더 빠르고 예측 가능하게 도달할 수 있다고 밝혔다.",
+      "why_it_matters": "AI 인프라 구축의 복잡성을 공장 통합 단계로 옮겨 현장 배치 시간을 단축하려는 시도로, 대규모 AI 팩토리 도입 속도와 예측 가능성에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T14:23:01+00:00",
+        "input_hash": "4e6ce498d9deb1e83dee5047099f9cb4bb08d4bf36c689e398a06e7d491be517",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "7677321d06799d504044",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42383",
+      "title": "英보건경제연구소, 의료 AI·컴퓨터 시뮬레이션 투자 효과 분석…5년간 건강수명 3만7282년 늘리고 보건서비스 2조원 절감",
+      "original_title": "英보건경제연구소, 의료 AI·컴퓨터 시뮬레이션 투자 효과 분석…5년간 건강수명 3만7282년 늘리고 보건서비스 2조원 절감",
+      "published_at": "2026-10-21T09:11:58+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "인공지능(AI)과 컴퓨터 시뮬레이션을 활용해 의약품과 의료기기의 안전성과 효과를 검증하는 기술이 의료 혁신과 경제 성장의 새로운 동력으로 주목받고 있다. 영국이 관련 연구와 규제 체계에 대한 투자를 확대하면 향후 5년간 약 24억 파운드(약 4조6000억원)의 건강 편익을 창출하고, 국민보건서비스(NHS)의 비용 부…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42383",
+          "title": "英보건경제연구소, 의료 AI·컴퓨터 시뮬레이션 투자 효과 분석…5년간 건강수명 3만7282년 늘리고 보건서비스 2조원 절감"
+        }
+      ]
+    },
+    {
+      "id": "a9c1ebb4798f10940cf8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
+      "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+      "original_title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+      "published_at": "2026-10-21T08:57:53+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 '챗GPT'의 개인정보 보호 기능을 강화하고 민감한 대화에 대한 접근을 제한하는 새로운 기능을 선보였다. 대화 기록과 메모리를 일반 채팅과 분리해 사적인 정보가 노출될 가능성을 줄이는 데 초점을 맞췄다. 오픈AI는 20일(현지시간) 챗GPT에서 민감한 대화를 별도로 보호할 수 있는 '채팅 잠금(Locked…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
+          "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입"
+        }
+      ]
+    },
+    {
+      "id": "251075537ed49ae5b4a2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216482",
+      "title": "전남광주경자청, 미래모빌리티 엑스포 참가…기업 투자상담 운영",
+      "original_title": "전남광주경자청, 미래모빌리티 엑스포 참가…기업 투자상담 운영",
+      "published_at": "2026-10-21T08:52:24+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "AI 생성 영상전남광주경제자유구역청이 미래모빌리티 산업 관련 기업을 대상으로 투자유치와 지역기업 판로 확대에 나선다.전남광주경자청은 광주미래차모빌리티진흥원과 함께 21일부터 24일까지 대구 엑스코에서 열리는 ‘2026 대한민국 미래모빌리티 엑스포’에 참가해 공동홍보관을 운영한다고 21일 밝혔다.행사에서는 전기·수소차…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216482",
+          "title": "전남광주경자청, 미래모빌리티 엑스포 참가…기업 투자상담 운영"
+        }
+      ]
+    },
+    {
+      "id": "54bf93142b679ab165e5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216483",
+      "title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\"",
+      "original_title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\"",
+      "published_at": "2026-10-21T08:51:10+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 모델 경쟁이 성능뿐 아니라 응답 속도와 비용 효율성으로 확대되는 가운데, 확산 대형언어모델(dLLM)이 기존 모델의 한계를 넘어설 수 있다는 가능성을 보여주는 사례가 등장했다. 초고속 생성 능력에 더해 오픈AI와 앤트로픽의 모델에 버금가는 성능을 입증하며 복잡한 AI 에이전트 작업까지 겨냥했다.인셉션(Incep…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216483",
+          "title": "인셉션, 최고 성능 dLLM '머큐리 3' 공개...\"오픈AI·앤트로픽 맞먹어\""
+        }
+      ]
+    },
+    {
+      "id": "800e2c16ba90a1371137",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42382",
+      "title": "코넬대, 전공 불문 ‘일상 속 AI’ 수업 개설…2027년 봄학기 시작",
+      "original_title": "코넬대, 전공 불문 ‘일상 속 AI’ 수업 개설…2027년 봄학기 시작",
+      "published_at": "2026-10-21T08:31:51+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 공부와 업무는 물론 일상적인 의사결정까지 바꾸는 가운데, 미국 코넬대학교(Cornell University)가 전공과 기술 배경에 관계없이 누구나 AI를 효과적으로 활용하는 방법을 배울 수 있는 교과목을 개설한다.AI 기술 자체를 개발하는 전문 교육에서 나아가 대형언어모델(LLM)과 AI 에이전트 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42382",
+          "title": "코넬대, 전공 불문 ‘일상 속 AI’ 수업 개설…2027년 봄학기 시작"
+        }
+      ]
+    },
+    {
+      "id": "8c032feadb4ff6d512d1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+      "title": "아마존 이어 구글도 자체칩 생태계 확장...'토치TPU' 오픈소스 공개",
+      "original_title": "아마존 이어 구글도 자체칩 생태계 확장...'토치TPU' 오픈소스 공개",
+      "published_at": "2026-10-21T08:29:24+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존에 이어 구글도 기존 AI 개발 도구를 자체 칩에서 손쉽게 사용할 수 있도록 소프트웨어 생태계 확장에 나섰다. 개발자들이 익숙한 파이토치(PyTorch) 코드를 큰 수정 없이 자체 칩으로 옮길 수 있도록 지원해, 엔비디아 GPU와 CUDA 중심의 개발 환경에서 하드웨어 선택지를 넓히려는 움직임이다.구글은 20일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+          "title": "아마존 이어 구글도 자체칩 생태계 확장...'토치TPU' 오픈소스 공개"
+        }
+      ]
+    },
+    {
+      "id": "c93ebc2103e869e190a8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216498",
+      "title": "얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발",
+      "original_title": "얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발",
+      "published_at": "2026-10-21T08:20:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "얼굴 사진 한 장으로 암 환자의 생존 위험을 예측하는 AI 연구 결과가 나왔다. 얼굴이 얼마나 늙어 보이는지 측정한 뒤 건강 상태를 추정하던 방식에서 나아가, 환자의 사진과 실제 생존 기록을 연결해 사망 위험을 직접 학습한 것이 특징이다.매사추세츠 종합 브리검과 다나-파버 암 연구소, 하버드 의과대학 등 연구진은 1…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216498",
+          "title": "얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발"
+        }
+      ]
+    },
+    {
       "id": "421f9b0627899acc4973",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216487",
       "title": "fal, '시댄스 2.5'보다 22배 빠른 비디오 모델 '플럭스 3 맥스' 출시",
@@ -60,6 +653,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42381",
           "title": "삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 250만뷰…금융 마케팅에 K팝 입혔다"
+        }
+      ]
+    },
+    {
+      "id": "462af0a1a00c8e69157a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216489",
+      "title": "[게시판] 플렉스, 한국MS와 기업용 AI 협력 등 단신",
+      "original_title": "[게시판] 플렉스, 한국MS와 기업용 AI 협력 등 단신",
+      "published_at": "2026-10-21T08:00:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 플렉스(대표 장해남)는 한국마이크로소프트와 국내 기업의 AI 전환(AX) 가속화를 위한 업무협약(MOU)을 체결했다고 밝혔다. 양사는 국내 기업 대상 공동 영업과 제품·기술 연동, 상호 솔루션 적용 검토 등 세 가지 분야에서 협력한다. 플렉스는 자사의 조직·인재 데이터를 마이크로소프트 365 코파일럿과 연계해 질…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216489",
+          "title": "[게시판] 플렉스, 한국MS와 기업용 AI 협력 등 단신"
         }
       ]
     },
@@ -330,6 +943,26 @@
       ]
     },
     {
+      "id": "ea92da5c121ecb452702",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "original_title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "published_at": "2026-10-21T07:00:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/building-chatgpt-ad-stack",
+          "title": "How we built ChatGPT’s novel ad stack for user trust and relevance"
+        }
+      ]
+    },
+    {
       "id": "7e35f84f270be3463fc2",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216475",
       "title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표",
@@ -595,16 +1228,36 @@
       ]
     },
     {
+      "id": "64ddfb139fec8a1cb459",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "original_title": "Using thousands of AI agents to uncover new leads in biological data",
+      "published_at": "2026-10-21T04:50:00+00:00",
+      "collected_at": "2026-10-21T14:22:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "title": "Using thousands of AI agents to uncover new leads in biological data"
+        }
+      ]
+    },
+    {
       "id": "78cebe09803b57417ff2",
       "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "title": "구글·테마섹·베인 보고서, 동남아 디지털 경제 2026년 3680억 달러 전망",
       "original_title": "Southeast Asia’s digital economy to hit $368 billion",
       "published_at": "2026-10-21T04:00:00+00:00",
       "collected_at": "2026-10-21T08:20:00+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.…",
       "sources": [
         {
@@ -612,7 +1265,16 @@
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
           "title": "Southeast Asia’s digital economy to hit $368 billion"
         }
-      ]
+      ],
+      "summary": "구글·테마섹·베인앤드컴퍼니의 11차 e-Conomy SEA 보고서는 동남아 디지털 경제가 2026년 GMV 기준 전년 대비 17% 성장해 3680억 달러에 이를 것으로 전망했다. 보고서는 생성형 AI가 동남아 근로인구의 58%인 2억4300만 명에게 일상적으로 사용되며 모바일 인터넷보다 4배 빠르게 확산하고 있다고 밝혔다. 보고서는 2035년 1조 달러 돌파, 향후 5년간 지역 AI 사용량 60배 증가를 전망했다.",
+      "why_it_matters": "동남아 디지털 경제의 성장 동력이 생성형 AI로 이동하고 있으며, 데이터센터·에너지 효율·역내 디지털 통상 규범이 향후 성장의 조건으로 제시된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T14:22:57+00:00",
+        "input_hash": "20eff3cf9db3cbf424ff86ab700b73af8cdecaea61f58d2ee14cfa60e36a983f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "171f9c58701ea991e8dd",
