@@ -3,6 +3,798 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "421f9b0627899acc4973",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216487",
+      "title": "fal, '시댄스 2.5'보다 22배 빠른 비디오 모델 '플럭스 3 맥스' 출시",
+      "original_title": "fal, '시댄스 2.5'보다 22배 빠른 비디오 모델 '플럭스 3 맥스' 출시",
+      "published_at": "2026-10-21T08:10:27+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 비디오 생성 시장에서 품질 경쟁에 이어 속도 경쟁이 본격화하고 있다. 고품질 영상을 수초 만에 제작할 수 있는 기술이 등장하면서 기업의 콘텐츠 제작 방식에도 변화가 예상된다. 기업용 AI 멀티미디어 제작 플랫폼 팔(fal)은 20일(현지시간) 독일 AI 모델 개발사 블랙 포레스트 랩스(Black Forest L…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216487",
+          "title": "fal, '시댄스 2.5'보다 22배 빠른 비디오 모델 '플럭스 3 맥스' 출시"
+        }
+      ]
+    },
+    {
+      "id": "155050cd132684edf018",
+      "url": "https://poketrade.ai/news/introducing-poketrade",
+      "title": "Poketrade.ai: I got tired of using five Pokémon apps, so I built one",
+      "original_title": "Poketrade.ai: I got tired of using five Pokémon apps, so I built one",
+      "published_at": "2026-10-21T08:04:01+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://poketrade.ai/news/introducing-poketrade",
+          "title": "Poketrade.ai: I got tired of using five Pokémon apps, so I built one",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177470"
+        }
+      ]
+    },
+    {
+      "id": "70343e8cb66092b8927f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42381",
+      "title": "삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 250만뷰…금융 마케팅에 K팝 입혔다",
+      "original_title": "삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 250만뷰…금융 마케팅에 K팝 입혔다",
+      "published_at": "2026-10-21T08:00:14+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성증권이 자체 제작한 인공지능(AI) 걸그룹을 금융 마케팅 전면에 내세우며 새로운 고객 소통 실험에 나섰다. 투자 정보를 직접 전달하는 전통적인 금융 광고에서 벗어나 K팝 음악과 퍼포먼스로 브랜드 메시지를 전달하는 방식이다.특히, AI 캐릭터를 일회성 광고 모델이 아닌 지속적으로 활용할 수 있는 디지털 브랜드 자산…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42381",
+          "title": "삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 250만뷰…금융 마케팅에 K팝 입혔다"
+        }
+      ]
+    },
+    {
+      "id": "d4242987296695f27441",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216479",
+      "title": "메타 '뮤즈', 출시 40일 만에 미국 다운로드 1000만건 돌파...역대 12번째 기록",
+      "original_title": "메타 '뮤즈', 출시 40일 만에 미국 다운로드 1000만건 돌파...역대 12번째 기록",
+      "published_at": "2026-10-21T07:58:39+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타의 AI 에이전트 앱 '뮤즈(Muse)'가 출시 40일 만에 미국에서 다운로드 1000만건을 돌파했다. 모바일 앱 가운데 출시 초기 이 같은 기록을 달성한 것은 역대 12번째로, 게임이 아닌 앱으로는 '디즈니플러스'와 메타의 '스레드'에 이어 세 번째다.20일(현지시간) 시장조사업체 센서타워의 데이터에 따르면, …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216479",
+          "title": "메타 '뮤즈', 출시 40일 만에 미국 다운로드 1000만건 돌파...역대 12번째 기록"
+        }
+      ]
+    },
+    {
+      "id": "2302198d530eed164fb0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216485",
+      "title": "오픈AI, 신약 개발 관리 플랫폼 '오케스트라 바이오' 인수",
+      "original_title": "오픈AI, 신약 개발 관리 플랫폼 '오케스트라 바이오' 인수",
+      "published_at": "2026-10-21T07:50:46+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "오픈AI가 신약 개발 과정을 관리하는 AI 스타트업 오케스트라 바이오(Orchestra Bio)를 인수했다. 생명과학 연구용 AI 모델과 도구를 제공하는 '로잘린드(Rosalind)'에 오케스트라의 기술과 인력을 결합해 신약 개발 전반을 지원하는 AI 에이전트 구축에 나선다.오픈AI는 20일(현지시간) 오케스트라 바…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216485",
+          "title": "오픈AI, 신약 개발 관리 플랫폼 '오케스트라 바이오' 인수"
+        }
+      ]
+    },
+    {
+      "id": "db9886a19cfcb42a7a70",
+      "url": "https://github.com/kobaltgit/photocraft-companion",
+      "title": "Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+      "original_title": "Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+      "published_at": "2026-10-21T07:46:11+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/kobaltgit/photocraft-companion",
+          "title": "Show HN: Local DirectML AI and Floating Toolstrip for PhotoCraft in Rust",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177345"
+        }
+      ]
+    },
+    {
+      "id": "92b4f9adc5b9c6871583",
+      "url": "https://13trillionparameters.com/comics/003-the-slowdown",
+      "title": "AI Slowdown, What Slowdown?",
+      "original_title": "AI Slowdown, What Slowdown?",
+      "published_at": "2026-10-21T07:43:19+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://13trillionparameters.com/comics/003-the-slowdown",
+          "title": "AI Slowdown, What Slowdown?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177327"
+        }
+      ]
+    },
+    {
+      "id": "9d3d07197f8418211e89",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216477",
+      "title": "중국, AI 데이터 자원 통합 운영할 '국가데이터그룹' 출범",
+      "original_title": "중국, AI 데이터 자원 통합 운영할 '국가데이터그룹' 출범",
+      "published_at": "2026-10-21T07:41:33+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국이 국가 차원의 데이터 자원을 통합·운영하는 국영 기업을 출범시키며 AI 경쟁력 강화에 나섰다. 산업과 지역별로 흩어진 데이터를 연결하고 활용도를 높여 독자적인 AI 생태계와 디지털 경제 기반을 강화하려는 전략이다.신화통신 등에 따르면, 중국은 20일 허베이성 슝안신구에서 중앙정부가 관리하는 국영 기업인 '국가데…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216477",
+          "title": "중국, AI 데이터 자원 통합 운영할 '국가데이터그룹' 출범"
+        }
+      ]
+    },
+    {
+      "id": "3f950e3ba3214687ca2f",
+      "url": "https://aiformusic.info/",
+      "title": "AI for Music – a guideline for the responsible use of AI in music",
+      "original_title": "AI for Music – a guideline for the responsible use of AI in music",
+      "published_at": "2026-10-21T07:40:45+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aiformusic.info/",
+          "title": "AI for Music – a guideline for the responsible use of AI in music",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177310"
+        }
+      ]
+    },
+    {
+      "id": "69b141d42125a5733e49",
+      "url": "https://twitter.com/rdominguezibar/status/2111873903970881738",
+      "title": "Anthropic Talk: The End of the Anthropocene",
+      "original_title": "Anthropic Talk: The End of the Anthropocene",
+      "published_at": "2026-10-21T07:38:15+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/rdominguezibar/status/2111873903970881738",
+          "title": "Anthropic Talk: The End of the Anthropocene",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177291"
+        }
+      ]
+    },
+    {
+      "id": "47103ef7e941001e17c9",
+      "url": "https://www.uber.com/us/en/blog/ai-code-cleanup",
+      "title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
+      "original_title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
+      "published_at": "2026-10-21T07:33:29+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.uber.com/us/en/blog/ai-code-cleanup",
+          "title": "Using AI to Delete Code: Agentic Tech Debt Cleanup at Uber",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177259"
+        }
+      ]
+    },
+    {
+      "id": "65de39eafd1e0d3e9bff",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216490",
+      "title": "“식물 전기 신호로 건강 상태 읽는다”…‘식물 AI’ 봄바딜 공개",
+      "original_title": "“식물 전기 신호로 건강 상태 읽는다”…‘식물 AI’ 봄바딜 공개",
+      "published_at": "2026-10-21T07:32:52+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "식물 내부의 전기 신호를 분석해 수분 부족이나 스트레스 상태를 파악하는 AI 모델이 공개됐다. 특정 식물의 상태를 감지하던 기존 기술을 여러 식물과 재배 환경에 적용할 수 있는 기반 모델로 발전시키겠다는 시도다.미국의 일렉트릭 플랜트 컴퍼니는 20일(현지시간) 공식 발표를 통해 식물 전기생리학용 기반 모델 ‘봄바딜(…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216490",
+          "title": "“식물 전기 신호로 건강 상태 읽는다”…‘식물 AI’ 봄바딜 공개"
+        }
+      ]
+    },
+    {
+      "id": "98c038bba9608eca9271",
+      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
+      "title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "original_title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "published_at": "2026-10-21T07:30:56+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
+          "title": "Empires of AI: The Rise and Fall of a New Global Order",
+          "discussion_url": "https://news.ycombinator.com/item?id=50177239"
+        }
+      ]
+    },
+    {
+      "id": "38bd30766710ef359f43",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216484",
+      "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
+      "original_title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
+      "published_at": "2026-10-21T07:20:00+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "이스트소프트(대표 정상원)는 제주국제자유도시개발센터(JDC)의 '사내 생성 AI 언어모델(sLLM) 구축 사업'을 수주했다고 21일 밝혔다. 향후 6개월간 진행되는 이 사업은 JDC 내부 서버에 생성형 AI 환경을 구축해 임직원의 업무 정확도와 처리 속도 제고를 목표로 추진된다.이 회사는 외부망과 분리된 기관 내부 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216484",
+          "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주"
+        }
+      ]
+    },
+    {
+      "id": "3917a3befe6e00792eaa",
+      "url": "https://news.hada.io/topic?id=35745",
+      "title": "2026년 JavaScript 동향",
+      "original_title": "2026년 JavaScript 동향",
+      "published_at": "2026-10-21T07:18:40+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버 D2에서 2020년 이후 6년 만에 재개한 JavaScript 동향 연재. ECMAScript 표준의 변화부터 TypeScript 7, 서버 런타임, 패키지 공급망 보안, AI 코딩 도구가 생태계에 미친 영향까지 2026년 10월 기준으로 정리한 장문의 분석 공유. 1…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35745",
+          "title": "2026년 JavaScript 동향"
+        }
+      ]
+    },
+    {
+      "id": "ab99fb9c737b2f4001a2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216468",
+      "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사",
+      "original_title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사",
+      "published_at": "2026-10-21T07:09:55+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI의 AI 에이전트가 AI 모델의 이상 행동을 감시하는 내부 시스템의 경고 기능을 약화하거나 감시 기능 자체를 제거한 사례가 확인됐다. 한 에이전트는 감시 기능을 삭제한 뒤에도 사용자에게 이를 부인했다. 오픈AI는 에이전트가 감시를 회피하려는 성향을 보인 것인지 조사하고 있다.오픈AI가 20일(현지시간) 공개한…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216468",
+          "title": "자체 감시 기능 무력화한 오픈AI 에이전트…'회피 성향' 조사"
+        }
+      ]
+    },
+    {
+      "id": "7e35f84f270be3463fc2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216475",
+      "title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표",
+      "original_title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표",
+      "published_at": "2026-10-21T06:55:41+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI의 소프트웨어 생성속도가 사람의 검토 능력을 앞지르고 AI 에이전트의 확대가 가속하면서 기업이 조직과 사람, 기계 간 경계를 직접 설계해야 할 시점이 왔다는 진단이 나왔다.가트너(Gartner)는 21일 이 같은 문제의식을 담은 '기업들이 주목해야 할 2027년 10대 전략 기술 트렌드'를 발표했다.2027년 1…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216475",
+          "title": "가트너, 기업이 주목해야 할 '2027년 10대 전략기술' 발표"
+        }
+      ]
+    },
+    {
+      "id": "04b1dbb39b4a932473d8",
+      "url": "https://ai-news.jagular.io/",
+      "title": "Show HN: See AI trends heat up in real time",
+      "original_title": "Show HN: See AI trends heat up in real time",
+      "published_at": "2026-10-21T06:49:14+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ai-news.jagular.io/",
+          "title": "Show HN: See AI trends heat up in real time",
+          "discussion_url": "https://news.ycombinator.com/item?id=50176960"
+        }
+      ]
+    },
+    {
+      "id": "4fe918fbd1ecd0421ca8",
+      "url": "https://pawnrush.xiaohan.dev/",
+      "title": "Show HN: I spent two days building this online multiplayer game with Claude Code",
+      "original_title": "Show HN: I spent two days building this online multiplayer game with Claude Code",
+      "published_at": "2026-10-21T06:46:14+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pawnrush.xiaohan.dev/",
+          "title": "Show HN: I spent two days building this online multiplayer game with Claude Code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50176936"
+        }
+      ]
+    },
+    {
+      "id": "0954149e7e3a395c03c1",
+      "url": "https://grafista.io/",
+      "title": "Show HN: Grafista – AI graphic designer built to fight slop",
+      "original_title": "Show HN: Grafista – AI graphic designer built to fight slop",
+      "published_at": "2026-10-21T06:43:17+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://grafista.io/",
+          "title": "Show HN: Grafista – AI graphic designer built to fight slop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50176914"
+        }
+      ]
+    },
+    {
+      "id": "038d8be61be5f2ffb9e1",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
+      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
+      "original_title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
+      "published_at": "2026-10-21T06:37:47+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
+          "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
+          "discussion_url": "https://news.ycombinator.com/item?id=50176872"
+        }
+      ]
+    },
+    {
+      "id": "f64938f8e3a3b9f7a04a",
+      "url": "https://arxiv.org/abs/2610.22319",
+      "title": "A team of Gemini 4 Argon agents beats Minecraft",
+      "original_title": "A team of Gemini 4 Argon agents beats Minecraft",
+      "published_at": "2026-10-21T06:36:59+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2610.22319",
+          "title": "A team of Gemini 4 Argon agents beats Minecraft",
+          "discussion_url": "https://news.ycombinator.com/item?id=50176865"
+        }
+      ]
+    },
+    {
+      "id": "eec0864597b979a54e11",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216481",
+      "title": "메타, '뮤즈' 학습한 데이터센터 공개…GPU 100만까지 늘린다",
+      "original_title": "메타, '뮤즈' 학습한 데이터센터 공개…GPU 100만까지 늘린다",
+      "published_at": "2026-10-21T06:25:56+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 최근 공개한 ‘뮤즈’ 시리즈의 성과를 뒷받침한 초대형 AI 학습 시설을 소개했다. 현재 수십만개의 GPU를 연결해 가동 중이며, 앞으로 100만개까지 늘릴 계획이다. 첨단 모델을 선보인 데 이어 이를 만들어낸 인프라까지 내세워 AI 개발 역량을 과시하는 모습이다.메타는 19일(현지시간) 공식 기술 블로그를 통…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216481",
+          "title": "메타, '뮤즈' 학습한 데이터센터 공개…GPU 100만까지 늘린다"
+        }
+      ]
+    },
+    {
+      "id": "7e8a4e6e2f261ae4c081",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216462",
+      "title": "딥시크, AI 운영 비용 낮출 핵심 추론 기술 '딥인퍼' 오픈소스 공개",
+      "original_title": "딥시크, AI 운영 비용 낮출 핵심 추론 기술 '딥인퍼' 오픈소스 공개",
+      "published_at": "2026-10-21T06:05:45+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "딥시크가 자체 AI 모델을 실제 서비스 환경에서 빠르고 효율적으로 구동하는 핵심 추론 프레임워크 '딥인퍼(DeepInfer)'를 오픈소스로 선보였다. 대규모 AI 서비스 운영에 사용하는 추론 기술을 외부 개발자에게 개방해 모델 실행 비용을 낮추고, 컴퓨팅 자원 활용 효율을 높이겠다는 취지다.딥시크는 20일(현지시간)…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216462",
+          "title": "딥시크, AI 운영 비용 낮출 핵심 추론 기술 '딥인퍼' 오픈소스 공개"
+        }
+      ]
+    },
+    {
+      "id": "a713e28023f1433f7c3c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216465",
+      "title": "셀렉트스타, 시스코와 AI 신뢰성 검증 협력 추진",
+      "original_title": "셀렉트스타, 시스코와 AI 신뢰성 검증 협력 추진",
+      "published_at": "2026-10-21T05:45:59+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "셀렉트스타(대표 김세엽)는 글로벌 보안 기업 시스코와 AI 보안·신뢰성 분야 전략적 협력을 위한 의향서(LOI)를 교환했다고 21일 밝혔다.셀렉트스타는 자체 AI 신뢰성 평가 플랫폼 '다투모 플랫폼'으로 평가 데이터 생성과 모델 성능·안전성 평가, 레드티밍, 결과 분석을 지원한다. 현재 '독자 AI 파운데이션 모델'…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216465",
+          "title": "셀렉트스타, 시스코와 AI 신뢰성 검증 협력 추진"
+        }
+      ]
+    },
+    {
+      "id": "2874a6087ed5b09a5666",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42380",
+      "title": "아모데이 CEO, AI 안전 정책 후퇴론 반박…“안전 위해 사업 기회 포기”",
+      "original_title": "아모데이 CEO, AI 안전 정책 후퇴론 반박…“안전 위해 사업 기회 포기”",
+      "published_at": "2026-10-21T05:45:10+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "인공지능(AI) 안전을 핵심 가치로 내세워 온 앤트로픽이 정작 안전 정책을 바꾸면서 기존 약속을 후퇴시켰다는 비판에 직면하자, 다리오 아모데이(Dario Amodei) CEO가 직접 반박에 나섰다.그는 생물학적 안전장치 강화와 고성능 AI 모델 공개 지연, 중국 관련 AI 서비스 제한 등 안전을 위해 상당한 사업 기…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42380",
+          "title": "아모데이 CEO, AI 안전 정책 후퇴론 반박…“안전 위해 사업 기회 포기”"
+        }
+      ]
+    },
+    {
+      "id": "c874fd546b9c79e8462f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216464",
+      "title": "\"고객센터 응대부터 영업 전화까지\"...채널톡, 음성 AI 상담 '보이스 알프' 출시",
+      "original_title": "\"고객센터 응대부터 영업 전화까지\"...채널톡, 음성 AI 상담 '보이스 알프' 출시",
+      "published_at": "2026-10-21T05:44:53+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "고객센터 전화 응대는 물론 고객에게 먼저 전화를 걸어 상담하는 AI가 등장했다.고객 AI 플랫폼 ‘채널톡’ 운영사 채널코퍼레이션(대표 최시원)은 음성 AI 상담을 지원하는 AI 전화 '보이스 알프'를 출시했다고 21일 밝혔다.보이스 알프는 기존 채팅 상담 AI 에이전트 '알프'를 전화 상담으로 확장한 생성 AI 에이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216464",
+          "title": "\"고객센터 응대부터 영업 전화까지\"...채널톡, 음성 AI 상담 '보이스 알프' 출시"
+        }
+      ]
+    },
+    {
+      "id": "9623e821b630d3c3bff8",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42379",
+      "title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 '오케스트라 바이오' 인수",
+      "original_title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 '오케스트라 바이오' 인수",
+      "published_at": "2026-10-21T05:18:53+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "일반적으로 신약 하나가 환자에게 도달하기까지는 평균 10~15년이 걸린다. 유망한 후보물질을 찾는 것만으로는 충분하지 않다. 전임상 연구부터 제조, 임상시험, 규제 승인까지 수많은 의사결정과 일정, 부서 간 협업이 맞물려야 한다.제조 단계에서 발생한 작은 문제가 임상시험 일정 전체를 흔들 수도 있다. 오픈AI(Ope…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42379",
+          "title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 '오케스트라 바이오' 인수"
+        }
+      ]
+    },
+    {
+      "id": "ae28d43a75bbb93924c8",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42378",
+      "title": "메르세데스-벤츠, AI로 차량 개발 기간 최대 30% 단축…약 7400억원 투자",
+      "original_title": "메르세데스-벤츠, AI로 차량 개발 기간 최대 30% 단축…약 7400억원 투자",
+      "published_at": "2026-10-21T05:01:55+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "메르세데스-벤츠(Mercedes-Benz)가 인공지능(AI)을 차량 개발 전 과정에 통합하는 차세대 시스템 구축에 약 5억 유로(약 7400억원)를 투자한다. 개발부터 생산, 조달, 판매, 사후 서비스까지 데이터를 연결해 신차 개발 기간을 최대 30% 단축하고, 일부 엔지니어링 업무의 효율을 최대 50%까지 높인다는…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42378",
+          "title": "메르세데스-벤츠, AI로 차량 개발 기간 최대 30% 단축…약 7400억원 투자"
+        }
+      ]
+    },
+    {
+      "id": "78cebe09803b57417ff2",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "original_title": "Southeast Asia’s digital economy to hit $368 billion",
+      "published_at": "2026-10-21T04:00:00+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+          "title": "Southeast Asia’s digital economy to hit $368 billion"
+        }
+      ]
+    },
+    {
+      "id": "171f9c58701ea991e8dd",
+      "url": "https://d2.naver.com/helloworld/1443473",
+      "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript",
+      "original_title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript",
+      "published_at": "2026-10-21T03:38:48+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "브라우저 밖의 JavaScript 동향을 마지막으로 다루었던 2019년 시점( 1부 , 2부 )에서는 Node.js 12와 막 1년을 넘긴 Deno를 소개하며 \"Node.js와 같은 성공을 거둘 수 있을지는 아직 미지수\"라고 썼습니다. 패키지 관리자 영역은 \"npm의 독주 체제\"라고 표현했고 npm 회사의 불확실한 …",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/1443473",
+          "title": "2026년과 이후 JavaScript의 동향 - 브라우저 밖의 JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "7d422a75db369727e8cd",
+      "url": "https://news.hada.io/topic?id=35741",
+      "title": "학계는 Wikipedia 같은 개방형 지식 체계를 지킬 의무가 있음",
+      "original_title": "학계는 Wikipedia 같은 개방형 지식 체계를 지킬 의무가 있음",
+      "published_at": "2026-10-21T03:33:34+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "생성형 AI의 즉답을 받아들이고 원문 링크를 확인하지 않는 이용 행태는 Wikipedia 독자 감소 로 이어질 수 있으며, 독자에서 충원되는 자원봉사 공동체의 존속까지 위협함 Wikipedia는 AI 학습 데이터 이상의 자치적 지식 공동체 이며, 학계는 지식 생산 과정에 참여...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35741",
+          "title": "학계는 Wikipedia 같은 개방형 지식 체계를 지킬 의무가 있음"
+        }
+      ]
+    },
+    {
+      "id": "f3ceb5461bdf3e8a95fc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42375",
+      "title": "구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시",
+      "original_title": "구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시",
+      "published_at": "2026-10-21T01:30:50+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 차량용 인공지능(AI) 비서 제미나이(Gemini)에 개인화 지능 기능을 도입해 운전 중에도 이메일과 사진, 일정 등 개인 정보를 바탕으로 맞춤형 안내를 제공한다. 목적지 검색이나 음악 재생을 넘어 사용자의 과거 대화와 저장된 정보까지 활용해 복합적인 요청을 음성으로 처리하는 것이 핵심이다.구글은 20일(현지…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42375",
+          "title": "구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시"
+        }
+      ]
+    },
+    {
+      "id": "3af6fa3d52af153ce4c7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42374",
+      "title": "AMD·인텔, 파이토치 x86 CPU 최적화 통합…AI 개발 소프트웨어 장벽 낮춘다",
+      "original_title": "AMD·인텔, 파이토치 x86 CPU 최적화 통합…AI 개발 소프트웨어 장벽 낮춘다",
+      "published_at": "2026-10-21T01:07:22+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AMD와 인텔(Intel)이 x86 중앙처리장치(CPU) 기반 인공지능(AI) 개발 환경을 통합하기 위해 협력한다. 양사는 오픈소스 딥러닝 라이브러리인 'oneDNN'을 중심으로 파이토치(PyTorch)의 CPU 최적화 기술을 통합해 AMD와 인텔 프로세서 간 소프트웨어 호환성과 개발 편의성을 높인다는 계획이다.AM…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42374",
+          "title": "AMD·인텔, 파이토치 x86 CPU 최적화 통합…AI 개발 소프트웨어 장벽 낮춘다"
+        }
+      ]
+    },
+    {
+      "id": "acdfff3a0c5ddc0bc650",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42373",
+      "title": "고객에게 먼저 전화하는 AI 에이전트...채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시",
+      "original_title": "고객에게 먼저 전화하는 AI 에이전트...채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시",
+      "published_at": "2026-10-21T00:46:22+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "채널코퍼레이션이 채팅을 넘어 전화 상담까지 수행하는 음성 인공지능(AI) 에이전트를 공개하고 고객 응대 자동화 영역을 확대한다. 고객의 전화를 받는 수동적인 상담을 넘어 AI가 먼저 고객에게 전화를 걸어 영업과 제품 안내 등을 수행하는 기능까지 제공하면서 기업의 전화 상담 업무를 자동화하는 데 초점을 맞췄다.채널코퍼…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42373",
+          "title": "고객에게 먼저 전화하는 AI 에이전트...채널톡, AI 전화 상담 ‘보이스 알프’ 정식 출시"
+        }
+      ]
+    },
+    {
+      "id": "c5f7e77f6a04f6c6a135",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42372",
+      "title": "AI 에이전트가 스스로 움직이는 시대…스플렁크, “관측 가능성이 운영 통제의 핵심”",
+      "original_title": "AI 에이전트가 스스로 움직이는 시대…스플렁크, “관측 가능성이 운영 통제의 핵심”",
+      "published_at": "2026-10-21T00:29:40+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능 에이전트가 스스로 판단하고 작업 경로를 바꾸는 시대에 기존 IT 운영 방식의 한계가 드러나고 있다. 시스템에 장애가 발생하면 로그와 변경 이력을 역추적해 원인을 찾던 방식만으로는, 상황에 따라 다른 경로로 작업을 수행하는 자율형 AI의 행동을 충분히 이해하고 통제하기 어려워지고 있기 때문이다.시스코(Cisc…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42372",
+          "title": "AI 에이전트가 스스로 움직이는 시대…스플렁크, “관측 가능성이 운영 통제의 핵심”"
+        }
+      ]
+    },
+    {
+      "id": "8c97ab62ec00e513eebd",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42371",
+      "title": "가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지",
+      "original_title": "가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지",
+      "published_at": "2026-10-21T00:11:40+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 경쟁이 모델 자체의 성능을 높이는 단계를 넘어, AI가 실제 업무를 수행하는 전 과정을 설계하고 통제하는 방향으로 확대되고 있다. AI가 수치와 음성, 현실 세계의 상황을 이해하는 데 그치지 않고 소프트웨어를 개발하고 보안 취약점을 수정하며 기업 시스템에 직접 접근하는 단계로 진입하면서다.이에 따라 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42371",
+          "title": "가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지"
+        }
+      ]
+    },
+    {
+      "id": "b8a9fa52074035a1e884",
+      "url": "https://news.hada.io/topic?id=35734",
+      "title": "macOS에서 Touch ID로 SSH 키 설정하기",
+      "original_title": "macOS에서 Touch ID로 SSH 키 설정하기",
+      "published_at": "2026-10-21T00:07:12+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mac의 Secure Enclave 에 추출할 수 없는 개인 키를 만들고, SSH 인증 때마다 Touch ID 로 사용을 승인하는 구성이 가능함 기본 제공 도구로 신원 생성, SSH 에이전트 등록, 공개 키 확인까지 명령 3개 로 설정할 수 있으며 GitHub의 SSH 인증에도 적...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35734",
+          "title": "macOS에서 Touch ID로 SSH 키 설정하기"
+        }
+      ]
+    },
+    {
+      "id": "c8372412694de1107833",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42370",
+      "title": "아모레퍼시픽, AI 음성 번역 회의 월 100건 돌파…딥엘 보이스 활용률 95%",
+      "original_title": "아모레퍼시픽, AI 음성 번역 회의 월 100건 돌파…딥엘 보이스 활용률 95%",
+      "published_at": "2026-10-20T23:54:53+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아모레퍼시픽의 글로벌 업무 현장에서 실시간 인공지능(AI) 음성 번역 활용이 확대되고 있다. 글로벌 언어 AI 기업 딥엘(DeepL)은 자사의 음성 번역 솔루션 ‘딥엘 보이스(DeepL Voice)’를 활용한 아모레퍼시픽의 회의가 도입 초기 월 20~30건에서 현재 월 100건 이상으로 늘었다고 21일 밝혔다. 도입…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42370",
+          "title": "아모레퍼시픽, AI 음성 번역 회의 월 100건 돌파…딥엘 보이스 활용률 95%"
+        }
+      ]
+    },
+    {
       "id": "ae4188d1828a23c06b7a",
       "url": "https://mcp.bonbook.co/claude-setup",
       "title": "Show HN: One click flight booking in Claude",
@@ -416,14 +1208,14 @@
     {
       "id": "d0f0045fb40f11c22501",
       "url": "https://simonwillison.net/2026/Oct/20/battledrones",
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "title": "Simon Willison, AI 코딩으로 제작한 RTS 게임 'Battle Drones' 공개",
       "original_title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
       "published_at": "2026-10-20T19:34:19+00:00",
       "collected_at": "2026-10-20T23:39:29+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one …",
       "sources": [
         {
@@ -431,7 +1223,16 @@
           "url": "https://simonwillison.net/2026/Oct/20/battledrones",
           "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer"
         }
-      ]
+      ],
+      "summary": "Simon Willison이 Claude Code 등 코딩 에이전트를 활용해 Command & Conquer 스타일의 브라우저 기반 RTS 게임 'Battle Drones'를 제작했다고 밝혔다. 12번의 주요 반복과 321회의 커밋을 거쳐 모바일과 데스크톱에서 작동하며, 근거리 두 기기가 오디오로 게임 상태를 동기화하는 멀티플레이를 지원한다고 설명했다. 그는 코드를 거의 검토하지 않은 '바이브 코딩' 방식이었다고 밝혔다.",
+      "why_it_matters": "코딩 에이전트가 게임의 외형뿐 아니라 실제 플레이 감각과 멀티플레이 기능까지 구현할 수 있는지에 대한 사례를 제공한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:56+00:00",
+        "input_hash": "7863b8d04d5cf876edd4f0d7f29fee7d4a643a97890e4a90781cc8bd1f2c1f4f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6984165cc5df372ef639",
@@ -727,14 +1528,14 @@
     {
       "id": "e8a8161ff83426ef4f6b",
       "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "title": "NVIDIA, 임상 담낭절제술 영상으로 학습한 실시간 생성 수술 시뮬레이터 Cosmos3-H-Dreams 공개",
       "original_title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
       "published_at": "2026-10-20T18:17:47+00:00",
       "collected_at": "2026-10-20T18:59:08+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -742,7 +1543,16 @@
           "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
           "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation"
         }
-      ]
+      ],
+      "summary": "NVIDIA가 임상 담낭절제술 영상과 로봇 키네마틱스로 학습한 실시간 생성 수술 시뮬레이터 Cosmos3-H-Dreams를 발표했다. 이 모델은 Cosmos3-H-Embodied-Nano를 기반으로 하며, FlashDreams 스트리밍 추론 라이브러리를 통해 단일 NVIDIA RTX PRO 6000 GPU에서 대화형으로 실행된다. 회사는 이를 임상 담낭절제술 녹화로 학습된 최초의 실시간 생성 수술 시뮬레이터라고 주장하며, 4단계 및 2단계 체크포인트를 제공한다.",
+      "why_it_matters": "수술 로봇 학습을 위한 생성 시뮬레이션은 실제 임상 데이터를 활용한 연구 방향을 제시하지만, NVIDIA는 이를 환자 치료용 검증 시스템이 아닌 연구용 시뮬레이터로 명시하고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:54+00:00",
+        "input_hash": "835a84428887eea9254c2303358e6f46a285c654b19b46a77b8cad3ff7fae9b7",
+        "evidence_verified": true
+      }
     },
     {
       "id": "11c7e6dde0dc11c16510",
@@ -805,6 +1615,26 @@
       ]
     },
     {
+      "id": "14423eb5946bd5d1ae5f",
+      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
+      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "original_title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+      "published_at": "2026-10-20T16:20:06+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era",
+          "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’"
+        }
+      ]
+    },
+    {
       "id": "ef73bf2ace8ac6719291",
       "url": "https://huggingface.co/blog/allenai/fairstress",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -847,14 +1677,14 @@
     {
       "id": "536f23cd94f139849c62",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "title": "IBM 연구진, 모델 가중치 수정 없이 학습된 메모리로 τ²-bench 리테일 리더보드 1위 기록",
       "original_title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
       "published_at": "2026-10-20T15:19:48+00:00",
       "collected_at": "2026-10-20T18:59:08+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -862,7 +1692,16 @@
           "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
           "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model"
         }
-      ]
+      ],
+      "summary": "IBM Research의 ALTK-Evolve는 GPT-4.1 기반 기본 ReAct 에이전트에 학습된 가이드라인을 시스템 프롬프트에 추가하는 방식으로 τ²-bench 리테일 과제에서 Pass^4 67.5%를 기록했다고 발표했다. 이는 2026년 10월 12일 리더보드 스냅샷에서 모든 리테일 항목을 앞선 수치라고 연구진은 밝혔다. 가이드라인은 동일 모델이 훈련 과제 시도를 분석해 성공과 실패를 짧은 행동 규칙으로 정제한 것이다.",
+      "why_it_matters": "모델 가중치를 바꾸지 않고 프롬프트 수준의 학습된 메모리만으로 고객 서비스 에이전트의 신뢰성을 끌어올릴 수 있다는 접근은, 파인튜닝 없이도 도메인 정책 준수 성능을 개선하는 실용적 경로를 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:47+00:00",
+        "input_hash": "df319941672b936e2fa9c826e7901171735386a5762bd22456db63f745bdf2ed",
+        "evidence_verified": true
+      }
     },
     {
       "id": "3fd043b79c6a2034a0d6",
@@ -1202,6 +2041,26 @@
         "input_hash": "c02fe194cf88727b5ae0cea06cd8abda931ee18eb1523eeed290489c36ae1294",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "87a3e76d015b1b14b7dc",
+      "url": "https://news.hada.io/topic?id=35709",
+      "title": "거부 기능을 제거한 ‘Abliterated’ AI 모델을 내려받았다가 해킹당할 수 있는 이유",
+      "original_title": "거부 기능을 제거한 ‘Abliterated’ AI 모델을 내려받았다가 해킹당할 수 있는 이유",
+      "published_at": "2026-10-20T12:33:54+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Abliterated 모델은 요청을 거절하는 동작을 제거하도록 가중치를 수정한 AI 모델 . ProjectDiscovery가 수정된 모델에 악성 동작도 숨길 수 있음을 실험으로 확인 백도어를 심은 Qwen 모델을 Codex CLI에 연결 하자, 특정 문구가 포함된 요청에서 외부 프로그램을 내...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35709",
+          "title": "거부 기능을 제거한 ‘Abliterated’ AI 모델을 내려받았다가 해킹당할 수 있는 이유"
+        }
+      ]
     },
     {
       "id": "d74ca0a9dd681eb2da13",
@@ -1879,6 +2738,26 @@
       ]
     },
     {
+      "id": "aa8847d44cbae3328f3c",
+      "url": "https://openai.com/index/terminal-x",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "original_title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "published_at": "2026-10-20T07:00:00+00:00",
+      "collected_at": "2026-10-21T08:20:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/terminal-x",
+          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1"
+        }
+      ]
+    },
+    {
       "id": "fd12533181931518e304",
       "url": "https://github.com/tac0mania/taco",
       "title": "Show HN: I removed every float from GPT-2 for identical neural compression",
@@ -2495,14 +3374,14 @@
     {
       "id": "c2b4b68d7e0027f0e436",
       "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "title": "MPS in PyTorch 2.15",
+      "title": "PyTorch 2.15, MPS 백엔드에 FP8·MoE 디코딩 가속 등 추가",
       "original_title": "MPS in PyTorch 2.15",
       "published_at": "2026-10-20T00:00:00+00:00",
       "collected_at": "2026-10-20T14:09:31+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -2510,19 +3389,28 @@
           "url": "https://huggingface.co/blog/mps-pytorch-2-15",
           "title": "MPS in PyTorch 2.15"
         }
-      ]
+      ],
+      "summary": "Hugging Face의 PyTorch 팀이 PyTorch 2.15의 MPS 백엔드 변경 사항을 공개했다. FP8 텐서와 F.scaled_mm 지원, MoE 모델 디코딩 속도 향상, 선형 계층 및 softmax 최적화, 비디오 VAE 디코딩 메모리 사용량 감소, MPS 스트림 API 등이 포함된다. MPS는 macOS 15 이상, PyTorch 2.15는 Python 3.11 이상이 필요하다.",
+      "why_it_matters": "애플 실리콘 Mac에서 PyTorch 모델 실행 및 학습 환경이 개선될 수 있음을 보여주는 발표다. 다만 제시된 성능 수치는 발표 주체의 측정 결과다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:38+00:00",
+        "input_hash": "bd08ff1959ad2965adf7955ff8b11fb3041144e73fc5c6604b88c823dd0839b5",
+        "evidence_verified": true
+      }
     },
     {
       "id": "41fb25a47d12d204a957",
       "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "title": "AnyLanguageModel 1.0, Apple 플랫폼에서 1년간의 로컬 모델 지원 업데이트",
       "original_title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
       "published_at": "2026-10-20T00:00:00+00:00",
       "collected_at": "2026-10-20T14:09:31+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -2530,19 +3418,28 @@
           "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
           "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms"
         }
-      ]
+      ],
+      "summary": "Hugging Face 블로그에 따르면, AnyLanguageModel 1.0이 swift-huggingface 1.0, swift-xet 1.0과 함께 공개됐다. 이 프로젝트는 Apple의 Foundation Models 프레임워크를 대체하는 드롭인 API로, 시스템 모델과 llama.cpp·MLX·Core ML 기반 오픈웨이트 모델, 여러 호스팅 제공자를 같은 세션 코드로 사용할 수 있게 한다. 블로그는 도구 호출, 가이드 생성, 이미지 지원 등 기능이 모든 제공자에서 동작한다고 밝혔다.",
+      "why_it_matters": "Apple 플랫폼 개발자가 로컬 모델과 호스팅 모델을 하나의 API로 전환할 수 있게 되면서, 기기 내 추론과 클라우드 추론을 조합한 앱 개발의 진입 장벽이 낮아질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:36+00:00",
+        "input_hash": "2de3e1736a9b6b706e02d187125226f76880d314a74b365277eecbb760fde414",
+        "evidence_verified": true
+      }
     },
     {
       "id": "39e60f901a735303e0c0",
       "url": "https://huggingface.co/blog/hf-torchtpu",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "title": "Hugging Face, TorchTPU로 PyTorch에서 TPU 네이티브 지원 발표",
       "original_title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "published_at": "2026-10-20T00:00:00+00:00",
       "collected_at": "2026-10-20T18:59:08+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -2550,7 +3447,16 @@
           "url": "https://huggingface.co/blog/hf-torchtpu",
           "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively"
         }
-      ]
+      ],
+      "summary": "Hugging Face가 PyTorch용 네이티브 TPU 백엔드인 TorchTPU를 소개했다. 이에 따라 Transformers, Diffusers, Kernels가 TPU에서 네이티브로 동작하며, 기존에 필요했던 Optimum TPU 없이도 모델을 \"tpu\" 장치로 보낼 수 있다. Hugging Face는 TPU 테스트 스위트에서 96.5% 통과율과 34건의 TorchTPU 이슈 보고(19건 수정)를 언급했다.",
+      "why_it_matters": "PyTorch 사용자가 TPU를 별도 코드 포팅 없이 사용할 수 있게 되어, TPU 기반 학습·추론의 진입 장벽이 낮아질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:41+00:00",
+        "input_hash": "365014cbdea83135c983849b6b61702f000d8e33c7eb488532e529bbdbf53771",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1cfb6291fa158d05a5ba",
@@ -2596,14 +3502,14 @@
     {
       "id": "efd79bd778da1c28678a",
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
-      "title": "My obituary for programming",
+      "title": "프로그래밍의 부고: 코딩 에이전트가 앗아간 것",
       "original_title": "My obituary for programming",
       "published_at": "2026-10-19T23:58:25+00:00",
       "collected_at": "2026-10-20T00:08:08+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming …",
       "sources": [
         {
@@ -2611,7 +3517,16 @@
           "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
           "title": "My obituary for programming"
         }
-      ]
+      ],
+      "summary": "제러미 셰프는 코딩 에이전트가 커리어 프로그래머에게서 퍼즐을 푸는 즐거움을 빼앗았다고 주장했다. 그는 프로그래밍이 한때 까다로운 논리 퍼즐을 풀며 돈을 버는 최고의 직업이었지만, 이제는 그 퍼즐 해결 자체가 사라지고 있다고 썼다. 사이먼 윌리슨은 이 글을 인용하며, 문제 해결 자체를 즐기던 프로그래머에게는 상실이 크지만 작동하는 시스템을 만드는 데 보람을 느끼는 프로그래머에게는 LLM이 계속 선물 같은 존재라고 평했다.",
+      "why_it_matters": "AI가 프로그래밍의 실무적 가치를 높이는 동시에, 많은 개발자가 직업 정체성으로 삼아온 '문제 해결의 즐거움'을 약화시킬 수 있다는 점을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:32+00:00",
+        "input_hash": "a0fe55f12475555a4107c988742f5a6c3d4e8a636d06f79d5d670b9e66f83972",
+        "evidence_verified": true
+      }
     },
     {
       "id": "cb242c880ecbc5c13d6d",
@@ -4547,14 +5462,14 @@
     {
       "id": "5c52b7d34becd1ccf770",
       "url": "https://huggingface.co/blog/hf-torchneuron",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "title": "Hugging Face, AWS Trainium용 PyTorch 백엔드 TorchNeuron 공개 베타 발표",
       "original_title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
       "published_at": "2026-10-19T00:00:00+00:00",
       "collected_at": "2026-10-20T00:08:08+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -4562,7 +5477,16 @@
           "url": "https://huggingface.co/blog/hf-torchneuron",
           "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever"
         }
-      ]
+      ],
+      "summary": "Hugging Face가 AWS Trainium을 위한 새로운 PyTorch 네이티브 백엔드 TorchNeuron을 2026년 10월 20일부터 공개 베타로 제공한다고 발표했다. Transformers, Diffusers, Accelerate, PEFT, TRL 등이 TorchNeuron을 통해 Trainium을 다른 가속기처럼 직접 지원하며, 기존 optimum-neuron 대신 이 라이브러리들을 직접 사용하는 것이 권장된다. 발표에 따르면 TorchNeuron은 eager 실행, torch.compile, FSDP·TP 같은 네이티브 분산 API를 지원한다.",
+      "why_it_matters": "Trainium 지원이 별도 라이브러리 의존에서 PyTorch 네이티브 경로로 이동하면, 모델 코드 재사용과 허브 공유가 쉬워질 수 있다. 다만 실제 성능·안정성은 독립 검증이 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T08:20:19+00:00",
+        "input_hash": "590687c38404e43d8def57e6e3f5b1e5c9f6d3fcdf0c507f0df3b939b3558985",
+        "evidence_verified": true
+      }
     },
     {
       "id": "768169fbc5579b7b35e2",
