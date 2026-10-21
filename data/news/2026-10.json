@@ -3,6 +3,412 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "39690a168143594f8089",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42385",
+      "title": "델 테크놀로지스·엔비디아, 데스크톱부터 데이터센터까지 에이전틱 AI 인프라 확대",
+      "original_title": "델 테크놀로지스·엔비디아, 데스크톱부터 데이터센터까지 에이전틱 AI 인프라 확대",
+      "published_at": "2026-10-21T23:53:17+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "델 테크놀로지스(Dell Technologies)가 엔비디아(NVIDIA)와 협력해 기업용 에이전틱 AI 인프라를 데스크사이드부터 데이터센터까지 확대한다. 기업이 자체적으로 관리하는 인프라에서 AI 에이전트를 개발하고 운영할 수 있도록 하드웨어와 소프트웨어, 보안 및 관리 체계를 통합해 AI 프로젝트의 실험 단계에서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42385",
+          "title": "델 테크놀로지스·엔비디아, 데스크톱부터 데이터센터까지 에이전틱 AI 인프라 확대"
+        }
+      ]
+    },
+    {
+      "id": "c643418cbbaee3ee016b",
+      "url": "https://arxiv.org/abs/2610.19005",
+      "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+      "original_title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+      "published_at": "2026-10-21T23:29:32+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2610.19005",
+          "title": "CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat",
+          "discussion_url": "https://news.ycombinator.com/item?id=50189084"
+        }
+      ]
+    },
+    {
+      "id": "5a183ecad19421ae0b13",
+      "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21",
+      "title": "Anthropic opens research preview of Claude Duet, a agent for professionals",
+      "original_title": "Anthropic opens research preview of Claude Duet, a agent for professionals",
+      "published_at": "2026-10-21T23:12:27+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21",
+          "title": "Anthropic opens research preview of Claude Duet, a agent for professionals",
+          "discussion_url": "https://news.ycombinator.com/item?id=50188944"
+        }
+      ]
+    },
+    {
+      "id": "32f9877af281566a5f6e",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "original_title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "published_at": "2026-10-21T22:51:22+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
+          "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown"
+        }
+      ]
+    },
+    {
+      "id": "df4815cb1a6e9e4373c7",
+      "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+      "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+      "original_title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+      "published_at": "2026-10-21T22:48:02+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cio.com/article/4237395/metas-new-enterprise-contract-says-if-its-ai-makes-a-mistake-it-will-legally-be-the-customers-fault.html",
+          "title": "Meta's new terms say if its AI makes a mistake, it will be the customer's fault",
+          "discussion_url": "https://news.ycombinator.com/item?id=50188774"
+        }
+      ]
+    },
+    {
+      "id": "dd101c1e53cd9d361534",
+      "url": "https://news.hada.io/topic?id=35775",
+      "title": "OpenAI 모델과 Codex, Google Cloud에 도입",
+      "original_title": "OpenAI 모델과 Codex, Google Cloud에 도입",
+      "published_at": "2026-10-21T22:46:51+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Google Cloud에서 OpenAI 모델과 Codex를 활용할 수 있게 됨 . GPT-6 Astra, GPT-6.1 Sol, GPT-6 Luna를 일부 기업 고객 대상 비공개 프리뷰로 제공하기 시작 로컬 Codex CLI와 데스크톱 앱을 Google Cloud에 연결 해 모델 추론을 실행하고, API로 자체 애플…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35775",
+          "title": "OpenAI 모델과 Codex, Google Cloud에 도입"
+        }
+      ]
+    },
+    {
+      "id": "16ff32ef99774b8b3147",
+      "url": "https://news.hada.io/topic?id=35773",
+      "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
+      "original_title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트",
+      "published_at": "2026-10-21T22:40:51+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "메시지로 업무를 맡기면 클라우드 컴퓨터에서 처리 하고, 필요할 때 먼저 연락하는 Anthroipic의 개인 AI 에이전트 . 노트북이나 휴대폰을 꺼도 작업을 계속하며, 완료하거나 결정이 필요하면 알림 매일 아침 이메일과 일정, 연결된 앱에서 중요한 일을 모아...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35773",
+          "title": "Claude Duet - 업무를 맡아 처리하고 필요할 때 먼저 연락하는 개인 AI 에이전트"
+        }
+      ]
+    },
+    {
+      "id": "afa7e6e62680d7f10ccf",
+      "url": "https://tanepiper.github.io/game-frame",
+      "title": "GameFrame: Agentic Framework for Reverse Engineering Games",
+      "original_title": "GameFrame: Agentic Framework for Reverse Engineering Games",
+      "published_at": "2026-10-21T22:38:15+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tanepiper.github.io/game-frame",
+          "title": "GameFrame: Agentic Framework for Reverse Engineering Games",
+          "discussion_url": "https://news.ycombinator.com/item?id=50188673"
+        }
+      ]
+    },
+    {
+      "id": "dafdb74258f09bbcff87",
+      "url": "https://aws.amazon.com/marketplace/pp/prodview-iamlatxnobx7o",
+      "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
+      "original_title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
+      "published_at": "2026-10-21T22:31:41+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aws.amazon.com/marketplace/pp/prodview-iamlatxnobx7o",
+          "title": "Dense Sand – Sovereign BYOA AI SoC Platform for AWS",
+          "discussion_url": "https://news.ycombinator.com/item?id=50188599"
+        }
+      ]
+    },
+    {
+      "id": "ce8cd369e57c16fbd7fd",
+      "url": "https://firmenza.com/",
+      "title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
+      "original_title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
+      "published_at": "2026-10-21T22:15:11+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://firmenza.com/",
+          "title": "Firmenza – An AI assistant for SAM.gov registration and federal contracts",
+          "discussion_url": "https://news.ycombinator.com/item?id=50188415"
+        }
+      ]
+    },
+    {
+      "id": "5f93d3e8bd4bfb16cd62",
+      "url": "https://byline.network/2026/10/21-631",
+      "title": "AI 비용과 보안, 델은 ‘책상 위’에서 해결한다",
+      "original_title": "AI 비용과 보안, 델은 ‘책상 위’에서 해결한다",
+      "published_at": "2026-10-21T22:09:09+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "에이전틱 AI 확산으로 기업의 비용과 보안 부담이 커지는 가운데 델이 ‘데스크사이드 에이전틱 AI’를 해법으로 제시했다. 반복 추론은 자체 워크스테이션에서 처리해 비용을 낮추고, 민감한 데이터와 AI 에이전트의 행동 범위는 로컬 환경에서 통제하는 방식이다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/21-631",
+          "title": "AI 비용과 보안, 델은 ‘책상 위’에서 해결한다"
+        }
+      ]
+    },
+    {
+      "id": "74c5acd41e4885565915",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216463",
+      "title": "[10월21일] 코어위브 위기에 젠슨 황이 직접 나선 이유",
+      "original_title": "[10월21일] 코어위브 위기에 젠슨 황이 직접 나선 이유",
+      "published_at": "2026-10-21T22:00:00+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "지난주 AI 산업의 부채 문제가 불거지면서 세계 금융시장이 흔들렸습니다. 특히 AI 클라우드 업체 코어위브의 주가와 채권 가격이 급락하면서 AI 인프라 투자에 대한 경고가 쏟아졌습니다. 그런데 이 과정에서 눈길을 끈 인물은 코어위브 경영진이 아닌 젠슨 황 엔비디아 CEO였습니다.그는 지난 15일(현지시간) 스웨덴 스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216463",
+          "title": "[10월21일] 코어위브 위기에 젠슨 황이 직접 나선 이유"
+        }
+      ]
+    },
+    {
+      "id": "3db1a3a7eaee8af309c7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216500",
+      "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
+      "original_title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출",
+      "published_at": "2026-10-21T21:25:06+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 구글 클라우드를 통해 최신 AI 모델과 코딩 에이전트 ‘코덱스’를 판매한다. 챗GPT와 제미나이로 경쟁하는 두 회사가 기업 시장에서는 판매 협력에 나선 것이다. 오픈AI는 구글의 기업 고객에게 접근할 통로를 확보하고, 구글은 자사 모델뿐 아니라 경쟁사 모델을 원하는 고객까지 클라우드에 붙잡아 두겠다는 전략…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216500",
+          "title": "오픈AI, 구글 클라우드서 최신 모델 판매…3대 클라우드 모두 진출"
+        }
+      ]
+    },
+    {
+      "id": "b896c0e0003f5acfffa0",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "original_title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "published_at": "2026-10-21T21:16:20+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical in…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know",
+          "title": "TechCrunch Founder Summit 2026: Everything you need to know"
+        }
+      ]
+    },
+    {
+      "id": "367be8246006663a59ce",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "original_title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "published_at": "2026-10-21T21:14:19+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
+          "title": "Meta says Muse has over 10M users, with shopping a top activity"
+        }
+      ]
+    },
+    {
+      "id": "3f1a11956436b1673800",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "title": "Broad access through consistent standards",
+      "original_title": "Broad access through consistent standards",
+      "published_at": "2026-10-21T21:00:00+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "title": "Broad access through consistent standards"
+        }
+      ]
+    },
+    {
+      "id": "5731a1179ec95c020736",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216499",
+      "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+      "original_title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+      "published_at": "2026-10-21T20:47:30+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 웹사이트 구동에 널리 쓰이는 프로그래밍 언어 PHP에서 중대 보안 취약점을 찾아내면서 유럽 정부와 병원, 학교 등이 웹사이트를 잇달아 중단했다. 공격자가 서버를 장악할 수 있는 결함이 확인되자 피해를 막기 위해 접속부터 차단한 것이다. 긴급 수정본은 배포됐지만, 공격자 역시 AI로 이를 분석해 업데이트하지 않…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216499",
+          "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단"
+        }
+      ]
+    },
+    {
+      "id": "28d2d91eea7189ef4a1a",
+      "url": "https://news.hada.io/topic?id=35771",
+      "title": "OpenAI ‘Patch the Planet’, AI가 발견하는 취약점에 대응할 5단계 공조 체계 제안",
+      "original_title": "OpenAI ‘Patch the Planet’, AI가 발견하는 취약점에 대응할 5단계 공조 체계 제안",
+      "published_at": "2026-10-21T20:33:47+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI가 오픈소스 유지관리자의 보안 대응을 지원하는 ‘Patch the Planet’을 통해 5단계 공조 체계를 제안 . AI가 취약점을 빠르게 찾아내는 만큼, 연구자와 보안업체, 인프라 제공자가 패치 개발부터 실제 배포까지 함께 준비하는 방식 PHP의 심각한 취약점 대응에서는 두...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35771",
+          "title": "OpenAI ‘Patch the Planet’, AI가 발견하는 취약점에 대응할 5단계 공조 체계 제안"
+        }
+      ]
+    },
+    {
+      "id": "e9fc027fe2ea965dad45",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "original_title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "published_at": "2026-10-21T20:27:41+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
+          "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI"
+        }
+      ]
+    },
+    {
+      "id": "298ab808d89166c7be15",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "original_title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "published_at": "2026-10-21T19:30:00+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+          "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat"
+        }
+      ]
+    },
+    {
       "id": "3865c8c8839cb25dc0db",
       "url": "https://theaioperatorstore.gumroad.com/l/uszyx",
       "title": "Show HN: AI Agent Security Audit Console – offline audit in 15 min",
@@ -191,6 +597,26 @@
       ]
     },
     {
+      "id": "65d1f116dfc064015180",
+      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+      "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "original_title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "published_at": "2026-10-21T17:59:12+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
+          "title": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet"
+        }
+      ]
+    },
+    {
       "id": "40a01666d562060bfdf9",
       "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
       "title": "Dharma-AI, VocabX로 SLM 추론 비용 77% 절감 주장",
@@ -218,6 +644,26 @@
         "input_hash": "bfadf0c5d635c7d07146c187615610f3a95b3a4b45a08557867b48fcf1b164f3",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "a92f3bcbc27860275b65",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "original_title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "published_at": "2026-10-21T17:18:27+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 bill…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
+          "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C"
+        }
+      ]
     },
     {
       "id": "39cad894cdd240fbe2db",
@@ -1744,6 +2190,26 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=35734",
           "title": "macOS에서 Touch ID로 SSH 키 설정하기"
+        }
+      ]
+    },
+    {
+      "id": "e270f5ba4688033de075",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "original_title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "collected_at": "2026-10-21T23:55:14+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/empowering-cyber-defenders",
+          "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders"
         }
       ]
     },
