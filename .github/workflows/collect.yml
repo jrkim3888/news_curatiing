@@ -22,7 +22,7 @@ on:
         type: string
         default: ''
       retry_failed_briefing:
-        description: 'Allow one additional paid attempt for briefing_date; published editions are preserved'
+        description: 'Allow one additional briefing attempt (up to 2 paid requests); published editions are preserved'
         type: boolean
         default: false
 

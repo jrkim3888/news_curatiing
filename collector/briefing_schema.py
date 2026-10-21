@@ -35,8 +35,17 @@ def response_format(inputs):
                    "summary": text(30, 600), "why_it_matters": text(15, 300),
                    "category": category, "evidence": array(text(12, 240), 1, 3)})
     return {"type": "json_schema", "json_schema": {
-        "name": "daily_brief_v5", "strict": True,
+        "name": "daily_brief_v6", "strict": True,
         "schema": obj({"issues": array(issue, 1, 5), "overview": array(overview, 1, 3),
-                       "headline": text(6, 60), "takeaway": text(20, 120),
+                       "headline": {**text(6, 60), "pattern": r"^[^·…|\n]+$"}, "takeaway": text(20, 120),
                        "article_summaries": array(summary, 1, 16)}),
     }}
+
+
+def coverage_format(inputs, recent_coverage):
+    decision = obj({"article_id": {"type": "string", "enum": [item['article_id'] for item in inputs]},
+                    "previous_issue_id": {"type": ["string", "null"],
+                                          "enum": [None, *(issue['id'] for issue in recent_coverage)]}})
+    return {"type": "json_schema", "json_schema": {
+        "name": "briefing_coverage_v1", "strict": True,
+        "schema": obj({"coverage": array(decision, len(inputs), len(inputs))})}}

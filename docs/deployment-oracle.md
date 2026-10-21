@@ -129,9 +129,9 @@ SITE_URL=https://실제프로젝트.pages.dev
 
 초기 검증 모델 **`z-ai/glm-5.3-flash`**는 추론이 필수라 `reasoning.effort=low`를 사용합니다. 현재 Actions 운영 모델 **`deepseek/deepseek-v4.1-flash`**는 선택적인 추론의 기본 강도가 `high`여서 예산을 소진한 사례를 확인해 `none`을 명시했습니다. 일일 브리핑과 주요 기사별 요약은 기본 최대 18,432토큰(`BRIEFING_MAX_TOKENS`)이며 strict JSON Schema를 지원하는 제공자로 라우팅합니다. 별도 개별 기사 요약은 GLM 4,096토큰, 다른 모델 기본 1,600토큰입니다. 모델별 옵션은 `collector/llm.py`의 `MODEL_OPTIONS`에 있습니다.
 
-**OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 일반 수집은 영어 기사를 한국어로 요약하며 실행당 기본 최대 10회(`ENGLISH_SUMMARIES_PER_RUN`, 최대 30), 일일 브리핑은 하루 최대 1회 요청합니다. 기본 예약 한도로는 하루 최대 41회 요청입니다. 브리핑 입력은 최대 16건·건당 2,400자, 출력은 기본 최대 18,432토큰입니다. 수동 `--summarize-articles` 실행은 별도 비용을 만들 수 있습니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 브리핑은 같은 날짜 재요청을 막습니다. 개별 기사 요약의 대기 시간은 24시간입니다.
+**OpenRouter에서 이 서비스 전용 API 키의 credit limit을 설정하세요.** 일반 수집은 영어 기사를 한국어로 요약하며 실행당 기본 최대 10회(`ENGLISH_SUMMARIES_PER_RUN`, 최대 30), 일일 브리핑은 중복 판별 1회(출력 최대 2,048토큰) + 생성 1회로 하루 최대 2회 요청합니다. 기본 예약 한도로는 하루 최대 42회 요청입니다. 브리핑 입력은 최대 16건·건당 2,400자, 출력은 기본 최대 18,432토큰입니다. 수동 `--summarize-articles` 실행은 별도 비용을 만들 수 있습니다. 호출 수 한도는 달러 금액의 상한이 아니며, 모델별 토큰 단가가 다릅니다. POST timeout은 이미 과금됐을 수 있어 자동 재전송하지 않고, 브리핑은 같은 날짜 재요청을 막습니다. 개별 기사 요약의 대기 시간은 24시간입니다.
 
-`MAX_SUMMARIES_PER_RUN=1`을 유지하면 됩니다. 영어 자동 요약만 끄려면 `ENGLISH_SUMMARIES_PER_RUN=0`, 모든 유료 호출을 끄려면 `MAX_SUMMARIES_PER_RUN=0`을 설정합니다. 일일 브리핑은 값을 높여도 한 번만 요청합니다. 키/모델이 비어 있으면 수집·배포는 정상 진행되지만 링크 전용입니다. `.runtime/summary-attempts.json`은 재시도 제어를 위해 보존합니다.
+`MAX_SUMMARIES_PER_RUN=1`을 유지하면 됩니다. 영어 자동 요약만 끄려면 `ENGLISH_SUMMARIES_PER_RUN=0`, 모든 유료 호출을 끄려면 `MAX_SUMMARIES_PER_RUN=0`을 설정합니다. 일일 브리핑은 값을 높여도 판별·생성을 각각 한 번만 요청합니다. 키/모델이 비어 있으면 수집·배포는 정상 진행되지만 링크 전용입니다. `.runtime/summary-attempts.json`은 재시도 제어를 위해 보존합니다.
 
 ## 5. Oracle에서 수동으로 끝까지 확인
 
@@ -149,7 +149,7 @@ git log -1 --oneline
 
 그 다음 GitHub에서 data 커밋이 생겼는지, Pages에서 해당 커밋으로 자동 배포됐는지, 기사 요약·한국어 검색이 보이는지 확인합니다. 데이터가 같으면 커밋이 생기지 않는 것이 정상입니다. 이 end-to-end 확인은 실제 Oracle/GitHub/Pages 권한이 있어야 완료할 수 있습니다.
 
-실패한 날짜만 재시도하려면 진단 기록을 확인한 뒤 다음과 같이 실행합니다. 최대 1회의 추가 유료 요청을 허용하며 이미 발행한 날짜는 보존합니다. 다른 날짜·기사의 대기 기록은 지우지 않습니다.
+실패한 날짜만 재시도하려면 진단 기록을 확인한 뒤 다음과 같이 실행합니다. 판별·생성 각각 1회, 최대 2회의 추가 유료 요청을 허용하며 이미 발행한 날짜는 보존합니다. 다른 날짜·기사의 대기 기록은 지우지 않습니다.
 
 ```bash
 NEWS_MODE=brief BRIEFING_DATE=2026-10-20 RETRY_FAILED_BRIEFING=true bash ops/run-collector.sh

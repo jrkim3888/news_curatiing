@@ -131,7 +131,8 @@ def run(args, *, fetch_source=collect_source, generate=summarize) -> dict:
     return run_report
 
 
-def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.generate, now=None):
+def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.generate,
+              review_coverage=briefings.review_coverage, now=None):
     """Publish one fixed 06:00-to-06:00 edition, scheduled for 06:30 KST."""
     now = now or datetime.now(UTC)
     requested_day = getattr(args, "briefing_date", None)
@@ -150,7 +151,7 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     history = briefings.apply_editorial(old, editorial)
     report = {"started_at": now.isoformat(), "llm_requests": 0, "summary_failures": 0,
               "briefing": {"day": day, "result": "disabled", "retry_requested": retry},
-              "llm": {"model": os.getenv("OPENROUTER_MODEL"), "max_tokens": budget},
+              "llm": {"model": os.getenv("OPENROUTER_MODEL"), "max_tokens": budget}, "coverage_llm": {},
               "result": "unchanged"}
     runtime = Path(args.runtime_dir)
     updated_news = {}
@@ -169,7 +170,7 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
         store.close()
         atomic_json(runtime / "last-run.json", report)
         print(f"[briefing] {day}: {result}; {report['llm_requests']} LLM requests", flush=True)
-        diagnostic = json.dumps({"briefing": report["briefing"], "llm": report["llm"]}, ensure_ascii=False)
+        diagnostic = json.dumps({k: report[k] for k in ('briefing', 'llm', 'coverage_llm')}, ensure_ascii=False)
         print("[briefing-diagnostics] " + diagnostic, flush=True)
         if result == "failed_previous_preserved" and os.getenv("GITHUB_ACTIONS") == "true":
             escaped = diagnostic.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
@@ -212,6 +213,11 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     news_by_month = {m: store.read('news', m) for m in sorted(months)}
     articles = [a for items in news_by_month.values() for a in items
                 if a['id'] not in editorial['hidden_ids'] and start <= datetime.fromisoformat(a['published_at']) < end]
+    previously_used = store.previously_briefed_ids(articles)
+    articles = [a for a in articles if a['id'] not in previously_used]
+    recent_coverage = store.recent_briefing_issues(day)
+    report['briefing'].update(excluded_previous_articles=len(previously_used),
+                              previous_issues_compared=len(recent_coverage))
     # Re-read permitted source text for analysis, without adding news to the completed window.
     needed = {r["source_id"] for a in articles for r in a["sources"]}
     evidence = {}
@@ -233,13 +239,25 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     inputs = briefings.prepare_inputs(articles, evidence, end)
     if len(inputs) < 2:
         return finish("insufficient_sources")
-    digest = briefings.input_hash(inputs, model)
     attempts[attempt_key] = iso_now()
     atomic_json(attempts_path, attempts)
-    report["llm_requests"] = 1
     report["briefing"]["reviewed_articles"] = len(inputs)
-    stage = "generation"
+    report['briefing']['excluded_repeated_stories'] = 0
+    stage = "coverage_review"
     try:
+        if recent_coverage:
+            report['llm_requests'] += 1
+            coverage = review_coverage(inputs, key, model, recent_coverage=recent_coverage,
+                                       diagnostics=report['coverage_llm'])
+            stage = 'coverage_validation'
+            fresh = briefings.uncovered_inputs(coverage, inputs, recent_coverage)
+            report['briefing']['excluded_repeated_stories'] = len(inputs) - len(fresh)
+            inputs = fresh
+            if not inputs:
+                return finish('no_new_issues')
+        digest = briefings.input_hash(inputs, model, recent_coverage)
+        stage = 'generation'
+        report['llm_requests'] += 1
         value = generate_briefing(inputs, key, model, diagnostics=report["llm"])
         if isinstance(value, dict):
             report["llm"]["output_counts"] = {
@@ -277,7 +295,7 @@ def main():
     summary_mode.add_argument("--summarize-english", action="store_true", help="Generate Korean summaries of permitted English articles during collection")
     parser.add_argument("--briefing-date", help="Publish a specific YYYY-MM-DD edition (KST); defaults to the latest due date")
     parser.add_argument("--retry-failed-briefing", action="store_true",
-                        help="Allow one new paid attempt for --briefing-date; never replaces a published edition")
+                        help="Allow one new briefing attempt (coverage review + generation); never replaces a published edition")
     parser.add_argument("--dry-run", action="store_true", help="Fetch and validate, but do not call the LLM or change public data")
     parser.add_argument("--incremental", action="store_true", help="Validate changed archive shards using the disposable local index")
     parser.add_argument("--days", type=int, default=3, help="Lookback in days (initial bootstrap: 14)")

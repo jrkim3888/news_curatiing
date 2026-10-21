@@ -105,6 +105,43 @@ class ArchiveTests(unittest.TestCase):
         candidate.update(url=old['url'], published_at='2027-01-02T00:00:00+00:00', original_title='Changed title')
         self.assertIn('2026-09', self.store.relevant_news_months([candidate], datetime(2027,1,1,tzinfo=UTC), datetime(2027,1,3,tzinfo=UTC)))
 
+    def test_used_briefing_articles_match_all_months_and_source_aliases(self):
+        old = article('old', '2026-09-29T00:00:00+00:00')
+        snapshot = edition(old, '2026-09-30')
+        alias = 'https://example.com/original?idxno=7'
+        snapshot['articles'][0]['sources'].append({**snapshot['articles'][0]['sources'][0], 'url': alias})
+        # A snapshot can outlive a news shard; matching must use the archived source links.
+        self.store.save(editions={'2026-09': [snapshot]}, sources=[SOURCE])
+        same_id = article('old', '2026-11-01T00:00:00+00:00')
+        same_id['sources'][0]['url'] = same_id['url'] = 'https://example.com/moved'
+        merged = article('different-id', '2026-11-01T00:00:00+00:00')
+        merged['sources'].append({**merged['sources'][0], 'url': alias + '&utm_source=rss#section'})
+        fresh = article('new', '2026-11-01T00:00:00+00:00')
+        self.store.index()
+        self.store.close()
+        with patch.object(self.store, 'read', side_effect=AssertionError('Warm index should not reread history')):
+            self.assertEqual(self.store.previously_briefed_ids([same_id, merged, fresh]), {same_id['id'], merged['id']})
+        self.store.close()
+        next(self.runtime.glob('archive-index-*.sqlite3')).unlink()
+        self.assertEqual(self.store.previously_briefed_ids([merged]), {merged['id']})
+
+    def test_recent_coverage_crosses_months_but_excludes_old_future_and_withdrawn(self):
+        def snapshot(day):
+            end = datetime.fromisoformat(f'{day}T06:00:00+09:00')
+            from datetime import timedelta
+            return edition(article(day, (end-timedelta(hours=1)).isoformat()), day)
+        withdrawn = snapshot('2026-10-31')
+        withdrawn.update(status='withdrawn', articles=[], issues=[], overview=[])
+        self.store.save(editions={
+            '2026-09': [snapshot('2026-09-30')],
+            '2026-10': [snapshot('2026-10-24'), snapshot('2026-10-25'), withdrawn],
+            '2026-11': [snapshot('2026-11-01'), snapshot('2026-11-02')]}, sources=[SOURCE])
+        with patch.object(self.store, 'read', wraps=self.store.read) as read:
+            context = self.store.recent_briefing_issues('2026-11-01')
+        self.assertEqual([item['id'] for item in context], ['2026-10-25/issue-1'])
+        self.assertNotIn(('briefings', '2026-09'), [call.args for call in read.call_args_list])
+        self.assertEqual(context[0]['facts'], ['연구팀은 새로운 인공지능 연구 결과를 공개했습니다.'])
+
     def test_disposable_index_is_rebuilt_when_missing_or_corrupt(self):
         self.store.save(news={'2026-10': [article('first')]}, sources=[SOURCE])
         self.store.index(); self.store.close()

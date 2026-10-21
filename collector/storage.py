@@ -9,11 +9,11 @@ import re
 import shutil
 import sqlite3
 import tempfile
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
 
 from . import briefings
-from .core import normalized_title, validate_dataset
+from .core import canonical_url, normalized_title, validate_dataset
 
 KST = ZoneInfo('Asia/Seoul')
 MONTH = re.compile(r'^\d{4}-(?:0[1-9]|1[0-2])$')
@@ -266,7 +266,7 @@ class Archive:
     def index(self, _retry=True):
         if self._db is not None: return self._db
         self.runtime.mkdir(parents=True, exist_ok=True)
-        path = self.runtime / f'archive-index-{digest(str(self.root).encode())[:12]}.sqlite3'
+        path = self.runtime / f'archive-index-v2-{digest(str(self.root).encode())[:12]}.sqlite3'
         try:
             db = sqlite3.connect(path)
             db.execute('CREATE TABLE IF NOT EXISTS files (kind TEXT, month TEXT, hash TEXT, PRIMARY KEY(kind, month))')
@@ -274,6 +274,7 @@ class Archive:
             db.execute('CREATE INDEX IF NOT EXISTS article_title ON articles(title, published)')
             db.execute('CREATE TABLE IF NOT EXISTS urls (url TEXT PRIMARY KEY, article_id TEXT, month TEXT)')
             db.execute('CREATE TABLE IF NOT EXISTS refs (article_id TEXT, month TEXT, PRIMARY KEY(article_id,month))')
+            db.execute('CREATE TABLE IF NOT EXISTS briefing_urls (url TEXT, month TEXT, PRIMARY KEY(url,month))')
         except sqlite3.DatabaseError as exc:
             if 'db' in locals(): db.close()
             if _retry and getattr(exc, 'sqlite_errorcode', 0) in (sqlite3.SQLITE_CORRUPT, sqlite3.SQLITE_NOTADB):
@@ -290,7 +291,9 @@ class Archive:
                     if kind == 'news':
                         db.execute('DELETE FROM urls WHERE month=?', (month,))
                         db.execute('DELETE FROM articles WHERE month=?', (month,))
-                    else: db.execute('DELETE FROM refs WHERE month=?', (month,))
+                    else:
+                        db.execute('DELETE FROM refs WHERE month=?', (month,))
+                        db.execute('DELETE FROM briefing_urls WHERE month=?', (month,))
                     db.execute('DELETE FROM files WHERE kind=? AND month=?', (kind, month))
                 for kind, month in changed:
                     if (kind, month) not in target: continue
@@ -304,6 +307,9 @@ class Archive:
                         else:
                             for a in record['articles']:
                                 db.execute('INSERT OR IGNORE INTO refs VALUES (?,?)', (a['id'], month))
+                                for ref in a['sources']:
+                                    db.execute('INSERT OR IGNORE INTO briefing_urls VALUES (?,?)',
+                                               (canonical_url(ref['url']), month))
                     db.execute('INSERT INTO files VALUES (?,?,?)', (kind, month, target[(kind, month)]))
         except Exception as exc:
             db.close()
@@ -316,6 +322,34 @@ class Archive:
         # Do not retain all full records when the disposable index is first built.
         self.cache.clear()
         return db
+
+    def previously_briefed_ids(self, articles):
+        """Look up all published snapshots, including source aliases and older months."""
+        db = self.index()
+        used = set()
+        for article in articles:
+            if db.execute('SELECT 1 FROM refs WHERE article_id=? LIMIT 1', (article['id'],)).fetchone():
+                used.add(article['id'])
+                continue
+            urls = {canonical_url(article['url']), *(canonical_url(r['url']) for r in article['sources'])}
+            if any(db.execute('SELECT 1 FROM briefing_urls WHERE url=? LIMIT 1', (url,)).fetchone() for url in urls):
+                used.add(article['id'])
+        return used
+
+    def recent_briefing_issues(self, day):
+        """Small editorial context; only the last seven days' briefing shards are read."""
+        start = (date.fromisoformat(day) - timedelta(days=7)).isoformat()
+        result = []
+        for month in sorted(self.catalog['briefings']):
+            if not start[:7] <= month <= day[:7]:
+                continue
+            for edition in sorted(self.read('briefings', month), key=lambda e: e['day']):
+                if edition['status'] != 'published' or not start <= edition['day'] < day:
+                    continue
+                for issue in edition['issues']:
+                    result.append({'id': f"{edition['day']}/{issue['id']}", 'day': edition['day'],
+                                   'title': issue['title'], 'facts': [f['text'] for f in issue['facts']]})
+        return result
 
     def relevant_news_months(self, candidates, start, end, changed_ids=()):
         months = {m for m in self.catalog['news'] if month_of(start) <= m <= month_of(end)}
