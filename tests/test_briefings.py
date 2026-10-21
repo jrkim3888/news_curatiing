@@ -500,6 +500,8 @@ class BriefingTests(unittest.TestCase):
         fields = schema['properties']
         self.assertEqual(fields['issues']['maxItems'], 5)
         self.assertEqual(fields['overview']['maxItems'], 3)
+        sentences = fields['overview']['items']['properties']['sentences']
+        self.assertEqual((sentences['minItems'], sentences['maxItems']), (2, 3))
         self.assertEqual(fields['article_summaries']['items']['properties']['article_id']['enum'], ['a'*20, 'b'*20])
         self.assertIn('article_summaries', schema['required'])
         self.assertFalse(schema['additionalProperties'])
@@ -516,6 +518,63 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(payload['max_tokens'], 18432)
         self.assertEqual(diagnostics['reasoning'], {'effort':'none'})
         self.assertEqual(request.call_count, 1)
+
+    def test_structured_sentences_normalize_spacing_and_keep_all_facts(self):
+        def generated(inputs):
+            value = response(inputs)
+            text = value['overview'][0].pop('text')
+            value['overview'][0]['sentences'] = text.rstrip('.').split('. ')
+            value['overview'][0]['sentences'][0] = value['overview'][0]['sentences'][0].replace('새로운 AI', '새로운\nAI')
+            return value
+        result = self.run_batch(generate=generated)
+        self.assertEqual(result['briefing']['result'], 'created')
+        edition = read_history(self.root)['editions'][0]
+        self.assertEqual(edition['prompt_version'], 'daily-brief-v5')
+        self.assertEqual(edition['overview'][0]['text'], response([])['overview'][0]['text'])
+
+    def test_prose_handles_abbreviations_versions_quotes_and_rejects_fragments(self):
+        paragraph = {'text': '미국 U.S. 연구팀은 모델 4.1의 평가 결과를 새로운 보고서에 공개했습니다. 개발자는 원문에 적힌 평가 조건과 사용 환경을 함께 확인해야 합니다.', 'issue_ids': ['issue-1']}
+        briefings.validate_narrative('새 도구의 평가 조건을 확인합니다', [paragraph], 1)
+        self.assertEqual(briefings.prose_shape(paragraph['text'])['sentence_count'], 2)
+        quoted = paragraph['text'].replace('공개했습니다.', '공개했습니다。”')
+        self.assertEqual(briefings.prose_shape(quoted)['sentence_count'], 2)
+        briefings.validate_narrative('새 도구의 평가 조건', [paragraph], 1,
+                                     '미국 U.S. 연구팀의 모델 4.1 평가 조건을 함께 확인해야 합니다.')
+        parts = ['연구팀은 새로운 도구의 평가 결과를 공개했습니다”',
+                 '개발자는 원문의 평가 조건과 적용 범위를 함께 확인해야 합니다']
+        normalized = briefings.overview_text({'sentences': parts}, 0)
+        self.assertEqual(briefings.prose_shape(normalized)['sentence_count'], 2)
+        for text in [
+            '새로운 AI 모델 공개와 도구의 사용 확대, 다양한 기업의 연구 결과 발표를 통해 확인하는 성능 향상과 검증 방법의 변화 및 관련 기술의 최신 동향 정리.',
+            paragraph['text'] + ' 아직 다른 조건의 결과는 확인되지 않았습니다. 사용 시 주의해야 합니다.',
+            paragraph['text'].replace('공개했습니다.', '공개했습니다…'),
+        ]:
+            with self.subTest(text=text), self.assertRaises(briefings.BriefingValidationError) as error:
+                briefings.validate_narrative('새 도구의 평가 조건을 확인합니다', [{**paragraph, 'text': text}], 1)
+            self.assertEqual(error.exception.details['field'], 'overview[0].text')
+
+    def test_invalid_sentence_shape_reports_only_safe_metrics(self):
+        private_text = 'PRIVATE_RESPONSE 원문에 없는 제목 형태의 표현과 나열을 반복하는 구절 ' * 2
+        def generated(inputs):
+            value = response(inputs)
+            value['overview'][0]['text'] = private_text
+            return value
+        result = self.run_batch(generate=generated)
+        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+        details = result['briefing']['validation_details']
+        self.assertEqual(details['field'], 'overview[0].text')
+        self.assertEqual(details['sentence_count'], 1)
+        self.assertFalse(details['complete_endings'])
+        self.assertNotIn('PRIVATE_RESPONSE', json.dumps(result))
+        self.assertFalse(read_history(self.root)['editions'])
+
+    def test_sentence_array_does_not_accept_lists_or_multiple_sentences_per_item(self):
+        for parts in [[], ['첫 번째 문장을 완결된 형태로 설명합니다.'],
+                      ['첫 번째 문장을 완결된 형태로 설명합니다.'] * 4,
+                      ['새 도구의 발표와 새로운 모델 출시 및 사용 범위 확대', '추가 사항을 원문에서 확인할 수 있습니다.'],
+                      ['새로운 도구가 공개됐습니다. 자세한 정보도 있습니다.', '추가 사항을 원문에서 확인할 수 있습니다.']]:
+            with self.subTest(parts=parts), self.assertRaises(briefings.BriefingValidationError):
+                briefings.overview_text({'sentences': parts}, 0)
 
     @patch('collector.briefings.request')
     def test_generation_budget_and_safe_diagnostics_on_invalid_json(self, request):

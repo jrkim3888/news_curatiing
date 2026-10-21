@@ -14,7 +14,7 @@ on:
         options: [collect, brief]
         default: collect
       no_llm:
-        description: Disable paid OpenRouter calls (uncheck to publish a briefing)
+        description: Disable paid OpenRouter calls (uncheck for English article summaries or a briefing)
         type: boolean
         default: true
       briefing_date:
@@ -66,6 +66,7 @@ jobs:
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           MAX_SUMMARIES_PER_RUN: ${{ vars.MAX_SUMMARIES_PER_RUN || '1' }}
+          ENGLISH_SUMMARIES_PER_RUN: ${{ vars.ENGLISH_SUMMARIES_PER_RUN || '10' }}
           BRIEFING_MAX_TOKENS: ${{ vars.BRIEFING_MAX_TOKENS || '18432' }}
           BRIEFING_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.briefing_date || '' }}
           RETRY_FAILED_BRIEFING: ${{ github.event_name == 'workflow_dispatch' && inputs.retry_failed_briefing || false }}

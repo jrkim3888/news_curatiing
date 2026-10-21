@@ -89,6 +89,13 @@ else:
         self.assertEqual(args, ['brief', '--briefing-date', date, '--retry-failed-briefing'])
         self.assertFalse((self.repo / 'injected').exists())
 
+    def test_collection_enables_english_summaries_but_honors_no_llm(self):
+        import json
+        result = self.run_job(NO_LLM='true')
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        args = json.loads((self.repo / '.runtime/collector-args.json').read_text())
+        self.assertEqual(args, ['collect', '--summarize-english', '--no-llm'])
+
     def test_push_failure_keeps_commit_and_next_run_recovers_it(self):
         hook = self.remote / 'hooks/pre-receive'
         hook.write_text('#!/bin/sh\nexit 1\n')

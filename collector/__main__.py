@@ -7,10 +7,11 @@ import os
 from pathlib import Path
 from datetime import datetime, timedelta
 
-from .adapters import collect_source, extract_body, hosts_for
+from .adapters import collect_source
 from .core import UTC, article_id, category_for, is_ai_relevant, iso_now, merge_candidates
 from .llm import SummaryError, summarize
-from .network import RequestError, Robots, request
+from .article_summaries import collect_summaries
+from .network import RequestError
 from . import briefings
 from .storage import Archive, atomic_json, month_of
 
@@ -24,7 +25,7 @@ def load_env() -> None:
             if not line.strip() or line.lstrip().startswith("#") or "=" not in line:
                 continue
             key, value = line.split("=", 1)
-            if key.strip() in ("OPENROUTER_API_KEY", "OPENROUTER_MODEL", "MAX_SUMMARIES_PER_RUN", "BRIEFING_MAX_TOKENS", "SITE_URL"):
+            if key.strip() in ("OPENROUTER_API_KEY", "OPENROUTER_MODEL", "MAX_SUMMARIES_PER_RUN", "ENGLISH_SUMMARIES_PER_RUN", "BRIEFING_MAX_TOKENS", "SITE_URL"):
                 os.environ.setdefault(key.strip(), value.strip().strip('"\''))
 
 
@@ -88,45 +89,19 @@ def run(args, *, fetch_source=collect_source, generate=summarize) -> dict:
     articles = merge_candidates(previous_articles, candidates)
     articles = [a for a in articles if a["id"] not in editorial["hidden_ids"]]
     key, model = os.getenv("OPENROUTER_API_KEY"), os.getenv("OPENROUTER_MODEL")
-    # Scheduled collection makes no paid calls. Article summaries are an explicit manual option.
-    cap = min(30, max(0, int(os.getenv("MAX_SUMMARIES_PER_RUN", "1"))))
-    attempts_path = runtime / "summary-attempts.json"
-    attempts = json.loads(attempts_path.read_text()) if attempts_path.exists() else {}
+    master_cap = min(30, max(0, int(os.getenv("MAX_SUMMARIES_PER_RUN", "1"))))
+    mode = "english" if getattr(args, "summarize_english", False) else "all" if getattr(args, "summarize_articles", False) else "none"
+    cap = min(30, max(0, int(os.getenv("ENGLISH_SUMMARIES_PER_RUN", "10")))) if mode == "english" and master_cap else master_cap
     run_report["briefing"] = {"result": "disabled"}
-    robots = Robots()
-    if getattr(args, "summarize_articles", False) and not args.no_llm and not args.dry_run and key and model:
-        for article in articles:
-            if run_report["llm_requests"] >= cap:
-                break
-            if article["status"] != "link" or article["id"] not in evidence:
-                continue
-            body, source = evidence[article["id"]]
-            if not source["summarize"]:
-                continue
-            # Failed/uncertain paid requests get a 24h cooldown. Persist BEFORE sending.
-            last_attempt = attempts.get(article["id"])
-            if last_attempt and now - datetime.fromisoformat(last_attempt) < timedelta(hours=24):
-                continue
-            try:
-                if len(body) < 600 and source["fetch_body"] and robots.allows(article["url"], hosts_for(source)):
-                    body = extract_body(request(article["url"], hosts_for(source)))
-                if len(body) < 600:
-                    continue
-                attempts[article["id"]] = iso_now()
-                atomic_json(attempts_path, attempts)
-                run_report["llm_requests"] += 1
-                summary, meta = generate(article, body, key, model)
-                article.update({k: summary[k] for k in ("title", "summary", "why_it_matters", "category")})
-                article.update({"status": "summarized", "summary_meta": meta})
-            except Exception as exc:
-                run_report["summary_failures"] += 1
-                reason = exc.reason if isinstance(exc, (SummaryError, RequestError)) else type(exc).__name__
-                run_report["summary_errors"].append({"article_id": article["id"], "reason": reason})
-                print(f"[summary] {article['id']}: kept as link ({reason})", flush=True)
-    elif not getattr(args, "summarize_articles", False):
-        print("[summary] article summaries not requested; collection saves source links. Daily briefing is a separate job.", flush=True)
+    disabled = ("not_requested" if mode == "none" else "no_llm" if args.no_llm else
+                "dry_run" if args.dry_run else "zero_budget" if cap == 0 else
+                "missing_openrouter_settings" if not key or not model else None)
+    if disabled:
+        run_report["article_summaries"] = {"mode": mode, "limit": cap, "generated": 0, "disabled_reason": disabled}
+        print(f"[summary] article summaries disabled: {disabled}", flush=True)
     else:
-        print("[summary] article summaries disabled by no-llm/dry-run or missing OpenRouter settings; keeping source links", flush=True)
+        collect_summaries(articles, evidence, sources=enabled, mode=mode, cap=cap, cutoff=cutoff, now=now,
+                          runtime=runtime, key=key, model=model, generate=generate, report=run_report)
     articles = [a for a in articles if a["id"] not in editorial["hidden_ids"]]
     for article in articles:
         correction = editorial["corrections"].get(article["id"])
@@ -221,7 +196,7 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     if not slot or datetime.fromisoformat(slot) < end:
         # Shared workflow concurrency + the shell flock serialize this recovery with collection.
         recovery_args = argparse.Namespace(**vars(args))
-        recovery_args.no_llm, recovery_args.summarize_articles = True, False
+        recovery_args.no_llm, recovery_args.summarize_articles, recovery_args.summarize_english = True, False, False
         store.close()
         run(recovery_args, fetch_source=fetch_source)
         store = Archive(args.data_dir, args.runtime_dir)
@@ -281,6 +256,8 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
         if isinstance(exc, briefings.BriefingValidationError):
             reason = "validation_failed"
             report["briefing"]["validation_error"] = str(exc)
+            if exc.details:
+                report["briefing"]["validation_details"] = exc.details
         report["summary_failures"] = 1
         return finish("failed_previous_preserved", reason=reason, stage=stage)
     # Publish the edition and its article summaries in the same archive transaction.
@@ -295,7 +272,9 @@ def main():
     parser = argparse.ArgumentParser(description="Collect AI news once; GitHub Actions or cron handles scheduling.")
     parser.add_argument("command", nargs="?", choices=("collect", "brief", "validate", "migrate", "recover"), default="collect")
     parser.add_argument("--no-llm", action="store_true")
-    parser.add_argument("--summarize-articles", action="store_true", help="Opt in to individual article summaries during manual collection")
+    summary_mode = parser.add_mutually_exclusive_group()
+    summary_mode.add_argument("--summarize-articles", action="store_true", help="Summarize permitted articles in any source language")
+    summary_mode.add_argument("--summarize-english", action="store_true", help="Generate Korean summaries of permitted English articles during collection")
     parser.add_argument("--briefing-date", help="Publish a specific YYYY-MM-DD edition (KST); defaults to the latest due date")
     parser.add_argument("--retry-failed-briefing", action="store_true",
                         help="Allow one new paid attempt for --briefing-date; never replaces a published edition")
@@ -309,6 +288,8 @@ def main():
         parser.error("--days must be between 1 and 30")
     if (args.briefing_date or args.retry_failed_briefing) and args.command != "brief":
         parser.error("Briefing date/retry options require the brief command")
+    if (args.summarize_articles or args.summarize_english) and args.command != "collect":
+        parser.error("Article summary options require the collect command")
     if args.retry_failed_briefing and not args.briefing_date:
         parser.error("--retry-failed-briefing requires --briefing-date")
     if args.briefing_date:

@@ -20,7 +20,7 @@ from .core import CATEGORIES, UTC, article_id, canonical_url, validate_summary
 from .llm import MODEL_OPTIONS, SummaryError
 from .network import Robots, request
 
-PROMPT_VERSION = "daily-brief-v4"
+PROMPT_VERSION = "daily-brief-v5"
 KST = ZoneInfo("Asia/Seoul")
 MAX_INPUTS = 16
 DEFAULT_MAX_TOKENS = 18432
@@ -34,7 +34,7 @@ JSON만 반환하세요. issues → overview → headline → takeaway → artic
  "facts":[{"text":"출처가 확인하는 한국어 사실(15~400자)","evidence":[{"article_id":"입력의 실제 ID","quote":"source_text의 정확한 연속 원문 구절(12~240자)"}],
  "links":[{"text":"이 사실의 text에 정확히 한 번 등장하는 핵심 단어 또는 구절(2~30자)","article_id":"이 사실의 evidence에 있는 기사 ID"}]}],
  "why_it_matters":"독자에게 미치는 영향을 설명하는 절제된 AI 해석(15~300자)"}],
- "overview":[{"text":"사건과 의미를 풀어서 설명하는 한국어 문단(70~300자, 완결된 문장 2~3개)","issue_indexes":[0]}],
+ "overview":[{"sentences":["무슨 일이 있었는지 설명하는 완결된 한국어 문장입니다.","구체적인 사례와 의미 또는 확인해야 할 한계를 설명하는 문장입니다."],"issue_indexes":[0]}],
  "headline":"하루의 주제를 담은 짧은 제목(6~60자, 하나의 관점)",
  "takeaway":"오늘의 한 줄: 독자가 기억할 핵심 의미를 담은 한 문장(20~120자)",
  "article_summaries":[{"article_id":"issues의 evidence에서 실제 사용한 기사 ID",
@@ -45,7 +45,8 @@ JSON만 반환하세요. issues → overview → headline → takeaway → artic
 먼저 issues의 사실과 근거를 정리한 뒤, 그 내용만으로 overview를 작성하세요.
 overview는 독자가 기사 목록을 열지 않아도 하루의 소식을 이해할 수 있는 설명문입니다. 이슈가 여러 개면 2~3문단, 하나면 1~2문단으로 작성하세요.
 overview는 절대로 4문단 이상 만들지 마세요. 이슈별로 한 문단씩 만드는 방식이 아닙니다. 설명할 가치가 큰 논점 2~3개를 고르세요. 나머지 이슈는 issues에만 남겨도 됩니다.
-각 문단은 2~3개의 완결된 문장으로 씁니다. 첫 문장은 무슨 일이 있었는지 구체적으로 설명하고, 이어서 사례와 의미 또는 확인해야 할 한계를 풀어 쓰세요.
+각 문단의 sentences는 완결된 한국어 문장 2~3개를 담은 배열입니다. 항목 하나에는 한 문장만 쓰고 마침표로 끝내세요. 줄바꿈과 말줄임표는 쓰지 마세요.
+문장 하나는 15~250자, 공백으로 이어 붙인 문단 전체는 70~300자입니다. 첫 문장은 무슨 일이 있었는지 구체적으로 설명하고, 이어서 사례와 의미 또는 확인해야 할 한계를 풀어 쓰세요.
 첫 문단부터 가장 설명할 가치가 있는 내용을 말하세요. '최근 24시간 자료에서는', '주요 흐름으로 확인된다', '동시 부상', '양상이 뚜렷하다' 같은 서론과 추상적 결론은 피하세요.
 회사명·모델명·수치와 기사 제목을 압축해 나열하지 마세요. 모든 이슈를 한 문장에 끼워 넣지 마세요. 연결 근거가 없는 사건은 별도 문단으로 설명하며 공통 추세나 인과관계를 만들지 마세요.
 headline은 문단 요약과 구분되는 짧은 제목입니다. 하나의 관점만 담고 기사 제목 여러 개를 가운뎃점·말줄임표로 이어 붙이지 마세요. '신모델 공개·코딩 혁신…AI 경쟁 격화' 같은 기사 나열은 금지합니다.
@@ -63,6 +64,49 @@ article_summaries에는 issues의 evidence에 사용한 모든 기사 ID를 정�
 
 class BriefingValidationError(ValueError):
     """A static validation message safe for operational diagnostics."""
+    def __init__(self, message, *, details=None):
+        super().__init__(message)
+        self.details = details
+
+
+def prose_sentences(text):
+    # Korean endings distinguish prose boundaries from model versions and U.S./Inc.
+    boundary = r'''(?:다|요|죠|까)[.!?。！？]+[”’"'」』)\]]*(?=\s|$)'''
+    result, start = [], 0
+    for match in re.finditer(boundary, text):
+        result.append(text[start:match.end()].strip())
+        start = match.end()
+    if text[start:].strip():
+        result.append(text[start:].strip())
+    return result
+
+
+def prose_shape(text):
+    sentences = prose_sentences(text)
+    ending = r'''(?:다|요|죠|까)[.!?。！？]*[”’"'」』)\]]*$'''
+    return {"characters": len(text), "sentence_count": len(sentences),
+            "complete_endings": bool(sentences) and all(re.search(ending, s) is not None for s in sentences),
+            "has_ellipsis": bool(re.search(r"…|\.{3}", text)), "has_newline": "\n" in text}
+
+
+def overview_text(entry, index):
+    """Normalize whitespace/punctuation only; never invent or drop a sentence."""
+    if "sentences" not in entry:
+        return entry["text"]  # Accept old response fixtures/imports; new schema uses arrays.
+    parts = entry["sentences"]
+    field = f"overview[{index}].sentences"
+    if not isinstance(parts, list) or not 2 <= len(parts) <= 3:
+        raise BriefingValidationError("Overview requires two or three sentences", details={"field": field})
+    result = []
+    for position, part in enumerate(parts):
+        sentence = re.sub(r"\s+", " ", korean(part, 15, 250)).strip()
+        shape = prose_shape(sentence)
+        if shape["sentence_count"] != 1 or not shape["complete_endings"] or shape["has_ellipsis"]:
+            raise BriefingValidationError("Overview item must be one complete sentence",
+                                          details={"field": f"{field}[{position}]", **shape})
+        sentence = re.sub(r'''((?:다|요|죠|까))([”’"'」』)\]]*)$''', r'\1.\2', sentence)
+        result.append(sentence)
+    return " ".join(result)
 
 
 def korean(value, low, high):
@@ -78,15 +122,19 @@ def validate_narrative(headline, overview, issue_count, takeaway=None):
         raise BriefingValidationError("Headline must express one idea, not list news titles")
     if takeaway is not None:
         korean(takeaway, 20, 120)
-        if not re.search(r"(?:다|요)[.!?]?$", takeaway) or len(re.findall(r"[.!?](?:\s|$)", takeaway)) > 1 or "\n" in takeaway or takeaway.strip(' .!?') == headline.strip(' .!?'):
-            raise BriefingValidationError("Takeaway must be one sentence distinct from the title")
+        shape = prose_shape(takeaway)
+        if not shape["complete_endings"] or shape["sentence_count"] != 1 or shape["has_newline"] or shape["has_ellipsis"] or takeaway.strip(' .!?') == headline.strip(' .!?'):
+            raise BriefingValidationError("Takeaway must be one sentence distinct from the title",
+                                          details={"field": "takeaway", **shape})
     minimum, maximum = (2, 3) if issue_count > 1 else (1, 2)
     if not minimum <= len(overview) <= maximum:
         raise BriefingValidationError("Overview must explain the news in short paragraphs")
-    for entry in overview:
+    for index, entry in enumerate(overview):
         paragraph = korean(entry["text"], 70, 300)
-        if re.search(r"…|\.{3}|\n", paragraph) or not 2 <= len(re.findall(r'[.!?](?:[”’"\']?(?:\s|$))', paragraph)) <= 3:
-            raise BriefingValidationError("Overview requires complete sentences, not headline fragments")
+        shape = prose_shape(paragraph)
+        if shape["has_ellipsis"] or shape["has_newline"] or not shape["complete_endings"] or not 2 <= shape["sentence_count"] <= 3:
+            raise BriefingValidationError("Overview requires complete sentences, not headline fragments",
+                                          details={"field": f"overview[{index}].text", **shape})
         if not 1 <= len(entry["issue_ids"]) <= 3:
             raise BriefingValidationError("Overview references must match each paragraph")
 
@@ -288,12 +336,12 @@ def make_edition(value, inputs, articles, sources, now, model, digest):
     if not isinstance(value["overview"], list) or not 1 <= len(value["overview"]) <= 3:
         raise BriefingValidationError("Missing overview")
     overview = []
-    for entry in value["overview"]:
-        if not isinstance(entry, dict) or set(entry) != {"text", "issue_indexes"} or not isinstance(entry["issue_indexes"], list) or not 1 <= len(entry["issue_indexes"]) <= 5:
+    for index, entry in enumerate(value["overview"]):
+        if not isinstance(entry, dict) or set(entry) not in ({"text", "issue_indexes"}, {"sentences", "issue_indexes"}) or not isinstance(entry["issue_indexes"], list) or not 1 <= len(entry["issue_indexes"]) <= 5:
             raise BriefingValidationError("Missing overview references")
         if any(type(i) is not int or not 0 <= i < len(issues) for i in entry["issue_indexes"]):
             raise BriefingValidationError("Unknown overview issue")
-        overview.append({"text": korean(entry["text"], 20, 300), "issue_ids": list(dict.fromkeys(issues[i]["id"] for i in entry["issue_indexes"]))})
+        overview.append({"text": korean(overview_text(entry, index), 70, 300), "issue_ids": list(dict.fromkeys(issues[i]["id"] for i in entry["issue_indexes"]))})
     validate_narrative(headline, overview, len(issues), value["takeaway"])
     source_map = {s["id"]: s for s in sources}
     snapshots = []
@@ -394,9 +442,9 @@ def validate_history(history):
             if not revised_at.tzinfo or revised_at < generated:
                 raise BriefingValidationError("Invalid overview revision time")
             korean(revision["note"], 10, 300)
-        if e["prompt_version"] in ("daily-brief-v3", PROMPT_VERSION) and not e.get("takeaway"):
+        if e["prompt_version"] in ("daily-brief-v3", "daily-brief-v4", PROMPT_VERSION) and not e.get("takeaway"):
             raise BriefingValidationError("Missing daily takeaway")
-        if e["prompt_version"] in ("daily-brief-v2", "daily-brief-v3", PROMPT_VERSION) or revision or e.get("takeaway"):
+        if e["prompt_version"] in ("daily-brief-v2", "daily-brief-v3", "daily-brief-v4", PROMPT_VERSION) or revision or e.get("takeaway"):
             validate_narrative(e["headline"], e["overview"], len(e["issues"]), e.get("takeaway"))
         article_ids = {a["id"] for a in e["articles"]}
         if len(article_ids) != len(e["articles"]):

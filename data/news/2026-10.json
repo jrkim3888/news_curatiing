@@ -4537,14 +4537,14 @@
     {
       "id": "d221188525e699b5e6bb",
       "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
-      "title": "llm-echo 0.5",
+      "title": "llm-echo 0.5 공개: 도구 호출·시스템 프롬프트·추론 토큰 반영",
       "original_title": "llm-echo 0.5",
       "published_at": "2026-10-18T23:16:16+00:00",
       "collected_at": "2026-10-19T13:57:28+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "Release: llm-echo 0.5 I'm working towards a new LLM release, and testing PRs caused me to revisit the llm-echo debug plugin. This plugin provides a \"model\" which doesn't involve…",
       "sources": [
         {
@@ -4552,7 +4552,16 @@
           "url": "https://simonwillison.net/2026/Oct/18/llm-echo",
           "title": "llm-echo 0.5"
         }
-      ]
+      ],
+      "summary": "llm-echo 0.5가 공개됐다. 이 디버그 플러그인은 LLM을 사용하지 않고 입력된 프롬프트를 그대로 반복하는 \"모델\"을 제공하며, 새 버전은 도구 호출, 시스템 프롬프트, 추론 토큰을 고려하도록 시뮬레이션된 토큰 사용량 계산을 업데이트했다. 작성자는 새 LLM 릴리스 작업 중 PR 테스트를 하다가 이 플러그인을 다시 살펴보게 됐다고 밝혔다.",
+      "why_it_matters": "LLM 없이 프롬프트와 토큰 사용량을 모의 실험할 수 있어, LLM 연동 코드의 디버깅과 테스트에 유용한 도구로 보인다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T02:37:48+00:00",
+        "input_hash": "f081bb584d72966358104483764e1b153ef9001f5e2ed0944c96c051326f9a76",
+        "evidence_verified": true
+      }
     },
     {
       "id": "33da8aabe6e16f93a795",

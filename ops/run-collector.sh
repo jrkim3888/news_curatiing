@@ -18,6 +18,14 @@ BRANCH="${NEWS_BRANCH:-main}"
 MODE="${NEWS_MODE:-collect}"
 case "$MODE" in collect|brief) ;; *) echo '[error] NEWS_MODE must be collect or brief.'; exit 1 ;; esac
 COLLECTOR_ARGS=("$MODE")
+if [[ "$MODE" == collect ]]; then
+  COLLECTOR_ARGS+=(--summarize-english)
+fi
+case "${NO_LLM:-false}" in
+  true) COLLECTOR_ARGS+=(--no-llm) ;;
+  false) ;;
+  *) echo '[error] NO_LLM must be true or false.'; exit 1 ;;
+esac
 if [[ -n "${BRIEFING_DATE:-}" ]]; then
   COLLECTOR_ARGS+=(--briefing-date "$BRIEFING_DATE")
 fi
