@@ -502,6 +502,12 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(fields['overview']['maxItems'], 3)
         sentences = fields['overview']['items']['properties']['sentences']
         self.assertEqual((sentences['minItems'], sentences['maxItems']), (2, 3))
+        self.assertEqual((sentences['items']['minLength'], sentences['items']['maxLength']), (35, 98))
+        import re
+        pattern = sentences['items']['pattern']
+        self.assertRegex('연구팀은 새로운 모델 4.1의 평가 결과와 사용 조건을 공개했습니다.', pattern)
+        self.assertIsNone(re.fullmatch(pattern, '첫 번째 문장을 설명했습니다. 두 번째 문장이 이어집니다.'))
+        self.assertIsNone(re.fullmatch(pattern, '연구팀의 새로운 모델 출시 및 평가 결과에 대한 설명'))
         self.assertEqual(fields['article_summaries']['items']['properties']['article_id']['enum'], ['a'*20, 'b'*20])
         self.assertIn('article_summaries', schema['required'])
         self.assertFalse(schema['additionalProperties'])

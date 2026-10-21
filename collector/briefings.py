@@ -46,12 +46,13 @@ JSON만 반환하세요. issues → overview → headline → takeaway → artic
 overview는 독자가 기사 목록을 열지 않아도 하루의 소식을 이해할 수 있는 설명문입니다. 이슈가 여러 개면 2~3문단, 하나면 1~2문단으로 작성하세요.
 overview는 절대로 4문단 이상 만들지 마세요. 이슈별로 한 문단씩 만드는 방식이 아닙니다. 설명할 가치가 큰 논점 2~3개를 고르세요. 나머지 이슈는 issues에만 남겨도 됩니다.
 각 문단의 sentences는 완결된 한국어 문장 2~3개를 담은 배열입니다. 항목 하나에는 한 문장만 쓰고 마침표로 끝내세요. 줄바꿈과 말줄임표는 쓰지 마세요.
-문장 하나는 15~250자, 공백으로 이어 붙인 문단 전체는 70~300자입니다. 첫 문장은 무슨 일이 있었는지 구체적으로 설명하고, 이어서 사례와 의미 또는 확인해야 할 한계를 풀어 쓰세요.
+문장 하나는 35~98자, 공백으로 이어 붙인 문단 전체는 70~300자입니다. 한 항목에 여러 문장을 넣지 마세요. 모든 항목은 '다.'와 같은 완결된 종결 표현으로 끝내세요.
+첫 문장은 무슨 일이 있었는지 구체적으로 설명하고, 이어서 사례와 의미 또는 확인해야 할 한계를 풀어 쓰세요. 긴 영문 약어는 한국어로 풀어 쓰세요.
 첫 문단부터 가장 설명할 가치가 있는 내용을 말하세요. '최근 24시간 자료에서는', '주요 흐름으로 확인된다', '동시 부상', '양상이 뚜렷하다' 같은 서론과 추상적 결론은 피하세요.
 회사명·모델명·수치와 기사 제목을 압축해 나열하지 마세요. 모든 이슈를 한 문장에 끼워 넣지 마세요. 연결 근거가 없는 사건은 별도 문단으로 설명하며 공통 추세나 인과관계를 만들지 마세요.
 headline은 문단 요약과 구분되는 짧은 제목입니다. 하나의 관점만 담고 기사 제목 여러 개를 가운뎃점·말줄임표로 이어 붙이지 마세요. '신모델 공개·코딩 혁신…AI 경쟁 격화' 같은 기사 나열은 금지합니다.
 takeaway는 제목을 반복하지 않고 핵심 의미를 완결된 한 문장으로 전달하세요. 과장된 추세나 미래 예측은 만들지 마세요. 예: 제목 '성능 다음의 질문, 검증과 신뢰', 한 줄 'AI가 만든 결과를 활용하려면, 성능만큼 검증과 보안도 함께 살펴야 합니다.' (제공한 자료가 뒷받침할 때만 사용)
-문체 예시(입력에 이 사실이 있을 때만 사용): 'AI가 코드를 작성해도 제대로 작동하는지 확인하는 일은 남습니다. 레플릿은 같은 오류를 재현할 수 있는 시뮬레이터를 사용하고, 클로드 코드 팀은 작성 도중 검토하는 방식을 소개했습니다. 두 사례는 코드 생성 뒤의 검증 절차도 함께 설계해야 한다는 점을 보여줍니다.'
+sentences 예시(입력에 이 사실이 있을 때만 사용): ["레플릿은 AI가 작성한 코드의 오류를 재현할 수 있는 시뮬레이터를 소개했습니다.", "개발자는 코드 생성 도구를 도입할 때 결과를 검증하는 절차도 함께 설계해야 합니다."]
 overview의 issue_indexes는 issues의 0부터 시작하는 인덱스입니다. 각 문단에 실제로 설명한 이슈 1~3개만 연결하세요. 모든 문단에 모든 이슈를 붙이지 마세요.
 각 이슈의 facts는 1~3개, 각 사실의 evidence는 1~3개입니다. 여러 기사에서 종합한 사실에는 각 기사 근거를 연결하세요.
 각 사실의 links에는 모델명·제품명·평가명·핵심 개념 같은 구절 1~2개만 고르세요(최대 3개). 전체 문장이나 절을 링크로 만들지 마세요. 링크 구절의 합은 해당 text 길이의 절반 이하여야 합니다.
@@ -229,9 +230,9 @@ def prepare_inputs(articles, evidence, now):
 
 def input_hash(inputs, model):
     # Fingerprint the evidence and generation settings independently of the clock.
-    material = {"prompt": PROMPT_VERSION, "model": model, "max_tokens": max_tokens(),
+    material = {"prompt": PROMPT_VERSION, "system": SYSTEM, "model": model, "max_tokens": max_tokens(),
                 "model_options": MODEL_OPTIONS.get(model, {}),
-                "response_format": "json_schema_v1",
+                "response_format": response_format(inputs),
                 "inputs": sorted(inputs, key=lambda i: i["article_id"])}
     return hashlib.sha256(json.dumps(material, ensure_ascii=False, sort_keys=True).encode()).hexdigest()
 

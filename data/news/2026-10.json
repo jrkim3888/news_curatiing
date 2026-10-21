@@ -867,14 +867,14 @@
     {
       "id": "3fd043b79c6a2034a0d6",
       "url": "https://byline.network/2026/10/1020-15",
-      "title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”",
+      "title": "시스코, 소스코드 외부 유출 없이 취약점 점검하는 온프레미스 소형언어모델 '안타레스' 공개",
       "original_title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”",
       "published_at": "2026-10-20T14:17:03+00:00",
       "collected_at": "2026-10-20T18:59:08+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "최근 인공지능(AI) 코딩 도구 확산으로 기업이 관리해야 하는 소프트웨어 코드가 늘면서 보안 취약점 점검에 AI를 활용하는 방안이 주목받고 있다. 챗지피티 등 범용 대형언어모델(LLM)을 활용하면 코드 검증을 자동화할 수 있지만, 외부 클라우드 서버로 소스코드를 전송해야 해 정보 유출 우려가 있고 모델 운영 비용과 …",
       "sources": [
         {
@@ -882,7 +882,17 @@
           "url": "https://byline.network/2026/10/1020-15",
           "title": "시스코 “소스코드 외부 유출 없이 AI로 보안 취약점 잡는다”"
         }
-      ]
+      ],
+      "summary": "시스코가 사내 폐쇄망에서 구동 가능한 개방형 소형언어모델 안타레스를 공개했다. 3억5000만개와 10억개 매개변수 규모로 제공되며 단일 GPU나 모바일 기기 수준에서도 구동된다. 시스코는 18억줄 분량의 자사 제품 소스코드 검사에 안타레스를 활용해 기존 방식으로 약 8년 걸릴 작업을 8주 만에 완료했고 오탐률을 3% 미만으로 낮췄다고 밝혔다.",
+      "why_it_matters": "AI 코딩 도구 확산으로 코드 생산량이 늘면서 망 분리 환경에서도 소스코드를 외부로 보내지 않고 취약점을 점검하려는 기업 수요에 대응하는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v5",
+        "generated_at": "2026-10-21T02:46:21+00:00",
+        "briefing_day": "2026-10-21",
+        "input_hash": "1e0658039fa858e1f4f45853bf8bc07d4c37e36edf28e1220ea6bd016b8fcf7e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "29e059fc3089a68bb383",
@@ -991,14 +1001,14 @@
     {
       "id": "36d7f569bf777955d980",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42369",
-      "title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개",
+      "title": "구글, 모델 가중치 고정한 채 에이전트 실행 환경 진화시키는 '하네스²' 공개",
       "original_title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개",
       "published_at": "2026-10-20T13:48:02+00:00",
       "collected_at": "2026-10-20T14:09:31+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "구글 리서치(Google Research)가 대형언어모델(LLM)의 가중치를 변경하지 않고도 인공지능(AI) 에이전트의 실행 환경을 반복적으로 개선하는 오픈소스 프레임워크 ‘하네스²(Harness²·Harness Squared)’를 공개했다.모델 자체를 재학습하는 대신 프롬프트, 도구 사용법, 메모리, 작업 절차 등…",
       "sources": [
         {
@@ -1006,7 +1016,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42369",
           "title": "“모델 가중치 그대로 두고 ‘AI 에이전트’ 스스로 진화시킨다”...구글, ‘하네스²’ 오픈소스로 공개"
         }
-      ]
+      ],
+      "summary": "구글 리서치가 대형언어모델의 가중치를 변경하지 않고 프롬프트, 도구 사용법, 메모리, 작업 절차 등 실행 환경을 반복 개선하는 오픈소스 프레임워크 하네스²를 공개했다. 정답 레이블 대신 동일 과제에서 설정을 달리했을 때의 행동 차이를 관찰해 개선 근거를 확보하는 이중 재귀 구조를 핵심으로 한다. 구글 리서치 공개 자료에 따르면 세 가지 전문 업무 벤치마크와 네 가지 모델·하네스 구성 조합에서 개선 효과를 보였다.",
+      "why_it_matters": "모델 재학습 없이 실행 환경만 개선해 에이전트 성능을 높이는 접근은 기업이 기존 모델을 활용해 비용 부담을 줄이면서 업무 자동화를 정교화하는 방향을 제시한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v5",
+        "generated_at": "2026-10-21T02:46:21+00:00",
+        "briefing_day": "2026-10-21",
+        "input_hash": "cca01c3505f95f9a2d492b866b4488b7b947ba19089497e8b07787cde844ab2e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b88c78fe3a691d205cb3",
@@ -1156,14 +1176,14 @@
     {
       "id": "be50dc090c3863b51200",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
-      "title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화",
+      "title": "오픈소스 분산 추론 프로젝트 'llm-d 1.0' 공개, 추론 비용 최대 10분의 1로",
       "original_title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화",
       "published_at": "2026-10-20T12:46:53+00:00",
       "collected_at": "2026-10-20T14:09:31+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "에이전트 인공지능(AI)이 기업 현장으로 확산하면서 대형언어모델(LLM)을 얼마나 효율적으로 운영하느냐가 AI 경쟁력의 새로운 변수로 떠오르고 있다. 모델의 성능을 높이는 것만큼 추론 비용을 줄이고, 수많은 AI 에이전트의 요청을 안정적으로 처리하며, 서비스 중단 없이 인프라를 운영하는 기술이 중요해진 것이다.이러한…",
       "sources": [
         {
@@ -1171,7 +1191,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
           "title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화"
         }
-      ]
+      ],
+      "summary": "레드햇, IBM, 구글 클라우드, 코어위브, 엔비디아가 공동 출범한 오픈소스 분산 추론 프로젝트 llm-d의 기업용 1.0 버전이 공개됐다. 최근 실증에서 에이전트 기반 작업의 토큰당 추론 비용을 상용 API 대비 최대 5~10분의 1 수준으로 낮추고 최대 3,000개의 코딩 에이전트를 처리하는 성능을 보였다. 접두부 캐시를 고려한 요청 라우팅, 부하 인식형 라우팅, 키·값 캐시 오프로드, 프리필과 디코드 분리 처리 등을 핵심 기술로 포함한다.",
+      "why_it_matters": "AI 에이전트 확산으로 추론 인프라 비용이 커지는 가운데, 기존 인프라를 활용해 비용과 처리량을 동시에 관리하려는 기업에 선택지를 넓힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v5",
+        "generated_at": "2026-10-21T02:46:21+00:00",
+        "briefing_day": "2026-10-21",
+        "input_hash": "c02fe194cf88727b5ae0cea06cd8abda931ee18eb1523eeed290489c36ae1294",
+        "evidence_verified": true
+      }
     },
     {
       "id": "d74ca0a9dd681eb2da13",
@@ -1416,14 +1446,14 @@
     {
       "id": "aded2ca652cfb8618453",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
-      "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
+      "title": "텐스토렌트, 15억달러 투자 유치로 기업가치 62억달러…인수 대신 독자 노선",
       "original_title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\"",
       "published_at": "2026-10-20T09:14:45+00:00",
       "collected_at": "2026-10-20T14:09:31+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "캐나다의 AI 칩 스타트업 텐스토렌트(Tenstorrent)가 15억달러(약 2조원) 규모의 신규 투자를 유치하며 기업가치를 62억달러(약 8조원)로 끌어올렸다. 인텔과 퀄컴의 인수 가능성이 거론된 지 약 5개월 만에 매각 대신 독자 성장에 나서기로 했다.텐스토렌트는 19일(현지시간) 시리즈E 투자 라운드에서 15억…",
       "sources": [
         {
@@ -1431,7 +1461,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216444",
           "title": "텐스토렌트, 8조 가치로 대규모 투자 유치...\"인수 대신 독자 노선\""
         }
-      ]
+      ],
+      "summary": "캐나다 AI 칩 스타트업 텐스토렌트가 시리즈E 라운드에서 15억달러를 조달하며 기업가치를 62억달러로 끌어올렸다. 트레이스 캐피털이 주도했으며 이노베이션X, 샌디스크, 테더 인베스트먼츠 등이 참여했다. 짐 켈러 CEO는 회사를 매각하는 대신 투자를 받아 독립적으로 성장하는 쪽을 택했으며, 지난 5월 갤럭시 서버로 딥시크 모델을 구동한 시연이 결정적 계기가 됐다고 밝혔다.",
+      "why_it_matters": "AI 인프라 시장에서 대형 반도체 기업의 대안을 표방하는 스타트업이 인수 대신 독자 성장을 택한 사례로, AI 칩 경쟁 구도에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v5",
+        "generated_at": "2026-10-21T02:46:21+00:00",
+        "briefing_day": "2026-10-21",
+        "input_hash": "da1a0e51e1b97fabaff183a74c2590b85b40a69995787d3de9e8cb5d6c5124a3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "dd773da5f7fb2eb9384c",
@@ -2303,14 +2343,14 @@
     {
       "id": "ab5e78a42115c9bc2e61",
       "url": "https://byline.network/2026/10/19-673",
-      "title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험",
+      "title": "앤트로픽, 저사양 IoT 기기에서 AI 웜 자가복제 가능성 실험",
       "original_title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험",
       "published_at": "2026-10-20T00:41:42+00:00",
       "collected_at": "2026-10-20T08:15:22+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "인공지능(AI)이 해킹 도구에서 더 발전해 다른 기기로 옮겨가며 스스로 복제하는 ‘AI 웜(AI Worm)’으로 발전할 수 있다는 연구 결과가 나왔다. 앤트로픽은 지난 12일 인터넷에 연결된 저사양 기기에서도 AI 모델을 실행하고 제한된 환경에서 복제 절차를 수행할 수 있다는 연구 결과를 발표했다. 실제 인터넷에서 …",
       "sources": [
         {
@@ -2318,7 +2358,17 @@
           "url": "https://byline.network/2026/10/19-673",
           "title": "앤트로픽이 검증한 ‘AI 웜’ 자가복제 실험"
         }
-      ]
+      ],
+      "summary": "앤트로픽이 저가형 안드로이드 TV 박스 15대를 연결해 약 260억개 매개변수 AI 모델 젬마4-26B-A4B를 분산 실행하는 등 통제된 환경에서 AI 웜 자가복제 절차를 시험했다. 안드로이드 가상 기기 8개로 구성한 통제된 네트워크에서는 대형 AI 모델 GLM-5.2가 5차례 시험 중 4차례에서 8개 기기 전체로 복제 작업을 확장했다. 앤트로픽은 실제 인터넷에서 AI가 스스로 기기를 감염시키며 확산하는 웜을 구현한 것이 아니며 기기 간 접근에 인증이 필요 없는 환경을 사용했다고 밝혔다.",
+      "why_it_matters": "AI 모델이 스스로 실행 환경을 구성해 다른 기기로 복제될 가능성은 사물인터넷 봇넷 확산과 연결될 수 있어 보안 대비가 필요하다는 점을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v5",
+        "generated_at": "2026-10-21T02:46:21+00:00",
+        "briefing_day": "2026-10-21",
+        "input_hash": "9f9d2980692f60d73b91672cdbdc7d40e87d7b485b828f372c4b7137e1cfb024",
+        "evidence_verified": true
+      }
     },
     {
       "id": "2e80172c4f42d48f313f",

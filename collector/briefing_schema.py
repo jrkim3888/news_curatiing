@@ -26,7 +26,10 @@ def response_format(inputs):
                 "links": array(link, 0, 3)})
     issue = obj({"title": text(5, 140), "category": category,
                  "facts": array(fact, 1, 3), "why_it_matters": text(15, 300)})
-    overview = obj({"sentences": array(text(15, 250), 2, 3),
+    # Even three sentences plus joining spaces/punctuation fit the 300-character paragraph.
+    # Internal periods may occur in model versions; sentence-ending punctuation occurs once.
+    sentence = {**text(35, 98), "pattern": r"^(?:[^.!?。！？\n…]|\.[A-Za-z0-9])+(?:다|요|죠|까)[.!?]$"}
+    overview = obj({"sentences": array(sentence, 2, 3),
                     "issue_indexes": array({"type": "integer", "minimum": 0, "maximum": 4}, 1, 3)})
     summary = obj({"article_id": identity, "title": text(5, 140),
                    "summary": text(30, 600), "why_it_matters": text(15, 300),
