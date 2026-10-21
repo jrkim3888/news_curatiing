@@ -3,6 +3,312 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "3865c8c8839cb25dc0db",
+      "url": "https://theaioperatorstore.gumroad.com/l/uszyx",
+      "title": "Show HN: AI Agent Security Audit Console – offline audit in 15 min",
+      "original_title": "Show HN: AI Agent Security Audit Console – offline audit in 15 min",
+      "published_at": "2026-10-21T19:06:31+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://theaioperatorstore.gumroad.com/l/uszyx",
+          "title": "Show HN: AI Agent Security Audit Console – offline audit in 15 min",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185936"
+        }
+      ]
+    },
+    {
+      "id": "09985939600923f90df2",
+      "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+      "title": "NLnet Publishes More Stringent Generative AI Policy",
+      "original_title": "NLnet Publishes More Stringent Generative AI Policy",
+      "published_at": "2026-10-21T19:06:10+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nlnet.nl/news/2026/20261020-AI-policy.html",
+          "title": "NLnet Publishes More Stringent Generative AI Policy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185930"
+        }
+      ]
+    },
+    {
+      "id": "b0306a9d28fa033705a9",
+      "url": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
+      "title": "AI Hasn't Spurred Widespread Layoffs Yet. Why Not?",
+      "original_title": "AI Hasn't Spurred Widespread Layoffs Yet. Why Not?",
+      "published_at": "2026-10-21T19:02:16+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.library.hbs.edu/working-knowledge/ai-hasnt-spurred-widespread-layoffs-yet-why-not",
+          "title": "AI Hasn't Spurred Widespread Layoffs Yet. Why Not?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185884"
+        }
+      ]
+    },
+    {
+      "id": "6c26dfd3232022f5922e",
+      "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+      "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+      "original_title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+      "published_at": "2026-10-21T18:57:14+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/RichardSocher/status/2112944385415426249",
+          "title": "Flint 40B: Frontier Local LLM (Fast 125 Tps on MacBook)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185801"
+        }
+      ]
+    },
+    {
+      "id": "9e0778332946a62dd873",
+      "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
+      "title": "Running ClickHouse on Nvidia Vera CPU",
+      "original_title": "Running ClickHouse on Nvidia Vera CPU",
+      "published_at": "2026-10-21T18:55:25+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://clickhouse.com/blog/clickhouse-performance-on-nvidia-vera",
+          "title": "Running ClickHouse on Nvidia Vera CPU",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185777"
+        }
+      ]
+    },
+    {
+      "id": "a6473a498e1fa405796e",
+      "url": "https://slidum.com/p/jIKOH_XgqwpjumtD-3dEWRAog_hB5Pq-TBnaIJpK8bQ",
+      "title": "Show HN: Slidum – play AI-generated HTML slide decks from a link, sandboxed",
+      "original_title": "Show HN: Slidum – play AI-generated HTML slide decks from a link, sandboxed",
+      "published_at": "2026-10-21T18:35:47+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://slidum.com/p/jIKOH_XgqwpjumtD-3dEWRAog_hB5Pq-TBnaIJpK8bQ",
+          "title": "Show HN: Slidum – play AI-generated HTML slide decks from a link, sandboxed",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185516"
+        }
+      ]
+    },
+    {
+      "id": "8034e00cf2d912f28014",
+      "url": "https://www.anthropic.com/public-benefit-charter",
+      "title": "Anthropic's Public Benefit Charter",
+      "original_title": "Anthropic's Public Benefit Charter",
+      "published_at": "2026-10-21T18:29:54+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.anthropic.com/public-benefit-charter",
+          "title": "Anthropic's Public Benefit Charter",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185438"
+        }
+      ]
+    },
+    {
+      "id": "ced30c6682e0a6e89461",
+      "url": "https://www.theargumentmag.com/p/what-i-saw-inside-anthropic",
+      "title": "What I saw inside Anthropic: AI lab pushes towards recursive self-improvement",
+      "original_title": "What I saw inside Anthropic: AI lab pushes towards recursive self-improvement",
+      "published_at": "2026-10-21T18:29:29+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theargumentmag.com/p/what-i-saw-inside-anthropic",
+          "title": "What I saw inside Anthropic: AI lab pushes towards recursive self-improvement",
+          "discussion_url": "https://news.ycombinator.com/item?id=50185430"
+        }
+      ]
+    },
+    {
+      "id": "94a5f6526eada9bc0f52",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "original_title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "published_at": "2026-10-21T18:26:30+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
+        }
+      ]
+    },
+    {
+      "id": "40a01666d562060bfdf9",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "title": "Dharma-AI, VocabX로 SLM 추론 비용 77% 절감 주장",
+      "original_title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "published_at": "2026-10-21T17:35:36+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications"
+        }
+      ],
+      "summary": "Dharma-AI 연구진은 포르투갈어 에세이 자동 채점 시스템에서 Qwen3-4B 기반 모델의 토크나이저를 VocabX로 재구성해 측정된 추론 비용을 77.0% 줄였다고 밝혔다. 같은 기반 모델·데이터·학습 레시피·시드로 토크나이저만 달리한 일곱 버전을 RTX 5090과 vLLM에서 500개 요청으로 비교했으며, 응답 토큰 수는 평균 350개에서 101개로 감소했다고 주장했다. 품질 지표는 0.703에서 0.810으로 올랐다고 발표했으나, 이 수치는 아직 심사 중인 논문의 현재 버전에서 나온 것으로 게재 전 변경될 수 있다고 명시했다.",
+      "why_it_matters": "토크나이저를 고정 속성으로 보는 관행에서 벗어나 도메인 특화 어휘 재구성이 소형 모델 서빙 비용을 줄일 수 있다는 주장은, 실제 배포 환경에서 비용 효율을 중시하는 개발자들에게 검토할 만한 방향을 제시한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T19:09:09+00:00",
+        "input_hash": "bfadf0c5d635c7d07146c187615610f3a95b3a4b45a08557867b48fcf1b164f3",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "39cad894cdd240fbe2db",
+      "url": "https://openai.com/index/att-legal",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "original_title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "published_at": "2026-10-21T17:00:00+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/att-legal",
+          "title": "How AT&T is rethinking in-house legal work with OpenAI"
+        }
+      ]
+    },
+    {
+      "id": "5b4e08461387ba3b4483",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "title": "AWS Trainium에서 TorchNeuron 시스템 수준 프로파일링 가이드 (Part 1)",
+      "original_title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "published_at": "2026-10-21T16:04:43+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium."
+        }
+      ],
+      "summary": "AWS가 Trainium 칩과 오픈소스 PyTorch 백엔드 TorchNeuron에서 추론 성능을 체계적으로 분석하는 방법을 다룬 블로그 Part 1을 공개했다. torch.profiler와 NeuronConfig, Neuron Explorer를 사용해 RMSNorm 연산의 세 가지 구현(개별 PyTorch 연산, torch.rms_norm, torch.compile)을 프로파일링하고, 융합(fusion)이 하드웨어 실행 사이의 공백을 제거해 기기 시간을 줄이는 과정을 설명한다.",
+      "why_it_matters": "모델이 느린 이유를 분석하는 방법을 단계별로 제시해, 프로파일링 경험이 없는 실무자도 Trainium 워크로드의 병목을 찾고 융합이나 torch.compile로 개선할 수 있는 워크플로를 제공한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-21T19:09:06+00:00",
+        "input_hash": "aa561ec8583991752942b218821994088021290bb16dc20b80448b624d98f170",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "4fc29aad1946cfedcebc",
+      "url": "https://news.hada.io/topic?id=35761",
+      "title": "PHP2Shell: AI로 PHP의 치명적인 원격 코드 실행 취약점 발견",
+      "original_title": "PHP2Shell: AI로 PHP의 치명적인 원격 코드 실행 취약점 발견",
+      "published_at": "2026-10-21T15:37:45+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wiz Research가 PHP 코어의 메모리 안전성 취약점 을 발견하고, 인증 없이 서버에서 코드를 실행하거나 프로세스 메모리를 읽는 공격을 실증함 취약점은 애플리케이션 코드가 아니라 PHP 엔진 자체 에 있으며, PHP 5.4까지 거슬러 올라가는 버전들이 영향을 받음…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35761",
+          "title": "PHP2Shell: AI로 PHP의 치명적인 원격 코드 실행 취약점 발견"
+        }
+      ]
+    },
+    {
+      "id": "c2ed162a157709f5cb47",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "original_title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "published_at": "2026-10-21T14:58:18+00:00",
+      "collected_at": "2026-10-21T19:08:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster"
+        }
+      ]
+    },
+    {
       "id": "6d140a2bd0d9fd72e1b3",
       "url": "https://github.com/LLMPanel/llmpanel-oss",
       "title": "Open source Control Panel for LLM deployment",
@@ -83,6 +389,11 @@
           "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
           "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
           "discussion_url": "https://news.ycombinator.com/item?id=50181175"
+        },
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
         }
       ]
     },
