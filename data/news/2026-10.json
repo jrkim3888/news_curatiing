@@ -3,6 +3,323 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "eae8f171e09667f0307b",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "title": "AI compute is the new oil–and needs a new market",
+      "original_title": "AI compute is the new oil–and needs a new market",
+      "published_at": "2026-10-22T23:45:16+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+          "title": "AI compute is the new oil–and needs a new market",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202671"
+        }
+      ]
+    },
+    {
+      "id": "f7f9a23c3287daed8deb",
+      "url": "https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science",
+      "title": "The Next Bottleneck in AI for Science",
+      "original_title": "The Next Bottleneck in AI for Science",
+      "published_at": "2026-10-22T23:28:17+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.mixtureofexperts.co/p/the-next-bottleneck-in-ai-for-science",
+          "title": "The Next Bottleneck in AI for Science",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202520"
+        }
+      ]
+    },
+    {
+      "id": "13962f907d9af5db6af5",
+      "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
+      "title": "OpenAI trims valuation target after pitching higher price",
+      "original_title": "OpenAI trims valuation target after pitching higher price",
+      "published_at": "2026-10-22T23:15:44+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc",
+          "title": "OpenAI trims valuation target after pitching higher price",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202402"
+        }
+      ]
+    },
+    {
+      "id": "a82ff7fd560df311b065",
+      "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22",
+      "title": "US appeals court ejects judge from case over AI errors",
+      "original_title": "US appeals court ejects judge from case over AI errors",
+      "published_at": "2026-10-22T23:11:19+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22",
+          "title": "US appeals court ejects judge from case over AI errors",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202373"
+        }
+      ]
+    },
+    {
+      "id": "0f07164c45c94db1efd0",
+      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+      "original_title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+      "published_at": "2026-10-22T23:07:16+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202340"
+        }
+      ]
+    },
+    {
+      "id": "a482f4b8e77d9f70eb95",
+      "url": "https://eng.snap.com/alchemist",
+      "title": "Agentic ML Experimentation at Snap",
+      "original_title": "Agentic ML Experimentation at Snap",
+      "published_at": "2026-10-22T22:57:18+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://eng.snap.com/alchemist",
+          "title": "Agentic ML Experimentation at Snap",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202248"
+        }
+      ]
+    },
+    {
+      "id": "b6d6657fad5ecf52e289",
+      "url": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
+      "title": "GPUs from stolen $500k Nvidia shipment at Brazil airport appear for sale online",
+      "original_title": "GPUs from stolen $500k Nvidia shipment at Brazil airport appear for sale online",
+      "published_at": "2026-10-22T22:45:24+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment",
+          "title": "GPUs from stolen $500k Nvidia shipment at Brazil airport appear for sale online",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202137"
+        }
+      ]
+    },
+    {
+      "id": "e1545bcc45f4c70b2ebb",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "original_title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "published_at": "2026-10-22T22:41:21+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "title": "Cerebras Deploys Trillion-Parameter AI Models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50202098"
+        }
+      ]
+    },
+    {
+      "id": "51888f116f5b083740bc",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "title": "마이크로소프트, 데이터베이스 검증을 RL 보상으로 활용한 ThinkingBox-Training 공개",
+      "original_title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "published_at": "2026-10-22T22:24:34+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+          "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox"
+        }
+      ],
+      "summary": "마이크로소프트가 Hugging Face와 공동으로 데이터베이스 최종 상태를 실행 가능한 검사로 평가하는 ThinkingBox를 훈련 보상으로 사용하는 ThinkingBox-Training을 GitHub에 공개했다. 이들은 507개 작업의 ThinkingBox-Bench와 별개 훈련 풀에서 Qwen3.8-27B를 GRPO로 50스텝 미세조정해, 모든 20회 시도에서 성공한 작업이 38개에서 107개로, 평균 성공률이 51.70%에서 60.78%로 변화했다고 발표했다. 최소 1회 성공 작업 수는 453개에서 446개로 소폭 감소했다.",
+      "why_it_matters": "에이전트의 반복 가능한 성공을 측정하고 훈련 보상으로 직접 연결하려는 시도로, 평균 성공률만으로는 드러나지 않는 신뢰성 차원을 부각한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T23:54:41+00:00",
+        "input_hash": "fd406bb93553bf9d80f1c11060a05e81741e039b60fe6348d8adf95ee5b56aba",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "b514b87bc64d3d97773b",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "original_title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "published_at": "2026-10-22T22:08:24+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo",
+          "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
+        }
+      ]
+    },
+    {
+      "id": "a3283dc585cd475605bb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216515",
+      "title": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까",
+      "original_title": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까",
+      "published_at": "2026-10-22T22:00:00+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "테슬라와 스페이스X의 합병이 본격적으로 논의되고 있습니다. 두 회사는 각각 독립 이사들로 구성된 특별위원회를 설치했으며, 일론 머스크 CEO도 합병에 상당한 장점이 있다고 밝혔습니다. 양사의 기업가치를 합치면 3조5000억달러(약 4634조원)에 달하는 초대형 기업이 탄생하게 됩니다. 월가에서는 합병을 기정사실로 보…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216515",
+          "title": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까"
+        }
+      ]
+    },
+    {
+      "id": "5d8f600a536385f8b0fb",
+      "url": "https://news.hada.io/topic?id=35834",
+      "title": "Arc 브라우저와의 작별, 12월 22일 서비스 종료",
+      "original_title": "Arc 브라우저와의 작별, 12월 22일 서비스 종료",
+      "published_at": "2026-10-22T21:43:01+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Arc가 2026년 12월 22일 종료 . macOS와 Windows용 브라우저는 작동을 멈추며, 기존 사용자는 그전까지 평소처럼 사용하고 기본 업데이트를 받을 수 있음 개발팀은 브라우저 보안 유지에 필요한 작업이 AI 시대에 늘고 있다 며, 엔지니어링팀과 보안팀의 역량을 새 브...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35834",
+          "title": "Arc 브라우저와의 작별, 12월 22일 서비스 종료"
+        }
+      ]
+    },
+    {
+      "id": "f300e9a1c93cfdd62252",
+      "url": "https://news.hada.io/topic?id=35833",
+      "title": "OpenShell - AI 에이전트의 파일과 네트워크 접근을 제어하는 NVIDIA 런타임",
+      "original_title": "OpenShell - AI 에이전트의 파일과 네트워크 접근을 제어하는 NVIDIA 런타임",
+      "published_at": "2026-10-22T21:40:00+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 에이전트에게 작업 권한을 주면서도 파일과 비밀정보, 네트워크 접근 범위를 제한 하는 NVIDIA의 오픈소스 런타임. 에이전트별 정책을 선언하고 실행 중 강제 적용 각 에이전트를 격리된 샌드박스에서 실행 하며, 커널 수준에서 파일 접근과 시스템 호출을 제한. ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35833",
+          "title": "OpenShell - AI 에이전트의 파일과 네트워크 접근을 제어하는 NVIDIA 런타임"
+        }
+      ]
+    },
+    {
+      "id": "d1cc4ab1d566d8152f4f",
+      "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
+      "title": "DE STAAT - FREEDOM (Official Music Video)",
+      "original_title": "DE STAAT - FREEDOM (Official Music Video)",
+      "published_at": "2026-10-22T19:42:26+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are cre…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
+          "title": "DE STAAT - FREEDOM (Official Music Video)"
+        }
+      ]
+    },
+    {
+      "id": "662e68277c6361dd4b95",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "original_title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "published_at": "2026-10-22T19:07:09+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password",
+          "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password"
+        }
+      ]
+    },
+    {
       "id": "b89bdcc5b283482b9847",
       "url": "https://github.com/heyyviv/claude-boot-beats",
       "title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
@@ -20,6 +337,66 @@
           "url": "https://github.com/heyyviv/claude-boot-beats",
           "title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
           "discussion_url": "https://news.ycombinator.com/item?id=50199611"
+        }
+      ]
+    },
+    {
+      "id": "891b7e0bbf66f86d27b7",
+      "url": "https://openai.com/index/decisions-api",
+      "title": "Build more responsive apps with the Decisions API",
+      "original_title": "Build more responsive apps with the Decisions API",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Fast, focused, low-cost decisions for any application.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/decisions-api",
+          "title": "Build more responsive apps with the Decisions API"
+        }
+      ]
+    },
+    {
+      "id": "575971a63ca3280440cc",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "original_title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up",
+          "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up"
+        }
+      ]
+    },
+    {
+      "id": "317abcdd1b20728a7e62",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+      "title": "Canva releases its first image generation model",
+      "original_title": "Canva releases its first image generation model",
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model",
+          "title": "Canva releases its first image generation model"
         }
       ]
     },
@@ -774,6 +1151,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42402",
           "title": "\"AI가 스스로 더 강력한 AI를 만드는 세상\"…'재귀적 자기 개선', 초지능 경쟁의 새로운 분기점"
+        }
+      ]
+    },
+    {
+      "id": "f2128659a8da039552e9",
+      "url": "https://news.hada.io/topic?id=35809",
+      "title": "WorldTUI - 터미널을 흉내 내는 3억 6천만 파라미터 AI 모델",
+      "original_title": "WorldTUI - 터미널을 흉내 내는 3억 6천만 파라미터 AI 모델",
+      "published_at": "2026-10-22T10:35:44+00:00",
+      "collected_at": "2026-10-22T23:54:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "실제 셸이나 파일시스템 없이, 키 입력에 따라 다음 터미널 화면을 예측하는 AI 모델 . 파일을 만들고 vim으로 수정한 뒤 다른 tmux 창에서 읽는 동작까지 흉내 내며, 앞서 입력한 내용도 어느 정도 기억 Qwen2.5-Coder-0.5B를 실제 Docker 터미널 세션으로 미세조정…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35809",
+          "title": "WorldTUI - 터미널을 흉내 내는 3억 6천만 파라미터 AI 모델"
         }
       ]
     },
