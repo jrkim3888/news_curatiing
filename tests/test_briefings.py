@@ -736,11 +736,11 @@ class BriefingTests(unittest.TestCase):
     def test_deepseek_budget_is_reserved_for_visible_summaries(self, request):
         request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
         diagnostics = {}
-        with patch.dict(os.environ, {'BRIEFING_MAX_TOKENS':'18432'}):
+        with patch.dict(os.environ, {}, clear=True):
             briefings.generate([], 'test-only', 'deepseek/deepseek-v4.1-flash', diagnostics=diagnostics)
         payload = json.loads(request.call_args.kwargs['payload'])
         self.assertEqual(payload['reasoning'], {'effort':'none'})
-        self.assertEqual(payload['max_tokens'], 18432)
+        self.assertEqual(payload['max_tokens'], 50000)
         self.assertEqual(payload['provider']['order'], ['ionstream'])
         self.assertEqual(payload['provider']['ignore'], ['digitalocean'])
         self.assertTrue(payload['provider']['allow_fallbacks'])
@@ -808,7 +808,7 @@ class BriefingTests(unittest.TestCase):
     @patch('collector.briefings.request')
     def test_generation_budget_and_safe_diagnostics_on_invalid_json(self, request):
         request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"not JSON"}}],"usage":{"completion_tokens":12}}'
-        for budget in ('18432', '24576'):
+        for budget in ('18432', '24576', '50000'):
             diagnostics = {}
             with patch.dict(os.environ, {'BRIEFING_MAX_TOKENS':budget}), self.assertRaisesRegex(ValueError, 'invalid_response_json'):
                 briefings.generate([], 'test-only', 'z-ai/glm-5.3-flash', diagnostics=diagnostics)
@@ -818,7 +818,7 @@ class BriefingTests(unittest.TestCase):
             self.assertEqual(request.call_args.kwargs['timeout'], 180)
             self.assertEqual(diagnostics['usage']['completion_tokens'], 12)
         with patch.dict(os.environ, {}, clear=True):
-            self.assertEqual(briefings.max_tokens(), 6144 * 3)
+            self.assertEqual(briefings.max_tokens(), 50000)
         request.reset_mock()
         for invalid in ('0', 'abc', '999999'):
             with patch.dict(os.environ, {'BRIEFING_MAX_TOKENS':invalid}), self.assertRaises(ValueError):

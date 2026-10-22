@@ -67,7 +67,8 @@ jobs:
           OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
           MAX_SUMMARIES_PER_RUN: ${{ vars.MAX_SUMMARIES_PER_RUN || '1' }}
           ENGLISH_SUMMARIES_PER_RUN: ${{ vars.ENGLISH_SUMMARIES_PER_RUN || '10' }}
-          BRIEFING_MAX_TOKENS: ${{ vars.BRIEFING_MAX_TOKENS || '18432' }}
+          # Pin the production budget so an older repository variable cannot lower it.
+          BRIEFING_MAX_TOKENS: '50000'
           BRIEFING_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.briefing_date || '' }}
           RETRY_FAILED_BRIEFING: ${{ github.event_name == 'workflow_dispatch' && inputs.retry_failed_briefing || false }}
           SITE_URL: ${{ vars.SITE_URL }}

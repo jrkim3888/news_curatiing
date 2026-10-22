@@ -37,7 +37,7 @@ git push -u origin HEAD:main
 | Repository variable | `OPENROUTER_MODEL` | 사용할 모델 ID. 현재 운영 값 `deepseek/deepseek-v4.1-flash` |
 | Repository variable | `MAX_SUMMARIES_PER_RUN` | `1` 권장. 일일 브리핑은 판별+생성 최대 2회 요청, `0`은 생성 중지 |
 | Repository variable | `ENGLISH_SUMMARIES_PER_RUN` | 수집당 영어 기사 한국어 요약 수. 기본 `10`, 최대 `30`, `0`은 영어 자동 요약 중지 |
-| Repository variable | `BRIEFING_MAX_TOKENS` | 기본 `18432`. 브리핑과 주요 기사별 요약을 합친 출력 한도 |
+| Workflow environment | `BRIEFING_MAX_TOKENS` | `collect.yml`에서 `50000`으로 지정. 브리핑과 주요 기사별 요약을 합친 출력 한도 |
 | Repository variable | `SITE_URL` | 생성한 Pages 주소 또는 연결한 도메인 |
 | Repository variable | `COLLECTION_ENABLED` | 처음에는 `false`, 수동 검증 후 `true` |
 
@@ -45,7 +45,7 @@ git push -u origin HEAD:main
 
 OpenRouter 키에는 별도의 credit limit을 설정하세요. 기본 한도에서 수집 4회 × 영어 기사 최대 10건 + 일일 브리핑의 중복 판별 1회 + 생성 1회로, 하루 최대 42회 유료 요청이 가능합니다. 실제 요청은 확보된 영어 본문·미요약 기사 수에 따라 줄어들며, 이미 요약한 기사와 발행한 브리핑은 재사용합니다. 영어 요약 한도는 `ENGLISH_SUMMARIES_PER_RUN`으로 조정합니다. `MAX_SUMMARIES_PER_RUN=0`은 요약 호출을 중지하고 링크 수집을 계속합니다. 호출 수 한도는 달러 금액의 상한이 아닙니다.
 
-일일 브리핑은 후보 최대 16건을 중복 판별·중요도·출처 다양성 기준으로 검토하고, 작성 요청에는 선정한 **최대 8건**만 전달합니다. 작성용 본문 발췌는 건당 최대 2,400자이며 기본 출력 한도는 **18,432토큰**입니다. `BRIEFING_MAX_TOKENS`로 1,024~65,536 범위에서 설정할 수 있으며 실제 사용 모델의 지원 한도 내에서 지정합니다. 모델에 따라 추론 토큰도 응답 예산에 포함됩니다. 한도를 높인 만큼 항상 소비하는 것은 아니지만 요청당 최대 비용은 늘어날 수 있습니다.
+일일 브리핑은 후보 최대 16건을 중복 판별·중요도·출처 다양성 기준으로 검토하고, 작성 요청에는 선정한 **최대 8건**만 전달합니다. 작성용 본문 발췌는 건당 최대 2,400자이며 기본 출력 한도는 **50,000토큰**입니다. Actions는 `collect.yml`의 `BRIEFING_MAX_TOKENS: '50000'`을 사용하며 같은 이름의 Repository variable은 사용하지 않습니다. 로컬·Oracle 실행은 환경 변수 `BRIEFING_MAX_TOKENS`로 1,024~65,536 범위에서 설정할 수 있으며 실제 사용 모델의 지원 한도 내에서 지정합니다. 모델에 따라 추론 토큰도 응답 예산에 포함됩니다. 한도를 높인 만큼 항상 소비하는 것은 아니지만 요청당 최대 비용은 늘어날 수 있습니다.
 
 `deepseek/deepseek-v4.1-flash`는 OpenRouter 모델 메타데이터상 추론이 선택 사항이고 기본 강도가 `high`입니다. 실제 실행에서 18,432토큰 중 18,404토큰을 추론에 사용해 응답이 잘렸으므로, 이 모델에는 지원되는 `reasoning.effort=none`을 명시합니다. 추론이 필수인 GLM 5.3 Flash는 기존 `low`를 유지합니다. 모델별 옵션은 `collector/llm.py`에 있으며 새 모델로 바꾸면 기본 추론 설정과 지원 옵션도 확인하세요.
 
@@ -105,7 +105,7 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 - `briefing.excluded_previous_articles`는 ID·원문 URL 검사로 제외한 기사 수, `excluded_repeated_stories`는 모델이 최근 사건의 재보도로 제외한 기사 수, `previous_issues_compared`는 비교한 과거 이슈 수입니다. 유료 요청은 중복 판별 1회 + 생성 1회로 최대 2회입니다. 후보가 모두 재보도이면 생성 요청은 하지 않습니다. `coverage_llm`과 `llm`에 각 요청의 모델·토큰·비용·응답 글자 수 진단이 남습니다. `generation_articles`는 실제 작성에 전달한 기사 수, `deferred_articles`는 이번 작성 후보에서 제외된 나머지 새 기사 수, `reusable_article_summaries`는 작성 후보 중 기존 AI 요약을 재사용할 수 있는 기사 수입니다. 나머지 수집 기사도 뉴스 아카이브에서는 조회할 수 있습니다. 실패 재시도는 명시적인 날짜 지정과 재시도 옵션이 필요합니다.
 - Pages에서 `/briefings/` → 날짜를 선택해 당시 요약과 관련 원문을 확인합니다. 날짜당 한 편이며 `/briefings/YYYY-MM-DD/`에서 24시간 집계 범위, 발행 예정·실제 생성 시각을 표시합니다. 첫 성공 생성 전에는 빈 기록 안내가 정상입니다.
 - 날짜별 기록은 Git에 보존됩니다. 캐시를 지워도 기록은 유지됩니다. 단, 실패한 요청의 대기 시간은 캐시 유실 시 보장되지 않습니다.
-- 종합 브리핑과 주요 기사별 요약의 기본 출력 한도는 18,432토큰입니다. 기존 단일 기사 요약 비용을 그대로 적용하지 마세요.
+- 종합 브리핑과 주요 기사별 요약의 기본 출력 한도는 50,000토큰입니다. 기존 단일 기사 요약 비용을 그대로 적용하지 마세요.
 
 ## 실패한 날짜의 브리핑 재발행
 

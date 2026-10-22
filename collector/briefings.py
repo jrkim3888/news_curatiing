@@ -23,7 +23,7 @@ from .network import Robots, request
 PROMPT_VERSION = "daily-brief-v7"
 KST = ZoneInfo("Asia/Seoul")
 MAX_INPUTS = 16
-DEFAULT_MAX_TOKENS = 18432
+DEFAULT_MAX_TOKENS = 50000
 # DigitalOcean returned empty structured completions on two verified requests.
 # Prefer the provider that passed our grounded briefing checks; keep other fallbacks.
 PROVIDER_OPTIONS = {
