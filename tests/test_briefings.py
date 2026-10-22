@@ -32,11 +32,12 @@ def response(inputs):
                  "summary": "새로운 AI 개발 도구를 사용할 수 있다고 발표했습니다. 제공된 원문에서 도구의 기능과 적용 가능성을 확인할 수 있습니다.",
                  "why_it_matters": "개발자는 새로운 도구의 적용 가능성을 원문에서 확인할 수 있습니다.",
                  "category": "개발·도구", "evidence": ["A new AI tool is available."]}
-                for i in inputs[:2]]}
+                for i in inputs[:2] if i.get("needs_summary", True)]}
 
 
 def coverage_response(inputs, *_, **kwargs):
-    return {"coverage": [{"article_id": i['article_id'], "previous_issue_id": None} for i in inputs]}
+    return {"coverage": [{"article_id": i['article_id'], "previous_issue_id": None} for i in inputs],
+            "selected_article_ids": [i["article_id"] for i in inputs[:briefings.MAX_GENERATION_INPUTS]]}
 
 
 class BriefingTests(unittest.TestCase):
@@ -70,7 +71,7 @@ class BriefingTests(unittest.TestCase):
 
     def test_edition_synthesizes_multiple_sources_and_reuses_identical_inputs(self):
         first = self.run_batch()
-        self.assertEqual(first['llm_requests'], 1)
+        self.assertEqual(first['llm_requests'], 2)
         self.assertEqual(first['briefing']['result'], 'created')
         before = encoded(read_history(self.root))
         history = json.loads(before)
@@ -115,6 +116,64 @@ class BriefingTests(unittest.TestCase):
                 self.assertTrue(result['briefing']['validation_error'])
                 self.assertFalse(read_history(self.root)['editions'])
                 self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
+    def test_shortlist_reaches_writer_in_priority_order_with_at_most_eight_articles(self):
+        selected = []
+        def review(inputs, *_, **kwargs):
+            self.assertGreater(len(inputs), 8)
+            value = coverage_response(inputs)
+            selected.extend(i['article_id'] for i in reversed(inputs[-8:]))
+            value['selected_article_ids'] = selected
+            return value
+        def generate(inputs):
+            self.assertEqual([i['article_id'] for i in inputs], selected)
+            return response(inputs)
+        result = self.run_batch(generate=generate, review_coverage=review)
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['generation_articles'], 8)
+        self.assertEqual(result['briefing']['deferred_articles'], result['briefing']['reviewed_articles'] - 8)
+        self.assertEqual(result['llm_requests'], 2)
+
+    def test_shortlist_cannot_reintroduce_duplicates_or_exceed_writer_budget(self):
+        inputs = [{'article_id': str(i)} for i in range(16)]
+        fresh = inputs[1:]
+        for ids in (['0','1'], ['1','1'], ['missing','1'], [str(i) for i in range(1,10)], ['1'], []):
+            with self.subTest(ids=ids), self.assertRaises(briefings.BriefingValidationError):
+                briefings.selected_inputs({'selected_article_ids': ids}, fresh)
+        self.assertEqual(briefings.selected_inputs({'selected_article_ids': []}, []), [])
+        self.assertEqual(briefings.selected_inputs({'selected_article_ids': ['1']}, fresh[:1]), fresh[:1])
+        with patch('collector.briefings.request') as request:
+            with self.assertRaisesRegex(briefings.BriefingValidationError, 'Too many generation'):
+                briefings.generate(inputs, 'test-only', 'test/model')
+            request.assert_not_called()
+
+    def test_all_selected_summaries_are_reused_without_regeneration(self):
+        self.run_batch(generate=lambda _: (_ for _ in ()).throw(SummaryError('output_token_limit')))
+        store = Archive(self.root, self.args.runtime_dir)
+        month = next(iter(store.catalog['news']))
+        items = store.read('news', month)
+        for a in items:
+            a.update(status='summarized', title='이미 검증한 한국어 기사 제목',
+                     summary='이미 생성한 한국어 요약입니다. 동일한 기사의 요약을 반복해서 생성하지 않습니다.',
+                     why_it_matters='기존에 검증된 설명을 계속 읽을 수 있습니다.',
+                     summary_meta={'model':'old/model', 'prompt_version':'old',
+                                   'generated_at':self.now.isoformat(), 'input_hash':'a'*64, 'evidence_verified':True})
+        store.save(news={month:items})
+        store.close()
+        before = copy.deepcopy(read_news(self.root)['articles'])
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        def generate(inputs):
+            self.assertTrue(all(i['needs_summary'] is False for i in inputs))
+            self.assertEqual(briefings.response_format(inputs)['json_schema']['schema']['properties']['article_summaries']['maxItems'], 0)
+            result = response(inputs)
+            self.assertEqual(result['article_summaries'], [])
+            return result
+        report = self.run_batch(generate=generate)
+        self.assertEqual(report['briefing']['result'], 'created')
+        self.assertEqual(report['briefing']['articles_summarized'], 0)
+        self.assertEqual(report['briefing']['reusable_article_summaries'], 8)
+        self.assertEqual(read_news(self.root)['articles'], before)
 
     def test_article_summary_cannot_borrow_another_articles_evidence(self):
         def different_sources(source):
@@ -241,6 +300,7 @@ class BriefingTests(unittest.TestCase):
             excluded.append(inputs[0]['article_id'])
             value = coverage_response(inputs)
             value['coverage'][0]['previous_issue_id'] = recent_coverage[0]['id']
+            value['selected_article_ids'] = [i['article_id'] for i in inputs[1:9]]
             return value
         def generate(inputs):
             self.assertNotIn(excluded[0], {i['article_id'] for i in inputs})
@@ -263,7 +323,7 @@ class BriefingTests(unittest.TestCase):
             entries[0]['title'] += ' repeated by another source'
             return entries, note
         def repeated(inputs, *_, **kwargs):
-            return {'coverage': [{'article_id': i['article_id'], 'previous_issue_id': previous} for i in inputs]}
+            return {'coverage': [{'article_id': i['article_id'], 'previous_issue_id': previous} for i in inputs], 'selected_article_ids': []}
         result = self.run_batch(generate=lambda _: self.fail('All duplicates reached the writer'),
                                 review_coverage=repeated, fetch_source=changed)
         self.assertEqual(result['briefing']['result'], 'no_new_issues')
@@ -326,7 +386,7 @@ class BriefingTests(unittest.TestCase):
         self.args.retry_failed_briefing = True
         retried = self.run_batch()
         self.assertEqual(retried['briefing']['result'], 'created')
-        self.assertEqual(retried['llm_requests'], 1)
+        self.assertEqual(retried['llm_requests'], 2)
         self.assertIn('previous_attempt_at', retried['briefing'])
         after = json.loads(path.read_text())
         self.assertEqual(after['daily:2020-01-01'], attempts['daily:2020-01-01'])
@@ -560,10 +620,10 @@ class BriefingTests(unittest.TestCase):
 
     def test_daily_job_recovers_missing_morning_collection_before_generation(self):
         with redirect_stdout(io.StringIO()), patch.dict(os.environ, {'OPENROUTER_API_KEY':'test-only', 'OPENROUTER_MODEL':'test/model', 'MAX_SUMMARIES_PER_RUN':'1'}):
-            result = run_daily(self.args, fetch_source=self.fetch, generate_briefing=lambda inputs,*_,**kwargs:response(inputs), now=self.now)
+            result = run_daily(self.args, fetch_source=self.fetch, generate_briefing=lambda inputs,*_,**kwargs:response(inputs), review_coverage=coverage_response, now=self.now)
         self.assertTrue(result['collection_recovered'])
         self.assertEqual(result['briefing']['result'], 'created')
-        self.assertEqual(result['llm_requests'], 1)
+        self.assertEqual(result['llm_requests'], 2)
 
     def test_first_day_briefing_reads_both_news_months(self):
         self.now = datetime(2026, 11, 1, 0, 0, tzinfo=UTC)
@@ -609,6 +669,20 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(request.call_count, 1)
 
     @patch('collector.briefings.request')
+    def test_empty_provider_response_has_a_distinct_error_and_is_not_retried(self, request):
+        for content in (None, '', '   '):
+            with self.subTest(content=content):
+                request.reset_mock()
+                request.return_value = json.dumps({'choices':[{'finish_reason':'stop','message':{'content':content}}],
+                                                   'usage':{'completion_tokens':1}}).encode()
+                diagnostics = {}
+                with self.assertRaisesRegex(SummaryError, 'empty_response'):
+                    briefings.generate([], 'test-only', 'test/model', diagnostics=diagnostics)
+                self.assertEqual(diagnostics['finish_reason'], 'stop')
+                self.assertEqual(diagnostics['usage']['completion_tokens'], 1)
+                self.assertEqual(request.call_count, 1)
+
+    @patch('collector.briefings.request')
     def test_provider_schema_bounds_issues_and_known_article_ids(self, request):
         request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
         briefings.generate([{'article_id':'a'*20}, {'article_id':'b'*20}], 'test-only', 'test/model')
@@ -648,7 +722,7 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(payload['max_tokens'], 2048)
         self.assertEqual(payload['reasoning'], {'effort': 'none'})
         fields = payload['response_format']['json_schema']['schema']['properties']
-        self.assertEqual(set(fields), {'coverage'})
+        self.assertEqual(set(fields), {'coverage', 'selected_article_ids'})
         self.assertEqual(fields['coverage']['items']['properties']['previous_issue_id']['enum'],
                          [None, '2026-10-20/issue-1'])
         body = json.loads(payload['messages'][1]['content'])
@@ -667,6 +741,10 @@ class BriefingTests(unittest.TestCase):
         payload = json.loads(request.call_args.kwargs['payload'])
         self.assertEqual(payload['reasoning'], {'effort':'none'})
         self.assertEqual(payload['max_tokens'], 18432)
+        self.assertEqual(payload['provider']['order'], ['ionstream'])
+        self.assertEqual(payload['provider']['ignore'], ['digitalocean'])
+        self.assertTrue(payload['provider']['allow_fallbacks'])
+        self.assertTrue(payload['provider']['require_parameters'])
         self.assertEqual(diagnostics['reasoning'], {'effort':'none'})
         self.assertEqual(request.call_count, 1)
 
@@ -680,7 +758,7 @@ class BriefingTests(unittest.TestCase):
         result = self.run_batch(generate=generated)
         self.assertEqual(result['briefing']['result'], 'created')
         edition = read_history(self.root)['editions'][0]
-        self.assertEqual(edition['prompt_version'], 'daily-brief-v6')
+        self.assertEqual(edition['prompt_version'], 'daily-brief-v7')
         self.assertEqual(edition['overview'][0]['text'], response([])['overview'][0]['text'])
 
     def test_prose_handles_abbreviations_versions_quotes_and_rejects_fragments(self):
@@ -755,7 +833,7 @@ class BriefingTests(unittest.TestCase):
         self.args.retry_failed_briefing = True
         output = io.StringIO()
         with redirect_stdout(output), patch.dict(os.environ, {'OPENROUTER_API_KEY':'secret-test', 'OPENROUTER_MODEL':'test/model', 'MAX_SUMMARIES_PER_RUN':'1', 'GITHUB_ACTIONS':'true'}):
-            result = run_daily(self.args, fetch_source=self.fetch, now=self.now)
+            result = run_daily(self.args, fetch_source=self.fetch, review_coverage=coverage_response, now=self.now)
         report = json.loads((self.args.runtime_dir / 'last-run.json').read_text())
         self.assertEqual(report, result)
         self.assertEqual(report['llm']['usage']['completion_tokens'], 18432)

@@ -26,7 +26,8 @@ test('history is reachable from home and distinguishes news from briefings', asy
     await expect(page.locator('.brief-day-card')).toHaveCount(
       Math.min(12, days.size),
     );
-    await page.locator('#history-query').fill('no-matching-briefing-12345');
+    // Use one nonexistent token; hyphenated common words can match new articles.
+    await page.locator('#history-query').fill('qzxvbriefingnotfound987654321');
     await expect(page.locator('#history-empty')).toBeVisible();
     await page.locator('#history-reset').click();
     await expect(page.locator('.brief-day-card:visible')).toHaveCount(

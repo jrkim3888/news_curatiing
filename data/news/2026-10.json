@@ -331,14 +331,14 @@
     {
       "id": "5731a1179ec95c020736",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216499",
-      "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+      "title": "AI가 찾은 PHP 취약점에 유럽 정부 사이트 긴급 중단",
       "original_title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
       "published_at": "2026-10-21T20:47:30+00:00",
       "collected_at": "2026-10-21T23:55:14+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "AI가 웹사이트 구동에 널리 쓰이는 프로그래밍 언어 PHP에서 중대 보안 취약점을 찾아내면서 유럽 정부와 병원, 학교 등이 웹사이트를 잇달아 중단했다. 공격자가 서버를 장악할 수 있는 결함이 확인되자 피해를 막기 위해 접속부터 차단한 것이다. 긴급 수정본은 배포됐지만, 공격자 역시 AI로 이를 분석해 업데이트하지 않…",
       "sources": [
         {
@@ -346,7 +346,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216499",
           "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단"
         }
-      ]
+      ],
+      "summary": "AI가 웹사이트 서버 언어 PHP에서 서버 장악이 가능한 취약점 두 개를 찾아내자 유럽 정부와 병원, 학교 등이 웹사이트를 중단했다. 긴급 수정본이 배포됐지만 공격자도 AI로 이를 분석할 수 있어 업데이트하지 않은 서버의 위험이 남아 있다.",
+      "why_it_matters": "널리 쓰이는 기반 기술의 결함이 AI로 빠르게 드러나면서 신속한 패치 적용이 보안의 핵심이 됐다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v7",
+        "generated_at": "2026-10-22T04:08:42+00:00",
+        "briefing_day": "2026-10-22",
+        "input_hash": "e4e68710707935df6b9823e9031dd2a43c6f346a901f9fd3d30ed538af4e41b0",
+        "evidence_verified": true
+      }
     },
     {
       "id": "28d2d91eea7189ef4a1a",
@@ -579,14 +589,14 @@
     {
       "id": "94a5f6526eada9bc0f52",
       "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "title": "엔비디아, 학습 없는 관계형 파운데이션 모델 공개",
       "original_title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
       "published_at": "2026-10-21T18:26:30+00:00",
       "collected_at": "2026-10-21T19:08:44+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -594,7 +604,17 @@
           "url": "https://huggingface.co/blog/nvidia/kumo-relational",
           "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required"
         }
-      ]
+      ],
+      "summary": "엔비디아가 사전 학습된 관계형 파운데이션 모델 쿠모 릴레이셔널을 공개했으며, 과제별 학습이나 피처 엔지니어링 없이 예측한다고 밝혔다. 15개 데이터베이스의 41개 과제에서 지도학습 모델을 앞섰고 SAP 기업 벤치마크에서는 오토글루온 앙상블보다 평균역순위가 8% 높았다고 주장했다.",
+      "why_it_matters": "기업 데이터베이스 예측에 별도 학습과 피처 설계 부담을 줄일 수 있다는 주장으로, 실무 적용 가능성과 검증이 관건이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v7",
+        "generated_at": "2026-10-22T04:08:42+00:00",
+        "briefing_day": "2026-10-22",
+        "input_hash": "b69963f36d8bb3bacf09d844b23b21c826f74bd8f85d4ee8b61cf94ab0a36d4f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "65d1f116dfc064015180",
@@ -820,28 +840,38 @@
     {
       "id": "de9db6f384cbc7887755",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+      "title": "오픈AI, PHP 취약점 대응 연합 조율하고 방어자 지원 확대",
       "original_title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
       "published_at": "2026-10-21T14:03:43+00:00",
       "collected_at": "2026-10-21T14:22:37+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
+        },
         {
           "source_id": "hackernews",
           "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
           "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
           "discussion_url": "https://news.ycombinator.com/item?id=50181175"
-        },
-        {
-          "source_id": "openai",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities"
         }
-      ]
+      ],
+      "summary": "오픈AI는 자사가 주도한 연합이 PHP 취약점 대응을 조율했고, GPT-5.6 솔을 활용한 캘리프와 위즈가 각각 결함을 발견했다고 밝혔다. 회사는 방어자 지원을 위해 10억 달러 규모의 지원 접근을 약속했다.",
+      "why_it_matters": "AI가 공격자보다 먼저 취약점을 찾는 방어자 우위를 만들 수 있다는 주장으로, 대응 체계의 확장 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v7",
+        "generated_at": "2026-10-22T04:08:42+00:00",
+        "briefing_day": "2026-10-22",
+        "input_hash": "6729807de7b4235a2fd55a84196ab6db6bfadabd9c9f6adf4ce9a3116e053d0a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ca357d9c25733405ad11",
@@ -950,14 +980,14 @@
     {
       "id": "ce1bc6cf05651577dfda",
       "url": "https://byline.network/2026/10/1021-8",
-      "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+      "title": "핀다, 핀테크 최초 저축은행 인수하고 AI 뱅킹 추진",
       "original_title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
       "published_at": "2026-10-21T13:24:20+00:00",
       "collected_at": "2026-10-21T14:22:37+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "핀테크 기업 핀다가 대원저축은행 인수를 계기로 금융상품 비교·중개를 넘어 직접 금융상품을 설계하고 공급하는 사업자로 영역을 넓힌다. 금융 데이터와 인공지능(AI)을 결합한 뱅킹 서비스 구축을 추진하는 동시에 보험업계 고객 발굴 사업과 전문 인력 영입에도 나서면서 사업 모델 다변화를 시도하고 있다.…",
       "sources": [
         {
@@ -965,7 +995,17 @@
           "url": "https://byline.network/2026/10/1021-8",
           "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수"
         }
-      ]
+      ],
+      "summary": "핀다가 금융위원회 승인을 받아 대원저축은행 지분 60%를 확보했으며, 국내 핀테크 기업의 저축은행 인수는 처음이다. 핀다는 금융 데이터와 AI를 결합한 AI 네이티브 뱅킹을 추진하고 JB금융은 리스크 관리와 규제 대응을 지원한다.",
+      "why_it_matters": "비교·중개에 머물던 핀테크가 직접 금융상품을 공급하게 되면서 금융 접근성과 규제 대응이 함께 시험대에 오른다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v7",
+        "generated_at": "2026-10-22T04:08:42+00:00",
+        "briefing_day": "2026-10-22",
+        "input_hash": "541a339c2d7e0583236aa999965b7a9d3ef0e3aec5dfff8d13ec15a691c31655",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b1215e1aefc04c61e203",
@@ -1137,14 +1177,14 @@
     {
       "id": "1ba50299caf1f65a0b98",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
-      "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
+      "title": "동남아 디지털 경제 487조원 전망, AI 이용자 2억4300만명",
       "original_title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
       "published_at": "2026-10-21T09:49:48+00:00",
       "collected_at": "2026-10-21T14:22:37+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "동남아시아 디지털 경제가 생성형 인공지능(AI)의 일상화와 산업 전반의 도입 확대에 힘입어 2026년 3680억달러(약 487조원) 규모로 성장할 전망이다. 생성형 AI를 일상적으로 활용하는 동남아시아인은 2억4300만명에 달하며, 소비자가 AI 에이전트에 상품 비교와 구매까지 맡기는 ‘에이전틱 커머스(Agentic…",
       "sources": [
         {
@@ -1152,7 +1192,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
           "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명"
         }
-      ]
+      ],
+      "summary": "구글·테마섹·베인 보고서는 동남아 디지털 경제 상품 거래액이 전년 대비 17% 늘어 3680억달러에 이를 것으로 전망했다. 생성형 AI를 일상적으로 쓰는 인구는 2억4300만명이며 응답자 75%는 AI 에이전트의 대리 구매를 이용할 의향이 있다고 답했다.",
+      "why_it_matters": "AI가 검색·추천을 넘어 구매 결정까지 대신하면서 동남아 디지털 시장의 성장 방식과 신뢰 요건이 달라지고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v7",
+        "generated_at": "2026-10-22T04:08:42+00:00",
+        "briefing_day": "2026-10-22",
+        "input_hash": "4bff16c55c5a37a1db55633db01630a7012e947dab7ca16dcc0a87be55c90229",
+        "evidence_verified": true
+      }
     },
     {
       "id": "24f50db3e043ed4cfdba",
@@ -1235,14 +1285,14 @@
     {
       "id": "a9c1ebb4798f10940cf8",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
-      "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+      "title": "오픈AI, 챗GPT에 채팅 잠금 기능 도입",
       "original_title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
       "published_at": "2026-10-21T08:57:53+00:00",
       "collected_at": "2026-10-21T14:22:37+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "오픈AI가 '챗GPT'의 개인정보 보호 기능을 강화하고 민감한 대화에 대한 접근을 제한하는 새로운 기능을 선보였다. 대화 기록과 메모리를 일반 채팅과 분리해 사적인 정보가 노출될 가능성을 줄이는 데 초점을 맞췄다. 오픈AI는 20일(현지시간) 챗GPT에서 민감한 대화를 별도로 보호할 수 있는 '채팅 잠금(Locked…",
       "sources": [
         {
@@ -1250,7 +1300,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
           "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입"
         }
-      ]
+      ],
+      "summary": "오픈AI가 챗GPT에 민감한 대화를 일반 기록과 분리해 PIN이나 생체 인증으로 잠그는 채팅 잠금 기능을 도입했다. 잠긴 대화는 별도 메모리에 저장되지만 종단간 암호화나 저장 데이터 처리 방식 변경은 아니며 PIN 재설정 시 영구 삭제된다.",
+      "why_it_matters": "대화 노출을 줄이는 편의 기능이지만 저장 데이터 자체의 보안 강화는 아니라는 점을 사용자가 구분해 이해할 필요가 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v7",
+        "generated_at": "2026-10-22T04:08:42+00:00",
+        "briefing_day": "2026-10-22",
+        "input_hash": "2091d3e4cf1c0ab4e1b28d32759cb411a1467f98dc57b4ec7a4371bfd3cde325",
+        "evidence_verified": true
+      }
     },
     {
       "id": "251075537ed49ae5b4a2",

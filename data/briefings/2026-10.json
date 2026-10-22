@@ -3,6 +3,324 @@
   "month": "2026-10",
   "editions": [
     {
+      "id": "2026-10-22",
+      "day": "2026-10-22",
+      "scheduled_at": "2026-10-21T21:30:00+00:00",
+      "generated_at": "2026-10-22T04:08:42+00:00",
+      "window_start": "2026-10-20T21:00:00+00:00",
+      "window_end": "2026-10-21T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI가 찾아낸 취약점과 일상으로 들어온 AI",
+      "takeaway": "오늘의 한 줄: AI가 보안 결함을 빠르게 찾아내는 동시에 대화 보호와 금융, 소비 영역까지 파고들면서 활용과 검증을 함께 요구하고 있습니다.",
+      "overview": [
+        {
+          "text": "인공지능이 웹사이트 서버 언어인 PHP에서 서버를 장악할 수 있는 취약점을 찾아내면서 유럽 정부와 병원, 학교 등이 웹사이트를 긴급 중단했습니다. 오픈AI는 자사 주도 연합이 대응을 조율했고 GPT-5.6 솔을 활용한 캘리프와 위즈가 결함을 발견했다고 밝혔으며, 수정본이 나왔지만 적용 전까지 위험이 남아 있습니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "오픈AI는 챗GPT에서 민감한 대화를 일반 기록과 분리해 잠그는 채팅 잠금 기능을 도입했습니다. 이 기능은 대화 노출을 줄여주지만 종단간 암호화나 저장 데이터 처리 방식의 변경은 아니어서 보안 범위를 구분해 이해할 필요가 있습니다.",
+          "issue_ids": [
+            "issue-2"
+          ]
+        },
+        {
+          "text": "엔비디아는 별도 학습 없이 기업 데이터베이스에서 예측하는 관계형 파운데이션 모델을 공개했고, 핀다는 핀테크 최초로 저축은행을 인수해 AI 기반 금융상품 공급에 나섰습니다. 동남아에서는 생성형 AI 이용자가 2억4300만명에 이르고 AI 에이전트 구매 의향이 75%로 나타나는 등 AI가 산업 구조와 소비 방식에 깊숙이 들어오고 있습니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "AI가 PHP에서 서버 장악 가능한 취약점 발견, 각국 정부 사이트 긴급 중단",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "AI가 웹사이트 서버 언어 PHP에서 서버 장악이 가능한 취약점 두 개를 찾아내자 유럽 정부와 병원, 학교 등이 웹사이트를 중단했다.",
+              "article_ids": [
+                "5731a1179ec95c020736"
+              ],
+              "links": [
+                {
+                  "text": "PHP",
+                  "article_id": "5731a1179ec95c020736"
+                }
+              ]
+            },
+            {
+              "text": "오픈AI는 자사 주도 연합이 PHP 취약점 대응을 조율했고, GPT-5.6 솔을 쓴 캘리프와 위즈가 각각 결함을 발견했다고 밝혔다.",
+              "article_ids": [
+                "de9db6f384cbc7887755",
+                "5731a1179ec95c020736"
+              ],
+              "links": [
+                {
+                  "text": "GPT-5.6 솔",
+                  "article_id": "de9db6f384cbc7887755"
+                },
+                {
+                  "text": "캘리프",
+                  "article_id": "5731a1179ec95c020736"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "널리 쓰이는 기반 기술의 결함이 AI로 빠르게 발견되면서, 서버 관리자와 기관의 신속한 패치 적용이 보안의 핵심이 됐다.",
+          "article_ids": [
+            "5731a1179ec95c020736",
+            "de9db6f384cbc7887755"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "오픈AI, 챗GPT에 민감한 대화 숨기는 '채팅 잠금' 도입",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "오픈AI가 챗GPT에 민감한 대화를 일반 기록과 분리해 PIN이나 생체 인증으로 잠그는 '채팅 잠금' 기능을 도입했다.",
+              "article_ids": [
+                "a9c1ebb4798f10940cf8"
+              ],
+              "links": [
+                {
+                  "text": "채팅 잠금",
+                  "article_id": "a9c1ebb4798f10940cf8"
+                }
+              ]
+            },
+            {
+              "text": "잠긴 대화는 별도 메모리에 저장되지만 종단간 암호화나 저장 데이터 처리 방식 변경은 아니며, PIN 재설정 시 영구 삭제된다.",
+              "article_ids": [
+                "a9c1ebb4798f10940cf8"
+              ],
+              "links": [
+                {
+                  "text": "종단간 암호화",
+                  "article_id": "a9c1ebb4798f10940cf8"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "대화 노출을 줄이는 편의 기능이지만, 저장 데이터 자체의 보안 강화는 아니라는 점을 사용자가 구분해 이해할 필요가 있다.",
+          "article_ids": [
+            "a9c1ebb4798f10940cf8"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "엔비디아, 학습 없이 관계형 데이터 예측하는 파운데이션 모델 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "엔비디아가 사전 학습된 관계형 파운데이션 모델 '쿠모 릴레이셔널'을 공개했으며, 과제별 학습이나 피처 엔지니어링 없이 예측한다고 밝혔다.",
+              "article_ids": [
+                "94a5f6526eada9bc0f52"
+              ],
+              "links": [
+                {
+                  "text": "쿠모 릴레이셔널",
+                  "article_id": "94a5f6526eada9bc0f52"
+                }
+              ]
+            },
+            {
+              "text": "엔비디아는 15개 데이터베이스의 41개 과제에서 지도학습 모델을 앞섰고, SAP 기업 벤치마크에서는 오토글루온 앙상블보다 평균역순위가 8% 높았다고 주장했다.",
+              "article_ids": [
+                "94a5f6526eada9bc0f52"
+              ],
+              "links": [
+                {
+                  "text": "오토글루온",
+                  "article_id": "94a5f6526eada9bc0f52"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "기업 데이터베이스 예측에 별도 학습과 피처 설계 부담을 줄일 수 있다는 주장으로, 실무 적용 가능성과 검증이 관건이다.",
+          "article_ids": [
+            "94a5f6526eada9bc0f52"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "핀다, 핀테크 최초 저축은행 인수…AI 네이티브 뱅킹 추진",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "핀다가 금융위원회 승인을 받아 대원저축은행 지분 60%를 확보했으며, 국내 핀테크 기업의 저축은행 인수는 처음이다.",
+              "article_ids": [
+                "ce1bc6cf05651577dfda"
+              ],
+              "links": [
+                {
+                  "text": "대원저축은행",
+                  "article_id": "ce1bc6cf05651577dfda"
+                }
+              ]
+            },
+            {
+              "text": "핀다는 금융 데이터와 AI를 결합한 AI 네이티브 뱅킹을 추진하고, JB금융은 전북은행을 통해 리스크 관리와 규제 대응을 지원한다.",
+              "article_ids": [
+                "ce1bc6cf05651577dfda"
+              ],
+              "links": [
+                {
+                  "text": "AI 네이티브 뱅킹",
+                  "article_id": "ce1bc6cf05651577dfda"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "비교·중개에 머물던 핀테크가 직접 금융상품을 공급하게 되면서 금융 접근성과 규제 대응이 함께 시험대에 오른다.",
+          "article_ids": [
+            "ce1bc6cf05651577dfda"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "동남아 디지털 경제 487조원 전망…AI 이용자 2억4300만명",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "구글·테마섹·베인 보고서는 동남아 디지털 경제 상품 거래액이 전년 대비 17% 늘어 3680억달러에 이를 것으로 전망했다.",
+              "article_ids": [
+                "1ba50299caf1f65a0b98"
+              ],
+              "links": [
+                {
+                  "text": "3680억달러",
+                  "article_id": "1ba50299caf1f65a0b98"
+                }
+              ]
+            },
+            {
+              "text": "생성형 AI를 일상적으로 쓰는 인구는 2억4300만명으로 전체 취업 인구의 58%이며, 응답자 75%는 AI 에이전트의 대리 구매를 이용할 의향이 있다고 답했다.",
+              "article_ids": [
+                "1ba50299caf1f65a0b98"
+              ],
+              "links": [
+                {
+                  "text": "2억4300만명",
+                  "article_id": "1ba50299caf1f65a0b98"
+                },
+                {
+                  "text": "AI 에이전트",
+                  "article_id": "1ba50299caf1f65a0b98"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 검색·추천을 넘어 구매 결정까지 대신하면서 동남아 디지털 시장의 성장 방식과 신뢰 요건이 달라지고 있다.",
+          "article_ids": [
+            "1ba50299caf1f65a0b98"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "5731a1179ec95c020736",
+          "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+          "published_at": "2026-10-21T20:47:30+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216499",
+              "title": "웹사이트 70% 쓰는 PHP서 AI가 결함 발견…각국 정부 사이트 중단",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "94a5f6526eada9bc0f52",
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "published_at": "2026-10-21T18:26:30+00:00",
+          "sources": [
+            {
+              "source_id": "huggingface",
+              "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+              "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+              "name": "Hugging Face Blog",
+              "role": "official_community"
+            }
+          ]
+        },
+        {
+          "id": "de9db6f384cbc7887755",
+          "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+          "published_at": "2026-10-21T14:03:43+00:00",
+          "sources": [
+            {
+              "source_id": "openai",
+              "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+              "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+              "name": "OpenAI News",
+              "role": "official"
+            },
+            {
+              "source_id": "hackernews",
+              "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+              "title": "OpenAI: Patch the Planet. Global response coordination as AI uncovers PHP vulns",
+              "discussion_url": "https://news.ycombinator.com/item?id=50181175",
+              "name": "Hacker News",
+              "role": "signal"
+            }
+          ]
+        },
+        {
+          "id": "ce1bc6cf05651577dfda",
+          "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+          "published_at": "2026-10-21T13:24:20+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/10/1021-8",
+              "title": "핀다, 핀테크 플랫폼 최초 저축은행 인수",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "1ba50299caf1f65a0b98",
+          "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
+          "published_at": "2026-10-21T09:49:48+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42384",
+              "title": "동남아 디지털 경제, 올해 487조원 돌파…AI 이용자 2억4300만명",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "a9c1ebb4798f10940cf8",
+          "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+          "published_at": "2026-10-21T08:57:53+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216470",
+              "title": "오픈AI, 챗GPT에 사적 대화 숨기는 '채팅 잠금' 기능 도입",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v7",
+      "input_hash": "02085b0a71bfc5f23452e700267a0a8f7379079339ee070ffe893876172d874c"
+    },
+    {
       "id": "2026-10-21",
       "day": "2026-10-21",
       "scheduled_at": "2026-10-20T21:30:00+00:00",

@@ -245,16 +245,19 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     report['briefing']['excluded_repeated_stories'] = 0
     stage = "coverage_review"
     try:
-        if recent_coverage:
+        if recent_coverage or len(inputs) > briefings.MAX_GENERATION_INPUTS:
             report['llm_requests'] += 1
             coverage = review_coverage(inputs, key, model, recent_coverage=recent_coverage,
                                        diagnostics=report['coverage_llm'])
             stage = 'coverage_validation'
             fresh = briefings.uncovered_inputs(coverage, inputs, recent_coverage)
             report['briefing']['excluded_repeated_stories'] = len(inputs) - len(fresh)
-            inputs = fresh
+            inputs = briefings.selected_inputs(coverage, fresh)
+            report['briefing']['deferred_articles'] = len(fresh) - len(inputs)
             if not inputs:
                 return finish('no_new_issues')
+        report['briefing']['generation_articles'] = len(inputs)
+        report['briefing']['reusable_article_summaries'] = sum(not i['needs_summary'] for i in inputs)
         digest = briefings.input_hash(inputs, model, recent_coverage)
         stage = 'generation'
         report['llm_requests'] += 1
