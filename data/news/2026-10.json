@@ -3,6 +3,558 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "dcc0fbc6c3f30ef03ba2",
+      "url": "https://www.livecoloringbook.com/how-it-was-built",
+      "title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
+      "original_title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
+      "published_at": "2026-10-22T14:16:47+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.livecoloringbook.com/how-it-was-built",
+          "title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195681"
+        }
+      ]
+    },
+    {
+      "id": "9dd53296deee0f9c30b8",
+      "url": "https://selfgpt.pages.dev/",
+      "title": "Show HN: Using an LLM chat template in reverse to play the user",
+      "original_title": "Show HN: Using an LLM chat template in reverse to play the user",
+      "published_at": "2026-10-22T14:11:04+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://selfgpt.pages.dev/",
+          "title": "Show HN: Using an LLM chat template in reverse to play the user",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195582"
+        }
+      ]
+    },
+    {
+      "id": "9cf669d749c148253ed8",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "title": "Telecom networks are becoming distributed AI computing platforms",
+      "original_title": "Telecom networks are becoming distributed AI computing platforms",
+      "published_at": "2026-10-22T14:08:53+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+          "title": "Telecom networks are becoming distributed AI computing platforms",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195555"
+        }
+      ]
+    },
+    {
+      "id": "f5f90c817613b2ed3969",
+      "url": "https://github.com/nevenkordic/abliteration](https://github.com/nevenkordic/abliteration",
+      "title": "Abliteration – Removing LLM refusal behaviors via representation engineering",
+      "original_title": "Abliteration – Removing LLM refusal behaviors via representation engineering",
+      "published_at": "2026-10-22T14:05:23+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/nevenkordic/abliteration](https://github.com/nevenkordic/abliteration",
+          "title": "Abliteration – Removing LLM refusal behaviors via representation engineering",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195494"
+        }
+      ]
+    },
+    {
+      "id": "2d309ec8edd29fb0fda0",
+      "url": "https://dailyinference.news/",
+      "title": "Show HN: The Daily Inference, a newspaper written and edited by AI agents",
+      "original_title": "Show HN: The Daily Inference, a newspaper written and edited by AI agents",
+      "published_at": "2026-10-22T14:05:23+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dailyinference.news/",
+          "title": "Show HN: The Daily Inference, a newspaper written and edited by AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195495"
+        }
+      ]
+    },
+    {
+      "id": "561f10ee80274a326b09",
+      "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+      "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+      "original_title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+      "published_at": "2026-10-22T13:58:47+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/tech/ai/demis-hassabis-ai-deepmind-google-isomorphic-2b4e3153",
+          "title": "Why AI's Deepest Mind Believes the World Is About to Change Radically",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195420"
+        }
+      ]
+    },
+    {
+      "id": "10d504c8d27102c72a73",
+      "url": "https://www.cbsnews.com/news/alpha-school-ai-teaching-2-hour-a-day",
+      "title": "Teacherless school says AI can teach students in 2 hours a day",
+      "original_title": "Teacherless school says AI can teach students in 2 hours a day",
+      "published_at": "2026-10-22T13:56:56+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cbsnews.com/news/alpha-school-ai-teaching-2-hour-a-day",
+          "title": "Teacherless school says AI can teach students in 2 hours a day",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195402"
+        }
+      ]
+    },
+    {
+      "id": "4a2eb27641e9b8690bb9",
+      "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+      "title": "Unvetted AI agents are accessing U.S. bank accounts",
+      "original_title": "Unvetted AI agents are accessing U.S. bank accounts",
+      "published_at": "2026-10-22T13:55:48+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+          "title": "Unvetted AI agents are accessing U.S. bank accounts",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195390"
+        }
+      ]
+    },
+    {
+      "id": "ff1c2be76e79db126acc",
+      "url": "https://www.popsci.com/technology/ai-powered-robot-slices-fingers",
+      "title": "AI-powered robots can be tricked into slicing off fingers",
+      "original_title": "AI-powered robots can be tricked into slicing off fingers",
+      "published_at": "2026-10-22T13:53:47+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.popsci.com/technology/ai-powered-robot-slices-fingers",
+          "title": "AI-powered robots can be tricked into slicing off fingers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195373"
+        }
+      ]
+    },
+    {
+      "id": "f674cb3a2ea47ac11335",
+      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+      "title": "Claude Duet app is Anthropic’s bet on agents",
+      "original_title": "Claude Duet app is Anthropic’s bet on agents",
+      "published_at": "2026-10-22T13:53:26+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Claude Duet is available through waitlist for Pro and Max plan users…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents",
+          "title": "Claude Duet app is Anthropic’s bet on agents"
+        }
+      ]
+    },
+    {
+      "id": "d55f7328dc5c9e35ca86",
+      "url": "https://botsinproduction.com/blog/claude-duet-review-from-someone-who-built-one-by-hand",
+      "title": "I built a \"Claude Duet\" by hand a year ago. Here's what Anthropic got right",
+      "original_title": "I built a \"Claude Duet\" by hand a year ago. Here's what Anthropic got right",
+      "published_at": "2026-10-22T13:48:52+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://botsinproduction.com/blog/claude-duet-review-from-someone-who-built-one-by-hand",
+          "title": "I built a \"Claude Duet\" by hand a year ago. Here's what Anthropic got right",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195309"
+        }
+      ]
+    },
+    {
+      "id": "3a9d9b4a621579c4655a",
+      "url": "https://github.com/lalabase/lalabase",
+      "title": "Show HN: Lalabase, self-hosted project management with an AI that cites sources",
+      "original_title": "Show HN: Lalabase, self-hosted project management with an AI that cites sources",
+      "published_at": "2026-10-22T13:48:43+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/lalabase/lalabase",
+          "title": "Show HN: Lalabase, self-hosted project management with an AI that cites sources",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195307"
+        }
+      ]
+    },
+    {
+      "id": "4466d0e8012107ae2b1f",
+      "url": "https://ricuicui.com/en/articles/the-ai-workstation-for-professionals-that-keeps-your-data-with-you",
+      "title": "The AI workstation for professionals that keeps your data with you",
+      "original_title": "The AI workstation for professionals that keeps your data with you",
+      "published_at": "2026-10-22T13:44:43+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ricuicui.com/en/articles/the-ai-workstation-for-professionals-that-keeps-your-data-with-you",
+          "title": "The AI workstation for professionals that keeps your data with you",
+          "discussion_url": "https://news.ycombinator.com/item?id=50195243"
+        }
+      ]
+    },
+    {
+      "id": "af6992a3f135680d7da3",
+      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+      "title": "Nirva raises $33M for a pendant that only listens to you",
+      "original_title": "Nirva raises $33M for a pendant that only listens to you",
+      "published_at": "2026-10-22T13:26:52+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nirva will ship its $249 ambient AI pendant by the end of the year.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+          "title": "Nirva raises $33M for a pendant that only listens to you"
+        }
+      ]
+    },
+    {
+      "id": "feacd6de002e3968f976",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "original_title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "published_at": "2026-10-22T13:11:13+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national secur…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+          "title": "DeepSeek reportedly raises $15B days after US restrictions"
+        }
+      ]
+    },
+    {
+      "id": "28c923fa41dbf8b475ff",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42402",
+      "title": "\"AI가 스스로 더 강력한 AI를 만드는 세상\"…'재귀적 자기 개선', 초지능 경쟁의 새로운 분기점",
+      "original_title": "\"AI가 스스로 더 강력한 AI를 만드는 세상\"…'재귀적 자기 개선', 초지능 경쟁의 새로운 분기점",
+      "published_at": "2026-10-22T11:32:09+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 기술 경쟁의 초점이 더 큰 모델과 더 많은 데이터, 강력한 컴퓨팅 자원을 확보하는 것에서 AI가 스스로 자신의 성능을 개선하는 능력으로 이동하고 있다. 인간 연구자가 모델 구조를 설계하고 실험 결과를 분석하며 다음 세대 AI를 개발하던 방식에서 벗어나, AI가 직접 연구 가설을 세우고 코드를 수정하며…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42402",
+          "title": "\"AI가 스스로 더 강력한 AI를 만드는 세상\"…'재귀적 자기 개선', 초지능 경쟁의 새로운 분기점"
+        }
+      ]
+    },
+    {
+      "id": "4fcef1c3903b5f8de6de",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42400",
+      "title": "인간·AI 협연으로 음악의 새 지평...MIT, 연주자와 실시간 소통하는 '라이브 AI' 교향곡 첫 공개",
+      "original_title": "인간·AI 협연으로 음악의 새 지평...MIT, 연주자와 실시간 소통하는 '라이브 AI' 교향곡 첫 공개",
+      "published_at": "2026-10-22T09:50:05+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 오케스트라 연주자의 소리를 실시간으로 분석하고 새로운 음악적 표현을 만들어내며 인간 연주자와 상호작용하는 교향곡이 세계 최초로 공개된다. 미리 정해진 악보를 연주하는 전통적인 오케스트라에 AI의 실시간 반응과 창의적 변주를 결합해 인간과 기계가 함께 음악을 만들어가는 새로운 공연 방식이다.미국 MI…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42400",
+          "title": "인간·AI 협연으로 음악의 새 지평...MIT, 연주자와 실시간 소통하는 '라이브 AI' 교향곡 첫 공개"
+        }
+      ]
+    },
+    {
+      "id": "b7165d25990e3f9cc0fb",
+      "url": "https://byline.network/2026/10/21-625",
+      "title": "유락 “증거 찾던 포렌식, AI 적용해 데이터 위험 관리까지 확장”",
+      "original_title": "유락 “증거 찾던 포렌식, AI 적용해 데이터 위험 관리까지 확장”",
+      "published_at": "2026-10-22T09:37:29+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "2018년 창업한 디지털 포렌식 전문기업 ‘유락(UROCK)’은 디지털 증거를 분석실로 옮기기 전, 조사 현장에서 필요한 기록부터 선별하는 도구를 개발해왔다. 최근에는 현장 포렌식에 인공지능(AI)를 접목하면서, 데이터 분류와 위험 점검으로 포렌식 제품의 활용 범위를 넓히고 있다. 유봉석 유락 대표는 “사고 원인을 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/21-625",
+          "title": "유락 “증거 찾던 포렌식, AI 적용해 데이터 위험 관리까지 확장”"
+        }
+      ]
+    },
+    {
+      "id": "344e8662d845c193849a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42399",
+      "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
+      "original_title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
+      "published_at": "2026-10-22T09:21:05+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 통신기업 보다폰(Vodafone)이 인공지능(AI)을 활용해 통신망이 스스로 트래픽 수요를 예측하고, 네트워크 자원을 조정하며, 장애를 사전에 감지·대응하는 자율 네트워크(Autonomous Network) 전환을 본격화하고 있다.AI 기반 네트워크 운영으로 5G 무선망의 일일 전력 소비를 두 자릿수 비율로 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42399",
+          "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진"
+        }
+      ]
+    },
+    {
+      "id": "e718c9733d3d33d3e510",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42398",
+      "title": "도이치텔레콤·노키아·엔비디아, AI로 5G 업링크 속도 15% 향상…AI-RAN 상용화 가속",
+      "original_title": "도이치텔레콤·노키아·엔비디아, AI로 5G 업링크 속도 15% 향상…AI-RAN 상용화 가속",
+      "published_at": "2026-10-22T09:10:38+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "독일 통신사 도이치텔레콤(Deutsche Telekom)과 노키아(Nokia), 엔비디아(NVIDIA)가 인공지능(AI)을 무선 신호 처리 과정에 직접 적용해 5G 네트워크의 업링크 데이터 처리량을 최대 15% 개선하는 초기 실험 성과를 확보했다.이는 기존 이동통신망의 무선 자원을 활용하면서도 AI 기반 신호 분석으…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42398",
+          "title": "도이치텔레콤·노키아·엔비디아, AI로 5G 업링크 속도 15% 향상…AI-RAN 상용화 가속"
+        }
+      ]
+    },
+    {
+      "id": "3901ddbd22f516b4af3c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42397",
+      "title": "AI와 인간 수학자, 31년간 풀리지 않은 수학 난제 풀었다…MS 연구진, 'KLS 추측' 증명 성공",
+      "original_title": "AI와 인간 수학자, 31년간 풀리지 않은 수학 난제 풀었다…MS 연구진, 'KLS 추측' 증명 성공",
+      "published_at": "2026-10-22T08:57:16+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "美 마이크로소프트 연구진이 인공지능(AI) 에이전트와 인간 연구자의 협업을 통해 31년간 풀리지 않았던 수학계의 대표적인 난제 '카난-로바스-시모노비츠 추측(Kannan–Lovász–Simonovits Conjecture, KLS 추측)'을 증명했다.AI가 100여개의 수학적 접근법을 탐색하고 연구자가 유망한 방향을…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42397",
+          "title": "AI와 인간 수학자, 31년간 풀리지 않은 수학 난제 풀었다…MS 연구진, 'KLS 추측' 증명 성공"
+        }
+      ]
+    },
+    {
+      "id": "bb354dc4cdd1951696f2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216552",
+      "title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장",
+      "original_title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장",
+      "published_at": "2026-10-22T08:55:05+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 에이전트가 학술 논문을 직접 읽고 연구 결과를 코드에 반영해 스스로 성능을 개선하는 기술이 등장했다. 기존 에이전트가 작업 실패 기록과 시행착오에 의존해 개선 방법을 찾았다면, 새로운 프레임워크는 관련 연구를 검색하고 검증된 기술을 에이전트의 작동 구조에 적용한다.캘리포니아대학교 샌타바버라 캠퍼스(UCSB)와 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216552",
+          "title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장"
+        }
+      ]
+    },
+    {
+      "id": "ed70b45177f3508a923d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
+      "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+      "original_title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+      "published_at": "2026-10-22T08:48:26+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 '플린트(Flint)'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
+          "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개"
+        }
+      ]
+    },
+    {
+      "id": "744094843871bfc56ba4",
+      "url": "https://byline.network/2026/10/1021-10",
+      "title": "KB증권, 25개 AI 에이전트를 하나로 묶었다",
+      "original_title": "KB증권, 25개 AI 에이전트를 하나로 묶었다",
+      "published_at": "2026-10-22T08:47:48+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "KB증권이 인공지능(AI)을 단순한 업무 보조 도구에서 전사 핵심 역량으로 내재화하는 데 주력하고 있다. 임직원용 통합 AI 에이전트 ‘깨비AI’의 업무 스킬과 데이터 연계를 확대하고, 실제 현업에 적용해 업무 효율을 높이는 방식이다. 내부 업무에서 검증한 기술과 운영 경험을 바탕으로 KB금융지주 계열사 적용과 기업…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1021-10",
+          "title": "KB증권, 25개 AI 에이전트를 하나로 묶었다"
+        }
+      ]
+    },
+    {
+      "id": "08eceaf68deb4127ace9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216528",
+      "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
+      "original_title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
+      "published_at": "2026-10-22T08:40:06+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 '플로라(Flora)'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216528",
+          "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개"
+        }
+      ]
+    },
+    {
+      "id": "32676cb61ba42df111e5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216544",
+      "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+      "original_title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+      "published_at": "2026-10-22T08:30:49+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216544",
+          "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개"
+        }
+      ]
+    },
+    {
+      "id": "44d9576e9d775ba35a29",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216548",
+      "title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보",
+      "original_title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보",
+      "published_at": "2026-10-22T08:23:51+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "바이트댄스와 알리바바, 텐센트 등 중국 빅테크 기업들이 미국의 대중국 반도체 수출 규제가 이어지는 가운데 엔비디아의 신형 그래픽 카드 300만개 이상을 주문했다. 첨단 AI 칩을 확보하기 어려워지자, 상대적으로 성능이 낮지만 중국에 합법적으로 공급할 수 있는 제품으로 눈을 돌린 것이다. 다만 주문량이 엔비디아의 생산…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216548",
+          "title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보"
+        }
+      ]
+    },
+    {
       "id": "fb3cd4c6ec30581b1549",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42396",
       "title": "엣지 AI 연산 최대 180 TOPS 구현…게택, 군사·재난·산업현장용 러기드 노트북 공개",
@@ -39,6 +591,26 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=35805",
           "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너"
+        }
+      ]
+    },
+    {
+      "id": "c1c6e7c9e51402a436e7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216549",
+      "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
+      "original_title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
+      "published_at": "2026-10-22T08:12:39+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "앤트로픽이 기업용 AI 보안 시장 공략을 위해 코드 취약점 탐지와 수정 추적을 자동화하는 보안 분석 도구를 강화했다. 일회성 검사에서 벗어나 코드 변경에 맞춰 위험 요소를 지속적으로 점검하고, 기업 환경에 맞춰 대응 우선순위를 정하는 기능을 앞세웠다. 앤트로픽은 21일(현지시간) AI 기반 코드 보안 분석 도구 ‘클…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216549",
+          "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시"
         }
       ]
     },
@@ -599,6 +1171,26 @@
           "source_id": "byline",
           "url": "https://byline.network/2026/10/22-619",
           "title": "AI 에이전트, 긴 여행의 시작…출발선은 어디인가"
+        }
+      ]
+    },
+    {
+      "id": "6400feb681472530a689",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "title": "What FDE means at OpenAI",
+      "original_title": "What FDE means at OpenAI",
+      "published_at": "2026-10-22T06:00:00+00:00",
+      "collected_at": "2026-10-22T14:23:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "What forward deployed engineering means at OpenAI…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "title": "What FDE means at OpenAI"
         }
       ]
     },
