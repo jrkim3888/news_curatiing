@@ -3,6 +3,846 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "fb3cd4c6ec30581b1549",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42396",
+      "title": "엣지 AI 연산 최대 180 TOPS 구현…게택, 군사·재난·산업현장용 러기드 노트북 공개",
+      "original_title": "엣지 AI 연산 최대 180 TOPS 구현…게택, 군사·재난·산업현장용 러기드 노트북 공개",
+      "published_at": "2026-10-22T08:20:36+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "클라우드 연결이 제한된 군사·재난·산업 현장에서 인공지능(AI)을 직접 구동할 수 있는 고성능 러기드(Rugged) 노트북이 등장했다. 최대 180TOPS(초당 180조 회 연산)의 AI 연산 성능과 군용 수준의 내구성을 결합해 인터넷 연결 없이도 데이터 분석과 AI 기반 의사결정을 지원하는 것이 특징이다.대만의 러…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42396",
+          "title": "엣지 AI 연산 최대 180 TOPS 구현…게택, 군사·재난·산업현장용 러기드 노트북 공개"
+        }
+      ]
+    },
+    {
+      "id": "57fdee914132da815419",
+      "url": "https://news.hada.io/topic?id=35805",
+      "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
+      "original_title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너",
+      "published_at": "2026-10-22T08:20:18+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI API로 서비스를 만들다 보면, 청구서를 보고 나서야 내 돈이 어떻게 쓰였는지 알게 되는 경우가 빈번하다는 생각이 꾸준히 들었습니다. 모델 선택과 캐싱, 프롬프트 구조같은걸 조금이라도 바꾼다면 줄일 수 있는 비용이 꽤 있을 것 같은데, 이걸 한 눈에 확인하고 싶어서 만들었습니다. 현재는 OpenAI와 A…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35805",
+          "title": "Show GN: Brello Scan – AI API 비용 속 새는 곳을 찾아 주는 무료 스캐너"
+        }
+      ]
+    },
+    {
+      "id": "3b17d22274723ec370b7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42395",
+      "title": "메르세데스-벤츠·엔비디아, 도심 자율주행 새 지평…목적지까지 주행 지원하는 '엠비 드라이브 어시스트 프로' 출시",
+      "original_title": "메르세데스-벤츠·엔비디아, 도심 자율주행 새 지평…목적지까지 주행 지원하는 '엠비 드라이브 어시스트 프로' 출시",
+      "published_at": "2026-10-22T08:09:59+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메르세데스-벤츠(Mercedes-Benz)가 엔비디아(NVIDIA)와 공동 개발한 인공지능(AI) 기반 첨단 운전자 보조 시스템을 독일 시장에 도입한다. 고속도로 중심의 기존 주행 보조 기능을 복잡한 도심 도로까지 확장해 출발지부터 목적지까지 차량의 주행을 지원하는 것이 핵심이다. 이를 통해 독일에서도 중국과 미국에…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42395",
+          "title": "메르세데스-벤츠·엔비디아, 도심 자율주행 새 지평…목적지까지 주행 지원하는 '엠비 드라이브 어시스트 프로' 출시"
+        }
+      ]
+    },
+    {
+      "id": "553daa96034c5ab36c32",
+      "url": "https://ego-lite.apposters.com/",
+      "title": "Show HN: The fastest browser for AI agents to run browser automation",
+      "original_title": "Show HN: The fastest browser for AI agents to run browser automation",
+      "published_at": "2026-10-22T08:09:22+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ego-lite.apposters.com/",
+          "title": "Show HN: The fastest browser for AI agents to run browser automation",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192585"
+        }
+      ]
+    },
+    {
+      "id": "de77a4de4d0e00f6cbae",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216539",
+      "title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
+      "original_title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
+      "published_at": "2026-10-22T08:05:22+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 '챗GPT' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216539",
+          "title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대"
+        }
+      ]
+    },
+    {
+      "id": "c34495fbb1c1a6f0df26",
+      "url": "https://byline.network/2026/10/1021-9",
+      "title": "“AI 발전 속도가 성장 담보 못해”…기업 성패 가르는 건 비즈니스 맥락",
+      "original_title": "“AI 발전 속도가 성장 담보 못해”…기업 성패 가르는 건 비즈니스 맥락",
+      "published_at": "2026-10-22T08:04:42+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 도입이 확산하고 있지만 실제 수익 창출로 이어지는 기업은 제한적이다. 씽킹AI는 데이터 접근 장벽과 성과 측정 체계 부재 등을 주요 원인으로 꼽으며, AI 에이전트의 실질적인 성과를 내려면 데이터 분석부터 실행·검증까지 연결하는 시스템과 기업 고유의 비즈니스 맥락을 반영한 운영 체계가 필요하다고 강조했다. 현장…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1021-9",
+          "title": "“AI 발전 속도가 성장 담보 못해”…기업 성패 가르는 건 비즈니스 맥락"
+        }
+      ]
+    },
+    {
+      "id": "4a7332c997f91fe3f553",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42394",
+      "title": "GM, 자율주행 대중화 승부수…AI 연산 성능 40배·하루 30억 마일 가상주행으로 SUV·픽업트럭까지 확대",
+      "original_title": "GM, 자율주행 대중화 승부수…AI 연산 성능 40배·하루 30억 마일 가상주행으로 SUV·픽업트럭까지 확대",
+      "published_at": "2026-10-22T08:01:14+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 제너럴모터스(GM)가 인공지능(AI) 기반 자율주행 기술을 고급 전기차에서 대중적인 스포츠유틸리티차량(SUV)과 픽업트럭으로 확대한다. 기존 차량 대비 약 40배 높은 연산 성능을 제공하는 중앙집중형 컴퓨팅 시스템과 하루 30억 마일(약 48억2,800만km) 이상의 가상주행 시뮬레이션을 결합해 자율주행 기술의…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42394",
+          "title": "GM, 자율주행 대중화 승부수…AI 연산 성능 40배·하루 30억 마일 가상주행으로 SUV·픽업트럭까지 확대"
+        }
+      ]
+    },
+    {
+      "id": "a1d619797f6379a67f8d",
+      "url": "https://news.sky.com/story/barclays-cutting-5-000-jobs-in-ai-led-efficiency-drive-13602151",
+      "title": "Barclays cutting 5000 jobs in AI-led efficiency drive",
+      "original_title": "Barclays cutting 5000 jobs in AI-led efficiency drive",
+      "published_at": "2026-10-22T08:00:41+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://news.sky.com/story/barclays-cutting-5-000-jobs-in-ai-led-efficiency-drive-13602151",
+          "title": "Barclays cutting 5000 jobs in AI-led efficiency drive",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192526"
+        }
+      ]
+    },
+    {
+      "id": "9ec4663d48812346a04a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216533",
+      "title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신",
+      "original_title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신",
+      "published_at": "2026-10-22T08:00:00+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "■ 모빌린트(대표 신동주)는 LG전자와 휴머노이드 로봇용 신경망처리장치(NPU)와 AI 컴퓨팅 플랫폼을 개발한다고 밝혔다. 이번 사업은 산업통상부 ‘K-온디바이스 AI 반도체 기술개발사업'의 일환으로 진행된다. 모빌린트는 주관연구개발기관으로 NPU와 모듈, 소프트웨어를 통합한 컴퓨팅 플랫폼 개발을 담당한다. 개발된 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216533",
+          "title": "[게시판] 모빌린트, LG전자와 휴머노이드용 NPU 플랫폼 개발 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "960620555de2e1688dc6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216541",
+      "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
+      "original_title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
+      "published_at": "2026-10-22T07:58:45+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "해커들이 앤트로픽의 '클로드'와 스페이스X의 '그록' 등 여러 상용 AI 모델을 결합해 중남미 금융기관 400여곳을 대상으로 사이버 공격을 자동화한 것으로 드러났다. AI 에이전트들이 표적 정보를 수집하고 공격을 계획·실행하는 방식으로 비밀번호와 고객 데이터를 탈취하고 은행 계좌에 접근한 것으로 조사됐다.사이버보안 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216541",
+          "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화"
+        }
+      ]
+    },
+    {
+      "id": "91f01888d86d2fc0281b",
+      "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
+      "title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "original_title": "Mach9 raises $34M after pivoting to AI CAD software",
+      "published_at": "2026-10-22T07:55:14+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software",
+          "title": "Mach9 raises $34M after pivoting to AI CAD software",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192489"
+        }
+      ]
+    },
+    {
+      "id": "0e5fad3ca5f8a881acf7",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "title": "IBM, Granite 시계열 모델 4종 결합한 앙상블 예측 레시피 공개",
+      "original_title": "Ensemble forecasting with IBM Granite time-series models",
+      "published_at": "2026-10-22T07:51:31+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "title": "Ensemble forecasting with IBM Granite time-series models"
+        }
+      ],
+      "summary": "IBM이 Hugging Face 블로그를 통해 4개 Granite 시계열 모델을 결합한 'Granite Timeseries Ensemble' 레시피를 공개했다. 재학습이나 가중치 적합 없이 확률적 앙상블(균등 확률 풀링)을 기본값으로 중앙값과 분위수 예측을 제공하며, IQR 앙상블도 선택지로 제시된다. IBM은 97개 GIFT-Eval 데이터셋 구성에서 두 앙상블이 4개 개별 모델보다 집계 MASE와 평균 MASE 순위에서 우수했다고 밝혔다.",
+      "why_it_matters": "개별 모델 선택 부담을 줄이는 기본 레시피를 제시했다는 점에서 실무 적용 장벽을 낮출 수 있다. 다만 IBM 자체 평가 결과이며, 다변량 채널 독립 예측과 4개 체크포인트 로딩에 따른 비용 증가 등 한계도 함께 명시됐다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T08:22:38+00:00",
+        "input_hash": "31ff5a94e8a4f5f1bfb2b47e6e3046b36289b810838aaba6bc955d2dd70ec0a7",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "eb385295ff41b9dfac49",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42393",
+      "title": "현대차그룹, 임직원 70% 생성형 AI 활용…73개 생산 공정에 AI 적용, 전사 AX 가속",
+      "original_title": "현대차그룹, 임직원 70% 생성형 AI 활용…73개 생산 공정에 AI 적용, 전사 AX 가속",
+      "published_at": "2026-10-22T07:45:25+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "현대자동차그룹이 임직원 70% 이상이 활용하는 사내 생성형 인공지능(AI) 플랫폼을 기반으로 판매·정비·생산 등 핵심 사업 전반의 AI 전환(AX)을 가속화하고 있다. 특히 전 세계 1,200만대 커넥티드카에서 확보한 대규모 차량 데이터와 통합 AI 플랫폼을 활용해 개별 업무의 자동화를 넘어 기업 운영 전반의 생산성…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42393",
+          "title": "현대차그룹, 임직원 70% 생성형 AI 활용…73개 생산 공정에 AI 적용, 전사 AX 가속"
+        }
+      ]
+    },
+    {
+      "id": "6c444607ca34971c42f3",
+      "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+      "title": "\"Good\" AI",
+      "original_title": "\"Good\" AI",
+      "published_at": "2026-10-22T07:42:41+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thoughts.wyounas.com/p/what-does-good-ai-mean",
+          "title": "\"Good\" AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192405"
+        }
+      ]
+    },
+    {
+      "id": "243cdf828f3473cc76a2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216547",
+      "title": "“느려진 TV, 클로드에게 맡겨볼까”…광고 덜고 속도 높이는 AI 활용법",
+      "original_title": "“느려진 TV, 클로드에게 맡겨볼까”…광고 덜고 속도 높이는 AI 활용법",
+      "published_at": "2026-10-22T07:34:10+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "TV를 켜면 광고와 추천 콘텐츠부터 뜨고 리모컨 반응도 느린 스마트 TV를 AI 코딩 도구로 개선하는 이용자들이 등장했다. 쓰지 않는 기본 앱과 백그라운드 서비스를 끄고 홈 화면을 단순하게 바꿔, 오래된 TV를 다시 쓸 만하게 만드는 방식이다.더버지와 안드로이드 어소리티 등은 최근 개발자 안섭 칸이 '클로드 코드'로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216547",
+          "title": "“느려진 TV, 클로드에게 맡겨볼까”…광고 덜고 속도 높이는 AI 활용법"
+        }
+      ]
+    },
+    {
+      "id": "5ac3b2ba61ac36c3c2aa",
+      "url": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+      "title": "ZK-irp-firewall: Zero-knowledge invariant enforcement for AI agents",
+      "original_title": "ZK-irp-firewall: Zero-knowledge invariant enforcement for AI agents",
+      "published_at": "2026-10-22T07:23:18+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/trenttrinder1111-byte/zk-irp-firewall",
+          "title": "ZK-irp-firewall: Zero-knowledge invariant enforcement for AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192263"
+        }
+      ]
+    },
+    {
+      "id": "99aae996091377e7110b",
+      "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability",
+      "title": "AI Agent Observability with OpenTelemetry",
+      "original_title": "AI Agent Observability with OpenTelemetry",
+      "published_at": "2026-10-22T07:17:06+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://signoz.io/blog/opentelemetry-ai-agent-observability",
+          "title": "AI Agent Observability with OpenTelemetry",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192223"
+        }
+      ]
+    },
+    {
+      "id": "e21aa33d9ec51ed6d862",
+      "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+      "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+      "original_title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+      "published_at": "2026-10-22T07:09:39+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/MvikManners/aw1-circuit-breaker",
+          "title": "Show HN: Aw-1 – Deterministic AST circuit breaker and kernel jail for AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192164"
+        }
+      ]
+    },
+    {
+      "id": "203c8b00ad69a054ee9a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216545",
+      "title": "[AI 모델 신작] 시계열 예측 ‘타임스트랄’·영상 효과음 ‘SFX 2.0’ 등 5종",
+      "original_title": "[AI 모델 신작] 시계열 예측 ‘타임스트랄’·영상 효과음 ‘SFX 2.0’ 등 5종",
+      "published_at": "2026-10-22T07:08:22+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 미스트랄 AI, 첫 시계열 예측 모델 ‘타임스트랄’ 출시미스트랄 AI가 시간에 따라 쌓이는 데이터를 분석해 수요와 설비 상태 등을 예측하는 첫 시계열 기반 모델 제품군 ‘타임스트랄(Timestral)’을 출시했다. 500만~2억900만개 매개변수 모델 4종으로 구성했으며, 자체 평가에서는 최대 모델이 구글 ‘타임…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216545",
+          "title": "[AI 모델 신작] 시계열 예측 ‘타임스트랄’·영상 효과음 ‘SFX 2.0’ 등 5종"
+        }
+      ]
+    },
+    {
+      "id": "68f1d3dbdd59a50caffc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42392",
+      "title": "텐센트, AI로 유통산업 재편…고객 발굴부터 상품 개발·매장 운영까지 혁신 확산",
+      "original_title": "텐센트, AI로 유통산업 재편…고객 발굴부터 상품 개발·매장 운영까지 혁신 확산",
+      "published_at": "2026-10-22T07:08:08+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 텐센트(Tencent)가 인공지능(AI)을 유통산업 전반에 접목하며 고객 경험과 상품 개발, 매장 운영을 아우르는 디지털 전환에 속도를 내고 있다. AI 기술 자체보다 실제 업무 현장에 적용해 성과를 창출하는 데 초점을 맞추고, 클라우드와 데이터, 고객 접점 플랫폼을 결합한 유통 특화 전략을 강화하고 있다.텐센…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42392",
+          "title": "텐센트, AI로 유통산업 재편…고객 발굴부터 상품 개발·매장 운영까지 혁신 확산"
+        }
+      ]
+    },
+    {
+      "id": "7df46c005e9e812f9214",
+      "url": "https://downloads.claude.ai/claude-code-releases/bootstrap.sh",
+      "title": "Claude Code install script is down",
+      "original_title": "Claude Code install script is down",
+      "published_at": "2026-10-22T07:05:49+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://downloads.claude.ai/claude-code-releases/bootstrap.sh",
+          "title": "Claude Code install script is down",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192140"
+        }
+      ]
+    },
+    {
+      "id": "076b9f49a79db754e4b3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216480",
+      "title": "\"챗GPT로 글 쓴 거 티 나요\"...’AI 말투' 지워주는 교정 도구 뜬다",
+      "original_title": "\"챗GPT로 글 쓴 거 티 나요\"...’AI 말투' 지워주는 교정 도구 뜬다",
+      "published_at": "2026-10-22T06:46:57+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI로 문서 초안을 쓰는 일은 흔해졌지만, 특유의 번역투와 정형화된 표현은 좀처럼 사라지지 않는다. 최근 이러한 문제를 겨냥한 한국어 교정 도구 'imnotai(im-not-ai)'가 깃허브에서 눈길을 끌고 있다.영어식 사고에 익숙한 대규모언어모델(LLM)과 기존 휴머나이저의 한계를 보완한 도구로 'AI 국부론' 저…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216480",
+          "title": "\"챗GPT로 글 쓴 거 티 나요\"...’AI 말투' 지워주는 교정 도구 뜬다"
+        }
+      ]
+    },
+    {
+      "id": "0d706251c10a87aa5bac",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+      "title": "AI firms say UK has a year to head off datacentre protests",
+      "original_title": "AI firms say UK has a year to head off datacentre protests",
+      "published_at": "2026-10-22T06:43:26+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+          "title": "AI firms say UK has a year to head off datacentre protests",
+          "discussion_url": "https://news.ycombinator.com/item?id=50192007"
+        }
+      ]
+    },
+    {
+      "id": "bf1ddcece7e7a3f4427f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216535",
+      "title": "트럼프 \"데이터센터 건설 기업, 지역사회에 '배당금' 지급해야\"",
+      "original_title": "트럼프 \"데이터센터 건설 기업, 지역사회에 '배당금' 지급해야\"",
+      "published_at": "2026-10-22T06:38:27+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "도널드 트럼프 미국 대통령이 데이터센터 건설 기업에 지역사회와 경제적 이익을 공유하라고 촉구했다. AI 산업 성장에 필요한 데이터센터가 막대한 전력과 물을 소비하면서 주민 반발이 커지자, 지역 주민에게 직접적인 경제적 혜택을 제공해 사업에 대한 지지를 확보해야 한다는 주장이다.트럼프 대통령은 21일(현지시간) 트루스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216535",
+          "title": "트럼프 \"데이터센터 건설 기업, 지역사회에 '배당금' 지급해야\""
+        }
+      ]
+    },
+    {
+      "id": "4f4effdf236db3b0b4b7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216531",
+      "title": "위플로, 드론 검사·정비용 AI 솔루션 '플로원 AI 스위트' 출시",
+      "original_title": "위플로, 드론 검사·정비용 AI 솔루션 '플로원 AI 스위트' 출시",
+      "published_at": "2026-10-22T06:34:36+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "드론 출하 전과 비행 전에 기체 이상을 점검하는 드론 전용 AI 솔루션이 나왔다.위플로(대표 김의정)는 드론 검사·정비용 AI 소프트웨어 '플로원 AI 스위트'를 출시했다고 22일 밝혔다.플로원 AI 스위트는 국토교통부 드론배송 실증사업 등 국내외 292곳에서 축적한 104만건 이상의 점검 데이터를 바탕으로 개발됐다…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216531",
+          "title": "위플로, 드론 검사·정비용 AI 솔루션 '플로원 AI 스위트' 출시"
+        }
+      ]
+    },
+    {
+      "id": "40f93ca072cdf619206a",
+      "url": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+      "title": "AI revealed 400 years of seafaring history",
+      "original_title": "AI revealed 400 years of seafaring history",
+      "published_at": "2026-10-22T06:28:14+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bbc.com/news/articles/cr93z9zq5l9jo",
+          "title": "AI revealed 400 years of seafaring history",
+          "discussion_url": "https://news.ycombinator.com/item?id=50191904"
+        }
+      ]
+    },
+    {
+      "id": "ac4c3bbd8b6bea778fac",
+      "url": "https://kuron.pages.dev/",
+      "title": "Show HN: Kuron – An LLM acts as your app so you can try ideas before building",
+      "original_title": "Show HN: Kuron – An LLM acts as your app so you can try ideas before building",
+      "published_at": "2026-10-22T06:28:12+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kuron.pages.dev/",
+          "title": "Show HN: Kuron – An LLM acts as your app so you can try ideas before building",
+          "discussion_url": "https://news.ycombinator.com/item?id=50191903"
+        }
+      ]
+    },
+    {
+      "id": "c41f9b3991735bd304ca",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216536",
+      "title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개",
+      "original_title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개",
+      "published_at": "2026-10-22T06:15:11+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "세계 최대 유통업체 월마트가 AI 에이전트의 대리 구매를 지원하는 전용 플랫폼을 공개했다. 외부 AI의 쇼핑을 허용하는 데서 나아가 구매 권한과 지출 한도, 반품 규칙까지 마련하며 에이전트 쇼핑이 주요 구매 방식으로 자리 잡을 것에 대비하고 있다.월마트는 21일(현지시간) 공식 발표를 통해 ‘월마트 에이전트 게이트웨…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216536",
+          "title": "세계 최대 월마트도 AI 에이전트 쇼핑 본격화…전용 플랫폼까지 공개"
+        }
+      ]
+    },
+    {
+      "id": "eb5384f286ae721b9a8c",
+      "url": "https://byline.network/2026/10/22-619",
+      "title": "AI 에이전트, 긴 여행의 시작…출발선은 어디인가",
+      "original_title": "AI 에이전트, 긴 여행의 시작…출발선은 어디인가",
+      "published_at": "2026-10-22T06:03:19+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기업의 AI 에이전트 도입은 짧다면 짧고, 길다면 긴 여정이다. 그리고 완주하기 힘든 여정이기도 하다. 출발선을 긋는 것부터 힘들고, 목표 지점을 잡는 것도 힘들다. AI 에이전트 여정에 존재하는 어려움은 무엇이고, 어떻게 여정을 계획해야 하며, 또 어떻게 여정을 진행할 것인가. 많은 질문이 시중을 뒤엎고 있다. 현…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/22-619",
+          "title": "AI 에이전트, 긴 여행의 시작…출발선은 어디인가"
+        }
+      ]
+    },
+    {
+      "id": "af1c407aa69637d27531",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216519",
+      "title": "메타, AI 자금 조달 위해 의결권 없는 신규 주식 발행 계획",
+      "original_title": "메타, AI 자금 조달 위해 의결권 없는 신규 주식 발행 계획",
+      "published_at": "2026-10-22T05:39:51+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 AI 사업에 필요한 막대한 자금을 확보하기 위해 의결권이 없는 신규 주식을 발행한다. AI 인프라와 모델 개발에 대한 투자를 확대하면서도 마크 저커버그 CEO의 지배력을 유지하려는 전략이다.메타는 21일(현지시간) 실적 발표와 함께 의결권이 없는 클래스 C 보통주를 신설한다고 공시했다.기존 주주에게 보유 주식…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216519",
+          "title": "메타, AI 자금 조달 위해 의결권 없는 신규 주식 발행 계획"
+        }
+      ]
+    },
+    {
+      "id": "89df7c87482e55d45249",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216527",
+      "title": "\"OCR 커머스로 영역 확장\"...한국딥러닝, SKT와 광고 제작 자동화 실증",
+      "original_title": "\"OCR 커머스로 영역 확장\"...한국딥러닝, SKT와 광고 제작 자동화 실증",
+      "published_at": "2026-10-22T05:33:19+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "문서 처리에 쓰이는 광학문자인식(OCR) 기술이 커머스 광고 영역으로 확대된다.한국딥러닝(대표 김지현)은 자체 문서 전용 AI 에이전트 '딥 에이전트'의 적용 범위를 커머스 콘텐츠 제작으로 넓히는 실증을 진행한다고 22일 밝혔다.이번 실증은 부산창조경제혁신센터의 'SK텔레콤 스타트업 오픈이노베이션 챌린지 2026' …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216527",
+          "title": "\"OCR 커머스로 영역 확장\"...한국딥러닝, SKT와 광고 제작 자동화 실증"
+        }
+      ]
+    },
+    {
+      "id": "d18766aefd757b5a08d8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216523",
+      "title": "젠슨 황, 유럽에 \"AI 소비국 넘어 자체 공장 구축\" 촉구",
+      "original_title": "젠슨 황, 유럽에 \"AI 소비국 넘어 자체 공장 구축\" 촉구",
+      "published_at": "2026-10-22T05:32:29+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO가 유럽에 AI을 소비하는 데 그치지 말고, 직접 생산하는 생태계를 구축하라고 촉구했다. 황 CEO는 21일(현지시간) 독일 베를린 템포드롬에서 열린 GTC 기조연설에서 \"AI 경제에 참여하려면 AI를 소비하는 데 그치지 않고 직접 생산해야 한다. 유럽에서도 이 모든 것을 할 수 있다\"고 말했…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216523",
+          "title": "젠슨 황, 유럽에 \"AI 소비국 넘어 자체 공장 구축\" 촉구"
+        }
+      ]
+    },
+    {
+      "id": "c35686567c9d899c7af1",
+      "url": "https://news.hada.io/topic?id=35800",
+      "title": "Show GN: 배달의 AI - 새 탭을 열 때마다 AI 뉴스를 배달해 주는 크롬 확장 프로그램",
+      "original_title": "Show GN: 배달의 AI - 새 탭을 열 때마다 AI 뉴스를 배달해 주는 크롬 확장 프로그램",
+      "published_at": "2026-10-22T05:08:41+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "매일 쏟아지는 AI 뉴스와 아티클을 따로 찾아다닐 필요 없이, 크롬에서 새 탭을 열 때마다 가볍게 받아볼 수 있는 무료 확장 프로그램 '배달의 AI'를 소개합니다. 바이브 코딩(Vibe Coding)을 이제 막 시작하셨거나 관심 있는 분들께 작은 참고가 되었으면 해서 개발 및 운영 비하인드를 공유합니다. […",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35800",
+          "title": "Show GN: 배달의 AI - 새 탭을 열 때마다 AI 뉴스를 배달해 주는 크롬 확장 프로그램"
+        }
+      ]
+    },
+    {
+      "id": "73988597f8c236ba4433",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42391",
+      "title": "서울, AI 활용 역량 세계 1위…뉴욕·베이징 제친 ‘실행형 AI 도시’ 부상",
+      "original_title": "서울, AI 활용 역량 세계 1위…뉴욕·베이징 제친 ‘실행형 AI 도시’ 부상",
+      "published_at": "2026-10-22T04:12:34+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "서울이 인공지능(AI) 기술을 실제 산업과 행정, 시민 생활에 적용하는 역량에서 세계 1위에 올랐다. AI 기술 개발과 투자 규모를 넘어 공공서비스와 기업 현장에 AI를 확산할 수 있는 제도와 인프라를 갖췄다는 평가다. 미국 도시들이 AI 투자와 혁신을 주도하는 가운데 서울을 비롯한 아시아 도시들이 실제 활용 단계에…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42391",
+          "title": "서울, AI 활용 역량 세계 1위…뉴욕·베이징 제친 ‘실행형 AI 도시’ 부상"
+        }
+      ]
+    },
+    {
+      "id": "b965fbe55047dd6351db",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42390",
+      "title": "구글 클라우드서 '오픈AI' 모델 쓴다…AI 플랫폼 ‘모델 개방 경쟁’ 가속",
+      "original_title": "구글 클라우드서 '오픈AI' 모델 쓴다…AI 플랫폼 ‘모델 개방 경쟁’ 가속",
+      "published_at": "2026-10-22T03:18:44+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글 클라우드(Google Cloud)에서 오픈AI(OpenAI)의 프런티어 인공지능(AI) 모델과 코딩 에이전트 기반 워크플로를 이용할 수 있게 된다. 자체 AI 모델을 중심으로 플랫폼을 구축해 온 클라우드 사업자들이 외부 모델까지 적극적으로 수용하면서, 기업 고객을 확보하기 위한 AI 플랫폼 경쟁이 모델 성능에서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42390",
+          "title": "구글 클라우드서 '오픈AI' 모델 쓴다…AI 플랫폼 ‘모델 개방 경쟁’ 가속"
+        }
+      ]
+    },
+    {
+      "id": "ad8e4a88727fde19ce03",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42389",
+      "title": "딥엑스, 교통 CCTV를 실시간 AI 감시망으로…초저전력 반도체로 글로벌 ITS 공략",
+      "original_title": "딥엑스, 교통 CCTV를 실시간 AI 감시망으로…초저전력 반도체로 글로벌 ITS 공략",
+      "published_at": "2026-10-22T02:55:59+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국산 인공지능(AI) 반도체 기업 딥엑스(DEEPX)가 교통 CCTV와 도로 인프라를 실시간으로 상황을 판단하는 AI 시스템으로 전환하며 글로벌 지능형 교통시스템(ITS) 시장 공략에 나섰다. 초저전력 신경망처리장치(NPU)를 교통 현장에 적용해 사고 감지와 차량 분석 등 영상 기반 서비스를 구현하고, 국내 실증 경…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42389",
+          "title": "딥엑스, 교통 CCTV를 실시간 AI 감시망으로…초저전력 반도체로 글로벌 ITS 공략"
+        }
+      ]
+    },
+    {
+      "id": "15b5d10247d1c6795c74",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42388",
+      "title": "AI 해킹도 뚫지 못했다…탈레스, 소프트웨어 취약점 탐지 차단 '센티넬 엔벨로프 플러스' 공개",
+      "original_title": "AI 해킹도 뚫지 못했다…탈레스, 소프트웨어 취약점 탐지 차단 '센티넬 엔벨로프 플러스' 공개",
+      "published_at": "2026-10-22T02:20:57+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "탈레스(Thales)가 인공지능(AI)을 활용한 소프트웨어 역공학과 취약점 탐지를 어렵게 만드는 애플리케이션 보호 솔루션을 출시했다. AI 에이전트가 보호되지 않은 소프트웨어에서 취약점 10개 중 8개를 찾아냈지만, 보호 기술을 적용한 뒤에는 한 건도 발견하지 못했다는 자체 시험 결과도 공개했다.탈레스는 기존 소프트…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42388",
+          "title": "AI 해킹도 뚫지 못했다…탈레스, 소프트웨어 취약점 탐지 차단 '센티넬 엔벨로프 플러스' 공개"
+        }
+      ]
+    },
+    {
+      "id": "16b4728627b98353b715",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42387",
+      "title": "\"AI 에이전트, 보안 판 바꾼다\"…엔비디아 OpenShell 아키텍처 공개, 위험 행동 밀리초 만에 차단",
+      "original_title": "\"AI 에이전트, 보안 판 바꾼다\"…엔비디아 OpenShell 아키텍처 공개, 위험 행동 밀리초 만에 차단",
+      "published_at": "2026-10-22T01:32:00+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "엔비디아(NVIDIA)가 기업용 인공지능(AI) 에이전트의 실행 환경과 보안 통제 체계를 통합한 ‘엔비디아 오픈셸 레퍼런스 아키텍처(NVIDIA OpenShell Reference Architecture)’를 공개했다. AI 에이전트가 기업 시스템과 외부 도구에 접근해 자율적으로 작업하는 환경에서 실행 권한을 관리하…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42387",
+          "title": "\"AI 에이전트, 보안 판 바꾼다\"…엔비디아 OpenShell 아키텍처 공개, 위험 행동 밀리초 만에 차단"
+        }
+      ]
+    },
+    {
+      "id": "11bb658bcf333a6e36ad",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42386",
+      "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화",
+      "original_title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화",
+      "published_at": "2026-10-22T00:24:56+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "엔비디아(NVIDIA)가 범용 로봇 개발 플랫폼을 확장하고 휴머노이드 학습부터 시뮬레이션, 실제 환경 배포까지 지원하는 기술 체계를 강화한다. 로봇 하드웨어와 인공지능(AI) 모델, 학습 데이터, 안전 기술을 연결해 개발 복잡성을 낮추고 산업 현장의 피지컬 AI(Physical AI) 도입을 가속화한다는 전략이다.엔…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42386",
+          "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화"
+        }
+      ]
+    },
+    {
+      "id": "3e83942c6a148fb3a923",
+      "url": "https://news.hada.io/topic?id=35785",
+      "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
+      "original_title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임",
+      "published_at": "2026-10-22T00:10:02+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "2026년 1~8월 Hugging Face에 공개한 한국 계정들의 신규 언어모델 1,845건 중 49.3%가 중국 모델 기반 확산을 주도한 것은 알리바바 Qwen으로, 전체의 46.8%인 864건 을 차지. Gemma 14.7%, Llama 13.8%, EXAONE 9.3%가 뒤를 이었으며, DeepSeek 기반은 …",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35785",
+          "title": "한국의 신규 AI 파생 모델 절반 가까이가 중국 Qwen 기반임"
+        }
+      ]
+    },
+    {
+      "id": "818377987dc84f777e43",
+      "url": "https://news.hada.io/topic?id=35780",
+      "title": "Show GN: Numpad - 트랙패드를 넘패드로 쓸 수 있게 만들어주는 앱",
+      "original_title": "Show GN: Numpad - 트랙패드를 넘패드로 쓸 수 있게 만들어주는 앱",
+      "published_at": "2026-10-21T23:58:12+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "개인적으로 키보드의 Numpad를 잘 활용하는 사람인데 Macbook에서 외부 키보드 없이 관련 작업을 할때 느낀 불편함이 이만저만이 이니였습니다. 그래서 트랙패드를 Numpad로 쓸 수 있는 솔루션을 한번 만들어보았습니다. 만들면서 요즘 AI가 성능이 진짜 올라왔음을 느꼈습니다. 만들고싶은게 있으면 몇…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35780",
+          "title": "Show GN: Numpad - 트랙패드를 넘패드로 쓸 수 있게 만들어주는 앱"
+        }
+      ]
+    },
+    {
       "id": "39690a168143594f8089",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42385",
       "title": "델 테크놀로지스·엔비디아, 데스크톱부터 데이터센터까지 에이전틱 AI 인프라 확대",
@@ -2274,6 +3114,26 @@
       ]
     },
     {
+      "id": "3fe372fb2e8166f0e814",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "original_title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "published_at": "2026-10-21T00:00:00+00:00",
+      "collected_at": "2026-10-22T08:22:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/cloudflare-cyber",
+          "title": "Cloudflare links vulnerability discovery to defense with OpenAI"
+        }
+      ]
+    },
+    {
       "id": "c8372412694de1107833",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42370",
       "title": "아모레퍼시픽, AI 음성 번역 회의 월 100건 돌파…딥엘 보이스 활용률 95%",
@@ -3136,14 +3996,14 @@
     {
       "id": "ef73bf2ace8ac6719291",
       "url": "https://huggingface.co/blog/allenai/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "title": "FairStress: LLM 의사결정의 인구통계적 공정성을 평가하는 벤치마크",
       "original_title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "published_at": "2026-10-20T16:09:19+00:00",
       "collected_at": "2026-10-20T18:59:08+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -3151,7 +4011,16 @@
           "url": "https://huggingface.co/blog/allenai/fairstress",
           "title": "FairStress: A deeper evaluation of fairness in LLM decision-making"
         }
-      ]
+      ],
+      "summary": "Ai2가 2026년 10월 20일 공개한 FairStress는 채용, 대출, 의료, 교육, 주거 등 29개 영역의 300개 시나리오로 LLM의 인구통계적 공정성을 평가하는 벤치마크다. 이 벤치마크는 모델이 최종 선택뿐 아니라 반대 주장에 얼마나 쉽게 입장을 바꾸는지, 설명 방식과 내부 활성화 패턴까지 측정한다. Ai2는 여러 모델에서 동일한 설득 논리가 인구통계 집단에 따라 다르게 작용하는 비대칭성을 발견했다고 발표했다.",
+      "why_it_matters": "LLM이 채용·대출 등 고위험 결정에 쓰일수록 최종 답변만이 아니라 결정의 안정성과 설명까지 공정성 평가에 포함해야 한다는 문제를 제기한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T08:22:35+00:00",
+        "input_hash": "737f49546c5faf35e2e9770dc3e0b798030c283f73f7a9be861488816c1479fc",
+        "evidence_verified": true
+      }
     },
     {
       "id": "bccd85bd7921db35887b",
@@ -5559,14 +6428,14 @@
     {
       "id": "b60920b7518c9e20ef36",
       "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
-      "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+      "title": "NVIDIA, cuTile로 Mamba-2 전방 패스 커널 최적화 사례 공개",
       "original_title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
       "published_at": "2026-10-19T17:00:00+00:00",
       "collected_at": "2026-10-20T00:08:08+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "NVIDIA CUDA Tile (cuTile) is a Python-based DSL and parallel programming model for NVIDIA GPUs that automatically leverages advanced hardware capabilities to... NVIDIA CUDA Tile…",
       "sources": [
         {
@@ -5574,7 +6443,16 @@
           "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile",
           "title": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile"
         }
-      ]
+      ],
+      "summary": "NVIDIA가 자사 개발자 블로그에서 Python 기반 DSL인 CUDA Tile(cuTile)을 활용해 Mamba-2 시퀀스 모델의 전방 패스 커널을 구현하고 최적화한 사례를 소개했다. Jane Street의 머신러닝 엔지니어들이 cuTile 초기 도입자로 Mamba-2를 구현했으며 NVIDIA와 협력해 커널을 최적화했다고 한다. 글은 chunk_cumsum, fwd_pass_state, compute_out 세 가지 커스텀 커널과 cuTile 최적화 기법을 설명한다.",
+      "why_it_matters": "타일 단위 GPU 프로그래밍을 Python으로 추상화해 Tensor Core를 자동 활용하는 접근이 실제 모델 커널 구현에 적용된 사례라는 점에서 주목된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T08:22:31+00:00",
+        "input_hash": "924ee47df844c7eacf687a69d3cef34df80faeef9c21a35aace0cf6f2c5b3826",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6aa5f67846a0e9a10337",

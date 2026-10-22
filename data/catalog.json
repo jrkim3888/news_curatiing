@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "updated_at": "2026-10-22T04:10:02+00:00",
-  "collection_slot": "2026-10-21T21:00:00+00:00",
+  "updated_at": "2026-10-22T08:22:52+00:00",
+  "collection_slot": "2026-10-22T03:00:00+00:00",
   "news": {
     "2026-10": {
-      "count": 534,
-      "sha256": "8feb23c45378ff7f97d6d9ffc8ca55a66c06df45e9e57287e8625353185b9cbe",
+      "count": 576,
+      "sha256": "b1a8f230659eec882259fed25cffb0fe816bf92bbec87edc5b1890468476a423",
       "days": [
         "2026-10-03",
         "2026-10-04",
