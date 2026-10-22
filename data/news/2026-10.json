@@ -3,6 +3,449 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b89bdcc5b283482b9847",
+      "url": "https://github.com/heyyviv/claude-boot-beats",
+      "title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
+      "original_title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
+      "published_at": "2026-10-22T19:02:06+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/heyyviv/claude-boot-beats",
+          "title": "Show HN: A Claude Code plugin that plays a song and shows a startup card",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199611"
+        }
+      ]
+    },
+    {
+      "id": "679fc25a6a2cfc606b4c",
+      "url": "https://thenewstack.io/php2shell-chainguard-embargo-dispute",
+      "title": "AI found a critical PHP flaw. The bigger failure began in 2024",
+      "original_title": "AI found a critical PHP flaw. The bigger failure began in 2024",
+      "published_at": "2026-10-22T18:49:49+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thenewstack.io/php2shell-chainguard-embargo-dispute",
+          "title": "AI found a critical PHP flaw. The bigger failure began in 2024",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199443"
+        }
+      ]
+    },
+    {
+      "id": "33126a546b206326edfc",
+      "url": "https://labmuffin.com/how-to-spot-ai-science-slop",
+      "title": "How to spot AI science slop",
+      "original_title": "How to spot AI science slop",
+      "published_at": "2026-10-22T18:47:46+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://labmuffin.com/how-to-spot-ai-science-slop",
+          "title": "How to spot AI science slop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199420"
+        }
+      ]
+    },
+    {
+      "id": "dedf2896ecdb4ab528c7",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "original_title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "published_at": "2026-10-22T18:43:53+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underne…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence",
+          "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’"
+        }
+      ]
+    },
+    {
+      "id": "05516fa6d2dd52107a07",
+      "url": "https://www.typeui.sh/micro-interactions",
+      "title": "Show HN: UI micro interactions prompts for AI",
+      "original_title": "Show HN: UI micro interactions prompts for AI",
+      "published_at": "2026-10-22T18:32:57+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.typeui.sh/micro-interactions",
+          "title": "Show HN: UI micro interactions prompts for AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199290"
+        }
+      ]
+    },
+    {
+      "id": "e6d31108e588a9305229",
+      "url": "https://jamesyu.org/award-winning-ai-literature",
+      "title": "Award-Winning AI Literature",
+      "original_title": "Award-Winning AI Literature",
+      "published_at": "2026-10-22T18:28:26+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://jamesyu.org/award-winning-ai-literature",
+          "title": "Award-Winning AI Literature",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199232"
+        }
+      ]
+    },
+    {
+      "id": "39f0af155c70bc46b74f",
+      "url": "https://arxiv.org/abs/2610.27251",
+      "title": "AI and the Enclosure of the Scientific Commons",
+      "original_title": "AI and the Enclosure of the Scientific Commons",
+      "published_at": "2026-10-22T18:28:16+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2610.27251",
+          "title": "AI and the Enclosure of the Scientific Commons",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199230"
+        }
+      ]
+    },
+    {
+      "id": "9ac3cb15835cf7adb9fe",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era",
+      "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "original_title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "published_at": "2026-10-22T18:26:23+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era",
+          "title": "Vulnerability Discovery and Exploitation Trends in the AI Era",
+          "discussion_url": "https://news.ycombinator.com/item?id=50199206"
+        }
+      ]
+    },
+    {
+      "id": "ee487a66d7e4ee85c2e1",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+      "title": "Anthropic, Agent Skills 표준을 Agentic AI Foundation에 기부",
+      "original_title": "Donating Agent Skills to the Agentic AI Foundation",
+      "published_at": "2026-10-22T18:09:56+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "summarized",
+      "excerpt": "Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are d…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills",
+          "title": "Donating Agent Skills to the Agentic AI Foundation"
+        }
+      ],
+      "summary": "Anthropic이 Agent Skills 표준을 Linux Foundation 산하 Agentic AI Foundation(AAIF)에 기부한다고 발표했다. AAIF는 Anthropic이 Block, OpenAI와 함께 공동 설립했으며, 이전에 Model Context Protocol(MCP)도 기부된 곳이다. Anthropic은 Agent Skills를 개방적이고 커뮤니티 주도적이며 벤더 중립적으로 유지하겠다고 밝혔다.",
+      "why_it_matters": "AI 에이전트 관련 표준이 특정 기업을 넘어 재단으로 이관되면서, 향후 생태계의 상호운용성과 거버넌스 방향에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T19:05:01+00:00",
+        "input_hash": "f70fe82c6ad7b2d5f6550a11a5cdcae2c4169c9802df0c12f0e84e9d1e355d16",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "d6886caf53962cb24205",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "original_title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "published_at": "2026-10-22T16:47:17+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise",
+          "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise"
+        }
+      ]
+    },
+    {
+      "id": "cb452f04676732c8945d",
+      "url": "https://news.hada.io/topic?id=35823",
+      "title": "Anthropic, 2026년 상반기 순손실 800억 달러 넘어",
+      "original_title": "Anthropic, 2026년 상반기 순손실 800억 달러 넘어",
+      "published_at": "2026-10-22T16:46:09+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic의 2026년 상반기 순손실은 807억 달러 로, 이 중 720억 달러는 영업 관련 현금 지출이 아닌 전환사채 가치 상승에 따른 회계 비용 임 상반기 컴퓨팅 용량과 인프라 지출은 전년 동기 23억 달러에서 약 90억 달러 로 늘었으며, 향후 10년간...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35823",
+          "title": "Anthropic, 2026년 상반기 순손실 800억 달러 넘어"
+        }
+      ]
+    },
+    {
+      "id": "d52968d2b0a9b010f48c",
+      "url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
+      "title": "NVIDIA, Python에서 GPUDirect Storage로 GPU 메모리에 데이터 읽는 방법 튜토리얼 공개",
+      "original_title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage",
+      "published_at": "2026-10-22T16:39:09+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "GPU applications are processing ever-growing datasets with increasingly powerful accelerators. According to the 2025 Stanford AI Index, compute for notable AI... GPU application…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-to-read-data-into-gpu-memory-in-python-with-nvidia-gpudirect-storage",
+          "title": "How to Read Data into GPU Memory in Python with NVIDIA GPUDirect Storage"
+        }
+      ],
+      "summary": "NVIDIA가 KvikIO Python API를 사용해 GPUDirect Storage(GDS)를 통해 스토리지에서 GPU 메모리로 직접 데이터를 읽는 방법을 설명하는 튜토리얼을 공개했다. KvikIO는 cuFile C API 위에 Python·C++ 인터페이스를 제공하며, 튜토리얼은 시스템 구성, 읽기 수행, cuFile 통계로 실제 데이터 경로 확인 방법을 다룬다. NVIDIA는 GDS가 CPU 메모리를 거치는 단계를 없애 CPU 사용률을 줄인다고 밝혔다.",
+      "why_it_matters": "AI 모델의 연산량과 데이터셋이 빠르게 커지면서 스토리지에서 가속기로 데이터를 효율적으로 공급하는 것이 중요해지고 있다. Python이 AI 개발의 주요 언어인 만큼, GDS를 Python에서 활용하는 방법은 데이터 파이프라인 성능에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T19:04:56+00:00",
+        "input_hash": "875f6847a510be7b639b37be1f9a812611ce44b71ada005bb6f6622005548419",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "67297d2df9a3d7f196c3",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "title": "Ai2, 위성 임베딩 모델 OlmoEarth v1.3 공개…전 지구 임베딩과 탐색 도구 함께 배포",
+      "original_title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "published_at": "2026-10-22T16:11:31+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+          "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet"
+        }
+      ],
+      "summary": "Ai2가 위성 임베딩 모델 OlmoEarth v1.3을 공개하고, 전 지구 연간 임베딩(10m 해상도, 64·128차원)과 이를 탐색·활용하는 브라우저 기반 OlmoEarth Embeddings Explorer를 함께 배포했다. Ai2에 따르면 이 모델은 Sentinel-1·2와 Landsat 시계열을 읽어 10m 픽셀마다 128차원 벡터를 생성하며, 27개 평가 중 20개에서 최고 점수를 기록했다. 모델 가중치와 사전학습 데이터·코드는 모두 공개됐다.",
+      "why_it_matters": "전 지구 임베딩이 공개되면 GPU 없이도 소규모 분류기로 토지피복·변화 탐지 같은 작업을 시도할 수 있어, 위성 분석의 진입 장벽이 낮아질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T19:04:53+00:00",
+        "input_hash": "4ca6c427511808299d295b95149b959ea76275274e70a6922651f3b67ca8b07a",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a9592e53f2c7c7097c44",
+      "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+      "title": "엔비디아, GTC 베를린서 8노드 DGX Spark 클러스터 공식 지원 발표",
+      "original_title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes",
+      "published_at": "2026-10-22T16:00:00+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "AI developers aren’t just running a single model anymore—they’re orchestrating multiple models in parallel, chaining inference calls, and experimenting... AI developers aren’t j…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/running-frontier-class-ai-models-across-8-nvidia-dgx-spark-nodes",
+          "title": "Running Frontier-Class AI Models Across 8 NVIDIA DGX Spark Nodes"
+        }
+      ],
+      "summary": "엔비디아가 GTC 베를린에서 8노드 DGX Spark 클러스터 공식 지원을 발표했다. 통합 메모리를 1TB까지 확장해 프런티어급 모델과 멀티에이전트 워크로드, 근선형 사전학습을 로컬에서 실행할 수 있다고 밝혔다. NVIDIA Sync의 8노드 클러스터 지원은 연말까지 제공될 예정이다.",
+      "why_it_matters": "데스크톱급 장비를 여러 대 묶어 대형 모델을 로컬에서 다루려는 수요에 대응하는 행보로, 소규모 개발자와 연구자의 자체 인프라 활용 범위가 넓어질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-22T19:04:49+00:00",
+        "input_hash": "d98d4d8b839d1e200b5b2eaaef7cfd3b84aef20da1cb76557223b9ed06f2a3d1",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "39a33fb977ec3f80a93f",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "original_title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "published_at": "2026-10-22T16:00:00+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work",
+          "title": "Uber puts all 30,000 employees on ChatGPT Work"
+        }
+      ]
+    },
+    {
+      "id": "3c0a71a5bcb403b3438f",
+      "url": "https://news.hada.io/topic?id=35818",
+      "title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구",
+      "original_title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구",
+      "published_at": "2026-10-22T15:45:53+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "OpenAI REST API 공식 CLI 로, 리소스 기반 명령을 통해 응답 생성, 파일 관리, 이미지 생성과 편집, 관리자 API 등을 사용할 수 있음 도움말은 API 키나 네트워크 없이 작동 하며, 작업별 명령 탐색, 셸 자동 완성, 실행하지 않고 명령줄에 예시를 채우는 기능을 지...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35818",
+          "title": "OpenAI CLI - OpenAI REST API를 위한 공식 명령줄 도구"
+        }
+      ]
+    },
+    {
+      "id": "6619134087094c0c5f50",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
+      "title": "Quoting Armin Ronacher",
+      "original_title": "Quoting Armin Ronacher",
+      "published_at": "2026-10-22T15:34:13+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
+          "title": "Quoting Armin Ronacher"
+        }
+      ]
+    },
+    {
+      "id": "5a41733f59a5031b0f27",
+      "url": "https://byline.network/2026/10/21_29287374",
+      "title": "AI 시대 고객 만나려면 콘텐츠에 투자해야…GEO에 나선 기업들의 계산",
+      "original_title": "AI 시대 고객 만나려면 콘텐츠에 투자해야…GEO에 나선 기업들의 계산",
+      "published_at": "2026-10-22T15:22:30+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "챗GPT·제미나이로 상품을 찾는 소비자가 늘면서 기업들이 생성형 엔진 최적화(GEO)에 나서고 있습니다. 하지만 AI 답변은 질문마다 달라지고 브랜드 노출이 매출로 이어지는지도 확인하기 어렵습니다. SK브로드밴드는 고객 질문에 맞게 콘텐츠를 재구성하고 외부의 오래된 정보까지 정정했습니다. 리틀리는 홈페이지와 블로그를…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/21_29287374",
+          "title": "AI 시대 고객 만나려면 콘텐츠에 투자해야…GEO에 나선 기업들의 계산"
+        }
+      ]
+    },
+    {
+      "id": "2f32a876015ee666ac58",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+      "title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "original_title": "Spotify’s current AI bet is about being the music service that agents choose",
+      "published_at": "2026-10-22T15:03:58+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+          "title": "Spotify’s current AI bet is about being the music service that agents choose"
+        }
+      ]
+    },
+    {
+      "id": "8f93170faf71fda6558b",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "original_title": "Beyond tree cover: mapping the world’s forest types",
+      "published_at": "2026-10-22T14:30:24+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+          "title": "Beyond tree cover: mapping the world’s forest types"
+        }
+      ]
+    },
+    {
       "id": "dcc0fbc6c3f30ef03ba2",
       "url": "https://www.livecoloringbook.com/how-it-was-built",
       "title": "I built Live Coloring Book with AI agents after 15 years of coding by hand",
@@ -1415,6 +1858,26 @@
       ]
     },
     {
+      "id": "eda525050cea8fce4b13",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "published_at": "2026-10-22T00:00:00+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI"
+        }
+      ]
+    },
+    {
       "id": "818377987dc84f777e43",
       "url": "https://news.hada.io/topic?id=35780",
       "title": "Show GN: Numpad - 트랙패드를 넘패드로 쓸 수 있게 만들어주는 앱",
@@ -1554,6 +2017,26 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=35775",
           "title": "OpenAI 모델과 Codex, Google Cloud에 도입"
+        }
+      ]
+    },
+    {
+      "id": "e1e794379eb1a1ae8bc7",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "original_title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "published_at": "2026-10-21T22:45:34+00:00",
+      "collected_at": "2026-10-22T19:04:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+          "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock"
         }
       ]
     },
