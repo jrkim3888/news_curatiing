@@ -3,6 +3,402 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "10c07595fe388d63151f",
+      "url": "https://useinstantsearch.com/",
+      "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+      "original_title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+      "published_at": "2026-10-23T18:52:34+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://useinstantsearch.com/",
+          "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213691"
+        }
+      ]
+    },
+    {
+      "id": "a19c66952944980f341b",
+      "url": "https://github.com/lucasmartins-ai/lcc",
+      "title": "Show HN: Lcc – compact Claude Code sessions without summarizing them",
+      "original_title": "Show HN: Lcc – compact Claude Code sessions without summarizing them",
+      "published_at": "2026-10-23T18:44:04+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/lucasmartins-ai/lcc",
+          "title": "Show HN: Lcc – compact Claude Code sessions without summarizing them",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213585"
+        }
+      ]
+    },
+    {
+      "id": "d18d95faa08d39ffa3f5",
+      "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
+      "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+      "original_title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+      "published_at": "2026-10-23T18:40:46+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://theaioperatorstore.gumroad.com/l/womuyx",
+          "title": "Show HN: AI Data Footprint Tracker – audit what your AI tools hold, offline",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213538"
+        }
+      ]
+    },
+    {
+      "id": "030254be4b8f41cb9f7e",
+      "url": "https://news.hada.io/topic?id=35879",
+      "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
+      "original_title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델",
+      "published_at": "2026-10-23T18:40:37+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kimi K3.1 Pro 는 K3의 사후 학습을 확대해 코딩, 3D 제작, 금융 조사와 에이전트 역량을 강화한 3T급 모델로, 100만 토큰 문맥 을 지원하며 전체 가중치는 2026년 11월 4일까지 공개할 예정임 K3.1 Pro Highspeed 도 함께 출시하며, Kimi 측에 따르...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35879",
+          "title": "Kimi K3.1 Pro와 K3.1 Pro Highspeed - 100만 토큰 문맥을 지원하는 3T급 모델"
+        }
+      ]
+    },
+    {
+      "id": "b23c53f15c4a7ee392dd",
+      "url": "https://github.com/julianfromano/upa-organization-brain",
+      "title": "Show HN: UPA – An explicit organizational model for humans and AI",
+      "original_title": "Show HN: UPA – An explicit organizational model for humans and AI",
+      "published_at": "2026-10-23T18:27:18+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/julianfromano/upa-organization-brain",
+          "title": "Show HN: UPA – An explicit organizational model for humans and AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213379"
+        }
+      ]
+    },
+    {
+      "id": "dc0853b67243d0233e4d",
+      "url": "https://www.nber.org/papers/w35275",
+      "title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
+      "original_title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
+      "published_at": "2026-10-23T18:16:14+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nber.org/papers/w35275",
+          "title": "Writing Code vs. Shipping Code: Productivity Across Generations of AI Code Tools",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213207"
+        }
+      ]
+    },
+    {
+      "id": "44191c6fb19fbc8b9059",
+      "url": "https://swamp-club.com/behavior",
+      "title": "Behavior-Centric AI Design",
+      "original_title": "Behavior-Centric AI Design",
+      "published_at": "2026-10-23T18:14:06+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://swamp-club.com/behavior",
+          "title": "Behavior-Centric AI Design",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213175"
+        }
+      ]
+    },
+    {
+      "id": "04c9a79171509841680f",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+      "title": "AI models think humans are a bunch of amoral sheep",
+      "original_title": "AI models think humans are a bunch of amoral sheep",
+      "published_at": "2026-10-23T18:13:54+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+          "title": "AI models think humans are a bunch of amoral sheep",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213172"
+        }
+      ]
+    },
+    {
+      "id": "cb5edf6feb303aab6c26",
+      "url": "https://www.neomindlabs.com/2026/10/22/agentic-coding-is-doing-to-cybersecurity-what-firearms-did-to-security",
+      "title": "Agentic coding is doing to cybersecurity what firearms did to security",
+      "original_title": "Agentic coding is doing to cybersecurity what firearms did to security",
+      "published_at": "2026-10-23T18:05:56+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.neomindlabs.com/2026/10/22/agentic-coding-is-doing-to-cybersecurity-what-firearms-did-to-security",
+          "title": "Agentic coding is doing to cybersecurity what firearms did to security",
+          "discussion_url": "https://news.ycombinator.com/item?id=50213048"
+        }
+      ]
+    },
+    {
+      "id": "d00609da6209ca449aa3",
+      "url": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+      "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+      "original_title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+      "published_at": "2026-10-23T17:54:56+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.techspot.com/news/114286-openai-ai-agents-disabled-safety-guardrails-lied-about.html",
+          "title": "OpenAI says its AI agents disabled safety guardrails, and then lied about it",
+          "discussion_url": "https://news.ycombinator.com/item?id=50212881"
+        }
+      ]
+    },
+    {
+      "id": "1456ee151a5392db8ad4",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2",
+      "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "original_title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2",
+      "published_at": "2026-10-23T17:27:52+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Global Performance Tuner is a feature for automatic performance tuning released in NVIDIA TensorRT 11.1. It provides automatic, accuracy-aware and... The Global Performance …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-2",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 2"
+        }
+      ]
+    },
+    {
+      "id": "4dcd06f240ef44ca5e9c",
+      "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1",
+      "title": "NVIDIA, TensorRT 11.1에 자동 성능 튜닝 기능 'Global Performance Tuner' 공개",
+      "original_title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1",
+      "published_at": "2026-10-23T17:27:35+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Deploying a trained neural network involves more than translating each operator into a GPU kernel. It is a compilation problem with many legitimate answers. For... Deploying a t…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/scaling-nvidia-tensorrt-performance-optimization-beyond-a-single-build-route-with-the-global-performance-tuner-part-1",
+          "title": "Scaling NVIDIA TensorRT Performance Optimization Beyond a Single Build Route with the Global Performance Tuner, Part 1"
+        }
+      ],
+      "summary": "NVIDIA가 TensorRT 11.1에 자동 성능 튜닝 기능인 Global Performance Tuner를 발표했다. 이 글은 두 편으로 구성된 시리즈의 1부로, 단일 빌드 경로를 넘어서는 TensorRT 성능 최적화를 다룬다. NVIDIA는 기존의 내부 KPI 모델 기반 휴리스틱 최적화가 모델과 배포 환경이 다양해지면서 확장성 문제를 겪는다고 설명하며, 튜닝이 이를 보완하는 확장 가능한 접근이라고 주장한다.",
+      "why_it_matters": "딥러닝 컴파일러 최적화가 수작업 휴리스틱에서 자동 튜닝으로 이동하는 흐름을 보여주며, 다양한 모델과 하드웨어에 대한 성능·정확도 균형 문제를 다룬다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-23T18:55:02+00:00",
+        "input_hash": "7564dbf06e84c864a5151e80b2658fde9f3f992e00c4760536d287513af502f2",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "ee4c22366ef7e7abd786",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "original_title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "published_at": "2026-10-23T17:00:00+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+          "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+        }
+      ]
+    },
+    {
+      "id": "02f7f4c5265dcaedd6f1",
+      "url": "https://news.hada.io/topic?id=35875",
+      "title": "Fable 5.1은 이미지에 어떻게 메시지를 숨기는가?",
+      "original_title": "Fable 5.1은 이미지에 어떻게 메시지를 숨기는가?",
+      "published_at": "2026-10-23T16:43:50+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Claude Fable 5.1 이 SVG 이미지에 숨긴 메시지를 별도 세션의 같은 모델이 인코딩 규칙이나 SVG 소스 없이 복원하는 실험에서 78%의 복원율 을 기록함 50개 이미지 중 33개는 높이 인코딩 을 사용했으며, 건물이나 풀잎 같은 시각 요소의 높이를 문...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35875",
+          "title": "Fable 5.1은 이미지에 어떻게 메시지를 숨기는가?"
+        }
+      ]
+    },
+    {
+      "id": "5d794c3788a3a4be0d42",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "Ai2, 문헌 기반 연구 아이디어 수정 지원 시스템 'LitPivot' 공개",
+      "original_title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "published_at": "2026-10-23T16:15:50+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape"
+        }
+      ],
+      "summary": "Ai2는 펜실베이니아대 공동 연구로 연구자가 문헌을 읽으며 연구 방향을 바꾸는 '문헌발 피벗'을 지원하는 시스템 LitPivot을 개발했다고 밝혔다. 이 시스템은 Asta Paper Finder로 검색한 논문을 연구 제안의 문제·기여·평가 계획별로 묶고, 발췌문에 근거한 비판과 수정안을 제시한다. 17명 연구자 대상 실험에서 LitPivot으로 개발한 아이디어가 텍스트 편집기와 AI 채팅 도구를 쓴 경우보다 문헌에 더 잘 근거했다는 평가를 받았다고 발표했다.",
+      "why_it_matters": "연구 초기 단계에서 아이디어와 관련 문헌 선택을 함께 다루는 워크플로를 제안한 사례로, AI 기반 연구 보조 도구의 설계 방향을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-23T18:54:58+00:00",
+        "input_hash": "c7ead1b116ad806b30700aa870c0ddfc0f864aad362595488c9b1bfce5938023",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "eac33621665bc34d69bc",
+      "url": "https://news.hada.io/topic?id=35870",
+      "title": "Show GN: claude-code-todo - 클로드 코드 옆에 띄워 두는 TODO pane",
+      "original_title": "Show GN: claude-code-todo - 클로드 코드 옆에 띄워 두는 TODO pane",
+      "published_at": "2026-10-23T16:03:26+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Claude Code로 작업하다 생기는 할 일을 바로 적고, 고치고, 지울 수 있게 만든 플러그인입니다. 세션을 닫아도 목록은 남습니다. 채팅 옆 pane에 전역 목록과 프로젝트 목록이 탭으로 나뉘어 있고, 프롬프트 위에는 남은 개수와 다음 할 일, 마감 지난 개수가 한 줄로 나옵니다. pane에서 키(d 완료,…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35870",
+          "title": "Show GN: claude-code-todo - 클로드 코드 옆에 띄워 두는 TODO pane"
+        }
+      ]
+    },
+    {
+      "id": "9794b201a214a494f024",
+      "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
+      "title": "NVIDIA, AI 에이전트로 시뮬레이션에서 Microduck 로봇 보행 훈련 워크플로 공개",
+      "original_title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation",
+      "published_at": "2026-10-23T14:58:32+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Teaching a robot to navigate an obstacle course requires more than a walking policy. It must perceive its surroundings, maintain balance, and adjust its actions... Teaching a ro…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/using-ai-agents-to-teach-robots-like-microduck-to-walk-in-simulation",
+          "title": "Using AI Agents to Teach Robots Like Microduck to Walk in Simulation"
+        }
+      ],
+      "summary": "NVIDIA가 AI 에이전트를 활용해 시뮬레이션 환경에서 Microduck 로봇의 보행 정책을 훈련하고 평가하는 워크플로를 소개했다. 이 워크플로는 RTX Spark, Isaac Lab, Newton, Omniverse 라이브러리 등을 사용하며, Hermes, NVIDIA Nemotron, Astra 에이전트가 계획 수립과 자산 생성, 시뮬레이션 구성을 지원한다. 훈련된 정책은 Isaac Sim에서 평가되고, 물리 로봇 배포를 위한 시뮬레이션-실제 격차 완화 방법도 언급된다.",
+      "why_it_matters": "AI 에이전트를 활용한 시뮬레이션 기반 로봇 훈련은 물리적 시행착오 없이 정책을 개발할 수 있는 가능성을 보여주지만, 실제 배포에는 여전히 시뮬레이션과 현실의 차이를 해결해야 하는 과제가 남아 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-23T18:54:55+00:00",
+        "input_hash": "129153c498263be52ee0e0a52a0fcb5d4816a8f563c14dc15b1c79f1ab869b45",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "fcf247399c03f5d6cb1c",
+      "url": "https://news.hada.io/topic?id=35866",
+      "title": "스웨덴 정부청사, ChatGPT와 Claude 접속 차단 예정",
+      "original_title": "스웨덴 정부청사, ChatGPT와 Claude 접속 차단 예정",
+      "published_at": "2026-10-23T14:56:43+00:00",
+      "collected_at": "2026-10-23T18:54:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "스웨덴 정부청사(Regeringskansliet) 가 월요일부터 직원 업무용 컴퓨터에서 ChatGPT와 Claude 접속을 차단 함 직원들이 승인된 AI 서비스 를 사용하도록 유도하기 위한 조치이며, 승인 도구에는 Microsoft의 Copilot이 포함됨 다만 일부 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35866",
+          "title": "스웨덴 정부청사, ChatGPT와 Claude 접속 차단 예정"
+        }
+      ]
+    },
+    {
       "id": "2699a9401d2e4646114d",
       "url": "https://jacobin.com/2026/10/artificial-intelligence-investors-finance-bubble",
       "title": "Wall Street Is Getting Nervous About AI",
