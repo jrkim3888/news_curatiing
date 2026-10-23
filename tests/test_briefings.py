@@ -134,6 +134,72 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(result['briefing']['deferred_articles'], result['briefing']['reviewed_articles'] - 8)
         self.assertEqual(result['llm_requests'], 2)
 
+    def test_valid_uncited_candidate_summaries_are_saved_and_existing_summary_is_preserved(self):
+        chosen = []
+        def fail(inputs):
+            chosen.append(inputs[0]['article_id'])
+            raise SummaryError('output_token_limit')
+        self.run_batch(generate=fail)
+        store = Archive(self.root, self.args.runtime_dir)
+        month = next(iter(store.catalog['news']))
+        items = store.read('news', month)
+        saved = next(a for a in items if a['id'] == chosen[0])
+        saved.update(status='summarized', title='이미 검증한 한국어 기사 제목',
+                     summary='이미 생성한 한국어 요약입니다. 동일한 기사의 요약을 반복해서 생성하지 않습니다.',
+                     why_it_matters='기존에 검증된 설명을 계속 읽을 수 있습니다.',
+                     summary_meta={'model':'old/model', 'prompt_version':'old',
+                                   'generated_at':self.now.isoformat(), 'input_hash':'a'*64,
+                                   'evidence_verified':True})
+        saved = copy.deepcopy(saved)
+        store.save(news={month:items})
+        store.close()
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        def generate(inputs):
+            self.assertEqual(len(inputs), 8)
+            self.assertEqual(sum(not i['needs_summary'] for i in inputs), 1)
+            value = response(inputs)
+            value['article_summaries'] = [s for i in inputs for s in response([i])['article_summaries']]
+            self.assertEqual(len(value['article_summaries']), 7)
+            return value
+        result = self.run_batch(generate=generate)
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['articles_summarized'], 7)
+        self.assertEqual(result['briefing']['selected_articles'], 2)
+        self.assertEqual(result['briefing']['article_summary_coverage']['required_summaries'], 1)
+        self.assertEqual(result['briefing']['article_summary_coverage']['uncited_summaries'], 6)
+        actual = {a['id']:a for a in read_news(self.root)['articles']}
+        self.assertEqual(actual[saved['id']], saved)
+        self.assertEqual(sum(a['status'] == 'summarized' for a in actual.values()), 8)
+        edition = read_history(self.root)['editions'][0]
+        self.assertEqual({a['id'] for a in edition['articles']}, set(edition['issues'][0]['article_ids']))
+
+    def test_uncited_summaries_cannot_hide_missing_cited_summaries(self):
+        def generate(inputs):
+            value = response(inputs)
+            value['article_summaries'][1] = response([inputs[2]])['article_summaries'][0]
+            return value
+        result = self.run_batch(generate=generate)
+        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+        self.assertEqual(result['briefing']['validation_error'], 'Missing selected article summaries')
+        self.assertEqual(result['briefing']['validation_details']['missing_summaries'], 1)
+        self.assertFalse(read_history(self.root)['editions'])
+        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
+    def test_uncited_summaries_still_require_their_own_valid_evidence(self):
+        def generate(inputs):
+            value = response(inputs)
+            extra = response([inputs[2]])['article_summaries'][0]
+            extra['evidence'] = ['An invented statement from another source.']
+            value['article_summaries'].append(extra)
+            return value
+        result = self.run_batch(generate=generate)
+        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+        self.assertEqual(result['briefing']['stage'], 'article_summary_validation')
+        self.assertNotEqual(result['briefing']['validation_error'], 'Missing selected article summaries')
+        self.assertFalse(read_history(self.root)['editions'])
+        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
     def test_shortlist_cannot_reintroduce_duplicates_or_exceed_writer_budget(self):
         inputs = [{'article_id': str(i)} for i in range(16)]
         fresh = inputs[1:]
@@ -758,7 +824,7 @@ class BriefingTests(unittest.TestCase):
         result = self.run_batch(generate=generated)
         self.assertEqual(result['briefing']['result'], 'created')
         edition = read_history(self.root)['editions'][0]
-        self.assertEqual(edition['prompt_version'], 'daily-brief-v7')
+        self.assertEqual(edition['prompt_version'], 'daily-brief-v8')
         self.assertEqual(edition['overview'][0]['text'], response([])['overview'][0]['text'])
 
     def test_prose_handles_abbreviations_versions_quotes_and_rejects_fragments(self):

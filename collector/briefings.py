@@ -20,7 +20,7 @@ from .core import CATEGORIES, UTC, article_id, canonical_url, validate_summary
 from .llm import MODEL_OPTIONS, SummaryError
 from .network import Robots, request
 
-PROMPT_VERSION = "daily-brief-v7"
+PROMPT_VERSION = "daily-brief-v8"
 KST = ZoneInfo("Asia/Seoul")
 MAX_INPUTS = 16
 DEFAULT_MAX_TOKENS = 50000
@@ -44,7 +44,7 @@ JSON만 반환하세요. issues → overview → headline → takeaway → artic
  "overview":[{"sentences":["무슨 일이 있었는지 설명하는 완결된 한국어 문장입니다.","구체적인 사례와 의미 또는 확인해야 할 한계를 설명하는 문장입니다."],"issue_indexes":[0]}],
  "headline":"하루의 주제를 담은 짧은 제목(6~60자, 하나의 관점)",
  "takeaway":"오늘의 한 줄: 독자가 기억할 핵심 의미를 담은 한 문장(20~120자)",
- "article_summaries":[{"article_id":"issues의 evidence에서 실제 사용한 기사 ID",
+ "article_summaries":[{"article_id":"입력의 needs_summary=true인 기사 ID",
  "title":"이 기사만 설명하는 한국어 제목(5~100자)", "summary":"이 기사만 요약하는 한국어 2~3문장(30~220자)",
  "why_it_matters":"이 기사의 의미를 설명하는 절제된 AI 해석(15~100자)",
  "category":"모델·연구/개발·도구/산업·비즈니스/정책·사회 중 하나",
@@ -64,7 +64,7 @@ overview의 issue_indexes는 issues의 0부터 시작하는 인덱스입니다. 
 각 이슈의 facts는 1~2개(각 200자 이하), 각 사실의 evidence는 1~2개(인용당 120자 이하)입니다. 여러 기사에서 종합한 사실에는 각 기사 근거를 연결하세요.
 각 사실의 links에는 모델명·제품명·평가명·핵심 개념 같은 구절 1~2개만 고르세요(최대 2개). 전체 문장이나 절을 링크로 만들지 마세요. 링크 구절의 합은 해당 text 길이의 절반 이하여야 합니다.
 links.text는 facts.text에서 그대로 복사하며 겹치거나 반복 등장하는 구절은 고르지 마세요. 적절한 구절이 없으면 links를 빈 배열로 두세요. 링크의 article_id는 해당 사실의 evidence에 있는 실제 근거로만 연결하세요.
-article_summaries에는 issues의 evidence에 사용한 기사 중 needs_summary=true인 ID만 정확히 한 번씩 넣으세요. needs_summary=false인 기사는 이미 검증된 요약이 있으므로 생성하지 마세요. 사용하지 않은 기사는 넣지 마세요. 새 요약이 필요 없으면 빈 배열을 반환하세요.
+article_summaries에는 issues의 evidence에 사용한 기사 중 needs_summary=true인 ID를 빠짐없이 정확히 한 번씩 넣으세요. 본문에 인용하지 않은 입력 후보도 독립적인 기사 요약을 작성했다면 포함할 수 있습니다. needs_summary=false인 기사는 이미 검증된 요약이 있으므로 생성하지 마세요. 입력에 없는 ID나 중복 ID는 넣지 마세요. 필요한 새 요약이 없으면 빈 배열을 반환할 수 있습니다.
 기사별 summary는 100~220자, why_it_matters는 40~100자로 간결하게 작성하세요. evidence는 120자 이하 인용 1개입니다. 긴 원문 전체를 복사하거나 같은 인용을 반복하지 마세요. 전체 응답은 간결한 한국어 JSON으로만 작성하세요.
 기사별 요약은 해당 article_id의 source_text만 근거로 쓰세요. 다른 기사의 사실이나 여러 기사를 종합한 이슈 문장을 그대로 옮기지 마세요.
 기사를 여러 이슈에 중복 배정하지 마세요. URL, 새로운 article_id, 근거에 없는 수치나 날짜를 생성하지 마세요."""
@@ -457,28 +457,50 @@ def make_edition(value, inputs, articles, sources, now, model, digest):
             "reviewed_articles": len(inputs), "model": model, "prompt_version": PROMPT_VERSION, "input_hash": digest}
 
 
-def article_summary_updates(value, edition, inputs, articles):
-    """Validate each selected article against its own text before changing any shard."""
+def article_summary_updates(value, edition, inputs, articles, *, diagnostics=None):
+    """Require cited summaries; also keep grounded summaries of other writer inputs."""
     selected = {a["id"] for a in edition["articles"]}
     available = {i["article_id"]: i for i in inputs}
     originals = {a["id"]: a for a in articles}
     needed = {aid for aid in selected if originals[aid]['status'] != 'summarized'}
-    if not isinstance(value, list) or len(value) != len(needed):
-        raise BriefingValidationError("Missing selected article summaries")
-    seen, updates = set(), {}
+    allowed = {aid for aid in available if originals[aid]['status'] != 'summarized'}
+    counts = diagnostics if diagnostics is not None else {}
+    counts.update(input_articles=len(available), cited_articles=len(selected),
+                  required_summaries=len(needed),
+                  returned_summaries=len(value) if isinstance(value, list) else None)
+    def fail(message):
+        raise BriefingValidationError(message, details={"field": "article_summaries", **counts})
+
+    if not isinstance(value, list):
+        fail("Invalid article summaries list")
+    identities = []
     for item in value:
         if not isinstance(item, dict) or not isinstance(item.get("article_id"), str):
-            raise BriefingValidationError("Invalid article summary identity")
+            fail("Invalid article summary identity")
+        identities.append(item['article_id'])
+    returned = set(identities)
+    counts.update(missing_summaries=len(needed - returned),
+                  uncited_summaries=len((returned & allowed) - selected),
+                  duplicate_summaries=len(identities) - len(returned),
+                  unknown_articles=len(returned - available.keys()),
+                  already_summarized_articles=len((returned & available.keys()) - allowed))
+    if counts['unknown_articles']:
+        fail("Article summary references an unknown input")
+    if counts['duplicate_summaries']:
+        fail("Duplicate article summary")
+    if counts['already_summarized_articles']:
+        fail("Article summary would replace an existing summary")
+    if counts['missing_summaries']:
+        fail("Missing selected article summaries")
+    updates = {}
+    for item in value:
         aid = item["article_id"]
-        if aid not in needed or aid in seen:
-            raise BriefingValidationError("Unexpected or duplicate article summary")
-        seen.add(aid)
         try:
             summary = validate_summary({k: v for k, v in item.items() if k != "article_id"},
                                        available[aid]["source_text"])
         except ValueError as exc:
             # validate_summary emits only static messages, never source/model text.
-            raise BriefingValidationError(str(exc)) from None
+            fail(str(exc))
         article = copy.deepcopy(originals[aid])
         article["sources"].sort(key=lambda ref: ref["source_id"] != available[aid]["source_id"])
         article.update({k: summary[k] for k in ("title", "summary", "why_it_matters", "category")})
@@ -538,9 +560,9 @@ def validate_history(history):
             if not revised_at.tzinfo or revised_at < generated:
                 raise BriefingValidationError("Invalid overview revision time")
             korean(revision["note"], 10, 300)
-        if e["prompt_version"] in ("daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", PROMPT_VERSION) and not e.get("takeaway"):
+        if e["prompt_version"] in ("daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", "daily-brief-v7", PROMPT_VERSION) and not e.get("takeaway"):
             raise BriefingValidationError("Missing daily takeaway")
-        if e["prompt_version"] in ("daily-brief-v2", "daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", PROMPT_VERSION) or revision or e.get("takeaway"):
+        if e["prompt_version"] in ("daily-brief-v2", "daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", "daily-brief-v7", PROMPT_VERSION) or revision or e.get("takeaway"):
             validate_narrative(e["headline"], e["overview"], len(e["issues"]), e.get("takeaway"))
         article_ids = {a["id"] for a in e["articles"]}
         if len(article_ids) != len(e["articles"]):

@@ -3,6 +3,295 @@
   "month": "2026-10",
   "editions": [
     {
+      "id": "2026-10-23",
+      "day": "2026-10-23",
+      "scheduled_at": "2026-10-22T21:30:00+00:00",
+      "generated_at": "2026-10-23T00:51:21+00:00",
+      "window_start": "2026-10-21T21:00:00+00:00",
+      "window_end": "2026-10-22T21:00:00+00:00",
+      "status": "published",
+      "headline": "기업 업무로 파고든 AI, 도구 통합과 자동화 성과",
+      "takeaway": "AI 도구가 전사 업무와 통신망 운영에 들어오면서 효율 성과와 함께 자체 평가·미달성 목표를 구분해 봐야 합니다.",
+      "overview": [
+        {
+          "text": "우버가 임직원 3만여 명에게 에이전트형 업무 도구를 전사 배포하고, 오픈AI는 반복적 소규모 판단을 빠르게 처리하는 Decisions API를 정식 출시했습니다. 기업들이 AI를 실험 단계에서 벗어나 문서 작성과 분류, 라우팅 같은 일상 업무에 직접 투입하면서 도구 선택과 검증 부담도 함께 커지고 있습니다.",
+          "issue_ids": [
+            "issue-1",
+            "issue-2"
+          ]
+        },
+        {
+          "text": "리커시브는 AI 자동화 연구 시스템을 활용해 4개월도 안 되는 기간에 온디바이스 코딩 모델 플린트를 개발했다고 밝혔습니다. 모델 가중치를 공개하고 로컬 실행을 지원한다는 점은 데이터 보안과 비용을 중시하는 개발자에게 선택지를 넓히지만, 성능 수치는 자체 평가라는 한계가 있습니다.",
+          "issue_ids": [
+            "issue-3"
+          ]
+        },
+        {
+          "text": "보다폰은 AI로 5세대 이동통신 무선망 전력을 두 자릿수 비율 줄였다고 밝혔고, KB증권은 25개 AI 에이전트를 통합해 기업공개 수요예측 시간을 크게 단축했다고 설명했습니다. 두 사례 모두 운영 효율 개선을 내세우지만, 보다폰의 장애 감축 목표는 아직 달성치가 아닌 향후 계획입니다.",
+          "issue_ids": [
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "우버, 전 직원 3만여 명에 ChatGPT Work 전사 배포",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "우버가 임직원 3만여 명을 대상으로 에이전트형 업무 도구 'ChatGPT Work'를 전사 배포했으며, 1000명 규모 시범 운영에서 확대한 것이다.",
+              "article_ids": [
+                "eda525050cea8fce4b13"
+              ],
+              "links": [
+                {
+                  "text": "ChatGPT Work",
+                  "article_id": "eda525050cea8fce4b13"
+                }
+              ]
+            },
+            {
+              "text": "ChatGPT Work는 구글 드라이브·지메일·캘린더·슬랙과 연동되며, 우버는 기본 모델로 GPT‑6.1 Sol을 적용한다고 밝혔다.",
+              "article_ids": [
+                "eda525050cea8fce4b13"
+              ],
+              "links": [
+                {
+                  "text": "GPT‑6.1 Sol",
+                  "article_id": "eda525050cea8fce4b13"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "대규모 조직이 에이전트형 AI를 전사 표준 업무 도구로 채택하는 사례로, 기업용 AI 도입 경쟁과 업무 방식 변화에 영향을 준다.",
+          "article_ids": [
+            "eda525050cea8fce4b13"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "오픈AI, 저지연 의사결정 특화 'Decisions API' 정식 출시",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "오픈AI가 GPT‑6 Luna 기반의 Decisions API를 정식 출시했으며, 텍스트·이미지·구조화 입력에 대해 기존 대비 최대 10배 빠른 응답을 제공한다고 밝혔다.",
+              "article_ids": [
+                "891b7e0bbf66f86d27b7"
+              ],
+              "links": [
+                {
+                  "text": "GPT‑6 Luna",
+                  "article_id": "891b7e0bbf66f86d27b7"
+                },
+                {
+                  "text": "Decisions API",
+                  "article_id": "891b7e0bbf66f86d27b7"
+                }
+              ]
+            },
+            {
+              "text": "정식 출시와 함께 GPT‑Live 연동, 프롬프트 캐싱, 미국·유럽 추론 상주, 요청당 최대 400개 질문 지원이 추가됐다.",
+              "article_ids": [
+                "891b7e0bbf66f86d27b7"
+              ],
+              "links": [
+                {
+                  "text": "프롬프트 캐싱",
+                  "article_id": "891b7e0bbf66f86d27b7"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "분류·라우팅 같은 반복적 소규모 판단을 빠르고 저렴하게 처리하려는 수요를 겨냥한 것으로, 에이전트 워크플로 설계 방식에 영향을 준다.",
+          "article_ids": [
+            "891b7e0bbf66f86d27b7"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "리커시브, AI 자동화 시스템으로 개발한 온디바이스 코딩 모델 '플린트' 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "리커시브가 400억 매개변수 전문가 혼합 구조의 온디바이스 코딩 모델 '플린트'를 아파치 2.0 라이선스로 공개했으며, 토큰당 25억 개만 활성화한다고 밝혔다.",
+              "article_ids": [
+                "ed70b45177f3508a923d"
+              ],
+              "links": [
+                {
+                  "text": "플린트",
+                  "article_id": "ed70b45177f3508a923d"
+                }
+              ]
+            },
+            {
+              "text": "리커시브는 자동화 연구 시스템 '유레카 머신'이 모델 구조 탐색과 양자화, 추론 커널 개발 등 개발 전반을 지원했다고 설명했다.",
+              "article_ids": [
+                "ed70b45177f3508a923d"
+              ],
+              "links": [
+                {
+                  "text": "유레카 머신",
+                  "article_id": "ed70b45177f3508a923d"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 모델 개발 과정 자체를 자동화하는 시도로, 소규모 팀의 개발 역량과 온디바이스 코딩 도구 선택지에 영향을 줄 수 있다.",
+          "article_ids": [
+            "ed70b45177f3508a923d"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "보다폰, AI 기반 자율 네트워크 전환 성과 공개",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "보다폰이 AI 기반 에너지 최적화로 5세대 이동통신 무선망의 일일 전력 소비를 두 자릿수 비율로 줄이고, 라우터 업그레이드 시간을 약 70% 단축했다고 밝혔다.",
+              "article_ids": [
+                "344e8662d845c193849a"
+              ],
+              "links": [
+                {
+                  "text": "70%",
+                  "article_id": "344e8662d845c193849a"
+                }
+              ]
+            },
+            {
+              "text": "보다폰은 서비스 중단을 최대 50% 줄이고 장애 복구 속도를 70% 높이는 것을 향후 목표로 제시했으며, 이는 아직 달성한 성과가 아니라고 밝혔다.",
+              "article_ids": [
+                "344e8662d845c193849a"
+              ],
+              "links": [
+                {
+                  "text": "서비스 중단",
+                  "article_id": "344e8662d845c193849a"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "통신망 운영에 AI를 적용해 전력과 장애 대응을 개선하려는 시도로, 통신 인프라 효율화와 자율 운영 수준의 현실적 한계를 보여준다.",
+          "article_ids": [
+            "344e8662d845c193849a"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "KB증권, 25개 AI 에이전트 통합한 '깨비AI' 성과 공개",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "KB증권이 25개 AI 에이전트와 140개 데이터 저장소를 하나로 통합한 임직원용 슈퍼 에이전트 '깨비AI'를 운영 중이며, 서비스 시작 이후 이용량이 17.5배 이상 늘었다고 밝혔다.",
+              "article_ids": [
+                "744094843871bfc56ba4"
+              ],
+              "links": [
+                {
+                  "text": "25개 AI 에이전트",
+                  "article_id": "744094843871bfc56ba4"
+                },
+                {
+                  "text": "깨비AI",
+                  "article_id": "744094843871bfc56ba4"
+                }
+              ]
+            },
+            {
+              "text": "KB증권에 따르면 기업공개 수요예측 업무는 기존 7~8시간에서 30분~1시간으로, 불완전판매 점검은 약 1시간에서 5분으로 줄었다.",
+              "article_ids": [
+                "744094843871bfc56ba4"
+              ],
+              "links": []
+            }
+          ],
+          "why_it_matters": "금융사가 여러 AI 에이전트를 통합해 핵심 업무에 적용한 사례로, 증권업의 업무 자동화와 계열사 확산 가능성을 보여준다.",
+          "article_ids": [
+            "744094843871bfc56ba4"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "891b7e0bbf66f86d27b7",
+          "title": "Build more responsive apps with the Decisions API",
+          "published_at": "2026-10-22T19:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "openai",
+              "url": "https://openai.com/index/decisions-api",
+              "title": "Build more responsive apps with the Decisions API",
+              "name": "OpenAI News",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "344e8662d845c193849a",
+          "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
+          "published_at": "2026-10-22T09:21:05+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42399",
+              "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "ed70b45177f3508a923d",
+          "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+          "published_at": "2026-10-22T08:48:26+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
+              "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "744094843871bfc56ba4",
+          "title": "KB증권, 25개 AI 에이전트를 하나로 묶었다",
+          "published_at": "2026-10-22T08:47:48+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/10/1021-10",
+              "title": "KB증권, 25개 AI 에이전트를 하나로 묶었다",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "eda525050cea8fce4b13",
+          "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+          "published_at": "2026-10-22T00:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "openai",
+              "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+              "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+              "name": "OpenAI News",
+              "role": "official"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v8",
+      "input_hash": "6a7f38824b371286fbac65df4e9eb6c80b340529c63efc94e43765e8cedd8f3b"
+    },
+    {
       "id": "2026-10-22",
       "day": "2026-10-22",
       "scheduled_at": "2026-10-21T21:30:00+00:00",

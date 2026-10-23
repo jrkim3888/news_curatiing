@@ -271,7 +271,9 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
         candidate = briefings.apply_editorial({"version": 1, "editions": [edition, *history["editions"]]}, editorial)
         briefings.validate_history(candidate)
         stage = "article_summary_validation"
-        updates = briefings.article_summary_updates(value["article_summaries"], edition, inputs, articles)
+        report['briefing']['article_summary_coverage'] = {}
+        updates = briefings.article_summary_updates(value["article_summaries"], edition, inputs, articles,
+                                                    diagnostics=report['briefing']['article_summary_coverage'])
     except Exception as exc:
         reason = exc.reason if isinstance(exc, (SummaryError, RequestError)) else type(exc).__name__
         if isinstance(exc, briefings.BriefingValidationError):

@@ -343,14 +343,14 @@
     {
       "id": "891b7e0bbf66f86d27b7",
       "url": "https://openai.com/index/decisions-api",
-      "title": "Build more responsive apps with the Decisions API",
+      "title": "오픈AI, GPT‑6 Luna 기반 Decisions API 정식 출시",
       "original_title": "Build more responsive apps with the Decisions API",
       "published_at": "2026-10-22T19:00:00+00:00",
       "collected_at": "2026-10-22T23:54:17+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Fast, focused, low-cost decisions for any application.…",
       "sources": [
         {
@@ -358,7 +358,17 @@
           "url": "https://openai.com/index/decisions-api",
           "title": "Build more responsive apps with the Decisions API"
         }
-      ]
+      ],
+      "summary": "오픈AI가 분류·라우팅 같은 제한된 답변의 판단을 빠르게 처리하는 Decisions API를 정식 출시했다. GPT‑6 Luna 기반으로 기존 대비 최대 10배 빠르며, 요청당 최대 400개 질문과 이미지 입력을 지원한다.",
+      "why_it_matters": "반복적 소규모 판단을 저비용으로 처리하려는 에이전트 워크플로 설계에 영향을 준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v8",
+        "generated_at": "2026-10-23T00:51:21+00:00",
+        "briefing_day": "2026-10-23",
+        "input_hash": "09e8344a0c89cb01e725d18b4b752a7f3d7789bf5c86fde354e74d87dfee888b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "575971a63ca3280440cc",
@@ -1197,14 +1207,14 @@
     {
       "id": "b7165d25990e3f9cc0fb",
       "url": "https://byline.network/2026/10/21-625",
-      "title": "유락 “증거 찾던 포렌식, AI 적용해 데이터 위험 관리까지 확장”",
+      "title": "유락, 포렌식에 AI 접목해 데이터 위험 관리로 확장",
       "original_title": "유락 “증거 찾던 포렌식, AI 적용해 데이터 위험 관리까지 확장”",
       "published_at": "2026-10-22T09:37:29+00:00",
       "collected_at": "2026-10-22T14:23:32+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "2018년 창업한 디지털 포렌식 전문기업 ‘유락(UROCK)’은 디지털 증거를 분석실로 옮기기 전, 조사 현장에서 필요한 기록부터 선별하는 도구를 개발해왔다. 최근에는 현장 포렌식에 인공지능(AI)를 접목하면서, 데이터 분류와 위험 점검으로 포렌식 제품의 활용 범위를 넓히고 있다. 유봉석 유락 대표는 “사고 원인을 …",
       "sources": [
         {
@@ -1212,19 +1222,29 @@
           "url": "https://byline.network/2026/10/21-625",
           "title": "유락 “증거 찾던 포렌식, AI 적용해 데이터 위험 관리까지 확장”"
         }
-      ]
+      ],
+      "summary": "디지털 포렌식 전문기업 유락이 현장 조사 도구에 AI를 접목해 데이터 분류와 위험 점검으로 활용 범위를 넓히고 있다. 엔비디아 그래픽처리장치 기반 소형 컴퓨터에서 경량 언어모델과 포렌식 기능을 구동하는 디파스 엣지를 개발 중이다.",
+      "why_it_matters": "사후 증거 조사에 머물던 포렌식이 상시 정보 유출 위험 점검으로 확장되는 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v8",
+        "generated_at": "2026-10-23T00:51:21+00:00",
+        "briefing_day": "2026-10-23",
+        "input_hash": "a5ecaafec0337d8c8a6dfc6cf3096472412543a50ff2f31a7a80a217dbe45e48",
+        "evidence_verified": true
+      }
     },
     {
       "id": "344e8662d845c193849a",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42399",
-      "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
+      "title": "보다폰, AI로 5G 전력 절감·라우터 업그레이드 단축",
       "original_title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
       "published_at": "2026-10-22T09:21:05+00:00",
       "collected_at": "2026-10-22T14:23:32+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "글로벌 통신기업 보다폰(Vodafone)이 인공지능(AI)을 활용해 통신망이 스스로 트래픽 수요를 예측하고, 네트워크 자원을 조정하며, 장애를 사전에 감지·대응하는 자율 네트워크(Autonomous Network) 전환을 본격화하고 있다.AI 기반 네트워크 운영으로 5G 무선망의 일일 전력 소비를 두 자릿수 비율로 …",
       "sources": [
         {
@@ -1232,7 +1252,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42399",
           "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진"
         }
-      ]
+      ],
+      "summary": "보다폰이 AI 기반 에너지 최적화로 5세대 이동통신 무선망의 일일 전력 소비를 두 자릿수 비율 줄이고, 라우터 업그레이드 시간을 약 70% 단축했다고 밝혔다. 서비스 중단 50% 감축과 복구 속도 70% 향상은 향후 목표다.",
+      "why_it_matters": "통신망 운영에 AI를 적용한 사례로, 인프라 효율화와 자율 운영의 현실적 한계를 함께 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v8",
+        "generated_at": "2026-10-23T00:51:21+00:00",
+        "briefing_day": "2026-10-23",
+        "input_hash": "b3d184415a151672f92d1f11197dbfcf0768c6b57eed51692bc85db39d81a6e7",
+        "evidence_verified": true
+      }
     },
     {
       "id": "e718c9733d3d33d3e510",
@@ -1297,14 +1327,14 @@
     {
       "id": "ed70b45177f3508a923d",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
-      "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+      "title": "리커시브, AI 자동화로 개발한 온디바이스 코딩 모델 플린트 공개",
       "original_title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
       "published_at": "2026-10-22T08:48:26+00:00",
       "collected_at": "2026-10-22T14:23:32+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 '플린트(Flint)'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브…",
       "sources": [
         {
@@ -1312,19 +1342,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216516",
           "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개"
         }
-      ]
+      ],
+      "summary": "리커시브가 400억 매개변수 전문가 혼합 구조의 온디바이스 코딩 모델 플린트를 아파치 2.0 라이선스로 공개했다. 자동화 연구 시스템 유레카 머신이 모델 구조 탐색과 양자화, 추론 커널 개발을 지원했다고 밝혔다.",
+      "why_it_matters": "AI가 모델 개발 과정을 자동화하는 시도로, 소규모 팀의 개발 역량과 로컬 코딩 도구 선택지에 영향을 준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v8",
+        "generated_at": "2026-10-23T00:51:21+00:00",
+        "briefing_day": "2026-10-23",
+        "input_hash": "a8f3a86ce91e92b4575991d84b5728c508e3fd58d8c44547afb203c25a1c2f6d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "744094843871bfc56ba4",
       "url": "https://byline.network/2026/10/1021-10",
-      "title": "KB증권, 25개 AI 에이전트를 하나로 묶었다",
+      "title": "KB증권, 25개 AI 에이전트 통합한 깨비AI 운영",
       "original_title": "KB증권, 25개 AI 에이전트를 하나로 묶었다",
       "published_at": "2026-10-22T08:47:48+00:00",
       "collected_at": "2026-10-22T14:23:32+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "KB증권이 인공지능(AI)을 단순한 업무 보조 도구에서 전사 핵심 역량으로 내재화하는 데 주력하고 있다. 임직원용 통합 AI 에이전트 ‘깨비AI’의 업무 스킬과 데이터 연계를 확대하고, 실제 현업에 적용해 업무 효율을 높이는 방식이다. 내부 업무에서 검증한 기술과 운영 경험을 바탕으로 KB금융지주 계열사 적용과 기업…",
       "sources": [
         {
@@ -1332,7 +1372,17 @@
           "url": "https://byline.network/2026/10/1021-10",
           "title": "KB증권, 25개 AI 에이전트를 하나로 묶었다"
         }
-      ]
+      ],
+      "summary": "KB증권이 25개 AI 에이전트와 140개 데이터 저장소를 통합한 임직원용 슈퍼 에이전트 깨비AI를 운영 중이라고 밝혔다. 기업공개 수요예측 업무는 7~8시간에서 30분~1시간으로, 불완전판매 점검은 약 1시간에서 5분으로 줄었다.",
+      "why_it_matters": "금융사가 여러 AI 에이전트를 통합해 핵심 업무에 적용한 사례로, 증권업 자동화 확산 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v8",
+        "generated_at": "2026-10-23T00:51:21+00:00",
+        "briefing_day": "2026-10-23",
+        "input_hash": "9d139ee89e0f51638a7c0b35757d233dbac10abef6f9a24bc602aa81afca8b99",
+        "evidence_verified": true
+      }
     },
     {
       "id": "08eceaf68deb4127ace9",
@@ -2257,14 +2307,14 @@
     {
       "id": "eda525050cea8fce4b13",
       "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "title": "우버, 3만여 임직원에 ChatGPT Work 전사 배포",
       "original_title": "Uber brings ChatGPT Work to all employees with OpenAI",
       "published_at": "2026-10-22T00:00:00+00:00",
       "collected_at": "2026-10-22T19:04:26+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.…",
       "sources": [
         {
@@ -2272,7 +2322,17 @@
           "url": "https://openai.com/index/uber-chatgpt-work-rollout",
           "title": "Uber brings ChatGPT Work to all employees with OpenAI"
         }
-      ]
+      ],
+      "summary": "우버가 1000명 규모 시범 운영을 거쳐 임직원 3만여 명에게 ChatGPT Work를 전사 배포했다. 이 도구는 구글 드라이브·지메일·캘린더·슬랙과 연동되며, 기본 모델로 GPT‑6.1 Sol이 적용된다.",
+      "why_it_matters": "대규모 조직이 에이전트형 AI를 표준 업무 도구로 채택한 사례로, 기업용 AI 확산 속도를 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v8",
+        "generated_at": "2026-10-23T00:51:21+00:00",
+        "briefing_day": "2026-10-23",
+        "input_hash": "cf8b0b16a92f6872bc57022dacb2677e05e0aabae1c8bfc500265902fe037004",
+        "evidence_verified": true
+      }
     },
     {
       "id": "818377987dc84f777e43",

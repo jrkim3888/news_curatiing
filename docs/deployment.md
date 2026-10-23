@@ -102,7 +102,7 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 ## 브리핑 히스토리 확인
 
 - 수동 실행 후 `last-run.json`의 `briefing.result`가 `created`인지 확인합니다. `already_published`는 같은 날짜의 중복 생성을 건너뛴 것이며, `insufficient_sources`는 고정된 24시간 범위에서 이전 사용 기사를 제외한 요약 가능한 자료가 2건 미만인 경우입니다. `no_new_issues`는 모델이 검토한 후보 모두가 최근 발행한 사건의 재보도인 경우입니다. `cooldown`은 그날 이미 유료 요청을 시도한 상태입니다.
-- `briefing.excluded_previous_articles`는 ID·원문 URL 검사로 제외한 기사 수, `excluded_repeated_stories`는 모델이 최근 사건의 재보도로 제외한 기사 수, `previous_issues_compared`는 비교한 과거 이슈 수입니다. 유료 요청은 중복 판별 1회 + 생성 1회로 최대 2회입니다. 후보가 모두 재보도이면 생성 요청은 하지 않습니다. `coverage_llm`과 `llm`에 각 요청의 모델·토큰·비용·응답 글자 수 진단이 남습니다. `generation_articles`는 실제 작성에 전달한 기사 수, `deferred_articles`는 이번 작성 후보에서 제외된 나머지 새 기사 수, `reusable_article_summaries`는 작성 후보 중 기존 AI 요약을 재사용할 수 있는 기사 수입니다. 나머지 수집 기사도 뉴스 아카이브에서는 조회할 수 있습니다. 실패 재시도는 명시적인 날짜 지정과 재시도 옵션이 필요합니다.
+- `briefing.excluded_previous_articles`는 ID·원문 URL 검사로 제외한 기사 수, `excluded_repeated_stories`는 모델이 최근 사건의 재보도로 제외한 기사 수, `previous_issues_compared`는 비교한 과거 이슈 수입니다. 유료 요청은 중복 판별 1회 + 생성 1회로 최대 2회입니다. 후보가 모두 재보도이면 생성 요청은 하지 않습니다. `coverage_llm`과 `llm`에 각 요청의 모델·토큰·비용·응답 글자 수 진단이 남습니다. `generation_articles`는 실제 작성에 전달한 기사 수, `deferred_articles`는 이번 작성 후보에서 제외된 나머지 새 기사 수, `reusable_article_summaries`는 작성 후보 중 기존 AI 요약을 재사용할 수 있는 기사 수입니다. `article_summary_coverage`에는 본문 인용 기사 수(`cited_articles`), 필수 새 요약 수(`required_summaries`), 반환 수(`returned_summaries`), 실제 누락 수(`missing_summaries`), 본문에 인용하지 않은 후보 요약 수(`uncited_summaries`)와 중복·미등록·기존 요약 ID 수가 남습니다. 작성에 전달한 후보라면 본문에 인용되지 않은 기사 요약도 자체 원문 근거를 검증한 뒤 아카이브에 저장합니다. 본문에서 사용한 미요약 기사에는 반드시 새 요약이 있어야 합니다. 나머지 수집 기사도 뉴스 아카이브에서는 조회할 수 있습니다. 실패 재시도는 명시적인 날짜 지정과 재시도 옵션이 필요합니다.
 - Pages에서 `/briefings/` → 날짜를 선택해 당시 요약과 관련 원문을 확인합니다. 날짜당 한 편이며 `/briefings/YYYY-MM-DD/`에서 24시간 집계 범위, 발행 예정·실제 생성 시각을 표시합니다. 첫 성공 생성 전에는 빈 기록 안내가 정상입니다.
 - 날짜별 기록은 Git에 보존됩니다. 캐시를 지워도 기록은 유지됩니다. 단, 실패한 요청의 대기 시간은 캐시 유실 시 보장되지 않습니다.
 - 종합 브리핑과 주요 기사별 요약의 기본 출력 한도는 50,000토큰입니다. 기존 단일 기사 요약 비용을 그대로 적용하지 마세요.
@@ -114,7 +114,7 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 - `output_token_limit`: 모델이 `finish_reason=length`로 응답을 중단했습니다. 출력 예산과 추론 사용량을 확인합니다.
 - `invalid_response_json`: 응답을 기대한 JSON 구조로 읽을 수 없습니다.
 - `http_429`, `http_5xx`, `network_failed_or_timed_out`: API 제한·서버·네트워크 문제입니다.
-- `validation_failed`, `stage=briefing_validation` / `article_summary_validation`: 브리핑 / 기사별 요약 검증에서 실패했습니다. `validation_error`에는 원문이나 응답을 포함하지 않는 검증 항목 설명이 남습니다. 문장 형태 오류는 `validation_details`에 실패 필드 위치·문장 수·글자 수·종결 여부·줄바꿈/말줄임표 여부를 추가합니다. 원문 응답이나 실패 문장 전문은 저장하지 않습니다.
+- `validation_failed`, `stage=briefing_validation` / `article_summary_validation`: 브리핑 / 기사별 요약 검증에서 실패했습니다. `validation_error`에는 원문이나 응답을 포함하지 않는 검증 항목 설명이 남습니다. 기사별 요약 오류는 `validation_details`에도 누락·중복·미등록 ID 등의 개수를 남깁니다. 문장 형태 오류는 `validation_details`에 실패 필드 위치·문장 수·글자 수·종결 여부·줄바꿈/말줄임표 여부를 추가합니다. 원문 응답이나 실패 문장 전문은 저장하지 않습니다.
 
 원인을 수정한 후 **Actions → Collect AI news → Run workflow**에서 아래와 같이 실행합니다.
 

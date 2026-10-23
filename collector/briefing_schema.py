@@ -39,7 +39,7 @@ def response_format(inputs):
                    "summary": text(30, 220), "why_it_matters": text(15, 100),
                    "category": category, "evidence": array(text(12, 120), 1, 1)})
     return {"type": "json_schema", "json_schema": {
-        "name": "daily_brief_v7", "strict": True,
+        "name": "daily_brief_v8", "strict": True,
         "schema": obj({"issues": array(issue, 1, 5), "overview": array(overview, 1, 3),
                        "headline": {**text(6, 60), "pattern": r"^[^·…|\n]+$"}, "takeaway": text(20, 120),
                        "article_summaries": array(summary, 0, min(MAX_GENERATION_INPUTS, len(summary_ids)))}),
