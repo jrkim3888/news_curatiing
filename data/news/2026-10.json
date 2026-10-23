@@ -3,6 +3,487 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "238ea83077ceb17bd4d1",
+      "url": "https://github.com/anthropics/claude-code/issues/65358",
+      "title": "Claude Code will refuse to fill in passwords or use a password manager",
+      "original_title": "Claude Code will refuse to fill in passwords or use a password manager",
+      "published_at": "2026-10-23T23:33:23+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/anthropics/claude-code/issues/65358",
+          "title": "Claude Code will refuse to fill in passwords or use a password manager",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216816"
+        }
+      ]
+    },
+    {
+      "id": "227cecfcb7bfdf5ec382",
+      "url": "https://github.com/mrpkk/soma-protocol",
+      "title": "Soma – memory and proofs for AI agents, measured not asserted",
+      "original_title": "Soma – memory and proofs for AI agents, measured not asserted",
+      "published_at": "2026-10-23T23:31:45+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/mrpkk/soma-protocol",
+          "title": "Soma – memory and proofs for AI agents, measured not asserted",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216800"
+        }
+      ]
+    },
+    {
+      "id": "258ed05fa8b6a151ec31",
+      "url": "https://news.hada.io/topic?id=35889",
+      "title": "Google, Gmail과 Google Photos 데이터를 타깃 광고에 사용할 수도 있다고 밝힘",
+      "original_title": "Google, Gmail과 Google Photos 데이터를 타깃 광고에 사용할 수도 있다고 밝힘",
+      "published_at": "2026-10-23T23:31:42+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google이 개인정보처리방침 을 변경해, 사용자가 Gmail, Drive, Google Photos 데이터를 맞춤형 광고를 지원하는 다른 Google 서비스에 제공하면 광고 개인화에 사용할 수 있도록 예외를 추가함 Personal Intelligence 를 통해 해당 데이터를 AI Mode나 다른 검색 도...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35889",
+          "title": "Google, Gmail과 Google Photos 데이터를 타깃 광고에 사용할 수도 있다고 밝힘"
+        }
+      ]
+    },
+    {
+      "id": "be8841b021b76ea06119",
+      "url": "https://news.hada.io/topic?id=35888",
+      "title": "SaaS 실적 발표에서 드러난 AI의 15가지 흐름",
+      "original_title": "SaaS 실적 발표에서 드러난 AI의 15가지 흐름",
+      "published_at": "2026-10-23T23:28:09+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "상장 SaaS 기업 67곳의 실적 발표 를 검토한 결과, 거의 모든 기업이 전망 초과, 전망 상향, 성장 가속, 수익성 개선 중 하나 이상을 기록했으며 AI 제품이 실제 계약과 매출에 기여 하고 있음 경쟁력의 중심은 범용 모델보다 맥락, 데이터, 업무 흐름, 통합...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35888",
+          "title": "SaaS 실적 발표에서 드러난 AI의 15가지 흐름"
+        }
+      ]
+    },
+    {
+      "id": "be21cf5afca33faf58c7",
+      "url": "https://news.hada.io/topic?id=35887",
+      "title": "에이전트 시대의 사고 모델",
+      "original_title": "에이전트 시대의 사고 모델",
+      "published_at": "2026-10-23T23:24:18+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기존 사고 모델 은 여전히 유효하지만, 같은 명세로도 매번 다른 결과를 만드는 확률적 제품에 적용하면 자동화 범위, 권한, 검증, 투자에 대한 답이 달라짐 에이전트의 경제성은 토큰 단가보다 허용 기준을 충족한 작업당 비용 으로 판단해야 하며, 지능이 저렴해질...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35887",
+          "title": "에이전트 시대의 사고 모델"
+        }
+      ]
+    },
+    {
+      "id": "64af1d0e314888f239df",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216603",
+      "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극",
+      "original_title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극",
+      "published_at": "2026-10-23T23:22:34+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "문샷 AI의 새 플래그십 모델 ‘키미 K3.1 프로(Kimi K3.1 Pro)’가 아티피셜 애널리시스 성능 평가(AAII)에서 전체 4위, 오픈 모델 중 1위에 올랐다. 금융 분석과 코딩 능력을 끌어올려 미국 최첨단 모델과의 격차를 좁혔다. 모델 크기를 유지하면서 사후학습을 강화해 성능을 높인 것이 특징이다.문샷은 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216603",
+          "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극"
+        }
+      ]
+    },
+    {
+      "id": "ca564aec667a4062425a",
+      "url": "https://news.hada.io/topic?id=35886",
+      "title": "스스로 생각해도 된다는 허락: Thiel Fellowship의 초기 시절",
+      "original_title": "스스로 생각해도 된다는 허락: Thiel Fellowship의 초기 시절",
+      "published_at": "2026-10-23T23:20:44+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "대학 대신 자기 프로젝트에 도전하는 청년에게 2년간 10만 달러와 멘토링을 제공한 틸 펠로십의 초기 이야기 . Ethereum과 Figma, Anthropic 공동창업자들이 거쳐 간 프로그램의 선발과 지원 과정을 조명 성적과 학교 이름보다 허락을 기다리지 않고 이미 무언가를 만드는 사...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35886",
+          "title": "스스로 생각해도 된다는 허락: Thiel Fellowship의 초기 시절"
+        }
+      ]
+    },
+    {
+      "id": "4bef08f5f83b5a9b7dbb",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "title": "Using AI to clean your smart TV",
+      "original_title": "Using AI to clean your smart TV",
+      "published_at": "2026-10-23T23:17:28+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/Gathin23/cleanyourtv",
+          "title": "Using AI to clean your smart TV",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216682"
+        }
+      ]
+    },
+    {
+      "id": "29d58fa649949b0ddc39",
+      "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+      "title": "Show HN: AI Crash Debugging Gauntlet",
+      "original_title": "Show HN: AI Crash Debugging Gauntlet",
+      "published_at": "2026-10-23T23:11:06+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.forensicdbg.com/post/forensicdbg-s-ai-crash-debugging-gauntlet",
+          "title": "Show HN: AI Crash Debugging Gauntlet",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216641"
+        }
+      ]
+    },
+    {
+      "id": "e15b1c71a14c5ce605e7",
+      "url": "https://sampact.com/",
+      "title": "AgentProbe – test AI agents by making the systems around them fail",
+      "original_title": "AgentProbe – test AI agents by making the systems around them fail",
+      "published_at": "2026-10-23T23:10:48+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://sampact.com/",
+          "title": "AgentProbe – test AI agents by making the systems around them fail",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216636"
+        }
+      ]
+    },
+    {
+      "id": "585ea363f084ac16178f",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "original_title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "published_at": "2026-10-23T23:05:49+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+          "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”"
+        }
+      ]
+    },
+    {
+      "id": "ed543af64f6dfb7e753a",
+      "url": "https://agentcut.synteq.app/",
+      "title": "I built a harness so I can watch Claude edit my videos live",
+      "original_title": "I built a harness so I can watch Claude edit my videos live",
+      "published_at": "2026-10-23T22:48:17+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://agentcut.synteq.app/",
+          "title": "I built a harness so I can watch Claude edit my videos live",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216439"
+        }
+      ]
+    },
+    {
+      "id": "f6987b04902ef8924ad2",
+      "url": "https://aethyro.com/",
+      "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
+      "original_title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
+      "published_at": "2026-10-23T22:43:32+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aethyro.com/",
+          "title": "Aethyro – AI chat SaaS, and a billing bypass I found by attacking my own product",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216385"
+        }
+      ]
+    },
+    {
+      "id": "c73df98bd617121aacc2",
+      "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+      "title": "Wall Street prepares for AI's \"day after\"",
+      "original_title": "Wall Street prepares for AI's \"day after\"",
+      "published_at": "2026-10-23T22:36:07+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.axios.com/2026/10/23/ai-catastrophe-wall-street",
+          "title": "Wall Street prepares for AI's \"day after\"",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216307"
+        }
+      ]
+    },
+    {
+      "id": "31a07d1bb612448e74df",
+      "url": "https://www.youtube.com/watch?v=o6tNhFPuYjE",
+      "title": "Claude made me a DOOM II level [video]",
+      "original_title": "Claude made me a DOOM II level [video]",
+      "published_at": "2026-10-23T22:35:40+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=o6tNhFPuYjE",
+          "title": "Claude made me a DOOM II level [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216299"
+        }
+      ]
+    },
+    {
+      "id": "b4e1b7435a3f1f1b957c",
+      "url": "https://aakatheeri.github.io/narrative-deck",
+      "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+      "original_title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+      "published_at": "2026-10-23T22:18:39+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aakatheeri.github.io/narrative-deck",
+          "title": "Narrative Deck – AI Agent skill for creating interactive web stories",
+          "discussion_url": "https://news.ycombinator.com/item?id=50216138"
+        }
+      ]
+    },
+    {
+      "id": "058d4c4b543fb9735be8",
+      "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+      "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+      "original_title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+      "published_at": "2026-10-23T22:04:21+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cio.com/article/4238689/the-same-ai-project-emits-more-carbon-dioxide-in-texas-than-in-sweden.html",
+          "title": "The same AI question emits more carbon dioxide in Texas than in Sweden",
+          "discussion_url": "https://news.ycombinator.com/item?id=50215991"
+        }
+      ]
+    },
+    {
+      "id": "27af7f5624f46015ac2a",
+      "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+      "title": "AI devours a fifth of companies' IT budgets",
+      "original_title": "AI devours a fifth of companies' IT budgets",
+      "published_at": "2026-10-23T22:00:05+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.computerworld.com/article/4239898/ai-accounts-for-one-fifth-of-companies-it-budgets.html",
+          "title": "AI devours a fifth of companies' IT budgets",
+          "discussion_url": "https://news.ycombinator.com/item?id=50215950"
+        }
+      ]
+    },
+    {
+      "id": "0995ef29865f3c4d0413",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216572",
+      "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
+      "original_title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나",
+      "published_at": "2026-10-23T22:00:00+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI를 구동하는 컴퓨팅 자원이 석유처럼 금융시장에서 거래되는 시대가 다가오고 있습니다. GPU를 빌리는 가격에 이어 챗GPT와 클로드 같은 AI 모델을 기업이 사용할 때 내는 토큰 요금까지 새로운 금융상품의 기준으로 삼으려는 움직임입니다. 컴퓨팅이 AI 산업의 핵심 자원으로 자리 잡으면서, 가격 변동에 따른 위험을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216572",
+          "title": "[10월23일] AI 토큰 가격에 베팅하는 금융상품까지…컴퓨팅, 석유처럼 거래되나"
+        }
+      ]
+    },
+    {
+      "id": "1e55c29e6e1a3d35fd94",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "original_title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "published_at": "2026-10-23T21:59:19+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell",
+          "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell"
+        }
+      ]
+    },
+    {
+      "id": "02a20fdf8ff0273fd6f5",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+      "title": "Quick Study",
+      "original_title": "Quick Study",
+      "published_at": "2026-10-23T21:35:13+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas eleme…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter",
+          "title": "Quick Study"
+        }
+      ]
+    },
+    {
+      "id": "b5619922e4bc775139e3",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+      "title": "Moonshot, Kimi K3.1 Pro API 공개…가중치 11월 4일 공개 예고",
+      "original_title": "Introducing Kimi K3.1 Pro",
+      "published_at": "2026-10-23T19:40:54+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
+          "title": "Introducing Kimi K3.1 Pro"
+        }
+      ],
+      "summary": "Moonshot이 Kimi K3.1 Pro를 Kimi API에 공개했으며, 아직 오픈 웨이트는 아니지만 2026년 11월 4일까지 전체 모델 가중치를 공개하겠다고 밝혔다. 가격은 입력 100만 토큰당 2달러, 출력 100만 토큰당 10달러로 GPT-6.1 Sol과 같고 Claude Opus 5.5의 절반 수준이다. Moonshot 자체 벤치마크에서는 Opus 5.5, GPT-6 Astra와 대략 동등한 수준으로 나타났다.",
+      "why_it_matters": "곧 오픈 웨이트로 풀릴 예정인 모델이 프런티어 모델들과 비슷한 평가를 받았다는 점은 오픈 모델 생태계의 경쟁 구도를 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-23T23:46:21+00:00",
+        "input_hash": "ae95acd730f2dc62b1affd58b63bd2e32ac5ed32e327fa163dfae400ba6d7513",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "e8fbd857a8b6b0ff954a",
+      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "original_title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "published_at": "2026-10-23T19:06:23+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026",
+          "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026"
+        }
+      ]
+    },
+    {
       "id": "10c07595fe388d63151f",
       "url": "https://useinstantsearch.com/",
       "title": "Show HN: Instant – Local AI search with a 95% hit rate (uses Perplexity models)",
@@ -560,6 +1041,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42417",
           "title": "서울시설공단, 1만1천여 건 공사감독 경험 AI로 구현…건설현장 안전관리 지원"
+        }
+      ]
+    },
+    {
+      "id": "f8c156dba7886826388b",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "Securing our frontier model training environment",
+      "original_title": "Securing our frontier model training environment",
+      "published_at": "2026-10-23T10:00:00+00:00",
+      "collected_at": "2026-10-23T23:46:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "title": "Securing our frontier model training environment"
         }
       ]
     },
