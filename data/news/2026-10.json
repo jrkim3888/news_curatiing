@@ -3,6 +3,234 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "772ef39e941f530c7f13",
+      "url": "https://deepsearch.ing/",
+      "title": "Show HN: DeepSearch – Search engine built on DeepSeek API",
+      "original_title": "Show HN: DeepSearch – Search engine built on DeepSeek API",
+      "published_at": "2026-10-24T22:44:35+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://deepsearch.ing/",
+          "title": "Show HN: DeepSearch – Search engine built on DeepSeek API",
+          "discussion_url": "https://news.ycombinator.com/item?id=50226186"
+        }
+      ]
+    },
+    {
+      "id": "4b7b4af83865cb8e78d7",
+      "url": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you",
+      "title": "AI Is Planning to Kill You",
+      "original_title": "AI Is Planning to Kill You",
+      "published_at": "2026-10-24T22:40:45+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you",
+          "title": "AI Is Planning to Kill You",
+          "discussion_url": "https://news.ycombinator.com/item?id=50226160"
+        }
+      ]
+    },
+    {
+      "id": "a92a400264dfa863efb3",
+      "url": "https://github.com/Ablation-Tool/kevlar",
+      "title": "Kevlar = MCP Firewall for LLM's",
+      "original_title": "Kevlar = MCP Firewall for LLM's",
+      "published_at": "2026-10-24T22:24:09+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/Ablation-Tool/kevlar",
+          "title": "Kevlar = MCP Firewall for LLM's",
+          "discussion_url": "https://news.ycombinator.com/item?id=50226016"
+        }
+      ]
+    },
+    {
+      "id": "658a995e1393dd8c95a9",
+      "url": "https://thomasunise.com/argus",
+      "title": "Argus – a free, open-source agentic security operations platform – MIT",
+      "original_title": "Argus – a free, open-source agentic security operations platform – MIT",
+      "published_at": "2026-10-24T21:54:16+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thomasunise.com/argus",
+          "title": "Argus – a free, open-source agentic security operations platform – MIT",
+          "discussion_url": "https://news.ycombinator.com/item?id=50225748"
+        }
+      ]
+    },
+    {
+      "id": "b7706d4b5268de1c85c8",
+      "url": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe",
+      "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+      "original_title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+      "published_at": "2026-10-24T21:47:18+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/us-news/law/fbi-explores-espionage-case-against-saudi-openai-suspect-fbaedefe",
+          "title": "FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+          "discussion_url": "https://news.ycombinator.com/item?id=50225691"
+        }
+      ]
+    },
+    {
+      "id": "2dc4fcb0d73319f20c68",
+      "url": "https://news.hada.io/topic?id=35938",
+      "title": "GPU-unlock: Nvidia 3000 시리즈 카드의 FP/BF16 명령 발행 속도 제한 해제",
+      "original_title": "GPU-unlock: Nvidia 3000 시리즈 카드의 FP/BF16 명령 발행 속도 제한 해제",
+      "published_at": "2026-10-24T21:38:28+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "GPU unlock 1.0.0 은 Nvidia 3000 시리즈 GPU의 FP/BF16 명령 발행 속도를 전문가용 제품 수준으로 해제하는 Linux 커널 모듈임 NVIDIA 드라이버가 GPU에 연결되기 전 설정을 변경하므로 드라이버 자체를 수정하지 않으며, 새 드라이버가 나올 때마다 수동 패치를 적...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35938",
+          "title": "GPU-unlock: Nvidia 3000 시리즈 카드의 FP/BF16 명령 발행 속도 제한 해제"
+        }
+      ]
+    },
+    {
+      "id": "ee198aa079ed09d2e163",
+      "url": "https://news.hada.io/topic?id=35937",
+      "title": "기술 부문 밖에서는 AI 성과의 징후가 없음",
+      "original_title": "기술 부문 밖에서는 AI 성과의 징후가 없음",
+      "published_at": "2026-10-24T21:35:28+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "대규모 AI 투자와 높은 기대에도 기술 부문 밖 미국 기업 에서는 매출 성장이나 이익률 개선의 증거가 아직 없음 Mag 7 의 직원당 매출과 이익률은 상승하지만 S&P 493 에서는 정체돼 있으며, AI가 생산성 증가를 촉진한다는 징후도 아직 없음...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35937",
+          "title": "기술 부문 밖에서는 AI 성과의 징후가 없음"
+        }
+      ]
+    },
+    {
+      "id": "b67ddff26d61bf458be1",
+      "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+      "title": "Making My Blog Readable by AI Agents",
+      "original_title": "Making My Blog Readable by AI Agents",
+      "published_at": "2026-10-24T21:21:33+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://deallocatedobjects.com/posts/making-my-blog-readable-by-ai-agents",
+          "title": "Making My Blog Readable by AI Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50225443"
+        }
+      ]
+    },
+    {
+      "id": "349a2e508551092d1063",
+      "url": "https://github.com/sevenboxlabs/sevenbox",
+      "title": "Sevenbox, find what an AI agent's wrong decision affected",
+      "original_title": "Sevenbox, find what an AI agent's wrong decision affected",
+      "published_at": "2026-10-24T21:09:47+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/sevenboxlabs/sevenbox",
+          "title": "Sevenbox, find what an AI agent's wrong decision affected",
+          "discussion_url": "https://news.ycombinator.com/item?id=50225322"
+        }
+      ]
+    },
+    {
+      "id": "8af5fa528f542499dec8",
+      "url": "https://perchfocus.com/",
+      "title": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
+      "original_title": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
+      "published_at": "2026-10-24T21:01:39+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://perchfocus.com/",
+          "title": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
+          "discussion_url": "https://news.ycombinator.com/item?id=50225233"
+        }
+      ]
+    },
+    {
+      "id": "988202d2feb5743dae62",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "published_at": "2026-10-24T19:00:00+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it"
+        }
+      ]
+    },
+    {
       "id": "a4dc0cf7ff1e072191d3",
       "url": "https://news.hada.io/topic?id=35931",
       "title": "AI와 과학 공유자원의 인클로저",
@@ -315,6 +543,26 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
           "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+        }
+      ]
+    },
+    {
+      "id": "a5401bd61a322921c3e5",
+      "url": "https://news.hada.io/topic?id=35920",
+      "title": "Elon Musk가 유럽에 미국 기술을 대체할 이유를 줬다",
+      "original_title": "Elon Musk가 유럽에 미국 기술을 대체할 이유를 줬다",
+      "published_at": "2026-10-24T14:34:41+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "린 스타트업의 토대를 만든 Steve Blank가, Musk의 우크라이나 위성통신 제한 이 유럽에 미국 기술을 대체할 이유 를 줬다고 지적함 전쟁 중 핵심 통신을 제한할 수 있다면 Microsoft와 OpenAI, Oracle 등의 소프트웨어와 AI도 차단될 수 있다 는 우...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35920",
+          "title": "Elon Musk가 유럽에 미국 기술을 대체할 이유를 줬다"
         }
       ]
     },
@@ -915,6 +1163,26 @@
       ]
     },
     {
+      "id": "54408dd789bddea23406",
+      "url": "https://news.hada.io/topic?id=35907",
+      "title": "AI로 빨라진 공격, 이것이 사이버 보안의 새로운 일상인가?",
+      "original_title": "AI로 빨라진 공격, 이것이 사이버 보안의 새로운 일상인가?",
+      "published_at": "2026-10-24T06:35:43+00:00",
+      "collected_at": "2026-10-24T22:56:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "PHP와 GitLab, 인증기관과 클라우드에서 심각한 보안 문제가 잇따르는 가운데, AI가 취약점 정보를 실제 공격 코드로 바꾸는 속도를 높이며 방어자의 대응 시간을 압박함 PHP2Shell은 2024년 감사에서 발견하고도 공격 방법을 찾지 못해 남겨둔 결함을 AI로 실제 공격에 연결...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35907",
+          "title": "AI로 빨라진 공격, 이것이 사이버 보안의 새로운 일상인가?"
+        }
+      ]
+    },
+    {
       "id": "59d4e6fd95e7b5a80be0",
       "url": "https://liveshortly.com/",
       "title": "Pair Prompt and Agentic Interview",
@@ -1491,6 +1759,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
           "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks",
+          "title": "OpenAI says it will no longer train its AI models on the live internet",
+          "discussion_url": "https://news.ycombinator.com/item?id=50225552"
         }
       ]
     },
