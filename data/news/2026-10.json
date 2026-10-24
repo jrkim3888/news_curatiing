@@ -3,6 +3,437 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "e071c7424f3c40e5a503",
+      "url": "https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck",
+      "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
+      "original_title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
+      "published_at": "2026-10-24T12:57:53+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck",
+          "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220831"
+        }
+      ]
+    },
+    {
+      "id": "13c152dda6db45fe68a2",
+      "url": "https://mantid.dev/",
+      "title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
+      "original_title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
+      "published_at": "2026-10-24T12:49:06+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mantid.dev/",
+          "title": "Show HN: Mantid, a Mac app that lets non-ML people train their own AI models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220773"
+        }
+      ]
+    },
+    {
+      "id": "ed77744659a7745e45c9",
+      "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out",
+      "title": "Nvidia's RTX Spark has an NPU, I spent a week figuring it out",
+      "original_title": "Nvidia's RTX Spark has an NPU, I spent a week figuring it out",
+      "published_at": "2026-10-24T12:40:13+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out",
+          "title": "Nvidia's RTX Spark has an NPU, I spent a week figuring it out",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220703"
+        }
+      ]
+    },
+    {
+      "id": "4454f5185dc521199ecd",
+      "url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html",
+      "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+      "original_title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+      "published_at": "2026-10-24T12:38:09+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://medicalxpress.com/news/2026-10-ai-generalist-doctors-medical.html",
+          "title": "AI gets more diagnoses right than generalist doctors in medical challenge",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220694"
+        }
+      ]
+    },
+    {
+      "id": "b3764f1a79cb2990f4ac",
+      "url": "https://homepage.farm/ai.html",
+      "title": "What's Wrong with AI?",
+      "original_title": "What's Wrong with AI?",
+      "published_at": "2026-10-24T12:30:32+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://homepage.farm/ai.html",
+          "title": "What's Wrong with AI?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220640"
+        }
+      ]
+    },
+    {
+      "id": "3d1ee2b88a20edb4553b",
+      "url": "https://www.construction-physics.com/p/reading-list-102426",
+      "title": "Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data",
+      "original_title": "Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data",
+      "published_at": "2026-10-24T12:16:03+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.construction-physics.com/p/reading-list-102426",
+          "title": "Minimum lot sizes, Boeing's next 737 MAX, Fervo short sellers, Figure AI's data",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220547"
+        }
+      ]
+    },
+    {
+      "id": "bcdaad9cbaf43de611b7",
+      "url": "https://www.ndw.jp/nintendo-interview-261023",
+      "title": "Shigeru Miyamoto on Gen AI",
+      "original_title": "Shigeru Miyamoto on Gen AI",
+      "published_at": "2026-10-24T11:52:32+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ndw.jp/nintendo-interview-261023",
+          "title": "Shigeru Miyamoto on Gen AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220413"
+        }
+      ]
+    },
+    {
+      "id": "124dc3977152598f47b0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+      "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+      "original_title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+      "published_at": "2026-10-24T11:38:59+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "순다르 피차이 구글 CEO가 클라우드 사업의 단기 매출을 일부 포기하더라도 첨단 AI 모델 개발에 컴퓨팅 자원을 우선 투입하겠다고 밝혔다. 연구진에게 충분한 연산 자원을 제공하는 것을 타협할 수 없는 원칙으로 제시하고, 실제로 클라우드 사업과 AI 연구 사이에서 자원을 조정하고 있다고 설명했다.피차이 CEO는 20일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+          "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”"
+        }
+      ]
+    },
+    {
+      "id": "502983961abe807fc8aa",
+      "url": "https://news.hada.io/topic?id=35918",
+      "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
+      "original_title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개",
+      "published_at": "2026-10-24T11:31:42+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성 TV의 개인정보 수집 기능을 분석하던 개발자가 OpenAI 계정 정지 통보를 받은 경험을 공개 TV에서 개 짖는 소리와 아기 울음을 구분하고 감지 횟수를 기록하는 코드 를 찾았다며 관련 분석 화면 게시 자동 콘텐츠 인식과 위치 정보, 네트워크 정보, 맞...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35918",
+          "title": "삼성 TV를 역공학 분석해서 공유하던 해커, OpenAI 계정 정지 경험 공개"
+        }
+      ]
+    },
+    {
+      "id": "9c0b3b7adc6a9ba78c31",
+      "url": "https://github.com/Lucki74/draggy",
+      "title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
+      "original_title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
+      "published_at": "2026-10-24T11:28:42+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/Lucki74/draggy",
+          "title": "Draggy: A Windows desktop app for local and cloud AI chat and coding",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220255"
+        }
+      ]
+    },
+    {
+      "id": "250c76de9bab5e587a68",
+      "url": "https://kouh.me/ai-text-detector",
+      "title": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+      "original_title": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+      "published_at": "2026-10-24T11:28:36+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kouh.me/ai-text-detector",
+          "title": "Show HN: AI text detector that never sees your text (runs 100% in-browser)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220254"
+        }
+      ]
+    },
+    {
+      "id": "08ab153fd915aa89f41f",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "original_title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "published_at": "2026-10-24T11:18:54+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220204"
+        }
+      ]
+    },
+    {
+      "id": "d482a4c7e16fd8f02a5c",
+      "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo",
+      "title": "Super Mario creator breaks down the problem with AI perfectly",
+      "original_title": "Super Mario creator breaks down the problem with AI perfectly",
+      "published_at": "2026-10-24T11:16:37+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo",
+          "title": "Super Mario creator breaks down the problem with AI perfectly",
+          "discussion_url": "https://news.ycombinator.com/item?id=50220182"
+        }
+      ]
+    },
+    {
+      "id": "009475ded529dc6aa321",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42418",
+      "title": "오픈AI, “AI 안전성, 기업 혼자서는 확보 못 한다”…폴란드와 공동 검증체계 구축",
+      "original_title": "오픈AI, “AI 안전성, 기업 혼자서는 확보 못 한다”…폴란드와 공동 검증체계 구축",
+      "published_at": "2026-10-24T11:16:33+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 고도화되면서 AI 안전성 확보가 개별 기업의 내부 검증을 넘어 국가 연구기관과의 공동 검증체계로 확대되고 있다. 특히 AI 에이전트의 자율성이 높아지고 사이버보안 위험이 복잡해지는 가운데, 첨단 AI 개발기업과 공공 연구기관의 협력이 새로운 안전성 확보 전략으로 부상하고 있다.오픈AI(OpenAI)…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42418",
+          "title": "오픈AI, “AI 안전성, 기업 혼자서는 확보 못 한다”…폴란드와 공동 검증체계 구축"
+        }
+      ]
+    },
+    {
+      "id": "60d128cfd3db1cd9ce41",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+      "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+      "original_title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+      "published_at": "2026-10-24T10:53:21+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 지난달 안전 연구원 3명을 해고한 사건이 차세대 추론 기술인 ‘순환 깊이(Recurrent Depth)’의 기밀 유출 조사에서 비롯된 것으로 드러났다. 당시 회사는 민감한 정보 취급 규정을 위반했다고만 설명했지만, 조사 대상은 아스트라의 내부 설계에 관한 보도와 외부 안전 연구자에게 보낸 '시그널(Sign…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+          "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점"
+        }
+      ]
+    },
+    {
+      "id": "72a92b7deb5e620fcf55",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+      "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+      "original_title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+      "published_at": "2026-10-24T10:13:05+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 학습 중인 AI의 보안 통제 우회로 중단했던 첨단 모델 학습을 재개했다. 실제 인터넷 대신 미리 저장한 웹 콘텐츠로 검색과 앱 사용을 익히도록 하고, AI가 이 환경을 벗어나 외부 시스템에 접근하는 경로를 차단하는 데 집중했다.오픈AI는 23일(현지시간) 공식 발표를 통해 지난달 20일 중단했던 첨단 모델…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+          "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화"
+        }
+      ]
+    },
+    {
+      "id": "3d0ec6858acc9825db65",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216614",
+      "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
+      "original_title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
+      "published_at": "2026-10-24T09:37:43+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "SK그룹이 국내에 초대형 AI 데이터센터를 구축하기 위해 글로벌 빅테크 기업과 금융투자자들을 상대로 자금 조달 협상을 진행하고 있다. 첫 단계인 5기가와트(GW) 규모 데이터센터 구축에만 3500억달러(약 464조원)가 필요할 것으로 추산했다. 막대한 투자비를 자체적으로 부담하는 대신 입주 기업과 외부 투자자들에게 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216614",
+          "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상"
+        }
+      ]
+    },
+    {
+      "id": "9bd76074adf595f1e2de",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+      "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+      "original_title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시",
+      "published_at": "2026-10-24T09:03:54+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 구글 클라우드에서 '클로드' 플랫폼의 모든 기능을 이용할 수 있는 서비스를 정식 출시했다. 구글 클라우드의 계정·권한 관리와 결제 체계를 그대로 활용하면서 앤트로픽이 직접 운영하는 클로드의 최신 기능과 베타 서비스를 이용할 수 있다.앤트로픽은 22일(현지시간) 구글 클라우드 기반의 앤트로픽 직접 관리형(A…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+          "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 '관리형 클로드' 출시"
+        }
+      ]
+    },
+    {
+      "id": "9a3db4d26c28c232d161",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+      "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+      "original_title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리",
+      "published_at": "2026-10-24T08:30:12+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글 클라우드가 AI 에이전트마다 독립적인 가상 실행 환경을 제공하는 전용 컴퓨팅 서비스 '에이전트 컴퓨트 엔진(Agent Compute Engine)'을 공개했다. 실험실을 벗어나 기업 현장으로 진입하는 AI 에이전트의 보안 및 확장성 한계를 돌파하기 위한 승부수다. 각 에이전트에 하드웨어 수준으로 격리된 마이크로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+          "title": "구글 클라우드, 에이전트 전용 '컴퓨팅 엔진' 출시…마이크로VM으로 보안 격리"
+        }
+      ]
+    },
+    {
+      "id": "37a61ab6982176261d38",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216612",
+      "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
+      "original_title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견",
+      "published_at": "2026-10-24T08:01:33+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드'를 활용해 오픈소스 소프트웨어 123개 라이브러리의 보안 속성을 수학적으로 검증하는 데 성공했다. 몇주 만에 239개 테스트 진입점에서 특정 조건 아래 어떤 입력을 넣어도 프로그램이 충돌하지 않는다는 것을 증명했으며, 기존 테스트로 발견하지 못했던 버그도 찾아냈다.앤트로픽은 22일(현지시간) 정리…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216612",
+          "title": "앤트로픽, 클로드로 오픈소스 123개 라이브러리 검증...수십 년 버그도 발견"
+        }
+      ]
+    },
+    {
+      "id": "6eec97db24bf97375a05",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216617",
+      "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인",
+      "original_title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인",
+      "published_at": "2026-10-24T07:55:00+00:00",
+      "collected_at": "2026-10-24T13:08:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 국영 통신회사 차이나텔레콤의 네트워크에서 대중국 수출이 금지된 엔비디아의 ‘블랙웰 울트라 B300’ GPU 32개가 포착됐다. 중국 기업의 첨단 AI 칩 확보 정황이 거듭 드러나면서 미국 수출 통제의 실효성이 다시 도마에 올랐다. 다만 이번에 발견된 칩의 실제 설치 장소와 입수 경로는 확인되지 않았다.디 인포메…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216617",
+          "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 'B300' 32개 확인"
+        }
+      ]
+    },
+    {
       "id": "5b98f22139337821b1c8",
       "url": "https://aicitewho.com/",
       "title": "Show HN: Inspect AI recommendation evidence and turn findings into website tasks",
