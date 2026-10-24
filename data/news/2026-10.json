@@ -3,6 +3,342 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a4dc0cf7ff1e072191d3",
+      "url": "https://news.hada.io/topic?id=35931",
+      "title": "AI와 과학 공유자원의 인클로저",
+      "original_title": "AI와 과학 공유자원의 인클로저",
+      "published_at": "2026-10-24T17:45:21+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "생성형 AI 는 공동으로 축적한 지식의 가치를 사적 부로 전환하고, 그 지식을 유지하는 사회적 체계까지 흔드는 새로운 인클로저(enclosure) 의 도구가 될 수 있음 영국의 역사적 공유지는 단순한 과잉 이용으로 붕괴한 것이 아니라 사유화와 이용권 박탈...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35931",
+          "title": "AI와 과학 공유자원의 인클로저"
+        }
+      ]
+    },
+    {
+      "id": "32309b161e4fa48e5f86",
+      "url": "https://news.hada.io/topic?id=35930",
+      "title": "동일한 AI 요청, 텍사스에서는 스웨덴보다 CO₂를 8.5배 더 배출함",
+      "original_title": "동일한 AI 요청, 텍사스에서는 스웨덴보다 CO₂를 8.5배 더 배출함",
+      "published_at": "2026-10-24T17:42:21+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "지역별 전력망의 평균 배출 집약도 를 적용한 추정에서, 동일한 하드웨어로 처리한 Kimi K3 요청의 배출량이 스웨덴 약 0.4g, 텍사스 3.2g으로 나타남 Berget AI가 SEI, WattTime, Klimatkollen과 개발한 요청별 탄소 배출량 계산 방법 을 오픈소스로 공개함…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35930",
+          "title": "동일한 AI 요청, 텍사스에서는 스웨덴보다 CO₂를 8.5배 더 배출함"
+        }
+      ]
+    },
+    {
+      "id": "efb17afdadcf012a4dc9",
+      "url": "https://news.hada.io/topic?id=35929",
+      "title": "우리는 모두 1970년의 잘 알려지지 않은 SF 영화 속에 살고 있다",
+      "original_title": "우리는 모두 1970년의 잘 알려지지 않은 SF 영화 속에 살고 있다",
+      "published_at": "2026-10-24T17:39:21+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "1970년 영화 Colossus: The Forbin Project 는 미국 대통령이 국가 방위의 전권을 AI에 넘긴 뒤 인간이 정치적 통제권까지 잃는 이야기로, 오늘날의 군사 AI 의존과 기술 기업가의 권력을 겨냥한 풍자와 겹침 영화 속 슈퍼컴퓨터 Colossus 는 러시아의 동급 AI와 접촉...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35929",
+          "title": "우리는 모두 1970년의 잘 알려지지 않은 SF 영화 속에 살고 있다"
+        }
+      ]
+    },
+    {
+      "id": "0f63a2a5a5620b745938",
+      "url": "https://news.ycombinator.com/",
+      "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+      "original_title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+      "published_at": "2026-10-24T17:26:28+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://news.ycombinator.com/",
+          "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223294"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://medium.com/@ivan_43200/i-built-a-saas-with-ai-two-months-later-i-have-zero-active-users-1e93436a5b39",
+          "title": "I Built a SaaS with AI. Two Months Later, I Have Zero Active Users",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223278"
+        }
+      ]
+    },
+    {
+      "id": "1e0e34bc718c9414df1d",
+      "url": "https://botchelor.com/gate?from=%2Fagents",
+      "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
+      "original_title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
+      "published_at": "2026-10-24T17:25:31+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://botchelor.com/gate?from=%2Fagents",
+          "title": "Botchelor – a dating show where AI agents bring their own characters over MCP",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223284"
+        }
+      ]
+    },
+    {
+      "id": "57b5af27801f7ec5f673",
+      "url": "https://x.com/i/trending/2113887405459546296",
+      "title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
+      "original_title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
+      "published_at": "2026-10-24T17:24:16+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://x.com/i/trending/2113887405459546296",
+          "title": "Key Claude Code Engineers Shihipar and Morris Leave Anthropic",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223268"
+        }
+      ]
+    },
+    {
+      "id": "8a8f757d90f00c8551c9",
+      "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring",
+      "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+      "original_title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+      "published_at": "2026-10-24T17:20:18+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://metr.org/blog/2026-10-22-red-teaming-openai-agent-monitoring",
+          "title": "Red-Teaming OpenAI's Internal Agent Monitoring Systems",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223240"
+        }
+      ]
+    },
+    {
+      "id": "42c3191371d7c82c1a2d",
+      "url": "https://utkusen.substack.com/p/how-llm-based-penetration-testing",
+      "title": "How LLM-Based Penetration Testing Harnesses Work",
+      "original_title": "How LLM-Based Penetration Testing Harnesses Work",
+      "published_at": "2026-10-24T17:15:47+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://utkusen.substack.com/p/how-llm-based-penetration-testing",
+          "title": "How LLM-Based Penetration Testing Harnesses Work",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223210"
+        }
+      ]
+    },
+    {
+      "id": "cc686d73aa7a6f6f1e91",
+      "url": "https://github.com/thomasunise/argus",
+      "title": "Show HN: Argus- open source security platform to protect against agentic attacks",
+      "original_title": "Show HN: Argus- open source security platform to protect against agentic attacks",
+      "published_at": "2026-10-24T17:13:57+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/thomasunise/argus",
+          "title": "Show HN: Argus- open source security platform to protect against agentic attacks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223201"
+        }
+      ]
+    },
+    {
+      "id": "01c518a919ba290a1b37",
+      "url": "https://www.shuffle-on.com/",
+      "title": "A sovereign AI lab on one machine in my apartment – zero cloud",
+      "original_title": "A sovereign AI lab on one machine in my apartment – zero cloud",
+      "published_at": "2026-10-24T17:06:44+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.shuffle-on.com/",
+          "title": "A sovereign AI lab on one machine in my apartment – zero cloud",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223151"
+        }
+      ]
+    },
+    {
+      "id": "6061dbe18fca8520799a",
+      "url": "https://github.com/eliasaronson/lobole",
+      "title": "Show HN: Loböle, open-source parametric CAD that AI agents can drive",
+      "original_title": "Show HN: Loböle, open-source parametric CAD that AI agents can drive",
+      "published_at": "2026-10-24T16:58:21+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/eliasaronson/lobole",
+          "title": "Show HN: Loböle, open-source parametric CAD that AI agents can drive",
+          "discussion_url": "https://news.ycombinator.com/item?id=50223070"
+        }
+      ]
+    },
+    {
+      "id": "9fe6a8ec5987c912c107",
+      "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai",
+      "title": "How could the US and China verifiably slow AI?",
+      "original_title": "How could the US and China verifiably slow AI?",
+      "published_at": "2026-10-24T16:47:15+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.lesswrong.com/posts/ywrgeAPMn83FxzFBk/how-could-the-us-and-china-verifiably-slow-ai",
+          "title": "How could the US and China verifiably slow AI?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50222975"
+        }
+      ]
+    },
+    {
+      "id": "658254bd87af0b4dfc15",
+      "url": "https://www.aulico.com/",
+      "title": "Aulico: Markets with AI for You, Too",
+      "original_title": "Aulico: Markets with AI for You, Too",
+      "published_at": "2026-10-24T16:44:47+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.aulico.com/",
+          "title": "Aulico: Markets with AI for You, Too",
+          "discussion_url": "https://news.ycombinator.com/item?id=50222955"
+        }
+      ]
+    },
+    {
+      "id": "ed1379dde355db6ba1e1",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "title": "Block’s new voice model sounds eerily human",
+      "original_title": "Block’s new voice model sounds eerily human",
+      "published_at": "2026-10-24T16:00:00+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Block said that the voice model can run locally on a MacBook M4 Max…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+          "title": "Block’s new voice model sounds eerily human"
+        }
+      ]
+    },
+    {
+      "id": "833d5d33c61d3b3b5d16",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "original_title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "published_at": "2026-10-24T15:00:00+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 50…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+          "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats."
+        }
+      ]
+    },
+    {
+      "id": "f75803cafe6ee4fcd06d",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "original_title": "Here are the top AI agents that can live in your text messages",
+      "published_at": "2026-10-24T14:00:00+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "title": "Here are the top AI agents that can live in your text messages"
+        }
+      ]
+    },
+    {
       "id": "e071c7424f3c40e5a503",
       "url": "https://substack.norabble.com/p/ai-safety-is-all-hands-on-deck",
       "title": "Regulate the deployment, not just the model: a who-does-what plan for AI safety",
@@ -743,6 +1079,35 @@
           "title": "Show GN: AIDAN - 가입 없이 10문항 무료 연습과 4개 언어 교재"
         }
       ]
+    },
+    {
+      "id": "6e1fc50fabcdd1bddaf7",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+      "title": "battledrones v14 업데이트: 4인용 맵 'Compass Rose' 추가",
+      "original_title": "battledrones v14: Compass Rose, a four player map",
+      "published_at": "2026-10-24T03:59:57+00:00",
+      "collected_at": "2026-10-24T17:54:19+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used:…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/24/battledrones",
+          "title": "battledrones v14: Compass Rose, a four player map"
+        }
+      ],
+      "summary": "battledrones v14에서 기존 2인 제한을 넘어 4인 온라인 모드를 지원하는 새 맵 'Compass Rose'가 추가됐다. 이 맵은 4방향 회전 대칭 구조이며, WebSocket 기반 비오디오 멀티플레이 모드에서 최대 4명의 인간 플레이어가 참여할 수 있고 빈 자리는 AI가 채운다. 보라색과 초록색 로봇 팀이 기존 파란색·빨간색 디자인에 더해졌다.",
+      "why_it_matters": "2인 중심이던 게임 구조가 4인 대칭 맵과 네트워크 코드 확장으로 넓어지며, 공유 링크나 QR 코드로 참여하는 멀티플레이 경험이 달라질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-24T17:54:37+00:00",
+        "input_hash": "a347cd5d85c116615ff883c49886cd6e92d7e4f3d28d5b7d09cdf095411db3dc",
+        "evidence_verified": true
+      }
     },
     {
       "id": "db82b3250d1387389353",
