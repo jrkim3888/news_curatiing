@@ -27,24 +27,24 @@ def response_format(inputs):
     passage_identity = {"type": "string", **({"enum": passage_ids} if passage_ids else {})}
     evidence = obj({"article_id": identity, "passage_id": passage_identity})
     link = obj({"text": text(2, 30), "article_id": identity})
-    fact = obj({"text": text(15, 200), "evidence": array(evidence, 1, 2),
+    fact = obj({"text": text(5, 400), "evidence": array(evidence, 1, 2),
                 "links": array(link, 0, 2)})
     issue = obj({"title": text(5, 100), "category": category,
-                 "facts": array(fact, 1, 2), "why_it_matters": text(15, 120)})
-    # Even three sentences plus joining spaces/punctuation fit the 300-character paragraph.
-    # Internal periods may occur in model versions; sentence-ending punctuation occurs once.
-    sentence = {**text(35, 98), "pattern": r"^(?:[^.!?。！？\n…]|\.[A-Za-z0-9])+(?:다|요|죠|까)[.!?]$"}
-    overview = obj({"sentences": array(sentence, 2, 3),
-                    "issue_indexes": array({"type": "integer", "minimum": 0, "maximum": 4}, 1, 3)})
+                 "facts": array(fact, 1, 2), "why_it_matters": text(5, 300)})
+    # Editorial sentence/paragraph targets are prompt guidance, not decoding constraints.
+    # Six items and joining spaces remain below the 1,200-character paragraph guard.
+    sentence = text(10, 190)
+    overview = obj({"sentences": array(sentence, 1, 6),
+                    "issue_indexes": array({"type": "integer", "minimum": 0, "maximum": 4}, 1, 5)})
     summary_ids = [i['article_id'] for i in inputs if i.get('needs_summary', True)]
     summary_identity = {"type": "string", "enum": summary_ids} if summary_ids else identity
     summary = obj({"article_id": summary_identity, "title": text(5, 100),
                    "summary": text(30, 220), "why_it_matters": text(15, 100),
                    "category": category, "evidence": array(passage_identity, 1, 1)})
     return {"type": "json_schema", "json_schema": {
-        "name": "daily_brief_v9", "strict": True,
-        "schema": obj({"issues": array(issue, 1, 5), "overview": array(overview, 1, 3),
-                       "headline": {**text(6, 60), "pattern": r"^[^·…|\n]+$"}, "takeaway": text(20, 120),
+        "name": "daily_brief_v10", "strict": True,
+        "schema": obj({"issues": array(issue, 1, 5), "overview": array(overview, 1, 5),
+                       "headline": text(5, 120), "takeaway": text(5, 240),
                        "article_summaries": array(summary, 0, min(MAX_GENERATION_INPUTS, len(summary_ids)))}),
     }}
 

@@ -97,7 +97,7 @@ class BriefingTests(unittest.TestCase):
                 self.assertNotIn('evidence', article)
         self.assertNotIn('A new AI tool is available.', json.dumps([a['summary'] for a in articles if a['id'] in selected]))
 
-    def test_invalid_article_summaries_do_not_partially_publish(self):
+    def test_invalid_article_summaries_do_not_block_grounded_briefing(self):
         for kind in ('missing', 'duplicate', 'unknown', 'evidence'):
             with self.subTest(kind=kind):
                 shutil.rmtree(self.root)
@@ -111,12 +111,13 @@ class BriefingTests(unittest.TestCase):
                     if kind == 'evidence': items[1]['evidence'] = ['An invented statement from another source.']
                     return value
                 result = self.run_batch(generate=invalid)
-                self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-                self.assertEqual(result['briefing']['stage'], 'article_summary_validation')
-                self.assertEqual(result['briefing']['reason'], 'validation_failed')
-                self.assertTrue(result['briefing']['validation_error'])
-                self.assertFalse(read_history(self.root)['editions'])
-                self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+                self.assertEqual(result['briefing']['result'], 'created')
+                self.assertTrue(result['briefing']['validation_warnings'])
+                expected = 0 if kind == 'duplicate' else 1
+                self.assertEqual(result['briefing']['articles_summarized'], expected)
+                self.assertEqual(result['briefing']['article_summary_coverage']['missing_summaries'], 2 - expected)
+                self.assertEqual(sum(a['status'] == 'summarized' for a in read_news(self.root)['articles']), expected)
+                self.assertEqual(len(read_history(self.root)['editions']), 1)
 
     def test_passage_references_publish_without_model_copying_source_quotes(self):
         def generate(inputs):
@@ -137,7 +138,85 @@ class BriefingTests(unittest.TestCase):
         self.assertNotIn('"evidence"', public)
         self.assertNotIn('A new AI tool is available.', json.dumps(read_history(self.root)))
 
-    def test_unknown_or_cross_article_passages_fail_without_partial_publication(self):
+    def test_absent_or_malformed_article_summaries_keep_source_links_and_publish(self):
+        for kind in ('absent', 'null', 'object', 'excessive'):
+            with self.subTest(kind=kind):
+                shutil.rmtree(self.root)
+                self.root.mkdir()
+                def generate(inputs):
+                    value = response(inputs)
+                    if kind == 'absent': value.pop('article_summaries')
+                    elif kind == 'null': value['article_summaries'] = None
+                    elif kind == 'object': value['article_summaries'] = {}
+                    else: value['article_summaries'] *= 20
+                    return value
+                result = self.run_batch(generate=generate)
+                self.assertEqual(result['briefing']['result'], 'created')
+                self.assertEqual(result['briefing']['articles_summarized'], 0)
+                self.assertEqual(result['briefing']['article_summary_coverage']['missing_summaries'], 2)
+                self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+                self.assertEqual(len(read_history(self.root)['editions'][0]['articles']), 2)
+
+    def test_editorial_variations_roundtrip_without_truncating_content(self):
+        def generate(inputs):
+            value = response(inputs)
+            value['headline'] = '새 모델·도구의 활용 가능성을 살펴봅니다'
+            value['takeaway'] = '새 도구를 도입하기 전에 평가 조건과 적용 범위를 함께 확인해야 합니다. ' * 4
+            value['overview'] = [dict(text=value['overview'][0]['text'] * 4, issue_indexes=[0]) for _ in range(4)]
+            value['issues'].append(copy.deepcopy(value['issues'][0]))
+            value['issues'][1]['facts'][0]['text'] = '새 도구 공개'
+            value['issues'][1]['why_it_matters'] = '도구 선택에 참고'
+            return value
+        result = self.run_batch(generate=generate)
+        self.assertEqual(result['briefing']['result'], 'created')
+        edition = read_history(self.root)['editions'][0]
+        self.assertEqual(edition['takeaway'], generate([])['takeaway'])
+        self.assertEqual(edition['overview'][0]['text'], generate([])['overview'][0]['text'])
+        self.assertEqual(len(edition['overview']), 4)
+        self.assertIn('article_reused_within_briefing', {w['code'] for w in result['briefing']['validation_warnings']})
+        self.assertIn('fact_length', {w['code'] for w in result['briefing']['validation_warnings']})
+        self.assertIn('issue_explanation_length', {w['code'] for w in result['briefing']['validation_warnings']})
+        briefings.validate_history(read_history(self.root))
+
+    def test_broken_essential_briefing_content_still_preserves_previous_data(self):
+        for kind in ('empty_headline', 'empty_overview', 'html', 'english', 'excessive'):
+            with self.subTest(kind=kind):
+                shutil.rmtree(self.root)
+                self.root.mkdir()
+                def generate(inputs):
+                    value = response(inputs)
+                    if kind == 'empty_headline': value['headline'] = ''
+                    elif kind == 'empty_overview': value['overview'] = []
+                    elif kind == 'html': value['overview'][0]['text'] = '<script>한글 내용입니다.</script>'
+                    elif kind == 'english': value['overview'][0]['text'] = 'English content without a Korean briefing.'
+                    else: value['overview'][0]['text'] = '과도한 본문입니다. ' * 200
+                    return value
+                result = self.run_batch(generate=generate)
+                self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+                self.assertFalse(read_history(self.root)['editions'])
+                self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
+    def test_published_warnings_are_visible_in_actions_and_do_not_trigger_paid_retries(self):
+        self.run_batch(generate=lambda _: (_ for _ in ()).throw(SummaryError('provider_error')))
+        self.args.briefing_date = briefings.daily_window(self.now)[0]
+        self.args.retry_failed_briefing = True
+        def generate(inputs, *_, **kwargs):
+            value = response(inputs)
+            value.pop('article_summaries')
+            return value
+        output = io.StringIO()
+        with redirect_stdout(output), patch.dict(os.environ, {'OPENROUTER_API_KEY':'secret-test', 'OPENROUTER_MODEL':'test/model', 'MAX_SUMMARIES_PER_RUN':'1', 'GITHUB_ACTIONS':'true'}):
+            result = run_daily(self.args, fetch_source=self.fetch, generate_briefing=generate,
+                               review_coverage=coverage_response, now=self.now)
+            again = run_daily(self.args, generate_briefing=lambda *_: self.fail('Repeated paid generation'), now=self.now)
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertIn('::warning title=Daily briefing published with warnings::', output.getvalue())
+        self.assertNotIn('::error', output.getvalue())
+        self.assertNotIn('secret-test', output.getvalue())
+        self.assertEqual(again['briefing']['result'], 'already_published')
+        self.assertEqual(again['llm_requests'], 0)
+
+    def test_unknown_or_cross_article_passages_are_never_published_as_verified_evidence(self):
         for target in ('fact', 'summary'):
             for kind in ('unknown', 'other_article'):
                 with self.subTest(target=target, kind=kind):
@@ -155,11 +234,18 @@ class BriefingTests(unittest.TestCase):
                             value['article_summaries'][0]['evidence'] = [reference]
                         return value
                     result = self.run_batch(generate=generate)
-                    self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-                    self.assertEqual(result['briefing']['validation_error'], 'Unknown or mismatched source passage reference')
                     self.assertNotIn('A new AI tool', json.dumps(result))
-                    self.assertFalse(read_history(self.root)['editions'])
-                    self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+                    if target == 'fact':
+                        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+                        self.assertEqual(result['briefing']['validation_error'], 'Unknown or mismatched source passage reference')
+                        self.assertFalse(read_history(self.root)['editions'])
+                        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+                    else:
+                        self.assertEqual(result['briefing']['result'], 'created')
+                        self.assertEqual(result['briefing']['articles_summarized'], 1)
+                        self.assertEqual(result['briefing']['article_summary_coverage']['missing_summaries'], 1)
+                        self.assertTrue(any(w.get('reason') == 'Unknown or mismatched source passage reference'
+                                            for w in result['briefing']['validation_warnings']))
 
     def test_source_passages_are_literal_bounded_and_include_short_tail(self):
         for text in ('정확한 원문 구절입니다. ' * 180, 'abcdefghij' * 44 + '끝부분', 'A word ’with punctuation’. ' * 50):
@@ -235,11 +321,12 @@ class BriefingTests(unittest.TestCase):
             value['article_summaries'][1] = response([inputs[2]])['article_summaries'][0]
             return value
         result = self.run_batch(generate=generate)
-        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-        self.assertEqual(result['briefing']['validation_error'], 'Missing selected article summaries')
-        self.assertEqual(result['briefing']['validation_details']['missing_summaries'], 1)
-        self.assertFalse(read_history(self.root)['editions'])
-        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['article_summary_coverage']['missing_summaries'], 1)
+        missing = result['briefing']['article_summary_coverage']['missing_article_ids']
+        self.assertEqual(len(missing), 1)
+        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles'] if a['id'] in missing))
+        self.assertEqual(result['briefing']['articles_summarized'], 2)
 
     def test_uncited_summaries_still_require_their_own_valid_evidence(self):
         def generate(inputs):
@@ -249,11 +336,10 @@ class BriefingTests(unittest.TestCase):
             value['article_summaries'].append(extra)
             return value
         result = self.run_batch(generate=generate)
-        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-        self.assertEqual(result['briefing']['stage'], 'article_summary_validation')
-        self.assertNotEqual(result['briefing']['validation_error'], 'Missing selected article summaries')
-        self.assertFalse(read_history(self.root)['editions'])
-        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['articles_summarized'], 2)
+        self.assertEqual(result['briefing']['article_summary_coverage']['missing_summaries'], 0)
+        self.assertEqual(result['briefing']['article_summary_coverage']['invalid_summaries'], 1)
 
     def test_shortlist_cannot_reintroduce_duplicates_or_exceed_writer_budget(self):
         inputs = [{'article_id': str(i)} for i in range(16)]
@@ -306,8 +392,10 @@ class BriefingTests(unittest.TestCase):
             value['article_summaries'][0]['evidence'] = [f'This statement belongs only to {inputs[1]["source_id"]}.']
             return value
         result = self.run_batch(generate=wrong_source, fetch_source=different_sources)
-        self.assertEqual(result['briefing']['stage'], 'article_summary_validation')
-        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['articles_summarized'], 1)
+        missing = result['briefing']['article_summary_coverage']['missing_article_ids']
+        self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles'] if a['id'] in missing))
 
     def test_existing_article_summary_and_other_dates_are_preserved(self):
         self.now = datetime(2026, 10, 20, 0, 0, tzinfo=UTC)
@@ -632,7 +720,7 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(scheduled, after)
         self.assertEqual(briefings.daily_window(after+timedelta(hours=8))[2], end)
 
-    def test_headline_lists_and_single_paragraph_roundups_are_rejected(self):
+    def test_editorial_preferences_warn_without_rejecting_a_briefing(self):
         paragraph = {'text': response([])['overview'][0]['text'], 'issue_ids': ['issue-1']}
         title = '새 AI 개발 도구의 적용 가능성을 살펴봅니다'
         briefings.validate_narrative(title, [paragraph], 1)
@@ -643,8 +731,8 @@ class BriefingTests(unittest.TestCase):
             (title, [{**paragraph, 'text': 'AI 도구 출시와 기업 보안 논의 등 새로운 기술의 활용 범위를 넓히고 결과를 검증하려는 다양한 시도가 여러 분야에서 함께 주목받으며 시장의 새로운 흐름으로 부상'}], 1),
             (title, [{**paragraph, 'issue_ids': ['issue-1', 'issue-2', 'issue-3', 'issue-4']}, paragraph], 4),
         ]:
-            with self.subTest(headline=headline, count=count), self.assertRaises(ValueError):
-                briefings.validate_narrative(headline, paragraphs, count)
+            with self.subTest(headline=headline, count=count):
+                self.assertTrue(briefings.validate_narrative(headline, paragraphs, count))
 
     def test_v1_history_remains_readable_and_overview_revisions_are_validated(self):
         self.run_batch()
@@ -663,15 +751,19 @@ class BriefingTests(unittest.TestCase):
         e['overview_revision']['revised_at'] = e['window_start']
         with self.assertRaises(ValueError): briefings.validate_history(history)
 
-    def test_title_and_takeaway_are_distinct_and_required_for_new_editions(self):
+    def test_takeaway_is_required_but_editorial_variations_warn(self):
         self.run_batch()
         history = read_history(self.root)
         e = history['editions'][0]
         self.assertEqual(e['headline'], response([])['headline'])
-        for takeaway in [None, e['headline'], '한 문장입니다. 이어지는 두 번째 문장도 있습니다.', '짧은 한 줄']:
+        for takeaway in [None, '', 'English only']:
             with self.subTest(takeaway=takeaway), self.assertRaises(ValueError):
                 e['takeaway'] = takeaway
                 briefings.validate_history(history)
+        for takeaway in [e['headline'], '한 문장입니다. 이어지는 두 번째 문장도 있습니다.', '짧은 한 줄']:
+            e['takeaway'] = takeaway
+            briefings.validate_history(history)
+            self.assertTrue(briefings.validate_narrative(e['headline'], e['overview'], len(e['issues']), takeaway))
 
     def test_bad_model_link_annotations_do_not_discard_grounded_facts(self):
         def generated(inputs):
@@ -823,18 +915,13 @@ class BriefingTests(unittest.TestCase):
         self.assertTrue(response_format['json_schema']['strict'])
         schema = response_format['json_schema']['schema']
         fields = schema['properties']
-        self.assertRegex('GPT-4.1의 검증 조건을 살펴봅니다', fields['headline']['pattern'])
-        self.assertIsNone(__import__('re').fullmatch(fields['headline']['pattern'], 'AI 모델 공개·보안 소식'))
+        self.assertNotIn('pattern', fields['headline'])
         self.assertEqual(fields['issues']['maxItems'], 5)
-        self.assertEqual(fields['overview']['maxItems'], 3)
+        self.assertEqual(fields['overview']['maxItems'], 5)
         sentences = fields['overview']['items']['properties']['sentences']
-        self.assertEqual((sentences['minItems'], sentences['maxItems']), (2, 3))
-        self.assertEqual((sentences['items']['minLength'], sentences['items']['maxLength']), (35, 98))
-        import re
-        pattern = sentences['items']['pattern']
-        self.assertRegex('연구팀은 새로운 모델 4.1의 평가 결과와 사용 조건을 공개했습니다.', pattern)
-        self.assertIsNone(re.fullmatch(pattern, '첫 번째 문장을 설명했습니다. 두 번째 문장이 이어집니다.'))
-        self.assertIsNone(re.fullmatch(pattern, '연구팀의 새로운 모델 출시 및 평가 결과에 대한 설명'))
+        self.assertEqual((sentences['minItems'], sentences['maxItems']), (1, 6))
+        self.assertNotIn('pattern', sentences['items'])
+        self.assertLessEqual(sentences['maxItems'] * (sentences['items']['maxLength'] + 1), 1200)
         self.assertEqual(fields['article_summaries']['items']['properties']['article_id']['enum'], ['a'*20, 'b'*20])
         self.assertIn('article_summaries', schema['required'])
         self.assertFalse(schema['additionalProperties'])
@@ -906,10 +993,10 @@ class BriefingTests(unittest.TestCase):
         result = self.run_batch(generate=generated)
         self.assertEqual(result['briefing']['result'], 'created')
         edition = read_history(self.root)['editions'][0]
-        self.assertEqual(edition['prompt_version'], 'daily-brief-v9')
+        self.assertEqual(edition['prompt_version'], 'daily-brief-v10')
         self.assertEqual(edition['overview'][0]['text'], response([])['overview'][0]['text'])
 
-    def test_prose_handles_abbreviations_versions_quotes_and_rejects_fragments(self):
+    def test_prose_handles_abbreviations_versions_quotes_and_warns_for_style_variations(self):
         paragraph = {'text': '미국 U.S. 연구팀은 모델 4.1의 평가 결과를 새로운 보고서에 공개했습니다. 개발자는 원문에 적힌 평가 조건과 사용 환경을 함께 확인해야 합니다.', 'issue_ids': ['issue-1']}
         briefings.validate_narrative('새 도구의 평가 조건을 확인합니다', [paragraph], 1)
         self.assertEqual(briefings.prose_shape(paragraph['text'])['sentence_count'], 2)
@@ -926,9 +1013,9 @@ class BriefingTests(unittest.TestCase):
             paragraph['text'] + ' 아직 다른 조건의 결과는 확인되지 않았습니다. 사용 시 주의해야 합니다.',
             paragraph['text'].replace('공개했습니다.', '공개했습니다…'),
         ]:
-            with self.subTest(text=text), self.assertRaises(briefings.BriefingValidationError) as error:
-                briefings.validate_narrative('새 도구의 평가 조건을 확인합니다', [{**paragraph, 'text': text}], 1)
-            self.assertEqual(error.exception.details['field'], 'overview[0].text')
+            with self.subTest(text=text):
+                warnings = briefings.validate_narrative('새 도구의 평가 조건을 확인합니다', [{**paragraph, 'text': text}], 1)
+                self.assertEqual(warnings[0]['field'], 'overview[0].text')
 
     def test_invalid_sentence_shape_reports_only_safe_metrics(self):
         private_text = 'PRIVATE_RESPONSE 원문에 없는 제목 형태의 표현과 나열을 반복하는 구절 ' * 2
@@ -937,19 +1024,22 @@ class BriefingTests(unittest.TestCase):
             value['overview'][0]['text'] = private_text
             return value
         result = self.run_batch(generate=generated)
-        self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
-        details = result['briefing']['validation_details']
+        self.assertEqual(result['briefing']['result'], 'created')
+        details = next(w for w in result['briefing']['validation_warnings'] if w['code'] == 'overview_prose_style')
         self.assertEqual(details['field'], 'overview[0].text')
         self.assertEqual(details['sentence_count'], 1)
         self.assertFalse(details['complete_endings'])
         self.assertNotIn('PRIVATE_RESPONSE', json.dumps(result))
-        self.assertFalse(read_history(self.root)['editions'])
+        self.assertEqual(len(read_history(self.root)['editions']), 1)
 
-    def test_sentence_array_does_not_accept_lists_or_multiple_sentences_per_item(self):
-        for parts in [[], ['첫 번째 문장을 완결된 형태로 설명합니다.'],
+    def test_sentence_array_accepts_editorial_variations_but_rejects_broken_content(self):
+        for parts in [['첫 번째 문장을 완결된 형태로 설명합니다.'],
                       ['첫 번째 문장을 완결된 형태로 설명합니다.'] * 4,
                       ['새 도구의 발표와 새로운 모델 출시 및 사용 범위 확대', '추가 사항을 원문에서 확인할 수 있습니다.'],
                       ['새로운 도구가 공개됐습니다. 자세한 정보도 있습니다.', '추가 사항을 원문에서 확인할 수 있습니다.']]:
+            with self.subTest(parts=parts):
+                self.assertTrue(briefings.overview_text({'sentences': parts}, 0))
+        for parts in [[], 'not an array', [None], ['English only'], ['한글 문장입니다.'] * 7]:
             with self.subTest(parts=parts), self.assertRaises(briefings.BriefingValidationError):
                 briefings.overview_text({'sentences': parts}, 0)
 

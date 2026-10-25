@@ -38,7 +38,7 @@ const editionSchema = z
     window_end: stamp,
     status: z.enum(['published', 'withdrawn']),
     headline: text,
-    takeaway: z.string().min(20).max(120).optional(),
+    takeaway: z.string().min(5).max(240).optional(),
     overview: z.array(z.object({ text, issue_ids: z.array(text).min(1) })),
     overview_revision: z.object({ revised_at: stamp, note: text }).optional(),
     issues: z.array(issue),
@@ -99,10 +99,10 @@ const editionSchema = z
       Date.parse(e.overview_revision.revised_at) < Date.parse(e.generated_at)
     )
       fail('Overview revision predates generation');
-    if (!e.issues.length || e.issues.length > 5 || !e.overview.length)
+    if (!e.issues.length || e.issues.length > 5 || !e.overview.length || e.overview.length > 5)
       fail('Incomplete edition');
     if (
-      ['daily-brief-v3', 'daily-brief-v4', 'daily-brief-v5', 'daily-brief-v6', 'daily-brief-v7', 'daily-brief-v8', 'daily-brief-v9'].includes(e.prompt_version) &&
+      ['daily-brief-v3', 'daily-brief-v4', 'daily-brief-v5', 'daily-brief-v6', 'daily-brief-v7', 'daily-brief-v8', 'daily-brief-v9', 'daily-brief-v10'].includes(e.prompt_version) &&
       !e.takeaway
     )
       fail('Missing daily takeaway');

@@ -51,7 +51,7 @@ OpenRouter 키에는 별도의 credit limit을 설정하세요. 기본 한도에
 
 DeepSeek의 브리핑·후보 선정 요청은 `Decart`를 우선하고 `Relace`만 대체 제공자로 허용합니다(`provider.only`). 기존 우선 제공자 Ionstream은 현재 모델의 엔드포인트 목록에 없습니다. 제한 없는 폴백이 허용된 24·25일 실행은 OpenInference를 사용했고, 24일 근거 불일치와 25일 50,000토큰 출력 중단을 확인했습니다. 빈 응답을 반환했던 DigitalOcean도 허용 목록에 없습니다. 두 제공자가 모두 불가하면 다른 제공자로 조용히 전환하지 않고 실패를 보고하며 이전 발행본을 보존합니다. 설정은 `collector/briefings.py`의 `PROVIDER_OPTIONS`에 있으며 모델 변경 시 다시 검토해야 합니다. 로그의 `provider_routing`은 요청 조건, `provider`는 실제 응답 제공자입니다. `empty_response`는 빈 응답, `output_token_limit`는 출력 한도 도달입니다. 유료 요청 자동 재전송은 하지 않습니다.
 
-`daily-brief-v9`는 작성용 원문을 최대 220자 구간으로 나눠 기사별 고유 ID를 부여합니다. AI는 사실과 기사 요약에 해당 구간 ID를 연결하고, 서버가 ID를 원문의 정확한 구절로 해석해 검사합니다. 존재하지 않는 ID·다른 기사의 구간·입력에 없는 기사는 거부합니다. 인용문을 다시 쓰거나 번역하는 과정에서 생기는 불일치를 줄이기 위한 방식이며, 주장 자체의 사실성까지 자동 보장하지는 않습니다. 공개 JSON에는 원문 구간이나 ID를 저장하지 않습니다.
+`daily-brief-v10`은 작성용 원문을 최대 220자 구간으로 나눠 기사별 고유 ID를 부여합니다. AI는 사실과 기사 요약에 해당 구간 ID를 연결하고, 서버가 ID를 원문의 정확한 구절로 해석해 검사합니다. 존재하지 않는 ID·다른 기사의 구간·입력에 없는 기사는 거부합니다. 인용문을 다시 쓰거나 번역하는 과정에서 생기는 불일치를 줄이기 위한 방식이며, 주장 자체의 사실성까지 자동 보장하지는 않습니다. 공개 JSON에는 원문 구간이나 ID를 저장하지 않습니다.
 
 브리핑의 주요 이슈에 사용된 기사 중 **아직 AI 요약이 없는 기사만 같은 요청에서 요약을 생성**합니다. 기존 AI 요약은 생성 입력의 `needs_summary=false`로 표시해 재생성하지 않습니다. 각 기사의 허용된 원문 발췌에 근거 구절이 있는지 별도로 검사하며, 다른 기사에서 가져온 근거·누락·중복은 거부합니다. 성공하면 브리핑과 월별 기사 파일을 함께 저장하고 기사 상태를 `summarized`로 바꾸므로 아카이브의 ‘AI 요약’ 필터·상세·검색에 반영됩니다. 기존 기사 요약은 보존하며, 브리핑에 선정되지 않은 영어 기사도 별도의 6시간 수집 작업에서 한국어 요약 대상이 됩니다. 이미 발행한 과거 브리핑의 기사를 소급 생성하지는 않습니다.
 
@@ -104,7 +104,7 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 ## 브리핑 히스토리 확인
 
 - 수동 실행 후 `last-run.json`의 `briefing.result`가 `created`인지 확인합니다. `already_published`는 같은 날짜의 중복 생성을 건너뛴 것이며, `insufficient_sources`는 고정된 24시간 범위에서 이전 사용 기사를 제외한 요약 가능한 자료가 2건 미만인 경우입니다. `no_new_issues`는 모델이 검토한 후보 모두가 최근 발행한 사건의 재보도인 경우입니다. `cooldown`은 그날 이미 유료 요청을 시도한 상태입니다.
-- `briefing.excluded_previous_articles`는 ID·원문 URL 검사로 제외한 기사 수, `excluded_repeated_stories`는 모델이 최근 사건의 재보도로 제외한 기사 수, `previous_issues_compared`는 비교한 과거 이슈 수입니다. 유료 요청은 중복 판별 1회 + 생성 1회로 최대 2회입니다. 후보가 모두 재보도이면 생성 요청은 하지 않습니다. `coverage_llm`과 `llm`에 각 요청의 모델·토큰·비용·응답 글자 수 진단이 남습니다. `generation_articles`는 실제 작성에 전달한 기사 수, `deferred_articles`는 이번 작성 후보에서 제외된 나머지 새 기사 수, `reusable_article_summaries`는 작성 후보 중 기존 AI 요약을 재사용할 수 있는 기사 수입니다. `article_summary_coverage`에는 본문 인용 기사 수(`cited_articles`), 필수 새 요약 수(`required_summaries`), 반환 수(`returned_summaries`), 실제 누락 수(`missing_summaries`), 본문에 인용하지 않은 후보 요약 수(`uncited_summaries`)와 중복·미등록·기존 요약 ID 수가 남습니다. 작성에 전달한 후보라면 본문에 인용되지 않은 기사 요약도 자체 원문 근거를 검증한 뒤 아카이브에 저장합니다. 본문에서 사용한 미요약 기사에는 반드시 새 요약이 있어야 합니다. 나머지 수집 기사도 뉴스 아카이브에서는 조회할 수 있습니다. 실패 재시도는 명시적인 날짜 지정과 재시도 옵션이 필요합니다.
+- `briefing.excluded_previous_articles`는 ID·원문 URL 검사로 제외한 기사 수, `excluded_repeated_stories`는 모델이 최근 사건의 재보도로 제외한 기사 수, `previous_issues_compared`는 비교한 과거 이슈 수입니다. 유료 요청은 중복 판별 1회 + 생성 1회로 최대 2회입니다. 후보가 모두 재보도이면 생성 요청은 하지 않습니다. `coverage_llm`과 `llm`에 각 요청의 모델·토큰·비용·응답 글자 수 진단이 남습니다. `generation_articles`는 실제 작성에 전달한 기사 수, `deferred_articles`는 이번 작성 후보에서 제외된 나머지 새 기사 수, `reusable_article_summaries`는 작성 후보 중 기존 AI 요약을 재사용할 수 있는 기사 수입니다. `article_summary_coverage`에는 본문 인용 기사 수(`cited_articles`), 필수 새 요약 수(`required_summaries`), 반환 수(`returned_summaries`), 실제 누락 수(`missing_summaries`), 본문에 인용하지 않은 후보 요약 수(`uncited_summaries`)와 중복·미등록·기존 요약 ID 수가 남습니다. 작성에 전달한 후보라면 본문에 인용되지 않은 기사 요약도 자체 원문 근거를 검증한 뒤 아카이브에 저장합니다. 본문에서 사용한 미요약 기사에도 요약을 요청하지만, 누락되거나 검증에 실패한 기사 요약만 제외하고 원문 링크를 유지합니다. `saved_summaries`는 저장한 수, `missing_summaries`와 `missing_article_ids`는 본문 기사 중 새 요약을 저장하지 못한 수·ID입니다. 나머지 수집 기사도 뉴스 아카이브에서는 조회할 수 있습니다. 실패 재시도는 명시적인 날짜 지정과 재시도 옵션이 필요합니다.
 - Pages에서 `/briefings/` → 날짜를 선택해 당시 요약과 관련 원문을 확인합니다. 날짜당 한 편이며 `/briefings/YYYY-MM-DD/`에서 24시간 집계 범위, 발행 예정·실제 생성 시각을 표시합니다. 첫 성공 생성 전에는 빈 기록 안내가 정상입니다.
 - 날짜별 기록은 Git에 보존됩니다. 캐시를 지워도 기록은 유지됩니다. 단, 실패한 요청의 대기 시간은 캐시 유실 시 보장되지 않습니다.
 - 종합 브리핑과 주요 기사별 요약의 기본 출력 한도는 50,000토큰입니다. 기존 단일 기사 요약 비용을 그대로 적용하지 마세요.
@@ -117,7 +117,10 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 - `provider_error`: HTTP 요청은 응답했지만 OpenRouter가 정상 생성 결과 대신 오류 객체를 반환했습니다. 숫자 오류 코드는 `provider_error_code`에 남기고 원문을 포함할 수 있는 오류 메시지는 기록하지 않습니다.
 - `invalid_response_json`: 응답을 기대한 JSON 구조로 읽을 수 없습니다.
 - `http_429`, `http_5xx`, `network_failed_or_timed_out`: API 제한·서버·네트워크 문제입니다.
-- `validation_failed`, `stage=briefing_validation` / `article_summary_validation`: 브리핑 / 기사별 요약 검증에서 실패했습니다. `validation_error`에는 원문이나 응답을 포함하지 않는 검증 항목 설명이 남습니다. 기사별 요약 오류는 `validation_details`에도 누락·중복·미등록 ID 등의 개수를 남깁니다. 문장 형태 오류는 `validation_details`에 실패 필드 위치·문장 수·글자 수·종결 여부·줄바꿈/말줄임표 여부를 추가합니다. 원문 응답이나 실패 문장 전문은 저장하지 않습니다.
+- `validation_failed`: 브리핑 본문의 잘못된 출처·근거 ID, 없는 이슈 참조, 빈 내용·비한국어·HTML·비정상적으로 큰 응답 같은 필수 검증 실패입니다. 이전 발행본을 보존하며 `validation_error`와 `validation_details`에 원문을 포함하지 않는 원인·필드 위치를 기록합니다.
+- `created` + `validation_warnings`: 발행에 성공했으며 편집 기준 이탈이나 개별 기사 요약 제외 사항이 있습니다. Actions는 `Daily briefing published with warnings` 경고를 표시하고 정상 종료합니다. 문장·문단 수, 문장 종결, 제목 나열, 한 줄의 길이·제목 반복, 같은 기사에 대한 여러 이슈 인용은 발행을 막지 않습니다. 잘못된 개별 기사 요약은 저장하지 않고 정상 요약과 브리핑을 발행합니다. 기존 요약은 보존하며 중복 ID가 반환된 기사의 새 요약은 모두 제외합니다. 경고에는 코드·위치·길이·개수·필요한 기존 기사 ID만 남기고 원문·응답 전문은 넣지 않습니다.
+
+문장·문단의 권장 형식은 프롬프트에 유지합니다. 저장 한도는 제목 5~120자, 한 줄 5~240자, 개요 1~5문단·문단당 10~1,200자로 넓혔으며 내용을 임의로 잘라내지는 않습니다. 이미 발행한 날짜는 경고가 있어도 다시 생성하지 않습니다. 제외된 기사 요약은 원문 링크로 남으며 필요하면 별도 기사 요약 작업에서 처리합니다. API 오류·토큰 초과·깨진 JSON은 이 완화로 숨기지 않습니다.
 
 원인을 수정한 후 **Actions → Collect AI news → Run workflow**에서 아래와 같이 실행합니다.
 

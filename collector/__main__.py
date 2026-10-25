@@ -175,6 +175,9 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
         if result == "failed_previous_preserved" and os.getenv("GITHUB_ACTIONS") == "true":
             escaped = diagnostic.replace("%", "%25").replace("\r", "%0D").replace("\n", "%0A")
             print("::error title=Daily briefing failed::" + escaped, flush=True)
+        elif result == 'created' and report['briefing'].get('validation_warnings') and os.getenv('GITHUB_ACTIONS') == 'true':
+            escaped = diagnostic.replace('%', '%25').replace('\r', '%0D').replace('\n', '%0A')
+            print('::warning title=Daily briefing published with warnings::' + escaped, flush=True)
         return report
 
     # A published/withdrawn date is never rewritten, even if new articles or a new model arrive.
@@ -267,13 +270,15 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
                 field: len(value[field]) if isinstance(value.get(field), list) else None
                 for field in ("issues", "overview", "article_summaries")}
         stage = "briefing_validation"
-        edition = briefings.make_edition(value, inputs, articles, sources, end, model, digest)
+        warnings = report['briefing']['validation_warnings'] = []
+        edition = briefings.make_edition(value, inputs, articles, sources, end, model, digest, warnings=warnings)
         candidate = briefings.apply_editorial({"version": 1, "editions": [edition, *history["editions"]]}, editorial)
         briefings.validate_history(candidate)
         stage = "article_summary_validation"
         report['briefing']['article_summary_coverage'] = {}
-        updates = briefings.article_summary_updates(value["article_summaries"], edition, inputs, articles,
-                                                    diagnostics=report['briefing']['article_summary_coverage'])
+        updates = briefings.article_summary_updates(value.get("article_summaries"), edition, inputs, articles,
+                                                    diagnostics=report['briefing']['article_summary_coverage'], warnings=warnings)
+        report['summary_failures'] = report['briefing']['article_summary_coverage']['missing_summaries']
     except Exception as exc:
         reason = exc.reason if isinstance(exc, (SummaryError, RequestError)) else type(exc).__name__
         if isinstance(exc, briefings.BriefingValidationError):

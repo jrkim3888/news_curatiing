@@ -6,6 +6,7 @@ Raw bodies and model evidence quotes never enter the public history file.
 from __future__ import annotations
 
 import copy
+from collections import Counter
 from datetime import date, datetime, timedelta, time
 import hashlib
 import json
@@ -21,7 +22,7 @@ from .evidence import passage_quote, source_passages, summary_quotes
 from .llm import MODEL_OPTIONS, SummaryError
 from .network import Robots, request
 
-PROMPT_VERSION = "daily-brief-v9"
+PROMPT_VERSION = "daily-brief-v10"
 KST = ZoneInfo("Asia/Seoul")
 MAX_INPUTS = 16
 DEFAULT_MAX_TOKENS = 50000
@@ -118,15 +119,11 @@ def overview_text(entry, index):
         return entry["text"]  # Accept old response fixtures/imports; new schema uses arrays.
     parts = entry["sentences"]
     field = f"overview[{index}].sentences"
-    if not isinstance(parts, list) or not 2 <= len(parts) <= 3:
-        raise BriefingValidationError("Overview requires two or three sentences", details={"field": field})
+    if not isinstance(parts, list) or not 1 <= len(parts) <= 6:
+        raise BriefingValidationError("Invalid overview sentence array", details={"field": field})
     result = []
-    for position, part in enumerate(parts):
-        sentence = re.sub(r"\s+", " ", korean(part, 15, 250)).strip()
-        shape = prose_shape(sentence)
-        if shape["sentence_count"] != 1 or not shape["complete_endings"] or shape["has_ellipsis"]:
-            raise BriefingValidationError("Overview item must be one complete sentence",
-                                          details={"field": f"{field}[{position}]", **shape})
+    for part in parts:
+        sentence = re.sub(r"\s+", " ", korean(part, 5, 600)).strip()
         sentence = re.sub(r'''((?:다|요|죠|까))([”’"'」』)\]]*)$''', r'\1.\2', sentence)
         result.append(sentence)
     return " ".join(result)
@@ -138,28 +135,32 @@ def korean(value, low, high):
     return value
 
 
-def validate_narrative(headline, overview, issue_count, takeaway=None):
-    """Enforce prose shape; source checks and editorial review still judge substance."""
-    korean(headline, 6 if takeaway is not None else 12, 60 if takeaway is not None else 90)
-    if re.search(r"[·…|]|\.{3}", headline) or (takeaway is None and not re.search(r"(?:다|요)[.!?]?$", headline)):
-        raise BriefingValidationError("Headline must express one idea, not list news titles")
+def validate_narrative(headline, overview, issue_count, takeaway=None, *, warnings=None):
+    """Keep complete, bounded content; report editorial preferences without blocking it."""
+    warnings = warnings if warnings is not None else []
+    korean(headline, 5, 120)
+    if len(headline) > 60 or re.search(r"[·…|]|\.{3}", headline):
+        warnings.append({"code": "headline_style", "field": "headline", "characters": len(headline)})
     if takeaway is not None:
-        korean(takeaway, 20, 120)
+        korean(takeaway, 5, 240)
         shape = prose_shape(takeaway)
-        if not shape["complete_endings"] or shape["sentence_count"] != 1 or shape["has_newline"] or shape["has_ellipsis"] or takeaway.strip(' .!?') == headline.strip(' .!?'):
-            raise BriefingValidationError("Takeaway must be one sentence distinct from the title",
-                                          details={"field": "takeaway", **shape})
+        if not 20 <= len(takeaway) <= 120 or not shape["complete_endings"] or shape["sentence_count"] != 1 or shape["has_newline"] or shape["has_ellipsis"] or takeaway.strip(' .!?') == headline.strip(' .!?'):
+            warnings.append({"code": "takeaway_style", "field": "takeaway", **shape})
+    if not isinstance(overview, list) or not 1 <= len(overview) <= 5:
+        raise BriefingValidationError("Missing or excessive overview")
     minimum, maximum = (2, 3) if issue_count > 1 else (1, 2)
     if not minimum <= len(overview) <= maximum:
-        raise BriefingValidationError("Overview must explain the news in short paragraphs")
+        warnings.append({"code": "overview_paragraph_count", "field": "overview", "paragraphs": len(overview)})
     for index, entry in enumerate(overview):
-        paragraph = korean(entry["text"], 70, 300)
+        paragraph = korean(entry["text"], 10, 1200)
         shape = prose_shape(paragraph)
-        if shape["has_ellipsis"] or shape["has_newline"] or not shape["complete_endings"] or not 2 <= shape["sentence_count"] <= 3:
-            raise BriefingValidationError("Overview requires complete sentences, not headline fragments",
-                                          details={"field": f"overview[{index}].text", **shape})
-        if not 1 <= len(entry["issue_ids"]) <= 3:
-            raise BriefingValidationError("Overview references must match each paragraph")
+        if not 70 <= len(paragraph) <= 300 or shape["has_ellipsis"] or shape["has_newline"] or not shape["complete_endings"] or not 2 <= shape["sentence_count"] <= 3:
+            warnings.append({"code": "overview_prose_style", "field": f"overview[{index}].text", **shape})
+        if not 1 <= len(entry["issue_ids"]) <= 5:
+            raise BriefingValidationError("Missing or excessive overview references")
+        if len(entry["issue_ids"]) > 3:
+            warnings.append({"code": "overview_reference_count", "field": f"overview[{index}].issue_ids"})
+    return warnings
 
 
 def validate_keyword_links(text, links, article_ids):
@@ -404,8 +405,9 @@ def selected_inputs(value, fresh):
     return [available[aid] for aid in selected]
 
 
-def make_edition(value, inputs, articles, sources, now, model, digest):
-    if not isinstance(value, dict) or set(value) != {"headline", "takeaway", "overview", "issues", "article_summaries"}:
+def make_edition(value, inputs, articles, sources, now, model, digest, *, warnings=None):
+    warnings = warnings if warnings is not None else []
+    if not isinstance(value, dict) or set(value) - {"article_summaries"} != {"headline", "takeaway", "overview", "issues"}:
         raise BriefingValidationError("Unexpected briefing fields")
     headline = korean(value["headline"], 5, 120)
     if not isinstance(value["issues"], list) or not 1 <= len(value["issues"]) <= 5:
@@ -441,14 +443,21 @@ def make_edition(value, inputs, articles, sources, now, model, digest):
                     ids.append(aid)
                 if aid not in refs:
                     refs.append(aid)
-            fact_text = korean(fact["text"], 15, 400)
+            fact_text = korean(fact["text"], 5, 600)
+            if not 15 <= len(fact_text) <= 400:
+                warnings.append({"code": "fact_length", "field": f"issues[{index}].facts[{fact_index}].text",
+                                 "characters": len(fact_text)})
             facts.append({"text": fact_text, "article_ids": ids, "links": clean_keyword_links(fact_text, fact.get("links", []), ids)})
         if used.intersection(refs):
-            raise BriefingValidationError("Article assigned to multiple issues")
+            warnings.append({"code": "article_reused_within_briefing", "field": f"issues[{index}]"})
         used.update(refs)
+        why = korean(issue["why_it_matters"], 5, 600)
+        if not 15 <= len(why) <= 300:
+            warnings.append({"code": "issue_explanation_length", "field": f"issues[{index}].why_it_matters",
+                             "characters": len(why)})
         issues.append({"id": f"issue-{index + 1}", "title": korean(issue["title"], 5, 140), "category": issue["category"],
-                       "facts": facts, "why_it_matters": korean(issue["why_it_matters"], 15, 300), "article_ids": refs})
-    if not isinstance(value["overview"], list) or not 1 <= len(value["overview"]) <= 3:
+                       "facts": facts, "why_it_matters": why, "article_ids": refs})
+    if not isinstance(value["overview"], list) or not 1 <= len(value["overview"]) <= 5:
         raise BriefingValidationError("Missing overview")
     overview = []
     for index, entry in enumerate(value["overview"]):
@@ -456,8 +465,9 @@ def make_edition(value, inputs, articles, sources, now, model, digest):
             raise BriefingValidationError("Missing overview references")
         if any(type(i) is not int or not 0 <= i < len(issues) for i in entry["issue_indexes"]):
             raise BriefingValidationError("Unknown overview issue")
-        overview.append({"text": korean(overview_text(entry, index), 70, 300), "issue_ids": list(dict.fromkeys(issues[i]["id"] for i in entry["issue_indexes"]))})
-    validate_narrative(headline, overview, len(issues), value["takeaway"])
+        overview.append({"text": korean(overview_text(entry, index), 10, 1200), "issue_ids": list(dict.fromkeys(issues[i]["id"] for i in entry["issue_indexes"]))})
+    korean(value['takeaway'], 5, 240)
+    validate_narrative(headline, overview, len(issues), value["takeaway"], warnings=warnings)
     source_map = {s["id"]: s for s in sources}
     snapshots = []
     for a in articles:
@@ -475,51 +485,55 @@ def make_edition(value, inputs, articles, sources, now, model, digest):
             "reviewed_articles": len(inputs), "model": model, "prompt_version": PROMPT_VERSION, "input_hash": digest}
 
 
-def article_summary_updates(value, edition, inputs, articles, *, diagnostics=None):
-    """Require cited summaries; also keep grounded summaries of other writer inputs."""
+def article_summary_updates(value, edition, inputs, articles, *, diagnostics=None, warnings=None):
+    """Save valid article summaries without making them a gate for a grounded edition."""
     selected = {a["id"] for a in edition["articles"]}
     available = {i["article_id"]: i for i in inputs}
     originals = {a["id"]: a for a in articles}
     needed = {aid for aid in selected if originals[aid]['status'] != 'summarized'}
     allowed = {aid for aid in available if originals[aid]['status'] != 'summarized'}
     counts = diagnostics if diagnostics is not None else {}
+    warnings = warnings if warnings is not None else []
     counts.update(input_articles=len(available), cited_articles=len(selected),
                   required_summaries=len(needed),
                   returned_summaries=len(value) if isinstance(value, list) else None)
-    def fail(message):
-        raise BriefingValidationError(message, details={"field": "article_summaries", **counts})
-
-    if not isinstance(value, list):
-        fail("Invalid article summaries list")
-    identities = []
-    for item in value:
-        if not isinstance(item, dict) or not isinstance(item.get("article_id"), str):
-            fail("Invalid article summary identity")
-        identities.append(item['article_id'])
+    if not isinstance(value, list) or len(value) > MAX_INPUTS:
+        warnings.append({"code": "invalid_article_summaries_list", "field": "article_summaries"})
+        value = []
+    identities = Counter(item['article_id'] for item in value
+                         if isinstance(item, dict) and isinstance(item.get('article_id'), str))
     returned = set(identities)
-    counts.update(missing_summaries=len(needed - returned),
-                  uncited_summaries=len((returned & allowed) - selected),
-                  duplicate_summaries=len(identities) - len(returned),
+    counts.update(uncited_summaries=len((returned & allowed) - selected),
+                  duplicate_summaries=sum(n - 1 for n in identities.values()),
                   unknown_articles=len(returned - available.keys()),
-                  already_summarized_articles=len((returned & available.keys()) - allowed))
-    if counts['unknown_articles']:
-        fail("Article summary references an unknown input")
-    if counts['duplicate_summaries']:
-        fail("Duplicate article summary")
-    if counts['already_summarized_articles']:
-        fail("Article summary would replace an existing summary")
-    if counts['missing_summaries']:
-        fail("Missing selected article summaries")
+                  already_summarized_articles=len((returned & available.keys()) - allowed),
+                  invalid_summaries=0)
     updates = {}
-    for item in value:
-        aid = item["article_id"]
+    for index, item in enumerate(value):
+        field = f"article_summaries[{index}]"
+        code = None
+        aid = item.get('article_id') if isinstance(item, dict) else None
+        if not isinstance(aid, str):
+            code = 'invalid_article_summary_identity'
+        elif aid not in available:
+            code = 'unknown_article_summary'
+        elif identities[aid] > 1:
+            code = 'duplicate_article_summary'
+        elif aid not in allowed:
+            code = 'existing_article_summary_preserved'
+        if code:
+            warnings.append({"code": code, "field": field})
+            counts['invalid_summaries'] += 1
+            continue
         try:
             candidate = {k: v for k, v in item.items() if k != "article_id"}
             candidate['evidence'] = summary_quotes(aid, candidate.get('evidence'), available[aid]['source_text'])
             summary = validate_summary(candidate, available[aid]["source_text"])
         except ValueError as exc:
-            # validate_summary emits only static messages, never source/model text.
-            fail(str(exc))
+            # These validators emit static messages, never source or model text.
+            warnings.append({"code": "invalid_article_summary", "field": field, "article_id": aid, "reason": str(exc)})
+            counts['invalid_summaries'] += 1
+            continue
         article = copy.deepcopy(originals[aid])
         article["sources"].sort(key=lambda ref: ref["source_id"] != available[aid]["source_id"])
         article.update({k: summary[k] for k in ("title", "summary", "why_it_matters", "category")})
@@ -530,6 +544,12 @@ def article_summary_updates(value, edition, inputs, articles, *, diagnostics=Non
             "evidence_verified": True,
         })
         updates[aid] = article
+    counts['saved_summaries'] = len(updates)
+    counts['missing_summaries'] = len(needed - updates.keys())
+    counts['missing_article_ids'] = sorted(needed - updates.keys())
+    if counts['missing_summaries']:
+        warnings.append({"code": "article_summaries_unavailable", "field": "article_summaries",
+                         "count": counts['missing_summaries']})
     return updates
 
 
@@ -571,7 +591,7 @@ def validate_history(history):
             if e["articles"] or e["issues"] or e["overview"] or e.get("takeaway"):
                 raise BriefingValidationError("Withdrawn edition still exposes content")
             continue
-        if e["status"] != "published" or not 1 <= len(e["issues"]) <= 5 or not 1 <= len(e["overview"]) <= 3:
+        if e["status"] != "published" or not 1 <= len(e["issues"]) <= 5 or not 1 <= len(e["overview"]) <= 5:
             raise BriefingValidationError("Incomplete published edition")
         revision = e.get("overview_revision")
         if revision:
@@ -579,9 +599,9 @@ def validate_history(history):
             if not revised_at.tzinfo or revised_at < generated:
                 raise BriefingValidationError("Invalid overview revision time")
             korean(revision["note"], 10, 300)
-        if e["prompt_version"] in ("daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", "daily-brief-v7", "daily-brief-v8", PROMPT_VERSION) and not e.get("takeaway"):
+        if e["prompt_version"] in ("daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", "daily-brief-v7", "daily-brief-v8", "daily-brief-v9", PROMPT_VERSION) and not e.get("takeaway"):
             raise BriefingValidationError("Missing daily takeaway")
-        if e["prompt_version"] in ("daily-brief-v2", "daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", "daily-brief-v7", "daily-brief-v8", PROMPT_VERSION) or revision or e.get("takeaway"):
+        if e["prompt_version"] in ("daily-brief-v2", "daily-brief-v3", "daily-brief-v4", "daily-brief-v5", "daily-brief-v6", "daily-brief-v7", "daily-brief-v8", "daily-brief-v9", PROMPT_VERSION) or revision or e.get("takeaway"):
             validate_narrative(e["headline"], e["overview"], len(e["issues"]), e.get("takeaway"))
         article_ids = {a["id"] for a in e["articles"]}
         if len(article_ids) != len(e["articles"]):
@@ -599,15 +619,15 @@ def validate_history(history):
                 raise BriefingValidationError("Invalid issue")
             issue_ids.add(issue["id"])
             korean(issue["title"], 5, 140)
-            korean(issue["why_it_matters"], 15, 300)
+            korean(issue["why_it_matters"], 5, 600)
             if not issue["article_ids"] or not set(issue["article_ids"]) <= article_ids or not 1 <= len(issue["facts"]) <= 3:
                 raise BriefingValidationError("Unknown issue references")
             for fact in issue["facts"]:
-                korean(fact["text"], 15, 400)
+                korean(fact["text"], 5, 600)
                 if not fact["article_ids"] or not set(fact["article_ids"]) <= set(issue["article_ids"]):
                     raise BriefingValidationError("Unknown claim references")
                 validate_keyword_links(fact["text"], fact.get("links", []), fact["article_ids"])
         for entry in e["overview"]:
-            korean(entry["text"], 20, 300)
+            korean(entry["text"], 10, 1200)
             if not entry["issue_ids"] or not set(entry["issue_ids"]) <= issue_ids:
                 raise BriefingValidationError("Unknown overview references")
