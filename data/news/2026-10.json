@@ -3,6 +3,332 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "db629ce2122d54b7c648",
+      "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
+      "title": "To make AI morally good, tech companies are turning to religion",
+      "original_title": "To make AI morally good, tech companies are turning to religion",
+      "published_at": "2026-10-25T13:29:41+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
+          "title": "To make AI morally good, tech companies are turning to religion",
+          "discussion_url": "https://news.ycombinator.com/item?id=50231369"
+        }
+      ]
+    },
+    {
+      "id": "a959248f45c0a56d09aa",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
+      "title": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공",
+      "original_title": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공",
+      "published_at": "2026-10-25T13:24:44+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "바이두(Baidu)의 인공지능(AI) 반도체 및 아키텍처 부문을 기반으로 하는 중국 AI 반도체 기업 쿤룬신(Kunlunxin)이 자국 AI 기업 미니맥스(MiniMax)의 최신 대형언어모델(LLM)을 공개 당일 자사 AI 가속기 플랫폼에서 구동하는 데 성공했다. 새로운 AI 모델이 등장하면 즉시 대응하는 '데이 제…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
+          "title": "중국 AI 반도체 플랫폼 '쿤룬신', 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공"
+        }
+      ]
+    },
+    {
+      "id": "7736c647a9d12cc432f5",
+      "url": "https://github.com/insanai/ccm",
+      "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "original_title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+      "published_at": "2026-10-25T13:13:26+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/insanai/ccm",
+          "title": "Show HN: Code Counter Machine a modern analysis of AI driven development costs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50231217"
+        }
+      ]
+    },
+    {
+      "id": "964b32e15e41af2579df",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42424",
+      "title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여",
+      "original_title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여",
+      "published_at": "2026-10-25T12:51:47+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "전문의가 부족한 아프리카 오지와 지하 4km 광산에서도 인공지능(AI)이 수십 초 만에 흉부 엑스레이 영상을 분석해 결핵 의심 환자를 찾아내는 시대가 열리고 있다. 구글이 의료영상 AI를 실제 진료현장에 적용하는 데 성공한 데 이어, 오픈소스 기반 의료 파운데이션 모델과 스마트폰 기침 소리 분석 기술을 결합해 글로벌…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42424",
+          "title": "\"AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다\"...구글, 의료 AI로 글로벌 진단 격차 줄여"
+        }
+      ]
+    },
+    {
+      "id": "9e500cbab2e8307157fd",
+      "url": "https://medium.com/system-weakness/we-have-already-built-the-matrix-now-ai-is-learning-to-control-it-6ac9ce1823b3",
+      "title": "We Have Built the Matrix. Now AI Is Learning to Control It",
+      "original_title": "We Have Built the Matrix. Now AI Is Learning to Control It",
+      "published_at": "2026-10-25T12:49:41+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://medium.com/system-weakness/we-have-already-built-the-matrix-now-ai-is-learning-to-control-it-6ac9ce1823b3",
+          "title": "We Have Built the Matrix. Now AI Is Learning to Control It",
+          "discussion_url": "https://news.ycombinator.com/item?id=50231008"
+        }
+      ]
+    },
+    {
+      "id": "3445f19e8688359640c1",
+      "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+      "title": "Imagine an AI future where being banned means you are now economically useless",
+      "original_title": "Imagine an AI future where being banned means you are now economically useless",
+      "published_at": "2026-10-25T12:47:20+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/boneGPT/status/2114035719853265264",
+          "title": "Imagine an AI future where being banned means you are now economically useless",
+          "discussion_url": "https://news.ycombinator.com/item?id=50230995"
+        }
+      ]
+    },
+    {
+      "id": "91de73357ba4e792f3b8",
+      "url": "https://news.hada.io/topic?id=35971",
+      "title": "Corgi, 편리한 에이전트/터미널 멀티플렉서",
+      "original_title": "Corgi, 편리한 에이전트/터미널 멀티플렉서",
+      "published_at": "2026-10-25T12:37:48+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Corgi 는 여러 에이전트와 터미널을 작업 공간별로 관리하며, 각 에이전트의 작업과 사용자 입력이 필요한 상태를 한눈에 보여줌 Claude Code, Codex, Pi, OpenCode 를 지원하고, 기존 계정으로 새 에이전트를 시작하거나 이전 작업을 재개할 수 있음…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35971",
+          "title": "Corgi, 편리한 에이전트/터미널 멀티플렉서"
+        }
+      ]
+    },
+    {
+      "id": "e27f9378dc7bf332e253",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+      "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+      "original_title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+      "published_at": "2026-10-25T12:28:43+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting",
+          "title": "Cybersecurity bounty hunter says Samsung TVs use AI to record audio",
+          "discussion_url": "https://news.ycombinator.com/item?id=50230847"
+        }
+      ]
+    },
+    {
+      "id": "01d28ec3fa9f44d6691e",
+      "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
+      "title": "Report on alpha school, AI-based education",
+      "original_title": "Report on alpha school, AI-based education",
+      "published_at": "2026-10-25T12:07:40+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/10/23/us/alpha-school-ai-education-parents.html",
+          "title": "Report on alpha school, AI-based education",
+          "discussion_url": "https://news.ycombinator.com/item?id=50230731"
+        }
+      ]
+    },
+    {
+      "id": "c2ae2985c4b7ea50ec19",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216631",
+      "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
+      "original_title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견",
+      "published_at": "2026-10-25T10:33:16+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구체적인 임무 없이 가상 섬에 놓인 AI 에이전트들이 스스로 농구와 볼링을 하고, 블록으로 조형물을 만드는 행동을 보였다. 이 과정에서 시뮬레이터 개발자도 몰랐던 물체 던지기 기술까지 발견했다. 연구진은 이런 활동이 놀이의 특징을 갖췄으며, 탐색하며 쌓은 경험이 이후 과제 수행에도 도움이 됐다고 설명했다.MIT 연구…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216631",
+          "title": "가상 섬에 홀로 둔 AI, 스스로 놀이 만들고 개발자도 몰랐던 기술 발견"
+        }
+      ]
+    },
+    {
+      "id": "baa094d7f53494d5b418",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216630",
+      "title": "'클로드'가 그림에 숨긴 문장, '아스트라'가 풀었다…암호 규칙 없이 88% 해독",
+      "original_title": "'클로드'가 그림에 숨긴 문장, '아스트라'가 풀었다…암호 규칙 없이 88% 해독",
+      "published_at": "2026-10-25T09:57:13+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 밤하늘의 별과 도시의 건물에 문장을 숨기고, 다른 AI가 이를 해독하는 실험 결과가 나왔다. 글자를 작게 써넣거나 파일 안에 텍스트를 끼워 넣은 것이 아니라, 별의 위치와 건물 높이 자체를 문자로 바꿨다. 해독하는 AI는 암호 규칙을 전달받지 않고도 이미지 속 패턴을 분석해 문장을 복원했다.니키타 케진 등 연…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216630",
+          "title": "'클로드'가 그림에 숨긴 문장, '아스트라'가 풀었다…암호 규칙 없이 88% 해독"
+        }
+      ]
+    },
+    {
+      "id": "bca5bbf99639b3dbc02b",
+      "url": "https://news.hada.io/topic?id=35965",
+      "title": "Cerebras, 조 단위 파라미터 AI 모델 배포",
+      "original_title": "Cerebras, 조 단위 파라미터 AI 모델 배포",
+      "published_at": "2026-10-25T09:34:04+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cerebras는 대규모 모델의 가중치를 여러 WSE-3T 웨이퍼의 온칩 메모리 에 나눠 배치하고 파이프라인으로 실행해, 수조 개 파라미터 모델을 초당 1,000~2,000개 이상의 토큰 속도로 구동함 약 3조 파라미터의 Kimi K3 는 4비트 가중치 양자화와 요청당 평균 256k 토큰...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35965",
+          "title": "Cerebras, 조 단위 파라미터 AI 모델 배포"
+        }
+      ]
+    },
+    {
+      "id": "4974b5fc3456cd4bd04a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216628",
+      "title": "[AI 모델 신작] 텐센트 월드 모델부터 잭 도시의 음성 AI까지 9종",
+      "original_title": "[AI 모델 신작] 텐센트 월드 모델부터 잭 도시의 음성 AI까지 9종",
+      "published_at": "2026-10-25T09:32:30+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 텐센트, 명령에 따라 장면 바꾸는 월드 모델 ‘Hy-Nomas’ 오픈소스화텐센트가 텍스트 명령과 카메라 움직임에 맞춰 영상을 이어 만드는 월드 모델 ‘Hy-Nomas’를 오픈소스로 공개했다. 사용자는 영상이 생성되는 도중 사물을 추가하거나 등장인물의 행동, 배경, 화풍을 바꿀 수 있다. 카메라 시점과 이동 경로도…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216628",
+          "title": "[AI 모델 신작] 텐센트 월드 모델부터 잭 도시의 음성 AI까지 9종"
+        }
+      ]
+    },
+    {
+      "id": "e6fa49425ed763a5cd93",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42423",
+      "title": "오픈AI, 데이터 분석도 AI에 맡긴다…보고서 작성부터 이상 징후 탐지까지 자동화",
+      "original_title": "오픈AI, 데이터 분석도 AI에 맡긴다…보고서 작성부터 이상 징후 탐지까지 자동화",
+      "published_at": "2026-10-25T08:41:56+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)가 기업 데이터 분석팀을 대상으로 인공지능(AI)을 활용해 데이터 검증부터 보고서 작성, 업무 공유, 반복 작업까지 수행하는 실무 교육 콘텐츠를 공개했다. AI를 단순한 질문·답변 도구가 아닌 기업의 데이터 분석 업무를 수행하는 실행형 도구로 활용하는 방법을 소개한 것이 핵심이다.오픈AI의 교육…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42423",
+          "title": "오픈AI, 데이터 분석도 AI에 맡긴다…보고서 작성부터 이상 징후 탐지까지 자동화"
+        }
+      ]
+    },
+    {
+      "id": "9ea559f9487d925131c9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216553",
+      "title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰",
+      "original_title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰",
+      "published_at": "2026-10-25T08:37:08+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI로 만든 노래 ‘꿈꾸던 어른이 되었나요?’가 최근 멜론 3위, 유튜브 뮤직 2위에 올랐다. 어른이 된 뒤 마주한 현실과 고민을 담아 공감을 얻은 이 곡은 멜로디와 목소리가 AI로 만들어졌다는 사실이 알려지며 더 큰 화제를 모았다.이 곡을 만든 글로리웨이브 팀(이용석·최성혁)의 제작 계기와 AI 활용 방식, 해결 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216553",
+          "title": "멜론 3위 오른 AI 노래, 어떻게 만들었나…‘머무르’ 제작팀 인터뷰"
+        }
+      ]
+    },
+    {
+      "id": "c84cd75191723ffe7aa3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+      "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
+      "original_title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
+      "published_at": "2026-10-25T08:10:30+00:00",
+      "collected_at": "2026-10-25T13:36:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존웹서비스(AWS)의 2026년과 2027년 컴퓨팅 용량이 사실상 모두 판매된 것으로 나타났다. AI 인프라 수요가 예상치를 웃돌며 급증함에 따라, 2028년 공급 물량까지 상당 부분 예약된 상태다.앤디 재시 아마존 CEO는 23일(현지시간) 앤드리슨 호로위츠의 벤 호로위츠 공동 창업자 및 에릭 토렌버그 제너럴 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+          "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려"
+        }
+      ]
+    },
+    {
       "id": "a6348cd166d5c431a76e",
       "url": "https://www.youtube.com/watch?v=iIm3f1qTvp8",
       "title": "How Bad Is AI History Content? [video]",
@@ -695,6 +1021,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
           "title": "The AI graveyard: a running list of projects and startups that didn’t make it"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "title": "The AI graveyard: a running list of projects and startups that didn't make it",
+          "discussion_url": "https://news.ycombinator.com/item?id=50231249"
         }
       ]
     },
