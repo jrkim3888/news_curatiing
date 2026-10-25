@@ -3,6 +3,27 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b3d2d5d5b19cae50f954",
+      "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+      "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "original_title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+      "published_at": "2026-10-25T22:49:06+00:00",
+      "collected_at": "2026-10-25T23:02:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.businessinsider.com/apollo-ai-zero-financial-payoff-corporate-america-economic-analysis-2026-10",
+          "title": "Apollo says AI has delivered 'zero financial payoff' outside the tech industry",
+          "discussion_url": "https://news.ycombinator.com/item?id=50236828"
+        }
+      ]
+    },
+    {
       "id": "ea4cd4688cb5c06caca5",
       "url": "https://www.sciencedirect.com/science/article/pii/S2451958824001660",
       "title": "Surprising gender biases in GPT (2024)",
