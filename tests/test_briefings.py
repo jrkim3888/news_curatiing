@@ -790,6 +790,16 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(request.call_count, 1)
 
     @patch('collector.briefings.request')
+    def test_provider_error_payload_is_not_reported_as_invalid_json_or_retried(self, request):
+        request.return_value = json.dumps({'id':'gen-error', 'error':{'code':502, 'message':'private input text'}}).encode()
+        diagnostics = {}
+        with self.assertRaisesRegex(SummaryError, 'provider_error'):
+            briefings.generate([], 'test-only', 'test/model', diagnostics=diagnostics)
+        self.assertEqual(diagnostics['provider_error_code'], 502)
+        self.assertNotIn('private', json.dumps(diagnostics))
+        self.assertEqual(request.call_count, 1)
+
+    @patch('collector.briefings.request')
     def test_empty_provider_response_has_a_distinct_error_and_is_not_retried(self, request):
         for content in (None, '', '   '):
             with self.subTest(content=content):

@@ -343,6 +343,12 @@ def request_json(payload, key, model, token_budget, diagnostics):
     try:
         response = json.loads(raw)
         diagnostics.update(response_diagnostics(response))
+        if isinstance(response, dict) and isinstance(response.get('error'), dict):
+            code = response['error'].get('code')
+            if type(code) is int:
+                diagnostics['provider_error_code'] = code
+            # Provider error messages may echo input text; retain only the status.
+            raise SummaryError('provider_error')
         choice = response["choices"][0]
         message = choice.get('message')
         content = message.get('content') if isinstance(message, dict) else None

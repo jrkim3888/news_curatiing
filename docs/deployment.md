@@ -114,6 +114,7 @@ Actions 예약과 Pages 빌드 때문에 실제 게시가 06:30보다 늦을 수
 먼저 Actions의 `[briefing-diagnostics]` 로그 또는 아티팩트의 `.runtime/last-run.json`을 확인합니다. `briefing.reason`·`stage`는 실패 원인과 단계이며, `llm`에는 요청 모델·출력 한도, 제공자가 반환한 모델·요청 ID·종료 사유·입력/응답/추론 토큰·비용이 기록됩니다. 응답에 없는 사용량은 추정하지 않습니다. 키·원문·모델 응답 본문·추론 내용은 이 기록에 포함하지 않습니다.
 
 - `output_token_limit`: 모델이 `finish_reason=length`로 응답을 중단했습니다. 출력 예산과 추론 사용량을 확인합니다.
+- `provider_error`: HTTP 요청은 응답했지만 OpenRouter가 정상 생성 결과 대신 오류 객체를 반환했습니다. 숫자 오류 코드는 `provider_error_code`에 남기고 원문을 포함할 수 있는 오류 메시지는 기록하지 않습니다.
 - `invalid_response_json`: 응답을 기대한 JSON 구조로 읽을 수 없습니다.
 - `http_429`, `http_5xx`, `network_failed_or_timed_out`: API 제한·서버·네트워크 문제입니다.
 - `validation_failed`, `stage=briefing_validation` / `article_summary_validation`: 브리핑 / 기사별 요약 검증에서 실패했습니다. `validation_error`에는 원문이나 응답을 포함하지 않는 검증 항목 설명이 남습니다. 기사별 요약 오류는 `validation_details`에도 누락·중복·미등록 ID 등의 개수를 남깁니다. 문장 형태 오류는 `validation_details`에 실패 필드 위치·문장 수·글자 수·종결 여부·줄바꿈/말줄임표 여부를 추가합니다. 원문 응답이나 실패 문장 전문은 저장하지 않습니다.
