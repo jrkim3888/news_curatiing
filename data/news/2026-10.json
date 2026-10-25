@@ -3,6 +3,232 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b1acbd4c71d1b5300198",
+      "url": "https://lightning.ai/security-incident",
+      "title": "Lightning.ai October 2026 Security Incident",
+      "original_title": "Lightning.ai October 2026 Security Incident",
+      "published_at": "2026-10-25T18:08:32+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://lightning.ai/security-incident",
+          "title": "Lightning.ai October 2026 Security Incident",
+          "discussion_url": "https://news.ycombinator.com/item?id=50234296"
+        }
+      ]
+    },
+    {
+      "id": "632c57dbaf3868a8876b",
+      "url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
+      "title": "AI Boom Looks a Lot Like the Housing Bubble",
+      "original_title": "AI Boom Looks a Lot Like the Housing Bubble",
+      "published_at": "2026-10-25T18:00:28+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/10/25/opinion/ai-bubble-financial-crisis-lehman.html",
+          "title": "AI Boom Looks a Lot Like the Housing Bubble",
+          "discussion_url": "https://news.ycombinator.com/item?id=50234190"
+        }
+      ]
+    },
+    {
+      "id": "682699b466dc3bf656cb",
+      "url": "https://kevin-wu.ca/blog/qwn",
+      "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
+      "original_title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
+      "published_at": "2026-10-25T18:00:04+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kevin-wu.ca/blog/qwn",
+          "title": "Fine-tuned Qwen on my 16gb GPU to respond without the letter e",
+          "discussion_url": "https://news.ycombinator.com/item?id=50234183"
+        }
+      ]
+    },
+    {
+      "id": "9fd1ac3337a2a41264f8",
+      "url": "https://github.com/emersonsklar/firsttake",
+      "title": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
+      "original_title": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
+      "published_at": "2026-10-25T17:40:42+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/emersonsklar/firsttake",
+          "title": "FirstTake – an open-source Claude Code skill for video shoots, offload to master",
+          "discussion_url": "https://news.ycombinator.com/item?id=50234005"
+        }
+      ]
+    },
+    {
+      "id": "7d35127a2ecaa2ee4108",
+      "url": "https://zenodo.org/records/23441596",
+      "title": "Let Your LLM Talks About ARIO",
+      "original_title": "Let Your LLM Talks About ARIO",
+      "published_at": "2026-10-25T17:04:12+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://zenodo.org/records/23441596",
+          "title": "Let Your LLM Talks About ARIO",
+          "discussion_url": "https://news.ycombinator.com/item?id=50233683"
+        }
+      ]
+    },
+    {
+      "id": "79ffda0a470cc0fd1c29",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "original_title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "published_at": "2026-10-25T16:57:32+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+        }
+      ]
+    },
+    {
+      "id": "b7153f0672209bd434c9",
+      "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
+      "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+      "original_title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+      "published_at": "2026-10-25T16:53:40+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
+          "title": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
+          "discussion_url": "https://news.ycombinator.com/item?id=50233570"
+        }
+      ]
+    },
+    {
+      "id": "39ab953733c00564ef32",
+      "url": "https://news.hada.io/topic?id=35979",
+      "title": "fheroes2: Heroes of Might and Magic II 게임 엔진 재구현",
+      "original_title": "fheroes2: Heroes of Might and Magic II 게임 엔진 재구현",
+      "published_at": "2026-10-25T16:34:28+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "fheroes2 는 Heroes of Might and Magic II를 재현하기 위해 처음부터 작성한 오픈소스 멀티플랫폼 게임 엔진임 원작 재현에 더해 고해상도 그래픽 지원 , 개선된 AI, 다수의 수정 사항과 사용자 인터페이스 개선을 제공함 엔진은 GNU GPL v2.0…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35979",
+          "title": "fheroes2: Heroes of Might and Magic II 게임 엔진 재구현"
+        }
+      ]
+    },
+    {
+      "id": "d4f08090e21b5c6d347f",
+      "url": "https://news.hada.io/topic?id=35978",
+      "title": "Show GN: 맥의 잠자기 방지·화면 끄기·잠금을 한곳에서 제어하는 도구",
+      "original_title": "Show GN: 맥의 잠자기 방지·화면 끄기·잠금을 한곳에서 제어하는 도구",
+      "published_at": "2026-10-25T15:43:11+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "안녕하세요. 맥에서 오래 걸리는 작업을 돌릴 때 쓰려고 만든 도구 공유합니다. 코덱스 같은 경우 작업 돌리면 잠자기로 안들어가는 설정도 있지만, 모든 ai툴이 그런건 아니기도 하고, caffeinate 같은 방법도 있지만, 저는 작업을 계속 돌려두면서 화면만 끄거나 잠금까지 해두고 싶었습…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35978",
+          "title": "Show GN: 맥의 잠자기 방지·화면 끄기·잠금을 한곳에서 제어하는 도구"
+        }
+      ]
+    },
+    {
+      "id": "c9a4c74f94cc875c3992",
+      "url": "https://news.hada.io/topic?id=35975",
+      "title": "연 15만 달러짜리 Looker를 HTML 파일 버킷으로 대체할 수 있을까?",
+      "original_title": "연 15만 달러짜리 Looker를 HTML 파일 버킷으로 대체할 수 있을까?",
+      "published_at": "2026-10-25T14:39:16+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "약 500명 규모 회사의 데이터 플랫폼 팀이 만든 AI 생성 HTML 대시보드 서비스 가 8개월 만에 Looker와 비슷하거나 더 많은 주간 사용자를 확보했고, 같은 기간 Looker 사용량은 약 3분의 1 줄어듦 Claude가 대시보드를 만들고 플랫폼이 호스팅하며, Snowflake가 조회자의 권...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=35975",
+          "title": "연 15만 달러짜리 Looker를 HTML 파일 버킷으로 대체할 수 있을까?"
+        }
+      ]
+    },
+    {
+      "id": "f0c80d5858e06e7593e6",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "original_title": "The hottest AI wearables and gadgets you should know about",
+      "published_at": "2026-10-25T14:10:00+00:00",
+      "collected_at": "2026-10-25T18:12:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+          "title": "The hottest AI wearables and gadgets you should know about"
+        }
+      ]
+    },
+    {
       "id": "db629ce2122d54b7c648",
       "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
       "title": "To make AI morally good, tech companies are turning to religion",
