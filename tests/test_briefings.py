@@ -16,6 +16,7 @@ from collector import briefings
 from collector.__main__ import ROOT, run, run_daily
 from collector.core import UTC, article_id
 from collector.llm import SummaryError
+from collector.evidence import source_passages
 
 
 def response(inputs):
@@ -116,6 +117,60 @@ class BriefingTests(unittest.TestCase):
                 self.assertTrue(result['briefing']['validation_error'])
                 self.assertFalse(read_history(self.root)['editions'])
                 self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
+    def test_passage_references_publish_without_model_copying_source_quotes(self):
+        def generate(inputs):
+            value = response(inputs)
+            for proof in value['issues'][0]['facts'][0]['evidence']:
+                proof.pop('quote')
+                proof['passage_id'] = f"{proof['article_id']}:p1"
+            for item in value['article_summaries']:
+                item['evidence'] = [f"{item['article_id']}:p1"]
+            return value
+        result = self.run_batch(generate=generate)
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['articles_summarized'], 2)
+        public = json.dumps({'summarized': [a for a in read_news(self.root)['articles'] if a['status'] == 'summarized'],
+                             'history': read_history(self.root)})
+        self.assertNotIn(':p1', public)
+        self.assertNotIn('"source_passages"', public)
+        self.assertNotIn('"evidence"', public)
+        self.assertNotIn('A new AI tool is available.', json.dumps(read_history(self.root)))
+
+    def test_unknown_or_cross_article_passages_fail_without_partial_publication(self):
+        for target in ('fact', 'summary'):
+            for kind in ('unknown', 'other_article'):
+                with self.subTest(target=target, kind=kind):
+                    shutil.rmtree(self.root)
+                    self.root.mkdir()
+                    def generate(inputs):
+                        value = response(inputs)
+                        reference = (f"{inputs[0]['article_id']}:p99999" if kind == 'unknown'
+                                     else f"{inputs[1]['article_id']}:p1")
+                        if target == 'fact':
+                            proof = value['issues'][0]['facts'][0]['evidence'][0]
+                            proof.pop('quote')
+                            proof['passage_id'] = reference
+                        else:
+                            value['article_summaries'][0]['evidence'] = [reference]
+                        return value
+                    result = self.run_batch(generate=generate)
+                    self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+                    self.assertEqual(result['briefing']['validation_error'], 'Unknown or mismatched source passage reference')
+                    self.assertNotIn('A new AI tool', json.dumps(result))
+                    self.assertFalse(read_history(self.root)['editions'])
+                    self.assertTrue(all(a['status'] == 'link' for a in read_news(self.root)['articles']))
+
+    def test_source_passages_are_literal_bounded_and_include_short_tail(self):
+        for text in ('정확한 원문 구절입니다. ' * 180, 'abcdefghij' * 44 + '끝부분', 'A word ’with punctuation’. ' * 50):
+            with self.subTest(text=text[:20]):
+                passages = source_passages('a'*20, text)
+                self.assertEqual(passages, source_passages('a'*20, text))
+                self.assertEqual(len({p['id'] for p in passages}), len(passages))
+                for p in passages:
+                    self.assertTrue(12 <= len(p['text']) <= 220)
+                    self.assertIn(p['text'], text)
+                self.assertTrue(passages[-1]['text'].endswith(text.rstrip()[-3:]))
 
     def test_shortlist_reaches_writer_in_priority_order_with_at_most_eight_articles(self):
         selected = []
@@ -422,7 +477,7 @@ class BriefingTests(unittest.TestCase):
         value = coverage_response(inputs)
         value['coverage'][0]['previous_issue_id'] = previous[0]['id']
         fresh = briefings.uncovered_inputs(value, inputs, previous)
-        with self.assertRaisesRegex(briefings.BriefingValidationError, 'Evidence not found'):
+        with self.assertRaisesRegex(briefings.BriefingValidationError, 'Unknown evidence article'):
             briefings.make_edition(response(inputs), fresh, [], [], self.now, 'test/model', 'a'*64)
 
     def test_failed_coverage_never_calls_writer_and_preserves_history(self):
@@ -776,6 +831,23 @@ class BriefingTests(unittest.TestCase):
         self.assertTrue(payload['provider']['require_parameters'])
 
     @patch('collector.briefings.request')
+    def test_generation_schema_and_payload_use_only_supplied_passage_ids(self, request):
+        request.return_value = b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
+        inputs = [{'article_id':'a'*20, 'source_text':'Exact evidence with curly quotes “here”. ' * 20}]
+        before = copy.deepcopy(inputs)
+        briefings.generate(inputs, 'test-only', 'deepseek/deepseek-v4.1-flash')
+        payload = json.loads(request.call_args.kwargs['payload'])
+        schema = payload['response_format']['json_schema']['schema']['properties']
+        proof = schema['issues']['items']['properties']['facts']['items']['properties']['evidence']['items']
+        ids = [p['id'] for p in source_passages(inputs[0]['article_id'], inputs[0]['source_text'])]
+        self.assertEqual(proof['properties']['passage_id']['enum'], ids)
+        self.assertNotIn('quote', proof['properties'])
+        article = json.loads(payload['messages'][1]['content'])['articles'][0]
+        self.assertNotIn('source_text', article)
+        self.assertEqual([p['id'] for p in article['source_passages']], ids)
+        self.assertEqual(inputs, before)
+
+    @patch('collector.briefings.request')
     def test_coverage_request_is_separate_bounded_and_uses_known_ids(self, request):
         inputs = [{'article_id': 'a'*20, 'title': 'Original news', 'source_text': 'source words '*300}]
         previous = [{'id': '2026-10-20/issue-1', 'title': '이미 발행한 소식', 'facts': ['검증된 기존 사실입니다.']}]
@@ -807,8 +879,8 @@ class BriefingTests(unittest.TestCase):
         payload = json.loads(request.call_args.kwargs['payload'])
         self.assertEqual(payload['reasoning'], {'effort':'none'})
         self.assertEqual(payload['max_tokens'], 50000)
-        self.assertEqual(payload['provider']['order'], ['ionstream'])
-        self.assertEqual(payload['provider']['ignore'], ['digitalocean'])
+        self.assertEqual(payload['provider']['order'], ['decart', 'relace'])
+        self.assertEqual(payload['provider']['only'], ['decart', 'relace'])
         self.assertTrue(payload['provider']['allow_fallbacks'])
         self.assertTrue(payload['provider']['require_parameters'])
         self.assertEqual(diagnostics['reasoning'], {'effort':'none'})
@@ -824,7 +896,7 @@ class BriefingTests(unittest.TestCase):
         result = self.run_batch(generate=generated)
         self.assertEqual(result['briefing']['result'], 'created')
         edition = read_history(self.root)['editions'][0]
-        self.assertEqual(edition['prompt_version'], 'daily-brief-v8')
+        self.assertEqual(edition['prompt_version'], 'daily-brief-v9')
         self.assertEqual(edition['overview'][0]['text'], response([])['overview'][0]['text'])
 
     def test_prose_handles_abbreviations_versions_quotes_and_rejects_fragments(self):
