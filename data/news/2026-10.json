@@ -3,6 +3,496 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "4b85a02e4516d7537c14",
+      "url": "https://github.com/michaeldmueller/hue-claude",
+      "title": "Flash your Philips Hue lights when Claude finishes a turn or needs permission",
+      "original_title": "Flash your Philips Hue lights when Claude finishes a turn or needs permission",
+      "published_at": "2026-10-26T15:53:47+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/michaeldmueller/hue-claude",
+          "title": "Flash your Philips Hue lights when Claude finishes a turn or needs permission",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245886"
+        }
+      ]
+    },
+    {
+      "id": "09bd79c3115a8c3ee1e4",
+      "url": "https://juiced.codes/",
+      "title": "Show HN: Juiced Claude Code",
+      "original_title": "Show HN: Juiced Claude Code",
+      "published_at": "2026-10-26T15:53:09+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://juiced.codes/",
+          "title": "Show HN: Juiced Claude Code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245865"
+        }
+      ]
+    },
+    {
+      "id": "8da7a7e88c5a1af5b187",
+      "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26",
+      "title": "In China, the AI bubble has burst",
+      "original_title": "In China, the AI bubble has burst",
+      "published_at": "2026-10-26T15:50:54+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/china/china-ai-bubble-has-already-burst-2026-10-26",
+          "title": "In China, the AI bubble has burst",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245821"
+        }
+      ]
+    },
+    {
+      "id": "4b458baa3d56ebf2ba41",
+      "url": "https://arxiv.org/abs/2510.13939",
+      "title": "Readers Prefer AI Trained on Copyrighted Books over Expert Human Writers",
+      "original_title": "Readers Prefer AI Trained on Copyrighted Books over Expert Human Writers",
+      "published_at": "2026-10-26T15:48:59+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2510.13939",
+          "title": "Readers Prefer AI Trained on Copyrighted Books over Expert Human Writers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245780"
+        }
+      ]
+    },
+    {
+      "id": "7cf9a5a19692d5b910a9",
+      "url": "https://pixtorium.com/",
+      "title": "Pixtorium – a native AI image editor, not a Photoshop clone",
+      "original_title": "Pixtorium – a native AI image editor, not a Photoshop clone",
+      "published_at": "2026-10-26T15:47:22+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pixtorium.com/",
+          "title": "Pixtorium – a native AI image editor, not a Photoshop clone",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245743"
+        }
+      ]
+    },
+    {
+      "id": "ea97fee739b728caaad7",
+      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+      "title": "Empires of AI",
+      "original_title": "Empires of AI",
+      "published_at": "2026-10-26T15:36:05+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+          "title": "Empires of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245540"
+        }
+      ]
+    },
+    {
+      "id": "2d5cfa6078c5959d094f",
+      "url": "https://www.youtube.com/watch?v=HqAQDGVoDbE",
+      "title": "AI Is Turning Old Games Into Living Worlds [video]",
+      "original_title": "AI Is Turning Old Games Into Living Worlds [video]",
+      "published_at": "2026-10-26T15:25:12+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=HqAQDGVoDbE",
+          "title": "AI Is Turning Old Games Into Living Worlds [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245359"
+        }
+      ]
+    },
+    {
+      "id": "05412f8f2bb68c814e53",
+      "url": "https://iroomdesign.com/",
+      "title": "Room Design with AI – Free Room Designer – iRoomDesign",
+      "original_title": "Room Design with AI – Free Room Designer – iRoomDesign",
+      "published_at": "2026-10-26T15:25:08+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://iroomdesign.com/",
+          "title": "Room Design with AI – Free Room Designer – iRoomDesign",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245356"
+        }
+      ]
+    },
+    {
+      "id": "f6537d95fc45b79b4bb4",
+      "url": "https://altertable.ai/blog/2026-10-26-forecasting-the-ai-hype",
+      "title": "We used AI to predict how much people will talk about AI",
+      "original_title": "We used AI to predict how much people will talk about AI",
+      "published_at": "2026-10-26T15:24:23+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://altertable.ai/blog/2026-10-26-forecasting-the-ai-hype",
+          "title": "We used AI to predict how much people will talk about AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245347"
+        }
+      ]
+    },
+    {
+      "id": "b2ec9b0ea0ae6e6f9caf",
+      "url": "https://github.com/sturnus-dev/sturnus",
+      "title": "Show HN: Sturnus, a latency-based LLM load balancer",
+      "original_title": "Show HN: Sturnus, a latency-based LLM load balancer",
+      "published_at": "2026-10-26T15:20:09+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/sturnus-dev/sturnus",
+          "title": "Show HN: Sturnus, a latency-based LLM load balancer",
+          "discussion_url": "https://news.ycombinator.com/item?id=50245284"
+        }
+      ]
+    },
+    {
+      "id": "c3d6fb64eb5418e851ca",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
+      "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+      "original_title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes",
+      "published_at": "2026-10-26T15:00:00+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Training large-scale AI models on thousands of GPUs is a high-stakes operation where monitoring and automation must be built-in to optimize cluster resiliency... Training large-…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-mission-control-2-5-brings-autonomous-recovery-to-kubernetes",
+          "title": "How NVIDIA Mission Control 2.5 Brings Autonomous Recovery to Kubernetes"
+        }
+      ]
+    },
+    {
+      "id": "fcee7fe2ae9bec9bd7c9",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+      "title": "Anthropic officially files for its public debut",
+      "original_title": "Anthropic officially files for its public debut",
+      "published_at": "2026-10-26T14:35:22+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founde…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+          "title": "Anthropic officially files for its public debut"
+        }
+      ]
+    },
+    {
+      "id": "a10d2548b4e624b28888",
+      "url": "https://news.hada.io/topic?id=36045",
+      "title": "Anthropic S-1 - 기업공개를 위한 증권신고서",
+      "original_title": "Anthropic S-1 - 기업공개를 위한 증권신고서",
+      "published_at": "2026-10-26T14:00:14+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic이 Class A 보통주 공모를 위한 S-1 예비 투자설명서 를 제출하고 Nasdaq에 종목 코드 ANT 로 상장을 신청함. 공모가, 주식 수, 조달액은 아직 공란임 2026년 상반기 매출은 162억 8,600만 달러 , 영업손실은 6억 9,300만 달러임. 순손실은 807...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36045",
+          "title": "Anthropic S-1 - 기업공개를 위한 증권신고서"
+        }
+      ]
+    },
+    {
+      "id": "50d6cd4dcfa0c64a9035",
+      "url": "https://news.hada.io/topic?id=36044",
+      "title": "Ask GN: 비개발자인데, AI에게 맡긴 반복 작업이 밤새 멈춘 걸 아침에야 압니다. 어떻게 감시하세요?",
+      "original_title": "Ask GN: 비개발자인데, AI에게 맡긴 반복 작업이 밤새 멈춘 걸 아침에야 압니다. 어떻게 감시하세요?",
+      "published_at": "2026-10-26T13:03:48+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "클로드 코드에 브라우저 반복 작업 몇 개를 맡겨 두고 쓰는 비개발자입니다. 사이트 로그인이 하루쯤 지나면 풀리는데, 그 순간 작업이 조용히 멈추고 저는 몇 시간 뒤에야 압니다. 이번 주에만 네 번 그랬습니다. 지금은 이렇게 버팁니다. 작업마다 마지막으로 성공한 시각을 남기고, 15분 넘게…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36044",
+          "title": "Ask GN: 비개발자인데, AI에게 맡긴 반복 작업이 밤새 멈춘 걸 아침에야 압니다. 어떻게 감시하세요?"
+        }
+      ]
+    },
+    {
+      "id": "ef5734d6f68464b8a42c",
+      "url": "https://byline.network/2026/10/1026-6",
+      "title": "금감원 “AI 보안 역량을 갖춘 금융사부터 망분리 해제 검토”",
+      "original_title": "금감원 “AI 보안 역량을 갖춘 금융사부터 망분리 해제 검토”",
+      "published_at": "2026-10-26T11:17:37+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "이석 금융감독원 디지털금융총괄국장은 26일 서울 여의도 콘래드서울에서 열린 ‘서울핀테크위크 2026’에서 금융사의 AI 활용 범위를 보안 업무에서 다양한 분야로 확대하기 위해 보안 역량이 뛰어난 금융사부터 망분리 규제를 전면 해제하는 방안을 검토하고 있다고 밝혔다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1026-6",
+          "title": "금감원 “AI 보안 역량을 갖춘 금융사부터 망분리 해제 검토”"
+        }
+      ]
+    },
+    {
+      "id": "a743d0373ec20ebb0805",
+      "url": "https://news.hada.io/topic?id=36034",
+      "title": "PaperPilot - 클라우드 없이 WASM과 MCP를 지원하는 순수 Rust PDF 엔진",
+      "original_title": "PaperPilot - 클라우드 없이 WASM과 MCP를 지원하는 순수 Rust PDF 엔진",
+      "published_at": "2026-10-26T10:34:13+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "PaperPilot 은 PDF와 문서를 로컬에서 처리하는 Rust 툴킷으로, AI 에이전트와 사람이 같은 엔진을 사용할 수 있으며 파일을 외부로 전송하지 않음 MCP 서버 를 통해 Claude Desktop, Cursor 등 MCP 클라이언트에서 PDF 병합, 분할, OCR, 압축을 실행할 수 있음 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36034",
+          "title": "PaperPilot - 클라우드 없이 WASM과 MCP를 지원하는 순수 Rust PDF 엔진"
+        }
+      ]
+    },
+    {
+      "id": "3267982f9e667bd47910",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216671",
+      "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초",
+      "original_title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초",
+      "published_at": "2026-10-26T10:07:01+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "역전파 없이 언어모델을 학습하는 공개 실험에서 목표 성능에 도달하는 시간이 열흘 만에 1.76시간에서 1.6초로 줄었다. 오픈소스 커뮤니티가 학습 알고리즘과 GPU 연산 방식을 개선한 결과다. 기존 역전파 학습과 속도를 비교한 수치는 아니지만, 새로운 학습 방식의 개선 가능성을 보여준 성과다.Q랩스(Q Labs)는 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216671",
+          "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초"
+        }
+      ]
+    },
+    {
+      "id": "e45877c23e833109f9c5",
+      "url": "https://byline.network/2026/10/26-643",
+      "title": "AI 에이전트의 긴 여정, 안전벨트는 준비됐나",
+      "original_title": "AI 에이전트의 긴 여정, 안전벨트는 준비됐나",
+      "published_at": "2026-10-26T09:53:16+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "AI 에이전트를 기업 업무에 도입하는 여정은 이제 막 시작됐다. 기업은 AI 에이전트를 만들고 데이터와 업무 시스템을 연결하는 일부터 어려움을 겪고 있다. 그러나 기술과 데이터를 준비하는 것만으로는 충분하지 않다. 출발 단계에서부터 함께 설계해야 할 것이 있다. 바로 ‘보안’이다. 기업이 AI의 편리함과 생산성에 주…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/26-643",
+          "title": "AI 에이전트의 긴 여정, 안전벨트는 준비됐나"
+        }
+      ]
+    },
+    {
+      "id": "716b8c05a44d00fd6f90",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216672",
+      "title": "RTX 30 그래픽카드 ‘잠금 해제’ 도구 등장…AI 이미지·영상 처리량 최대 60% 증가",
+      "original_title": "RTX 30 그래픽카드 ‘잠금 해제’ 도구 등장…AI 이미지·영상 처리량 최대 60% 증가",
+      "published_at": "2026-10-26T09:52:33+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "엔비디아의 지포스 'RTX 30' 시리즈 그래픽카드에 걸린 일부 AI 연산 제한을 푸는 오픈소스 도구가 등장했다. 사용자 테스트에서는 이미지·영상 생성 처리량이 최대 약 60% 증가했다. 새 그래픽카드를 구매하지 않고 기존 장비의 AI 처리 성능을 높일 수 있다는 점에서 관심을 끈다.깃허브 개발자 자기타(Zagitt…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216672",
+          "title": "RTX 30 그래픽카드 ‘잠금 해제’ 도구 등장…AI 이미지·영상 처리량 최대 60% 증가"
+        }
+      ]
+    },
+    {
+      "id": "e52268b84b3a73fc4a80",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216662",
+      "title": "MS, 관리자 없이 AI 1024개 협업하는 ‘에이전시’ 공개…스스로 역할도 나눠",
+      "original_title": "MS, 관리자 없이 AI 1024개 협업하는 ‘에이전시’ 공개…스스로 역할도 나눠",
+      "published_at": "2026-10-26T09:36:42+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "마이크로소프트(MS)가 중앙 관리자 없이 AI 코딩 에이전트 1024개가 협업하는 시스템을 오픈소스로 공개했다. 에이전트들이 스스로 작업을 고르고 결과를 공유하는 방식으로, 규모가 커지자 코드 검토와 통합을 맡는 역할도 자발적으로 나타났다.MS는 24일(현지시간) 깃허브를 통해 멀티 에이전트 하네스 ‘에이전시(Age…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216662",
+          "title": "MS, 관리자 없이 AI 1024개 협업하는 ‘에이전시’ 공개…스스로 역할도 나눠"
+        }
+      ]
+    },
+    {
+      "id": "f46e7996faa19561ef03",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216683",
+      "title": "허깅페이스, DNA 읽고 질문에 답하는 ‘카본-X’ 공개…유전자 분석 비용 낮춘다",
+      "original_title": "허깅페이스, DNA 읽고 질문에 답하는 ‘카본-X’ 공개…유전자 분석 비용 낮춘다",
+      "published_at": "2026-10-26T09:12:42+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "허깅페이스가 DNA 서열을 입력하면 유전자 변이의 영향을 예측하고 그 이유를 말로 설명하는 AI 모델 ‘카본-X(Carbon-X)’를 공개했다. 자체 평가에서 대형 범용 AI에 근접한 점수를 기록하면서 추론 비용을 크게 낮췄다. 연구자가 자체 장비에서 실행할 수 있어 민감한 유전체 데이터를 외부 AI 서비스에 보내지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216683",
+          "title": "허깅페이스, DNA 읽고 질문에 답하는 ‘카본-X’ 공개…유전자 분석 비용 낮춘다"
+        }
+      ]
+    },
+    {
+      "id": "953fb164b46105420d53",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216677",
+      "title": "메타, ‘뮤즈’ 기능 확대 속도…실시간 음성 대화에 아바타 공유도 준비",
+      "original_title": "메타, ‘뮤즈’ 기능 확대 속도…실시간 음성 대화에 아바타 공유도 준비",
+      "published_at": "2026-10-26T08:55:07+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 개인용 AI 에이전트 ‘뮤즈(Muse)’에 실시간 음성 대화를 제공하기 시작하고, 애니메이션 아바타 공유 기능도 준비하고 있다. 외부 업무 도구 연결과 소기업 지원 기능을 추가한 데 이어 사용자와 소통하는 방식까지 늘리며 서비스 고도화에 속도를 내고 있다.테스팅카탈로그는 25일(현지시간) X를 통해 뮤즈의 음…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216677",
+          "title": "메타, ‘뮤즈’ 기능 확대 속도…실시간 음성 대화에 아바타 공유도 준비"
+        }
+      ]
+    },
+    {
+      "id": "df33b1da1af681e13035",
+      "url": "https://byline.network/2026/10/1026-7",
+      "title": "조호, 자체 인프라 앞세워 기업용 AI 시장 공략",
+      "original_title": "조호, 자체 인프라 앞세워 기업용 AI 시장 공략",
+      "published_at": "2026-10-26T08:47:48+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 소프트웨어 기업 조호는 지난 30년간 단 한 건의 인수합병(M&A) 없이 자체 개발한 60여개 기업용 애플리케이션을 앞세워 한국 시장 공략에 나섰다. 아마존웹서비스(AWS)나 마이크로소프트 애저(Azure) 등 외부 클라우드에 의존하는 대신 전 세계 18개 데이터센터와 서버 하드웨어를 직접 구축·운영하며 데이…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1026-7",
+          "title": "조호, 자체 인프라 앞세워 기업용 AI 시장 공략"
+        }
+      ]
+    },
+    {
+      "id": "e05322fc69372daeecb9",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42436",
+      "title": "앤트로픽이 확보한 ‘학습을 가르치는 AI’ 특허…김용덕 변리사, 클로드의 정확성은 어떻게 훈련되는가",
+      "original_title": "앤트로픽이 확보한 ‘학습을 가르치는 AI’ 특허…김용덕 변리사, 클로드의 정확성은 어떻게 훈련되는가",
+      "published_at": "2026-10-26T08:45:47+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능에게 더 많은 데이터를 학습시키면 언제나 더 똑똑해질까. 일반적으로는 데이터가 많을수록 인공지능의 성능도 좋아질 것이라고 생각하기 쉽다. 그러나 현실의 학습 데이터에는 잘못된 정답, 중복된 사례, 극단적인 예외, 일반적인 상황을 대표하지 못하는 특이 사례가 함께 섞여 있다. 이러한 데이터를 모두 동일하게 중요…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42436",
+          "title": "앤트로픽이 확보한 ‘학습을 가르치는 AI’ 특허…김용덕 변리사, 클로드의 정확성은 어떻게 훈련되는가"
+        }
+      ]
+    },
+    {
       "id": "65e636a90ff32cd24afa",
       "url": "https://deepsenseai.substack.com/p/ai-testing-vs-software-testing-how",
       "title": "AI Testing: How to Build Reliable Production AI Systems",
@@ -325,6 +815,26 @@
           "url": "https://www.youtube.com/watch?v=_0LSqRzpxhU",
           "title": "Slavoj ŽIžek: Only Desperation Can Save Us from Ecology, AI, and War [video]",
           "discussion_url": "https://news.ycombinator.com/item?id=50240152"
+        }
+      ]
+    },
+    {
+      "id": "7e73eebe3e909303c4c5",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "original_title": "How Fanatics and OpenAI streamline the fan experience",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "collected_at": "2026-10-26T15:54:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+          "title": "How Fanatics and OpenAI streamline the fan experience"
         }
       ]
     },
