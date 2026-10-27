@@ -3,6 +3,644 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "88db9cb7f97986f01fcf",
+      "url": "https://leesintheblindmonk1999.github.io/sas-landing",
+      "title": "K_D = 0.56–Deterministic AI architecture and full algorithmic suppression",
+      "original_title": "K_D = 0.56–Deterministic AI architecture and full algorithmic suppression",
+      "published_at": "2026-10-27T15:07:30+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://leesintheblindmonk1999.github.io/sas-landing",
+          "title": "K_D = 0.56–Deterministic AI architecture and full algorithmic suppression",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260492"
+        }
+      ]
+    },
+    {
+      "id": "341302e5ed9a5debd4a6",
+      "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f",
+      "title": "Broadcom CEO Intervened to Seal $63B Anthropic Debt Deal",
+      "original_title": "Broadcom CEO Intervened to Seal $63B Anthropic Debt Deal",
+      "published_at": "2026-10-27T15:06:54+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f",
+          "title": "Broadcom CEO Intervened to Seal $63B Anthropic Debt Deal",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260485"
+        }
+      ]
+    },
+    {
+      "id": "54018d1dbb1a0b2c8dca",
+      "url": "https://huggingface.co/spaces/webml-community/neuron-studio",
+      "title": "Single Neuron Changes Can Steer LLM Behavior in Surprising Ways",
+      "original_title": "Single Neuron Changes Can Steer LLM Behavior in Surprising Ways",
+      "published_at": "2026-10-27T15:05:56+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://huggingface.co/spaces/webml-community/neuron-studio",
+          "title": "Single Neuron Changes Can Steer LLM Behavior in Surprising Ways",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260473"
+        }
+      ]
+    },
+    {
+      "id": "b836eb939c37ffa509e8",
+      "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
+      "title": "NVIDIA, DGX Spark에서 MoE 추론 최적화 3가지 기법 공개",
+      "original_title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark",
+      "published_at": "2026-10-27T15:00:00+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Generating tokens faster starts with identifying what limits inference performance. In the batch-size-1 evaluation of Ling-3.0-flash from Inclusion AI on NVIDIA... Generating to…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/3-ways-to-boost-moe-inference-on-nvidia-dgx-spark",
+          "title": "3 Ways to Boost MoE Inference on NVIDIA DGX Spark"
+        }
+      ],
+      "summary": "NVIDIA 개발자 블로그는 DGX Spark에서 Ling-3.0-flash 모델의 MoE 추론 성능을 높이는 세 가지 기법을 소개했다. Humming MXFP4 MoE 커널, LM 헤드의 온라인 FP8 양자화, NEXTN 기반 MTP 추측 디코딩을 적용한 결과, 합성 워크로드에서 디코드 처리량이 185.1% 증가했고 GSM8K 전체 평가에서는 42.5% 증가했다고 밝혔다. 블로그는 합성 결과가 다른 워크로드의 이득을 보장하지 않는다고 명시했다.",
+      "why_it_matters": "메모리 대역폭이 병목인 단일 배치 추론에서 커널·양자화·추측 디코딩을 조합하는 최적화 방향을 보여주지만, 실제 이득은 워크로드에 따라 달라질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-27T15:10:41+00:00",
+        "input_hash": "33231337decf84c29a0982073381314c2771be68d8bac1076249e43c98648764",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "dc291fa0a78ddf3b2364",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "original_title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "published_at": "2026-10-27T14:59:09+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Micr…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
+          "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace"
+        }
+      ]
+    },
+    {
+      "id": "e3c05d738d7b8e7eb0cd",
+      "url": "https://unfolded-gpt2.vercel.app/",
+      "title": "Show HN: Watch GPT-2 compute your sentence, one matrix at a time, in 3D",
+      "original_title": "Show HN: Watch GPT-2 compute your sentence, one matrix at a time, in 3D",
+      "published_at": "2026-10-27T14:50:36+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://unfolded-gpt2.vercel.app/",
+          "title": "Show HN: Watch GPT-2 compute your sentence, one matrix at a time, in 3D",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260263"
+        }
+      ]
+    },
+    {
+      "id": "eafd07af599b628c21da",
+      "url": "https://github.com/ccheez34/agent-referee-client",
+      "title": "Show HN: Agent Referee – signed, checkable reviews and tie-breaks for AI agents",
+      "original_title": "Show HN: Agent Referee – signed, checkable reviews and tie-breaks for AI agents",
+      "published_at": "2026-10-27T14:48:07+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ccheez34/agent-referee-client",
+          "title": "Show HN: Agent Referee – signed, checkable reviews and tie-breaks for AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260223"
+        }
+      ]
+    },
+    {
+      "id": "967e74e2ba406e524e31",
+      "url": "https://everygenai.app/",
+      "title": "Show HN: EveryGen AI – AI images, short videos and copy rewrites in one tab",
+      "original_title": "Show HN: EveryGen AI – AI images, short videos and copy rewrites in one tab",
+      "published_at": "2026-10-27T14:47:19+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://everygenai.app/",
+          "title": "Show HN: EveryGen AI – AI images, short videos and copy rewrites in one tab",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260209"
+        }
+      ]
+    },
+    {
+      "id": "9f643b1d684fff21a8eb",
+      "url": "https://news.hada.io/topic?id=36113",
+      "title": "AI는 일을 줄여준다고 약속했다. 나는 그 어느 때보다 많이 일하고 있다",
+      "original_title": "AI는 일을 줄여준다고 약속했다. 나는 그 어느 때보다 많이 일하고 있다",
+      "published_at": "2026-10-27T14:34:11+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "모든 엔지니어링 업무에 AI 에이전트 를 쓰면서, 구현 비용의 감소가 기존 업무의 빠른 완료보다 스스로 맡는 업무량의 확대 로 이어짐 여러 에이전트가 간헐적으로 질문, 계획 승인, 코드 검토를 요청하면서 맥락 전환 이 늘어났고, 개별 작업의 난...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36113",
+          "title": "AI는 일을 줄여준다고 약속했다. 나는 그 어느 때보다 많이 일하고 있다"
+        }
+      ]
+    },
+    {
+      "id": "d526f74ef3e97111adec",
+      "url": "https://developers.openai.com/cookbook/examples/partners/harness_aware_plugin_evals/harness_aware_plugin_evals",
+      "title": "Harness-aware evaluation of plugins (OpenAI Cookbook)",
+      "original_title": "Harness-aware evaluation of plugins (OpenAI Cookbook)",
+      "published_at": "2026-10-27T14:32:08+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://developers.openai.com/cookbook/examples/partners/harness_aware_plugin_evals/harness_aware_plugin_evals",
+          "title": "Harness-aware evaluation of plugins (OpenAI Cookbook)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50260007"
+        }
+      ]
+    },
+    {
+      "id": "cf56f312349bdfd80c69",
+      "url": "https://ycao.net/posts/llm-after-four-years/en",
+      "title": "AI, Intellectual Work, Humanity, and the Future",
+      "original_title": "AI, Intellectual Work, Humanity, and the Future",
+      "published_at": "2026-10-27T14:31:24+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ycao.net/posts/llm-after-four-years/en",
+          "title": "AI, Intellectual Work, Humanity, and the Future",
+          "discussion_url": "https://news.ycombinator.com/item?id=50259991"
+        }
+      ]
+    },
+    {
+      "id": "06cddd852b2df2fa2b07",
+      "url": "https://github.com/utsav1033/carmen",
+      "title": "Show HN: carmen – testing AI-written GPU kernels",
+      "original_title": "Show HN: carmen – testing AI-written GPU kernels",
+      "published_at": "2026-10-27T14:30:45+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/utsav1033/carmen",
+          "title": "Show HN: carmen – testing AI-written GPU kernels",
+          "discussion_url": "https://news.ycombinator.com/item?id=50259977"
+        }
+      ]
+    },
+    {
+      "id": "0f8bcd824551279e6d76",
+      "url": "https://news.hada.io/topic?id=36110",
+      "title": "더 이상 Debian NEW 큐에 업로드하지 않겠다",
+      "original_title": "더 이상 Debian NEW 큐에 업로드하지 않겠다",
+      "published_at": "2026-10-27T13:41:07+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Debian 개발자 한 명이 자신의 업로드에 LLM 검토 가 사전 공지 없이 적용되는 것으로 보인다며, 이를 거부할 방법이 생길 때까지 NEW 업로드를 중단 하기로 함 해당 검토 결과는 Debian Inference 기반 워크플로 로 생성됐으며, DFSG 팀원이 작성하...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36110",
+          "title": "더 이상 Debian NEW 큐에 업로드하지 않겠다"
+        }
+      ]
+    },
+    {
+      "id": "e6f6e372515ce53219b5",
+      "url": "https://news.hada.io/topic?id=36109",
+      "title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함",
+      "original_title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함",
+      "published_at": "2026-10-27T13:38:07+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Open3DLab 운영진에 따르면, Roblox 소속이라고 밝힌 크롤러 가 712개 프로젝트의 파일 1,027개, 총 145.5GB를 다운로드함. 다만 소속은 사용자 에이전트의 자기표시에 근거하며 Roblox의 확인은 받지 못함 크롤러는 robots.txt와 스크래핑 금지 약관 을 무시했으며,...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36109",
+          "title": "Roblox가 허락 없이 Open3DLab 등에서 성인 콘텐츠를 포함한 모델 145GB를 다운로드함"
+        }
+      ]
+    },
+    {
+      "id": "1630e683256dee46dd1e",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "original_title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "published_at": "2026-10-27T13:32:57+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
+          "title": "Japan internet giant GMO says hackers posted stolen customer data"
+        }
+      ]
+    },
+    {
+      "id": "8f3cfb5cce39de3e6208",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "original_title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "published_at": "2026-10-27T13:00:00+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "General Compute is betting on inference chips from outside the Nvidia ecosystem.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
+          "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative"
+        }
+      ]
+    },
+    {
+      "id": "257d2044442d252a598e",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "original_title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "published_at": "2026-10-27T13:00:00+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The new standard, WebAI, is designed to work with a variety of AI models.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser",
+          "title": "Opera introduces a new web standard to let users deploy AI locally in their browser"
+        }
+      ]
+    },
+    {
+      "id": "e2122f81782051fbaaa9",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42454",
+      "title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동",
+      "original_title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동",
+      "published_at": "2026-10-27T12:10:40+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "도로에 갑자기 뛰어든 야생동물을 운전자가 발견하기 전에 인공지능(AI)이 먼저 포착해 위험을 알리는 기술이 실제 국도에 적용된다. 도로 위 동물의 움직임을 AI가 감지하고 운전자에게 경고하는 방식으로, 야생동물의 생명 보호와 교통사고 예방을 동시에 추진한다.기후에너지환경부는 28일부터 충북 청주시 서원구 남이면 척산…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42454",
+          "title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동"
+        }
+      ]
+    },
+    {
+      "id": "4009e2899de544cfdd94",
+      "url": "https://byline.network/2026/10/27_19287373-2",
+      "title": "‘19조 투입’ 네이버, AI 팩토리 본격 추진한다",
+      "original_title": "‘19조 투입’ 네이버, AI 팩토리 본격 추진한다",
+      "published_at": "2026-10-27T11:54:27+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버가 브룩필드와 추진하는 인공지능(AI)팩토리 사업과 관련해 최대 18조7400억원 규모 지급보증을 결정했다. 이에 따라 네이버-엔비디아-브룩필드가 공동 추진하는 1GW급 글로벌 AI 팩토리 사업의 첫 단계인 200MW 인프라 구축도 본격화될 전망이다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/27_19287373-2",
+          "title": "‘19조 투입’ 네이버, AI 팩토리 본격 추진한다"
+        }
+      ]
+    },
+    {
+      "id": "5c48565e19fb6819ea2e",
+      "url": "https://news.hada.io/topic?id=36105",
+      "title": "AI 시대의 맨먼스 미신",
+      "original_title": "AI 시대의 맨먼스 미신",
+      "published_at": "2026-10-27T11:32:28+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 에이전트와 LLM 이 등장해도 브룩스의 법칙은 사라지기보다 형태가 바뀜 온보딩, 반복되는 스탠드업 회의, 사내 정치 같은 기존 병목이 사라지는 듯 보여도 순차 작업 은 여전히 순차적으로 수행해야 함 관리 부담은 사람에서 에이전트 관리…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36105",
+          "title": "AI 시대의 맨먼스 미신"
+        }
+      ]
+    },
+    {
+      "id": "93d8b38790e5bd877c16",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "original_title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "published_at": "2026-10-27T11:00:00+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
+        }
+      ]
+    },
+    {
+      "id": "b2d5d3a90f93bab1dd15",
+      "url": "https://news.hada.io/topic?id=36104",
+      "title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도",
+      "original_title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도",
+      "published_at": "2026-10-27T10:43:30+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "안녕하세요. 서울 전체를 AI로 그린 아이소메트릭 지도 HypeSeoul을 만들었습니다. 뉴욕을 한 장의 그림 지도로 만든 isometric.nyc(Andy Coenen)를 보고, 서울도 이렇게 보고 싶어서 시작했습니다. 원작 코드는 쓰지 않고 따로 만들었습니다. 지도를 끌고 확대해서 동네까지 내려가 볼 수 있고, …",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36104",
+          "title": "Show GN: HypeSeoul – AI가 그린 서울 전체, 서울 시간대로 움직이는 지도"
+        }
+      ]
+    },
+    {
+      "id": "225ccc1f2c22c14312b3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42453",
+      "title": "앤트로픽, 美 증권거래위원회에 기업공개 신청…나스닥 종목코드 ‘ANT’ 확정",
+      "original_title": "앤트로픽, 美 증권거래위원회에 기업공개 신청…나스닥 종목코드 ‘ANT’ 확정",
+      "published_at": "2026-10-27T10:34:00+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽(Anthropic)이 미국 증권시장 상장을 위한 공식 절차에 착수했다. 미국 증권거래위원회(SEC)에 기업공개(IPO)를 위한 증권신고서를 제출하고 나스닥 상장 계획을 공개하면서 글로벌 AI 기업의 자본시장 진입 움직임이 새로운 국면을 맞고 있다.앤트로픽은 미국 증권거래위원회(U.S. Securities a…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42453",
+          "title": "앤트로픽, 美 증권거래위원회에 기업공개 신청…나스닥 종목코드 ‘ANT’ 확정"
+        }
+      ]
+    },
+    {
+      "id": "a2ea619d02a4c1ffa9ec",
+      "url": "https://news.hada.io/topic?id=36103",
+      "title": "vLLM의 도구 호출 정확도 문제 해결하기",
+      "original_title": "vLLM의 도구 호출 정확도 문제 해결하기",
+      "published_at": "2026-10-27T10:33:31+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "도구 호출이 스키마를 어기면 오류 메시지와 재시도가 쌓여 에이전트의 품질과 비용에 영향을 줌. Ubicloud의 Kimi K2.6 테스트에서는 vLLM 0.28의 스키마 정확도가 92% 에 그쳤음 제약 디코딩(constrained decoding) 은 생성 단계마다 스키마에 맞지 않는 토큰을 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36103",
+          "title": "vLLM의 도구 호출 정확도 문제 해결하기"
+        }
+      ]
+    },
+    {
+      "id": "ea59360933ddcea480c6",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42452",
+      "title": "EU, AI 시대 번역 전문가 역량 기준 전면 재정비…“번역 넘어 AI 결과 검증·윤리적 판단까지”",
+      "original_title": "EU, AI 시대 번역 전문가 역량 기준 전면 재정비…“번역 넘어 AI 결과 검증·윤리적 판단까지”",
+      "published_at": "2026-10-27T10:18:48+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "유럽연합(EU)이 인공지능(AI)과 대형언어모델(LLM)의 확산으로 급변하는 번역 산업에 대응하기 위해 전문 번역 인력의 교육 기준을 개편했다. 번역가에게 요구되는 역량을 단순한 언어 변환 능력에서 AI 활용, 번역 결과 검증, 정보 조사, 윤리적 판단 등을 결합한 종합적인 전문 역량으로 재정의한 것이 핵심이다.유럽…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42452",
+          "title": "EU, AI 시대 번역 전문가 역량 기준 전면 재정비…“번역 넘어 AI 결과 검증·윤리적 판단까지”"
+        }
+      ]
+    },
+    {
+      "id": "89919e7d9a9e1854793f",
+      "url": "https://news.hada.io/topic?id=36101",
+      "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
+      "original_title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기",
+      "published_at": "2026-10-27T10:04:55+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "예전에 서버 없는 질문 일기 하루카드를 올렸었는데, 이번엔 반대로 AI를 붙여서 하나 더 만들었습니다. 쓰는 방식은 단순합니다. 질문에 한두 줄 답하면 AI가 그 답에서 단어를 하나 집어서 다시 물어보고, 몇 번 주고받다 끝내면 감정이랑 주제를 정리해 줍니다. 기록이 쌓이면 지난 고민을 기억했다가 &quo…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36101",
+          "title": "Show GN: 봉오리 - 질문에 답하다 보면 하루가 정리되는 AI 일기"
+        }
+      ]
+    },
+    {
+      "id": "cd5084787e5685822de7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42451",
+      "title": "“AI가 코드 짜는 시대, 깃허브 대체한다”…전 깃허브 CEO, 차세대 개발 플랫폼 ‘엔타이어’ 출시",
+      "original_title": "“AI가 코드 짜는 시대, 깃허브 대체한다”…전 깃허브 CEO, 차세대 개발 플랫폼 ‘엔타이어’ 출시",
+      "published_at": "2026-10-27T09:40:32+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 코딩 에이전트가 소프트웨어 개발의 중심으로 떠오르면서, 개발자가 직접 코드를 작성하고 검토하던 기존 개발 플랫폼의 구조에도 변화가 시작됐다. 깃허브(GitHub)의 전 최고경영자(CEO) 토마스 돔케(Thomas Dohmke)가 설립한 엔타이어(Entire)가 AI 에이전트와 인간 개발자의 협업을 위…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42451",
+          "title": "“AI가 코드 짜는 시대, 깃허브 대체한다”…전 깃허브 CEO, 차세대 개발 플랫폼 ‘엔타이어’ 출시"
+        }
+      ]
+    },
+    {
+      "id": "76cf590ba5b8f05fd6fe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216712",
+      "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
+      "original_title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
+      "published_at": "2026-10-27T09:20:31+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 코딩 에이전트의 작업 환경을 복잡하게 구성해도 코드 작성 정확도는 거의 높아지지 않지만, 추론 비용은 최대 3배까지 늘어날 수 있다는 연구 결과가 나왔다. 모델을 둘러싼 도구와 실행 절차 등 '하네스'를 정교하게 설계하는 것보다 불필요한 지시문과 도구 정의를 줄이는 편이 비용 효율에 더 큰 영향을 줄 수 있다는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216712",
+          "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'"
+        }
+      ]
+    },
+    {
+      "id": "280006005b251b02986f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42450",
+      "title": "“유럽 1000만 유로 로봇 프로젝트에 KIST 합류”… AI 로봇의 ‘손과 눈’ 핵심기술 맡는다",
+      "original_title": "“유럽 1000만 유로 로봇 프로젝트에 KIST 합류”… AI 로봇의 ‘손과 눈’ 핵심기술 맡는다",
+      "published_at": "2026-10-27T09:04:30+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "한국과학기술연구원(KIST)이 1000만 유로(약 148억원) 이상 규모의 유럽 첨단 로봇 국제공동연구에서 로봇의 손과 눈에 해당하는 핵심기술 개발을 맡는다. 유럽 9개국 15개 기관이 참여하는 대형 연구 프로젝트에 한국 연구기관이 핵심 기술개발 주체로 합류하면서, 국내 소프트 로보틱스와 인공지능(AI) 기술의 국제…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42450",
+          "title": "“유럽 1000만 유로 로봇 프로젝트에 KIST 합류”… AI 로봇의 ‘손과 눈’ 핵심기술 맡는다"
+        }
+      ]
+    },
+    {
+      "id": "c9a06b9a02d77da0ebde",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216711",
+      "title": "난베이지, 33B 오픈소스 AI 모델 공개...코딩 벤치마크서 '큐원3.8-27B' 앞서",
+      "original_title": "난베이지, 33B 오픈소스 AI 모델 공개...코딩 벤치마크서 '큐원3.8-27B' 앞서",
+      "published_at": "2026-10-27T09:03:17+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 난베이지 LLM 연구소가 코딩과 업무 자동화를 수행하는 에이전트형 AI 모델 ‘난베이지4.3-33B(Nanbeige4.3-33B)’를 공개했다. 330억개 매개변수를 갖춘 오픈소스 모델로, 연구소 자체 평가에서 코딩과 사무 작업 관련 벤치마크 다수에서 알리바바의 '큐원3.8-27B' 등 비슷한 규모의 경쟁 모델…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216711",
+          "title": "난베이지, 33B 오픈소스 AI 모델 공개...코딩 벤치마크서 '큐원3.8-27B' 앞서"
+        }
+      ]
+    },
+    {
+      "id": "320b48bfe5b1dc0fdc9c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216729",
+      "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극",
+      "original_title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극",
+      "published_at": "2026-10-27T08:50:00+00:00",
+      "collected_at": "2026-10-27T15:10:21+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버·엔비디아·브룩필드 3사가 추진하는 1기가와트(GW)급 글로벌 AI 인프라 사업이 본격화될 전망이다.네이버(대표 최수연)는 브룩필드와 90억달러(약 12조원) 규모의 컴퓨팅 인프라 확보 계약을 체결해 엔비디아의 전략적 지분 투자를 위한 선결 조건을 충족했다고 27일 밝혔다.이에 따라 네이버는 엔비디아를 대상으로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216729",
+          "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극"
+        }
+      ]
+    },
+    {
       "id": "55edade81a507672248f",
       "url": "https://www.aclu.org/news/privacy-technology/ai-driven-police-stops",
       "title": "Police Pulling People over Because AI Deems Their Driving Patterns Suspicious",
