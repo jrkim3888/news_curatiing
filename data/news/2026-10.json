@@ -426,14 +426,14 @@
     {
       "id": "0227791c6305c414382f",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216687",
-      "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
+      "title": "앤트로픽, 나스닥 상장 신청서 공개…11월 공모 절차 추진",
       "original_title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
       "published_at": "2026-10-26T20:52:10+00:00",
       "collected_at": "2026-10-27T00:15:31+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "앤트로픽이 상장 신청서를 공개하고 나스닥 입성을 위한 본격적인 절차에 들어갔다. 기업용 AI 수요에 힘입어 올해 상반기 매출이 지난해 같은 기간의 약 14배로 늘어난 가운데, 첨단 AI 개발과 서비스 운영에 필요한 대규모 자금 확보에 나섰다. 오는 11월 투자자 대상 공모 마케팅을 시작할 예정으로, 주요 AI 개발사…",
       "sources": [
         {
@@ -441,7 +441,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216687",
           "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진"
         }
-      ]
+      ],
+      "summary": "앤트로픽이 미국 증권거래위원회에 기업공개를 위한 증권 신고서를 공개 제출하고 나스닥 글로벌 셀렉트 마켓에 종목코드 'ANT'로 상장할 계획이라고 밝혔다. 올해 상반기 매출은 162억9000만달러로 지난해 같은 기간의 약 14배로 늘었고, 사용량 기반 사업이 상반기 매출의 약 80%를 차지했다. 최종 상장일과 조달 규모, 공모 기업가치는 아직 확정되지 않았다.",
+      "why_it_matters": "대규모 AI 개발사의 상장은 자금 조달 경쟁과 공개시장의 AI 투자 수용력을 가늠하는 계기가 된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "0248cfd35661ba9838c194dbe402bb36f541f97c3b1f76ead195b58a0d4a5cf4",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b6e385a47f779bcaaddc",
@@ -1043,14 +1053,14 @@
     {
       "id": "ef5734d6f68464b8a42c",
       "url": "https://byline.network/2026/10/1026-6",
-      "title": "금감원 “AI 보안 역량을 갖춘 금융사부터 망분리 해제 검토”",
+      "title": "금감원, AI 보안 역량 갖춘 금융사부터 망분리 해제 검토",
       "original_title": "금감원 “AI 보안 역량을 갖춘 금융사부터 망분리 해제 검토”",
       "published_at": "2026-10-26T11:17:37+00:00",
       "collected_at": "2026-10-26T15:54:50+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "이석 금융감독원 디지털금융총괄국장은 26일 서울 여의도 콘래드서울에서 열린 ‘서울핀테크위크 2026’에서 금융사의 AI 활용 범위를 보안 업무에서 다양한 분야로 확대하기 위해 보안 역량이 뛰어난 금융사부터 망분리 규제를 전면 해제하는 방안을 검토하고 있다고 밝혔다.…",
       "sources": [
         {
@@ -1058,7 +1068,17 @@
           "url": "https://byline.network/2026/10/1026-6",
           "title": "금감원 “AI 보안 역량을 갖춘 금융사부터 망분리 해제 검토”"
         }
-      ]
+      ],
+      "summary": "이석 금융감독원 디지털금융총괄국장은 서울핀테크위크2026에서 충분한 AI 보안 역량을 갖춘 금융사부터 망분리 규제를 전면 해제하는 방안을 검토하고 있다고 밝혔다. 금융당국은 지난 6월 보안 역량을 갖춘 금융사 49곳의 신청을 받아 10곳을 선정해 1차 테스트를 진행했고, 참여사를 단계적으로 늘려 2차와 3차 테스트를 추가로 진행할 계획이다.",
+      "why_it_matters": "금융권의 AI 활용 확대와 보안 책임 사이의 균형을 어떻게 설계할지가 관건이 된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "d2e5c219d2876011980da49f9af9f09d2371fa5814d6c525c17e77a96dca7cb3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a743d0373ec20ebb0805",
@@ -1083,14 +1103,14 @@
     {
       "id": "3267982f9e667bd47910",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216671",
-      "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초",
+      "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져",
       "original_title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초",
       "published_at": "2026-10-26T10:07:01+00:00",
       "collected_at": "2026-10-26T15:54:50+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "역전파 없이 언어모델을 학습하는 공개 실험에서 목표 성능에 도달하는 시간이 열흘 만에 1.76시간에서 1.6초로 줄었다. 오픈소스 커뮤니티가 학습 알고리즘과 GPU 연산 방식을 개선한 결과다. 기존 역전파 학습과 속도를 비교한 수치는 아니지만, 새로운 학습 방식의 개선 가능성을 보여준 성과다.Q랩스(Q Labs)는 …",
       "sources": [
         {
@@ -1098,7 +1118,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216671",
           "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초"
         }
-      ]
+      ],
+      "summary": "Q랩스는 역전파 없이 언어모델을 학습하는 오픈소스 프로젝트 '노이즈'에서 목표 성능 도달 시간이 열흘 만에 1.76시간에서 1.6초로 줄어 약 4000배의 속도 향상을 이뤘다고 밝혔다. 실험은 매개변수 3770만개의 소형 GPT 모델을 파인웹 데이터 1000만 토큰으로 최대 한 차례 학습해 손실값을 4.2까지 낮추는 조건으로 진행됐으며, 1.6초는 이 조건에서 목표 손실값에 도달한 시간이다.",
+      "why_it_matters": "역전파를 대체할 학습 방식의 가능성을 보여주지만, 상용 규모 검증은 아직 남아 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "3decb277bec81f70119df2b2b5caf6f3db220730a9d889df7aadc7800f2f8940",
+        "evidence_verified": true
+      }
     },
     {
       "id": "27334100e818b98514ff",
@@ -1143,14 +1173,14 @@
     {
       "id": "716b8c05a44d00fd6f90",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216672",
-      "title": "RTX 30 그래픽카드 ‘잠금 해제’ 도구 등장…AI 이미지·영상 처리량 최대 60% 증가",
+      "title": "RTX 30 그래픽카드 AI 연산 제한 푸는 오픈소스 도구 등장",
       "original_title": "RTX 30 그래픽카드 ‘잠금 해제’ 도구 등장…AI 이미지·영상 처리량 최대 60% 증가",
       "published_at": "2026-10-26T09:52:33+00:00",
       "collected_at": "2026-10-26T15:54:50+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "엔비디아의 지포스 'RTX 30' 시리즈 그래픽카드에 걸린 일부 AI 연산 제한을 푸는 오픈소스 도구가 등장했다. 사용자 테스트에서는 이미지·영상 생성 처리량이 최대 약 60% 증가했다. 새 그래픽카드를 구매하지 않고 기존 장비의 AI 처리 성능을 높일 수 있다는 점에서 관심을 끈다.깃허브 개발자 자기타(Zagitt…",
       "sources": [
         {
@@ -1158,7 +1188,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216672",
           "title": "RTX 30 그래픽카드 ‘잠금 해제’ 도구 등장…AI 이미지·영상 처리량 최대 60% 증가"
         }
-      ]
+      ],
+      "summary": "깃허브 개발자 자기타가 공개한 'GPU 언락'은 암페어 아키텍처 기반 RTX 30 시리즈를 대상으로 텐서 코어의 일부 연산 처리율을 전문가용 제품 수준으로 높이는 리눅스 커널 모듈 형태의 도구다. 사용자 테스트에서는 이미지 생성 도구 컴피유아이로 'MOSS-이미지 SFT'를 BF16 방식으로 실행했을 때 이미지 한 장 생성 시간이 약 72초에서 45초로 줄어 처리량이 약 59% 늘었다.",
+      "why_it_matters": "기존 그래픽카드의 AI 처리 성능을 높일 수 있지만 연산 형식과 작업 종류에 따라 효과가 달라 주의가 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "ba6236a48a996d87e168af596c0cc9230d65c4e9013bbdf2c59a8748b79e2f13",
+        "evidence_verified": true
+      }
     },
     {
       "id": "e52268b84b3a73fc4a80",
@@ -1229,8 +1269,8 @@
       "collected_at": "2026-10-26T15:54:50+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "글로벌 소프트웨어 기업 조호는 지난 30년간 단 한 건의 인수합병(M&A) 없이 자체 개발한 60여개 기업용 애플리케이션을 앞세워 한국 시장 공략에 나섰다. 아마존웹서비스(AWS)나 마이크로소프트 애저(Azure) 등 외부 클라우드에 의존하는 대신 전 세계 18개 데이터센터와 서버 하드웨어를 직접 구축·운영하며 데이…",
       "sources": [
         {
@@ -1238,7 +1278,17 @@
           "url": "https://byline.network/2026/10/1026-7",
           "title": "조호, 자체 인프라 앞세워 기업용 AI 시장 공략"
         }
-      ]
+      ],
+      "summary": "글로벌 소프트웨어 기업 조호는 30년간 인수합병 없이 자체 개발한 60여개 기업용 애플리케이션과 전 세계 18개 데이터센터를 앞세워 한국 시장 공략에 나섰다. 조호에 따르면 올해 한국 시장에서 제품을 도입한 고객 수는 전년 대비 107% 증가했으며, 통합 플랫폼 '조호 원'에 대화형 AI 인터페이스 '지아챗'과 자율형 업무 처리 기술 '지아에이전트'를 적용했다.",
+      "why_it_matters": "외부 클라우드 의존 없이 데이터 통제권을 확보하려는 기업용 AI 전략이 국내에서도 시험대에 오른다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "2b34700154127437b46ea80fa8f413a93ae6b60a9c572b584f5ec1091b21ade3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "e05322fc69372daeecb9",
@@ -1749,14 +1799,14 @@
     {
       "id": "6a5a87ee31dc31eedcb1",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42435",
-      "title": "유럽 직장인 AI 활용 30%에 그쳐…EU, 기업 규모·직종별 ‘AI 활용 격차’ 경고",
+      "title": "유럽 직장인 AI 활용 30%에 그쳐…기업 규모·직종별 격차 경고",
       "original_title": "유럽 직장인 AI 활용 30%에 그쳐…EU, 기업 규모·직종별 ‘AI 활용 격차’ 경고",
       "published_at": "2026-10-26T05:33:40+00:00",
       "collected_at": "2026-10-26T08:36:05+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "인공지능(AI)이 유럽의 노동시장 전반으로 빠르게 확산하고 있지만, 실제 업무에 AI를 활용하는 근로자는 10명 중 3명에 불과한 것으로 나타났다. 기업의 AI 도입률도 20% 수준에 머물렀으며, 대기업과 소기업 사이의 도입 격차는 3배 이상 벌어졌다. 특히 고학력 전문직과 사무직의 AI 노출도가 높아지면서 직업별 …",
       "sources": [
         {
@@ -1764,7 +1814,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42435",
           "title": "유럽 직장인 AI 활용 30%에 그쳐…EU, 기업 규모·직종별 ‘AI 활용 격차’ 경고"
         }
-      ]
+      ],
+      "summary": "유럽연합 집행위원회 공동연구센터의 정책 분석 보고서에 따르면 2024~2025년 유럽연합 근로자의 약 30%가 업무에서 AI 도구를 사용했고, 기업의 AI 도입률은 2024년 13.5%에서 2025년 약 20%로 상승했다. 대기업 도입률은 55%였지만 소기업은 17%에 머물렀고, 대학 수준 교육을 받은 근로자 가운데 77.6%가 AI 노출도 상위 40% 직종에 종사하는 것으로 나타났다.",
+      "why_it_matters": "AI 도입 격차가 장기적으로 생산성 격차로 이어질 수 있어 교육과 직업훈련 대응이 필요하다는 지적이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "c9f5eb57745ac1ac7e19fd10b462859e4c401fdf30c70b6696da3b5a2d994e47",
+        "evidence_verified": true
+      }
     },
     {
       "id": "617170f4ec51c0d3473a",
@@ -1789,14 +1849,14 @@
     {
       "id": "4447fa19c43d1c7bfa65",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42433",
-      "title": "16년 만에 바뀐 국제 전파감시 지침…한국 AI 분석 기술, 핵심 분야에 반영",
+      "title": "한국 AI 전파 분석 기술, 국제전기통신연합 전파감시 핸드북에 반영",
       "original_title": "16년 만에 바뀐 국제 전파감시 지침…한국 AI 분석 기술, 핵심 분야에 반영",
       "published_at": "2026-10-26T03:46:30+00:00",
       "collected_at": "2026-10-26T08:36:05+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "전 세계 전파감시 체계가 인공지능(AI)과 데이터 분석을 중심으로 재편되는 가운데, 한국 연구진이 참여한 지능형 전파 분석 기술이 국제전기통신연합(ITU)의 공식 기술 지침에 반영됐다. 전파 신호를 측정하고 이상 여부를 확인하는 기존 방식에서 벗어나 AI가 신호를 분류하고 간섭 원인을 분석하는 지능형 전파관리 체계로…",
       "sources": [
         {
@@ -1804,19 +1864,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42433",
           "title": "16년 만에 바뀐 국제 전파감시 지침…한국 AI 분석 기술, 핵심 분야에 반영"
         }
-      ]
+      ],
+      "summary": "국제전기통신연합 전파통신부문이 2010년판 이후 16년 만에 '전파감시 핸드북' 개정판을 발간했으며, 한국전자통신연구원의 김병찬·김강희 책임연구원이 AI 기반 전파 분석을 다루는 제4장 4.5절의 라포처로 참여했다. 개정판은 기존 제3장에 포함됐던 데이터 처리와 자동화 관련 내용을 별도의 제4장으로 독립시켜 AI·머신러닝 활용과 감시 시스템 간 네트워크 연계, 자동화 운영 등을 포괄하도록 범",
+      "why_it_matters": "전파 감시가 개별 장비 측정에서 AI 기반 데이터 분석·자동화 운영으로 전환되는 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "80ddf2d93fa5b8a9d9e91b96015a133896a095db80032a6bce3800a4dd6bcf8c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "aedf6a4853a001d1576c",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42432",
-      "title": "국민 누구나 이용하는 ‘모두의 AI’, 이름도 국민이 짓는다…정부, 브랜드 공모전 개최",
+      "title": "정부, '모두의 AI' 브랜드명·슬로건 국민 공모전 개최",
       "original_title": "국민 누구나 이용하는 ‘모두의 AI’, 이름도 국민이 짓는다…정부, 브랜드 공모전 개최",
       "published_at": "2026-10-26T03:28:17+00:00",
       "collected_at": "2026-10-26T08:36:05+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "정부가 연내 출시를 준비 중인 대국민 인공지능(AI) 서비스 ‘모두의 AI’의 공식 브랜드명과 슬로건을 국민 참여로 선정한다.국내 AI 모델을 기반으로 누구나 쉽고 부담 없이 이용할 수 있는 서비스를 제공한다는 사업 취지를 알리고, 정식 출시를 앞두고 국민의 관심과 참여를 확대하기 위한 취지다. 과학기술정보통신부(부…",
       "sources": [
         {
@@ -1824,7 +1894,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42432",
           "title": "국민 누구나 이용하는 ‘모두의 AI’, 이름도 국민이 짓는다…정부, 브랜드 공모전 개최"
         }
-      ]
+      ],
+      "summary": "과학기술정보통신부가 26일부터 11월 6일까지 연내 출시를 준비 중인 대국민 AI 서비스 '모두의 AI'의 공식 브랜드명과 슬로건을 국민 참여로 선정하는 공모전을 진행한다. 과기정통부는 지난 8월 28일 SK텔레콤·카카오·KT 등 3개 컨소시엄을 사업자로 선정했으며, 현재 서비스 관계자를 대상으로 베타 서비스를 운영하면서 연내 정식 출시를 준비하고 있다.",
+      "why_it_matters": "국민이 서비스 브랜드 형성 과정에 참여한다는 점에서 AI 서비스의 확산과 수용성을 가늠하는 시도가 된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v10",
+        "generated_at": "2026-10-27T00:43:28+00:00",
+        "briefing_day": "2026-10-27",
+        "input_hash": "6110d3ec0ea495ea4d9f83b53a3aa2facf901b72d4205a7e81cb7b72828b61e3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4f544dd2b6d19e635d2a",
