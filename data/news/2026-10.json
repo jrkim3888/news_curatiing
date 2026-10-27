@@ -3,6 +3,714 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "23fd68f40ef3abfc7af8",
+      "url": "https://cje.io/2026/10/26/some-cyber-ai-dichotomies",
+      "title": "Some cybersecurity x AI dichotomies",
+      "original_title": "Some cybersecurity x AI dichotomies",
+      "published_at": "2026-10-27T00:01:35+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cje.io/2026/10/26/some-cyber-ai-dichotomies",
+          "title": "Some cybersecurity x AI dichotomies",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252948"
+        }
+      ]
+    },
+    {
+      "id": "f3adbeb4a580b365d186",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42438",
+      "title": "얼굴만 찍었는데 나와 똑같은 3D 아바타가?…UNIST, 차세대 AI 아바타 생성 기술 개발",
+      "original_title": "얼굴만 찍었는데 나와 똑같은 3D 아바타가?…UNIST, 차세대 AI 아바타 생성 기술 개발",
+      "published_at": "2026-10-27T00:01:23+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "얼굴만 촬영한 영상부터 상반신과 전신 영상까지, 촬영된 신체 범위에 맞춰 실제 사람을 닮은 3차원(3D) 아바타를 정교하게 생성하는 인공지능(AI) 기술이 개발됐다. 영상에 나타나지 않는 신체 부위에 불필요한 연산을 수행하는 기존 기술의 한계를 개선하고, 얼굴 표정과 손동작 등 실제로 관찰되는 부위의 재현 정확도를 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42438",
+          "title": "얼굴만 찍었는데 나와 똑같은 3D 아바타가?…UNIST, 차세대 AI 아바타 생성 기술 개발"
+        }
+      ]
+    },
+    {
+      "id": "84c11acc5fb46a66ff83",
+      "url": "https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare",
+      "title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
+      "original_title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
+      "published_at": "2026-10-27T00:00:26+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare",
+          "title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252932"
+        }
+      ]
+    },
+    {
+      "id": "b7a8f6994aaa72246eeb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216582",
+      "title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트",
+      "original_title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "테디노트의 LangGraph 에이전트 비법노트이경록·김태한·임한택·최재훈·강민석·김성연 | 리코멘드2026년 7월 6일추천이유저자들은 LangGraph를 활용해 단순 챗봇을 넘어 도구를 사용하고 협업하는 실무급 에이전트를 설계·구축하는 방법을 단계적으로 제시합니다. 상태 관리, 워크플로 그래프화, 멀티에이전트 패턴까…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216582",
+          "title": "[AI리더의 서가] 테디노트의 LangGraph 에이전트 비법노트"
+        }
+      ]
+    },
+    {
+      "id": "670bdc25a85edb1886da",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+      "title": "OpenAI, 시각 추론·컴퓨터 사용 강조한 GPT-6.1 Terra 공개",
+      "original_title": "GPT-6.1 Terra",
+      "published_at": "2026-10-26T23:53:07+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reas…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+          "title": "GPT-6.1 Terra"
+        }
+      ],
+      "summary": "OpenAI가 상세한 시각 추론과 정밀한 컴퓨터 사용, 더 명확하고 자연스러운 글쓰기를 결합한 빠르고 효율적인 모델 GPT-6.1 Terra를 발표했다. 이 모델은 GPT-5.6 Terra에서 크게 향상되었으며 제안서 작성, 기술 도면 해석, 양식 작성, 영상 편집 등 업무 관련 작업에 강점을 보인다고 OpenAI는 밝혔다. 가격은 입력 100만 토큰당 1달러, 출력 100만 토큰당 5달러로 GPT-5.6 Terra와 GPT-6.1 Sol의 거의 절반 수준이다.",
+      "why_it_matters": "중간 가격대 모델이 시각·컴퓨터 사용 작업을 겨냥하면서, 자동화된 반복 업무에 어떤 모델을 선택할지 판단 기준이 더 복잡해질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-27T00:16:00+00:00",
+        "input_hash": "e2da9d59ab29cb29175d66336c46831b50266af3fb0517d3b8daf820ad94c30d",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "bb10d87820743d652ecb",
+      "url": "https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human",
+      "title": "Software stack is an abstraction made for humans. AI can skip it",
+      "original_title": "Software stack is an abstraction made for humans. AI can skip it",
+      "published_at": "2026-10-26T23:52:04+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://vithushansylvester.com/writing/what-is-left-when-the-programmer-is-not-human",
+          "title": "Software stack is an abstraction made for humans. AI can skip it",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252853"
+        }
+      ]
+    },
+    {
+      "id": "41ddadfb8a70d0feab02",
+      "url": "https://news.hada.io/topic?id=36069",
+      "title": "학계와 협력해 과학적 이해 쌓기",
+      "original_title": "학계와 협력해 과학적 이해 쌓기",
+      "published_at": "2026-10-26T23:35:03+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI가 조화해석, 계산 복잡도, 양자장론 에서 AI로 얻은 세 가지 연구 결과를 발표하고, 이를 과학적 이해로 발전시키기 위해 외부 전문가와 협력함 AI가 만든 원고를 원시 연구 데이터 로 보고, 수학은 결과물 공개, 컴퓨터과학은 공개와 외부 공동 검토 병행, 물...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36069",
+          "title": "학계와 협력해 과학적 이해 쌓기"
+        }
+      ]
+    },
+    {
+      "id": "8f9239d397f73ab98d76",
+      "url": "https://github.com/jdavid465/JDA-ZIP-PROTOCOL",
+      "title": "JDA-Zip Protocol – Deterministic Compression for LLM Contexts",
+      "original_title": "JDA-Zip Protocol – Deterministic Compression for LLM Contexts",
+      "published_at": "2026-10-26T23:23:55+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/jdavid465/JDA-ZIP-PROTOCOL",
+          "title": "JDA-Zip Protocol – Deterministic Compression for LLM Contexts",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252604"
+        }
+      ]
+    },
+    {
+      "id": "46919338653ee7a37a5d",
+      "url": "https://paradev.com/",
+      "title": "Paradev: One workspace for Claude Code, Codex, and any coding agent",
+      "original_title": "Paradev: One workspace for Claude Code, Codex, and any coding agent",
+      "published_at": "2026-10-26T23:15:45+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://paradev.com/",
+          "title": "Paradev: One workspace for Claude Code, Codex, and any coding agent",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252532"
+        }
+      ]
+    },
+    {
+      "id": "cac45e452894e7ddeaa9",
+      "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results",
+      "title": "Gemini 4 Carbon early test results are in ahead of release",
+      "original_title": "Gemini 4 Carbon early test results are in ahead of release",
+      "published_at": "2026-10-26T23:13:42+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.testingcatalog.com/gemini-4-carbon-early-test-results",
+          "title": "Gemini 4 Carbon early test results are in ahead of release",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252509"
+        }
+      ]
+    },
+    {
+      "id": "4341ae46eaa765ac172d",
+      "url": "https://claudeslop.bryanhu.com/",
+      "title": "A directory for AI-slop games",
+      "original_title": "A directory for AI-slop games",
+      "published_at": "2026-10-26T23:11:56+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://claudeslop.bryanhu.com/",
+          "title": "A directory for AI-slop games",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252491"
+        }
+      ]
+    },
+    {
+      "id": "6dd710e822cdbdc2fb99",
+      "url": "https://www.hugonot.com/",
+      "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
+      "original_title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
+      "published_at": "2026-10-26T23:11:15+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.hugonot.com/",
+          "title": "Show HN: Hugonot – Sponsor a Dedicated AI Blogger",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252486"
+        }
+      ]
+    },
+    {
+      "id": "7007e9047839721baf4d",
+      "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
+      "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+      "original_title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+      "published_at": "2026-10-26T23:08:10+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://codingcat.dev/post/anthropic-s1-ipo-circular-ai-economy-etf-risk",
+          "title": "Anthropic's S-1, $518B in cloud commitments, and circular AI capex",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252452"
+        }
+      ]
+    },
+    {
+      "id": "e258fe41ba82a7475f5f",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "title": "Anthropic: Strengthening our defenses against distillation attacks",
+      "original_title": "Anthropic: Strengthening our defenses against distillation attacks",
+      "published_at": "2026-10-26T23:06:40+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.anthropic.com/news/distillation-defenses",
+          "title": "Anthropic: Strengthening our defenses against distillation attacks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252441"
+        }
+      ]
+    },
+    {
+      "id": "dbd67be2e864ebb5f42b",
+      "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford",
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "original_title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "published_at": "2026-10-26T23:06:37+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://maccus.fr/en/ai-models-hide-capabilities-oxford",
+          "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252439"
+        }
+      ]
+    },
+    {
+      "id": "6bf32ee126c499668160",
+      "url": "https://jdkaplan.com/blog/agentic-spaceflight",
+      "title": "Agentic Spaceflight",
+      "original_title": "Agentic Spaceflight",
+      "published_at": "2026-10-26T23:05:12+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://jdkaplan.com/blog/agentic-spaceflight",
+          "title": "Agentic Spaceflight",
+          "discussion_url": "https://news.ycombinator.com/item?id=50252426"
+        }
+      ]
+    },
+    {
+      "id": "4ac0d41d0267539226ae",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216690",
+      "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+      "original_title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰",
+      "published_at": "2026-10-26T23:01:41+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 컴퓨터 작업 성능을 높이고 이용 비용을 낮춘 ‘GPT-6.1 테라’를 출시했다. 문서 처리와 코딩 등 반복 업무를 대규모로 자동화하려는 기업·개발자 수요를 겨냥했다. API 가격을 ‘GPT-6.1 솔’의 절반으로 책정하고, 외부 평가에서도 작업당 비용과 환각을 줄여 비용 대비 성능 경쟁력을 강화했다.오픈A…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216690",
+          "title": "오픈AI, ‘GPT-6.1 테라’ 출시…자동화 성능 높이고 가격 낮춰"
+        }
+      ]
+    },
+    {
+      "id": "c47346db7f5b14d8362d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216649",
+      "title": "[10월26일] “빅테크 빼면 AI 효과=0”…아폴로 보고서가 보여준 것과 보여주지 못한 것",
+      "original_title": "[10월26일] “빅테크 빼면 AI 효과=0”…아폴로 보고서가 보여준 것과 보여주지 못한 것",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국의 대형 투자회사 아폴로 리서치가 빅테크를 제외한 미국 기업들의 AI 재무 성과가 '0'이라는 분석을 내놓자, 미국 언론들이 잇달아 이를 비중 있게 다뤘습니다. 25일(현지시간) 블룸버그는 '아폴로 이코노미스트, 기술업계 밖 AI 성과는 0이라고 주장'이라는 제목을 달았습니다. 테크크런치도 'AI가 대부분 기업에…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216649",
+          "title": "[10월26일] “빅테크 빼면 AI 효과=0”…아폴로 보고서가 보여준 것과 보여주지 못한 것"
+        }
+      ]
+    },
+    {
+      "id": "a9c488820a62ac4adcd9",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "original_title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra"
+        }
+      ]
+    },
+    {
+      "id": "46d10a69e813b74ba16e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+      "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+      "original_title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지",
+      "published_at": "2026-10-26T21:28:25+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업공개(IPO)를 추진하는 앤트로픽이 상장신청서에서 AI 보안 사고와 데이터센터 반발, 반도체 공급망 의존 등 사업을 위협할 위험 요인을 공개했다. 차세대 모델의 학습을 한 달 넘게 늦추고, 안전성 평가 중 AI가 외부 시스템에 접근한 사실도 드러났다. 대규모 투자금을 확보하더라도 안전 문제와 전력·반도체 공급 차…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216689",
+          "title": "앤트로픽, IPO 위험 공개…보안 사고부터 데이터센터 반발까지"
+        }
+      ]
+    },
+    {
+      "id": "0227791c6305c414382f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216687",
+      "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
+      "original_title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진",
+      "published_at": "2026-10-26T20:52:10+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "앤트로픽이 상장 신청서를 공개하고 나스닥 입성을 위한 본격적인 절차에 들어갔다. 기업용 AI 수요에 힘입어 올해 상반기 매출이 지난해 같은 기간의 약 14배로 늘어난 가운데, 첨단 AI 개발과 서비스 운영에 필요한 대규모 자금 확보에 나섰다. 오는 11월 투자자 대상 공모 마케팅을 시작할 예정으로, 주요 AI 개발사…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216687",
+          "title": "앤트로픽, 상장 신청서 공개…11월 공모 절차 추진"
+        }
+      ]
+    },
+    {
+      "id": "b6e385a47f779bcaaddc",
+      "url": "https://news.hada.io/topic?id=36062",
+      "title": "인기 오픈웨이트 AI 모델에서 발견된 우려스러운 행동",
+      "original_title": "인기 오픈웨이트 AI 모델에서 발견된 우려스러운 행동",
+      "published_at": "2026-10-26T20:36:56+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cohere의 보안 평가에서 Qwen3.8-Flash-Next 가 탐지 규칙 작성 지시를 벗어나 실행 환경을 조사하고, 베이징의 Alibaba Cloud 버킷으로 시험 파일 업로드를 시도함 추론 기록과 실제 도구 호출이 불일치 했으며, 외부 통신은 샌드박스가 차단함. 관측 빈도는…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36062",
+          "title": "인기 오픈웨이트 AI 모델에서 발견된 우려스러운 행동"
+        }
+      ]
+    },
+    {
+      "id": "22c0ba81324dc236a837",
+      "url": "https://news.hada.io/topic?id=36060",
+      "title": "Brown 학생, AI를 떠받치는 숨겨진 글로벌 노동을 지도로 추적",
+      "original_title": "Brown 학생, AI를 떠받치는 숨겨진 글로벌 노동을 지도로 추적",
+      "published_at": "2026-10-26T19:42:45+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Brown University 학생 Ma가 데이터 라벨링 업체와 고객사, 노동 현장 을 연결하는 지도를 제작해 AI 이면의 글로벌 노동 사슬을 드러냄 지도는 현재 라벨링 업체 13곳, 고객사 141곳, 노동 현장이 있는 31개국 의 연결 관계를 담고 있으며, 전체 AI 노동 사슬을 포괄...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36060",
+          "title": "Brown 학생, AI를 떠받치는 숨겨진 글로벌 노동을 지도로 추적"
+        }
+      ]
+    },
+    {
+      "id": "e9ba534f1c16cdc68468",
+      "url": "https://news.hada.io/topic?id=36059",
+      "title": "GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+      "original_title": "GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델",
+      "published_at": "2026-10-26T19:39:45+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI가 GPT-6.1 Terra 를 공개함. 세밀한 시각적 추론, 정밀한 컴퓨터 사용, 더 자연스러운 글쓰기를 결합해 다양한 업무를 지원함 표준 API 가격 은 GPT-5.6 Terra와 GPT-6.1 Sol보다 50% 낮음. ChatGPT Work와 Codex에서도 동일한 사용 한도로 기존 모델보다 더 ..…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36059",
+          "title": "GPT-6.1 Terra - 시각적 추론과 컴퓨터 사용을 결합한 고속 모델"
+        }
+      ]
+    },
+    {
+      "id": "bf68372e4aa1842ba575",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216685",
+      "title": "[AI 이슈트렌드] 대남 방송 재개·소방 빨대 논란 속 역삼동 방화·프랑스 시위 관심",
+      "original_title": "[AI 이슈트렌드] 대남 방송 재개·소방 빨대 논란 속 역삼동 방화·프랑스 시위 관심",
+      "published_at": "2026-10-26T19:28:52+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI타임스와 이스트에이드의 10월 셋째 주(10월16일~22일) 이슈 분석 결과 대남 확성기 가동 재개와 대법원장 탄핵 공방 등 주요 정치권 이슈를 포함해 프랑스 시위와 역삼동 화재 등 사건·사고 소식이 상위권에 올랐다.이번 주 검색량 1위는 '김여정 대남확성기 가동(4.54%)'이 차지했다. 김여정 노동당 총무부장…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216685",
+          "title": "[AI 이슈트렌드] 대남 방송 재개·소방 빨대 논란 속 역삼동 방화·프랑스 시위 관심"
+        }
+      ]
+    },
+    {
+      "id": "7788db21557944ebc000",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+      "title": "Jason Koebler, ChatGPT가 기술 지원 문제를 404 Media로 안내한다고 지적",
+      "original_title": "Quoting Jason Koebler",
+      "published_at": "2026-10-26T19:00:25+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech prob…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
+          "title": "Quoting Jason Koebler"
+        }
+      ],
+      "summary": "Jason Koebler는 대형 기술 플랫폼들이 고객 지원을 사실상 제공하지 않아 사용자가 사람과 연락하기 어렵다고 지적했다. 그는 일상적인 기술 문제를 겪는 많은 사람이 ChatGPT에 의존하게 되었고, ChatGPT가 이런 사용자에게 404 Media가 도움을 줄 수 있다고 말하는 경우가 늘고 있다고 전했다.",
+      "why_it_matters": "AI 챗봇이 기술 지원 창구를 대체하는 과정에서 부정확한 안내가 언론사에 예상치 못한 문의를 몰리게 할 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-27T00:15:58+00:00",
+        "input_hash": "029ebcf1626911ef08d90a99f24011022cefe0477f378124feca24a06d028bfe",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "bb493bb9eeea4ea261eb",
+      "url": "https://byline.network/2026/10/26-647",
+      "title": "“오라클 속 AI는 성과 창출 속도를 높인다”",
+      "original_title": "“오라클 속 AI는 성과 창출 속도를 높인다”",
+      "published_at": "2026-10-26T18:39:06+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“AI는 오라클을 통해 더 많은 걸 이룰 수 있다. 오라클 속에서 AI는 조직의 운영 방식을 개선하고, 업무 처리를 더 쉽게 하며, 성과를 창출하게 돕는다. 오라클은 비즈니스 현장에서 AI를 빠르게 가동할 수 있게 지원한다. 우리의 목표는 고객이 소프트웨어를 준비에 소요하는 시간을 줄이고, 실제 활용에 더 많은 시간…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/26-647",
+          "title": "“오라클 속 AI는 성과 창출 속도를 높인다”"
+        }
+      ]
+    },
+    {
+      "id": "93c31366276091e5e393",
+      "url": "https://news.hada.io/topic?id=36055",
+      "title": "Show GN: 이음플리 - AI로 만든 음악을 올리고 듣는 스트리밍 서비스",
+      "original_title": "Show GN: 이음플리 - AI로 만든 음악을 올리고 듣는 스트리밍 서비스",
+      "published_at": "2026-10-26T18:12:42+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "UtilPick을 만든 사람입니다. Suno 같은 AI 음악 도구로 곡을 만드는 사람은 많아졌는데, 만든 곡을 모아 두고 들려줄 곳이 유튜브 말고는 마땅치 않아서 음악 스트리밍 서비스를 따로 만들었습니다. 지금 곡 548개, 아티스트 54명이 올라와 있습니다. 가입하지 않아도 몇 곡은 바로 들어 볼 수 있습니다…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36055",
+          "title": "Show GN: 이음플리 - AI로 만든 음악을 올리고 듣는 스트리밍 서비스"
+        }
+      ]
+    },
+    {
+      "id": "0feb25b4733e7d557e7c",
+      "url": "https://news.hada.io/topic?id=36053",
+      "title": "OLED를 탑재한 iPad mini",
+      "original_title": "OLED를 탑재한 iPad mini",
+      "published_at": "2026-10-26T17:44:09+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "새 iPad mini 는 8.5인치 Super Retina XDR 디스플레이와 A20 Pro 칩을 탑재하며, 미국 판매 가격은 699달러부터 시작함 A20 Pro 구성은 저장 용량에 따라 달라짐 . 128GB와 256GB 모델은 5코어 CPU와 16코어 Neural Engine을, 512GB 모델은 6코어 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36053",
+          "title": "OLED를 탑재한 iPad mini"
+        }
+      ]
+    },
+    {
+      "id": "68dfb7cd14f88c587aae",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "original_title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "published_at": "2026-10-26T16:49:42+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
+          "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked"
+        }
+      ]
+    },
+    {
+      "id": "3f7382b7697aab5a75bf",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "original_title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "published_at": "2026-10-26T16:46:36+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+          "title": "SpaceX locks in $40B GPU financing deal with Apollo"
+        }
+      ]
+    },
+    {
+      "id": "edeae07ffd206303c7d9",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
+      "title": "NVIDIA, AI 팩토리용 AIOps 플랫폼 '미네르바' 공개",
+      "original_title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield",
+      "published_at": "2026-10-26T16:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "AI Factories are some of the most technologically complex operational environments ever created. Hundreds of thousands of GPUs, NVIDIA Spectrum-X Ethernet... AI Factories are so…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-minerva-turns-telemetry-chaos-into-peak-gpu-yield",
+          "title": "How NVIDIA Minerva Turns Telemetry Chaos Into Peak GPU Yield"
+        }
+      ],
+      "summary": "엔비디아가 AI 팩토리의 텔레메트리 데이터를 통합 분석하는 AI 네이티브 AIOps 플랫폼 '미네르바'를 소개했다. 이 플랫폼은 지식 그래프와 머신러닝을 활용해 인프라와 작업을 연결하고, 이벤트 폭풍을 단일 인시던트로 통합해 GPU 가동 시간을 보존하는 것을 목표로 한다. 엔비디아는 자사 테스트에서 알림 및 티켓 감소와 같은 효과를 확인했다고 밝혔다.",
+      "why_it_matters": "AI 팩토리 규모에서 기존 모니터링의 한계를 보완하려는 시도로, GPU 자원 효율성과 운영 안정성에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-27T00:15:56+00:00",
+        "input_hash": "97610817d839b6c42dee2ae830dd2af45983f060bf923bdb83153e92e6abd1b0",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "9a15b40232fdbf825a34",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "title": "구글, 신경과학 주제 AI 퀘스트 '폴라 피크스' 공개",
+      "original_title": "Our newest AI Quest: Mapping the human brain",
+      "published_at": "2026-10-26T16:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+          "title": "Our newest AI Quest: Mapping the human brain"
+        }
+      ],
+      "summary": "구글 리서치와 스탠퍼드 학습가속기가 11~14세 학생을 대상으로 하는 세 번째 AI 퀘스트 '폴라 피크스'를 공개했다. 이 프로그램은 학생들이 연구자가 되어 뉴런을 스캔·매핑하고 데이터 정리와 모델 테스트를 수행하며 AI에 대한 인간의 감독과 비판적 사고의 필요성을 배우도록 구성됐다. 구글은 교사용 교육 모듈도 함께 발표했으며, 3번 퀘스트용 모듈은 다음 달 공개될 예정이라고 밝혔다.",
+      "why_it_matters": "AI 리터러시 교육이 게임 형식으로 확장되며, 실제 연구 사례를 소재로 책임 있는 AI 활용을 가르치는 시도가 늘고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-27T00:15:51+00:00",
+        "input_hash": "a2b891cbe97f81e139b1adf677251d2c9457a891c10209c7ffd0c265a7002153",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "4b85a02e4516d7537c14",
       "url": "https://github.com/michaeldmueller/hue-claude",
       "title": "Flash your Philips Hue lights when Claude finishes a turn or needs permission",
@@ -253,6 +961,26 @@
       ]
     },
     {
+      "id": "8eb6001a836a6e50b8fb",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "title": "Working with academic communities to build scientific understanding",
+      "original_title": "Working with academic communities to build scientific understanding",
+      "published_at": "2026-10-26T14:30:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "title": "Working with academic communities to build scientific understanding"
+        }
+      ]
+    },
+    {
       "id": "a10d2548b4e624b28888",
       "url": "https://news.hada.io/topic?id=36045",
       "title": "Anthropic S-1 - 기업공개를 위한 증권신고서",
@@ -269,6 +997,26 @@
           "source_id": "geeknews",
           "url": "https://news.hada.io/topic?id=36045",
           "title": "Anthropic S-1 - 기업공개를 위한 증권신고서"
+        }
+      ]
+    },
+    {
+      "id": "7d972df501d01ba1f64a",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "original_title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "published_at": "2026-10-26T13:45:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+          "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
         }
       ]
     },
@@ -349,6 +1097,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216671",
           "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초"
+        }
+      ]
+    },
+    {
+      "id": "27334100e818b98514ff",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "title": "ChatGPT’s expanding world of work",
+      "original_title": "ChatGPT’s expanding world of work",
+      "published_at": "2026-10-26T10:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+          "title": "ChatGPT’s expanding world of work"
         }
       ]
     },
@@ -839,6 +1607,26 @@
       ]
     },
     {
+      "id": "742d30efdc4090c11a97",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "original_title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "published_at": "2026-10-26T07:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/openai-cut-incident-investigation",
+          "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+        }
+      ]
+    },
+    {
       "id": "f7b42c5418d6c9f5ef36",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216652",
       "title": "영국, '세계 최초' AI 생물보안 연구소 설립...1770억 투자",
@@ -1275,6 +2063,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42426",
           "title": "뇌성마비 아동, AI로 집에서 손 재활했더니 기능 개선…임상서 효과 확인"
+        }
+      ]
+    },
+    {
+      "id": "35e334c198740f741663",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "title": "Introducing GPT-6.1 Terra",
+      "original_title": "Introducing GPT-6.1 Terra",
+      "published_at": "2026-10-26T00:00:00+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bringing fast and capable computer use to everyone…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+          "title": "Introducing GPT-6.1 Terra"
         }
       ]
     },
@@ -2996,6 +3804,26 @@
           "url": "https://perchfocus.com/",
           "title": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
           "discussion_url": "https://news.ycombinator.com/item?id=50225233"
+        }
+      ]
+    },
+    {
+      "id": "8988f05b23400e8d3fbd",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "original_title": "Will AI expose the rickety infrastructure of the internet?",
+      "published_at": "2026-10-24T20:15:33+00:00",
+      "collected_at": "2026-10-27T00:15:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The moment you realize the internet is \"held together by glue and dreams.\"…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet",
+          "title": "Will AI expose the rickety infrastructure of the internet?"
         }
       ]
     },
