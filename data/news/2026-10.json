@@ -3,6 +3,880 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "c76090debb52239e687c",
+      "url": "https://news.hada.io/topic?id=36135",
+      "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
+      "original_title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
+      "published_at": "2026-10-28T00:13:02+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "2018년 글 「 백엔드 개발자를 꿈꾸는 학생개발자에게 」의 후속편으로, 학생들의 AI 시대 개발과 취업, 학습에 관한 질문에 답하는 글 AI 시대에 개발자의 역할은 어떻게 달라졌을까? 개발자는 AI에게 방향을 지시하고 결과를 책임지...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36135",
+          "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게"
+        }
+      ]
+    },
+    {
+      "id": "d643a28bb58ecb42f7c4",
+      "url": "https://news.hada.io/topic?id=36132",
+      "title": "LFM3 소개: 특화 지능을 위한 모든 모달리티",
+      "original_title": "LFM3 소개: 특화 지능을 위한 모든 모달리티",
+      "published_at": "2026-10-28T00:03:11+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Liquid AI가 LFM3 를 공개함. 하나의 공통 백본에서 텍스트, 비전, 오디오, 옴니, 의사결정 모델을 파생한 약 2B 파라미터급 모델군으로, 용도에 맞는 모델을 선택해 로컬에서 미세조정하고 실행할 수 있음 세 종류의 연산을 결합한 하이브리드 아키텍처 와 22T 토큰...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36132",
+          "title": "LFM3 소개: 특화 지능을 위한 모든 모달리티"
+        }
+      ]
+    },
+    {
+      "id": "6cfd38c6582c8ed2e869",
+      "url": "https://news.hada.io/topic?id=36130",
+      "title": "Survival LLM - 인터넷 없이 작동하는 AI 도우미와 비상 대응 자료실",
+      "original_title": "Survival LLM - 인터넷 없이 작동하는 AI 도우미와 비상 대응 자료실",
+      "published_at": "2026-10-27T23:49:14+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Survival LLM 은 비상 대응 자료실과 AI 모델을 컴퓨터에 저장해, 초기 다운로드를 마치면 인터넷 없이 질문하고 자료를 검색 할 수 있는 무료 오픈소스 앱 정전 시 식품 보관, 물 정화, 응급처치 등의 질문에 자료실을 검색해 답하며, 참고 문서를 열면 근거...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36130",
+          "title": "Survival LLM - 인터넷 없이 작동하는 AI 도우미와 비상 대응 자료실"
+        }
+      ]
+    },
+    {
+      "id": "11e112de01681fc6cb8e",
+      "url": "https://twitter.com/starmexxx/status/2114841068839526865",
+      "title": "Claude finds TikTok, Instagram bypassing microphone permissions to listen to you",
+      "original_title": "Claude finds TikTok, Instagram bypassing microphone permissions to listen to you",
+      "published_at": "2026-10-27T23:44:32+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/starmexxx/status/2114841068839526865",
+          "title": "Claude finds TikTok, Instagram bypassing microphone permissions to listen to you",
+          "discussion_url": "https://news.ycombinator.com/item?id=50267483"
+        }
+      ]
+    },
+    {
+      "id": "3c72a4d09228d9b7a214",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42456",
+      "title": "삼성전자, AI로 수면 중 호흡 장애 3단계 분석…갤럭시 워치·링 식약처 허가 획득",
+      "original_title": "삼성전자, AI로 수면 중 호흡 장애 3단계 분석…갤럭시 워치·링 식약처 허가 획득",
+      "published_at": "2026-10-27T23:43:55+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성전자가 인공지능(AI)을 활용해 수면 중 호흡 장애의 빈도와 수준을 분석하는 기능을 국내에 도입한다. 기존 갤럭시 워치의 수면 무호흡 징후 감지 기능을 한 단계 발전시켜, 사용자가 수면 중 호흡 상태를 세 가지 수준으로 확인할 수 있도록 한 것이 핵심이다.삼성전자는 AI 기반으로 고도화한 갤럭시 웨어러블의 수면 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42456",
+          "title": "삼성전자, AI로 수면 중 호흡 장애 3단계 분석…갤럭시 워치·링 식약처 허가 획득"
+        }
+      ]
+    },
+    {
+      "id": "db05b50ceb26005ac81d",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "original_title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+      "published_at": "2026-10-27T23:34:27+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+          "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication"
+        }
+      ]
+    },
+    {
+      "id": "fb6af7ea3061668e6125",
+      "url": "https://news.hada.io/topic?id=36127",
+      "title": "Amazon, 거듭된 실패 끝에 AI 부문 대폭 축소",
+      "original_title": "Amazon, 거듭된 실패 끝에 AI 부문 대폭 축소",
+      "published_at": "2026-10-27T23:33:57+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amazon이 자체 AI 모델 Nova 대부분의 개발 목표를 축소 하고, 최우선 과제에 집중하도록 AI 개발 조직을 재편하고 있음 내부 관계자들에 따르면 텍스트와 이미지/영상 생성 모델은 지원을 중단하지는 않지만, 운영에 필요한 최소한의 자원만 투입하는 상태 로 전환됨...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36127",
+          "title": "Amazon, 거듭된 실패 끝에 AI 부문 대폭 축소"
+        }
+      ]
+    },
+    {
+      "id": "b4e76737a504ba278f58",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42455",
+      "title": "델, AI 시스템부터 계정 탈취·양자 해킹까지 방어…사이버 복원력 전면 강화",
+      "original_title": "델, AI 시스템부터 계정 탈취·양자 해킹까지 방어…사이버 복원력 전면 강화",
+      "published_at": "2026-10-27T23:31:58+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 인공지능(AI) 인프라와 사용자 계정, 핵심 데이터가 사이버 공격의 주요 표적으로 떠오르면서 보안 전략도 침입 차단을 넘어 공격 이후 업무를 얼마나 신속하게 복구할 수 있는지에 초점을 맞추고 있다.특히 AI 시스템에 대한 공격과 관리자 계정 탈취, 미래 양자컴퓨팅 기술을 이용한 암호 해독 위협까지 대응해야 하…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42455",
+          "title": "델, AI 시스템부터 계정 탈취·양자 해킹까지 방어…사이버 복원력 전면 강화"
+        }
+      ]
+    },
+    {
+      "id": "8b0cf4216f80798ba4f1",
+      "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
+      "title": "AI giants are [...] They could learn a lot from the nuclear industry",
+      "original_title": "AI giants are [...] They could learn a lot from the nuclear industry",
+      "published_at": "2026-10-27T23:25:55+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
+          "title": "AI giants are [...] They could learn a lot from the nuclear industry",
+          "discussion_url": "https://news.ycombinator.com/item?id=50267321"
+        }
+      ]
+    },
+    {
+      "id": "3daf271a331bd0f5ef07",
+      "url": "https://www.youtube.com/watch?v=g9koXZ5JhDU",
+      "title": "A case against AI – Chet Faliszek [video]",
+      "original_title": "A case against AI – Chet Faliszek [video]",
+      "published_at": "2026-10-27T23:15:21+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=g9koXZ5JhDU",
+          "title": "A case against AI – Chet Faliszek [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50267228"
+        }
+      ]
+    },
+    {
+      "id": "fd17410c1241aaabf6af",
+      "url": "https://huggingface.co/Erog0291/stewmind-1.7b",
+      "title": "StewMind 1.7B – An open-source 1.7B agentic model",
+      "original_title": "StewMind 1.7B – An open-source 1.7B agentic model",
+      "published_at": "2026-10-27T23:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://huggingface.co/Erog0291/stewmind-1.7b",
+          "title": "StewMind 1.7B – An open-source 1.7B agentic model",
+          "discussion_url": "https://news.ycombinator.com/item?id=50267077"
+        }
+      ]
+    },
+    {
+      "id": "4d923468cdd4b61f1575",
+      "url": "https://github.com/pgquiles/opencode-muse",
+      "title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+      "original_title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+      "published_at": "2026-10-27T22:56:05+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/pgquiles/opencode-muse",
+          "title": "OpenCode-Muse: Use Meta AI's Muse Code Subscription in OpenCode",
+          "discussion_url": "https://news.ycombinator.com/item?id=50267038"
+        }
+      ]
+    },
+    {
+      "id": "a660049bd369894dbfc9",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+      "title": "The data center boom has an upside: innovation for the US grid",
+      "original_title": "The data center boom has an upside: innovation for the US grid",
+      "published_at": "2026-10-27T22:55:41+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+          "title": "The data center boom has an upside: innovation for the US grid"
+        }
+      ]
+    },
+    {
+      "id": "e734c0e90ec1424e9cd6",
+      "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
+      "title": "Delaware plan would let AI agents run businesses",
+      "original_title": "Delaware plan would let AI agents run businesses",
+      "published_at": "2026-10-27T22:49:27+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses",
+          "title": "Delaware plan would let AI agents run businesses",
+          "discussion_url": "https://news.ycombinator.com/item?id=50266977"
+        }
+      ]
+    },
+    {
+      "id": "050f681bcf7a801f5b48",
+      "url": "https://www.youtube.com/watch?v=v5d8nwgiSYI",
+      "title": "Patent Strategy in the Age of AI – Dan Gelbart [video]",
+      "original_title": "Patent Strategy in the Age of AI – Dan Gelbart [video]",
+      "published_at": "2026-10-27T22:48:59+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=v5d8nwgiSYI",
+          "title": "Patent Strategy in the Age of AI – Dan Gelbart [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50266974"
+        }
+      ]
+    },
+    {
+      "id": "12937e4aee8e19540e7a",
+      "url": "https://byline.network/2026/10/26-649",
+      "title": "미래의 AI 에이전트 플랫폼은 어디로 흘러갈까",
+      "original_title": "미래의 AI 에이전트 플랫폼은 어디로 흘러갈까",
+      "published_at": "2026-10-27T22:45:09+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기업의 AI 에이전트 도입은 짧다면 짧고, 길다면 긴 여정이다. 그리고 완주하기 힘든 여정이기도 하다. 출발선을 긋는 것부터 힘들고, 목표 지점을 잡는 것도 힘들다. AI 에이전트 여정에 존재하는 어려움은 무엇이고, 어떻게 여정을 계획해야 하며, 또 어떻게 여정을 진행할 것인가. 많은 질문이 시중을 뒤엎고 있다. 현…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/26-649",
+          "title": "미래의 AI 에이전트 플랫폼은 어디로 흘러갈까"
+        }
+      ]
+    },
+    {
+      "id": "71e2d0087741ad7dee69",
+      "url": "https://qwen-neurons-site.vercel.app/",
+      "title": "Qwen has alter egos triggered by flipping a single neuron",
+      "original_title": "Qwen has alter egos triggered by flipping a single neuron",
+      "published_at": "2026-10-27T22:42:51+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://qwen-neurons-site.vercel.app/",
+          "title": "Qwen has alter egos triggered by flipping a single neuron",
+          "discussion_url": "https://news.ycombinator.com/item?id=50266910"
+        }
+      ]
+    },
+    {
+      "id": "2334d7d7bdf0f64be13c",
+      "url": "https://asawicki.info/news_1805_6_reasons_why_programming_is_especially_exposed_to_ai_automation",
+      "title": "Why Programming Is Especially Exposed to AI Automation",
+      "original_title": "Why Programming Is Especially Exposed to AI Automation",
+      "published_at": "2026-10-27T22:38:06+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://asawicki.info/news_1805_6_reasons_why_programming_is_especially_exposed_to_ai_automation",
+          "title": "Why Programming Is Especially Exposed to AI Automation",
+          "discussion_url": "https://news.ycombinator.com/item?id=50266858"
+        }
+      ]
+    },
+    {
+      "id": "dcd111c4a04bbfaff769",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+      "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+      "original_title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개",
+      "published_at": "2026-10-27T22:17:10+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 이용자의 명령에 따라 가상 세계를 실시간으로 바꾸고, 등장인물의 움직임과 대화까지 생성하는 차세대 월드 모델 '지니 4(Genie 4)'를 공개했다. 이전 모델보다 물리 현상과 인간 행동을 사실적으로 구현하고, 제미나이의 추론 능력을 결합해 복잡한 사건을 여러 단계에 걸쳐 시뮬레이션할 수 있도록 개선했다. 게…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216731",
+          "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개"
+        }
+      ]
+    },
+    {
+      "id": "bbe836cc5dad7dd6bacc",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216703",
+      "title": "[10월27일] 앤트로픽 IPO에 걸린 건 '거의 모든 것'...AI 붐의 미래 가른다",
+      "original_title": "[10월27일] 앤트로픽 IPO에 걸린 건 '거의 모든 것'...AI 붐의 미래 가른다",
+      "published_at": "2026-10-27T22:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "26일(현지시간) 뉴욕타임스(NYT)는 앤트로픽의 기업공개(IPO)를 앞두고 “거의 모든 것이 걸려 있다(nearly everything is at stake)”고 표현했습니다. 앤트로픽의 상장이 단일 기업의 증시 입성에 그치지 않고, AI 산업 전체의 성장 전망과 투자 열풍을 검증하는 시험대가 됐다는 의미입니다.A…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216703",
+          "title": "[10월27일] 앤트로픽 IPO에 걸린 건 '거의 모든 것'...AI 붐의 미래 가른다"
+        }
+      ]
+    },
+    {
+      "id": "4db018afab4197cdc32c",
+      "url": "https://byline.network/2026/10/27-697",
+      "title": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다",
+      "original_title": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다",
+      "published_at": "2026-10-27T21:55:15+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오라클이 오픈AI와 파트너십을 데이터센터 인프라 제공에서 AI 서비스 협력으로 확대한다. 오라클 클라우드에서 오픈AI GPT-6 모델을 제공할 뿐 아니라, 오라클 애플리케이션에 오픈AI의 모델과 코덱스를 통합하고, 챗GPT에 오라클의 데이터베이스와 애플리케이션 기반의 AI 에이전트를 제공하기로 했다. 오라클은 오픈A…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/27-697",
+          "title": "오라클, 오픈AI와 기업 AI 프로젝트 뛰어든다"
+        }
+      ]
+    },
+    {
+      "id": "9a3764356b202945ed7a",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+      "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "original_title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+      "published_at": "2026-10-27T21:44:34+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant",
+          "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant"
+        }
+      ]
+    },
+    {
+      "id": "f74f3a0c358e9a1dab0e",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+      "title": "Who’s really in charge at Anthropic after the IPO?",
+      "original_title": "Who’s really in charge at Anthropic after the IPO?",
+      "published_at": "2026-10-27T21:38:28+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Here's a clear explanation of Anthropic's incredibly complex governance structure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo",
+          "title": "Who’s really in charge at Anthropic after the IPO?"
+        }
+      ]
+    },
+    {
+      "id": "1b8d93f9f71f4c836fdc",
+      "url": "https://news.hada.io/topic?id=36125",
+      "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
+      "original_title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개",
+      "published_at": "2026-10-27T21:33:09+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Apple이 12코어 CPU와 12코어 GPU 를 탑재한 MacBook Pro 14를 공개함. M5 모델보다 그래픽 성능은 최대 30%, 온디바이스 AI 워크로드 성능은 최대 25% 향상됨 GPU 코어별 Neural Accelerator 와 듀얼 16코어 Neural Engine으로 로컬 LLM, 이미지 생성, AI…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36125",
+          "title": "Apple, M6를 탑재한 신규 MacBook Pro 14 공개"
+        }
+      ]
+    },
+    {
+      "id": "449070727cbfb984c712",
+      "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
+      "title": "NVIDIA, CUDA 13.4와 오픈소스 GPU Fractioning 오퍼레이터로 쿠버네티스 GPU 메모리 분할 지원",
+      "original_title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+      "published_at": "2026-10-27T20:50:39+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Many AI workloads need only a fraction of a GPU. Giving each one an entire device can leave capacity idle; sharing GPUs lets platform teams serve more workloads... Many AI workl…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
+          "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4"
+        }
+      ],
+      "summary": "NVIDIA가 CUDA 13.4에서 애플리케이션에 투명한 메모리 경계를 적용하는 새로운 타임셰어링 모드를 도입했다고 밝혔다. 이와 함께 KAI Scheduler 조직 아래 오픈소스 gpu-fractioning 쿠버네티스 오퍼레이터가 공개되어, 노드에서 MPS를 실행하고 파드 어노테이션에 따라 컨테이너별 메모리 한도와 컴퓨트 모드를 적용한다. KAI Scheduler는 v0.18.0부터 NvFractions 공유 모드로 이 오퍼레이터와 연동된다고 설명했다.",
+      "why_it_matters": "GPU 일부만 필요한 워크로드에 전체 디바이스를 할당하지 않고 메모리 한도를 강제할 수 있게 되면, 기존 인프라로 더 많은 워크로드를 수용할 여지가 생긴다. 다만 성능·격리 효과는 발표 주체의 설명이며 독립 검증된 것은 아니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-28T00:17:41+00:00",
+        "input_hash": "f0b209b88dbf370c8cdd08c425c163ad47ee38bae3db63c8af39b5519f23343d",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "4541f5c834e8474404b9",
+      "url": "https://byline.network/2026/10/27-696",
+      "title": "오라클이 스노우플레이크를 OCI에 들였다",
+      "original_title": "오라클이 스노우플레이크를 OCI에 들였다",
+      "published_at": "2026-10-27T20:08:04+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "스노우플레이크 플랫폼이 오라클 클라우드에 들어갔다. 오라클 엑사데이터와 스노우플레이크가 오라클클라우드인프라스트럭처(OCI)란 하나의 클라우드 인프라 안에 공존하는 상황이 벌어졌다. 오라클은 27일(현지시간) 미국 라스베이거스에서 개최한 ‘오라클 AI 월드 2026’에서 스노우플레이크 플랫폼을 OCI에서 네이티브 서비…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/27-696",
+          "title": "오라클이 스노우플레이크를 OCI에 들였다"
+        }
+      ]
+    },
+    {
+      "id": "f783965972b988fbec9f",
+      "url": "https://news.hada.io/topic?id=36124",
+      "title": "내 데이터가 모델 학습에 사용되나요?",
+      "original_title": "내 데이터가 모델 학습에 사용되나요?",
+      "published_at": "2026-10-27T19:42:48+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic은 Claude for Work, Anthropic API 등 상용 제품 의 입력과 출력을 기본적으로 모델 학습에 사용하지 않음 다만 사용자가 피드백을 제출하거나 버그를 명시적으로 신고 하거나 데이터 사용을 허용하면, 채팅과 코딩 세션을 모델 학습에 사용할 수 있음…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36124",
+          "title": "내 데이터가 모델 학습에 사용되나요?"
+        }
+      ]
+    },
+    {
+      "id": "cb3ac0fe7d509f34fad6",
+      "url": "https://news.hada.io/topic?id=36123",
+      "title": "Anthropic, 불법 입수한 Stanford 교수들의 책으로 Claude 학습",
+      "original_title": "Anthropic, 불법 입수한 Stanford 교수들의 책으로 Claude 학습",
+      "published_at": "2026-10-27T19:39:48+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic이 Stanford 교수 10명 이상 의 저작물을 불법 입수해 Claude 학습에 사용했으며, 연방 판사는 해적판 도서로 영구적인 중앙 라이브러리를 구축하는 행위를 금지함 판결은 불법 복제와 AI 학습의 공정 이용 을 구분함. William Alsup 판사는 합법적으로 취득...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36123",
+          "title": "Anthropic, 불법 입수한 Stanford 교수들의 책으로 Claude 학습"
+        }
+      ]
+    },
+    {
+      "id": "5754fee7d5cb63bb25f0",
+      "url": "https://news.hada.io/topic?id=36122",
+      "title": "경찰, AI로 ‘수상한’ 이동 패턴을 보이는 운전자에게 정차 요구",
+      "original_title": "경찰, AI로 ‘수상한’ 이동 패턴을 보이는 운전자에게 정차 요구",
+      "published_at": "2026-10-27T19:36:48+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 법 집행기관이 자동 번호판 인식기(ALPR) 와 AI 도구로 이동 패턴을 분석해, 특정 범죄 혐의가 없는 운전자에게도 정차를 요구하는 사례가 늘고 있다고 ACLU가 경고함 ALPR은 지나가는 차량의 번호판과 포착 시각 및 위치 를 수집하며, 범죄 수사에 활용하던 데...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36122",
+          "title": "경찰, AI로 ‘수상한’ 이동 패턴을 보이는 운전자에게 정차 요구"
+        }
+      ]
+    },
+    {
+      "id": "68b12007f7f448554e3b",
+      "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+      "title": "GitHub Universe 컨퍼런스 배지에서 게임보이 컬러 에뮬레이터 구동",
+      "original_title": "Game Boy Color on My Conference Badge",
+      "published_at": "2026-10-27T19:34:18+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
+          "title": "Game Boy Color on My Conference Badge"
+        }
+      ],
+      "summary": "사이먼 윌리슨은 GitHub Universe 컨퍼런스 배지가 지난해처럼 컬러 화면 컴퓨터라고 전했다. 그는 스티브 프란시아가 Gemini의 도움으로 NES 에뮬레이터를 만들고 게임보이와 게임보이 컬러 에뮬레이터까지 배포했다고 밝혔다. ROM을 구하면 배지에서 젤다의 전설: 꿈꾸는 섬을 실행할 수 있다고 한다.",
+      "why_it_matters": "컨퍼런스 배지가 단순한 행사 용품을 넘어 해킹 가능한 소형 컴퓨터 플랫폼으로 자리 잡고 있으며, 생성형 AI가 에뮬레이터 개발 같은 취미 프로젝트를 돕는 사례로 볼 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-28T00:17:38+00:00",
+        "input_hash": "4bfe917aebd95a1357a1f710b9f6a4039608de029f7f8b8f43f9e5a1830f9de0",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "ff390db43c3b5faf08c1",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "original_title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "published_at": "2026-10-27T18:55:35+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+          "title": "Disruptive raises $10B fund to make big bets on at least 10 companies"
+        }
+      ]
+    },
+    {
+      "id": "5e6dd33a7280d464dffd",
+      "url": "https://news.hada.io/topic?id=36120",
+      "title": "Apple, M6 탑재 신규 iMac 공개",
+      "original_title": "Apple, M6 탑재 신규 iMac 공개",
+      "published_at": "2026-10-27T18:38:07+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "애플이 최대 12코어 CPU와 12코어 GPU, 듀얼 16코어 Neural Engine 을 탑재한 새 iMac을 공개함. GPU 각 코어에 Neural Accelerator를 추가해 창작 작업과 온디바이스 AI 성능을 강화 LM Studio 프롬프트 처리 성능 은 M1 iMac 대비 최대 12배, M4 대비 최대 5…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36120",
+          "title": "Apple, M6 탑재 신규 iMac 공개"
+        }
+      ]
+    },
+    {
+      "id": "1c5b51464767c2ad2949",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "title": "Liquid AI, 2B 파라미터급 멀티모달 모델 패밀리 LFM3 공개",
+      "original_title": "Build specialized multimodal models with LFM3",
+      "published_at": "2026-10-27T17:16:52+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "title": "Build specialized multimodal models with LFM3"
+        }
+      ],
+      "summary": "Liquid AI가 텍스트·비전·오디오·옴니·의사결정 등 6개 모델을 하나의 백본에서 파생한 LFM3 패밀리를 발표했다. 회사에 따르면 LFM3-1.7B는 35% 적은 파라미터로 이전 LFM2.5-2.6B를 능가하며, 모든 모델이 단일 GPU에서 파인튜닝 가능하고 엣지 디바이스 실행을 목표로 한다. 비전·오디오 인코더와 오디오 코덱도 자체 개발해 공개했다.",
+      "why_it_matters": "소형 모델을 모달리티별로 특화해 온디바이스에서 실행하려는 흐름이 구체적인 제품군으로 나타났다. 다만 성능 수치는 회사 발표 기준이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-28T00:17:31+00:00",
+        "input_hash": "153a52381a4d50f5e377683226af17aa19f95e5683e7f0d149070877f85aa466",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "64295c3ae779f4acba31",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "original_title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "published_at": "2026-10-27T17:08:08+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean",
+          "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?"
+        }
+      ]
+    },
+    {
+      "id": "a9a41b70941237e40882",
+      "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games",
+      "title": "NVIDIA, RTX Spark 플랫폼과 게임 개발자용 신경 렌더링·AI 캐릭터 기술 발표",
+      "original_title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+      "published_at": "2026-10-27T17:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "NVIDIA RTX Spark is a new Windows PC platform for AI development, creation, and gaming in slim laptops and compact desktops. Powered by an NVIDIA Blackwell RTX... NVIDIA RTX Spa…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games",
+          "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games"
+        }
+      ],
+      "summary": "NVIDIA가 슬림 노트북과 소형 데스크톱을 위한 새 Windows PC 플랫폼 'RTX Spark'를 공개했다. 이 플랫폼은 Blackwell RTX GPU와 Grace CPU, 최대 128GB 통합 메모리, CUDA 스택 및 레이 트레이싱·DLSS 5를 결합한다. 게임 개발자용으로 DLSS 5의 3D-Guided Neural Rendering, 온디바이스 AI 캐릭터를 위한 NVIDIA ACE 업데이트, RTX Kit SDK, Nsight 도구, Unreal Engine 5.8용 RTX 브랜치, MotionBricks 업데이트 등이 제공된다.",
+      "why_it_matters": "NVIDIA가 자사 플랫폼에서 신경 렌더링과 온디바이스 AI 캐릭터 기술을 게임 개발 워크플로에 통합하려는 움직임으로, 향후 게임 그래픽과 NPC 상호작용 방식에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-28T00:17:26+00:00",
+        "input_hash": "67b1adfb4dd88bed8126ce75f9405d01b5f2e98f0920412494ee70ac8a0336de",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "133651b428e97fdac262",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "original_title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "published_at": "2026-10-27T16:30:57+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering",
+          "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering"
+        }
+      ]
+    },
+    {
+      "id": "bbfc1c72bfd754d8aa83",
+      "url": "https://byline.network/2026/10/27-694",
+      "title": "오라클 OCI, 구글 TPU 서비스 제공한다",
+      "original_title": "오라클 OCI, 구글 TPU 서비스 제공한다",
+      "published_at": "2026-10-27T16:25:02+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오라클이 클라우드 경쟁사 구글의 AI 칩을 자사 클라우드 인프라에서 서비스한다. 구글 TPU를 제3의 하이퍼스케일러가 서비스하는 첫 사례다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/27-694",
+          "title": "오라클 OCI, 구글 TPU 서비스 제공한다"
+        }
+      ]
+    },
+    {
+      "id": "1d6c5c59e46e52b936cb",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "original_title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "published_at": "2026-10-27T16:12:42+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
+          "title": "Can we trust LLMs to judge whether a research idea is novel?"
+        }
+      ]
+    },
+    {
+      "id": "e960e8891f7d7ad86d1b",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+      "title": "Genie 4: A new generation of world simulation",
+      "original_title": "Genie 4: A new generation of world simulation",
+      "published_at": "2026-10-27T16:01:38+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation",
+          "title": "Genie 4: A new generation of world simulation"
+        }
+      ]
+    },
+    {
+      "id": "5ed14fffd1748be81239",
+      "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
+      "title": "NVIDIA, 지역 규칙 반영한 Nemotron 페르소나 데이터셋과 파인튜닝 워크플로 공개",
+      "original_title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
+      "published_at": "2026-10-27T16:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "As AI adoption expands globally, people across languages and cultures are using it in more aspects of their daily lives. General-purpose language models serve... As AI adoption …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
+          "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages"
+        }
+      ],
+      "summary": "NVIDIA가 프랑스 AI 스타트업 Pleias, 벨기에 KU Leuven과 함께 Nemotron-Personas-France와 Nemotron-Personas-Belgium 데이터셋을 공개했다. 이는 12개국 지역 기반 페르소나 데이터 프로그램의 일부로, Nemotron 오픈 모델을 지역 언어·문화에 맞게 후속 학습하는 방법을 블로그에서 설명한다. 프랑스 공공서비스 지원 에이전트 예시를 통해 페르소나 기반 합성 대화 생성, 파인튜닝, 평가 워크플로를 제시한다.",
+      "why_it_matters": "범용 모델이 특정 국가의 행정 절차나 문화적 맥락을 반영하지 못하는 문제를 데이터와 후속 학습으로 보완하려는 시도다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-28T00:17:16+00:00",
+        "input_hash": "b1c90b1dfed34f7dbd22d4da4b0f601b231b454831c79d2c114899cac9a1df79",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "4908922ac6a06db438c2",
+      "url": "https://news.hada.io/topic?id=36115",
+      "title": "Wikipedia의 AI 생성 콘텐츠 정리 작업",
+      "original_title": "Wikipedia의 AI 생성 콘텐츠 정리 작업",
+      "published_at": "2026-10-27T15:46:29+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "WikiProject AI Cleanup 은 Wikipedia 지침을 위반하는 AI 생성 콘텐츠를 찾아 제거하는 자원봉사 프로젝트로, 노골적인 상투어 탐지에서 더 미묘한 문장 구조와 편집 행동 분석으로 대응 범위를 넓히고 있음 인용의 신뢰성 이 주요 문제로, 검색 증강 생성으로 출처...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36115",
+          "title": "Wikipedia의 AI 생성 콘텐츠 정리 작업"
+        }
+      ]
+    },
+    {
       "id": "88db9cb7f97986f01fcf",
       "url": "https://leesintheblindmonk1999.github.io/sas-landing",
       "title": "K_D = 0.56–Deterministic AI architecture and full algorithmic suppression",
@@ -93,6 +967,26 @@
         "input_hash": "33231337decf84c29a0982073381314c2771be68d8bac1076249e43c98648764",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "1e3ebf94e41ebe19793b",
+      "url": "https://openai.com/index/retell-ai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "original_title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "published_at": "2026-10-27T15:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/retell-ai",
+          "title": "Retell uses OpenAI models to help power 100M monthly calls"
+        }
+      ]
     },
     {
       "id": "dc291fa0a78ddf3b2364",
@@ -1133,6 +2027,26 @@
       ]
     },
     {
+      "id": "c417f8e3d39d0b893c07",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "original_title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "published_at": "2026-10-27T07:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+          "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT"
+        }
+      ]
+    },
+    {
       "id": "1c840d7b34ea0827306f",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216710",
       "title": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배”",
@@ -1651,6 +2565,26 @@
           "url": "https://equibles.com/research/ai-talk-has-nearly-doubled-outside-tech-proof-of-payoff-is-still-rare",
           "title": "AI talk has nearly doubled outside tech. Proof of payoff is still rare",
           "discussion_url": "https://news.ycombinator.com/item?id=50252932"
+        }
+      ]
+    },
+    {
+      "id": "c44dc9ed271ff418b14a",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "original_title": "How Check Point accelerates vulnerability research with Daybreak",
+      "published_at": "2026-10-27T00:00:00+00:00",
+      "collected_at": "2026-10-28T00:16:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/check-point-daybreak",
+          "title": "How Check Point accelerates vulnerability research with Daybreak"
         }
       ]
     },
