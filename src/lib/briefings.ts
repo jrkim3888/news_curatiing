@@ -102,7 +102,7 @@ const editionSchema = z
     if (!e.issues.length || e.issues.length > 5 || !e.overview.length || e.overview.length > 5)
       fail('Incomplete edition');
     if (
-      ['daily-brief-v3', 'daily-brief-v4', 'daily-brief-v5', 'daily-brief-v6', 'daily-brief-v7', 'daily-brief-v8', 'daily-brief-v9', 'daily-brief-v10'].includes(e.prompt_version) &&
+      ['daily-brief-v3', 'daily-brief-v4', 'daily-brief-v5', 'daily-brief-v6', 'daily-brief-v7', 'daily-brief-v8', 'daily-brief-v9', 'daily-brief-v10', 'daily-brief-v11'].includes(e.prompt_version) &&
       !e.takeaway
     )
       fail('Missing daily takeaway');

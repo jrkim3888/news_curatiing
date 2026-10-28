@@ -42,7 +42,7 @@ def response_format(inputs):
                    "summary": text(30, 220), "why_it_matters": text(15, 100),
                    "category": category, "evidence": array(passage_identity, 1, 1)})
     return {"type": "json_schema", "json_schema": {
-        "name": "daily_brief_v10", "strict": True,
+        "name": "daily_brief_v11", "strict": True,
         "schema": obj({"issues": array(issue, 1, 5), "overview": array(overview, 1, 5),
                        "headline": text(5, 120), "takeaway": text(5, 240),
                        "article_summaries": array(summary, 0, min(MAX_GENERATION_INPUTS, len(summary_ids)))}),
@@ -50,11 +50,10 @@ def response_format(inputs):
 
 
 def coverage_format(inputs, recent_coverage):
-    decision = obj({"article_id": {"type": "string", "enum": [item['article_id'] for item in inputs]},
-                    "previous_issue_id": {"type": ["string", "null"],
-                                          "enum": [None, *(issue['id'] for issue in recent_coverage)]}})
+    # One required decision per known article; no second list can contradict it.
+    decision = obj({"previous_issue_id": {"type": ["string", "null"],
+                                          "enum": [None, *(issue['id'] for issue in recent_coverage)]},
+                    "priority": {"type": "integer", "minimum": 1, "maximum": len(inputs)}})
     return {"type": "json_schema", "json_schema": {
-        "name": "briefing_coverage_v2", "strict": True,
-        "schema": obj({"coverage": array(decision, len(inputs), len(inputs)),
-                       "selected_article_ids": array(decision['properties']['article_id'], 0,
-                                                     min(MAX_GENERATION_INPUTS, len(inputs)))})}}
+        "name": "briefing_coverage_v3", "strict": True,
+        "schema": obj({"coverage": obj({item['article_id']: decision for item in inputs})})}}

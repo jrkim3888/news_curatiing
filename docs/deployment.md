@@ -86,6 +86,14 @@ Cloudflare 대시보드의 **Workers & Pages → Create application → Pages �
 
 첫 배포에서 홈, 기사 상세, `/search/`, `/rss.xml`, `/sitemap.xml`을 확인합니다. 수집기가 생성한 data 커밋으로 Pages 배포가 시작되는지도 확인해야 합니다. `GITHUB_TOKEN`의 push가 다른 GitHub Actions 워크플로를 다시 실행하지 않는 제한과, 별도 Cloudflare Git 연동은 구분합니다. Pages가 갱신되지 않으면 GitHub 앱의 저장소 접근 권한, 생산 브랜치와 Pages 자동 배포 설정을 확인하세요.
 
+### 기사 선별과 오류 진단
+
+`daily-brief-v11`부터 AI는 입력 기사 ID별로 `previous_issue_id`(최근 발행 이슈와의 중복 여부)와 `priority`만 반환합니다. 프로그램이 재보도를 제외한 뒤 우선순위순으로 최대 8건을 선정하므로, 중복 판정과 별도의 선정 목록이 충돌해서 발행을 막는 구조를 없앴습니다. 동률은 입력 순서를 유지하고, 누락되거나 잘못된 순위는 유효한 순위 뒤로 배치하며 경고로 남깁니다. 신규 기사가 1건이면 1건으로 작성하고, 전부 재보도이면 생성 요청을 하지 않습니다.
+
+구형 `selected_article_ids` 응답도 참고 순서로만 처리합니다. 제외 대상·미등록·중복·잘못된 형식의 ID는 제거하고 검증된 신규 기사로 최대 8건을 채웁니다. 중복 판정 누락·알 수 없는 과거 이슈·본문의 잘못된 근거는 계속 차단합니다.
+
+`last-run.json`의 `briefing.coverage_selection`에 검토·제외·유효·선정·보류 수와 실제 선정한 기사 ID가 남습니다. 순위 보정과 구형 목록 정리는 `validation_warnings`에 기록하며, 제외 대상·미등록·중복 ID 수를 구분합니다. 원문·전체 모델 응답·미등록 ID 문자열은 기록하지 않습니다. 중복 판정 검증과 최종 선정의 실패 단계는 각각 `coverage_validation`, `article_selection`입니다.
+
 ## 4. 수동 실행 후 수집·브리핑 예약 켜기
 
 1. GitHub 저장소 **Actions → Collect AI news → Run workflow**에서 `main`을 선택합니다. `mode=collect`, `no_llm`을 체크한 기본값으로 실행합니다. 실제 수집·검증·변경 시 커밋까지 수행하되 OpenRouter 호출은 없습니다.

@@ -246,6 +246,7 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     atomic_json(attempts_path, attempts)
     report["briefing"]["reviewed_articles"] = len(inputs)
     report['briefing']['excluded_repeated_stories'] = 0
+    warnings = report['briefing']['validation_warnings'] = []
     stage = "coverage_review"
     try:
         if recent_coverage or len(inputs) > briefings.MAX_GENERATION_INPUTS:
@@ -253,9 +254,12 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
             coverage = review_coverage(inputs, key, model, recent_coverage=recent_coverage,
                                        diagnostics=report['coverage_llm'])
             stage = 'coverage_validation'
-            fresh = briefings.uncovered_inputs(coverage, inputs, recent_coverage)
+            selection = report['briefing']['coverage_selection'] = {}
+            fresh = briefings.uncovered_inputs(coverage, inputs, recent_coverage,
+                                               warnings=warnings, diagnostics=selection)
             report['briefing']['excluded_repeated_stories'] = len(inputs) - len(fresh)
-            inputs = briefings.selected_inputs(coverage, fresh)
+            stage = 'article_selection'
+            inputs = briefings.selected_inputs(coverage, fresh, warnings=warnings, diagnostics=selection)
             report['briefing']['deferred_articles'] = len(fresh) - len(inputs)
             if not inputs:
                 return finish('no_new_issues')
@@ -270,7 +274,6 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
                 field: len(value[field]) if isinstance(value.get(field), list) else None
                 for field in ("issues", "overview", "article_summaries")}
         stage = "briefing_validation"
-        warnings = report['briefing']['validation_warnings'] = []
         edition = briefings.make_edition(value, inputs, articles, sources, end, model, digest, warnings=warnings)
         candidate = briefings.apply_editorial({"version": 1, "editions": [edition, *history["editions"]]}, editorial)
         briefings.validate_history(candidate)

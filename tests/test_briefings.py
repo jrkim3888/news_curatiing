@@ -37,8 +37,8 @@ def response(inputs):
 
 
 def coverage_response(inputs, *_, **kwargs):
-    return {"coverage": [{"article_id": i['article_id'], "previous_issue_id": None} for i in inputs],
-            "selected_article_ids": [i["article_id"] for i in inputs[:briefings.MAX_GENERATION_INPUTS]]}
+    return {"coverage": {i['article_id']: {"previous_issue_id": None, "priority": n}
+                         for n, i in enumerate(inputs, 1)}}
 
 
 class BriefingTests(unittest.TestCase):
@@ -264,7 +264,9 @@ class BriefingTests(unittest.TestCase):
             self.assertGreater(len(inputs), 8)
             value = coverage_response(inputs)
             selected.extend(i['article_id'] for i in reversed(inputs[-8:]))
-            value['selected_article_ids'] = selected
+            order = [*selected, *(i['article_id'] for i in inputs if i['article_id'] not in selected)]
+            for rank, aid in enumerate(order, 1):
+                value['coverage'][aid]['priority'] = rank
             return value
         def generate(inputs):
             self.assertEqual([i['article_id'] for i in inputs], selected)
@@ -341,14 +343,20 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(result['briefing']['article_summary_coverage']['missing_summaries'], 0)
         self.assertEqual(result['briefing']['article_summary_coverage']['invalid_summaries'], 1)
 
-    def test_shortlist_cannot_reintroduce_duplicates_or_exceed_writer_budget(self):
+    def test_legacy_shortlist_is_filtered_backfilled_and_bounded(self):
         inputs = [{'article_id': str(i)} for i in range(16)]
         fresh = inputs[1:]
-        for ids in (['0','1'], ['1','1'], ['missing','1'], [str(i) for i in range(1,10)], ['1'], []):
-            with self.subTest(ids=ids), self.assertRaises(briefings.BriefingValidationError):
-                briefings.selected_inputs({'selected_article_ids': ids}, fresh)
+        for ids in (['0','1'], ['1','1'], ['missing','1'], [str(i) for i in range(1,10)], ['1'], [], None, [[], {}]):
+            with self.subTest(ids=ids):
+                warnings = []
+                selected = briefings.selected_inputs({'selected_article_ids': ids}, fresh, warnings=warnings)
+                self.assertEqual(selected, fresh[:8])
+                self.assertTrue(warnings)
+                self.assertNotIn('missing', json.dumps(warnings))
         self.assertEqual(briefings.selected_inputs({'selected_article_ids': []}, []), [])
         self.assertEqual(briefings.selected_inputs({'selected_article_ids': ['1']}, fresh[:1]), fresh[:1])
+        self.assertEqual(briefings.selected_inputs({'selected_article_ids': ['3', '2']}, fresh),
+                         [fresh[2], fresh[1], fresh[0], *fresh[3:8]])
         with patch('collector.briefings.request') as request:
             with self.assertRaisesRegex(briefings.BriefingValidationError, 'Too many generation'):
                 briefings.generate(inputs, 'test-only', 'test/model')
@@ -508,8 +516,7 @@ class BriefingTests(unittest.TestCase):
             self.assertEqual(recent_coverage[0]['id'], original['day'] + '/issue-1')
             excluded.append(inputs[0]['article_id'])
             value = coverage_response(inputs)
-            value['coverage'][0]['previous_issue_id'] = recent_coverage[0]['id']
-            value['selected_article_ids'] = [i['article_id'] for i in inputs[1:9]]
+            value['coverage'][inputs[0]['article_id']]['previous_issue_id'] = recent_coverage[0]['id']
             return value
         def generate(inputs):
             self.assertNotIn(excluded[0], {i['article_id'] for i in inputs})
@@ -532,7 +539,10 @@ class BriefingTests(unittest.TestCase):
             entries[0]['title'] += ' repeated by another source'
             return entries, note
         def repeated(inputs, *_, **kwargs):
-            return {'coverage': [{'article_id': i['article_id'], 'previous_issue_id': previous} for i in inputs], 'selected_article_ids': []}
+            value = coverage_response(inputs)
+            for decision in value['coverage'].values():
+                decision['previous_issue_id'] = previous
+            return value
         result = self.run_batch(generate=lambda _: self.fail('All duplicates reached the writer'),
                                 review_coverage=repeated, fetch_source=changed)
         self.assertEqual(result['briefing']['result'], 'no_new_issues')
@@ -541,21 +551,114 @@ class BriefingTests(unittest.TestCase):
         again = self.run_batch(generate=lambda _: self.fail('Repeated paid classification'), fetch_source=changed)
         self.assertEqual(again['briefing']['result'], 'cooldown')
 
+    def test_contradictory_legacy_shortlist_publishes_without_excluded_article_or_retry(self):
+        self.run_batch()
+        original = read_history(self.root)['editions'][0]
+        self.now += timedelta(days=1)
+        excluded = []
+        def changed(source):
+            entries, note = self.fetch(source)
+            entries[0]['url'] += '/new'
+            entries[0]['title'] += ' different release'
+            return entries, note
+        def review(inputs, *_, recent_coverage, **kwargs):
+            self.assertGreater(len(inputs), 8)
+            excluded.append(inputs[0]['article_id'])
+            return {'coverage': [dict(article_id=i['article_id'], previous_issue_id=(
+                        recent_coverage[0]['id'] if n == 0 else None)) for n, i in enumerate(inputs)],
+                    'selected_article_ids': [excluded[0], inputs[1]['article_id'], inputs[1]['article_id'],
+                                             'UNTRUSTED RESPONSE TEXT', *[i['article_id'] for i in inputs[2:6]]]}
+        def generate(inputs):
+            self.assertEqual(len(inputs), 8)
+            self.assertEqual(len({i['article_id'] for i in inputs}), 8)
+            self.assertNotIn(excluded[0], {i['article_id'] for i in inputs})
+            return response(inputs)
+        result = self.run_batch(fetch_source=changed, review_coverage=review, generate=generate)
+        self.assertEqual(result['briefing']['result'], 'created', result)
+        self.assertEqual(result['llm_requests'], 2)
+        selection = result['briefing']['coverage_selection']
+        self.assertEqual(selection['excluded_articles'], 1)
+        self.assertEqual(selection['eligible_articles'], result['briefing']['reviewed_articles'] - 1)
+        self.assertEqual(selection['selected_articles'], 8)
+        self.assertEqual(selection['deferred_articles'], selection['eligible_articles'] - 8)
+        warning = next(w for w in result['briefing']['validation_warnings'] if w['code'] == 'legacy_shortlist_normalized')
+        self.assertEqual(warning['excluded_ids'], 1)
+        self.assertEqual(warning['unknown_ids'], 1)
+        self.assertEqual(warning['duplicate_ids'], 1)
+        self.assertNotIn('UNTRUSTED RESPONSE TEXT', json.dumps(result))
+        self.assertEqual(read_history(self.root)['editions'][1], original)
+        self.assertNotIn(excluded[0], {a['id'] for a in read_history(self.root)['editions'][0]['articles']})
+
+    def test_ranked_decisions_override_obsolete_selection_and_exclude_top_ranked_repeat(self):
+        inputs = [{'article_id': str(n)} for n in range(16)]
+        previous = [{'id': '2026-10-27/issue-1'}]
+        value = coverage_response(inputs)
+        for rank, i in enumerate(reversed(inputs), 1):
+            value['coverage'][i['article_id']]['priority'] = rank
+        value['coverage']['15']['previous_issue_id'] = previous[0]['id']
+        value['selected_article_ids'] = ['15', '0', '1']
+        fresh = briefings.uncovered_inputs(value, inputs, previous)
+        self.assertEqual(briefings.selected_inputs(value, fresh), list(reversed(inputs[7:15])))
+
+    def test_bad_priorities_fall_back_without_changing_novelty_decisions(self):
+        inputs = [{'article_id': 'a'*20}, {'article_id': 'b'*20}, {'article_id': 'c'*20}]
+        previous = [{'id': '2026-10-27/issue-1'}]
+        for priority in (None, True, 0, 4, '1', [], {}):
+            with self.subTest(priority=priority):
+                value = coverage_response(inputs)
+                value['coverage']['a'*20]['priority'] = priority
+                value['coverage']['c'*20]['previous_issue_id'] = previous[0]['id']
+                warnings = []
+                fresh = briefings.uncovered_inputs(value, inputs, previous, warnings=warnings)
+                self.assertEqual(fresh, [inputs[1], inputs[0]])
+                self.assertEqual(briefings.selected_inputs(value, fresh), fresh)
+                self.assertEqual(warnings, [{'code':'coverage_priority_ignored', 'article_id':'a'*20}])
+        value = coverage_response(inputs)
+        value['coverage']['a'*20].pop('priority')
+        self.assertEqual(briefings.uncovered_inputs(value, inputs, []), [inputs[1], inputs[2], inputs[0]])
+
+    def test_tied_priorities_have_deterministic_input_order_and_single_fresh_article_is_allowed(self):
+        inputs = [{'article_id': str(n)} for n in range(16)]
+        previous = [{'id': '2026-10-27/issue-1'}]
+        value = {'coverage': {i['article_id']: {'previous_issue_id': None, 'priority': 1} for i in reversed(inputs)}}
+        fresh = briefings.uncovered_inputs(value, inputs, previous)
+        self.assertEqual(briefings.selected_inputs(value, fresh), inputs[:8])
+        for aid, decision in value['coverage'].items():
+            if aid != '15': decision['previous_issue_id'] = previous[0]['id']
+        fresh = briefings.uncovered_inputs(value, inputs, previous)
+        self.assertEqual(briefings.selected_inputs(value, fresh), [inputs[-1]])
+
+    def test_bad_priority_warning_survives_successful_publication(self):
+        def review(inputs, *_, **kwargs):
+            value = coverage_response(inputs)
+            value['coverage'][inputs[0]['article_id']]['priority'] = 'bad'
+            return value
+        result = self.run_batch(review_coverage=review)
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertTrue(any(w['code'] == 'coverage_priority_ignored' for w in result['briefing']['validation_warnings']))
+
+    def test_legacy_duplicate_novelty_decisions_are_not_silently_accepted(self):
+        inputs = [{'article_id': 'a'*20}, {'article_id': 'b'*20}]
+        value = {'coverage': [{'article_id':'a'*20, 'previous_issue_id':None}] * 2, 'selected_article_ids':[]}
+        with self.assertRaises(briefings.BriefingValidationError) as context:
+            briefings.uncovered_inputs(value, inputs, [])
+        self.assertEqual(context.exception.details, {'code':'duplicate_coverage_article'})
+
     def test_coverage_requires_complete_decisions_and_known_previous_issues(self):
         inputs = [{'article_id': 'a'*20}, {'article_id': 'b'*20}]
         previous = [{'id':'2026-10-20/issue-2'}]
-        for kind in ('missing', 'duplicate', 'unknown_article', 'unknown_issue', 'unhashable_issue'):
+        for kind in ('missing', 'unknown_article', 'unknown_issue', 'unhashable_issue', 'missing_decision'):
             with self.subTest(kind=kind):
                 value = coverage_response(inputs)
-                if kind == 'missing': value['coverage'].pop()
-                if kind == 'duplicate': value['coverage'][1] = value['coverage'][0]
-                if kind == 'unknown_article': value['coverage'][0]['article_id'] = 'c'*20
-                if kind == 'unknown_issue': value['coverage'][0]['previous_issue_id'] = '2026-10-20/issue-9'
-                if kind == 'unhashable_issue': value['coverage'][0]['previous_issue_id'] = []
+                if kind == 'missing': value['coverage'].pop('a'*20)
+                if kind == 'unknown_article': value['coverage']['c'*20] = value['coverage'].pop('a'*20)
+                if kind == 'unknown_issue': value['coverage']['a'*20]['previous_issue_id'] = '2026-10-20/issue-9'
+                if kind == 'unhashable_issue': value['coverage']['a'*20]['previous_issue_id'] = []
+                if kind == 'missing_decision': value['coverage']['a'*20].pop('previous_issue_id')
                 with self.assertRaises(briefings.BriefingValidationError):
                     briefings.uncovered_inputs(value, inputs, previous)
         value = coverage_response(inputs)
-        value['coverage'][0]['previous_issue_id'] = previous[0]['id']
+        value['coverage']['a'*20]['previous_issue_id'] = previous[0]['id']
         self.assertEqual(briefings.uncovered_inputs(value, inputs, previous), inputs[1:])
         self.assertNotEqual(briefings.input_hash(inputs, 'test/model'), briefings.input_hash(inputs, 'test/model', previous))
 
@@ -563,7 +666,7 @@ class BriefingTests(unittest.TestCase):
         inputs = [{'article_id': aid*20, 'source_text':'A new AI tool is available.'} for aid in ('a', 'b')]
         previous = [{'id':'2026-10-20/issue-2'}]
         value = coverage_response(inputs)
-        value['coverage'][0]['previous_issue_id'] = previous[0]['id']
+        value['coverage']['a'*20]['previous_issue_id'] = previous[0]['id']
         fresh = briefings.uncovered_inputs(value, inputs, previous)
         with self.assertRaisesRegex(briefings.BriefingValidationError, 'Unknown evidence article'):
             briefings.make_edition(response(inputs), fresh, [], [], self.now, 'test/model', 'a'*64)
@@ -957,9 +1060,13 @@ class BriefingTests(unittest.TestCase):
         self.assertEqual(payload['max_tokens'], 2048)
         self.assertEqual(payload['reasoning'], {'effort': 'none'})
         fields = payload['response_format']['json_schema']['schema']['properties']
-        self.assertEqual(set(fields), {'coverage', 'selected_article_ids'})
-        self.assertEqual(fields['coverage']['items']['properties']['previous_issue_id']['enum'],
+        self.assertEqual(set(fields), {'coverage'})
+        self.assertEqual(fields['coverage']['required'], ['a'*20])
+        self.assertFalse(fields['coverage']['additionalProperties'])
+        decision = fields['coverage']['properties']['a'*20]
+        self.assertEqual(decision['properties']['previous_issue_id']['enum'],
                          [None, '2026-10-20/issue-1'])
+        self.assertEqual(decision['properties']['priority'], {'type':'integer', 'minimum':1, 'maximum':1})
         body = json.loads(payload['messages'][1]['content'])
         self.assertEqual(body['recent_coverage'], previous)
         self.assertEqual(len(body['articles'][0]['source_text']), 1200)
@@ -993,7 +1100,7 @@ class BriefingTests(unittest.TestCase):
         result = self.run_batch(generate=generated)
         self.assertEqual(result['briefing']['result'], 'created')
         edition = read_history(self.root)['editions'][0]
-        self.assertEqual(edition['prompt_version'], 'daily-brief-v10')
+        self.assertEqual(edition['prompt_version'], 'daily-brief-v11')
         self.assertEqual(edition['overview'][0]['text'], response([])['overview'][0]['text'])
 
     def test_prose_handles_abbreviations_versions_quotes_and_warns_for_style_variations(self):
