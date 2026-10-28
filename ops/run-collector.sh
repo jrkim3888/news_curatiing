@@ -1,17 +1,29 @@
 #!/usr/bin/env bash
-# Run in a dedicated collector checkout (GitHub Actions or an unprivileged VM user).
+# Run in a dedicated collector checkout (GitHub Actions, a VM, or a Mac).
 set -Eeuo pipefail
 umask 077
-export PATH="/usr/local/bin:/usr/bin:/bin"
+# Homebrew uses /opt/homebrew on Apple Silicon and /usr/local on Intel Macs.
+export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin"
 export GIT_TERMINAL_PROMPT=0
 export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o StrictHostKeyChecking=yes"
 REPO_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$REPO_DIR"
 mkdir -p .runtime
+if ! command -v flock >/dev/null 2>&1; then
+  echo '[error] flock is required. On macOS install it with: brew install flock'
+  exit 1
+fi
 exec 9>.runtime/collector.lock
-if ! flock -n 9; then
-  echo '[skip] Another collection is running.'
-  exit 0
+if flock -n 9; then
+  :
+else
+  LOCK_STATUS=$?
+  if [[ "$LOCK_STATUS" == 1 ]]; then
+    echo '[skip] Another collection is running.'
+    exit 0
+  fi
+  echo "[error] Unable to acquire collector lock (exit $LOCK_STATUS)."
+  exit "$LOCK_STATUS"
 fi
 echo "[start] $(date -u +%FT%TZ)"
 BRANCH="${NEWS_BRANCH:-main}"
@@ -63,7 +75,7 @@ if [[ ! -x .venv/bin/python ]]; then
   echo '[error] Run python3 -m venv .venv and install requirements.txt first.'
   exit 1
 fi
-NEW_REQUIREMENTS="$(sha256sum requirements.txt | cut -d ' ' -f1)"
+NEW_REQUIREMENTS="$(.venv/bin/python -c 'import hashlib; from pathlib import Path; print(hashlib.sha256(Path("requirements.txt").read_bytes()).hexdigest())')"
 OLD_REQUIREMENTS="$(cat .runtime/requirements.sha256 2>/dev/null || true)"
 if [[ "$NEW_REQUIREMENTS" != "$OLD_REQUIREMENTS" ]]; then
   .venv/bin/python -m pip install --disable-pip-version-check -r requirements.txt

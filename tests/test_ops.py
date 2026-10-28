@@ -119,6 +119,31 @@ else:
         self.assertIn('Another collection is running', result.stdout)
         self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
 
+    def test_missing_flock_is_an_error_not_a_successful_skip(self):
+        # Model a Mac before `brew install flock`, without changing host tools.
+        shell_env = self.repo / '.runtime/test-shell-env'
+        shell_env.write_text('command() { if [[ "$1" == -v && "$2" == flock ]]; then return 1; fi; builtin command "$@"; }\n')
+        result = self.run_job(BASH_ENV=str(shell_env))
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn('flock is required', result.stdout)
+        self.assertNotIn('Another collection is running', result.stdout)
+        self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
+
+    def test_lock_failure_is_not_mistaken_for_an_overlapping_job(self):
+        shell_env = self.repo / '.runtime/test-shell-env'
+        shell_env.write_text('flock() { return 70; }\n')
+        result = self.run_job(BASH_ENV=str(shell_env))
+        self.assertEqual(result.returncode, 70)
+        self.assertIn('Unable to acquire collector lock', result.stdout)
+        self.assertEqual(self.git('rev-list', '--count', 'HEAD'), '1')
+
+    def test_collector_does_not_require_gnu_sha256sum(self):
+        shell_env = self.repo / '.runtime/test-shell-env'
+        shell_env.write_text('sha256sum() { return 127; }\n')
+        result = self.run_job(BASH_ENV=str(shell_env))
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertEqual(self.git('rev-parse', 'HEAD'), self.git('rev-parse', 'origin/main'))
+
     def test_dirty_checkout_is_not_overwritten(self):
         (self.repo / 'data/catalog.json').write_text('operator edit')
         result = self.run_job()

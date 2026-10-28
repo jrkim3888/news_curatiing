@@ -12,6 +12,8 @@ GitHub main → Cloudflare Pages 빌드 → 정적 HTML·검색·RSS
 
 **배포 순서는 [docs/deployment.md](docs/deployment.md)를 보세요.** 키와 변수를 등록하고 수동 실행을 확인한 다음 `COLLECTION_ENABLED=true`로 예약을 켭니다. Codex 클라우드는 개발과 수동 테스트용이며 운영 스케줄러가 아닙니다. 상시 VM에서 직접 돌릴 경우 [Oracle + cron 대안](docs/deployment-oracle.md)도 사용할 수 있습니다. 두 실행기를 동시에 켜지 않습니다.
 
+Mac으로 수집·발행을 옮길 때는 [Mac + OpenClaw 운영 가이드](docs/deployment-mac-openclaw.md)를 따릅니다. OpenClaw의 command 예약으로 기존 Python 수집기를 실행하고, GitHub Actions 예약은 전환 시 끕니다. Cloudflare Pages는 그대로 사용합니다.
+
 ## 구현된 기능
 
 - 고정된 24시간의 자료를 사건별로 묶는 AI 일일 브리핑, 사실별 근거 링크와 별도 AI 해석
