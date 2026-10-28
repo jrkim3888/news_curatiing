@@ -3,6 +3,354 @@
   "month": "2026-10",
   "editions": [
     {
+      "id": "2026-10-28",
+      "day": "2026-10-28",
+      "scheduled_at": "2026-10-27T21:30:00+00:00",
+      "generated_at": "2026-10-28T21:59:22+00:00",
+      "window_start": "2026-10-26T21:00:00+00:00",
+      "window_end": "2026-10-27T21:00:00+00:00",
+      "status": "published",
+      "headline": "경쟁사 기술까지 품는 클라우드, 검증이 관건인 AI 확산",
+      "takeaway": "오늘의 한 줄: AI 모델과 도구가 넓어질수록 비용과 실제 효과를 반복해 확인하는 절차가 더 중요해집니다.",
+      "overview": [
+        {
+          "text": "오라클이 자사 클라우드 인프라에서 경쟁사인 스노우플레이크 플랫폼과 구글 텐서 프로세싱 유닛을 서비스한다고 발표했습니다. 스노우플레이크는 오라클 출신 엔지니어들이 세운 데이터웨어하우스 회사이고, 구글 칩은 그동안 구글 클라우드에서만 쓸 수 있었기에 경쟁사 기술을 한 인프라에 들인 사례로 눈에 띕니다. 고객은 오라클 유니버설 크레딧으로 두 서비스를 직접 사고 쓸 수 있게 되지만, 구글 칩 서비스는 2027년에나 나오고 실제 성능과 비용 효과는 아직 확인되지 않았습니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "중국 산둥대와 미국 UC버클리 연구진은 코딩 에이전트의 실행 환경인 하네스를 정교하게 만들어도 정확도는 통계적 오차 범위를 벗어나지 않고 비용만 최대 3배 늘 수 있다고 밝혔습니다. 난도 높은 과제에서 하네스를 바꿀 때 나타난 약 13%의 성공·실패 변동은 같은 하네스를 반복해도 비슷하게 나타나 확률적 변동에 가까웠습니다. 연구진은 시스템 프롬프트와 도구 정의를 줄이고 실제 쓰는 모델에서 비용과 성능을 반복 측정해 개선이 확인되는 기능만 남기라고 조언했습니다.",
+          "issue_ids": [
+            "issue-2"
+          ]
+        },
+        {
+          "text": "오픈AI는 시각 추론과 컴퓨터 사용, 자연스러운 글쓰기를 강조한 GPT-6.1 Terra를 공개했고, 엔비디아는 게임용 RTX Spark 플랫폼과 쿠버네티스에서 GPU 메모리를 나눠 쓰는 도구를 내놨습니다. 기후에너지환경부는 청주 국도 17호선에서 야생동물을 감지해 운전자에게 경고하는 AI 로드킬 예방시스템을 시범 운영합니다. 이들 발표는 모델 선택, 개발 도구, 공공 안전 적용 등 AI 활용이 각기 다른 현장으로 넓어지고 있음을 보여주지만, 실제 효과와 비용은 아직 검증이 필요한 단계입니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "오라클, 클라우드 경쟁사 기술까지 OCI에 통합",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "오라클이 '오라클 AI 월드 2026'에서 스노우플레이크 플랫폼을 OCI의 네이티브 서비스로 제공한다고 발표했다. 고객은 오라클 유니버설 크레딧으로 오라클을 통해 직접 구매·프로비저닝할 수 있다.",
+              "article_ids": [
+                "4541f5c834e8474404b9"
+              ],
+              "links": [
+                {
+                  "text": "스노우플레이크 플랫폼",
+                  "article_id": "4541f5c834e8474404b9"
+                },
+                {
+                  "text": "오라클 유니버설 크레딧",
+                  "article_id": "4541f5c834e8474404b9"
+                }
+              ]
+            },
+            {
+              "text": "오라클은 같은 행사에서 구글 텐서 프로세싱 유닛(TPU)을 OCI에서 서비스한다고 발표했다. 구글 TPU를 제3의 하이퍼스케일러가 제공하는 첫 사례이며 2027년 출시 예정이다.",
+              "article_ids": [
+                "bbfc1c72bfd754d8aa83"
+              ],
+              "links": [
+                {
+                  "text": "구글 텐서 프로세싱 유닛(TPU)",
+                  "article_id": "bbfc1c72bfd754d8aa83"
+                },
+                {
+                  "text": "OCI",
+                  "article_id": "bbfc1c72bfd754d8aa83"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "클라우드 사업자가 경쟁사 데이터 플랫폼과 자체 AI 칩까지 자사 인프라에 들이면서, 고객의 선택지와 비용 구조가 달라질 수 있다.",
+          "article_ids": [
+            "4541f5c834e8474404b9",
+            "bbfc1c72bfd754d8aa83"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "AI 코딩 에이전트 하네스 복잡해도 성능은 그대로, 비용만 최대 3배",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "중국 산둥대와 미국 UC버클리 연구진이 클로드 코드, 오픈코드, 미니-SWE-에이전트 등 코딩 에이전트 하네스 3종을 비교한 결과, 기능이 많은 하네스가 일관되게 높은 정확도를 보이지 않았고 하네스에 따라 과제당 비용이 최대 3배 차이 났다.",
+              "article_ids": [
+                "76cf590ba5b8f05fd6fe"
+              ],
+              "links": [
+                {
+                  "text": "최대 3배",
+                  "article_id": "76cf590ba5b8f05fd6fe"
+                }
+              ]
+            },
+            {
+              "text": "연구진은 난도 높은 과제에서 하네스를 바꿀 때 나타난 약 13%의 성공·실패 변동이 동일 하네스 반복 실험에서도 비슷하게 나타나 확률적 변동에 불과하다고 분석했다.",
+              "article_ids": [
+                "76cf590ba5b8f05fd6fe"
+              ],
+              "links": [
+                {
+                  "text": "확률적 변동",
+                  "article_id": "76cf590ba5b8f05fd6fe"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "에이전트 도입을 검토하는 팀은 도구 구성을 늘리기보다 프롬프트와 도구 정의를 줄이고 반복 측정으로 비용과 성능을 확인해야 한다.",
+          "article_ids": [
+            "76cf590ba5b8f05fd6fe"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "오픈AI GPT-6.1 Terra 공개, 중간 가격대 실용 모델 강조",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "오픈AI가 시각 추론과 컴퓨터 사용, 자연스러운 글쓰기를 강조한 GPT-6.1 Terra를 공개했다. 가격은 입력 100만 토큰당 1달러, 출력 100만 토큰당 5달러로 GPT-6.1 Sol의 절반 수준이다.",
+              "article_ids": [
+                "670bdc25a85edb1886da"
+              ],
+              "links": [
+                {
+                  "text": "컴퓨터 사용",
+                  "article_id": "670bdc25a85edb1886da"
+                },
+                {
+                  "text": "GPT-6.1 Terra",
+                  "article_id": "670bdc25a85edb1886da"
+                }
+              ]
+            },
+            {
+              "text": "오픈AI의 테드 샌더스는 해커뉴스 댓글에서 Terra가 기술 커뮤니케이션에서 Astra와 Sol보다 낫고 시각·컴퓨터 사용은 비슷하지만 훨씬 빠르며 다른 대부분 영역에서는 약간 뒤진다고 밝혔다.",
+              "article_ids": [
+                "670bdc25a85edb1886da"
+              ],
+              "links": [
+                {
+                  "text": "테드 샌더스",
+                  "article_id": "670bdc25a85edb1886da"
+                },
+                {
+                  "text": "기술 커뮤니케이션",
+                  "article_id": "670bdc25a85edb1886da"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "중간 가격대 모델이 늘면서 개발자와 구독자는 작업별로 비용과 성능을 비교해 모델을 고르는 판단이 중요해진다.",
+          "article_ids": [
+            "670bdc25a85edb1886da"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "엔비디아, RTX Spark 게임 개발 기술과 쿠버네티스 GPU 공유 도구 공개",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "엔비디아가 블랙웰 RTX GPU와 그레이스 CPU를 결합한 윈도우 PC 플랫폼 RTX Spark를 소개하며 DLSS 5의 3D 유도 신경 렌더링, 온디바이스 AI 캐릭터용 ACE, RTX Kit 등을 게임 개발자용으로 정리했다.",
+              "article_ids": [
+                "a9a41b70941237e40882"
+              ],
+              "links": [
+                {
+                  "text": "RTX Spark",
+                  "article_id": "a9a41b70941237e40882"
+                },
+                {
+                  "text": "DLSS 5",
+                  "article_id": "a9a41b70941237e40882"
+                }
+              ]
+            },
+            {
+              "text": "엔비디아는 CUDA 13.4에 애플리케이션에 투명한 메모리 경계를 적용하는 새 시분할 모드를 추가했고, 이를 쿠버네티스에서 활용하도록 KAI 스케줄러 조직의 오픈소스 gpu-fractioning 운영자를 소개했다.",
+              "article_ids": [
+                "449070727cbfb984c712"
+              ],
+              "links": [
+                {
+                  "text": "CUDA 13.4",
+                  "article_id": "449070727cbfb984c712"
+                },
+                {
+                  "text": "gpu-fractioning",
+                  "article_id": "449070727cbfb984c712"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "게임 개발과 클라우드 운영 양쪽에서 GPU 자원을 더 세밀하게 나눠 쓰는 도구가 늘면, 인프라 활용 효율과 개발 편의성이 함께 달라질 수 있다.",
+          "article_ids": [
+            "a9a41b70941237e40882",
+            "449070727cbfb984c712"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "청주 국도에 AI 로드킬 예방시스템 시범 운영",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "기후에너지환경부가 28일부터 충북 청주시 서원구 남이면 척산리 국도 17호선에서 AI 기반 로드킬 예방시스템을 시범 운영한다. CCTV 영상을 AI가 분석해 야생동물 출현을 감지하면 LED 전광판과 경광등으로 운전자에게 경고한다.",
+              "article_ids": [
+                "e2122f81782051fbaaa9"
+              ],
+              "links": [
+                {
+                  "text": "국도 17호선",
+                  "article_id": "e2122f81782051fbaaa9"
+                },
+                {
+                  "text": "로드킬 예방시스템",
+                  "article_id": "e2122f81782051fbaaa9"
+                }
+              ]
+            },
+            {
+              "text": "기술 개발과 현장 설치는 포스코디엑스가 맡았고, 2025년 경기 양평과 강원 횡성·평창 3곳에 이어 청주가 충청권 첫 적용 구간이다. 정부는 2027년까지 1곳을 추가 설치할 계획이다.",
+              "article_ids": [
+                "e2122f81782051fbaaa9"
+              ],
+              "links": [
+                {
+                  "text": "포스코디엑스",
+                  "article_id": "e2122f81782051fbaaa9"
+                },
+                {
+                  "text": "2027년",
+                  "article_id": "e2122f81782051fbaaa9"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "야생동물 사고를 줄이려는 시도가 실제 감속과 사고 감소로 이어지는지 검증이 필요하며, 결과에 따라 확대 여부가 결정될 전망이다.",
+          "article_ids": [
+            "e2122f81782051fbaaa9"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "449070727cbfb984c712",
+          "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+          "published_at": "2026-10-27T20:50:39+00:00",
+          "sources": [
+            {
+              "source_id": "nvidia",
+              "url": "https://developer.nvidia.com/blog/memory-enforced-gpu-sharing-in-kubernetes-with-nvidia-cuda-13-4",
+              "title": "Memory-Enforced GPU Sharing in Kubernetes with NVIDIA CUDA 13.4",
+              "name": "NVIDIA Technical Blog",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "4541f5c834e8474404b9",
+          "title": "오라클이 스노우플레이크를 OCI에 들였다",
+          "published_at": "2026-10-27T20:08:04+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/10/27-696",
+              "title": "오라클이 스노우플레이크를 OCI에 들였다",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "a9a41b70941237e40882",
+          "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+          "published_at": "2026-10-27T17:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "nvidia",
+              "url": "https://developer.nvidia.com/blog/nvidia-rtx-spark-powers-neural-rendering-and-ai-characters-in-games",
+              "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games",
+              "name": "NVIDIA Technical Blog",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "bbfc1c72bfd754d8aa83",
+          "title": "오라클 OCI, 구글 TPU 서비스 제공한다",
+          "published_at": "2026-10-27T16:25:02+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/10/27-694",
+              "title": "오라클 OCI, 구글 TPU 서비스 제공한다",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "e2122f81782051fbaaa9",
+          "title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동",
+          "published_at": "2026-10-27T12:10:40+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42454",
+              "title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "76cf590ba5b8f05fd6fe",
+          "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
+          "published_at": "2026-10-27T09:20:31+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216712",
+              "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "670bdc25a85edb1886da",
+          "title": "GPT-6.1 Terra",
+          "published_at": "2026-10-26T23:53:07+00:00",
+          "sources": [
+            {
+              "source_id": "simonwillison",
+              "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
+              "title": "GPT-6.1 Terra",
+              "name": "Simon Willison",
+              "role": "analysis"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "392d87e934ef0f69a162fdd8a5f9f74901939c46335e26ce9cf0cddd80063fd7"
+    },
+    {
       "id": "2026-10-27",
       "day": "2026-10-27",
       "scheduled_at": "2026-10-26T21:30:00+00:00",

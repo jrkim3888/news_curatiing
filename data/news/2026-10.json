@@ -2003,14 +2003,14 @@
     {
       "id": "4541f5c834e8474404b9",
       "url": "https://byline.network/2026/10/27-696",
-      "title": "오라클이 스노우플레이크를 OCI에 들였다",
+      "title": "오라클, 스노우플레이크를 OCI 네이티브 서비스로 제공",
       "original_title": "오라클이 스노우플레이크를 OCI에 들였다",
       "published_at": "2026-10-27T20:08:04+00:00",
       "collected_at": "2026-10-28T00:16:52+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "스노우플레이크 플랫폼이 오라클 클라우드에 들어갔다. 오라클 엑사데이터와 스노우플레이크가 오라클클라우드인프라스트럭처(OCI)란 하나의 클라우드 인프라 안에 공존하는 상황이 벌어졌다. 오라클은 27일(현지시간) 미국 라스베이거스에서 개최한 ‘오라클 AI 월드 2026’에서 스노우플레이크 플랫폼을 OCI에서 네이티브 서비…",
       "sources": [
         {
@@ -2018,7 +2018,17 @@
           "url": "https://byline.network/2026/10/27-696",
           "title": "오라클이 스노우플레이크를 OCI에 들였다"
         }
-      ]
+      ],
+      "summary": "오라클이 오라클 AI 월드 2026에서 스노우플레이크 플랫폼을 OCI의 네이티브 서비스로 제공한다고 발표했다. 고객은 오라클 유니버설 크레딧으로 오라클을 통해 직접 구매·프로비저닝할 수 있고, 오라클 데이터베이스와 엑사데이터 등에 있는 데이터를 물리적으로 옮기지 않고 스노우플레이크에서 활용할 수 있다.",
+      "why_it_matters": "경쟁 관계인 데이터 플랫폼이 한 클라우드에 공존하면 기업의 데이터 활용 선택지와 구매 방식이 달라질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-28T21:59:22+00:00",
+        "briefing_day": "2026-10-28",
+        "input_hash": "397cdd77981bb1cafd98b4ef2ab907cd5fc313bc45a2dae3bc4fa2b99c462f1d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "f783965972b988fbec9f",
@@ -2250,14 +2260,14 @@
     {
       "id": "bbfc1c72bfd754d8aa83",
       "url": "https://byline.network/2026/10/27-694",
-      "title": "오라클 OCI, 구글 TPU 서비스 제공한다",
+      "title": "오라클 OCI, 구글 TPU 서비스 첫 외부 하이퍼스케일러로",
       "original_title": "오라클 OCI, 구글 TPU 서비스 제공한다",
       "published_at": "2026-10-27T16:25:02+00:00",
       "collected_at": "2026-10-28T00:16:52+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "오라클이 클라우드 경쟁사 구글의 AI 칩을 자사 클라우드 인프라에서 서비스한다. 구글 TPU를 제3의 하이퍼스케일러가 서비스하는 첫 사례다.…",
       "sources": [
         {
@@ -2265,7 +2275,17 @@
           "url": "https://byline.network/2026/10/27-694",
           "title": "오라클 OCI, 구글 TPU 서비스 제공한다"
         }
-      ]
+      ],
+      "summary": "오라클이 오라클 AI 월드 2026에서 구글 텐서 프로세싱 유닛을 OCI의 AI 컴퓨팅 포트폴리오에 통합한다고 발표했다. 구글 TPU를 제3의 하이퍼스케일러가 서비스하는 첫 사례이며, OCI에서 쓸 수 있는 구글 TPU는 2027년 출시 예정으로 수년에 걸쳐 점진적으로 확대된다.",
+      "why_it_matters": "한 클라우드에서 여러 AI 칩을 고를 수 있게 되면 워크로드별 성능과 비용 최적화 선택지가 넓어진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-28T21:59:22+00:00",
+        "briefing_day": "2026-10-28",
+        "input_hash": "5a8a92594e452e55edc9c375c496f51ef438857eb0dd28e749eca0117c0af30f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1d6c5c59e46e52b936cb",
@@ -2737,14 +2757,14 @@
     {
       "id": "e2122f81782051fbaaa9",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42454",
-      "title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동",
+      "title": "청주 국도 17호선에 AI 로드킬 예방시스템 시범 운영",
       "original_title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동",
       "published_at": "2026-10-27T12:10:40+00:00",
       "collected_at": "2026-10-27T15:10:21+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "도로에 갑자기 뛰어든 야생동물을 운전자가 발견하기 전에 인공지능(AI)이 먼저 포착해 위험을 알리는 기술이 실제 국도에 적용된다. 도로 위 동물의 움직임을 AI가 감지하고 운전자에게 경고하는 방식으로, 야생동물의 생명 보호와 교통사고 예방을 동시에 추진한다.기후에너지환경부는 28일부터 충북 청주시 서원구 남이면 척산…",
       "sources": [
         {
@@ -2752,7 +2772,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42454",
           "title": "도로에 뛰어든 야생동물, AI가 먼저 포착한다…청주 국도 17호선에 로드킬 예방시스템 가동"
         }
-      ]
+      ],
+      "summary": "기후에너지환경부가 28일부터 충북 청주시 서원구 남이면 척산리 국도 17호선에서 AI 기반 로드킬 예방시스템을 시범 운영한다. CCTV 영상을 AI가 분석해 야생동물 출현을 감지하면 LED 전광판과 경광등으로 운전자에게 경고하며, 기술 개발과 현장 설치는 포스코디엑스가 맡았다.",
+      "why_it_matters": "야생동물 감지가 실제 감속과 사고 감소로 이어지는지 검증돼야 추가 확대 여부를 판단할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-28T21:59:22+00:00",
+        "briefing_day": "2026-10-28",
+        "input_hash": "1cbe5b2e3c29f85006151c07deb6d19820ca7ceb86d5b3d97b49fce09cdce023",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4009e2899de544cfdd94",
@@ -2937,14 +2967,14 @@
     {
       "id": "76cf590ba5b8f05fd6fe",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216712",
-      "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
+      "title": "코딩 에이전트 하네스 복잡해도 정확도는 그대로, 비용만 최대 3배",
       "original_title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'",
       "published_at": "2026-10-27T09:20:31+00:00",
       "collected_at": "2026-10-27T15:10:21+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "AI 코딩 에이전트의 작업 환경을 복잡하게 구성해도 코드 작성 정확도는 거의 높아지지 않지만, 추론 비용은 최대 3배까지 늘어날 수 있다는 연구 결과가 나왔다. 모델을 둘러싼 도구와 실행 절차 등 '하네스'를 정교하게 설계하는 것보다 불필요한 지시문과 도구 정의를 줄이는 편이 비용 효율에 더 큰 영향을 줄 수 있다는…",
       "sources": [
         {
@@ -2952,7 +2982,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216712",
           "title": "\"성능은 그대로, 비용은 최대 3배\"…에이전트 가로막는 '복잡한 하네스'"
         }
-      ]
+      ],
+      "summary": "중국 산둥대와 미국 UC버클리 연구진이 클로드 코드, 오픈코드, 미니-SWE-에이전트 등 코딩 에이전트 하네스 3종을 비교했다. 기능이 많은 하네스가 일관되게 높은 정확도를 보이지 않았고, 동일 모델과 과제에서도 하네스에 따라 과제당 비용이 최대 3배 차이 났다.",
+      "why_it_matters": "에이전트 도입 시 도구를 늘리기보다 프롬프트와 도구 정의를 줄이고 반복 측정으로 검증하는 접근이 비용 효율에 중요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-28T21:59:22+00:00",
+        "briefing_day": "2026-10-28",
+        "input_hash": "e0bf7d1645f19dcb553b0318d0c4610025f9b75b8ee06992a55841ee2f775da3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "280006005b251b02986f",
