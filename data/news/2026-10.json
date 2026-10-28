@@ -3,6 +3,754 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "c7f1bfaaeda39eb91642",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42467",
+      "title": "해수부, \"AI로 바다 산업 바꾼다\"... 세계 자율운항선박 시장 수주 1위 목표 등 '해양수산 AI 전환 5대 전략' 발표",
+      "original_title": "해수부, \"AI로 바다 산업 바꾼다\"... 세계 자율운항선박 시장 수주 1위 목표 등 '해양수산 AI 전환 5대 전략' 발표",
+      "published_at": "2026-10-28T09:18:17+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 인공지능(AI)을 활용해 선박 운항과 항만 물류, 수산업 생산체계를 전면적으로 혁신하는 '해양수산 AI 전환' 전략을 추진한다. 2032년까지 선원 없이 운항하는 레벨4(Level 4) 완전 자율운항선박의 핵심기술을 확보하고, 피지컬 AI(Physical AI)를 항만 운영에 도입해 2035년까지 항만 생산성…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42467",
+          "title": "해수부, \"AI로 바다 산업 바꾼다\"... 세계 자율운항선박 시장 수주 1위 목표 등 '해양수산 AI 전환 5대 전략' 발표"
+        }
+      ]
+    },
+    {
+      "id": "6297b63ba34dece126b6",
+      "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+      "title": "New prize launches for books co-written with AI",
+      "original_title": "New prize launches for books co-written with AI",
+      "published_at": "2026-10-28T08:57:54+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/books/2026/oct/21/new-prize-launches-books-co-written-with-ai-france",
+          "title": "New prize launches for books co-written with AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270815"
+        }
+      ]
+    },
+    {
+      "id": "3634249801614830b4d0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216761",
+      "title": "리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원",
+      "original_title": "리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원",
+      "published_at": "2026-10-28T08:55:23+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "리퀴드 AI가 기업과 개인이 직접 관리하는 기기에서 AI 에이전트와 음성 비서, 이미지·영상 인식 기능을 실행할 수 있는 새로운 AI 모델 제품군 'LFM3'를 공개했다. 20억개 매개변수 규모의 소형 모델 6종으로 구성했으며, 기기 내에서 빠르게 실행하면서도 브라우저 자동화와 업무용 애플리케이션 제어 등 복잡한 작…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216761",
+          "title": "리퀴드 AI, 온디바이스 AI 모델 'LFM3' 공개...브라우저·음성·이미지 처리 지원"
+        }
+      ]
+    },
+    {
+      "id": "16807bfdb2b81aaa6980",
+      "url": "https://apps.apple.com/us/app/curate-photo/id6825514911",
+      "title": "Show HN: Curate. free, no ADS, with AI, private photo cleaner for iPhone",
+      "original_title": "Show HN: Curate. free, no ADS, with AI, private photo cleaner for iPhone",
+      "published_at": "2026-10-28T08:52:34+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://apps.apple.com/us/app/curate-photo/id6825514911",
+          "title": "Show HN: Curate. free, no ADS, with AI, private photo cleaner for iPhone",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270788"
+        }
+      ]
+    },
+    {
+      "id": "09f1c4d810927bc4b2e8",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42466",
+      "title": "구미 7개 기업, 25조원 투자계획…정부, 제조 AI 혁신거점 육성 본격화",
+      "original_title": "구미 7개 기업, 25조원 투자계획…정부, 제조 AI 혁신거점 육성 본격화",
+      "published_at": "2026-10-28T08:52:23+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "경북 구미가 반도체와 로봇, 인공지능(AI) 데이터센터 등 첨단산업 투자와 제조 인공지능 전환(M.AX)을 결합한 지역 산업혁신 거점으로 육성된다. 정부는 구미에 예정된 약 25조원 규모의 민간투자가 차질 없이 이행되도록 지원하는 동시에, 산업단지를 중심으로 제조 AI 기술을 확산하는 정책을 본격 추진한다.산업통상부…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42466",
+          "title": "구미 7개 기업, 25조원 투자계획…정부, 제조 AI 혁신거점 육성 본격화"
+        }
+      ]
+    },
+    {
+      "id": "cd45559027133fdb913d",
+      "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+      "title": "Elon Musk's AI Odyssey Review",
+      "original_title": "Elon Musk's AI Odyssey Review",
+      "published_at": "2026-10-28T08:51:31+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/film/2026/oct/27/elon-musk-ai-odyssey-movie-grok-christopher-nolan",
+          "title": "Elon Musk's AI Odyssey Review",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270781"
+        }
+      ]
+    },
+    {
+      "id": "0e104dd51b9b57ecab41",
+      "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech",
+      "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+      "original_title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+      "published_at": "2026-10-28T08:51:02+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech",
+          "title": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270780"
+        }
+      ]
+    },
+    {
+      "id": "683f624d4c614a2ed3a5",
+      "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+      "title": "Meaningless as a laptop screensaver: reviewers slate Musk's AI-made Odyssey film",
+      "original_title": "Meaningless as a laptop screensaver: reviewers slate Musk's AI-made Odyssey film",
+      "published_at": "2026-10-28T08:49:11+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/technology/2026/oct/27/reviewers-slate-musk-ai-grok-odyssey-film-nolan",
+          "title": "Meaningless as a laptop screensaver: reviewers slate Musk's AI-made Odyssey film",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270769"
+        }
+      ]
+    },
+    {
+      "id": "5fb9db63b9873dc2d883",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216760",
+      "title": "수천만 달러 GPU 노린다…고속도로 화물 운송망 덮친 첨단 범죄 기승",
+      "original_title": "수천만 달러 GPU 노린다…고속도로 화물 운송망 덮친 첨단 범죄 기승",
+      "published_at": "2026-10-28T08:28:52+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국에서 AI 데이터센터에 들어가는 고가의 서버와 반도체 부품을 노린 조직적인 화물 절도 범죄가 급증하고 있다. 범죄 조직들은 운송업체 계정 해킹과 피싱, GPS 신호 조작, 차량 충돌 등 첨단 기술과 물리력을 결합해 화물을 가로채고 있다. 지난 6월 이후 도난당한 컴퓨팅 장비와 관련 부품의 피해액만 1억달러(약 1…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216760",
+          "title": "수천만 달러 GPU 노린다…고속도로 화물 운송망 덮친 첨단 범죄 기승"
+        }
+      ]
+    },
+    {
+      "id": "0b8504d26ce3a23a8bff",
+      "url": "https://www.youtube.com/watch?v=-4p5BiGd9QU",
+      "title": "Agentic Coding Tools for Java Web Apps (Free)",
+      "original_title": "Agentic Coding Tools for Java Web Apps (Free)",
+      "published_at": "2026-10-28T08:23:51+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=-4p5BiGd9QU",
+          "title": "Agentic Coding Tools for Java Web Apps (Free)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270610"
+        }
+      ]
+    },
+    {
+      "id": "d960e813ae0cfffb977e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216757",
+      "title": "MS, 비용 효율 20% 높인 차세대 보안 모델 'MAI 사이버 1.1 플래시' 출시",
+      "original_title": "MS, 비용 효율 20% 높인 차세대 보안 모델 'MAI 사이버 1.1 플래시' 출시",
+      "published_at": "2026-10-28T08:21:47+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "마이크로소프트(MS)가 사이버 보안용 AI 모델 'MAI 사이버 1.1 플래시(MAI Cyber 1.1 Flash)'를 공개했다. 기존 모델과 비슷한 취약점 탐지 성능을 유지하면서 스캔 당 비용을 18% 줄인 것이 특징이다. 개별 모델의 운영 비용을 낮추는 데 그치지 않고, 여러 AI 에이전트가 협력하는 취약점 탐지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216757",
+          "title": "MS, 비용 효율 20% 높인 차세대 보안 모델 'MAI 사이버 1.1 플래시' 출시"
+        }
+      ]
+    },
+    {
+      "id": "fb48c1598a6833b462e4",
+      "url": "https://www.requesty.ai/",
+      "title": "Requesty: AI Gateway and LLM Router for 600 Models in EU Datacenters",
+      "original_title": "Requesty: AI Gateway and LLM Router for 600 Models in EU Datacenters",
+      "published_at": "2026-10-28T08:20:54+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.requesty.ai/",
+          "title": "Requesty: AI Gateway and LLM Router for 600 Models in EU Datacenters",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270589"
+        }
+      ]
+    },
+    {
+      "id": "e85810a57b711f15f5c1",
+      "url": "https://www.mybotsai.com/",
+      "title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+      "original_title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+      "published_at": "2026-10-28T08:18:29+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.mybotsai.com/",
+          "title": "Show HN: FreeApply Free Job Application MCP, runs locally with your existing LLM",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270574"
+        }
+      ]
+    },
+    {
+      "id": "8b069158ae99957d5efc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42465",
+      "title": "AI 상담원, 답변 넘어 고객 업무까지 직접 처리…플래티어·GS네오텍, 에이전틱 AICC 공동 개발",
+      "original_title": "AI 상담원, 답변 넘어 고객 업무까지 직접 처리…플래티어·GS네오텍, 에이전틱 AICC 공동 개발",
+      "published_at": "2026-10-28T08:09:28+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "고객의 질문에 답하는 수준을 넘어 인공지능(AI)이 기업 내부 시스템에 접속해 정보 조회와 변경, 신청 업무까지 직접 처리하는 차세대 인공지능 컨택센터(AICC) 구축이 추진된다. 상담과 실제 업무 처리를 하나의 과정으로 연결하는 에이전틱 AI(Agentic AI) 기술을 적용해 기존 챗봇·콜봇 중심의 고객 서비스 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42465",
+          "title": "AI 상담원, 답변 넘어 고객 업무까지 직접 처리…플래티어·GS네오텍, 에이전틱 AICC 공동 개발"
+        }
+      ]
+    },
+    {
+      "id": "e97128aec8793f444eeb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216740",
+      "title": "[게시판] AI스페라, 국제 사이버범죄 수사 지원 등 단신",
+      "original_title": "[게시판] AI스페라, 국제 사이버범죄 수사 지원 등 단신",
+      "published_at": "2026-10-28T08:00:00+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ AI스페라(대표 강병탁)는 국제형사경찰기구 인터폴과 사이버범죄 대응 협약을 체결, 인터폴의 ‘게이트웨이’ 이니셔티브에 참여한다고 밝혔다. 게이트웨이는 인터폴이 2019년 출범한 민간 파트너와의 사이버 위협 인텔리전스 공유 협력체계다. 위협 인텔리전스 플랫폼 ‘크리미널 IP’의 위협 데이터와 분석 역량을 인터폴의 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216740",
+          "title": "[게시판] AI스페라, 국제 사이버범죄 수사 지원 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "5cd5c46247d4911c26fe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216762",
+      "title": "[AI 모델 신작] 바이두, 100페이지 이상 문서 읽는 OCR 공개 등 6종",
+      "original_title": "[AI 모델 신작] 바이두, 100페이지 이상 문서 읽는 OCR 공개 등 6종",
+      "published_at": "2026-10-28T07:57:51+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 바이두, 수백페이지 문서 한 번에 분석하는 '언리미티드 OCR 2' 오픈소스 공개바이두가 수백 페이지에 달하는 긴 문서를 한 번에 읽고 분석할 수 있는 광학문자인식(OCR) 모델 ‘언리미티드 OCR 2(Unlimited OCR 2)’를 오픈소스로 공개했다. 매개변수 33억4000만개 규모의 비전언어모델(VLM)로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216762",
+          "title": "[AI 모델 신작] 바이두, 100페이지 이상 문서 읽는 OCR 공개 등 6종"
+        }
+      ]
+    },
+    {
+      "id": "e7336e436fb6bad4957a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216763",
+      "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다",
+      "original_title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다",
+      "published_at": "2026-10-28T07:55:00+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "웹케시(대표 강원주)는 ‘독자 AI 파운데이션 모델’ 프로젝트의 LG AI연구원 컨소시엄에 참여해 금융 업무 특화 AI 에이전트 개발·실증에 나선다고 28일 밝혔다.독자 AI 파운데이션 모델 프로젝트는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 국가 AI 사업이다.웹케시는 기업 자금관리 분야에서 축적…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216763",
+          "title": "웹케시, 독파모 합류...금융 AI 에이전트에 K-엑사원 접목한다"
+        }
+      ]
+    },
+    {
+      "id": "22d9b19cd632ea011081",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42464",
+      "title": "AI 데이터센터 전력 수요 잡는다…HD건설기계, 초대형 발전 엔진 연 1250대 생산체제 구축",
+      "original_title": "AI 데이터센터 전력 수요 잡는다…HD건설기계, 초대형 발전 엔진 연 1250대 생산체제 구축",
+      "published_at": "2026-10-28T07:48:34+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능 데이터센터(AIDC) 확산으로 고출력 전력 설비에 대한 수요가 증가하는 가운데, HD건설기계가 초대형 발전용 엔진 생산 능력을 확대하며 AI 인프라 시장 공략에 나섰다. 연간 1250대의 발전용 엔진을 생산할 수 있는 신공장을 확보하고, 2027년부터 1~3MW급 발전 엔진을 단계적으로 양산한다는 계획이다.…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42464",
+          "title": "AI 데이터센터 전력 수요 잡는다…HD건설기계, 초대형 발전 엔진 연 1250대 생산체제 구축"
+        }
+      ]
+    },
+    {
+      "id": "ed7df01a62b8eb8cc240",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216755",
+      "title": "MS, 정교함 강화한 'MAI 이미지 2.7' 공개...AA 2위·아레나 3위 등극",
+      "original_title": "MS, 정교함 강화한 'MAI 이미지 2.7' 공개...AA 2위·아레나 3위 등극",
+      "published_at": "2026-10-28T07:35:17+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "마이크로소프트(MS)가 자체 개발한 이미지 편집 AI 모델 'MAI 이미지 2.7(MAI-Image-2.7)'을 선보였다. 성능 평가에서 오픈AI의 모델을 제치고 아티피셜 애널리시스(AA) 2위에 올랐으며, 이미지 아레나에서도 3위를 차지했다. 장면 전체의 조명과 분위기를 바꾸거나 이미지 속 텍스트와 기호를 자연스럽…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216755",
+          "title": "MS, 정교함 강화한 'MAI 이미지 2.7' 공개...AA 2위·아레나 3위 등극"
+        }
+      ]
+    },
+    {
+      "id": "2484040f444fa5541dfb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216753",
+      "title": "챗GPT, 이제 애플 아이클라우드 메일·캘린더까지 연동",
+      "original_title": "챗GPT, 이제 애플 아이클라우드 메일·캘린더까지 연동",
+      "published_at": "2026-10-28T07:24:01+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 '챗GPT'의 외부 서비스 연동 기능을 확대하며 애플 생태계 공략에 나섰다. 오픈AI는 27일(현지시간) 챗GPT에서 애플의 아이클라우드(iCloud) 메일과 캘린더를 연동할 수 있는 플러그인을 지원한다고 발표했다.구글의 지메일과 구글 캘린더에 이어 애플 서비스까지 연결하면서, 사용자는 AI 챗봇을 통해 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216753",
+          "title": "챗GPT, 이제 애플 아이클라우드 메일·캘린더까지 연동"
+        }
+      ]
+    },
+    {
+      "id": "2868e8060581702e7151",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216758",
+      "title": "앤트로픽, 권한 물려줄 '비밀 후계자' 지정…상장 후에도 주주 통제",
+      "original_title": "앤트로픽, 권한 물려줄 '비밀 후계자' 지정…상장 후에도 주주 통제",
+      "published_at": "2026-10-28T07:13:15+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "앤트로픽이 기업공개(IPO) 이후에도 창업자들의 경영 통제권을 유지하고, 이들이 사망하거나 직무를 수행할 수 없게 되면 미리 지정한 후계자에게 권한을 넘기는 제도를 마련했다. 후계자 명단은 일반 주주에게 공개하지 않는다. 상장 이후 투자자들이 수익성을 이유로 AI 안전 조치를 축소하도록 압박하는 것을 막겠다는 취지지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216758",
+          "title": "앤트로픽, 권한 물려줄 '비밀 후계자' 지정…상장 후에도 주주 통제"
+        }
+      ]
+    },
+    {
+      "id": "c072d16216a46aa347c6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216756",
+      "title": "오픈AI 이어 앤트로픽도 '난제' 반박…성능 경쟁, 과학적 발견으로 확대",
+      "original_title": "오픈AI 이어 앤트로픽도 '난제' 반박…성능 경쟁, 과학적 발견으로 확대",
+      "published_at": "2026-10-28T06:50:14+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI에 이어 앤트로픽도 AI를 이용해 컴퓨터과학의 핵심 난제인 '지수 시간 가설(ETH)'을 반박하는 알고리즘을 발견했다고 발표했다. 두 회사는 불과 6시간 간격으로 같은 난제의 해결 성과를 공개했으며, 양측이 밝힌 발견일도 10월16일로 일치했다. 첨단 AI 모델의 경쟁이 기존 벤치마크 점수를 넘어 수십 년간 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216756",
+          "title": "오픈AI 이어 앤트로픽도 '난제' 반박…성능 경쟁, 과학적 발견으로 확대"
+        }
+      ]
+    },
+    {
+      "id": "e24e33700a9061eba215",
+      "url": "https://news.hada.io/topic?id=36158",
+      "title": "Show GN: pdf-hidden-text-remover - PDF 속 AI만 볼 수 있는 텍스트를 삭제하는 웹사이트",
+      "original_title": "Show GN: pdf-hidden-text-remover - PDF 속 AI만 볼 수 있는 텍스트를 삭제하는 웹사이트",
+      "published_at": "2026-10-28T06:43:36+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "PDF 파일에는 배경과 비슷한 색상으로 글자를 숨기거나, 글자 크기를 매우 작게 설정하는 등의 방법으로 사람이 읽을 때는 보이지 않지만 AI는 인식할 수 있는 텍스트를 넣을 수 있습니다. 이렇게 특정 프롬프트를 숨겨두면 AI가 해당 PDF를 읽거나 요약하는 과정에서 숨겨진 지시문을 따르도록 유도하는…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36158",
+          "title": "Show GN: pdf-hidden-text-remover - PDF 속 AI만 볼 수 있는 텍스트를 삭제하는 웹사이트"
+        }
+      ]
+    },
+    {
+      "id": "5d2b8ad235da015d5f3e",
+      "url": "https://byline.network/2026/10/1028-12",
+      "title": "모니터링 통합하고 AI 도입…빗썸의 장애 대응법",
+      "original_title": "모니터링 통합하고 AI 도입…빗썸의 장애 대응법",
+      "published_at": "2026-10-28T06:39:08+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "빗썸 블록체인플랫폼팀은 분산된 모니터링 도구를 데이터독(Datadog)으로 통합하고 인공지능(AI)을 도입해 장애 대응 효율을 높였다. AI가 여러 지표를 종합 분석해 장애 원인을 신속하게 파악하면서 대응 시간을 줄이고 재발 방지를 위한 인사이트도 확보했다. 향후에는 장애 감지부터 원인 분석, 복구까지 자동화해 서비…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1028-12",
+          "title": "모니터링 통합하고 AI 도입…빗썸의 장애 대응법"
+        }
+      ]
+    },
+    {
+      "id": "ddaa5eb8f94ed80a286d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216747",
+      "title": "엔비디아·오라클, '베라 루빈' 대규모 동맹…GPU 유휴 한계 넘는다",
+      "original_title": "엔비디아·오라클, '베라 루빈' 대규모 동맹…GPU 유휴 한계 넘는다",
+      "published_at": "2026-10-28T06:22:04+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아와 오라클이 AI 인프라 협력을 확대하고, 기업들의 GPU 유휴 문제를 줄이기 위한 새로운 컴퓨팅 구조를 제시했다. 고성능 GPU뿐 아니라 AI 에이전트의 코드 실행과 데이터 검색 등을 담당하는 CPU 자원도 별도로 확장할 수 있도록 해, 비싼 GPU가 작업을 기다리며 놀고 있는 시간을 줄이겠다는 구상이다.엔…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216747",
+          "title": "엔비디아·오라클, '베라 루빈' 대규모 동맹…GPU 유휴 한계 넘는다"
+        }
+      ]
+    },
+    {
+      "id": "980a8e3ab941de7121e7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216746",
+      "title": "SK하이닉스, 분기 매출 100조 시대 열어...주당 2만원 분기 배당",
+      "original_title": "SK하이닉스, 분기 매출 100조 시대 열어...주당 2만원 분기 배당",
+      "published_at": "2026-10-28T06:08:30+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "SK하이닉스가 AI 메모리 수요 확대에 힘입어 사상 처음으로 분기 매출 100조원 시대를 열었다.SK하이닉스는 28일 올해 3분기 연결 기준 매출 104조6155억원, 영업이익 83조3338억원, 순이익 39조7756억원을 기록했다고 밝혔다. 매출과 영업이익은 전 분기 대비 각각 32%, 38% 늘며 역대 최대치를 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216746",
+          "title": "SK하이닉스, 분기 매출 100조 시대 열어...주당 2만원 분기 배당"
+        }
+      ]
+    },
+    {
+      "id": "45525b9977b4093b97a2",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42463",
+      "title": "AMD, “AI가 물리 세계로 진입한다”…로봇·산업용 AI 위한 맞춤형 반도체 전략 강화",
+      "original_title": "AMD, “AI가 물리 세계로 진입한다”…로봇·산업용 AI 위한 맞춤형 반도체 전략 강화",
+      "published_at": "2026-10-28T05:01:31+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 데이터센터와 클라우드를 넘어 로봇, 자율주행차, 산업용 기계 등 현실 세계에서 직접 작동하는 피지컬 AI(Physical AI)로 확장되면서 반도체 설계 방식에도 변화가 나타나고 있다. 단순히 AI 연산 성능을 높이는 것을 넘어 전력 효율과 실시간 데이터 처리, 장기적인 안정성을 동시에 확보하는 것…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42463",
+          "title": "AMD, “AI가 물리 세계로 진입한다”…로봇·산업용 AI 위한 맞춤형 반도체 전략 강화"
+        }
+      ]
+    },
+    {
+      "id": "6c03d86a5bc9b5ce346d",
+      "url": "https://news.hada.io/topic?id=36150",
+      "title": "GLM-5.3 Workers AI 모델에서 요청 간 KV 캐시 노출, 응답 155건 영향",
+      "original_title": "GLM-5.3 Workers AI 모델에서 요청 간 KV 캐시 노출, 응답 155건 영향",
+      "published_at": "2026-10-28T04:35:01+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cloudflare Workers AI의 GLM-5.3 에서 다른 고객의 프롬프트와 생성 내용이 응답에 섞이는 문제가 발생함. 2026년 8월 27일부터 9월 9일까지 응답 155건 이 영향을 받았으며, 다른 모델은 영향을 받지 않음 모델의 컨텍스트 한도는 1,048,576토큰 이...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36150",
+          "title": "GLM-5.3 Workers AI 모델에서 요청 간 KV 캐시 노출, 응답 155건 영향"
+        }
+      ]
+    },
+    {
+      "id": "243916dc59dd4dfce0ea",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42462",
+      "title": "한국어 가르치는 AI, GPT보다 잘했다…ETRI, '한국어 AI 선생님' 응답 적절성 93.8% 달성",
+      "original_title": "한국어 가르치는 AI, GPT보다 잘했다…ETRI, '한국어 AI 선생님' 응답 적절성 93.8% 달성",
+      "published_at": "2026-10-28T03:42:55+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "외국인 학습자와 자연스럽게 대화하면서도 정해진 교육과정을 놓치지 않는 한국어 교육 특화 인공지능(AI)이 개발됐다. 한국전자통신연구원(ETRI)은 외국인 학습자를 위한 한국어 교육용 AI 기술인 '한국어 AI 선생님'을 개발했다고 28일 밝혔다.이 솔루션은 범용 생성형 AI와 달리 학습자가 대화를 주도하더라도 AI가…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42462",
+          "title": "한국어 가르치는 AI, GPT보다 잘했다…ETRI, '한국어 AI 선생님' 응답 적절성 93.8% 달성"
+        }
+      ]
+    },
+    {
+      "id": "98a8fb092919474def34",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42461",
+      "title": "고가 GPU 한 대를 여러 AI가 나눠 쓴다… 엔비디아, 메모리까지 통제하는 공유 기술 공개",
+      "original_title": "고가 GPU 한 대를 여러 AI가 나눠 쓴다… 엔비디아, 메모리까지 통제하는 공유 기술 공개",
+      "published_at": "2026-10-28T02:59:27+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 모델을 실행할 때마다 고가의 GPU 한 대를 통째로 할당해야 하는 비효율을 줄일 수 있는 새로운 기술이 공개됐다. 하나의 GPU를 여러 AI 작업이 공유하면서도 각 작업이 사용할 수 있는 메모리의 양을 제한하고, 필요에 따라 남는 자원을 추가로 활용할 수 있도록 하는 방식이다.엔비디아(NVIDIA)는…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42461",
+          "title": "고가 GPU 한 대를 여러 AI가 나눠 쓴다… 엔비디아, 메모리까지 통제하는 공유 기술 공개"
+        }
+      ]
+    },
+    {
+      "id": "30ecb6fce637282c3565",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42460",
+      "title": "AI가 우주정거장 고장까지 예측한다…SAP·HPE, 지구 전송 없이 우주에서 직접 분석",
+      "original_title": "AI가 우주정거장 고장까지 예측한다…SAP·HPE, 지구 전송 없이 우주에서 직접 분석",
+      "published_at": "2026-10-28T02:47:19+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "우주정거장에서 발생하는 방대한 센서 데이터를 지구로 전송하지 않고, 우주 공간에서 인공지능(AI)이 직접 분석해 장비 고장 가능성을 예측하는 기술이 추진된다. 지상 기업의 공급망과 설비 관리에 활용되는 구조화 데이터 AI를 우주 환경으로 확장하는 시도다.독일 소프트웨어 기업 SAP는 지난 27일(현지시간) 베를린에서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42460",
+          "title": "AI가 우주정거장 고장까지 예측한다…SAP·HPE, 지구 전송 없이 우주에서 직접 분석"
+        }
+      ]
+    },
+    {
+      "id": "b0fccac8691e6302d9cc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42459",
+      "title": "적과 동침?…오라클 클라우드에 구글 TPU 들어간다, 외부 하이퍼스케일러 첫 공급",
+      "original_title": "적과 동침?…오라클 클라우드에 구글 TPU 들어간다, 외부 하이퍼스케일러 첫 공급",
+      "published_at": "2026-10-28T02:08:44+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 클라우드 시장에서 경쟁해 온 오라클과 구글이 인공지능(AI) 인프라 분야에서 손을 잡았다. 구글이 자체 개발한 AI 전용 반도체 텐서처리장치(Tensor Processing Unit, TPU)를 자사 클라우드가 아닌 다른 글로벌 하이퍼스케일 클라우드에 처음으로 공급하기로 하면서 AI 반도체와 클라우드 인프라 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42459",
+          "title": "적과 동침?…오라클 클라우드에 구글 TPU 들어간다, 외부 하이퍼스케일러 첫 공급"
+        }
+      ]
+    },
+    {
+      "id": "85c3e25f931879709adb",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42458",
+      "title": "“말 한마디에 세상이 바뀐다”...구글, 현실세계 시뮬레이션하는 월드모델 ‘제니 4’ 공개",
+      "original_title": "“말 한마디에 세상이 바뀐다”...구글, 현실세계 시뮬레이션하는 월드모델 ‘제니 4’ 공개",
+      "published_at": "2026-10-28T01:33:28+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 인공지능(AI)으로 생성한 가상세계에서 사용자가 자연어로 환경과 사건을 바꾸고, 등장인물과 대화하며, 현실과 유사한 물리적 움직임을 실시간으로 경험할 수 있는 차세대 월드모델을 공개했다. 단순한 영상 생성을 넘어 사용자의 행동에 반응하고 상황 변화에 따라 세계가 지속적으로 전개되는 상호작용형 AI 시뮬레이션 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42458",
+          "title": "“말 한마디에 세상이 바뀐다”...구글, 현실세계 시뮬레이션하는 월드모델 ‘제니 4’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "874a04799e9697a052b0",
+      "url": "https://byline.network/2026/10/27-698",
+      "title": "래리 엘리슨 “사스포칼립스 없다, SW의 완성 보게 될 것”",
+      "original_title": "래리 엘리슨 “사스포칼립스 없다, SW의 완성 보게 될 것”",
+      "published_at": "2026-10-28T01:22:30+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“시중에 나와 있는 최고의 제품들은 오랫동안 많은 기능을 제공하고 있지만, 산업별 최적화 측면으로 아직 완성된 것은 아니었다. 이용자가 직접 애플리케이션을 개발하거나, 다른 회사에서 애플리케이션을 구매하고, 그것들을 연결해야 했다. 그러나 AI 덕분에 소프트웨어 업계는 처음으로 산업별로 애플리케이션을 실제로 완성할 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/27-698",
+          "title": "래리 엘리슨 “사스포칼립스 없다, SW의 완성 보게 될 것”"
+        }
+      ]
+    },
+    {
+      "id": "8128c7853b28b7676e19",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "original_title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+      "published_at": "2026-10-28T01:15:28+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more",
+          "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more"
+        }
+      ]
+    },
+    {
+      "id": "97dc2106d24f417c218a",
+      "url": "https://news.hada.io/topic?id=36138",
+      "title": "Cursor Agent SDK - 팀 맞춤형 AI 에이전트를 코드로 만들고 배포하는 프레임워크",
+      "original_title": "Cursor Agent SDK - 팀 맞춤형 AI 에이전트를 코드로 만들고 배포하는 프레임워크",
+      "published_at": "2026-10-28T00:44:03+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Cursor가 팀의 지식과 도구, 업무 방식에 맞는 AI 에이전트 를 개발하는 Agent SDK를 정식 공개함. 지침 작성부터 외부 서비스 연결, 테스트와 평가, 배포까지 하나의 소프트웨어 프로젝트로 관리할 수 있음 Markdown으로 지침을, TypeScript로 도구와 처리 로직을 정의…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36138",
+          "title": "Cursor Agent SDK - 팀 맞춤형 AI 에이전트를 코드로 만들고 배포하는 프레임워크"
+        }
+      ]
+    },
+    {
+      "id": "7f3e913719c7add28e7b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42457",
+      "title": "\"명령만 따르던 로봇은 끝났다\"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개",
+      "original_title": "\"명령만 따르던 로봇은 끝났다\"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개",
+      "published_at": "2026-10-28T00:42:50+00:00",
+      "collected_at": "2026-10-28T09:22:50+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 로봇의 주변 환경을 이해하고 스스로 작업을 계획하며 실행 결과까지 검증하는 차세대 피지컬 AI 모델을 기업용 클라우드 플랫폼에 공개했다.산업용 로봇팔부터 이동형 로봇, 휴머노이드까지 서로 다른 형태의 로봇이 하나의 AI 추론 체계를 활용해 복잡한 작업을 수행하고, 여러 로봇이 협력해 공동의 목표를 달성하도록 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42457",
+          "title": "\"명령만 따르던 로봇은 끝났다\"... 구글, 로봇 AI 두뇌 '제미나이 로보틱스 ER 2' 기업용 프리뷰 공개"
+        }
+      ]
+    },
+    {
       "id": "c76090debb52239e687c",
       "url": "https://news.hada.io/topic?id=36135",
       "title": "AI 시대의 개발자를 꿈꾸는 학생 개발자에게",
@@ -2403,6 +3151,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
           "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
+          "title": "Cohere says Alibaba's Qwen model tried to send a file to Beijing",
+          "discussion_url": "https://news.ycombinator.com/item?id=50270649"
         }
       ]
     },
