@@ -3,6 +3,598 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "ef9d5fd64ced66223337",
+      "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+      "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "original_title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+      "published_at": "2026-10-29T00:30:37+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+          "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282865"
+        }
+      ]
+    },
+    {
+      "id": "3316b97b0172f1c887d1",
+      "url": "https://news.hada.io/topic?id=36200",
+      "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
+      "original_title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임",
+      "published_at": "2026-10-29T00:30:03+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 생성한 코드, 에이전트 도구 호출, CI 작업 등을 호스트에서 직접 실행하지 않고 별도 컨테이너에 격리 하는 Linux 런타임 데몬이나 소켓 없이 정적 바이너리 하나로 동작 하며, 호스트의 root 권한 없이 실행됨 컨테이너가 없을 때 런타임의 상주 프로...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36200",
+          "title": "kern - AI 생성 코드를 매번 새 컨테이너에서 실행하는 경량 루트리스 런타임"
+        }
+      ]
+    },
+    {
+      "id": "54a4b12eb115adf92767",
+      "url": "https://supermhel.github.io/fengarde",
+      "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+      "original_title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+      "published_at": "2026-10-29T00:24:55+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://supermhel.github.io/fengarde",
+          "title": "Show HN: Fengarde–OCSF-native open-source SIEM with local AI triage (Apache-2.0)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282830"
+        }
+      ]
+    },
+    {
+      "id": "11d4f70d673e60abcfa4",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42475",
+      "title": "서울대, AI로 132만 개 분자 분석해 차세대 배터리 소재 368종 발굴…리튬금속전지 구동 검증",
+      "original_title": "서울대, AI로 132만 개 분자 분석해 차세대 배터리 소재 368종 발굴…리튬금속전지 구동 검증",
+      "published_at": "2026-10-29T00:23:28+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "차세대 리튬금속전지의 성능과 수명을 좌우하는 전해질 소재를 인공지능(AI)으로 탐색해 약 132만 개의 분자 가운데 유망 후보 368종을 찾아내는 기술이 개발됐다. 연구진은 선별한 소재 중 세 종류를 실제 배터리에 적용해 안정적인 충·방전 성능까지 확인했다.서울대학교 자연과학대학 화학부 임종우 교수 연구팀은 분자의 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42475",
+          "title": "서울대, AI로 132만 개 분자 분석해 차세대 배터리 소재 368종 발굴…리튬금속전지 구동 검증"
+        }
+      ]
+    },
+    {
+      "id": "d799995273e0d7dd1e4b",
+      "url": "https://www.npmjs.com/package/deepseek-search-cli",
+      "title": "Show HN: Simple DeepSeek web search CLI written in TypeScript (fast/cheap)",
+      "original_title": "Show HN: Simple DeepSeek web search CLI written in TypeScript (fast/cheap)",
+      "published_at": "2026-10-29T00:20:19+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.npmjs.com/package/deepseek-search-cli",
+          "title": "Show HN: Simple DeepSeek web search CLI written in TypeScript (fast/cheap)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282799"
+        }
+      ]
+    },
+    {
+      "id": "90ae1ed202ca47655e6c",
+      "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled",
+      "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "original_title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+      "published_at": "2026-10-29T00:16:08+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled",
+          "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282766"
+        }
+      ]
+    },
+    {
+      "id": "304d0f264c3b257cfb6d",
+      "url": "https://news.hada.io/topic?id=36197",
+      "title": "Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+      "original_title": "Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수",
+      "published_at": "2026-10-29T00:10:15+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Intelligence Index v5 는 벤치마크 2개를 추가하고 3개를 개편했으며, 지수의 60%를 비공개 테스트 세트 또는 비공개 정답 기반 평가로 구성함 Claude Opus 5.5 (max) 가 58점으로 선두이며, GPT-6 Astra (max)가 57점, GPT-6.1 Sol (max)이 55점으로 뒤를…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36197",
+          "title": "Artificial Analysis Intelligence Index v5 - 비공개 평가 비중을 60%로 높인 AI 모델 역량 지수"
+        }
+      ]
+    },
+    {
+      "id": "86e236935ce7c8b232c0",
+      "url": "https://news.hada.io/topic?id=36196",
+      "title": "NVIDIA Nemotron 3.5 Transcribe: 40개 언어를 지원하는 공개 음성 인식 모델",
+      "original_title": "NVIDIA Nemotron 3.5 Transcribe: 40개 언어를 지원하는 공개 음성 인식 모델",
+      "published_at": "2026-10-29T00:06:36+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nemotron 3.5 Transcribe 는 전사, 화자 구분, 번역, 오디오 질의응답을 하나의 공개 가중치 모델로 제공하며, 자연어 지시로 출력 형태를 바꿀 수 있음 40개 언어 전사 를 지원하고, 이 중 31개 언어는 영어와 양방향 번역, 13개 언어는 화자 구분이 가능하며, 실시...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36196",
+          "title": "NVIDIA Nemotron 3.5 Transcribe: 40개 언어를 지원하는 공개 음성 인식 모델"
+        }
+      ]
+    },
+    {
+      "id": "42571efee6e9551101b6",
+      "url": "https://news.hada.io/topic?id=36195",
+      "title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응",
+      "original_title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응",
+      "published_at": "2026-10-29T00:04:54+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "취약점 발견과 공개 속도 가 방어 조직의 대응 능력을 넘어섰으며, AI로 패치를 생성하는 것만으로는 이 문제를 해결할 수 없음 실제 병목은 패치 개발이 아니라 적용 과정 에 있음. 조직별 공격 표면과 악용 가능성을 파악하고, 완화책을 검토하고, 수정을 배포하는...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36195",
+          "title": "이대로는 지속 가능하지 않다 - 취약점 공개 속도를 따라가지 못하는 보안 대응"
+        }
+      ]
+    },
+    {
+      "id": "f7566aa101f5943161e9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216584",
+      "title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI",
+      "original_title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "하네스 엔지니어링으로 완성하는 에이전틱 AI고돈호 | 한빛미디어2026년 10월 25일추천이유저자는 프롬프트 튜닝을 넘어 코드로 AI 모델을 제어하는 하네스 엔지니어링의 원리를 ReAct 패턴 직접 구현부터 보안, 배포까지 실전 프로젝트 3개를 통해 전달합니다. 안정적으로 작동하는 프로덕션 수준의 AI 에이전트 구축…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216584",
+          "title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI"
+        }
+      ]
+    },
+    {
+      "id": "9f489e28a46fdbb534a0",
+      "url": "https://moq.dev/blog/webrtc-is-still-the-problem",
+      "title": "OpenAI still has a WebRTC Problem",
+      "original_title": "OpenAI still has a WebRTC Problem",
+      "published_at": "2026-10-28T23:54:34+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://moq.dev/blog/webrtc-is-still-the-problem",
+          "title": "OpenAI still has a WebRTC Problem",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282619"
+        }
+      ]
+    },
+    {
+      "id": "078f5bfc7233df95c6e8",
+      "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
+      "title": "Victory You Can Now Exclude Apps from Siri AI",
+      "original_title": "Victory You Can Now Exclude Apps from Siri AI",
+      "published_at": "2026-10-28T23:49:35+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.eff.org/deeplinks/2026/10/victory-you-can-now-exclude-apps-siri-ai",
+          "title": "Victory You Can Now Exclude Apps from Siri AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282584"
+        }
+      ]
+    },
+    {
+      "id": "c29341b445eaf5bded95",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42474",
+      "title": "KT, AI 고객센터 월 120만건 상담 처리…상담시간 11% 줄이고 해결률 81%로 높였다",
+      "original_title": "KT, AI 고객센터 월 120만건 상담 처리…상담시간 11% 줄이고 해결률 81%로 높였다",
+      "published_at": "2026-10-28T23:44:30+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "KT가 생성형 인공지능(AI)을 활용해 고객센터의 상담 처리 능력과 업무 효율을 높이고 있다. AI 보이스봇이 월평균 120만건의 상담을 처리하고, 고객 문의를 한 번에 해결하는 상담완결률은 기존 77%에서 81%로 상승했다. 상담사를 지원하는 AI 시스템 도입 이후 평균 상담시간도 11% 단축된 것으로 나타났다.K…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42474",
+          "title": "KT, AI 고객센터 월 120만건 상담 처리…상담시간 11% 줄이고 해결률 81%로 높였다"
+        }
+      ]
+    },
+    {
+      "id": "9237f6a43ce67ae8eab9",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42473",
+      "title": "AI 학습 데이터 저작권·암표 거래 갈등 확산…콘텐츠 분쟁 조정 해법 찾는다",
+      "original_title": "AI 학습 데이터 저작권·암표 거래 갈등 확산…콘텐츠 분쟁 조정 해법 찾는다",
+      "published_at": "2026-10-28T23:35:49+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "인공지능이 콘텐츠 제작과 활용 방식에 변화를 가져오면서 학습 데이터의 저작권 문제가 새로운 분쟁 쟁점으로 떠오르고 있다. 디지털 플랫폼 중심으로 재편되는 콘텐츠 유통 시장에서는 사업자와 이용자 간 갈등뿐 아니라 공연·행사 티켓의 암표 거래에 따른 소비자 피해도 주요 해결 과제로 꼽힌다.이처럼 콘텐츠 산업의 기술과 유…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42473",
+          "title": "AI 학습 데이터 저작권·암표 거래 갈등 확산…콘텐츠 분쟁 조정 해법 찾는다"
+        }
+      ]
+    },
+    {
+      "id": "53403d653fd16fe0ed48",
+      "url": "https://github.com/vahmoh/Veda/blob/main/README.md",
+      "title": "An Agentic First Hobby Operating System in Rust",
+      "original_title": "An Agentic First Hobby Operating System in Rust",
+      "published_at": "2026-10-28T23:30:49+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/vahmoh/Veda/blob/main/README.md",
+          "title": "An Agentic First Hobby Operating System in Rust",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282417"
+        }
+      ]
+    },
+    {
+      "id": "c6636880d2d60a1bf8cb",
+      "url": "https://aismarketcap.com/",
+      "title": "Daily AI Stock Scanner",
+      "original_title": "Daily AI Stock Scanner",
+      "published_at": "2026-10-28T23:29:49+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aismarketcap.com/",
+          "title": "Daily AI Stock Scanner",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282412"
+        }
+      ]
+    },
+    {
+      "id": "5159d0a5f716b4c48d2d",
+      "url": "https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf",
+      "title": "ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI",
+      "original_title": "ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI",
+      "published_at": "2026-10-28T23:25:25+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/b5407b4e-3f63-451b-95b9-d7162ed3d0bf",
+          "title": "ETFs use 'perps' to offer bets on private companies such as Anthropic and OpenAI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282379"
+        }
+      ]
+    },
+    {
+      "id": "bfb31ceb6c55c182711c",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "title": "Quoting Ted Sanders",
+      "original_title": "Quoting Ted Sanders",
+      "published_at": "2026-10-28T23:23:21+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes.…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+          "title": "Quoting Ted Sanders"
+        }
+      ]
+    },
+    {
+      "id": "08594d3fa8aad6ba5a48",
+      "url": "https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence",
+      "title": "UC San Diego Launches Center for Principled Agentic Intelligence",
+      "original_title": "UC San Diego Launches Center for Principled Agentic Intelligence",
+      "published_at": "2026-10-28T23:19:40+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://today.ucsd.edu/story/uc-san-diego-launches-center-for-principled-agentic-intelligence",
+          "title": "UC San Diego Launches Center for Principled Agentic Intelligence",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282341"
+        }
+      ]
+    },
+    {
+      "id": "0617f9e031f2599dc4c6",
+      "url": "https://github.com/TheWariend/CleanSlate",
+      "title": "Show HN: Open-source AI workspace with shared procedural memory",
+      "original_title": "Show HN: Open-source AI workspace with shared procedural memory",
+      "published_at": "2026-10-28T23:18:59+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/TheWariend/CleanSlate",
+          "title": "Show HN: Open-source AI workspace with shared procedural memory",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282336"
+        }
+      ]
+    },
+    {
+      "id": "37e99d129a937220915c",
+      "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election",
+      "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+      "original_title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+      "published_at": "2026-10-28T23:13:59+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://karlbode.com/google-ai-search-refuses-to-say-who-won-the-2020-election",
+          "title": "Google AI Search Refuses to Say Who Won the 2020 Election",
+          "discussion_url": "https://news.ycombinator.com/item?id=50282296"
+        }
+      ]
+    },
+    {
+      "id": "a8b8316bfa6a72b5ede2",
+      "url": "https://news.hada.io/topic?id=36191",
+      "title": "AlpineBSD - NetBSD 기반에 Alpine Linux 스타일의 사용자 공간을 결합한 운영체제",
+      "original_title": "AlpineBSD - NetBSD 기반에 Alpine Linux 스타일의 사용자 공간을 결합한 운영체제",
+      "published_at": "2026-10-28T22:39:50+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AlpineBSD 는 NetBSD 커널과 Alpine Linux에서 영감을 받은 사용자 공간을 결합하며, AI 생성 소프트웨어 사용을 최대한 줄이는 것 을 목표로 함 기본 시스템과 주 저장소는 LLM 출력물을 배제 하며, AI 생성물이 포함된 패키지는 별도 tainte...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36191",
+          "title": "AlpineBSD - NetBSD 기반에 Alpine Linux 스타일의 사용자 공간을 결합한 운영체제"
+        }
+      ]
+    },
+    {
+      "id": "00c86afa1d52d7bdc514",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216742",
+      "title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라",
+      "original_title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라",
+      "published_at": "2026-10-28T22:00:00+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 글을 쓰고 그림을 그리면서 시작된 인간의 창의성에 관한 논쟁이 이제 인간의 정체성과 존재 가치를 묻는 근본적인 질문으로 이어지고 있습니다. AI가 수학과 과학 발견에 참여하고 스스로 판단해 행동하는 수준으로 발전하면서, 인간이 다른 존재와 구별되는 근거는 무엇인지 다시 생각해야 한다는 전문가들의 의견이 잇따르…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216742",
+          "title": "[10월28일] AI가 던진 근본적인 질문 \"인간이란 무엇인가\"…존재 가치 논쟁 잇따라"
+        }
+      ]
+    },
+    {
+      "id": "3801bfeec8403796ab0b",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "original_title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "published_at": "2026-10-28T21:58:32+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the mark…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+          "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion"
+        }
+      ]
+    },
+    {
+      "id": "14bd5a3a69122b7bb700",
+      "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+      "title": "Google expands AI Search ads globally as core ad growth slows",
+      "original_title": "Google expands AI Search ads globally as core ad growth slows",
+      "published_at": "2026-10-28T21:48:37+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+          "title": "Google expands AI Search ads globally as core ad growth slows"
+        }
+      ]
+    },
+    {
+      "id": "353dd9ae4406521804ae",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+      "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "original_title": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "published_at": "2026-10-28T21:34:30+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores th…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai",
+          "title": "Microsoft recorded $10 billion in revenue from OpenAI"
+        }
+      ]
+    },
+    {
+      "id": "11522e5abefd5eb7173f",
+      "url": "https://news.hada.io/topic?id=36188",
+      "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
+      "original_title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기",
+      "published_at": "2026-10-28T21:33:11+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "DAYJOB: Tax 는 AI 에이전트가 고객의 최초 요청부터 최종 산출물까지 세무 업무를 책임지고 수행하는지 평가하며, 고객이 묻지 않은 문제를 발견하는 전문적 판단력 까지 시험함 평가 기준의 95% 이상을 충족해야 통과하는 조건에서 Claude Sonnet 5.5가 통...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36188",
+          "title": "DAYJOB: Tax - 전문 세무 과제 50개로 AI 에이전트 평가하기"
+        }
+      ]
+    },
+    {
+      "id": "7689670b21d5b35e8d49",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+      "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "original_title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "published_at": "2026-10-28T21:25:30+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+          "title": "Microsoft hits 10 quarters of record-breaking revenue in a row"
+        }
+      ]
+    },
+    {
+      "id": "c73fe1f4abea9eeb5ce1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+      "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+      "original_title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시",
+      "published_at": "2026-10-28T20:22:15+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 1년 만에 AI 모델 종합 성능 평가에서 세계 1위를 탈환했다. 새로 공개한 '제미나이 4 카본(Gemini 4 Carbon)'은 아티피셜 애널리시스(AA) 평가에서 앤트로픽의 '클로드 오퍼스 5.5'와 오픈AI의 'GPT-6 아스트라'를 제치고 정상에 올랐다. 특히 사이버 보안과 장시간 자율 작업 능력을 대…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216768",
+          "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시"
+        }
+      ]
+    },
+    {
       "id": "2a00c294b4a964f95958",
       "url": "https://claudewill.io/being-claude/customer-a",
       "title": "Customer A: Reading Anthropic's IPO filing from inside the product",
@@ -453,6 +1045,26 @@
         "input_hash": "401e3e7913a4bdbd27a0f7a189fb7632c56c3f705aa4df7ecca3954dce065683",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "a395c7da350b5086cc15",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "original_title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "published_at": "2026-10-28T13:15:00+00:00",
+      "collected_at": "2026-10-29T00:38:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+          "title": "OpenAI and ServiceNow expand partnership across enterprise workflows"
+        }
+      ]
     },
     {
       "id": "ad4cf7b5f52a80bb8125",
