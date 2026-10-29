@@ -3,6 +3,957 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b46d23c43d115cba0b35",
+      "url": "https://georgiker.com/blog/ai-did-not-break-education",
+      "title": "AI Did Not Break Education, It Revealed the Bug",
+      "original_title": "AI Did Not Break Education, It Revealed the Bug",
+      "published_at": "2026-10-29T09:20:57+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://georgiker.com/blog/ai-did-not-break-education",
+          "title": "AI Did Not Break Education, It Revealed the Bug",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286401"
+        }
+      ]
+    },
+    {
+      "id": "0813394b5c02541996df",
+      "url": "https://developer.robotics.intel.com/",
+      "title": "Robotics AI Suite",
+      "original_title": "Robotics AI Suite",
+      "published_at": "2026-10-29T09:18:13+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://developer.robotics.intel.com/",
+          "title": "Robotics AI Suite",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286387"
+        }
+      ]
+    },
+    {
+      "id": "4a5ed66c88631f05d157",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "title": "First EU AI Act harmonised standard",
+      "original_title": "First EU AI Act harmonised standard",
+      "published_at": "2026-10-29T09:10:40+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+          "title": "First EU AI Act harmonised standard",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286332"
+        }
+      ]
+    },
+    {
+      "id": "c134f5db8586937d82db",
+      "url": "https://news.hada.io/topic?id=36221",
+      "title": "Ask GN: 비개발자인데, AI가 써 준 메일이 딱 봐도 AI 같습니다. 어떻게 고치세요?",
+      "original_title": "Ask GN: 비개발자인데, AI가 써 준 메일이 딱 봐도 AI 같습니다. 어떻게 고치세요?",
+      "published_at": "2026-10-29T09:09:04+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "영업 일에 AI로 메일이나 글 초안을 쓰는 비개발자입니다. 오늘 아침에 제가 쓴 글을 본 사람한테 너무 AI 같다는 말을 들었어요. 다시 읽어 보니 맞더라고요. 문제, 해결, 결과로 딱 나눈 소제목에 굵은 번호 목록, 문장 끝은 전부 ~습니다였습니다. 그동안은 안 쓰는 단어를 모아서 걸러 왔는데, 단어만으로…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36221",
+          "title": "Ask GN: 비개발자인데, AI가 써 준 메일이 딱 봐도 AI 같습니다. 어떻게 고치세요?"
+        }
+      ]
+    },
+    {
+      "id": "87ca7c9aabadf4204c3a",
+      "url": "https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us",
+      "title": "Out of My Other Mind – What are the defining characteristics of a conscious AI?",
+      "original_title": "Out of My Other Mind – What are the defining characteristics of a conscious AI?",
+      "published_at": "2026-10-29T09:06:14+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://theofficialacm.substack.com/p/what-would-it-take-to-convince-us",
+          "title": "Out of My Other Mind – What are the defining characteristics of a conscious AI?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286307"
+        }
+      ]
+    },
+    {
+      "id": "c213b503aa625efd6760",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42491",
+      "title": "선박 도장 결함도 AI가 찾아낸다…HD현대중공업, 국내 조선업계 최초 자동 검사 시스템 개발",
+      "original_title": "선박 도장 결함도 AI가 찾아낸다…HD현대중공업, 국내 조선업계 최초 자동 검사 시스템 개발",
+      "published_at": "2026-10-29T09:04:07+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "HD현대중공업이 인공지능(AI)을 활용해 선박 표면의 도장 결함을 자동으로 식별하고 분석하는 검사 시스템을 개발했다. 검사자의 육안과 경험에 의존하던 선박 도장 품질검사에 AI를 도입해 검사 결과의 객관성과 일관성을 높이고, 데이터 기반의 품질 관리 체계를 구축하기 위한 기술이다.HD현대중공업은 29일, 국내 조선업…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42491",
+          "title": "선박 도장 결함도 AI가 찾아낸다…HD현대중공업, 국내 조선업계 최초 자동 검사 시스템 개발"
+        }
+      ]
+    },
+    {
+      "id": "9e8a6cc08fde12e12236",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "title": "An AI agent performed brain surgery on a mouse",
+      "original_title": "An AI agent performed brain surgery on a mouse",
+      "published_at": "2026-10-29T09:03:59+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "title": "An AI agent performed brain surgery on a mouse",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286286"
+        }
+      ]
+    },
+    {
+      "id": "7302e2c4a0369bea24d6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216778",
+      "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
+      "original_title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
+      "published_at": "2026-10-29T09:00:15+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "앤트로픽이 직원 한 명으로 운영되던 바이오테크 스타트업을 인수하고 '클로드'를 활용한 자체 신약 개발에 나섰다. 창업자 한 명이 클로드로 외부 연구소 11곳을 관리하며 18개월도 안 돼 희귀 근육질환 치료제의 동물실험에서 성과를 거둔 사례를 바탕으로, AI 중심의 새로운 신약 개발 방식을 시험한다.앤트로픽은 27일(…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216778",
+          "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발"
+        }
+      ]
+    },
+    {
+      "id": "1a6363661301a16a62fe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216802",
+      "title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진",
+      "original_title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 AI 모델 평가업체 아티피셜 애널리시스(AA)가 종합 성능 평가 기준을 대폭 개편하면서 주요 AI 모델의 순위가 달라졌다. 오픈AI의 'GPT-6 아스트라'와 'GPT-6.1 솔'이 상위권으로 올라왔으며, 구글의 최신 모델 '제미나이 4 카본'이 앤트로픽의 '클로드 오퍼스 5.5'를 제치고 1위를 차지했다. …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216802",
+          "title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진"
+        }
+      ]
+    },
+    {
+      "id": "278d4d9597e534e7a46f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216779",
+      "title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성",
+      "original_title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성",
+      "published_at": "2026-10-29T08:50:02+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 40개 언어의 음성을 텍스트로 변환하고 여러 사람이 겹쳐 말하는 상황에서도 화자를 구분하는 오픈웨이트 AI 모델을 공개했다. 자연어 명령으로 받아쓰기 방식을 지정할 수 있고, 전문용어와 고유명사 인식도 지원한다. 공개 음성 인식 모델 성능 평가에서 최고 수준의 정확도를 기록했다.엔비디아는 28일(현지시간)…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216779",
+          "title": "엔비디아, 40개 언어 지원하는 음성 인식 AI 공개…오픈 모델 최고 정확도 달성"
+        }
+      ]
+    },
+    {
+      "id": "2da38b3e4d24bbcded0e",
+      "url": "https://aetheriammorpg.online/",
+      "title": "I Created an MMO (AI Slop?)",
+      "original_title": "I Created an MMO (AI Slop?)",
+      "published_at": "2026-10-29T08:49:39+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aetheriammorpg.online/",
+          "title": "I Created an MMO (AI Slop?)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286161"
+        }
+      ]
+    },
+    {
+      "id": "274d22ff0d03c919596b",
+      "url": "https://www.reuters.com/world/how-teachers-are-remaking-classrooms-ai-age-2026-10-28",
+      "title": "How teachers are remaking classrooms for the AI age",
+      "original_title": "How teachers are remaking classrooms for the AI age",
+      "published_at": "2026-10-29T08:36:54+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/how-teachers-are-remaking-classrooms-ai-age-2026-10-28",
+          "title": "How teachers are remaking classrooms for the AI age",
+          "discussion_url": "https://news.ycombinator.com/item?id=50286068"
+        }
+      ]
+    },
+    {
+      "id": "20c78f41f1e86a03a952",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42490",
+      "title": "구글 클라우드 매출 103% 폭증…알파벳, AI·TPU 앞세워 분기 매출 171조원 돌파",
+      "original_title": "구글 클라우드 매출 103% 폭증…알파벳, AI·TPU 앞세워 분기 매출 171조원 돌파",
+      "published_at": "2026-10-29T08:30:46+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "구글의 인공지능 사업이 클라우드와 자체 AI 반도체, 검색, 소비자 서비스 전반에서 빠르게 성장하며 알파벳의 실적을 견인했다. 특히 구글 클라우드 매출이 전년 동기 대비 두 배 이상 증가하고, 자체 AI 모델의 API 처리량과 제미나이 앱 이용자 규모가 급증하면서 AI 투자가 실제 사업 성과로 연결되고 있다는 분석이…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42490",
+          "title": "구글 클라우드 매출 103% 폭증…알파벳, AI·TPU 앞세워 분기 매출 171조원 돌파"
+        }
+      ]
+    },
+    {
+      "id": "e09b563441626ec614c8",
+      "url": "https://byline.network/2026/10/1029-4",
+      "title": "한컴의 글로벌 진출 승부수 ‘노마디안’…12월 미국 먼저 출시",
+      "original_title": "한컴의 글로벌 진출 승부수 ‘노마디안’…12월 미국 먼저 출시",
+      "published_at": "2026-10-29T08:26:15+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "36년간 국내 시장을 중심으로 사업을 이어온 한글과컴퓨터(한컴)가 인공지능(AI) 워크포스 플랫폼 ‘노마디안(Nomadian)’을 앞세워 미국 시장에 진출한다. 한컴은 기존 문서 소프트웨어 사업 중심에서 벗어나 글로벌 시장을 겨냥한 AI 사업을 확대할 계획이다. 이를 위해 기존 다운로드 방식의 문서 엔진 기술을 분해…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/1029-4",
+          "title": "한컴의 글로벌 진출 승부수 ‘노마디안’…12월 미국 먼저 출시"
+        }
+      ]
+    },
+    {
+      "id": "9fe9a65605603ab3dbd9",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+      "title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
+      "original_title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
+      "published_at": "2026-10-29T08:24:31+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
+          "title": "S.Korea AI chip startup raises $620M at a $2.9B valuation",
+          "discussion_url": "https://news.ycombinator.com/item?id=50285992"
+        }
+      ]
+    },
+    {
+      "id": "47b0d2def3700d9b79ba",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42489",
+      "title": "AI 비전검사 학습 시간 최대 79% 단축…뉴로클, VLM·엣지 AI로 제조 자동화 고도화",
+      "original_title": "AI 비전검사 학습 시간 최대 79% 단축…뉴로클, VLM·엣지 AI로 제조 자동화 고도화",
+      "published_at": "2026-10-29T08:20:11+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 기반 제조 품질검사의 학습 속도를 최대 79% 높이고, 고성능 외장 GPU 없이도 다양한 산업용 하드웨어에서 검사 모델을 실행할 수 있는 기술이 공개됐다. 비전언어모델(VLM)을 활용한 데이터 레이블링과 객체의 회전 방향까지 인식하는 검출 기술을 결합해 제조 현장의 AI 비전검사 효율성을 높인 것이 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42489",
+          "title": "AI 비전검사 학습 시간 최대 79% 단축…뉴로클, VLM·엣지 AI로 제조 자동화 고도화"
+        }
+      ]
+    },
+    {
+      "id": "51d4f42d90ea3b43adfe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216804",
+      "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다",
+      "original_title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다",
+      "published_at": "2026-10-29T08:20:00+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 올해 안에 '챗GPT'의 일반 대화 기능과 업무 자동화 기능(챗GPT 워크)을 통합한다. 이용자가 별도의 작업 모드로 전환하지 않아도 AI에 질문하고 문서를 작성하거나 외부 프로그램을 조작하는 등 복잡한 업무를 하나의 대화에서 처리할 수 있도록 개편할 계획이다. AI가 질문에 답하는 챗봇을 넘어 실제 업무…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216804",
+          "title": "오픈AI, 연내 '챗GPT' 대화·업무 기능 통합…별도 모드 전환 없앤다"
+        }
+      ]
+    },
+    {
+      "id": "78e708cb720aa84a372e",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/what-wall-street-really-thinks-about-the-ai-trade-now",
+      "title": "What Wall Street Thinks About the AI Trade Now",
+      "original_title": "What Wall Street Thinks About the AI Trade Now",
+      "published_at": "2026-10-29T08:17:08+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/what-wall-street-really-thinks-about-the-ai-trade-now",
+          "title": "What Wall Street Thinks About the AI Trade Now",
+          "discussion_url": "https://news.ycombinator.com/item?id=50285918"
+        }
+      ]
+    },
+    {
+      "id": "843c961e52939e15e6ef",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
+      "title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시",
+      "original_title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시",
+      "published_at": "2026-10-29T08:08:52+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "앤트로픽이 기업 법무팀의 계약서 검토와 법률 조사 등을 자동화하는 도구를 출시했다. 법률 문서를 분석해 계약 조건의 문제점을 찾아내고, 여러 국가의 관련 법규를 비교하거나 규제 변화와 법무 요청을 추적하는 기능을 제공한다.앤트로픽은 28일(현지시간) 기업용 법률 AI 서비스 ‘클로드 포 리걸(Claude for Le…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216808",
+          "title": "앤트로픽, 계약서 검토·법률 조사 자동화하는 '클로드' 도구 출시"
+        }
+      ]
+    },
+    {
+      "id": "b60c3f7c0db9fc3a9056",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42488",
+      "title": "우주에서 AI로 광산 찾고 채굴량 계산…유엔산업개발기구, 아프리카 핵심 광물자원 탐사에 위성 AI 투입",
+      "original_title": "우주에서 AI로 광산 찾고 채굴량 계산…유엔산업개발기구, 아프리카 핵심 광물자원 탐사에 위성 AI 투입",
+      "published_at": "2026-10-29T08:06:07+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능과 위성 관측 기술을 결합해 수백 킬로미터 상공에서 광산의 위치와 채굴 활동을 파악하고, 지형 변화를 분석해 굴착량을 추정하는 기술이 아프리카 광물자원 관리에 도입된다. 사람이 직접 접근하기 어려운 광산까지 위성으로 관측하고, 광물의 특성을 반영하는 빛의 파장 정보를 AI로 분석해 새로운 광물 탐사 후보지를 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42488",
+          "title": "우주에서 AI로 광산 찾고 채굴량 계산…유엔산업개발기구, 아프리카 핵심 광물자원 탐사에 위성 AI 투입"
+        }
+      ]
+    },
+    {
+      "id": "1a2b77a3b86bd00ed879",
+      "url": "https://checker.visiblebyagents.com/self-check.html",
+      "title": "Show HN: A free 16-point check for how AI assistants see your website",
+      "original_title": "Show HN: A free 16-point check for how AI assistants see your website",
+      "published_at": "2026-10-29T08:05:41+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://checker.visiblebyagents.com/self-check.html",
+          "title": "Show HN: A free 16-point check for how AI assistants see your website",
+          "discussion_url": "https://news.ycombinator.com/item?id=50285822"
+        }
+      ]
+    },
+    {
+      "id": "032bbfdb4d73a3d7b82d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216803",
+      "title": "오픈AI·앤트로픽, 미 중간선거 앞두고 AI 악용 감시 강화",
+      "original_title": "오픈AI·앤트로픽, 미 중간선거 앞두고 AI 악용 감시 강화",
+      "published_at": "2026-10-29T08:01:55+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "오픈AI와 앤트로픽이 오는 11월3일 미국 중간선거를 앞두고 AI를 악용한 허위정보 유포와 조직적인 여론 조작을 막기 위한 대응을 강화한다. 오픈AI는 수백명의 직원을 투입한 선거 상황실을 가동하고, 앤트로픽은 가짜 언론사 운영과 조직적인 선거 개입을 탐지하는 기능을 개선했다.28일(현지시간) 폴리티코에 따르면, 오…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216803",
+          "title": "오픈AI·앤트로픽, 미 중간선거 앞두고 AI 악용 감시 강화"
+        }
+      ]
+    },
+    {
+      "id": "2041a5b9d28d0017df88",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216798",
+      "title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개",
+      "original_title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개",
+      "published_at": "2026-10-29T07:50:13+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "카카오(대표 정신아)는 개인화 AI 에이전트의 기반 기술인 임베딩 모델 '카나나-2-임베딩’ 2종을 허깅페이스에 오픈소스로 공개했다고 29일 밝혔다.공개한 모델은 30억(3B) 매개변수 규모의 ‘카나나-2-3B-임베딩’과 13억(1.3B) 매개변수의 ‘카나나-2-1.3B-임베딩’ 등 2종이다. 텍스트의 의미를 수치화…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216798",
+          "title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개"
+        }
+      ]
+    },
+    {
+      "id": "1190fc1c07b0ba08eec5",
+      "url": "https://byline.network/2026/10/featuring",
+      "title": "피처링, 인플루언서 섭외 흥정도 AI에 맡긴다",
+      "original_title": "피처링, 인플루언서 섭외 흥정도 AI에 맡긴다",
+      "published_at": "2026-10-29T07:49:49+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "피처링은 28일 서울 강남구 아모리스 역삼에서 열린 첫 컨퍼런스 ‘퓨처링 26’에서 인플루언서 섭외부터 협상, 계약, 콘텐츠 검수까지 맡는 ‘피처링 AI 에이전트’를 공개했다. 피처링은 SNS 데이터를 분석해 인플루언서 마케팅을 돕는 기업이다. 동명의 솔루션 ‘피처링’에서 기업 고객은 인플루언서를 검색하고 캠페인을 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/featuring",
+          "title": "피처링, 인플루언서 섭외 흥정도 AI에 맡긴다"
+        }
+      ]
+    },
+    {
+      "id": "883ec5b66e8850f3f348",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216805",
+      "title": "말레이시아 공항서 160억 규모 AI 칩 압수...중국 밀수 경로 의심",
+      "original_title": "말레이시아 공항서 160억 규모 AI 칩 압수...중국 밀수 경로 의심",
+      "published_at": "2026-10-29T07:48:19+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "말레이시아 세관 당국이 쿠알라룸푸르 국제공항에서 1210만달러(약 160억원) 상당의 첨단 AI 반도체가 탑재된 서버 30대를 압수했다. 세관은 해당 물품이 수출 규제를 피하기 위해 허위 신고된 것으로 보고, 지난 6월 적발된 사건과 연관된 반도체 밀수 조직을 추적하고 있다.로이터는 28일(현지시간) 말레이시아 세관…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216805",
+          "title": "말레이시아 공항서 160억 규모 AI 칩 압수...중국 밀수 경로 의심"
+        }
+      ]
+    },
+    {
+      "id": "2bf7cd66028ce00a946f",
+      "url": "https://openap.org/",
+      "title": "Open Agent Primitives: run enterprise AI agents securely",
+      "original_title": "Open Agent Primitives: run enterprise AI agents securely",
+      "published_at": "2026-10-29T07:44:50+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openap.org/",
+          "title": "Open Agent Primitives: run enterprise AI agents securely",
+          "discussion_url": "https://news.ycombinator.com/item?id=50285645"
+        }
+      ]
+    },
+    {
+      "id": "0d1121035007056acb7e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42487",
+      "title": "“AI는 있는데 생산성은 없다”…세계은행, '유럽·중앙아시아' 기업 AI 활용 격차와 교육 위기 경고",
+      "original_title": "“AI는 있는데 생산성은 없다”…세계은행, '유럽·중앙아시아' 기업 AI 활용 격차와 교육 위기 경고",
+      "published_at": "2026-10-29T07:32:50+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능 시대, 국가 경쟁력을 결정하는 핵심 요소가 첨단 반도체나 고성능 AI 모델 확보만은 아니라는 분석이 나왔다. AI를 업무에 도입하더라도 이를 이해하고 비판적으로 평가하며 생산 현장에 적용할 인력이 부족하면 기술 투자가 실질적인 생산성 향상으로 이어지기 어렵다는 것이다.특히 기초학력 저하와 비판적 사고 능력의…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42487",
+          "title": "“AI는 있는데 생산성은 없다”…세계은행, '유럽·중앙아시아' 기업 AI 활용 격차와 교육 위기 경고"
+        }
+      ]
+    },
+    {
+      "id": "e1545d6b486d46088012",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216800",
+      "title": "중국, 2030년 LLM 세계 선두 전망…미국은 최첨단 모델 우위 유지",
+      "original_title": "중국, 2030년 LLM 세계 선두 전망…미국은 최첨단 모델 우위 유지",
+      "published_at": "2026-10-29T07:30:53+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국이 2030년까지 대형언어모델(LLM)을 비롯한 핵심 기술 분야에서 세계 선두에 오르고, 미국과 함께 AI 시장을 주도할 것이라는 전망이 나왔다. 미국이 최첨단 AI 모델 성능에서 근소한 우위를 유지하겠지만, 중국은 소프트웨어 최적화와 낮은 운영 비용을 앞세워 경쟁력을 높일 것으로 분석됐다.블룸버그 인텔리전스(B…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216800",
+          "title": "중국, 2030년 LLM 세계 선두 전망…미국은 최첨단 모델 우위 유지"
+        }
+      ]
+    },
+    {
+      "id": "f50bf28a94578c0ebc9f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216797",
+      "title": "CXMT, 수율 20%에도 HBM3E 양산 추진…SK하이닉스는 70%",
+      "original_title": "CXMT, 수율 20%에도 HBM3E 양산 추진…SK하이닉스는 70%",
+      "published_at": "2026-10-29T07:26:12+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 최대 D램 제조업체 창신메모리(CXMT)가 생산 수율이 20~30%에 그치는 상황에서도 AI 반도체용 고대역폭메모리(HBM) 생산에 나선다. 미국의 수출 규제로 첨단 메모리 확보가 어려워진 중국 AI 반도체 업계에 공급하기 위해서다. 다만 제품 성능과 생산 효율 모두 SK하이닉스·삼성전자와 격차가 커 당장 경쟁…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216797",
+          "title": "CXMT, 수율 20%에도 HBM3E 양산 추진…SK하이닉스는 70%"
+        }
+      ]
+    },
+    {
+      "id": "a5df86cf85ebe82b62d0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216793",
+      "title": "과기정통부, 내년 피지컬 AI 트레이닝 센터 구축...산업 생태계 육성 본격화",
+      "original_title": "과기정통부, 내년 피지컬 AI 트레이닝 센터 구축...산업 생태계 육성 본격화",
+      "published_at": "2026-10-29T07:14:30+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "과학기술정보통신부가 내년에 피지컬 AI 학습용 데이터를 생산·활용하는 '피지컬 AI 트레이닝센터'를 구축한다. 이와 함께 우정사업본부와 현장 실증사업도 추진한다.과기정통부는 29일 서울 대한상공회의소에서 피지컬 AI 모델·데이터·로봇 업계 등 산학연 전문가들과 이 같은 내용을 포함한 피지컬 AI 정책 방향을 논의했다…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216793",
+          "title": "과기정통부, 내년 피지컬 AI 트레이닝 센터 구축...산업 생태계 육성 본격화"
+        }
+      ]
+    },
+    {
+      "id": "db8b25540a6925bb0837",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216792",
+      "title": "앤트로픽, 기업 AI 투자 효과 분석 도구 출시…성과 측정·비용 관리 지원",
+      "original_title": "앤트로픽, 기업 AI 투자 효과 분석 도구 출시…성과 측정·비용 관리 지원",
+      "published_at": "2026-10-29T07:05:00+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "앤트로픽이 기업의 AI 투자 효과를 분석하는 도구를 출시했다. 단순한 AI 사용량을 넘어 실제 업무에서 어떤 성과를 냈는지, 비용은 얼마나 들었는지 파악할 수 있도록 지원한다. 기업들의 AI 도입이 늘면서 투자 대비 효과를 측정하고 지출을 효율적으로 관리하려는 수요를 겨냥한 것이다.앤트로픽은 28일(현지시간) 기업용…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216792",
+          "title": "앤트로픽, 기업 AI 투자 효과 분석 도구 출시…성과 측정·비용 관리 지원"
+        }
+      ]
+    },
+    {
+      "id": "a94dbc24802cc36bfaa6",
+      "url": "https://news.hada.io/topic?id=36213",
+      "title": "Claude Code는 각 백그라운드 에이전트의 대화 기록을 주기적으로 해당 모델에 전송함",
+      "original_title": "Claude Code는 각 백그라운드 에이전트의 대화 기록을 주기적으로 해당 모델에 전송함",
+      "published_at": "2026-10-29T06:33:51+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Claude Code는 백그라운드 에이전트마다 약 30초 간격으로 전체 대화 기록 을 해당 에이전트의 모델에 보내 3~5단어 상태 요약을 생성함. 결과는 에이전트 패널에만 표시되며 대화나 모델의 문맥에는 들어가지 않음 Flamerix AI의 측정에서 agent_summary 호출은...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36213",
+          "title": "Claude Code는 각 백그라운드 에이전트의 대화 기록을 주기적으로 해당 모델에 전송함"
+        }
+      ]
+    },
+    {
+      "id": "93540e50ee9c87d87c0a",
+      "url": "https://news.hada.io/topic?id=36211",
+      "title": "Show GN: knock - 클로드 코드로 일하는 척하면서 친구랑 점심 메뉴 정하기",
+      "original_title": "Show GN: knock - 클로드 코드로 일하는 척하면서 친구랑 점심 메뉴 정하기",
+      "published_at": "2026-10-29T06:17:33+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Claude Code 안에서 친구와 채팅하는 플러그인을 만들었습니다. ❯ /knock bob ❯ 점심? ⏺ 라멘, 5분 뒤 로비 내가 입력한 말은 친구에게 가고, 친구의 답은 Claude 답변이 뜨는 자리에 뜹니다. 옆에서 보면 Claude와 일하는 중으로 보입니다. 모델을 부르지 않아서 토큰도 쓰지 않…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36211",
+          "title": "Show GN: knock - 클로드 코드로 일하는 척하면서 친구랑 점심 메뉴 정하기"
+        }
+      ]
+    },
+    {
+      "id": "c1ec866d3b20ddbdceed",
+      "url": "https://news.hada.io/topic?id=36210",
+      "title": "Show GN: anti-stuck - Claude Code가 멈춘 명령·서브에이전트를 영원히 기다리지 않게 하는 플러그인",
+      "original_title": "Show GN: anti-stuck - Claude Code가 멈춘 명령·서브에이전트를 영원히 기다리지 않게 하는 플러그인",
+      "published_at": "2026-10-29T06:00:51+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "제가 만든 Claude Code 플러그인입니다. Flutter 앱을 Claude Code로 개발하면서 가장 비싼 실패는 틀린 코드가 아니라 \"기다림\"이었습니다. 하루 동안 실제로 겪은 것들: Marionette MCP connect가 10분 넘게 매달림 (MCP 호출은 Bash 타임아웃 밖. stdio MCP 기본 …",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36210",
+          "title": "Show GN: anti-stuck - Claude Code가 멈춘 명령·서브에이전트를 영원히 기다리지 않게 하는 플러그인"
+        }
+      ]
+    },
+    {
+      "id": "38c750e3c155aaf3879e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42486",
+      "title": "英 정부, “2030년 AI 데이터센터 6GW 필요”…AI 기술주권 확보 위해 국내 데이터센터 용량 확대",
+      "original_title": "英 정부, “2030년 AI 데이터센터 6GW 필요”…AI 기술주권 확보 위해 국내 데이터센터 용량 확대",
+      "published_at": "2026-10-29T05:21:49+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능 경쟁이 모델 개발을 넘어 데이터센터와 전력 인프라 확보 경쟁으로 확대되는 가운데, 영국 정부가 2030년까지 국가적으로 약 6기가와트(GW)의 AI 데이터센터 용량이 필요하다는 전망을 제시했다.AI 기술주권과 국가안보를 확보하기 위해 국내 컴퓨팅 인프라를 확대하되, 전력 비용과 환경 부담, 지역사회에 미치는…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42486",
+          "title": "英 정부, “2030년 AI 데이터센터 6GW 필요”…AI 기술주권 확보 위해 국내 데이터센터 용량 확대"
+        }
+      ]
+    },
+    {
+      "id": "1af94c4ff40c5d148369",
+      "url": "https://byline.network/2026/10/26_2198273",
+      "title": "[RE: 자사몰] 쇼핑몰 사장님, 이제 AI도 골라 쓴다…자사몰이 달라진 자유",
+      "original_title": "[RE: 자사몰] 쇼핑몰 사장님, 이제 AI도 골라 쓴다…자사몰이 달라진 자유",
+      "published_at": "2026-10-29T04:52:23+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "온라인 쇼핑몰은 브랜드마다 필요로 하는 기능이 다르다. 단골이 많은 브랜드는 구매 이력을 분석해 재구매를 이끄는 기능이, 해외 판매를 준비하는 브랜드는 상품 설명을 번역하고 해외 고객 문의에 답하는 기능이 필요하다. 브랜드가 직접 운영하는 자사몰은 오픈마켓 등 플랫폼에 입점하는 것과 달리 자신에게 필요한 기능을 골라…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/26_2198273",
+          "title": "[RE: 자사몰] 쇼핑몰 사장님, 이제 AI도 골라 쓴다…자사몰이 달라진 자유"
+        }
+      ]
+    },
+    {
+      "id": "e496429e973dd9b05858",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42485",
+      "title": "“공장 전체를 AI 로봇으로 운영한다”…파운드리 로보틱스, 1억 달러 유치 '자율제조 본격화'",
+      "original_title": "“공장 전체를 AI 로봇으로 운영한다”…파운드리 로보틱스, 1억 달러 유치 '자율제조 본격화'",
+      "published_at": "2026-10-29T04:46:31+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 개별 로봇의 작업을 제어하는 수준을 넘어 공장 전체의 생산 공정을 운영하는 자율제조 시대가 가시화되고 있다. AI가 로봇의 조립 작업을 계획하고 실행하며, 실제 생산 과정에서 축적한 데이터를 학습해 제조 능력을 개선하는 방식이다.미국 피지컬 AI 기반 제조 스타트업 파운드리 로보틱스(Foundry Robo…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42485",
+          "title": "“공장 전체를 AI 로봇으로 운영한다”…파운드리 로보틱스, 1억 달러 유치 '자율제조 본격화'"
+        }
+      ]
+    },
+    {
+      "id": "225dcb0194a2190f7235",
+      "url": "https://byline.network/2026/10/27-699",
+      "title": "오라클 AI 데이터 플랫폼, ‘AI 에이전트 플랫폼’으로 진화",
+      "original_title": "오라클 AI 데이터 플랫폼, ‘AI 에이전트 플랫폼’으로 진화",
+      "published_at": "2026-10-29T04:26:59+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오라클 AI 데이터 플랫폼이 AI 에이전트를 위한 비즈니스 컨텍스트, 일명 ‘온톨로지’ 제공으로 시선을 옮겼다. 업데이트된 오라클 AI 데이터 플랫폼은 AI 기반 엔터프라이즈 온톨로지, 시맨틱 추론 및 AI 자산 관리 기능을 결합해 조직의 AI를 대규모로 활용할 수 있도록 지원한다. 이름은 AI 데이터 플랫폼인데, …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/27-699",
+          "title": "오라클 AI 데이터 플랫폼, ‘AI 에이전트 플랫폼’으로 진화"
+        }
+      ]
+    },
+    {
+      "id": "7344751a71f0569a2220",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42484",
+      "title": "AI 에이전트가 스스로 작업 승인한다…AWS, 위험한 행동만 사람에게 확인 받는다",
+      "original_title": "AI 에이전트가 스스로 작업 승인한다…AWS, 위험한 행동만 사람에게 확인 받는다",
+      "published_at": "2026-10-29T04:17:16+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 에이전트가 이메일을 보내고 업무 기록을 수정하며 각종 시스템을 직접 조작하는 시대가 열리면서, 사람이 모든 작업을 일일이 승인해야 하는 기존 관리 방식에도 변화가 나타나고 있다. AI 에이전트의 자율성을 확대하면서도 정보 유출이나 권한 변경, 결제 등 중요한 작업에는 사람의 통제권을 유지하는 새로운 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42484",
+          "title": "AI 에이전트가 스스로 작업 승인한다…AWS, 위험한 행동만 사람에게 확인 받는다"
+        }
+      ]
+    },
+    {
+      "id": "eebcf0f8652064f5f29d",
+      "url": "https://news.hada.io/topic?id=36206",
+      "title": "Qwenputer: Qwen3.5 내부에서 작동하는 결정론적 RISC-V CPU",
+      "original_title": "Qwenputer: Qwen3.5 내부에서 작동하는 결정론적 RISC-V CPU",
+      "published_at": "2026-10-29T03:32:48+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Qwenputer 는 Qwen 3.5 4B의 가중치에 RISC-V CPU를 컴파일해 넣은 실험 모델로, 외부 실행 환경이나 도구 호출 없이 모델의 순전파 안에서 산술 연산과 C, MicroPython 코드를 실행함 Gated DeltaNet 상태를 정확한 RAM으로 활용 하며, CPU 회로를 추가 레이어와 차...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36206",
+          "title": "Qwenputer: Qwen3.5 내부에서 작동하는 결정론적 RISC-V CPU"
+        }
+      ]
+    },
+    {
+      "id": "0101adf8e782d6c70c8e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42483",
+      "title": "딥시크 V4 플래시의 진화…AMD GPU 24개로 강화학습, 수학 정확도 49.2% 달성",
+      "original_title": "딥시크 V4 플래시의 진화…AMD GPU 24개로 강화학습, 수학 정확도 49.2% 달성",
+      "published_at": "2026-10-29T03:23:34+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "전체 매개변수가 2840억 개에 달하는 대형 인공지능(AI) 모델 ‘딥시크 V4 플래시(DeepSeek-V4 Flash)’가 단 24개의 GPU를 활용한 강화학습 실험에서 수학 문제 해결 정확도를 30.0%에서 49.2%로 끌어올렸다.이는 대규모 AI 모델의 성능 개선에 필요한 학습과 추론, 보상 평가, 모델 업데이…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42483",
+          "title": "딥시크 V4 플래시의 진화…AMD GPU 24개로 강화학습, 수학 정확도 49.2% 달성"
+        }
+      ]
+    },
+    {
+      "id": "3339bc8c86b49c204ad3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42482",
+      "title": "노트북이 개인용 AI 슈퍼컴퓨터로…엔비디아, 128GB 메모리·1페타플롭스 성능으로 로컬 AI 시대 확대",
+      "original_title": "노트북이 개인용 AI 슈퍼컴퓨터로…엔비디아, 128GB 메모리·1페타플롭스 성능으로 로컬 AI 시대 확대",
+      "published_at": "2026-10-29T03:06:44+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "클라우드 데이터센터에서 실행하던 고성능 인공지능(AI) 모델을 개인용 노트북에서 직접 구동하는 시대가 본격화되고 있다. 대용량 메모리와 고성능 AI 가속기를 하나의 칩에 통합하면서 노트북이 단순한 업무용 컴퓨터를 넘어 AI 모델 개발과 추론, 에이전트 실행까지 수행하는 개인용 AI 슈퍼컴퓨터로 진화하고 있다.엔비디아…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42482",
+          "title": "노트북이 개인용 AI 슈퍼컴퓨터로…엔비디아, 128GB 메모리·1페타플롭스 성능으로 로컬 AI 시대 확대"
+        }
+      ]
+    },
+    {
+      "id": "8487c8150e96dd1e6345",
+      "url": "https://news.hada.io/topic?id=36205",
+      "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
+      "original_title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기",
+      "published_at": "2026-10-29T02:39:59+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "안녕하세요. 저희는 AI와 사람 간의 실시간 음성 통신 기술을 개발하고 있습니다. \"단순 일상 대화가 아니라 식당 예약처럼 실제 비즈니스 업무를 수행하는 음성 에이전트를 만드는 게 가능한가?\"라는 의문에서 출발해, 실제 데모를 구현하며 겪은 생성형 LLM의 한계와 이를 비생성형 판별 모델인 ...…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36205",
+          "title": "Show GN: 생성형 LLM 없이 만든 실시간 음성 예약 봇 데모 - jev 활용기"
+        }
+      ]
+    },
+    {
+      "id": "39b00356f572b551e15b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42481",
+      "title": "“변호사도 따를 수밖에 없다”…앤트로픽, 법률 AI로 계약 검토·규제 분석·법무 관리까지 자동화",
+      "original_title": "“변호사도 따를 수밖에 없다”…앤트로픽, 법률 AI로 계약 검토·규제 분석·법무 관리까지 자동화",
+      "published_at": "2026-10-29T02:38:01+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "생성형 인공지능(AI)이 법률 문서를 요약하거나 질문에 답하는 수준을 넘어 계약서를 대량으로 검토하고, 법률 인용의 정확성을 확인하며, 국가별 규제 변화와 법무 업무 진행 상황까지 관리하는 실무 도구로 진화하고 있다. 법률 전문가가 AI에 개별 업무를 지시하는 방식에서 벗어나, 반복적인 법무 업무를 수행하는 전용 도…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42481",
+          "title": "“변호사도 따를 수밖에 없다”…앤트로픽, 법률 AI로 계약 검토·규제 분석·법무 관리까지 자동화"
+        }
+      ]
+    },
+    {
+      "id": "abb275a938798c9d74d9",
+      "url": "https://news.hada.io/topic?id=36204",
+      "title": "Show GN: Ferryx - Windows·Linux에서도 쓸 수 있는 코딩 에이전트용 네이티브 터미널",
+      "original_title": "Show GN: Ferryx - Windows·Linux에서도 쓸 수 있는 코딩 에이전트용 네이티브 터미널",
+      "published_at": "2026-10-29T02:06:32+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Claude Code, Codex 같은 에이전트 여러 개를 터미널 탭에 띄워 놓고 쓰는 용도로 만든 데스크톱 터미널입니다. macOS, Windows, Linux에서 다 돕니다. 쉽게 말하면 Orca + cmux + Herdr 를 만들고 싶었습니다. 특히 신경 쓴 건 이 두 개예요. 앱을 닫아도 에이전트가 안 죽습니…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36204",
+          "title": "Show GN: Ferryx - Windows·Linux에서도 쓸 수 있는 코딩 에이전트용 네이티브 터미널"
+        }
+      ]
+    },
+    {
+      "id": "5d9316e9396915c5dc1a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42480",
+      "title": "“구글 미쳤다”…2주 만에 또 최강 AI 공개, 지능지수 59점 세계 1위 '제미나이 4 카본' 출시",
+      "original_title": "“구글 미쳤다”…2주 만에 또 최강 AI 공개, 지능지수 59점 세계 1위 '제미나이 4 카본' 출시",
+      "published_at": "2026-10-29T02:01:56+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 인공지능(AI) 경쟁이 모델의 추론 성능을 넘어 소프트웨어 개발과 사이버보안, 장시간 자율적으로 업무를 수행하는 에이전틱 AI 영역으로 확대되고 있다. 특히 AI가 복잡한 소프트웨어의 취약점을 스스로 찾아내고, 실제 악용 가능성을 검증한 뒤 수정 코드까지 작성하는 능력이 차세대 프론티어 모델의 핵심 경쟁력으로…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42480",
+          "title": "“구글 미쳤다”…2주 만에 또 최강 AI 공개, 지능지수 59점 세계 1위 '제미나이 4 카본' 출시"
+        }
+      ]
+    },
+    {
+      "id": "301ac405cc42143887fc",
+      "url": "https://news.hada.io/topic?id=36202",
+      "title": "Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국...",
+      "original_title": "Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국...",
+      "published_at": "2026-10-29T01:33:07+00:00",
+      "collected_at": "2026-10-29T09:29:53+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "10월 24일 공개된 33B 오픈 모델 Nanbeige4.3을 정답이 있는 한국어 문서 RAG 시험지(Allganize, 299문항)로 채점했습니다. 에이전트 코딩용 모델이지만, 한국어 환경에서 에이전트로 쓰려면 한국어 문서를 읽고 근거로 답하는 기초가 필요해서 그 부분만 쟀습니다. 모든 모델이 같은 검색 결과 5쪽…",
+      "sources": [
+        {
+          "source_id": "geeknews",
+          "url": "https://news.hada.io/topic?id=36202",
+          "title": "Nanbeige4.3 33B, 한국어 문서 RAG 299문항 직접 채점: 공식 벤치마크에선 qwen3.8 27B를 이겼지만 한국..."
+        }
+      ]
+    },
+    {
       "id": "ef9d5fd64ced66223337",
       "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
       "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
