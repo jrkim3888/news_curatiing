@@ -3,6 +3,561 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "967be99077d13f07b201",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+      "title": "The AI cost of JavaScript frameworks",
+      "original_title": "The AI cost of JavaScript frameworks",
+      "published_at": "2026-10-29T19:59:58+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
+          "title": "The AI cost of JavaScript frameworks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294925"
+        }
+      ]
+    },
+    {
+      "id": "b99193b2fcf765206569",
+      "url": "https://lagomor.ph/indieweb/20261029/1313-note",
+      "title": "A Catalog of AI Failure Modes",
+      "original_title": "A Catalog of AI Failure Modes",
+      "published_at": "2026-10-29T19:57:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://lagomor.ph/indieweb/20261029/1313-note",
+          "title": "A Catalog of AI Failure Modes",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294889"
+        }
+      ]
+    },
+    {
+      "id": "5229178591e013ae66fa",
+      "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+      "title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "original_title": "OpenAI-backed Thrive Holdings acquires ADT",
+      "published_at": "2026-10-29T19:56:19+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt",
+          "title": "OpenAI-backed Thrive Holdings acquires ADT"
+        }
+      ]
+    },
+    {
+      "id": "0c770f6a4aab8133452e",
+      "url": "https://github.com/jdbrewer/ccfleet",
+      "title": "Show HN: ccfleet, a quiet, tmux-native Claude Code dashboard",
+      "original_title": "Show HN: ccfleet, a quiet, tmux-native Claude Code dashboard",
+      "published_at": "2026-10-29T19:50:05+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/jdbrewer/ccfleet",
+          "title": "Show HN: ccfleet, a quiet, tmux-native Claude Code dashboard",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294799"
+        }
+      ]
+    },
+    {
+      "id": "5dd3cec3bc12d56463e2",
+      "url": "https://bakigul.substack.com/p/yapay-zeka-buyuk-bir-teknoloji-degil",
+      "title": "AI Is Not an Important Technology",
+      "original_title": "AI Is Not an Important Technology",
+      "published_at": "2026-10-29T19:42:38+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bakigul.substack.com/p/yapay-zeka-buyuk-bir-teknoloji-degil",
+          "title": "AI Is Not an Important Technology",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294706"
+        }
+      ]
+    },
+    {
+      "id": "e7b82032d2458530ba61",
+      "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
+      "title": "Let China Copy American AI",
+      "original_title": "Let China Copy American AI",
+      "published_at": "2026-10-29T19:38:18+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.economist.com/leaders/2026/10/29/let-china-copy-american-ai",
+          "title": "Let China Copy American AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294648"
+        }
+      ]
+    },
+    {
+      "id": "bcec163961066c468587",
+      "url": "https://memgraph.com/blog/ai-memory-persistent-context",
+      "title": "AI Memory on Memgraph: Persistent Context Across Session, Team and Organization",
+      "original_title": "AI Memory on Memgraph: Persistent Context Across Session, Team and Organization",
+      "published_at": "2026-10-29T19:36:57+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://memgraph.com/blog/ai-memory-persistent-context",
+          "title": "AI Memory on Memgraph: Persistent Context Across Session, Team and Organization",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294627"
+        }
+      ]
+    },
+    {
+      "id": "2086ec152456586631a8",
+      "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+      "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "original_title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+      "published_at": "2026-10-29T19:25:48+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://divergencelabs.com/publications/ige-preprint.pdf",
+          "title": "IgE disruptor for food allergy with Claude-enabled antibody design [pdf]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294486"
+        }
+      ]
+    },
+    {
+      "id": "79cec0107600d9d54854",
+      "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+      "title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "original_title": "Meta quietly launches an AI fashion app called Style Sketch",
+      "published_at": "2026-10-29T19:14:36+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or upload…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch",
+          "title": "Meta quietly launches an AI fashion app called Style Sketch"
+        }
+      ]
+    },
+    {
+      "id": "c80135a2aafb9f19bbfa",
+      "url": "https://securityboulevard.com/2026/10/scams-overtake-phishing-as-crooks-industrialize-fraud-with-ai",
+      "title": "Scams Overtake Phishing as Crooks Industrialize Fraud with AI",
+      "original_title": "Scams Overtake Phishing as Crooks Industrialize Fraud with AI",
+      "published_at": "2026-10-29T19:10:06+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://securityboulevard.com/2026/10/scams-overtake-phishing-as-crooks-industrialize-fraud-with-ai",
+          "title": "Scams Overtake Phishing as Crooks Industrialize Fraud with AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50294280"
+        }
+      ]
+    },
+    {
+      "id": "3e7c26f588631c0faae7",
+      "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+      "title": "Granola crunches up a dictation feature to compete with Wispr",
+      "original_title": "Granola crunches up a dictation feature to compete with Wispr",
+      "published_at": "2026-10-29T17:54:38+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr",
+          "title": "Granola crunches up a dictation feature to compete with Wispr"
+        }
+      ]
+    },
+    {
+      "id": "e65fcafff408f8083fa1",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+      "title": "AI 에이전트가 자율 개발하는 멀티플레이어 게임 월드 'Spawn' 사례 소개",
+      "original_title": "Building a multiplayer game world with autonomous Fable-class models",
+      "published_at": "2026-10-29T17:00:26+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinat…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world",
+          "title": "Building a multiplayer game world with autonomous Fable-class models"
+        }
+      ],
+      "summary": "사이먼 윌리슨은 제이콥 샌즈버리가 Spawn을 개발하는 방식을 소개하는 글을 공유했다. Spawn은 플레이어가 프롬프트로 게임 세계를 수정할 수 있는 대규모 멀티플레이어 환경이며, 샌즈버리에 따르면 Fable 기반 에이전트 무리가 월 300만 달러 이상의 토큰 비용으로 자율 개발하고 있다. 윌리슨은 직접 휴대폰으로 성을 만들고 드래곤을 소환해 타고 날아다녀 봤다고 전했다.",
+      "why_it_matters": "게임 개발이 오늘날 코딩 에이전트의 자율성 한계를 실험하는 장으로 쓰일 수 있음을 보여주는 사례다. 다만 실패 시 위험이 큰 소프트웨어에 이 방식이 일반화될 수 있을지는 의문이라는 것이 윌리슨의 시각이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-29T20:06:10+00:00",
+        "input_hash": "7b1247ebe44e5c8dfa8e31b5902ba15972509d70df0b407abbd49d1e6376cbe7",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "9349f418e7bc7ab45091",
+      "url": "https://openai.com/index/updated-model-spec",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "original_title": "An updated Model Spec for more capable and beneficial AI",
+      "published_at": "2026-10-29T17:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/updated-model-spec",
+          "title": "An updated Model Spec for more capable and beneficial AI"
+        }
+      ]
+    },
+    {
+      "id": "927698c982f0f5113cd1",
+      "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+      "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "original_title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "published_at": "2026-10-29T17:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity",
+          "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity"
+        }
+      ]
+    },
+    {
+      "id": "990b533cbb64ab7a1489",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+      "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "original_title": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "published_at": "2026-10-29T16:42:32+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Ti…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
+          "title": "US investigated Chinese spy plot aimed at Nvidia CEO"
+        }
+      ]
+    },
+    {
+      "id": "06fa0e4540548db09e4e",
+      "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "original_title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "published_at": "2026-10-29T16:21:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction",
+          "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction"
+        }
+      ]
+    },
+    {
+      "id": "c37d4b7dab3a156e6535",
+      "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
+      "title": "NVIDIA, MLIP 추론 가속 위한 Tensor Core FP32 기법 성능 평가 공개",
+      "original_title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials",
+      "published_at": "2026-10-29T15:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Atomistic simulations help researchers understand how molecules and materials behave, from chemical reactions and phase transitions to mechanical failure. These... Atomistic sim…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/unlocking-tensor-core-performance-for-machine-learning-interatomic-potentials",
+          "title": "Unlocking Tensor Core Performance for Machine Learning Interatomic Potentials"
+        }
+      ],
+      "summary": "NVIDIA가 머신러닝 원자간 포텐셜(MLIP)인 PET의 추론 성능을 Tensor Core FP32 기법으로 평가한 결과를 공개했다. Blackwell GPU에서는 BF16x9가 17,280원자 워크로드의 대형 GEMM을 2.2~2.5배 가속했고, Ampere GPU에서는 TF32x3가 A100에서 1.7~1.9배 가속을 보였다. 회사 측은 이 기법이 모델 재학습이나 아키텍처 변경 없이 FP32에 가까운 정확도를 유지한다고 밝혔다.",
+      "why_it_matters": "분자 시뮬레이션은 힘 계산의 수치 정밀도에 민감해 FP32를 고수해 왔다. Tensor Core FP32 기법이 정확도를 유지하면서 추론을 가속할 수 있다면, 더 큰 시스템과 긴 시간 규모의 시뮬레이션 연구에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-29T20:06:08+00:00",
+        "input_hash": "7967ad588c215c1c73801f0719045289ef31f99ee76a27f27eb382b7536f9e41",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "f8adb1021dcc3d4cffb4",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "original_title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "published_at": "2026-10-29T14:35:26+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
+          "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round"
+        }
+      ]
+    },
+    {
+      "id": "2d0c2102a71995514b23",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "title": "Quoting Ben Hylak",
+      "original_title": "Quoting Ben Hylak",
+      "published_at": "2026-10-29T14:06:27+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our pro…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+          "title": "Quoting Ben Hylak"
+        }
+      ]
+    },
+    {
+      "id": "e508e29ae812fe586e8d",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "title": "IBM, Granite Switch 4.1.1 패치 릴리스 발표",
+      "original_title": "Granite Switch 4.1.1 — Update models like you update software",
+      "published_at": "2026-10-29T13:37:07+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+          "title": "Granite Switch 4.1.1 — Update models like you update software"
+        }
+      ],
+      "summary": "IBM이 Granite Switch 4.1.1 패치 릴리스를 발표했다. 이 버전은 4.1과 완전히 역호환되며 마이그레이션이 필요 없고, 10개 언어를 지원하는 Granite Speech ASR 모델과 granitelib-core의 Decision 어댑터가 업데이트됐다. IBM은 기본 모델을 재계산하지 않고 어댑터만 구성해 배포하는 방식으로 빠르게 업데이트를 출시했다고 밝혔다.",
+      "why_it_matters": "모듈형 어댑터 구조를 통해 모델 업데이트를 소프트웨어 패치처럼 신속하게 배포할 수 있는 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-29T20:06:04+00:00",
+        "input_hash": "2a40034a20312be0f3c807ec528813f4337925449f3ebdf37b9a97e584439567",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "503de030fe6362057002",
+      "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "original_title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "published_at": "2026-10-29T13:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions",
+          "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions"
+        }
+      ]
+    },
+    {
+      "id": "03a7d63dd6bfd6166f62",
+      "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "original_title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "published_at": "2026-10-29T13:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure",
+          "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "7aeace9da75d018b28a1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42495",
+      "title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서",
+      "original_title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서",
+      "published_at": "2026-10-29T12:59:47+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "미국 방산 기술기업 안두릴 인더스트리즈(Anduril Industries)와 반도체 기업 퀄컴 테크놀로지스(Qualcomm Technologies)가 미국 내 컴퓨터 제조 기반을 재건하기 위해 손잡았다. 양사는 퀄컴의 인공지능(AI) 반도체를 탑재한 미국산 노트북을 시작으로 정부와 국방, 공공·안전 분야에 필요한 컴…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42495",
+          "title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서"
+        }
+      ]
+    },
+    {
+      "id": "5447a4608c5ea03be753",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42494",
+      "title": "아마존, 보고 듣고 판단하는 AI로 집안 전체 연결…알렉사 탑재 스마트 기기 5종 공개",
+      "original_title": "아마존, 보고 듣고 판단하는 AI로 집안 전체 연결…알렉사 탑재 스마트 기기 5종 공개",
+      "published_at": "2026-10-29T12:09:29+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존(Amazon)이 카메라로 주변 사물을 인식하고, 수면 상태를 감지하며, 집안의 가전제품을 통합 관리하는 차세대 인공지능(AI) 기기 5종을 28일(현지시간) 공개했다. 음성 명령에 응답하는 기존 스마트 스피커에서 벗어나 시각 정보와 환경 센서, 생성형 AI를 결합해 사용자의 생활 환경을 이해하고 복잡한 요청까…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42494",
+          "title": "아마존, 보고 듣고 판단하는 AI로 집안 전체 연결…알렉사 탑재 스마트 기기 5종 공개"
+        }
+      ]
+    },
+    {
+      "id": "d17e1968fa0968c4795f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42493",
+      "title": "구글, 싱가포르 의료체계에 프론티어 AI 도입…국가 단위 질병 예측·AI 진료 지원 본격화",
+      "original_title": "구글, 싱가포르 의료체계에 프론티어 AI 도입…국가 단위 질병 예측·AI 진료 지원 본격화",
+      "published_at": "2026-10-29T11:54:20+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 싱가포르 정부 및 주요 의료·연구기관과 협력해 첨단 인공지능(AI)을 국가 의료체계에 적용하는 대규모 협력에 나섰다. 의료진의 임상 의사결정을 지원하는 AI부터 인구집단별 질병 위험 예측, 개인 맞춤형 건강관리, 감염병 조기 탐지까지 프론티어 AI(Frontier AI)의 활용 범위를 확대한다는 계획이다.구글…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42493",
+          "title": "구글, 싱가포르 의료체계에 프론티어 AI 도입…국가 단위 질병 예측·AI 진료 지원 본격화"
+        }
+      ]
+    },
+    {
+      "id": "97b53cf04e7f69031bef",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42492",
+      "title": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.8조원, 글로벌 AI 반도체 시장 공략 가속",
+      "original_title": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.8조원, 글로벌 AI 반도체 시장 공략 가속",
+      "published_at": "2026-10-29T09:47:01+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "국내 인공지능(AI) 반도체 기업 퓨리오사AI(FuriosaAI. 대표 백준호)는 총 8200억원 규모의 시리즈 D 투자유치를 완료해 투자 전 기업가치 3조원, 투자 후 기업가치 약 3조8000억원을 인정받았으며, 확보한 자금을 바탕으로 자체 개발 AI 반도체의 글로벌 상용화 확대와 차세대 AI 가속기 개발에 속도를…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42492",
+          "title": "퓨리오사AI, 8200억원 투자 유치…기업가치 3.8조원, 글로벌 AI 반도체 시장 공략 가속"
+        }
+      ]
+    },
+    {
       "id": "b46d23c43d115cba0b35",
       "url": "https://georgiker.com/blog/ai-did-not-break-education",
       "title": "AI Did Not Break Education, It Revealed the Bug",
@@ -184,6 +739,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216802",
           "title": "AAII 평가 대폭 개편에 순위 변동…구글 1위·오픈AI 약진"
+        }
+      ]
+    },
+    {
+      "id": "0f01adb2acab0a67ba71",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "title": "How we detect frontier model misalignment",
+      "original_title": "How we detect frontier model misalignment",
+      "published_at": "2026-10-29T09:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+          "title": "How we detect frontier model misalignment"
         }
       ]
     },
@@ -630,6 +1205,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216792",
           "title": "앤트로픽, 기업 AI 투자 효과 분석 도구 출시…성과 측정·비용 관리 지원"
+        }
+      ]
+    },
+    {
+      "id": "d948735545c20cf30721",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "original_title": "How Ropes & Gray is developing AI for transactional diligence",
+      "published_at": "2026-10-29T07:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/ropes-gray-ai-diligence",
+          "title": "How Ropes & Gray is developing AI for transactional diligence"
         }
       ]
     },
@@ -1154,6 +1749,75 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216584",
           "title": "[AI리더의 서가] 하네스 엔지니어링으로 완성하는 에이전틱 AI"
+        }
+      ]
+    },
+    {
+      "id": "b6b30743068c26272d89",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "original_title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/mistral-large4",
+          "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
+        }
+      ]
+    },
+    {
+      "id": "718617961cab3abcc8e8",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "title": "프로젝트 프로토스타 발표: 공공 지원 과학 연구의 AI 활용 촉진 이니셔티브",
+      "original_title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/announcing-project-protostar",
+          "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready"
+        }
+      ],
+      "summary": "프로젝트 프로토스타는 대학, 연구 기관, 산업계, 오픈 사이언스 커뮤니티가 협력하여 공공 지원 과학 연구의 데이터셋, 모델, 코드를 AI가 활용 가능한 형식으로 공개하고 재사용을 촉진하는 이니셔티브다. 첫 번째 챌린지는 카네기멜런 대학이 주최하며 2026년 11월 2일부터 13일까지 진행되고, 210개 미국 도시의 역사적 날씨 데이터를 사용해 도시 기후 조건 예측을 개선하는 것을 목표로 한다.",
+      "why_it_matters": "공공 지원 연구 성과의 접근성과 재사용성을 높여 AI 기반 과학 발견을 가속화하고, 연구 인프라와 정책에 대한 실질적 증거를 제공할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-29T20:05:59+00:00",
+        "input_hash": "6e63327ddb8bf8a263a62c7f5b510e1ee775f4013a1aaaa786fa10fcf9392e3c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "6394645bd5105adc5435",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "original_title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "collected_at": "2026-10-29T20:05:32+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms"
         }
       ]
     },
