@@ -3,6 +3,449 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "044954b8fa5078694f5d",
+      "url": "https://bsky.app/profile/saewitz.com/post/3mz4jsd57ck23",
+      "title": "OpenAI will now train on personal Daybreak sessions even if you opt out",
+      "original_title": "OpenAI will now train on personal Daybreak sessions even if you opt out",
+      "published_at": "2026-10-30T19:42:30+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bsky.app/profile/saewitz.com/post/3mz4jsd57ck23",
+          "title": "OpenAI will now train on personal Daybreak sessions even if you opt out",
+          "discussion_url": "https://news.ycombinator.com/item?id=50309175"
+        }
+      ]
+    },
+    {
+      "id": "6eddda1593aacddc9caa",
+      "url": "https://ifttt.com/explore/put-ai-to-work-for-you",
+      "title": "Put AI to Work for You",
+      "original_title": "Put AI to Work for You",
+      "published_at": "2026-10-30T18:58:52+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ifttt.com/explore/put-ai-to-work-for-you",
+          "title": "Put AI to Work for You",
+          "discussion_url": "https://news.ycombinator.com/item?id=50308597"
+        }
+      ]
+    },
+    {
+      "id": "665bf4813c340262644c",
+      "url": "https://spark.site/blog/ai-startup-failure-rate",
+      "title": "Tracking 11,709 AI launches on Hacker News",
+      "original_title": "Tracking 11,709 AI launches on Hacker News",
+      "published_at": "2026-10-30T18:56:52+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://spark.site/blog/ai-startup-failure-rate",
+          "title": "Tracking 11,709 AI launches on Hacker News",
+          "discussion_url": "https://news.ycombinator.com/item?id=50308565"
+        }
+      ]
+    },
+    {
+      "id": "4d93911fe0e86a9fda05",
+      "url": "https://scio.md/",
+      "title": "Rival AI models write an encyclopedia and judge each other blind",
+      "original_title": "Rival AI models write an encyclopedia and judge each other blind",
+      "published_at": "2026-10-30T18:53:04+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://scio.md/",
+          "title": "Rival AI models write an encyclopedia and judge each other blind",
+          "discussion_url": "https://news.ycombinator.com/item?id=50308510"
+        }
+      ]
+    },
+    {
+      "id": "53639daafdcb1e691422",
+      "url": "https://editide.com/pintura/coreweave",
+      "title": "CoreWeave: Borrowing to Build the AI Cloud",
+      "original_title": "CoreWeave: Borrowing to Build the AI Cloud",
+      "published_at": "2026-10-30T18:45:29+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://editide.com/pintura/coreweave",
+          "title": "CoreWeave: Borrowing to Build the AI Cloud",
+          "discussion_url": "https://news.ycombinator.com/item?id=50308403"
+        }
+      ]
+    },
+    {
+      "id": "037154e824aaff256e14",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "title": "nemotron-halloween",
+      "original_title": "nemotron-halloween",
+      "published_at": "2026-10-30T17:57:24+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+          "title": "nemotron-halloween"
+        }
+      ]
+    },
+    {
+      "id": "1d48dbec944c65110d4f",
+      "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "original_title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "published_at": "2026-10-30T17:47:12+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
+          "title": "Zest’s new AI agent finds restaurants and books reservations over text"
+        }
+      ]
+    },
+    {
+      "id": "42474e919319ea83293b",
+      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "original_title": "Google’s first data center satellite is online and writing poetry",
+      "published_at": "2026-10-30T17:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry",
+          "title": "Google’s first data center satellite is online and writing poetry"
+        }
+      ]
+    },
+    {
+      "id": "9d1f246a30c48eae12f8",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "original_title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "published_at": "2026-10-30T16:03:45+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+          "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’"
+        }
+      ]
+    },
+    {
+      "id": "b0afceb347e7b188bf46",
+      "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+      "title": "NVIDIA, NemoClaw 오픈 블루프린트로 특화 에이전트 구축 지원",
+      "original_title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw",
+      "published_at": "2026-10-30T16:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Building an autonomous agent requires a model, a harness, and domain-specific tools. To deploy an agent more securely, developers need a runtime that enforces... Building an aut…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/build-specialized-agents-on-a-stack-you-control-with-nvidia-nemoclaw",
+          "title": "Build Specialized Agents on a Stack You Control with NVIDIA NemoClaw"
+        }
+      ],
+      "summary": "NVIDIA가 에이전트 하네스와 모델, 최적화 도구, 보안 런타임을 결합한 NemoClaw 오픈 블루프린트를 공개했다. 이는 OpenClaw, Hermes Agent, LangChain Deep Agents 등 기존 하네스와 호환되며, NVIDIA Nemotron 모델과 NeMo Relay, OpenShell 런타임을 포함한다. NVIDIA는 LangChain Deep Agents와 Nemotron 3 Ultra 조합에서 약 10배 낮은 실행 비용으로 거의 최전선 성능을 달성했다고 발표했다.",
+      "why_it_matters": "기업이 자체 인프라에서 보안 정책을 적용한 에이전트를 운영할 수 있는 오픈 스택 선택지가 늘어난다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-30T19:52:14+00:00",
+        "input_hash": "138776a0a7332138e21250b6eeeda5cb280601158ba9032d9ba74320a65963e4",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "457063de4ee2957a09d5",
+      "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
+      "title": "NVIDIA, GPUDirect Storage 구성·진단 도구 gds-diag 공개",
+      "original_title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform",
+      "published_at": "2026-10-30T15:01:36+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "NVIDIA GPUDirect Storage (GDS) accelerates GPU storage access in on-premises and cloud environments. It provides a robust, portable, and efficient data path... NVIDIA GPUDirect …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-to-check-and-configure-nvidia-gpudirect-storage-for-your-platform",
+          "title": "How to Check and Configure NVIDIA GPUDirect Storage for Your Platform"
+        }
+      ],
+      "summary": "NVIDIA가 GPUDirect Storage(GDS) 배포 환경을 점검하고 최적화하는 오픈소스 명령줄 도구 gds-diag를 NVIDIA Magnum IO GitHub 저장소를 통해 공개했다. 이 도구는 Linux와 Python 3.8 이상에서 동작하며, 명령줄 인터페이스와 자연어 질의를 지원하는 AI 에이전트 스킬 두 가지 방식으로 사용할 수 있다. NVIDIA에 따르면 gds-diag는 환경을 평가하고 문제를 식별하며 개선안을 제안하지만, 시스템을 자체적으로 수정하지는 않는다.",
+      "why_it_matters": "GDS 구성의 복잡성을 낮춰 도입 장벽을 줄이려는 시도로, 진단 자동화가 스토리지-GPU 데이터 경로 최적화의 실무 부담을 얼마나 덜어줄지가 관건이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-30T19:52:11+00:00",
+        "input_hash": "680a3d821ead173c2c60135b0312672fa902b99ca622193ebcdb09c408953686",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "2c05349924dfc396b121",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "original_title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "published_at": "2026-10-30T14:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+          "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate"
+        }
+      ]
+    },
+    {
+      "id": "6e71e92aae50069aef3a",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "original_title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "published_at": "2026-10-30T13:54:25+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "DoorDash said that it is open to working with third-party agent makers.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+          "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents"
+        }
+      ]
+    },
+    {
+      "id": "7b125f4febdfadbb1b65",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "original_title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "published_at": "2026-10-30T13:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+          "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026"
+        }
+      ]
+    },
+    {
+      "id": "3ff23f142c77481e11a6",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "original_title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "published_at": "2026-10-30T13:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+          "title": "Can AI data centers be mass-produced like cars? This startup aims to find out"
+        }
+      ]
+    },
+    {
+      "id": "979a44e3fdf1a63419d2",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
+      "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+      "original_title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+      "published_at": "2026-10-30T11:43:53+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 칭화대학교(Tsinghua University) 연구진이 문어와 오징어의 위장 능력을 모방해 사람의 눈과 인공지능(AI) 객체 탐지 시스템의 인식을 동시에 어렵게 만드는 동적 위장 기술을 개발했다. 주변 환경을 카메라로 분석하고 AI가 위장 패턴을 생성한 뒤 물체 표면의 디스플레이에 표시하는 방식으로, 환경 변…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
+          "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현"
+        }
+      ]
+    },
+    {
+      "id": "3d369ba568194a2cb319",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216835",
+      "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
+      "original_title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
+      "published_at": "2026-10-30T10:36:17+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 네이버 3대 주주에 오르며 AI 팩토리 협력이 본격화된다.네이버(대표 최수연)는 엔비디아를 대상으로 한 제3자 배정 유상증자 납입일이 다음 달 6일로 확정됐다고 30일 공시했다. 투자 규모는 10억달러(약 1조3400억원)로 신주 상장 예정일은 다음 달 27일이다.양사는 지난 7월 신주인수계약을 체결하며 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216835",
+          "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입"
+        }
+      ]
+    },
+    {
+      "id": "506cc9ceb374e4f3e54b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42515",
+      "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로",
+      "original_title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로",
+      "published_at": "2026-10-30T10:25:50+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)가 인공지능(AI) 모델의 행동 기준을 규정하는 '모델 스펙(Model Spec)'을 전면 개편했다. AI가 사용자의 지시를 문자 그대로 수행하는 수준을 넘어 인간의 의도와 가치, 대화 맥락을 이해하고 예상하지 못한 상황에서도 적절하게 판단하도록 행동 원칙을 재정립한 것이다.특히 AI가 외부 시…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42515",
+          "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로"
+        }
+      ]
+    },
+    {
+      "id": "ebe9befb5baeda0e5904",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42513",
+      "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
+      "original_title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
+      "published_at": "2026-10-30T10:05:55+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "세계보건기구(WHO) 유럽지역 53개 회원국이 의료 분야 인공지능(AI)의 안전한 도입과 활용을 위한 첫 공동 행동 로드맵을 만장일치로 채택했다. 2033년까지 의료 AI의 안전성과 윤리, 데이터 관리, 의료진 역량 강화에 관한 공동 정책 방향을 마련하고 국가별 의료체계에 AI를 체계적으로 적용하기 위한 협력에 나선…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42513",
+          "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진"
+        }
+      ]
+    },
+    {
+      "id": "b65c83b1ad39b2c8d9f7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42512",
+      "title": "레딧 허프먼 CEO, “구글 AI 검색은 방문자를 보내지 않는다”…검색 유입 감소에 공개 비판",
+      "original_title": "레딧 허프먼 CEO, “구글 AI 검색은 방문자를 보내지 않는다”…검색 유입 감소에 공개 비판",
+      "published_at": "2026-10-30T09:52:07+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글의 인공지능(AI) 검색이 이용자에게 직접 답변을 제공하면서 외부 웹사이트로 연결되는 방문자 유입이 감소하고 있다는 비판이 글로벌 콘텐츠 플랫폼 최고경영자(CEO)에게서 제기됐다. 검색엔진이 인터넷 콘텐츠로 이용자를 안내하는 기존 역할에서 벗어나 정보를 직접 제공하는 서비스로 변화하면서 콘텐츠 생산자와 플랫폼의 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42512",
+          "title": "레딧 허프먼 CEO, “구글 AI 검색은 방문자를 보내지 않는다”…검색 유입 감소에 공개 비판"
+        }
+      ]
+    },
+    {
+      "id": "84abd1857de5dfd951d9",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "title": "Making it easier for websites to express AI training preferences",
+      "original_title": "Making it easier for websites to express AI training preferences",
+      "published_at": "2026-10-30T09:30:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "title": "Making it easier for websites to express AI training preferences"
+        }
+      ]
+    },
+    {
       "id": "a0172874dd4e1893fea3",
       "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06",
       "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
@@ -40,6 +483,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
           "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화"
+        }
+      ]
+    },
+    {
+      "id": "a86d24c59c826150d16d",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "title": "Community safety report and new protections for teens",
+      "original_title": "Community safety report and new protections for teens",
+      "published_at": "2026-10-30T09:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+          "title": "Community safety report and new protections for teens"
         }
       ]
     },
@@ -2991,6 +3454,26 @@
         "input_hash": "76d0c4271817befc018d43ba5bed7a2654eb7d86c65dca88412ca739e6289b9a",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "85f94c0fe8f02a81789b",
+      "url": "https://openai.com/index/credit-saison",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "original_title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "published_at": "2026-10-29T00:00:00+00:00",
+      "collected_at": "2026-10-30T19:51:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/credit-saison",
+          "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot"
+        }
+      ]
     },
     {
       "id": "718617961cab3abcc8e8",
