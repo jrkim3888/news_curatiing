@@ -3,6 +3,576 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "a0172874dd4e1893fea3",
+      "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06",
+      "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
+      "original_title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
+      "published_at": "2026-10-30T09:27:45+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/china/mistral-ceo-says-new-ai-model-beats-chinese-ones-some-areas-2026-10-06",
+          "title": "Mistral 4 had a release, makes it comparable to Chinese open-weight models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301537"
+        }
+      ]
+    },
+    {
+      "id": "9466dc147618756e83bd",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
+      "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화",
+      "original_title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화",
+      "published_at": "2026-10-30T09:23:58+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "아마존의 클라우드 사업이 인공지능 인프라 수요 확대에 힘입어 최근 5년 사이 가장 빠른 성장세를 기록했다. 앤디 재시(Andy Jassy) 아마존 CEO는 아마존웹서비스(Amazon Web Services, AWS)의 매출 성장률이 2027년과 2028년에도 각각 40%를 넘어설 것으로 전망하며, 대규모 AI 인프라…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
+          "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화"
+        }
+      ]
+    },
+    {
+      "id": "e8e049380c0cea5ed7cf",
+      "url": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
+      "title": "The AI bubble could expose your deepest secrets",
+      "original_title": "The AI bubble could expose your deepest secrets",
+      "published_at": "2026-10-30T08:52:19+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets",
+          "title": "The AI bubble could expose your deepest secrets",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301325"
+        }
+      ]
+    },
+    {
+      "id": "b6e908d759b69fcc7618",
+      "url": "https://winder.ai/timestral-ai-demand-forecasting",
+      "title": "Timestral Tested: How Much Data AI Demand Forecasting Needs",
+      "original_title": "Timestral Tested: How Much Data AI Demand Forecasting Needs",
+      "published_at": "2026-10-30T08:34:52+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://winder.ai/timestral-ai-demand-forecasting",
+          "title": "Timestral Tested: How Much Data AI Demand Forecasting Needs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301214"
+        }
+      ]
+    },
+    {
+      "id": "9ddf072b9d95e17fcec4",
+      "url": "https://send21.io/demo",
+      "title": "Show HN: Send21 – Crypto pay links an AI agent can create but can't spend",
+      "original_title": "Show HN: Send21 – Crypto pay links an AI agent can create but can't spend",
+      "published_at": "2026-10-30T08:26:44+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://send21.io/demo",
+          "title": "Show HN: Send21 – Crypto pay links an AI agent can create but can't spend",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301153"
+        }
+      ]
+    },
+    {
+      "id": "430fe5a68f4716a44dda",
+      "url": "https://githubnext.com/projects/chopin",
+      "title": "Chopin – A real-time multiplayer, agentic planning environment",
+      "original_title": "Chopin – A real-time multiplayer, agentic planning environment",
+      "published_at": "2026-10-30T08:25:58+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://githubnext.com/projects/chopin",
+          "title": "Chopin – A real-time multiplayer, agentic planning environment",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301148"
+        }
+      ]
+    },
+    {
+      "id": "2705ffca8959daf31222",
+      "url": "https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216",
+      "title": "Etsy to restrict AI-generated content in effort to combat seller slop",
+      "original_title": "Etsy to restrict AI-generated content in effort to combat seller slop",
+      "published_at": "2026-10-30T08:23:31+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nbcnews.com/business/consumer/etsy-restricts-ai-generated-seller-slop-rcna605216",
+          "title": "Etsy to restrict AI-generated content in effort to combat seller slop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301134"
+        }
+      ]
+    },
+    {
+      "id": "897179e018b019f9b215",
+      "url": "https://paulbakker.io/writing/how-not-to-use-ai-for-pull-requests-and-code-changes",
+      "title": "How (not) to use AI for pull requests and code reviews",
+      "original_title": "How (not) to use AI for pull requests and code reviews",
+      "published_at": "2026-10-30T08:23:22+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://paulbakker.io/writing/how-not-to-use-ai-for-pull-requests-and-code-changes",
+          "title": "How (not) to use AI for pull requests and code reviews",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301130"
+        }
+      ]
+    },
+    {
+      "id": "6ae011dd9c8e2f155825",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42510",
+      "title": "AI 도입한 고객센터, 상담원 감원보다 충원 많았다…고객 절반은 여전히 사람 찾아",
+      "original_title": "AI 도입한 고객센터, 상담원 감원보다 충원 많았다…고객 절반은 여전히 사람 찾아",
+      "published_at": "2026-10-30T08:19:15+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능을 도입한 기업의 고객센터에서 상담원 감축보다 인력 충원이 더 많이 이뤄졌다는 조사 결과가 나왔다. AI가 상담 업무를 자동화하더라도 고객은 여전히 사람과의 상담을 요구하고 있으며, 기업 역시 상담원 대체보다는 업무 재배치와 AI 활용 역량 강화에 무게를 두고 있는 것으로 나타났다.비즈니스 네트워크 서비스 리…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42510",
+          "title": "AI 도입한 고객센터, 상담원 감원보다 충원 많았다…고객 절반은 여전히 사람 찾아"
+        }
+      ]
+    },
+    {
+      "id": "534d1f3818ae0d0b3576",
+      "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
+      "title": "Spotify aims to launch AI music remix service early next year",
+      "original_title": "Spotify aims to launch AI music remix service early next year",
+      "published_at": "2026-10-30T08:16:44+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/50286bd0-7158-4347-81d8-011cd164f75b",
+          "title": "Spotify aims to launch AI music remix service early next year",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301102"
+        }
+      ]
+    },
+    {
+      "id": "0483bbddcacbf1fa6c30",
+      "url": "https://github.com/ZKStamp/AgentWallet",
+      "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "original_title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+      "published_at": "2026-10-30T08:05:56+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ZKStamp/AgentWallet",
+          "title": "Show HN: AI agents trade privately on BitcoinZ, with proof of delivery",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301018"
+        }
+      ]
+    },
+    {
+      "id": "d4ea81f839b2477d96d9",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42509",
+      "title": "LG CNS, 3분기 매출 1조 6643억원·이익 1382억원…AI·클라우드, 금융 사업 성장 견인영업",
+      "original_title": "LG CNS, 3분기 매출 1조 6643억원·이익 1382억원…AI·클라우드, 금융 사업 성장 견인영업",
+      "published_at": "2026-10-30T08:05:16+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "LG CNS가 기업의 인공지능 전환(AX) 수요 확대와 금융권 시스템 현대화 사업에 힘입어 올해 3분기 매출과 영업이익 모두 성장했다. 전체 매출의 약 58%를 AI·클라우드 사업에서 확보한 가운데, 금융 차세대 시스템 구축 사업도 두 자릿수 성장률을 기록하며 실적을 뒷받침했다.LG CNS(대표 현신균)는 30일 2…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42509",
+          "title": "LG CNS, 3분기 매출 1조 6643억원·이익 1382억원…AI·클라우드, 금융 사업 성장 견인영업"
+        }
+      ]
+    },
+    {
+      "id": "b11cb5d74cc4c0585bf6",
+      "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+      "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
+      "original_title": "Malicious Claude Code Extension Found in Cursor Marketplace",
+      "published_at": "2026-10-30T08:04:26+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+          "title": "Malicious Claude Code Extension Found in Cursor Marketplace",
+          "discussion_url": "https://news.ycombinator.com/item?id=50301004"
+        }
+      ]
+    },
+    {
+      "id": "0d9426c7e04d94b36ebb",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42508",
+      "title": "울산 제조AI 창업 활성화 나선 이소영 장관…대학 연구기술·대기업 제조 인프라 연계 추진",
+      "original_title": "울산 제조AI 창업 활성화 나선 이소영 장관…대학 연구기술·대기업 제조 인프라 연계 추진",
+      "published_at": "2026-10-30T05:49:35+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중소벤처기업부가 대학의 첨단 연구성과와 대기업의 제조 인프라를 결합해 지역 청년 기술창업 지원을 강화한다. 중기부 이소영 장관은 30일, 울산과학기술원(UNIST)을 방문해 울산시, HD현대중공업, 청년 창업가 등과 지역 기술창업 활성화 방안을 논의했다. 이번 방문은 대학의 연구기술이 실제 창업과 사업화로 이어지고,…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42508",
+          "title": "울산 제조AI 창업 활성화 나선 이소영 장관…대학 연구기술·대기업 제조 인프라 연계 추진"
+        }
+      ]
+    },
+    {
+      "id": "d23fdb8e234d4ee2b0cc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42507",
+      "title": "한국-독일, 산업용 AI·반도체·로봇 협력 본격화…메르츠 총리, 첨단기술 동맹 강조",
+      "original_title": "한국-독일, 산업용 AI·반도체·로봇 협력 본격화…메르츠 총리, 첨단기술 동맹 강조",
+      "published_at": "2026-10-30T05:37:40+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "한국과 독일이 산업용 인공지능(AI)과 반도체, 로봇공학을 중심으로 첨단기술 협력을 강화한다. 글로벌 공급망 재편과 무역 불확실성이 커지는 가운데 양국의 제조업 경쟁력과 기술 역량을 결합해 차세대 산업 협력 기반을 확대하겠다는 구상이다.주한독일상공회의소(KGCCI)는 30일 서울 그랜드 인터컨티넨탈 서울 파르나스에서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42507",
+          "title": "한국-독일, 산업용 AI·반도체·로봇 협력 본격화…메르츠 총리, 첨단기술 동맹 강조"
+        }
+      ]
+    },
+    {
+      "id": "04037cb1b8adf1b187f4",
+      "url": "https://byline.network/2026/10/28_219288733",
+      "title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민",
+      "original_title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민",
+      "published_at": "2026-10-30T05:31:38+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "치킨을 검색하면 몇 번을 해도 같은 결과가 나온다. 그런데 “비 오는데 뭐 먹지”라고 물으면 AI는 어떤 때는 칼국수를, 어떤 때는 파전이나 국밥을 추천한다. 셋 다 틀린 답은 아니다. 하지만 어떤 답이 나올지 미리 알 수 없다. 이처럼 정답이 정해지지 않은 AI 제품은 어떻게 설계하고, 무엇을 기준으로 합격을 매겨…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/10/28_219288733",
+          "title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민"
+        }
+      ]
+    },
+    {
+      "id": "207707bc503faa10e6e2",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42506",
+      "title": "포티투닷, 차량 AI가 운전자 의도·위치·거리 분석해 목적지 검색 개선…글레오 AI 첫 업데이트",
+      "original_title": "포티투닷, 차량 AI가 운전자 의도·위치·거리 분석해 목적지 검색 개선…글레오 AI 첫 업데이트",
+      "published_at": "2026-10-30T05:24:51+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "현대자동차그룹의 소프트웨어 전문기업 포티투닷(42dot)이 차량용 인공지능(AI) 에이전트와 내비게이션의 연동 기능을 강화해 운전자의 음성 명령만으로 주행 경로에 적합한 휴게소와 주유소 등을 찾을 수 있도록 개선했다.포티투닷은 30일 대형언어모델(LLM) 기반 차량용 음성 AI 에이전트 '글레오 AI(Gleo AI)…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42506",
+          "title": "포티투닷, 차량 AI가 운전자 의도·위치·거리 분석해 목적지 검색 개선…글레오 AI 첫 업데이트"
+        }
+      ]
+    },
+    {
+      "id": "3cccaf68a0d8ad267861",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42505",
+      "title": "텐센트 클라우드, 해외 고객 1년 새 2배 증가…AI 에이전트 90억건 업무 요청 처리",
+      "original_title": "텐센트 클라우드, 해외 고객 1년 새 2배 증가…AI 에이전트 90억건 업무 요청 처리",
+      "published_at": "2026-10-30T05:07:22+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 텐센트(Tencent)의 클라우드 사업이 기업용 인공지능(AI) 수요 확대에 힘입어 해외 시장에서 빠르게 성장하고 있다. 해외 활성 고객 기반이 1년 만에 두 배로 증가한 가운데, 기업용 AI 에이전트는 누적 90억건 이상의 업무 요청을 처리하며 실제 업무 환경으로 확산되고 있다.텐센트는 30일(현지시간) 중국…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42505",
+          "title": "텐센트 클라우드, 해외 고객 1년 새 2배 증가…AI 에이전트 90억건 업무 요청 처리"
+        }
+      ]
+    },
+    {
+      "id": "6005695478f55b4bb66e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42504",
+      "title": "T4 로보틱스, 우크라이나서 AI 자율 드론 요격기 개발 착수…실전 환경 기반 방공 기술 확보 나서",
+      "original_title": "T4 로보틱스, 우크라이나서 AI 자율 드론 요격기 개발 착수…실전 환경 기반 방공 기술 확보 나서",
+      "published_at": "2026-10-30T04:54:42+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "우크라이나 전쟁에서 소형 드론과 배회형 탄약의 위협이 커지는 가운데, 인공지능(AI)을 활용해 이들 공중 위협에 대응하는 자율 요격 시스템 개발이 추진된다. 특히 실제 전장과 가까운 지역에 개발시설을 구축하고 현지 기술진의 경험을 설계와 시험에 반영하는 방식이 주목된다.자율 방산·로봇 기술 기업 T4 로보틱스(T4 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42504",
+          "title": "T4 로보틱스, 우크라이나서 AI 자율 드론 요격기 개발 착수…실전 환경 기반 방공 기술 확보 나서"
+        }
+      ]
+    },
+    {
+      "id": "eb91ef0c34dd8af60029",
+      "url": "https://d2.naver.com/news/0907869",
+      "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+      "original_title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정",
+      "published_at": "2026-10-30T04:26:27+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기술은 혼자 완성되지 않습니다. ​ 한 사람이 발견한 문제와 해결 과정이 동료에게 전해지고, 그 경험이 또 다른 시도와 개선으로 이어질 때 조직의 기술은 앞으로 나아갑니다. ​ NAVER Engineering Day는 이런 믿음에서 출발했습니다. 2016년, 실무에서 얻은 개발 경험과 새로운 기술 및 플랫폼을 도입하…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/news/0907869",
+          "title": "모두가 함께 성장하는 기술 축제, NAVER Engineering Day 10년의 여정"
+        }
+      ]
+    },
+    {
+      "id": "74fded252177613786e9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216831",
+      "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
+      "original_title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
+      "published_at": "2026-10-30T03:47:16+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "LG CNS(대표 현신균)는 올해 3분기 매출 1조6643억원, 영업이익 1382억원을 기록했다고 30일 밝혔다.전년 동기 대비 매출은 9.3%, 영업이익은 15.0% 증가했다. AI·클라우드 사업 성장과 금융권 시스템 구축 사업 성과가 실적을 견인했다는 설명이다.AI·클라우드 분야 매출은 전년 동기 대비 9.3% …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216831",
+          "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인"
+        }
+      ]
+    },
+    {
+      "id": "ebcf1ae34524b97462a5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42503",
+      "title": "의료 AI 판단 오류 줄인다…앤테리어, 임상 기준 검증 가능한 규칙으로 바꾸는 오픈소스 공개",
+      "original_title": "의료 AI 판단 오류 줄인다…앤테리어, 임상 기준 검증 가능한 규칙으로 바꾸는 오픈소스 공개",
+      "published_at": "2026-10-30T02:35:46+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "의료 인공지능(AI)이 동일한 환자 기록을 분석하고도 서로 다른 판단을 내리거나 복잡한 임상 기준을 누락하는 문제를 줄이기 위한 새로운 기술이 공개됐다. 대형언어모델(LLM)이 의료기록을 분석하되, 최종적인 기준 적용은 사전에 검증된 규칙에 따라 수행하도록 분리한 것이 핵심이다.미국 의료 AI 기업 앤테리어(Ante…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42503",
+          "title": "의료 AI 판단 오류 줄인다…앤테리어, 임상 기준 검증 가능한 규칙으로 바꾸는 오픈소스 공개"
+        }
+      ]
+    },
+    {
+      "id": "7556f53892f9c28d20bd",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216827",
+      "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화",
+      "original_title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화",
+      "published_at": "2026-10-30T02:32:16+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "한국딥러닝(대표 김지현)은 IBK기업은행 금융소비자지원부와 시각언어모델(VLM) 기반 보이스피싱 피해구제 업무 자동화를 구현했다고 30일 밝혔다.이번 과제는 올해 4월부터 8월까지 진행됐으며, ‘2026 공공기관 AI혁신 챌린지’ AI 서비스 실증(PoC) 부문 우수상에 선정됐다.양사는 금융 특화 AI 에이전트 ‘딥…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216827",
+          "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화"
+        }
+      ]
+    },
+    {
+      "id": "173383de0d4dc3e54f2c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216833",
+      "title": "허깅페이스 오픈소스팀, 비드래프트 판단 AI 체험 데모 제작 기증",
+      "original_title": "허깅페이스 오픈소스팀, 비드래프트 판단 AI 체험 데모 제작 기증",
+      "published_at": "2026-10-30T02:30:58+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "비드래프트(VIDRAFT·대표 김민식)는 자사가 공개한 비전 판단 인공지능(AI) 모델 ‘Darwin-35B-ZTC-Vision’의 체험용 데모를 허깅페이스(Hugging Face) 본사 오픈소스팀이 직접 제작해 기증했다고 30일 밝혔다.허깅페이스 오픈소스팀 소속 아폴리나리오(Apolinário)는 지난 10월 27…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216833",
+          "title": "허깅페이스 오픈소스팀, 비드래프트 판단 AI 체험 데모 제작 기증"
+        }
+      ]
+    },
+    {
+      "id": "fbf811011302467e4049",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216829",
+      "title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치",
+      "original_title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치",
+      "published_at": "2026-10-30T02:05:34+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "AI 기반 신소재 개발 스타트업 나노포지에이아이(대표 김동현)가 146억원 규모의 시드 투자를 유치했다고 30일 밝혔다.이번 투자 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해 미래에셋벤처투자·DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 나노포지에이아이의 누적 투자 유치…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216829",
+          "title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치"
+        }
+      ]
+    },
+    {
+      "id": "a888836bd8b4c3e89287",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "original_title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "published_at": "2026-10-30T01:20:48+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work",
+          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work"
+        }
+      ]
+    },
+    {
+      "id": "71565c2bb35ba6d33d20",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42502",
+      "title": "중국 애지봇, 로봇의 실제 노동량 측정하는 새 지표 제안…피지컬 AI 모델·하드웨어 공개",
+      "original_title": "중국 애지봇, 로봇의 실제 노동량 측정하는 새 지표 제안…피지컬 AI 모델·하드웨어 공개",
+      "published_at": "2026-10-30T01:14:48+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 휴머노이드 로봇 기업 애지봇(AGIBOT)이 로봇의 생산 대수나 보급 규모가 아닌 실제 산업 현장에서 수행한 작업량을 측정하는 새로운 생산성 지표를 제안했다. 피지컬 AI(Physical AI)의 경쟁력을 로봇의 성능이나 판매량보다 자율 작업시간과 실제 생산 성과를 중심으로 평가하겠다는 구상이다.애지봇은 29일…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42502",
+          "title": "중국 애지봇, 로봇의 실제 노동량 측정하는 새 지표 제안…피지컬 AI 모델·하드웨어 공개"
+        }
+      ]
+    },
+    {
+      "id": "154aab8f8c63e1111c98",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42501",
+      "title": "美 맥시모, 자율 AI 로봇 ‘맥스 4.0’ 태양광 건설 현장 30만건 작업 돌파…인력 생산성 2.5배 높였다",
+      "original_title": "美 맥시모, 자율 AI 로봇 ‘맥스 4.0’ 태양광 건설 현장 30만건 작업 돌파…인력 생산성 2.5배 높였다",
+      "published_at": "2026-10-30T00:55:12+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "피지컬 인공지능(Physical AI) 기술이 대규모 태양광 발전소 건설 현장에서 상용화 성과를 확대하고 있다. 자율 로봇이 무거운 태양광 패널을 정밀하게 설치하고, 작업자와 협력해 생산성을 높이면서 건설 산업의 인력 부족과 작업 효율 문제를 해결할 새로운 수단으로 주목받고 있다.미국 자율 건설로봇 기업 맥시모 로보…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42501",
+          "title": "美 맥시모, 자율 AI 로봇 ‘맥스 4.0’ 태양광 건설 현장 30만건 작업 돌파…인력 생산성 2.5배 높였다"
+        }
+      ]
+    },
+    {
       "id": "b286be6212deb36bc68c",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42499",
       "title": "英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수",
@@ -102,6 +672,26 @@
           "url": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
           "title": "Rich Hickey: \"AI\" is not a tool",
           "discussion_url": "https://news.ycombinator.com/item?id=50298057"
+        }
+      ]
+    },
+    {
+      "id": "164984997592045fb541",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216586",
+      "title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드",
+      "original_title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "collected_at": "2026-10-30T09:41:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아파치 아이스버그 완벽 가이드토메르 시란·제이슨 휴즈·알렉스 메르세드 | 제이펍2026년 10월 15일추천이유데이터 엔지니어가 데이터 레이크의 유연성과 웨어하우스의 안정성을 결합한 레이크하우스를 구축하기 위해 아이스버그의 내부 구조부터 성능 최적화, 프로덕션 운영까지 실무에 필요한 모든 지식을 습득할 수 있습니다.상…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216586",
+          "title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드"
         }
       ]
     },
