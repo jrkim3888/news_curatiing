@@ -3,6 +3,566 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b286be6212deb36bc68c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42499",
+      "title": "英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수",
+      "original_title": "英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수",
+      "published_at": "2026-10-30T00:37:31+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "영국 기업의 인공지능 도입률이 1년 만에 두 배로 증가하며 AI 활용이 산업 전반으로 빠르게 확산되고 있다. 그러나 실제 생산성 개선과 비용 절감 효과는 제한적이며, AI를 핵심 업무에 깊이 통합한 기업은 극히 일부에 불과한 것으로 나타났다. AI 도입 속도와 실질적인 경영 혁신 사이에 상당한 격차가 존재한다는 분석…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42499",
+          "title": "英 기업 AI 도입률 1년 만에 두 배, 32%가 활용하지만 업무 혁신 이룬 기업은 소수"
+        }
+      ]
+    },
+    {
+      "id": "46c23210f83a7daed152",
+      "url": "https://hotrepo.ai/",
+      "title": "GitHub trending projects with bilingual AI reviews and MCP access",
+      "original_title": "GitHub trending projects with bilingual AI reviews and MCP access",
+      "published_at": "2026-10-30T00:25:34+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hotrepo.ai/",
+          "title": "GitHub trending projects with bilingual AI reviews and MCP access",
+          "discussion_url": "https://news.ycombinator.com/item?id=50298275"
+        }
+      ]
+    },
+    {
+      "id": "d69d205a391dad82f8d9",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42498",
+      "title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자",
+      "original_title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자",
+      "published_at": "2026-10-30T00:20:33+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "캐나다 정부가 국가 차원의 인공지능(AI) 기술 개발 역량을 확보하고 데이터·컴퓨팅 인프라에 대한 통제권을 강화하기 위해 자국 AI 기업 코히어(Cohere)에 최대 16억 캐나다달러(CAD, 약 1.5조원) 규모의 지분 투자를 추진한다고 29일(현지시간) 발표했다.마크 카니(Mark Carney) 캐나다 총리는 이…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42498",
+          "title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자"
+        }
+      ]
+    },
+    {
+      "id": "4317a0265300d969c539",
+      "url": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42",
+      "title": "Josh Kushner's Thrive and OpenAI to buy home security firm ADT",
+      "original_title": "Josh Kushner's Thrive and OpenAI to buy home security firm ADT",
+      "published_at": "2026-10-30T00:10:09+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/f88e30a0-1252-4695-97b0-03da22e5fd42",
+          "title": "Josh Kushner's Thrive and OpenAI to buy home security firm ADT",
+          "discussion_url": "https://news.ycombinator.com/item?id=50298118"
+        }
+      ]
+    },
+    {
+      "id": "9d6d99df9450fefadd6d",
+      "url": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
+      "title": "Rich Hickey: \"AI\" is not a tool",
+      "original_title": "Rich Hickey: \"AI\" is not a tool",
+      "published_at": "2026-10-30T00:06:00+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
+          "title": "Rich Hickey: \"AI\" is not a tool",
+          "discussion_url": "https://news.ycombinator.com/item?id=50298057"
+        }
+      ]
+    },
+    {
+      "id": "fa9008582d767064669f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42497",
+      "title": "AI 의료기기 국제표준 선점 나선다…한국AI의료헬스케어연구원, 기업 주도 표준 개발 확대",
+      "original_title": "AI 의료기기 국제표준 선점 나선다…한국AI의료헬스케어연구원, 기업 주도 표준 개발 확대",
+      "published_at": "2026-10-29T23:59:58+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능 의료기기와 자율형 의료로봇의 기술 발전에 대응해 국내 기업이 국제표준 개발에 직접 참여할 수 있도록 지원하는 협력체계가 확대된다. 특히 AI 의료기기의 신뢰성과 의료로봇의 자율성 수준, 의료기기 소프트웨어의 안전성 확보가 국제표준화의 주요 과제로 부상하고 있다.한국AI의료헬스케어연구원(이사장 전영태)은 지난…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42497",
+          "title": "AI 의료기기 국제표준 선점 나선다…한국AI의료헬스케어연구원, 기업 주도 표준 개발 확대"
+        }
+      ]
+    },
+    {
+      "id": "55a838a4293a393dece1",
+      "url": "https://kevinlynagh.com/newsletter/2026_10_29_llm_programming_and_theory_building",
+      "title": "LLM Programming and Theory Building",
+      "original_title": "LLM Programming and Theory Building",
+      "published_at": "2026-10-29T23:56:15+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kevinlynagh.com/newsletter/2026_10_29_llm_programming_and_theory_building",
+          "title": "LLM Programming and Theory Building",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297955"
+        }
+      ]
+    },
+    {
+      "id": "f84c0c51eab9c9732e06",
+      "url": "https://www.techdirt.com/2026/10/29/your-diary-has-a-creditor-what-character-ais-bankruptcy-does-to-freedom-of-thought",
+      "title": "A Diary Has a Creditor: What Character.ai's Bankruptcy Hits Freedom of Thought",
+      "original_title": "A Diary Has a Creditor: What Character.ai's Bankruptcy Hits Freedom of Thought",
+      "published_at": "2026-10-29T23:54:07+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.techdirt.com/2026/10/29/your-diary-has-a-creditor-what-character-ais-bankruptcy-does-to-freedom-of-thought",
+          "title": "A Diary Has a Creditor: What Character.ai's Bankruptcy Hits Freedom of Thought",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297939"
+        }
+      ]
+    },
+    {
+      "id": "968e0dc5e983cb61cf0a",
+      "url": "https://broutonlab.com/blog/deterministic-ai",
+      "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
+      "original_title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
+      "published_at": "2026-10-29T23:52:20+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://broutonlab.com/blog/deterministic-ai",
+          "title": "Deterministic AI: Why LLMs Aren't, and How to Build Products That Are Anyway",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297928"
+        }
+      ]
+    },
+    {
+      "id": "e0b5af359b3b4f3f1088",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42496",
+      "title": "KIST, 코딩 없이 AI 도구 직접 개발…연구장비·논문 분석부터 행정까지 업무 혁신 확산",
+      "original_title": "KIST, 코딩 없이 AI 도구 직접 개발…연구장비·논문 분석부터 행정까지 업무 혁신 확산",
+      "published_at": "2026-10-29T23:48:02+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "한국과학기술연구원(KIST)이 연구원과 행정직원이 인공지능(AI)을 활용해 필요한 프로그램을 직접 개발하는 방식으로 연구·행정 업무 혁신에 나섰다. 전문 개발인력에 의존하지 않고 현업 구성원이 업무에 필요한 AI 도구를 제작해 연구장비 관리와 논문 분석, 행정 절차를 개선하는 것이 핵심이다.KIST는 지난 29일 서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42496",
+          "title": "KIST, 코딩 없이 AI 도구 직접 개발…연구장비·논문 분석부터 행정까지 업무 혁신 확산"
+        }
+      ]
+    },
+    {
+      "id": "f3faa96e8f7b995be1f0",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "original_title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "title": "AWS will be a $1T business, Jassy says. But first, it will spend big."
+        }
+      ]
+    },
+    {
+      "id": "d28907a34811f95bb774",
+      "url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem",
+      "title": "AI, Mathematics, Education, and a public goods problem",
+      "original_title": "AI, Mathematics, Education, and a public goods problem",
+      "published_at": "2026-10-29T23:28:44+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://terrytao.wordpress.com/2026/10/29/ai-mathematics-education-and-a-public-goods-problem",
+          "title": "AI, Mathematics, Education, and a public goods problem",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297720"
+        }
+      ]
+    },
+    {
+      "id": "cfee38c25797a9a1dea1",
+      "url": "https://github.com/mottopanikeiku/doomformer",
+      "title": "Show HN: I Turned DOOM into a Transformer",
+      "original_title": "Show HN: I Turned DOOM into a Transformer",
+      "published_at": "2026-10-29T23:25:46+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/mottopanikeiku/doomformer",
+          "title": "Show HN: I Turned DOOM into a Transformer",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297697"
+        }
+      ]
+    },
+    {
+      "id": "1fbcf5034ee8e46a345f",
+      "url": "https://judgementlabs.app/blog/the-coalition-room",
+      "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "original_title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+      "published_at": "2026-10-29T23:19:01+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://judgementlabs.app/blog/the-coalition-room",
+          "title": "Where AI agents' social boundaries break: 5 LLMs try to form a government",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297636"
+        }
+      ]
+    },
+    {
+      "id": "c1c3becbb64fc1a6dfe0",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+      "original_title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+      "published_at": "2026-10-29T23:15:33+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+          "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297601"
+        }
+      ]
+    },
+    {
+      "id": "3e30cffa8ac52ba6bf04",
+      "url": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+      "title": "AI training platform Outlier illegally surveils European platform workers",
+      "original_title": "AI training platform Outlier illegally surveils European platform workers",
+      "published_at": "2026-10-29T23:13:41+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://noyb.eu/en/ai-training-platform-outlier-illegally-surveils-european-platform-workers",
+          "title": "AI training platform Outlier illegally surveils European platform workers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50297585"
+        }
+      ]
+    },
+    {
+      "id": "88899755dba00e8dcefc",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits",
+      "title": "OpenAI, ChatGPT 구독자에게 API 크레딧 제공",
+      "original_title": "API credits benefit for eligible ChatGPT subscriptions",
+      "published_at": "2026-10-29T22:48:29+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 p…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/29/api-credits",
+          "title": "API credits benefit for eligible ChatGPT subscriptions"
+        }
+      ],
+      "summary": "OpenAI가 100달러, 200달러, 500달러 ChatGPT 구독 플랜 이용자에게 해당 금액과 동일한 API 크레딧을 제공하기 시작했다. 이는 이달 초 Anthropic이 Max 및 Team 구독자에게 월 100달러, 200달러, 500달러 상당의 만료되는 API 크레딧을 제공한 것과 유사한 혜택이다.",
+      "why_it_matters": "구독과 API 사용을 묶는 가격 전략이 주요 AI 기업 간에 확산되는 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-30T00:39:21+00:00",
+        "input_hash": "3f90ed11fc3c1b4c937f3b86445b42cf33a6e05509fffc95ff56f3b2b12e656b",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "2fc2061c386f621af893",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+      "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+      "original_title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+      "published_at": "2026-10-29T22:21:59+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+          "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지"
+        }
+      ]
+    },
+    {
+      "id": "c2086dc32e7188be4c03",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+      "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+      "original_title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지",
+      "published_at": "2026-10-29T21:52:24+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 '챗GPT'의 유료 프로 및 기업용 요금제에서 AI 작업에 사용할 수 있는 기본 사용량을 최대 2배 늘렸다. 기존 월 200달러 요금제에 예고했던 사용량 축소 계획도 철회했다. 이번 조치는 오픈AI가 이달 초부터 진행한 28일 연속 서비스 개선 캠페인의 25일차 발표로, 모델 성능과 작업 속도를 높이는 데…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216823",
+          "title": "오픈AI, 프로·기업용 AI 사용량 최대 2배 확대…연속 업데이트 막바지"
+        }
+      ]
+    },
+    {
+      "id": "b2dd0dc23ecf26a6152b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+      "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+      "original_title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+      "published_at": "2026-10-29T21:29:38+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "앤트로픽이 미국 정부를 제치고 스페이스X의 최대 고객으로 올라섰다. 올해 3분기 스페이스X 전체 매출의 34.5%가 앤트로픽에 AI 컴퓨팅 자원을 제공한 데서 발생한 것으로 알려졌다. 블룸버그는 29일(현지시간) 사정에 정통한 관계자를 인용, 스페이스X가 최근 분기 공시에서 익명으로 처리한 최대 고객 '고객 B(Cu…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객"
+        }
+      ]
+    },
+    {
+      "id": "59e541a1616f690d66ac",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+      "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+      "original_title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략",
+      "published_at": "2026-10-29T21:16:49+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미스트랄 AI가 이달 초 선보인 '미스트랄 라지 4(Mistral Large 4)'의 성능을 개선하고 모델 가중치를 공개하며 정식 출시했다. 기존에는 API를 통해서만 이용할 수 있었지만, 이제 기업과 개발자가 직접 모델을 내려받아 자체 시스템에서 운영하고 추가 학습할 수 있게 됐다. 특히 사이버 보안에 초점을 맞춰…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216821",
+          "title": "미스트랄, '라지 4' 가중치 공개로 정식 출시…유럽 사이버보안 시장 공략"
+        }
+      ]
+    },
+    {
+      "id": "bb3300603ee14a9a7a1b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216776",
+      "title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가",
+      "original_title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가",
+      "published_at": "2026-10-29T21:00:00+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인간과 AI가 하나로 합쳐지는 미래를 예언한 세계적인 미래학자 레이 커즈와일(78)이 자신의 디지털 복제본을 실제로 만들었습니다. 이 AI는 얼굴과 목소리는 물론, 지식과 사고방식까지 재현하며 사람들과 대화합니다. 특히 만들어진 이후에도 새로운 정보를 배우고 대화 경험을 기억하도록 설계됐습니다. 그가 사망하더라도 복…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216776",
+          "title": "[10월29일] 자신을 AI로 복제한 '특이점' 예언자…'또 다른 나'는 나와 같은 인물인가"
+        }
+      ]
+    },
+    {
+      "id": "397689a7f0f0906525b3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+      "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+      "original_title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+      "published_at": "2026-10-29T20:51:03+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 기업들이 최첨단 모델의 성능을 확보하기 위해 집중적으로 분석하는 대상이 앤트로픽의 '클로드'에서 오픈AI의 'GPT-6 아스트라'로 바뀌고 있는 것으로 알려졌다. 딥시크와 문샷 AI는 최근 출시한 AI 모델을 개발하면서 아스트라의 출력 데이터를 학습에 상당 부분 활용한 것으로 전해졌다.디 인포메이션은 28…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
+          "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류"
+        }
+      ]
+    },
+    {
+      "id": "99a84272b0f6f4bdc55c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216819",
+      "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+      "original_title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+      "published_at": "2026-10-29T20:29:29+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 AI 모델의 행동 원칙을 대폭 개편하고, 인간의 의도를 이해해 스스로 판단하는 능력을 핵심 기준으로 제시했다. AI가 단순한 질의응답을 넘어 복잡한 업무를 자율적으로 수행하는 에이전트로 발전하면서, 이용자의 지시만으로는 모든 상황을 통제하기 어려워졌기 때문이다. 이에 따라 AI가 예상하지 못한 상황에서도 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216819",
+          "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\""
+        }
+      ]
+    },
+    {
+      "id": "b35042356bf7a80acb00",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "original_title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+      "published_at": "2026-10-29T20:08:31+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience"
+        }
+      ]
+    },
+    {
+      "id": "958fac1fa6250d6c9f4c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216818",
+      "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박",
+      "original_title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박",
+      "published_at": "2026-10-29T20:06:36+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 정보당국이 젠슨 황 엔비디아 CEO와 가까운 중국 여성 사업가를 중국 정보기관의 정보원으로 판단한 사실이 알려졌다. 도널드 트럼프 미국 대통령은 약 1년 전 관련 첩보를 보고받았지만, 별다른 조치를 취하지 않은 것으로 전해졌다. 황 CEO는 해당 인물과의 만남은 정상적인 고객 관계였으며, 관련 기업의 AI 칩 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216818",
+          "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박"
+        }
+      ]
+    },
+    {
+      "id": "f3117e1d89a120caf342",
+      "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+      "title": "Rivian expands joint venture with VW to include AI assistant",
+      "original_title": "Rivian expands joint venture with VW to include AI assistant",
+      "published_at": "2026-10-29T20:05:47+00:00",
+      "collected_at": "2026-10-30T00:39:01+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant",
+          "title": "Rivian expands joint venture with VW to include AI assistant"
+        }
+      ]
+    },
+    {
       "id": "967be99077d13f07b201",
       "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks",
       "title": "The AI cost of JavaScript frameworks",
