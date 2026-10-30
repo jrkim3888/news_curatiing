@@ -465,14 +465,14 @@
     {
       "id": "397689a7f0f0906525b3",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
-      "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
+      "title": "딥시크·문샷 AI, GPT-6 아스트라 증류 의혹",
       "original_title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류",
       "published_at": "2026-10-29T20:51:03+00:00",
       "collected_at": "2026-10-30T00:39:01+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "중국 AI 기업들이 최첨단 모델의 성능을 확보하기 위해 집중적으로 분석하는 대상이 앤트로픽의 '클로드'에서 오픈AI의 'GPT-6 아스트라'로 바뀌고 있는 것으로 알려졌다. 딥시크와 문샷 AI는 최근 출시한 AI 모델을 개발하면서 아스트라의 출력 데이터를 학습에 상당 부분 활용한 것으로 전해졌다.디 인포메이션은 28…",
       "sources": [
         {
@@ -480,19 +480,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216820",
           "title": "딥시크·문샷 AI, 앤트로픽 방어 강화로 'GPT-6 아스트라' 집중 증류"
         }
-      ]
+      ],
+      "summary": "딥시크와 문샷 AI가 최근 출시한 모델 개발에 오픈AI의 GPT-6 아스트라 출력 데이터를 상당 부분 활용했다는 보도가 나왔다. 앤트로픽이 방어를 강화해 클로드에서 데이터 확보가 어려워지자 중국 연구소들이 아스트라로 대상을 옮겼다는 설명이며, 두 회사는 논평을 거부하거나 응답하지 않았다.",
+      "why_it_matters": "모델 증류를 둘러싼 방어와 우회가 반복되면서 첨단 모델의 학습 데이터 보호가 주요 경쟁 변수로 떠오른다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "70c6c6520051e999f30c9a5e43ddd7083b0533e07d3f67279f14306ef727e6fd",
+        "evidence_verified": true
+      }
     },
     {
       "id": "99a84272b0f6f4bdc55c",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216819",
-      "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
+      "title": "오픈AI, 에이전트 시대 맞춰 모델 행동 원칙 개편",
       "original_title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\"",
       "published_at": "2026-10-29T20:29:29+00:00",
       "collected_at": "2026-10-30T00:39:01+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "오픈AI가 AI 모델의 행동 원칙을 대폭 개편하고, 인간의 의도를 이해해 스스로 판단하는 능력을 핵심 기준으로 제시했다. AI가 단순한 질의응답을 넘어 복잡한 업무를 자율적으로 수행하는 에이전트로 발전하면서, 이용자의 지시만으로는 모든 상황을 통제하기 어려워졌기 때문이다. 이에 따라 AI가 예상하지 못한 상황에서도 …",
       "sources": [
         {
@@ -500,7 +510,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216819",
           "title": "오픈AI, 에이전트 시대 맞춰 행동 원칙 개편…\"인간 의도 이해가 핵심\""
         }
-      ]
+      ],
+      "summary": "오픈AI가 AI 모델 행동 지침인 모델 스펙 개정판을 공개하고 인간의 의도에 대한 충실성을 가장 중요한 원칙으로 제시했다. 세부 지침은 다섯 가지 핵심 가치로 재구성됐으며, 회사는 이 지침이 아직 모든 모델에 완전히 구현된 상태는 아니라고 밝혔다.",
+      "why_it_matters": "AI가 자율적으로 업무를 수행할수록 지시 준수만으로는 통제가 어려워져 행동 원칙과 감독 체계의 중요성이 커진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "b9dec36db4977e181da88323bf834172b6f7f9b6ce03dd84d4fb9e2a030dbafa",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b35042356bf7a80acb00",
@@ -1040,14 +1060,14 @@
     {
       "id": "7aeace9da75d018b28a1",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42495",
-      "title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서",
+      "title": "안두릴·퀄컴, 미국산 AI 노트북 블루칩 공개",
       "original_title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서",
       "published_at": "2026-10-29T12:59:47+00:00",
       "collected_at": "2026-10-29T20:05:32+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "정책·사회",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "미국 방산 기술기업 안두릴 인더스트리즈(Anduril Industries)와 반도체 기업 퀄컴 테크놀로지스(Qualcomm Technologies)가 미국 내 컴퓨터 제조 기반을 재건하기 위해 손잡았다. 양사는 퀄컴의 인공지능(AI) 반도체를 탑재한 미국산 노트북을 시작으로 정부와 국방, 공공·안전 분야에 필요한 컴…",
       "sources": [
         {
@@ -1055,19 +1075,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42495",
           "title": "안두릴·퀄컴, 국방·공공·안전 분야 미국산 AI 노트북 개발…컴퓨터 제조 주권 탈환 나서"
         }
-      ]
+      ],
+      "summary": "안두릴과 퀄컴이 미국 내 컴퓨터 제조 역량 확대를 위한 제품군 블루칩을 공개했다. 첫 제품은 퀄컴의 스냅드래곤 X 시리즈를 탑재한 미국 설계·조립 노트북으로 2027년 주문 접수를 목표로 하며, 시제품 부품의 90% 이상을 미국 및 동맹국 공급업체에서 조달비 기준으로 확보했다.",
+      "why_it_matters": "반도체를 넘어 완제품 공급망까지 자국화하려는 시도로, 국방·공공 조달과 제조 생태계에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "b9e0fb87853a48a00e275f05e4f86cbc66252222d944ee9dd78156d31b7522a0",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5447a4608c5ea03be753",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42494",
-      "title": "아마존, 보고 듣고 판단하는 AI로 집안 전체 연결…알렉사 탑재 스마트 기기 5종 공개",
+      "title": "아마존, 알렉사 플러스 기반 스마트홈 기기 5종 공개",
       "original_title": "아마존, 보고 듣고 판단하는 AI로 집안 전체 연결…알렉사 탑재 스마트 기기 5종 공개",
       "published_at": "2026-10-29T12:09:29+00:00",
       "collected_at": "2026-10-29T20:05:32+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "아마존(Amazon)이 카메라로 주변 사물을 인식하고, 수면 상태를 감지하며, 집안의 가전제품을 통합 관리하는 차세대 인공지능(AI) 기기 5종을 28일(현지시간) 공개했다. 음성 명령에 응답하는 기존 스마트 스피커에서 벗어나 시각 정보와 환경 센서, 생성형 AI를 결합해 사용자의 생활 환경을 이해하고 복잡한 요청까…",
       "sources": [
         {
@@ -1075,7 +1105,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42494",
           "title": "아마존, 보고 듣고 판단하는 AI로 집안 전체 연결…알렉사 탑재 스마트 기기 5종 공개"
         }
-      ]
+      ],
+      "summary": "아마존이 생성형 AI 비서 알렉사 플러스를 기반으로 한 스마트홈 기기 5종을 공개했다. 카메라로 사물을 인식하는 에코 스튜디오 위드 홈 카메라, 수면 상태에 맞춰 알람을 조정하는 에코 타임, 3차원 지도로 집안 기기를 제어하는 에코 쇼 16 등이 포함됐다.",
+      "why_it_matters": "음성 명령을 넘어 시각 인식과 센서를 결합한 가정용 AI 플랫폼 경쟁이 본격화되고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "87f609c84aa896fca40f9fe1a510c8d837531e2303ccc19ec7fb153bf78844f0",
+        "evidence_verified": true
+      }
     },
     {
       "id": "d17e1968fa0968c4795f",
@@ -1265,14 +1305,14 @@
     {
       "id": "7302e2c4a0369bea24d6",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216778",
-      "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
+      "title": "앤트로픽, 1인 신약 개발사 인수하고 클로드로 치료제 개발",
       "original_title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발",
       "published_at": "2026-10-29T09:00:15+00:00",
       "collected_at": "2026-10-29T09:29:53+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "앤트로픽이 직원 한 명으로 운영되던 바이오테크 스타트업을 인수하고 '클로드'를 활용한 자체 신약 개발에 나섰다. 창업자 한 명이 클로드로 외부 연구소 11곳을 관리하며 18개월도 안 돼 희귀 근육질환 치료제의 동물실험에서 성과를 거둔 사례를 바탕으로, AI 중심의 새로운 신약 개발 방식을 시험한다.앤트로픽은 27일(…",
       "sources": [
         {
@@ -1280,7 +1320,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216778",
           "title": "앤트로픽, 1인 신약 개발사 인수...클로드로 직접 치료제 개발"
         }
-      ]
+      ],
+      "summary": "앤트로픽이 희귀 근육질환 치료제를 개발하던 1인 바이오테크 스타트업 미스릴 메디신을 인수했다. 창업자는 클로드로 외부 연구소 11곳을 조율해 18개월도 안 돼 동물실험에서 유망한 결과를 확인했으며, 앤트로픽은 이르면 2028년 말 인체 임상시험 착수를 목표로 제시했다.",
+      "why_it_matters": "AI 기업이 도구 제공을 넘어 신약 개발을 직접 운영하는 첫 사례로, 바이오 산업 협업 방식에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "ac49aa932f2069b8413baed835fba6f19ced7ef53fd55c9661a068df5634136f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1a6363661301a16a62fe",
@@ -1407,14 +1457,14 @@
     {
       "id": "e09b563441626ec614c8",
       "url": "https://byline.network/2026/10/1029-4",
-      "title": "한컴의 글로벌 진출 승부수 ‘노마디안’…12월 미국 먼저 출시",
+      "title": "한컴, AI 워크포스 플랫폼 노마디안으로 미국 시장 진출",
       "original_title": "한컴의 글로벌 진출 승부수 ‘노마디안’…12월 미국 먼저 출시",
       "published_at": "2026-10-29T08:26:15+00:00",
       "collected_at": "2026-10-29T09:29:53+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "36년간 국내 시장을 중심으로 사업을 이어온 한글과컴퓨터(한컴)가 인공지능(AI) 워크포스 플랫폼 ‘노마디안(Nomadian)’을 앞세워 미국 시장에 진출한다. 한컴은 기존 문서 소프트웨어 사업 중심에서 벗어나 글로벌 시장을 겨냥한 AI 사업을 확대할 계획이다. 이를 위해 기존 다운로드 방식의 문서 엔진 기술을 분해…",
       "sources": [
         {
@@ -1422,7 +1472,17 @@
           "url": "https://byline.network/2026/10/1029-4",
           "title": "한컴의 글로벌 진출 승부수 ‘노마디안’…12월 미국 먼저 출시"
         }
-      ]
+      ],
+      "summary": "한글과컴퓨터가 직무별 AI 팀원 12종과 팀 리더 아라를 제공하는 AI 워크포스 플랫폼 노마디안을 앞세워 미국 시장에 진출한다. 베타 버전은 12월 15일 미국에서 먼저 출시되며, 월 40달러 수준 요금제로 영업이익률 20~25% 유지를 목표로 한다.",
+      "why_it_matters": "내수 문서 소프트웨어 기업이 AI 에이전트 플랫폼으로 글로벌 시장에 도전하는 사례로, 사업 전환을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "deb2190bb2964f20cc9479357e2b3e5c2807b3c6339d81f3fe415cb78f1eeb8a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "9fe9a65605603ab3dbd9",
@@ -2315,14 +2375,14 @@
     {
       "id": "b6b30743068c26272d89",
       "url": "https://huggingface.co/blog/mistral-large4",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "title": "미스트랄, 멀티모달 모델 미스트랄 라지 4 공개",
       "original_title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
       "published_at": "2026-10-29T00:00:00+00:00",
       "collected_at": "2026-10-29T20:05:32+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -2330,7 +2390,17 @@
           "url": "https://huggingface.co/blog/mistral-large4",
           "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face"
         }
-      ]
+      ],
+      "summary": "미스트랄이 텍스트와 이미지를 입력받는 멀티모달 전문가 혼합 모델 미스트랄 라지 4를 공개했다. 전체 약 1조 개, 활성 490억 개 파라미터와 100만 토큰 문맥 창을 갖췄으며, 사이버보안과 코딩 에이전트, 멀티모달리티에 강점을 보인다고 밝혔다.",
+      "why_it_matters": "오픈웨이트 진영에서 대규모 멀티모달 모델이 나오면서, 보안·코딩 자동화 활용 선택지가 넓어진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-30T01:17:42+00:00",
+        "briefing_day": "2026-10-30",
+        "input_hash": "76d0c4271817befc018d43ba5bed7a2654eb7d86c65dca88412ca739e6289b9a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "718617961cab3abcc8e8",
