@@ -1,0 +1,257 @@
+{
+  "version": 1,
+  "month": "2026-11",
+  "articles": [
+    {
+      "id": "d63cac49a001cc29aa27",
+      "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon",
+      "title": "The Limits of AI as an Economic Weapon",
+      "original_title": "The Limits of AI as an Economic Weapon",
+      "published_at": "2026-10-31T18:56:26+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon",
+          "title": "The Limits of AI as an Economic Weapon",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318940"
+        }
+      ]
+    },
+    {
+      "id": "872539a38cb205c584d4",
+      "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+      "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
+      "original_title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
+      "published_at": "2026-10-31T18:54:27+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/tech/ai/ai-anthropic-rsi-recursive-self-improvement-bff4e815",
+          "title": "The Smartest People in AI Believe This Is the World's Most Important Chart",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318912"
+        }
+      ]
+    },
+    {
+      "id": "f4160ff23c480239731c",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "original_title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "published_at": "2026-10-31T18:50:34+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ryanmadden.net/gpt-56-beats-factorio",
+          "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318871"
+        }
+      ]
+    },
+    {
+      "id": "7092ceeae2660d994fd8",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+      "title": "Google's AI satellite sends a expensive haiku to Earth",
+      "original_title": "Google's AI satellite sends a expensive haiku to Earth",
+      "published_at": "2026-10-31T18:48:53+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+          "title": "Google's AI satellite sends a expensive haiku to Earth",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318849"
+        }
+      ]
+    },
+    {
+      "id": "80c391740cc7a459a780",
+      "url": "https://github.com/khalilgharbaoui/opencode-claude-code-plugin",
+      "title": "Show HN: Run Claude Code inside OpenCode through the official CLI",
+      "original_title": "Show HN: Run Claude Code inside OpenCode through the official CLI",
+      "published_at": "2026-10-31T18:32:12+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/khalilgharbaoui/opencode-claude-code-plugin",
+          "title": "Show HN: Run Claude Code inside OpenCode through the official CLI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318664"
+        }
+      ]
+    },
+    {
+      "id": "1bdf4ec1a1ef06450cf2",
+      "url": "https://hyperparameter.space/blog/software-is-eating-ai",
+      "title": "Software is Eating AI (2017)",
+      "original_title": "Software is Eating AI (2017)",
+      "published_at": "2026-10-31T18:27:27+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hyperparameter.space/blog/software-is-eating-ai",
+          "title": "Software is Eating AI (2017)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318620"
+        }
+      ]
+    },
+    {
+      "id": "ac3576b1fa20cee459c2",
+      "url": "https://www.arxo.io/findings/ARXO-2026-0413",
+      "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
+      "original_title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
+      "published_at": "2026-10-31T18:14:17+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.arxo.io/findings/ARXO-2026-0413",
+          "title": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318494"
+        }
+      ]
+    },
+    {
+      "id": "f07607299c9c685accc5",
+      "url": "https://github.com/contextuai/hey-spark",
+      "title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+      "original_title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+      "published_at": "2026-10-31T18:09:19+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/contextuai/hey-spark",
+          "title": "Show HN: Hey Spark – open-source voice assistant for your laptop, any LLM brain",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318453"
+        }
+      ]
+    },
+    {
+      "id": "d004c37dd3b3195c7a7f",
+      "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+      "title": "The Impact of Generative AI on Critical Thinking",
+      "original_title": "The Impact of Generative AI on Critical Thinking",
+      "published_at": "2026-10-31T18:02:29+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
+          "title": "The Impact of Generative AI on Critical Thinking",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318401"
+        }
+      ]
+    },
+    {
+      "id": "1dfd67eb8f8576036b0a",
+      "url": "https://zenodo.org/records/21909447",
+      "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+      "original_title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+      "published_at": "2026-10-31T17:59:27+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://zenodo.org/records/21909447",
+          "title": "Sovereign Inference Mesh – Phone-native AI inference and edge compute on Android",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318373"
+        }
+      ]
+    },
+    {
+      "id": "4e15285bc0ee53826572",
+      "url": "https://www.getpublishub.com/",
+      "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
+      "original_title": "Show HN: Publishub. An AI copilot for video creators and editors.",
+      "published_at": "2026-10-31T17:52:36+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.getpublishub.com/",
+          "title": "Show HN: Publishub. An AI copilot for video creators and editors.",
+          "discussion_url": "https://news.ycombinator.com/item?id=50318318"
+        }
+      ]
+    },
+    {
+      "id": "c361ea6e6eba35fb9e53",
+      "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "original_title": "OpenAI reportedly lowers funding target for new round",
+      "published_at": "2026-10-31T16:12:55+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI’s latest funding round doesn't seem to be living up to expectations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round",
+          "title": "OpenAI reportedly lowers funding target for new round"
+        }
+      ]
+    }
+  ]
+}

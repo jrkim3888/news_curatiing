@@ -3,6 +3,86 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "1e9d193fda0beb4604b0",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42524",
+      "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
+      "original_title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
+      "published_at": "2026-10-31T14:15:51+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 법률 업무에 빠르게 확산되고 있지만, 실제 업무 부담을 줄이거나 고객의 법률서비스 비용을 낮추는 효과는 기대에 미치지 못하고 있다는 조사 결과가 나왔다. 변호사들의 AI 활용률은 1년 만에 크게 높아진 반면, 고객이 AI로 생성한 부정확한 정보와 문서를 검증하고 수정하는 새로운 업무 부담도 늘어난 것으로 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42524",
+          "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”"
+        }
+      ]
+    },
+    {
+      "id": "03f71c0e97e894d17abb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+      "original_title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+      "published_at": "2026-10-31T10:58:00+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+          "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려"
+        }
+      ]
+    },
+    {
+      "id": "856fb7261dc996b90b9c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+      "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+      "original_title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+      "published_at": "2026-10-31T09:53:02+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216850",
+          "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\""
+        }
+      ]
+    },
+    {
+      "id": "a73e9043f574a758e1e3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
+      "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
+      "original_title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
+      "published_at": "2026-10-31T09:35:02+00:00",
+      "collected_at": "2026-10-31T19:08:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "AI 에이전트가 사람을 대신해 상품을 구매하고 금융서비스를 이용하는 시대가 다가오면서, AI의 자율적인 판단과 행동에 대한 기업의 법적 책임이 주요 규제 쟁점으로 떠오르고 있다. 영국의 4개 핵심 규제기관은 AI 에이전트가 스스로 결정을 내리고 업무를 수행하더라도 이를 운영하는 기업의 법적 책임이 줄어들지 않는다는 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
+          "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화"
+        }
+      ]
+    },
+    {
       "id": "bfffaa38752034e73e84",
       "url": "https://www.lowyinstitute.org/the-interpreter/claude-for-clausewitz",
       "title": "Claude for Clausewitz?",
