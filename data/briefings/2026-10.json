@@ -3,6 +3,332 @@
   "month": "2026-10",
   "editions": [
     {
+      "id": "2026-10-31",
+      "day": "2026-10-31",
+      "scheduled_at": "2026-10-30T21:30:00+00:00",
+      "generated_at": "2026-10-31T01:00:22+00:00",
+      "window_start": "2026-10-29T21:00:00+00:00",
+      "window_end": "2026-10-30T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI 성과와 규범, 검증 사이",
+      "takeaway": "AI가 매출과 인프라로 자리 잡는 동시에, 의료 규범과 서비스 품질 기준 같은 신뢰 장치도 함께 논의되고 있습니다.",
+      "overview": [
+        {
+          "text": "국내외 기업들이 AI를 실제 매출과 인프라로 연결하는 성과를 잇달아 내놨습니다. LG CNS는 3분기 매출 1조6643억원을 기록하며 AI·클라우드와 금융권 시스템 구축이 실적을 이끌었다고 밝혔고, 엔비디아는 네이버 지분 약 4.54%를 확보해 3대 주주로 오르며 AI 팩토리 협력을 본격화합니다.",
+          "issue_ids": [
+            "issue-1",
+            "issue-2"
+          ]
+        },
+        {
+          "text": "의료 AI를 둘러싼 국제 규범 마련도 진행됐습니다. WHO 유럽 53개국은 2033년까지 안전성과 윤리, 데이터 관리, 의료진 역량 강화를 담은 공동 로드맵을 만장일치로 채택했습니다.",
+          "issue_ids": [
+            "issue-3"
+          ]
+        },
+        {
+          "text": "기술 연구와 서비스 검증에서는 AI의 한계를 다루는 사례가 나왔습니다. 칭화대는 사람 눈과 AI 탐지를 동시에 피하는 동적 위장 기술을 공개했고, 배민은 AI 검색의 품질 검증 합격률이 74.1%였지만 합격선이 없어 출시 판단이 어려웠다고 밝혔습니다.",
+          "issue_ids": [
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "LG CNS 3분기 실적, AI·클라우드 성장이 견인",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "LG CNS는 올해 3분기 매출 1조6643억원, 영업이익 1382억원을 기록했으며 전년 동기 대비 매출은 9.3%, 영업이익은 15.0% 증가했다고 밝혔다.",
+              "article_ids": [
+                "74fded252177613786e9"
+              ],
+              "links": [
+                {
+                  "text": "LG CNS",
+                  "article_id": "74fded252177613786e9"
+                },
+                {
+                  "text": "1조6643억원",
+                  "article_id": "74fded252177613786e9"
+                }
+              ]
+            },
+            {
+              "text": "AI·클라우드 분야 매출은 전년 동기 대비 9.3% 증가한 9615억원으로 집계됐고, 디지털 비즈니스 서비스 매출은 금융권 시스템 구축을 기반으로 21.3% 증가한 4082억원을 기록했다.",
+              "article_ids": [
+                "74fded252177613786e9"
+              ],
+              "links": [
+                {
+                  "text": "AI·클라우드",
+                  "article_id": "74fded252177613786e9"
+                },
+                {
+                  "text": "디지털 비즈니스 서비스",
+                  "article_id": "74fded252177613786e9"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "기업용 AI와 클라우드 수요가 실제 매출로 이어지는지 보여주는 지표로, 국내 IT 서비스 업계의 사업 전환 속도를 가늠하게 한다.",
+          "article_ids": [
+            "74fded252177613786e9"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "엔비디아, 네이버 3대 주주로…AI 팩토리 협력 본격화",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "네이버는 엔비디아를 대상으로 한 제3자 배정 유상증자 납입일이 다음 달 6일로 확정됐다고 공시했으며, 투자 규모는 10억달러(약 1조3400억원)다.",
+              "article_ids": [
+                "3d369ba568194a2cb319"
+              ],
+              "links": [
+                {
+                  "text": "엔비디아",
+                  "article_id": "3d369ba568194a2cb319"
+                },
+                {
+                  "text": "10억달러",
+                  "article_id": "3d369ba568194a2cb319"
+                }
+              ]
+            },
+            {
+              "text": "납입이 완료되면 엔비디아의 네이버 지분율은 약 4.54%로 국민연금공단과 블랙록에 이어 3대 주주가 되며, 네이버는 내년 상반기 55메가와트 규모 AI 팩토리 가동을 계획하고 있다.",
+              "article_ids": [
+                "3d369ba568194a2cb319"
+              ],
+              "links": [
+                {
+                  "text": "4.54%",
+                  "article_id": "3d369ba568194a2cb319"
+                },
+                {
+                  "text": "AI 팩토리",
+                  "article_id": "3d369ba568194a2cb319"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "국내 기업이 대규모 컴퓨팅 인프라를 확보하는 방식이 지분 투자와 결합되는 사례로, AI 인프라 경쟁의 자금 구조를 보여준다.",
+          "article_ids": [
+            "3d369ba568194a2cb319"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "WHO 유럽지역 53개 회원국이 2033년까지 의료 AI의 안전성과 윤리, 데이터 관리, 의료진 역량 강화를 위한 첫 공동 행동 로드맵을 만장일치로 채택했다.",
+              "article_ids": [
+                "ebe9befb5baeda0e5904"
+              ],
+              "links": [
+                {
+                  "text": "WHO",
+                  "article_id": "ebe9befb5baeda0e5904"
+                },
+                {
+                  "text": "공동 행동 로드맵",
+                  "article_id": "ebe9befb5baeda0e5904"
+                }
+              ]
+            },
+            {
+              "text": "로드맵은 거버넌스 강화, 윤리·규제·법률 체계 정비, 의료데이터와 디지털 인프라 강화, 의료인력 역량 강화와 현장 적용을 네 가지 우선 분야로 제시했다.",
+              "article_ids": [
+                "ebe9befb5baeda0e5904"
+              ],
+              "links": [
+                {
+                  "text": "거버넌스",
+                  "article_id": "ebe9befb5baeda0e5904"
+                },
+                {
+                  "text": "의료인력 역량 강화",
+                  "article_id": "ebe9befb5baeda0e5904"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "의료 AI 도입이 개별 국가를 넘어 공통 규범으로 정리되는 흐름으로, 향후 국내 의료 AI 정책과 규제 논의에도 참고가 된다.",
+          "article_ids": [
+            "ebe9befb5baeda0e5904"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "칭화대, 사람 눈과 AI 탐지를 동시에 피하는 동적 위장 기술 개발",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "중국 칭화대 연구진이 문어와 오징어의 위장 능력을 모방해 사람의 눈과 AI 객체 탐지 시스템을 동시에 어렵게 만드는 동적 위장 시스템 세프캠을 개발했다.",
+              "article_ids": [
+                "979a44e3fdf1a63419d2"
+              ],
+              "links": [
+                {
+                  "text": "칭화대",
+                  "article_id": "979a44e3fdf1a63419d2"
+                },
+                {
+                  "text": "세프캠",
+                  "article_id": "979a44e3fdf1a63419d2"
+                }
+              ]
+            },
+            {
+              "text": "세프캠은 환경 변화에 약 0.4초 만에 대응하는 고속 모드와 클라우드에서 약 2.5분이 걸리는 정밀 모드를 결합했으며, 112명 대상 실험에서 사람의 탐지 성공률이 낮아지고 반응 시간이 길어졌다.",
+              "article_ids": [
+                "979a44e3fdf1a63419d2"
+              ],
+              "links": [
+                {
+                  "text": "0.4초",
+                  "article_id": "979a44e3fdf1a63419d2"
+                },
+                {
+                  "text": "112명",
+                  "article_id": "979a44e3fdf1a63419d2"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 탐지 자체를 회피하는 기술은 보안·감시 시스템의 신뢰성에 영향을 줄 수 있어 방어 기술과 규범 논의가 함께 필요하다.",
+          "article_ids": [
+            "979a44e3fdf1a63419d2"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "배민, AI 검색 설계·검증 과정 공개…합격률 74.1%",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "우아한형제들은 우아콘2026에서 배민 AI 검색을 기획하고 검증한 과정을 소개하며, AI가 할 일과 코드가 할 일을 나누고 안전과 품질을 따로 평가하는 방식을 택했다고 밝혔다.",
+              "article_ids": [
+                "04037cb1b8adf1b187f4"
+              ],
+              "links": [
+                {
+                  "text": "우아콘2026",
+                  "article_id": "04037cb1b8adf1b187f4"
+                },
+                {
+                  "text": "배민 AI 검색",
+                  "article_id": "04037cb1b8adf1b187f4"
+                }
+              ]
+            },
+            {
+              "text": "QA팀이 AI 검색을 시험한 결과 합격률은 74.1%였지만 합격선이 없어 출시 가능 여부를 판단하기 어려웠다고 전했다.",
+              "article_ids": [
+                "04037cb1b8adf1b187f4"
+              ],
+              "links": [
+                {
+                  "text": "74.1%",
+                  "article_id": "04037cb1b8adf1b187f4"
+                },
+                {
+                  "text": "합격선",
+                  "article_id": "04037cb1b8adf1b187f4"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "확률적으로 답이 달라지는 AI 기능을 실제 서비스에 적용할 때 품질 기준과 검증 방법을 어떻게 세울지 보여주는 사례다.",
+          "article_ids": [
+            "04037cb1b8adf1b187f4"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "979a44e3fdf1a63419d2",
+          "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+          "published_at": "2026-10-30T11:43:53+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
+              "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "3d369ba568194a2cb319",
+          "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
+          "published_at": "2026-10-30T10:36:17+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216835",
+              "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "ebe9befb5baeda0e5904",
+          "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
+          "published_at": "2026-10-30T10:05:55+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42513",
+              "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "04037cb1b8adf1b187f4",
+          "title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민",
+          "published_at": "2026-10-30T05:31:38+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/10/28_219288733",
+              "title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "74fded252177613786e9",
+          "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
+          "published_at": "2026-10-30T03:47:16+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216831",
+              "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "fac1e8218119efd29630eefaec652a7b24ccf9ba7353813e00b2022221240437"
+    },
+    {
       "id": "2026-10-30",
       "day": "2026-10-30",
       "scheduled_at": "2026-10-29T21:30:00+00:00",

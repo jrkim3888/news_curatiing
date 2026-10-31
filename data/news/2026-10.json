@@ -370,14 +370,14 @@
     {
       "id": "cfb4189f31938d74a87f",
       "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
-      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+      "title": "엔비디아, 임베디드 개발용 TensorRT Edge-LLM 튜토리얼 공개",
       "original_title": "Run AI Models for Edge Application Development with Just a Few Commands",
       "published_at": "2026-10-30T20:33:18+00:00",
       "collected_at": "2026-10-31T00:28:23+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,... AI is expanding be…",
       "sources": [
         {
@@ -385,7 +385,17 @@
           "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
           "title": "Run AI Models for Edge Application Development with Just a Few Commands"
         }
-      ]
+      ],
+      "summary": "엔비디아가 DGX Spark에서 TensorRT Edge-LLM을 이용해 Nemotron-3.5 Lightning 모델을 실행하는 방법을 소개했다. trtedge 명령줄 인터페이스로 모델을 내려받아 TensorRT 엔진을 빌드하고, 터미널에서 프롬프트를 테스트하거나 API로 서빙할 수 있다. DSpark 추측 디코딩으로 생성 속도를 높이는 방법도 안내했다.",
+      "why_it_matters": "엣지 환경에서 소형 언어모델을 직접 실행하려는 개발자의 진입 장벽을 낮추는 자료다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "63feba799484ec7eef17b5f23b89294117a482c8dd5a75a668a8b27658362193",
+        "evidence_verified": true
+      }
     },
     {
       "id": "044954b8fa5078694f5d",
@@ -495,14 +505,14 @@
     {
       "id": "037154e824aaff256e14",
       "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "title": "nemotron-halloween",
+      "title": "엔비디아 네모트론으로 만든 할로윈 인터랙티브 프로젝션",
       "original_title": "nemotron-halloween",
       "published_at": "2026-10-30T17:57:24+00:00",
       "collected_at": "2026-10-30T19:51:51+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -510,7 +520,17 @@
           "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
           "title": "nemotron-halloween"
         }
-      ]
+      ],
+      "summary": "한 개발자가 엔비디아 네모트론 보이스 에이전트를 활용해 할로윈용 인터랙티브 프로젝션 몬스터하우스를 만들었다. 음성 인식, 소형 언어모델, 음성 합성, 얼굴 애니메이션을 결합해 방문자와 대화하고 표정을 짓는다. 워크스테이션 한 대에서 구동되며 여러 네모트론 모델과 YOLO, 바이트트랙이 역할을 나눠 맡는다.",
+      "why_it_matters": "여러 음성·언어 모델을 조합해 실감형 인터랙션을 구현하는 응용 사례를 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "4e2184bc2b69bfaf4bc29f64bf7268460ece3ec1b930daba8e101a7e2a2a0aae",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1d48dbec944c65110d4f",
@@ -713,14 +733,14 @@
     {
       "id": "979a44e3fdf1a63419d2",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
-      "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+      "title": "칭화대, 사람 눈과 AI 탐지 동시 회피하는 위장 기술 개발",
       "original_title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
       "published_at": "2026-10-30T11:43:53+00:00",
       "collected_at": "2026-10-30T19:51:51+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "중국 칭화대학교(Tsinghua University) 연구진이 문어와 오징어의 위장 능력을 모방해 사람의 눈과 인공지능(AI) 객체 탐지 시스템의 인식을 동시에 어렵게 만드는 동적 위장 기술을 개발했다. 주변 환경을 카메라로 분석하고 AI가 위장 패턴을 생성한 뒤 물체 표면의 디스플레이에 표시하는 방식으로, 환경 변…",
       "sources": [
         {
@@ -728,19 +748,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
           "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현"
         }
-      ]
+      ],
+      "summary": "칭화대 연구진이 문어와 오징어를 모방한 동적 위장 시스템 세프캠을 개발해 네이처 커뮤니케이션스에 발표했다. 세프캠은 환경 변화에 약 0.4초 만에 대응하는 고속 모드와 약 2.5분이 걸리는 정밀 모드를 결합했다. 112명 대상 실험에서 위장 차량의 탐지 성공률이 낮아지고 반응 시간이 길어졌으며, 여러 객체 탐지 모델에서도 회피 성능이 향상됐다고 밝혔다.",
+      "why_it_matters": "AI 탐지를 회피하는 기술은 감시·보안 시스템의 신뢰성 문제를 제기한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "a34e0e9c65e300bd809dfad1f89b465258ba08a02c82a5b31fb3adde71528309",
+        "evidence_verified": true
+      }
     },
     {
       "id": "3d369ba568194a2cb319",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216835",
-      "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
+      "title": "엔비디아, 네이버 3대 주주로…납입일 다음 달 6일",
       "original_title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
       "published_at": "2026-10-30T10:36:17+00:00",
       "collected_at": "2026-10-30T19:51:51+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "엔비디아가 네이버 3대 주주에 오르며 AI 팩토리 협력이 본격화된다.네이버(대표 최수연)는 엔비디아를 대상으로 한 제3자 배정 유상증자 납입일이 다음 달 6일로 확정됐다고 30일 공시했다. 투자 규모는 10억달러(약 1조3400억원)로 신주 상장 예정일은 다음 달 27일이다.양사는 지난 7월 신주인수계약을 체결하며 …",
       "sources": [
         {
@@ -748,7 +778,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216835",
           "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입"
         }
-      ]
+      ],
+      "summary": "네이버는 엔비디아 대상 제3자 배정 유상증자 납입일이 다음 달 6일로 확정됐다고 공시했다. 투자 규모는 10억달러로, 납입이 끝나면 엔비디아는 약 4.54% 지분으로 3대 주주가 된다. 네이버는 내년 상반기 55메가와트 규모 AI 팩토리 가동을 계획하고 있다.",
+      "why_it_matters": "대규모 AI 컴퓨팅 인프라 확보가 지분 투자와 결합되는 구조를 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "8ff92b09e93050cbae90326551d343948ae64a70242eea2bb8f7ce75ce74fe8c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "506cc9ceb374e4f3e54b",
@@ -773,14 +813,14 @@
     {
       "id": "ebe9befb5baeda0e5904",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42513",
-      "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
+      "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 채택",
       "original_title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진",
       "published_at": "2026-10-30T10:05:55+00:00",
       "collected_at": "2026-10-30T19:51:51+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "정책·사회",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "세계보건기구(WHO) 유럽지역 53개 회원국이 의료 분야 인공지능(AI)의 안전한 도입과 활용을 위한 첫 공동 행동 로드맵을 만장일치로 채택했다. 2033년까지 의료 AI의 안전성과 윤리, 데이터 관리, 의료진 역량 강화에 관한 공동 정책 방향을 마련하고 국가별 의료체계에 AI를 체계적으로 적용하기 위한 협력에 나선…",
       "sources": [
         {
@@ -788,7 +828,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42513",
           "title": "WHO 유럽 53개국, 의료 AI 공동 로드맵 만장일치 채택…2033년까지 안전한 의료 AI 도입 추진"
         }
-      ]
+      ],
+      "summary": "WHO 유럽지역 53개 회원국이 2033년까지 의료 AI의 안전한 도입을 위한 공동 행동 로드맵을 만장일치로 채택했다. 로드맵은 거버넌스, 윤리·규제, 의료데이터 인프라, 의료인력 역량 강화를 우선 분야로 제시했다. 회원국들은 실행을 지원할 WHO 전담 사무소 설립에도 지지를 표명했지만 구체적 일정은 공개되지 않았다.",
+      "why_it_matters": "의료 AI 규범이 국제 공통 기준으로 정리되는 흐름은 국내 정책 논의에도 영향을 준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "8de804435fd57e58be6e3561d04144bb977acc4c029d443d9f860441b70556a6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b65c83b1ad39b2c8d9f7",
@@ -1183,14 +1233,14 @@
     {
       "id": "04037cb1b8adf1b187f4",
       "url": "https://byline.network/2026/10/28_219288733",
-      "title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민",
+      "title": "배민, AI 검색 설계와 검증 과정 공개",
       "original_title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민",
       "published_at": "2026-10-30T05:31:38+00:00",
       "collected_at": "2026-10-30T09:41:45+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "치킨을 검색하면 몇 번을 해도 같은 결과가 나온다. 그런데 “비 오는데 뭐 먹지”라고 물으면 AI는 어떤 때는 칼국수를, 어떤 때는 파전이나 국밥을 추천한다. 셋 다 틀린 답은 아니다. 하지만 어떤 답이 나올지 미리 알 수 없다. 이처럼 정답이 정해지지 않은 AI 제품은 어떻게 설계하고, 무엇을 기준으로 합격을 매겨…",
       "sources": [
         {
@@ -1198,7 +1248,17 @@
           "url": "https://byline.network/2026/10/28_219288733",
           "title": "“답이 매번 다르네”…배민 AI 검색 팀의 고민"
         }
-      ]
+      ],
+      "summary": "우아한형제들은 우아콘2026에서 배민 AI 검색을 기획하고 검증한 과정을 소개했다. AI가 의도 해석과 답변 문장을 맡고 기능 실행과 후보 추리는 프로그램이 맡는 식으로 역할을 나눴으며, 정책을 직선형·깔때기형·가드레일형으로 구분했다. QA팀 시험에서 합격률은 74.1%였지만 합격선이 없어 출시 판단이 어려웠다고 전했다.",
+      "why_it_matters": "확률적으로 답이 달라지는 AI 기능의 품질 기준을 어떻게 세울지 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "cadf1194a36a0c6e73784c3e1f64395d0439698c61f368f9fff2c084c7856bea",
+        "evidence_verified": true
+      }
     },
     {
       "id": "207707bc503faa10e6e2",
@@ -1283,14 +1343,14 @@
     {
       "id": "74fded252177613786e9",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216831",
-      "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
+      "title": "LG CNS 3분기 매출 1조6643억원, AI·클라우드가 성장 이끌어",
       "original_title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인",
       "published_at": "2026-10-30T03:47:16+00:00",
       "collected_at": "2026-10-30T09:41:45+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "LG CNS(대표 현신균)는 올해 3분기 매출 1조6643억원, 영업이익 1382억원을 기록했다고 30일 밝혔다.전년 동기 대비 매출은 9.3%, 영업이익은 15.0% 증가했다. AI·클라우드 사업 성장과 금융권 시스템 구축 사업 성과가 실적을 견인했다는 설명이다.AI·클라우드 분야 매출은 전년 동기 대비 9.3% …",
       "sources": [
         {
@@ -1298,7 +1358,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216831",
           "title": "LG CNS, 3분기 매출 1.7조원…AI·클라우드 성장 견인"
         }
-      ]
+      ],
+      "summary": "LG CNS는 3분기 매출 1조6643억원과 영업이익 1382억원을 기록해 전년 동기 대비 각각 9.3%, 15.0% 늘었다고 밝혔다. AI·클라우드 매출은 9615억원, 디지털 비즈니스 서비스 매출은 금융권 시스템 구축을 기반으로 4082억원을 기록했다. 회사는 GPU 확보와 제너럴 애틀랜틱과의 공동투자 등 AI 사업 투자를 이어갈 방침이다.",
+      "why_it_matters": "기업용 AI 수요가 실제 매출로 이어지는지 확인할 수 있는 국내 IT 서비스 실적이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-10-31T01:00:22+00:00",
+        "briefing_day": "2026-10-31",
+        "input_hash": "2fd3451872878c1ba03eddc47e19a0552c7e6315d719f73242e2bb3036084554",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ebcf1ae34524b97462a5",
