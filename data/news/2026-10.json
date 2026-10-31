@@ -3,6 +3,618 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "bfffaa38752034e73e84",
+      "url": "https://www.lowyinstitute.org/the-interpreter/claude-for-clausewitz",
+      "title": "Claude for Clausewitz?",
+      "original_title": "Claude for Clausewitz?",
+      "published_at": "2026-10-31T09:21:40+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.lowyinstitute.org/the-interpreter/claude-for-clausewitz",
+          "title": "Claude for Clausewitz?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314389"
+        }
+      ]
+    },
+    {
+      "id": "ceb96b53603990b225d8",
+      "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+      "title": "Are There Problems Beyond the Reach of AI [video]",
+      "original_title": "Are There Problems Beyond the Reach of AI [video]",
+      "published_at": "2026-10-31T09:19:58+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=NWNbAEivyvs",
+          "title": "Are There Problems Beyond the Reach of AI [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314378"
+        }
+      ]
+    },
+    {
+      "id": "f6dc4299ffabb54dc71b",
+      "url": "https://mundi.chat/try",
+      "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
+      "original_title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
+      "published_at": "2026-10-31T09:18:05+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mundi.chat/try",
+          "title": "Show HN: I benchmarked a voice AI against real people. It scored at chance",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314370"
+        }
+      ]
+    },
+    {
+      "id": "60011b60496d5ddf4204",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+      "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+      "original_title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배",
+      "published_at": "2026-10-31T09:16:47+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국내 이용자들이 업무에서 챗GPT를 가장 많이 활용하는 분야는 여전히 문서·글 편집인 것으로 나타났다. 그러나 이미지와 디자인 등 시각 자료 제작 비중이 1년 사이 두 배 이상 늘어나며 주요 활용 분야로 떠올랐다. 정보 검색이나 문서 작성뿐 아니라 실제 업무 결과물을 만드는 데 AI를 활용하는 사례가 늘어나는 것으로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216834",
+          "title": "한국인 챗GPT 활용, 문서 편집 1위 유지…시각 자료 제작 1년 새 2배"
+        }
+      ]
+    },
+    {
+      "id": "502ed6841366e3badff9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+      "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+      "original_title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+      "published_at": "2026-10-31T09:05:26+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 지구 궤도에 발사한 위성에서 데이터센터급 AI 반도체인 TPU를 가동하고, AI 모델의 추론 결과를 지상으로 전송하는 데 성공했다. 우주에서 데이터센터급 TPU로 실제 AI 작업을 수행한 첫 사례로, 지상 데이터센터의 연산 기능을 우주로 옮기려는 장기 프로젝트가 첫 기술적 성과를 거뒀다. 첫 실험에서는 AI …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+          "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송"
+        }
+      ]
+    },
+    {
+      "id": "9e165c8f16137af02a8e",
+      "url": "https://github.com/openclaw/openclaw/pull/188766",
+      "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
+      "original_title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
+      "published_at": "2026-10-31T09:05:23+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/openclaw/openclaw/pull/188766",
+          "title": "An AI agent read a Shift_JIS page as 208,953 replacement characters",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314324"
+        }
+      ]
+    },
+    {
+      "id": "4bd414e035ebe50830b1",
+      "url": "https://zenodo.org/records/23806637",
+      "title": "Real-time zero-knowledge LLM identification from physical telemetry",
+      "original_title": "Real-time zero-knowledge LLM identification from physical telemetry",
+      "published_at": "2026-10-31T09:05:11+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://zenodo.org/records/23806637",
+          "title": "Real-time zero-knowledge LLM identification from physical telemetry",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314322"
+        }
+      ]
+    },
+    {
+      "id": "b33f8564e6cd5e4252af",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
+      "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장",
+      "original_title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장",
+      "published_at": "2026-10-31T09:04:27+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 카메라로 사물을 보고 마이크로 소리를 듣는 수준을 넘어, 공기 중 화학 성분과 냄새까지 감지하고 해석하는 기술로 진화하고 있다. 미국의 인공지능 센서 전문기업 에이노스(Ainos)가 실제 산업현장에서 수집한 화학 데이터 30억 건을 확보하면서, 피지컬 AI(Physical AI)의 감각을 시각과 청각에서 후각…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
+          "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장"
+        }
+      ]
+    },
+    {
+      "id": "58333316475edd4ddfb6",
+      "url": "https://claude.com/pricing",
+      "title": "Claude Ultra ($200): 20x -> 10x Pro usage every week",
+      "original_title": "Claude Ultra ($200): 20x -> 10x Pro usage every week",
+      "published_at": "2026-10-31T09:01:32+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://claude.com/pricing",
+          "title": "Claude Ultra ($200): 20x -> 10x Pro usage every week",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314301"
+        }
+      ]
+    },
+    {
+      "id": "0e116b6ec6ab11bac16d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+      "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+      "original_title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망",
+      "published_at": "2026-10-31T08:55:40+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 인터넷 연결 없이도 실시간 AI 음성 대화를 지원하는 '제미나이 라이브(Gemini Live)' 오프라인 모드를 개발 중인 것으로 나타났다. 스마트폰에 탑재된 온디바이스 AI 모델을 활용해 네트워크 연결이 어려운 환경에서도 음성 기반 AI 비서 기능을 제공하려는 움직임으로 풀이된다.안드로이드 어소리티는 29일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+          "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발…온디바이스 AI 활용 전망"
+        }
+      ]
+    },
+    {
+      "id": "0426862bfd6e71a0cf92",
+      "url": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+      "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+      "original_title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+      "published_at": "2026-10-31T08:53:45+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+          "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314277"
+        }
+      ]
+    },
+    {
+      "id": "09174079a1bd1a6043d7",
+      "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+      "title": "Open-weight AI models can exploit the patch gap",
+      "original_title": "Open-weight AI models can exploit the patch gap",
+      "published_at": "2026-10-31T08:53:31+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://epoch.ai/publications/open-weight-models-patch-gap",
+          "title": "Open-weight AI models can exploit the patch gap",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314276"
+        }
+      ]
+    },
+    {
+      "id": "c233346b6081b5a50a17",
+      "url": "https://alexkras.com/reading-anthropics-s-1-as-a-claude-code-user",
+      "title": "Reading Anthropic's S-1 as a Claude Code user",
+      "original_title": "Reading Anthropic's S-1 as a Claude Code user",
+      "published_at": "2026-10-31T08:51:46+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://alexkras.com/reading-anthropics-s-1-as-a-claude-code-user",
+          "title": "Reading Anthropic's S-1 as a Claude Code user",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314271"
+        }
+      ]
+    },
+    {
+      "id": "cc43a7277ed6de8b3b3f",
+      "url": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+      "title": "Claude Ultra Plan",
+      "original_title": "Claude Ultra Plan",
+      "published_at": "2026-10-31T08:39:39+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://support.claude.com/en/articles/17728952-what-is-the-ultra-plan",
+          "title": "Claude Ultra Plan",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314228"
+        }
+      ]
+    },
+    {
+      "id": "c1efc3c9196883d2bb7a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216845",
+      "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
+      "original_title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가",
+      "published_at": "2026-10-31T08:38:01+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 '제미나이'에서 구글 문서와 PDF, 스프레드시트, 프레젠테이션 등을 직접 생성하고 편집할 수 있는 기능을 추가했다. 기존에는 파일을 생성하거나 내려받는 기능을 제공했지만, 이제는 채팅을 벗어나지 않고 내용을 수정하고 AI에 추가 작업을 요청할 수 있다.구글은 29일(현지시간) 공식 블로그를 통해 제미나이 앱…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216845",
+          "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가"
+        }
+      ]
+    },
+    {
+      "id": "71d37011dd10d7a5e372",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42521",
+      "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
+      "original_title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
+      "published_at": "2026-10-31T08:28:56+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "미국 인공지능(AI) 휴머노이드 로봇 기업 애질리티 로보틱스(Agility Robotics)가 약 4억6500만달러 규모의 자금 조달을 예상하며 나스닥 상장을 눈앞에 두고 있다. 산업현장에서 실제 운영 실적을 확보한 휴머노이드 기업이 공개 자본시장에 진입을 추진하면서, 피지컬 AI(Physical AI) 산업의 상용…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42521",
+          "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기"
+        }
+      ]
+    },
+    {
+      "id": "a4c3a0480257390066ad",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+      "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+      "original_title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+      "published_at": "2026-10-31T08:09:05+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 청소년의 폭력 행위를 예방하기 위해 챗GPT에서 무기 관련 정보 제공을 제한한다. 폭력 의도가 드러나지 않은 질문이라도 실제 악용할 수 있는 구체적인 무기·보안 시스템 정보는 청소년에게 제공하지 않기로 했다. 폭력에 대한 집착이 감지되면 대화를 자동으로 종료하고, 반복될 경우 계정을 일시 정지하는 조치도 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+          "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단"
+        }
+      ]
+    },
+    {
+      "id": "ad5b14845a674b96e079",
+      "url": "https://quickchat.ai/post/custom-gpt-retirement-migration",
+      "title": "Custom GPTs Are Retiring: How to Migrate Before Dec 11",
+      "original_title": "Custom GPTs Are Retiring: How to Migrate Before Dec 11",
+      "published_at": "2026-10-31T08:04:01+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://quickchat.ai/post/custom-gpt-retirement-migration",
+          "title": "Custom GPTs Are Retiring: How to Migrate Before Dec 11",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314094"
+        }
+      ]
+    },
+    {
+      "id": "4c3894ac4a04352d527f",
+      "url": "https://stateoftheprompt.net/",
+      "title": "State of the Prompt: What People Ask AI",
+      "original_title": "State of the Prompt: What People Ask AI",
+      "published_at": "2026-10-31T08:02:35+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://stateoftheprompt.net/",
+          "title": "State of the Prompt: What People Ask AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50314087"
+        }
+      ]
+    },
+    {
+      "id": "9ec9a28706facd7dd128",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+      "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+      "original_title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+      "published_at": "2026-10-31T08:01:47+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 칩 제조업체 일루바타르 코어엑스(Iluvatar CoreX)가 자체 개발한 GPU ‘톈가이 300(Tiangai 300)’이 엔비디아의 ‘H200’과 대등하거나 일부 AI 작업에서 앞서는 성능을 보였다고 밝혔다.사우스차이나모닝포스트(SCMP)에 따르면, 일루바타르는 28일 중국 상하이에서 열린 '2026 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+          "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서"
+        }
+      ]
+    },
+    {
+      "id": "0c8f0f445d59df75e4c7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42520",
+      "title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의",
+      "original_title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의",
+      "published_at": "2026-10-31T07:59:35+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)의 샘 올트먼(Sam Altman) 최고경영자(CEO)가 삼성전자를 비롯한 삼성 주요 관계사 사장단 50여 명과 만나 인공지능(AI)이 바꿀 산업 환경과 향후 10년의 경영 전략을 논의했다. 글로벌 AI 산업을 이끄는 오픈AI의 최고경영자와 삼성의 핵심 경영진이 한자리에 모인 가운데, 양사의 A…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42520",
+          "title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의"
+        }
+      ]
+    },
+    {
+      "id": "81eea368aa4a52d5d92d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42519",
+      "title": "오픈AI, 웹사이트 AI 학습 거부·허용 신호 수용…콘텐츠 이용 통제 공통 표준 추진",
+      "original_title": "오픈AI, 웹사이트 AI 학습 거부·허용 신호 수용…콘텐츠 이용 통제 공통 표준 추진",
+      "published_at": "2026-10-31T07:37:48+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능 모델 학습에 웹사이트 콘텐츠를 사용할 수 있는지를 콘텐츠 발행자가 직접 표시하고, 여러 AI 기업이 이를 공통으로 인식할 수 있도록 하는 기술 표준화가 추진된다. AI 기업마다 별도로 크롤러 접근 정책을 설정해야 했던 기존 방식에서 벗어나, 웹사이트 운영자가 자신의 콘텐츠에 대한 AI 학습 허용·거부 의사를…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42519",
+          "title": "오픈AI, 웹사이트 AI 학습 거부·허용 신호 수용…콘텐츠 이용 통제 공통 표준 추진"
+        }
+      ]
+    },
+    {
+      "id": "e718088cb1c02013b0e8",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42518",
+      "title": "AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인",
+      "original_title": "AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인",
+      "published_at": "2026-10-31T07:20:43+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능 에이전트를 활용한 사이버공격이 실제 기업 시스템 침입에 사용되면서 사이버 보안의 위협 양상이 빠르게 변화하고 있다.공격자가 탈취한 계정정보를 AI 기반 공격 도구에 제공하면 여러 AI 에이전트가 내부 시스템을 탐색하고 접근 권한을 분석하며 추가 공격 경로를 찾아내는 작업을 자동으로 수행하는 방식이다. 실제 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42518",
+          "title": "AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인"
+        }
+      ]
+    },
+    {
+      "id": "294d2030e31b5d94db9d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216848",
+      "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
+      "original_title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목",
+      "published_at": "2026-10-31T03:26:43+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI타임스와 이스트에이드의 10월 넷째 주(10월23일~29일) 이슈 분석 결과, 미국 중간선거를 앞두고 불거진 미·이란 전면전 우려를 비롯해 국내 증시 급락과 구룡마을 화재 등이 상위권에 올랐다.이번 주 검색량 1위는 '미국 이란 전면전 위험(5.43%)'이 차지했다. 미 중부사령부가 트럼프 대통령에게 이란 공격 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216848",
+          "title": "[AI 이슈트렌드] 미·이란 전쟁 위기 1위…코스피 급락·구룡마을 화재 주목"
+        }
+      ]
+    },
+    {
+      "id": "f0f317b03e6d5f74b5eb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216838",
+      "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증",
+      "original_title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증",
+      "published_at": "2026-10-31T01:48:02+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 영국 클라우드 기업 엔스케일(Nscale)의 대규모 데이터센터 건설을 지원하기 위해 수십억달러의 신용 보증을 제공하는 방안을 논의 중인 것으로 알려졌다. 앤트로픽이 사용할 데이터센터의 건설 자금을 확보하도록 지원하는 것으로, 엔비디아가 GPU 공급을 넘어 고객사의 인프라 투자에 따른 금융 위험까지 분담하려…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216838",
+          "title": "엔비디아, 엔스케일 자금난에 지원 검토…앤트로픽 60조 데이터센터 신용 보증"
+        }
+      ]
+    },
+    {
+      "id": "1572afa10c90f8fcfe95",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216846",
+      "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
+      "original_title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지",
+      "published_at": "2026-10-31T01:33:14+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드'의 최고가 요금제 이름을 변경하고 인증된 가입자를 대상으로 5시간 단위 사용량 제한을 폐지한다. 기존 요금제에 표시된 '20배'가 실제 주간 사용량에도 적용되는 것으로 일부 이용자가 오해하자, 명칭을 바꾸고 구체적인 사용 조건을 설명한 것이다. 앤트로픽은 이용자 혼선에 대해 사과했으며, 월 200…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216846",
+          "title": "앤트로픽, '20배 사용량' 혼선에 요금제 개편…5시간 제한 폐지"
+        }
+      ]
+    },
+    {
+      "id": "778066fca87ac97904e5",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "original_title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "published_at": "2026-10-31T01:20:05+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia"
+        }
+      ]
+    },
+    {
+      "id": "b3fed38a4baa5b9d3150",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216842",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, AI 수용 단계",
+      "original_title": "[AI카툰] Bob, Senior IT guy - 밥, AI 수용 단계",
+      "published_at": "2026-10-31T01:00:00+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글·그림 Dr. Alf…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216842",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, AI 수용 단계"
+        }
+      ]
+    },
+    {
+      "id": "c6eaf525d95eb2545d2b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216843",
+      "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발",
+      "original_title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발",
+      "published_at": "2026-10-31T00:57:25+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 AI 검색을 앞세워 기존 검색 시장의 지배력을 유지했지만, 정작 AI 검색이 핵심 수익원인 광고 사업에 부담을 주기 시작했다. 챗GPT 등 AI 챗봇이 기존 검색을 대체할 것이라는 전망에 대응해 검색 서비스에 AI를 적극 도입했으나, AI 검색의 광고 수익성이 기존 검색에 미치지 못하는 문제가 드러난 것이다.…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216843",
+          "title": "구글, AI 검색에 광고 수익성 타격…시총 5000억달러 증발"
+        }
+      ]
+    },
+    {
+      "id": "1385ef157130eb2d5a37",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216840",
+      "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발",
+      "original_title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발",
+      "published_at": "2026-10-31T00:39:15+00:00",
+      "collected_at": "2026-10-31T09:21:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 빅테크 기업들의 AI 투자 급증에 대한 불안감이 커지면서 기술주가 급락했다. AI 수요와 클라우드 매출은 빠르게 늘고 있지만, 데이터센터와 반도체에 투입되는 막대한 자금이 실제 수익으로 이어질 수 있는지 의문이 커진 것이다. 특히 아마존과 인텔의 실적 발표가 투자자들의 불안을 자극하면서 30일(현지시간) 나스닥…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216840",
+          "title": "AI 거품 붕괴 조짐에 미 기술주 급락…10월 시총 2조달러 증발"
+        }
+      ]
+    },
+    {
       "id": "b85fa3b4900265338779",
       "url": "https://bsvkey-governor-demo.fly.dev/",
       "title": "Governor, a firewall for AI agent spend and tool calls",
