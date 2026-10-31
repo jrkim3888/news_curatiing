@@ -3,6 +3,367 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "30a8f1003da3fbd73bc6",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+      "title": "Writing was flagged as AI. What does that mean?",
+      "original_title": "Writing was flagged as AI. What does that mean?",
+      "published_at": "2026-10-31T23:37:51+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.npr.org/2026/10/31/nx-s1-5963520/ai-writing-detectors-pangram",
+          "title": "Writing was flagged as AI. What does that mean?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50321323"
+        }
+      ]
+    },
+    {
+      "id": "9443438b7d87a529345e",
+      "url": "https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html",
+      "title": "OpenAI's blow to mathematicians: They have annihilated my field of research",
+      "original_title": "OpenAI's blow to mathematicians: They have annihilated my field of research",
+      "published_at": "2026-10-31T23:36:03+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.lemonde.fr/en/science/article/2026/10/12/openai-s-latest-blow-to-mathematicians-they-have-annihilated-my-field-of-research_6758515_10.html",
+          "title": "OpenAI's blow to mathematicians: They have annihilated my field of research",
+          "discussion_url": "https://news.ycombinator.com/item?id=50321310"
+        }
+      ]
+    },
+    {
+      "id": "3be3472ee10adf3492df",
+      "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+      "title": "When AI writes almost all code, what happens to software engineering?",
+      "original_title": "When AI writes almost all code, what happens to software engineering?",
+      "published_at": "2026-10-31T23:34:14+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what",
+          "title": "When AI writes almost all code, what happens to software engineering?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50321300"
+        }
+      ]
+    },
+    {
+      "id": "5bd78febd4a59e340761",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+      "original_title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+      "published_at": "2026-10-31T23:31:26+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "title": "DeepSeek put the architecture for their always-on autonomous agent on GitHub",
+          "discussion_url": "https://news.ycombinator.com/item?id=50321277"
+        }
+      ]
+    },
+    {
+      "id": "785d4ceb71a807a6705c",
+      "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+      "title": "Parameter Labs, ChatGPT 아티팩트 샌드박스 우회 공격 체인 공개…OpenAI 5천 달러 포상",
+      "original_title": "How We Took Over ChatGPT Accounts",
+      "published_at": "2026-10-31T23:15:22+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "summarized",
+      "excerpt": "How We Took Over ChatGPT Accounts Parameter Labs describe an exploit they found against ChatGPT's implementation of the artifacts pattern (OpenAI used to call this \"Canvas\" but …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts",
+          "title": "How We Took Over ChatGPT Accounts"
+        }
+      ],
+      "summary": "Parameter Labs는 ChatGPT의 HTML 프리뷰(아티팩트) 샌드박스 iframe에서 MathLive 가상 키보드의 postMessage 처리 코드가 innerHTML을 사용하는 점을 악용해, 샌드박스 제한 없는 iframe 삽입과 YouTube oEmbed를 통한 JavaScript 실행으로 이어지는 공격 체인을 발견했다고 밝혔다. 이 취약점으로 공유 URL 방문 시 로그인한 다른 사용자의 비공개 데이터 유출이나 대리 행위가 가능했다는 설명이다. OpenAI는 이를 수정하고 5,000달러의 버그 바운티를 지급했다고 전했다.",
+      "why_it_matters": "샌드박스 격리와 CSP 같은 다중 방어가 연쇄적으로 우회될 수 있음을 보여주는 사례로, AI 서비스의 공유 기능이 계정 탈취 경로가 될 수 있음을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-31T23:58:10+00:00",
+        "input_hash": "1b51351f6237bad885f502933771ea5de8fa8fb41c92210006aedabd28863389",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "6ba94c7016887c8f01b2",
+      "url": "https://www.yoursai.in/",
+      "title": "Yours.ai- a Studio for Interesting Ideas",
+      "original_title": "Yours.ai- a Studio for Interesting Ideas",
+      "published_at": "2026-10-31T23:04:53+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.yoursai.in/",
+          "title": "Yours.ai- a Studio for Interesting Ideas",
+          "discussion_url": "https://news.ycombinator.com/item?id=50321102"
+        }
+      ]
+    },
+    {
+      "id": "83d5f3a97dc6154e078f",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+      "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+      "original_title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+      "published_at": "2026-10-31T22:57:27+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/computer-science-degree-programs-lose-students-as-ai-takes-jobs",
+          "title": "Computer Science Programs Lose Students as AI Replaces Jobs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50321065"
+        }
+      ]
+    },
+    {
+      "id": "5573525ea28ffb7c485f",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+      "title": "Anthropic pushes for opt-out model for Australian content",
+      "original_title": "Anthropic pushes for opt-out model for Australian content",
+      "published_at": "2026-10-31T22:42:51+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/technology/2026/oct/02/anthropic-ai-opt-out-australia-copyright-abc-cannibalisation-of-news",
+          "title": "Anthropic pushes for opt-out model for Australian content",
+          "discussion_url": "https://news.ycombinator.com/item?id=50320970"
+        }
+      ]
+    },
+    {
+      "id": "0dab6e0c345417d0ce88",
+      "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56",
+      "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+      "original_title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+      "published_at": "2026-10-31T22:01:31+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ai.pt/en/news/coimbra-s-critical-software-is-rebuilding-itself-around-ai-after-laying-0c3e56",
+          "title": "Critical Software is rebuilding itself around AI (200 ppl being layed off)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50320683"
+        }
+      ]
+    },
+    {
+      "id": "ee8c55356a323a2bb83c",
+      "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
+      "title": "Proton senior management prioritizes AI over security",
+      "original_title": "Proton senior management prioritizes AI over security",
+      "published_at": "2026-10-31T22:01:11+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://consumerrights.wiki/w/Proton_senior_management_prioritizes_AI_over_security",
+          "title": "Proton senior management prioritizes AI over security",
+          "discussion_url": "https://news.ycombinator.com/item?id=50320681"
+        }
+      ]
+    },
+    {
+      "id": "5c0fbc66a7b522ae77a3",
+      "url": "https://quoththeraven.substack.com/p/very-intentional-steve-eisman-thinks",
+      "title": "\"Very Intentional\": Steve Eisman Thinks Anthropic Is Hiding Something",
+      "original_title": "\"Very Intentional\": Steve Eisman Thinks Anthropic Is Hiding Something",
+      "published_at": "2026-10-31T21:50:30+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://quoththeraven.substack.com/p/very-intentional-steve-eisman-thinks",
+          "title": "\"Very Intentional\": Steve Eisman Thinks Anthropic Is Hiding Something",
+          "discussion_url": "https://news.ycombinator.com/item?id=50320601"
+        }
+      ]
+    },
+    {
+      "id": "4694cfbe3b290c441c2a",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "title": "AI text watermarking and quality loss",
+      "original_title": "AI text watermarking and quality loss",
+      "published_at": "2026-10-31T21:50:13+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+          "title": "AI text watermarking and quality loss",
+          "discussion_url": "https://news.ycombinator.com/item?id=50320599"
+        }
+      ]
+    },
+    {
+      "id": "362d7951270f22867c3f",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "original_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "published_at": "2026-10-31T21:41:00+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Apple's new CEO defended the company's current position in the AI landscape.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’"
+        }
+      ]
+    },
+    {
+      "id": "ef87af8c59e4a28c8af1",
+      "url": "https://re-use-demo.geronimo-labs.com/",
+      "title": "Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU",
+      "original_title": "Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU",
+      "published_at": "2026-10-31T21:38:20+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://re-use-demo.geronimo-labs.com/",
+          "title": "Show HN: Nvidia RE-USE speech enhancement model running in the browser on WebGPU",
+          "discussion_url": "https://news.ycombinator.com/item?id=50320492"
+        }
+      ]
+    },
+    {
+      "id": "27056e580a9aee854f0c",
+      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "original_title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "published_at": "2026-10-31T21:36:07+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change th…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale",
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale"
+        }
+      ]
+    },
+    {
+      "id": "b57691e750415c605a04",
+      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "original_title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "published_at": "2026-10-31T21:17:03+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+        }
+      ]
+    },
+    {
+      "id": "e86f6b32fada0cefa132",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+      "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+      "original_title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+      "published_at": "2026-10-31T20:10:51+00:00",
+      "collected_at": "2026-10-31T23:57:45+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+          "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\""
+        }
+      ]
+    },
+    {
       "id": "d63cac49a001cc29aa27",
       "url": "https://www.palladiummag.com/2026/10/30/the-limits-of-ai-as-an-economic-weapon",
       "title": "The Limits of AI as an Economic Weapon",
