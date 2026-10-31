@@ -3,6 +3,391 @@
   "month": "2026-10",
   "articles": [
     {
+      "id": "b85fa3b4900265338779",
+      "url": "https://bsvkey-governor-demo.fly.dev/",
+      "title": "Governor, a firewall for AI agent spend and tool calls",
+      "original_title": "Governor, a firewall for AI agent spend and tool calls",
+      "published_at": "2026-10-31T00:27:46+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bsvkey-governor-demo.fly.dev/",
+          "title": "Governor, a firewall for AI agent spend and tool calls",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311974"
+        }
+      ]
+    },
+    {
+      "id": "8e6d8828488a3929ec34",
+      "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+      "title": "Black October: At least nine AI developer platforms breached this month",
+      "original_title": "Black October: At least nine AI developer platforms breached this month",
+      "published_at": "2026-10-31T00:11:32+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
+          "title": "Black October: At least nine AI developer platforms breached this month",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311844"
+        }
+      ]
+    },
+    {
+      "id": "723372c8dc681795e858",
+      "url": "https://www.anthropic.com/research/agents-judgment-calls",
+      "title": "AI agents shape experts' judgment calls",
+      "original_title": "AI agents shape experts' judgment calls",
+      "published_at": "2026-10-30T23:39:19+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.anthropic.com/research/agents-judgment-calls",
+          "title": "AI agents shape experts' judgment calls",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311585"
+        }
+      ]
+    },
+    {
+      "id": "32b0253b0bd54923ec2b",
+      "url": "https://multispace.dev/",
+      "title": "Show HN: Free Unlimited Virtual Monitors+Watch Claude Work on Them+Community",
+      "original_title": "Show HN: Free Unlimited Virtual Monitors+Watch Claude Work on Them+Community",
+      "published_at": "2026-10-30T23:16:36+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://multispace.dev/",
+          "title": "Show HN: Free Unlimited Virtual Monitors+Watch Claude Work on Them+Community",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311376"
+        }
+      ]
+    },
+    {
+      "id": "24f82a857da3ad8d616b",
+      "url": "https://tanner.place/blog/how-ai-changed-what-i-can-build",
+      "title": "AI changed what I can build",
+      "original_title": "AI changed what I can build",
+      "published_at": "2026-10-30T23:10:13+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tanner.place/blog/how-ai-changed-what-i-can-build",
+          "title": "AI changed what I can build",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311326"
+        }
+      ]
+    },
+    {
+      "id": "af48c6167689ce8d2ce1",
+      "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30",
+      "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+      "original_title": "Reddit shares plunge as Google's AI search squeezes traffic",
+      "published_at": "2026-10-30T23:02:48+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/business/reddit-pinterest-shares-tumble-weak-user-revenue-growth-2026-10-30",
+          "title": "Reddit shares plunge as Google's AI search squeezes traffic",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311250"
+        }
+      ]
+    },
+    {
+      "id": "bdbd23b4babdea0e86db",
+      "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "original_title": "Ollie, a privacy-focused AI assistant, is shutting down",
+      "published_at": "2026-10-30T22:56:13+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down",
+          "title": "Ollie, a privacy-focused AI assistant, is shutting down"
+        }
+      ]
+    },
+    {
+      "id": "20ed7b0041a0952842d3",
+      "url": "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
+      "title": "Assure – your AI agent says \"done.\" This checks if it's lying",
+      "original_title": "Assure – your AI agent says \"done.\" This checks if it's lying",
+      "published_at": "2026-10-30T22:48:05+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/mgasparin67-cmd/Agent-verification_Assure",
+          "title": "Assure – your AI agent says \"done.\" This checks if it's lying",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311101"
+        }
+      ]
+    },
+    {
+      "id": "a233d261184f80083e4d",
+      "url": "https://www.youtube.com/undefined",
+      "title": "AI's Bill Is Due – Intelligence or Brand? – Cold Logic – EP01",
+      "original_title": "AI's Bill Is Due – Intelligence or Brand? – Cold Logic – EP01",
+      "published_at": "2026-10-30T22:41:10+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/undefined",
+          "title": "AI's Bill Is Due – Intelligence or Brand? – Cold Logic – EP01",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311048"
+        }
+      ]
+    },
+    {
+      "id": "10ed001a825b83a7c00b",
+      "url": "https://ali-alkhatib.com/blog/defining-ai",
+      "title": "Defining AI",
+      "original_title": "Defining AI",
+      "published_at": "2026-10-30T22:37:13+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ali-alkhatib.com/blog/defining-ai",
+          "title": "Defining AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311026"
+        }
+      ]
+    },
+    {
+      "id": "cb7613a87e93c4d7769e",
+      "url": "https://sorathompson.substack.com/p/now-what",
+      "title": "Now what? After the AI crash",
+      "original_title": "Now what? After the AI crash",
+      "published_at": "2026-10-30T22:36:10+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://sorathompson.substack.com/p/now-what",
+          "title": "Now what? After the AI crash",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311017"
+        }
+      ]
+    },
+    {
+      "id": "54f20f9f7f25bd156a2f",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+      "title": "Qwen3.5-4B에 NES 6502 CPU 에뮬레이터 내장",
+      "original_title": "dbreunig/nesformer",
+      "published_at": "2026-10-30T21:59:22+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Oct/30/nesformer",
+          "title": "dbreunig/nesformer"
+        }
+      ],
+      "summary": "Drew Breunig이 Qwen3.5-4B 모델의 가중치에 닌텐도 엔터테인먼트 시스템(NES) 6502 CPU를 위한 작동하는 에뮬레이터를 구현했습니다. 이 기능을 통해 사용자는 Qwen 내에서 슈퍼 마리오 브라더스 같은 NES ROM을 실행해 볼 수 있습니다.",
+      "why_it_matters": "대규모 언어 모델(LLM)의 가중치 내에 특정 CPU 에뮬레이터를 통합한 시도는 AI 모델이 단순한 텍스트 생성을 넘어 임베디드 시스템이나 레거시 하드웨어를 구동할 잠재력을 보여줍니다. 이는 AI와 컴퓨팅 환경의 융합을 시사합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-10-31T00:28:46+00:00",
+        "input_hash": "63706bffc8fbea20ec75664f2467b668f1674f5fa7a6123e8d7e2221a8b85fb0",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "5ae1d67b9d2847639ce6",
+      "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "original_title": "Intel’s stock crashes, knocking $12B from government’s stake",
+      "published_at": "2026-10-30T21:54:34+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake",
+          "title": "Intel’s stock crashes, knocking $12B from government’s stake"
+        }
+      ]
+    },
+    {
+      "id": "1abfdb6dc9802b6f4db0",
+      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "original_title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "published_at": "2026-10-30T21:52:03+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its mass…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+          "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+          "discussion_url": "https://news.ycombinator.com/item?id=50311311"
+        }
+      ]
+    },
+    {
+      "id": "869014b81cc7bf413692",
+      "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
+      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "original_title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "published_at": "2026-10-30T21:35:31+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference... Teams building AI a…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
+          "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
+        }
+      ]
+    },
+    {
+      "id": "03ea0cb6a82382c62e33",
+      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+      "title": "Last-minute Halloween costumes for tech nerds",
+      "original_title": "Last-minute Halloween costumes for tech nerds",
+      "published_at": "2026-10-30T21:26:59+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
+          "title": "Last-minute Halloween costumes for tech nerds"
+        }
+      ]
+    },
+    {
+      "id": "434071bc563a35a61d42",
+      "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+      "title": "Cracks are emerging in the AI spending boom",
+      "original_title": "Cracks are emerging in the AI spending boom",
+      "published_at": "2026-10-30T21:17:40+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom",
+          "title": "Cracks are emerging in the AI spending boom"
+        }
+      ]
+    },
+    {
+      "id": "cfb4189f31938d74a87f",
+      "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
+      "title": "Run AI Models for Edge Application Development with Just a Few Commands",
+      "original_title": "Run AI Models for Edge Application Development with Just a Few Commands",
+      "published_at": "2026-10-30T20:33:18+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI is expanding beyond the data center as developers build a new generation of agents to act at the edge: monitoring driver attention and cabin conditions,... AI is expanding be…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
+          "title": "Run AI Models for Edge Application Development with Just a Few Commands"
+        }
+      ]
+    },
+    {
       "id": "044954b8fa5078694f5d",
       "url": "https://bsky.app/profile/saewitz.com/post/3mz4jsd57ck23",
       "title": "OpenAI will now train on personal Daybreak sessions even if you opt out",
@@ -736,6 +1121,26 @@
       ]
     },
     {
+      "id": "5c117ceb9df7af7b16a1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216836",
+      "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+      "original_title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+      "published_at": "2026-10-30T06:45:00+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 '2026 전문가그룹 간담회'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216836",
+          "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최"
+        }
+      ]
+    },
+    {
       "id": "0d9426c7e04d94b36ebb",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42508",
       "title": "울산 제조AI 창업 활성화 나선 이소영 장관…대학 연구기술·대기업 제조 인프라 연계 추진",
@@ -1135,6 +1540,26 @@
           "url": "https://gist.github.com/richhickey/a2e19ef3f6f69ca0cca617a8a0da2268",
           "title": "Rich Hickey: \"AI\" is not a tool",
           "discussion_url": "https://news.ycombinator.com/item?id=50298057"
+        }
+      ]
+    },
+    {
+      "id": "574dbaf7fc8731e40575",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "title": "Fair use benefits everyone",
+      "original_title": "Fair use benefits everyone",
+      "published_at": "2026-10-30T00:00:00+00:00",
+      "collected_at": "2026-10-31T00:28:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/fair-use-benefits-everyone",
+          "title": "Fair use benefits everyone"
         }
       ]
     },
