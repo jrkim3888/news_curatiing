@@ -1648,6 +1648,12 @@
           "source_id": "openai",
           "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
           "title": "Making it easier for websites to express AI training preferences"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "title": "Making it easier for websites to express AI training preferences",
+          "discussion_url": "https://news.ycombinator.com/item?id=50328357"
         }
       ]
     },
