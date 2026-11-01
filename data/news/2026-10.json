@@ -1072,14 +1072,14 @@
     {
       "id": "869014b81cc7bf413692",
       "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
-      "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
+      "title": "NVIDIA, Kubernetes에서 Dynamo 추론 런타임 배포·검증용 AICR 레시피 공개",
       "original_title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo",
       "published_at": "2026-10-30T21:35:31+00:00",
       "collected_at": "2026-10-31T00:28:23+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "Teams building AI applications need a repeatable path from a model configuration to a working inference endpoint. NVIDIA Dynamo is a distributed inference... Teams building AI a…",
       "sources": [
         {
@@ -1087,7 +1087,16 @@
           "url": "https://developer.nvidia.com/blog/build-a-validated-kubernetes-runtime-for-nvidia-dynamo",
           "title": "Build a Validated Kubernetes Runtime for NVIDIA Dynamo"
         }
-      ]
+      ],
+      "summary": "NVIDIA가 분산 추론 프레임워크 Dynamo를 Kubernetes에서 반복 가능하게 배포·검증하기 위한 AI Cluster Runtime(AICR) 레시피를 소개했다. AICR은 GPU 드라이버, DRA, 스케줄링, 노드 헬스, 메트릭, 인그레스 등 런타임 의존성을 버전 고정과 검증 절차로 묶어 제공한다. 글은 Dynamo 프론트엔드 라우터와 Gateway API/EPP 두 라우팅 경로를 비교하고, Dynamo 1.4.2 기준 TCP 요청 플레인과 ZMQ KV-캐시 이벤트 플레인 구성을 설명한다.",
+      "why_it_matters": "Kubernetes에서 분산 추론을 운영할 때 반복 가능한 런타임 구성과 검증 경로를 제공하려는 시도로, 플랫폼 팀의 인프라 의존성 관리 부담을 줄일 수 있다는 점이 핵심이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-01T10:10:24+00:00",
+        "input_hash": "d2646b4d833770223517c1ceca5c1d008556a97de7d39fb01590017cfabde153",
+        "evidence_verified": true
+      }
     },
     {
       "id": "03ea0cb6a82382c62e33",
