@@ -1,0 +1,320 @@
+{
+  "version": 1,
+  "month": "2026-11",
+  "editions": [
+    {
+      "id": "2026-11-01",
+      "day": "2026-11-01",
+      "scheduled_at": "2026-10-31T21:30:00+00:00",
+      "generated_at": "2026-11-01T00:20:34+00:00",
+      "window_start": "2026-10-30T21:00:00+00:00",
+      "window_end": "2026-10-31T21:00:00+00:00",
+      "status": "published",
+      "headline": "우주 추론부터 AI 책임까지, 검증이 관건",
+      "takeaway": "오늘의 한 줄: AI가 우주와 거래, 법률, 영상 제작으로 확장될수록 성능보다 책임과 검증 절차가 중요해집니다.",
+      "overview": [
+        {
+          "text": "구글이 지구 궤도 위성에서 데이터센터급 AI 반도체를 가동해 AI 모델의 추론 결과를 지상으로 전송하는 데 성공했습니다. 위성에는 칩 4개가 탑재됐지만 전력과 냉각, 방사선 문제로 한 번에 하나의 칩만 약 20분간 가동할 수 있어 실제 운용까지는 검증 과제가 남아 있습니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "영국 규제기관 4곳은 AI 에이전트가 스스로 판단해 거래하더라도 이를 운영하는 기업의 법적 책임이 줄어들지 않는다는 공동 입장을 냈습니다. 호주 조사에서는 변호사의 AI 활용률이 55%로 늘었지만 고객이 가져온 부정확한 정보를 검증하는 업무 부담도 커진 것으로 나타났습니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-4"
+          ]
+        },
+        {
+          "text": "애질리티 로보틱스는 약 4억6500만달러 조달을 전망하며 나스닥 상장을 추진하고 있고, 머스크의 스페이스XSI는 영상 생성 AI로 만든 '오디세이' 첫 영상을 공개했습니다. 휴머노이드 로봇의 자본시장 진입과 AI 영상 제작의 완성도 논쟁은 피지컬 AI와 생성 AI가 각각 상용화와 품질 검증 단계에 있음을 보여줍니다.",
+          "issue_ids": [
+            "issue-2",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "구글, 우주 궤도 위성에서 TPU로 첫 AI 추론 성공",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "구글이 지구 궤도 위성에서 데이터센터급 AI 반도체 TPU를 가동해 AI 모델 젬마 4로 추론 결과를 생성하고 지상으로 전송하는 데 성공했다.",
+              "article_ids": [
+                "502ed6841366e3badff9"
+              ],
+              "links": [
+                {
+                  "text": "TPU",
+                  "article_id": "502ed6841366e3badff9"
+                },
+                {
+                  "text": "젬마 4",
+                  "article_id": "502ed6841366e3badff9"
+                }
+              ]
+            },
+            {
+              "text": "위성에는 TPU 4개가 탑재됐지만 최대 1kW 전력으로 한 번에 하나의 칩만 약 20분간 가동할 수 있으며, 냉각과 방사선 문제도 향후 검증 과제로 남아 있다.",
+              "article_ids": [
+                "502ed6841366e3badff9"
+              ],
+              "links": [
+                {
+                  "text": "TPU 4개",
+                  "article_id": "502ed6841366e3badff9"
+                },
+                {
+                  "text": "1kW",
+                  "article_id": "502ed6841366e3badff9"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "지상 데이터센터의 전력·공간 제약을 우주로 분산하려는 시도가 첫 기술 검증 단계에 들어섰다.",
+          "article_ids": [
+            "502ed6841366e3badff9"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "애질리티 로보틱스, 나스닥 상장 초읽기…4억6500만달러 조달 전망",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "애질리티 로보틱스와 SPAC 처칠 캐피털 코퍼레이션 XI는 기업결합과 금융거래를 통해 거래 비용 차감 전 약 4억6500만달러를 조달할 것으로 예상한다고 밝혔다.",
+              "article_ids": [
+                "71d37011dd10d7a5e372"
+              ],
+              "links": [
+                {
+                  "text": "애질리티 로보틱스",
+                  "article_id": "71d37011dd10d7a5e372"
+                },
+                {
+                  "text": "4억6500만달러",
+                  "article_id": "71d37011dd10d7a5e372"
+                }
+              ]
+            },
+            {
+              "text": "주주 승인과 거래 조건이 충족되면 11월 5일부터 나스닥에서 'AGLT' 종목코드로 거래를 시작할 계획이며, 회사는 디짓이 산업현장에서 누적 6만5000시간 이상 운영됐다고 밝혔다.",
+              "article_ids": [
+                "71d37011dd10d7a5e372"
+              ],
+              "links": [
+                {
+                  "text": "AGLT",
+                  "article_id": "71d37011dd10d7a5e372"
+                },
+                {
+                  "text": "6만5000시간",
+                  "article_id": "71d37011dd10d7a5e372"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "산업현장 운영 실적을 가진 휴머노이드 기업이 공개 자본시장에 진입하면 피지컬 AI 상용화 자금 조달 방식이 달라질 수 있다.",
+          "article_ids": [
+            "71d37011dd10d7a5e372"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "영국 규제기관 4곳, AI 에이전트 자율 행동에도 기업 책임 유지",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "영국 디지털규제협력포럼에 참여한 경쟁시장청, 금융행위감독청, 정보위원회, 오프콤은 AI 에이전트의 자율성이 높아져도 이를 배포·운영하는 조직의 법적 책임이 약화되지 않는다고 공동 성명에서 밝혔다.",
+              "article_ids": [
+                "a73e9043f574a758e1e3"
+              ],
+              "links": [
+                {
+                  "text": "디지털규제협력포럼",
+                  "article_id": "a73e9043f574a758e1e3"
+                },
+                {
+                  "text": "법적 책임",
+                  "article_id": "a73e9043f574a758e1e3"
+                }
+              ]
+            },
+            {
+              "text": "규제기관들은 AI 에이전트가 잘못된 정보 제공, 부당한 추천, 사기 노출, 개인정보 부적절 공유 등을 일으킬 수 있다며 소비자 보호와 개인정보 처리, 금융거래 의무 준수를 강조했다.",
+              "article_ids": [
+                "a73e9043f574a758e1e3"
+              ],
+              "links": [
+                {
+                  "text": "사기",
+                  "article_id": "a73e9043f574a758e1e3"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 대신 거래하는 시대에 기업이 기존 법률 의무를 피할 수 없다는 기준이 제시됐다.",
+          "article_ids": [
+            "a73e9043f574a758e1e3"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "변호사 AI 활용률 55%로 급증했지만 업무 부담도 증가",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "호주 빅토리아주 법률서비스위원회 조사에서 법률 업무에 AI를 사용하는 변호사 비율이 2025년 37%에서 2026년 55%로 상승했고, AI 이용자의 78%는 사용량이 늘었다고 답했다.",
+              "article_ids": [
+                "1e9d193fda0beb4604b0"
+              ],
+              "links": [
+                {
+                  "text": "55%",
+                  "article_id": "1e9d193fda0beb4604b0"
+                },
+                {
+                  "text": "78%",
+                  "article_id": "1e9d193fda0beb4604b0"
+                }
+              ]
+            },
+            {
+              "text": "고객을 상대하는 변호사의 46%는 고객이 AI에서 얻은 부정확한 정보로 상담을 요청한 경험이, 41%는 AI 작성 문서를 수정한 경험이 있다고 답했으며, 업무 부담이 증가했다는 응답은 46%였다.",
+              "article_ids": [
+                "1e9d193fda0beb4604b0"
+              ],
+              "links": [
+                {
+                  "text": "41%",
+                  "article_id": "1e9d193fda0beb4604b0"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 도입이 비용 절감보다 검증 부담을 늘릴 수 있음을 보여주며 전문직 업무 재설계가 필요하다.",
+          "article_ids": [
+            "1e9d193fda0beb4604b0"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "머스크, 그록 이매진으로 AI 영화 '오디세이' 첫 영상 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "스페이스XSI는 자체 영상 생성 AI 그록 이매진으로 제작한 7분짜리 '오디세이' 시리즈 첫 영상 '맹세'를 공개했으며, 3명 팀이 2주도 걸리지 않아 수만달러 수준으로 제작했다고 밝혔다.",
+              "article_ids": [
+                "03f71c0e97e894d17abb"
+              ],
+              "links": [
+                {
+                  "text": "그록 이매진",
+                  "article_id": "03f71c0e97e894d17abb"
+                },
+                {
+                  "text": "맹세",
+                  "article_id": "03f71c0e97e894d17abb"
+                }
+              ]
+            },
+            {
+              "text": "일부 장면은 실사에 가깝다는 평가가 나왔지만 장면 연결과 감정 표현이 부족하다는 지적과 함께 가디언 평론가가 5점 만점에 1점을 주는 등 혹평도 나왔다.",
+              "article_ids": [
+                "03f71c0e97e894d17abb"
+              ],
+              "links": [
+                {
+                  "text": "1점",
+                  "article_id": "03f71c0e97e894d17abb"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 영상 생성이 장편 서사에 도전했지만 일관성과 완성도 한계도 함께 드러났다.",
+          "article_ids": [
+            "03f71c0e97e894d17abb"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "1e9d193fda0beb4604b0",
+          "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
+          "published_at": "2026-10-31T14:15:51+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42524",
+              "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "03f71c0e97e894d17abb",
+          "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+          "published_at": "2026-10-31T10:58:00+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
+              "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "a73e9043f574a758e1e3",
+          "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
+          "published_at": "2026-10-31T09:35:02+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
+              "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "502ed6841366e3badff9",
+          "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+          "published_at": "2026-10-31T09:05:26+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+              "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "71d37011dd10d7a5e372",
+          "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
+          "published_at": "2026-10-31T08:28:56+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42521",
+              "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "6f232f9ff513f28c4e8c4bd5935e908407473c046cee7ffecde7b2c0f63551b4"
+    }
+  ]
+}

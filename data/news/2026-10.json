@@ -5,14 +5,14 @@
     {
       "id": "1e9d193fda0beb4604b0",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42524",
-      "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
+      "title": "변호사 AI 활용률 55%로 급증, 업무 부담도 증가",
       "original_title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”",
       "published_at": "2026-10-31T14:15:51+00:00",
       "collected_at": "2026-10-31T19:08:17+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인공지능이 법률 업무에 빠르게 확산되고 있지만, 실제 업무 부담을 줄이거나 고객의 법률서비스 비용을 낮추는 효과는 기대에 미치지 못하고 있다는 조사 결과가 나왔다. 변호사들의 AI 활용률은 1년 만에 크게 높아진 반면, 고객이 AI로 생성한 부정확한 정보와 문서를 검증하고 수정하는 새로운 업무 부담도 늘어난 것으로 …",
       "sources": [
         {
@@ -20,19 +20,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42524",
           "title": "변호사, AI 활용률 55%로 급증했지만 “AI 때문에 업무 늘었다”"
         }
-      ]
+      ],
+      "summary": "호주 빅토리아주 법률서비스위원회 조사에서 법률 업무에 AI를 사용하는 변호사 비율이 2025년 37%에서 2026년 55%로 상승했습니다. 고객을 상대하는 변호사의 46%는 고객이 AI에서 얻은 부정확한 정보로 상담을 요청한 경험이 있다고 답했습니다.",
+      "why_it_matters": "AI 도입이 비용 절감보다 검증 부담을 늘릴 수 있음을 보여주며 전문직 업무 재설계가 필요합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "667de09a7b40f50c53f1ab5c90fc2479ace022eabbae231e55bfd4c288a54407",
+        "evidence_verified": true
+      }
     },
     {
       "id": "03f71c0e97e894d17abb",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
-      "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
+      "title": "머스크, 그록 이매진으로 AI 영화 '오디세이' 공개",
       "original_title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려",
       "published_at": "2026-10-31T10:58:00+00:00",
       "collected_at": "2026-10-31T19:08:17+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "일론 머스크 CEO가 크리스토퍼 놀란 감독의 영화 '오디세이'에 대항해 제작하겠다고 선언한 AI 영화의 첫 번째 영상을 공개했다. 자체 영상 생성 AI '그록 이매진(Grok Imagine)'을 활용한 7분짜리 작품으로, 소규모 제작진이 짧은 기간에 실사 영화에 가까운 장면을 구현했다. 그러나 어색한 연기와 부족한 …",
       "sources": [
         {
@@ -40,19 +50,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
           "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려"
         }
-      ]
+      ],
+      "summary": "스페이스XSI는 자체 영상 생성 AI 그록 이매진으로 제작한 7분짜리 '오디세이' 시리즈 첫 영상 '맹세'를 공개했습니다. 일부 장면은 실사에 가깝다는 평가가 나왔지만 장면 연결과 감정 표현이 부족하다는 혹평도 나왔습니다.",
+      "why_it_matters": "AI 영상 생성이 장편 서사에 도전했지만 일관성과 완성도 한계도 함께 드러났습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "c649fccf566b0bf2c79fe5727e139d71ba36afa3685521b10557c9eedfccf202",
+        "evidence_verified": true
+      }
     },
     {
       "id": "856fb7261dc996b90b9c",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216850",
-      "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
+      "title": "알트먼, AI 수학 연구에 수억달러 투입",
       "original_title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\"",
       "published_at": "2026-10-31T09:53:02+00:00",
       "collected_at": "2026-10-31T19:08:17+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "샘 알트먼 오픈AI CEO가 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔다. 나비에-스토크스 문제의 해법을 찾는 연구에 한때 약 1000만달러(약 134억원)가 들었지만, AI 성능과 연구 방법이 빠르게 개선되면서 비용이 크게 낮아졌다는 설명이다. 그는 아직 공개하지 않은 연구 성과도 상당수 …",
       "sources": [
         {
@@ -60,19 +80,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216850",
           "title": "알트먼 \"AI 수학 연구에 수억달러 투입…공개 안 한 성과도 많아\""
         }
-      ]
+      ],
+      "summary": "샘 알트먼 오픈AI CEO는 AI를 활용한 수학 연구에 수억달러의 컴퓨팅 자원을 투입했다고 밝혔습니다. 나비에-스토크스 문제 연구에 약 1000만달러가 들었지만 모델 성능과 연구 방식이 개선되면서 비용이 크게 낮아졌다고 설명했습니다.",
+      "why_it_matters": "AI가 수학적 발견에 투입되는 비용과 검증 부담, 학계 기여 인정 문제를 함께 드러냅니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "d83f6a1c870c5d22cbd7aaf11538188861b909f99fca617012bfe5850b1f4ac8",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a73e9043f574a758e1e3",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
-      "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
+      "title": "영국 규제기관, AI 에이전트 기업 책임 명확화",
       "original_title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
       "published_at": "2026-10-31T09:35:02+00:00",
       "collected_at": "2026-10-31T19:08:17+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "정책·사회",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "AI 에이전트가 사람을 대신해 상품을 구매하고 금융서비스를 이용하는 시대가 다가오면서, AI의 자율적인 판단과 행동에 대한 기업의 법적 책임이 주요 규제 쟁점으로 떠오르고 있다. 영국의 4개 핵심 규제기관은 AI 에이전트가 스스로 결정을 내리고 업무를 수행하더라도 이를 운영하는 기업의 법적 책임이 줄어들지 않는다는 …",
       "sources": [
         {
@@ -80,7 +110,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
           "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화"
         }
-      ]
+      ],
+      "summary": "영국 디지털규제협력포럼에 참여한 경쟁시장청, 금융행위감독청, 정보위원회, 오프콤은 AI 에이전트의 자율성이 높아져도 이를 배포·운영하는 조직의 법적 책임이 약화되지 않는다고 공동 성명에서 밝혔습니다. 규제기관들은 소비자 보호와 개인정보 처리, 금융거래 의무 준수를 강조했습니다.",
+      "why_it_matters": "AI가 대신 거래하는 시대에 기업이 기존 법률 의무를 피할 수 없다는 기준이 제시됐습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "998139ba895957732d7b2a24f4800c89dadf2ea0d57ce8b80a84b05aa501811b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "bfffaa38752034e73e84",
@@ -168,14 +208,14 @@
     {
       "id": "502ed6841366e3badff9",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216837",
-      "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+      "title": "구글, 위성 TPU로 첫 AI 추론 성공",
       "original_title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
       "published_at": "2026-10-31T09:05:26+00:00",
       "collected_at": "2026-10-31T09:21:43+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "구글이 지구 궤도에 발사한 위성에서 데이터센터급 AI 반도체인 TPU를 가동하고, AI 모델의 추론 결과를 지상으로 전송하는 데 성공했다. 우주에서 데이터센터급 TPU로 실제 AI 작업을 수행한 첫 사례로, 지상 데이터센터의 연산 기능을 우주로 옮기려는 장기 프로젝트가 첫 기술적 성과를 거뒀다. 첫 실험에서는 AI …",
       "sources": [
         {
@@ -183,7 +223,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216837",
           "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송"
         }
-      ]
+      ],
+      "summary": "구글이 지구 궤도 위성에서 데이터센터급 TPU를 가동해 AI 모델 젬마 4로 시를 생성하고 지상으로 전송하는 데 성공했습니다. 위성에는 TPU 4개가 탑재됐지만 전력과 냉각, 방사선 문제로 한 번에 하나의 칩만 약 20분간 가동할 수 있어 후속 검증이 필요합니다.",
+      "why_it_matters": "지상 데이터센터의 전력·공간 제약을 우주로 분산하려는 시도가 첫 기술 검증 단계에 들어섰습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "b642fc8e1568de8f6954c8d44060a6fd6b61fdf5fb31a4a03753da2e7c60eb7d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "9e165c8f16137af02a8e",
@@ -230,14 +280,14 @@
     {
       "id": "b33f8564e6cd5e4252af",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
-      "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장",
+      "title": "에이노스, AI 후각 센서로 화학 데이터 30억 건 확보",
       "original_title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장",
       "published_at": "2026-10-31T09:04:27+00:00",
       "collected_at": "2026-10-31T09:21:43+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "AI가 카메라로 사물을 보고 마이크로 소리를 듣는 수준을 넘어, 공기 중 화학 성분과 냄새까지 감지하고 해석하는 기술로 진화하고 있다. 미국의 인공지능 센서 전문기업 에이노스(Ainos)가 실제 산업현장에서 수집한 화학 데이터 30억 건을 확보하면서, 피지컬 AI(Physical AI)의 감각을 시각과 청각에서 후각…",
       "sources": [
         {
@@ -245,7 +295,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
           "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 '피지컬 AI 감각' 확장"
         }
-      ]
+      ],
+      "summary": "미국 AI 센서 기업 에이노스가 AI 후각 센서 플랫폼 'AI 노즈'를 통해 축적한 실제 환경 기반 화학 데이터가 30억 건을 넘어섰다고 밝혔습니다. 에이노스는 1400대의 AI 노즈 시스템을 공급했으며 반도체 조립·검사 공정 등에서 화학 신호를 수집하고 분석하고 있습니다.",
+      "why_it_matters": "피지컬 AI의 감각이 시각과 청각에서 후각으로 확장되며 제조현장 모니터링 방식이 넓어질 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "dced189187b81bce0f1b80dd4bb3c4c160dea7ad32f3d564a5d1e595a77125dc",
+        "evidence_verified": true
+      }
     },
     {
       "id": "58333316475edd4ddfb6",
@@ -395,14 +455,14 @@
     {
       "id": "71d37011dd10d7a5e372",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42521",
-      "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
+      "title": "애질리티 로보틱스, 나스닥 상장 초읽기",
       "original_title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기",
       "published_at": "2026-10-31T08:28:56+00:00",
       "collected_at": "2026-10-31T09:21:43+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "미국 인공지능(AI) 휴머노이드 로봇 기업 애질리티 로보틱스(Agility Robotics)가 약 4억6500만달러 규모의 자금 조달을 예상하며 나스닥 상장을 눈앞에 두고 있다. 산업현장에서 실제 운영 실적을 확보한 휴머노이드 기업이 공개 자본시장에 진입을 추진하면서, 피지컬 AI(Physical AI) 산업의 상용…",
       "sources": [
         {
@@ -410,7 +470,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42521",
           "title": "“휴머노이드도 나스닥 간다”…애질리티 로보틱스, 4억6500만달러 조달 전망하며 상장 초읽기"
         }
-      ]
+      ],
+      "summary": "애질리티 로보틱스와 SPAC 처칠 캐피털 코퍼레이션 XI는 기업결합과 금융거래로 약 4억6500만달러를 조달할 것으로 예상한다고 밝혔습니다. 주주 승인과 거래 조건이 충족되면 11월 5일부터 나스닥에서 'AGLT' 종목코드로 거래를 시작할 계획입니다.",
+      "why_it_matters": "산업현장 운영 실적을 가진 휴머노이드 기업이 공개 자본시장에 진입하면 피지컬 AI 상용화 자금 조달 방식이 달라질 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-01T00:20:34+00:00",
+        "briefing_day": "2026-11-01",
+        "input_hash": "146767ce096eb15148f943ea12d9a1731aa58ef0b4888b2ce6513ec238411686",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a4c3a0480257390066ad",
