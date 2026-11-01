@@ -1,0 +1,401 @@
+{
+  "reviewed_on_kst": "2026-11-02",
+  "reference": "https://news.hada.io/topic?id=15184",
+  "original_discussion": "https://news.ycombinator.com/item?id=40478422",
+  "input_provenance": "User pasted the GeekNews post and comments after direct access returned HTTP 403. The original HN comment tree was not independently fetched.",
+  "scope": "27 unique site recommendations from the pasted post/comments; related-post recommendations are not source candidates.",
+  "summary": {
+    "reviewed_candidates": 27,
+    "homepages_accessible": 4,
+    "environment_access_blocked": 23,
+    "enabled": 3,
+    "deferred": 24
+  },
+  "limitations": "Network denial in this environment is not evidence that a site is unavailable to GitHub Actions or a Mac. RSS/robots checks are a one-time observation, not a guarantee of continued access or complete coverage.",
+  "sources": [
+    {
+      "id": "lobsters",
+      "homepage": "https://lobste.rs/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.131340+00:00",
+      "notes": "개발자 커뮤니티 후보. AI 관련 필터·원문/토론 URL 분리를 검증한 뒤 도입 검토."
+    },
+    {
+      "id": "bearblog",
+      "homepage": "https://bearblog.dev/discover/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.131979+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "paperlined",
+      "homepage": "https://paperlined.org/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.132344+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "lemmy_technology",
+      "homepage": "https://lemmy.ml/c/technology",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.132667+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "engineeringblogs",
+      "homepage": "https://engineeringblogs.xyz/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.147173+00:00",
+      "notes": "사용자가 제공한 도메인으로 기존 Engineering Blogs 후보의 사이트를 식별. 공식 피드와 최근 업데이트 검증은 보류."
+    },
+    {
+      "id": "jimmyr",
+      "homepage": "https://jimmyr.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.149338+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "interestingengineering",
+      "homepage": "https://interestingengineering.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": 200,
+      "access_error": null,
+      "checked_at": "2026-11-01T22:48:11.151503+00:00",
+      "notes": "홈페이지는 접근 가능하지만 RSS 자동 발견·공식 피드 링크를 확인하지 못함. 별도 목록 어댑터와 날짜·유료 글 처리가 필요해 보류."
+    },
+    {
+      "id": "researchbuzz",
+      "homepage": "https://researchbuzz.me/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.153969+00:00",
+      "notes": "연구 도구·검색·AI 자료 발견용 후보. 모음 글의 AI 관련성 및 개별 원문 구분 검증 필요."
+    },
+    {
+      "id": "techmeme",
+      "homepage": "https://www.techmeme.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "enabled",
+      "homepage_status": 200,
+      "access_error": null,
+      "checked_at": "2026-11-01T22:48:11.156207+00:00",
+      "notes": "AI 기사 발견용. RSS의 원문 제목 링크를 추출하고 Techmeme 모음 URL을 별도 보존. 요약·원문 크롤링은 하지 않음.",
+      "feed_check": {
+        "id": "techmeme",
+        "endpoint": "https://www.techmeme.com/feed.xml",
+        "checked_at": "2026-11-01T22:49:20.697256+00:00",
+        "entries": 15,
+        "dated_entries": 15,
+        "unique_urls": 15,
+        "ai_matches": 5,
+        "recent_ai_matches": 5,
+        "latest": "2026-11-01T22:15:02+00:00",
+        "samples": [
+          {
+            "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b",
+            "title": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51% (Dean Takahashi/GamesBeat)",
+            "published_at": "2026-11-01T22:15:02+00:00"
+          },
+          {
+            "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+            "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
+            "published_at": "2026-11-01T21:30:01+00:00"
+          },
+          {
+            "url": "https://colossus.com/article/michael-kratsios-office-frontier-ostp",
+            "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)",
+            "published_at": "2026-11-01T15:30:00+00:00"
+          }
+        ],
+        "robots_received": true,
+        "raw_feed_entries": 15,
+        "parsed_entries": 15,
+        "original_links_extracted": 15
+      },
+      "production_policy": {
+        "adapter": "techmeme",
+        "ai_only": false,
+        "summarize": false,
+        "fetch_body": false
+      }
+    },
+    {
+      "id": "robohub",
+      "homepage": "https://robohub.org/",
+      "discovered_via": "user_supplied_post",
+      "decision": "enabled",
+      "homepage_status": 200,
+      "access_error": null,
+      "checked_at": "2026-11-01T22:48:11.158711+00:00",
+      "notes": "로봇 학습·AI 연구 보강. 피드 본문으로만 요약하고 일반 로봇 하드웨어는 제외. 최신 일반 글은 10월 30일이나 최근 3일에 AI 해당 글은 없음.",
+      "feed_check": {
+        "id": "robohub",
+        "endpoint": "https://robohub.org/feed/",
+        "checked_at": "2026-11-01T22:49:20.697845+00:00",
+        "entries": 75,
+        "dated_entries": 75,
+        "unique_urls": 75,
+        "ai_matches": 26,
+        "recent_ai_matches": 0,
+        "latest": "2026-10-30T13:33:53+00:00",
+        "samples": [
+          {
+            "url": "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova",
+            "title": "Robot Talk Episode 166 – Evolving robot bodies and brains, with Rika Antonova",
+            "published_at": "2026-10-16T11:36:47+00:00"
+          },
+          {
+            "url": "https://robohub.org/robot-talk-episode-164-accelerating-robot-learning-with-michelle-lu",
+            "title": "Robot Talk Episode 164 – Accelerating robot learning, with Michelle Lu",
+            "published_at": "2026-10-02T11:33:00+00:00"
+          },
+          {
+            "url": "https://robohub.org/an-open-source-approach-to-physical-ai-from-intrinsic",
+            "title": "An open source approach to physical AI from Intrinsic",
+            "published_at": "2026-09-25T08:41:15+00:00"
+          }
+        ],
+        "robots_received": true,
+        "raw_feed_entries": 75,
+        "parsed_entries": 75,
+        "original_links_extracted": 0
+      },
+      "production_policy": {
+        "adapter": "rss",
+        "ai_only": false,
+        "summarize": true,
+        "fetch_body": false
+      }
+    },
+    {
+      "id": "bleepingcomputer",
+      "homepage": "https://www.bleepingcomputer.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "enabled",
+      "homepage_status": 200,
+      "access_error": null,
+      "checked_at": "2026-11-01T22:48:11.162168+00:00",
+      "notes": "AI 보안·제품 기사를 선별. Sponsored 작성자 광고 2건을 제외. 기존 robots 정책에 따라 링크 전용으로 추가.",
+      "feed_check": {
+        "id": "bleepingcomputer",
+        "endpoint": "https://www.bleepingcomputer.com/feed/",
+        "checked_at": "2026-11-01T22:49:20.698269+00:00",
+        "entries": 15,
+        "dated_entries": 15,
+        "unique_urls": 15,
+        "ai_matches": 5,
+        "recent_ai_matches": 5,
+        "latest": "2026-11-01T19:57:53+00:00",
+        "samples": [
+          {
+            "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat",
+            "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+            "published_at": "2026-11-01T13:53:11+00:00"
+          },
+          {
+            "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys",
+            "title": "Northflank security breach leads to abuse of customers' AI API keys",
+            "published_at": "2026-10-31T18:01:12+00:00"
+          },
+          {
+            "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
+            "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+            "published_at": "2026-10-31T12:50:09+00:00"
+          }
+        ],
+        "robots_received": true,
+        "raw_feed_entries": 15,
+        "parsed_entries": 13,
+        "original_links_extracted": 0
+      },
+      "production_policy": {
+        "adapter": "rss",
+        "ai_only": false,
+        "summarize": false,
+        "fetch_body": false
+      }
+    },
+    {
+      "id": "dailyrotation",
+      "homepage": "https://www.dailyrotation.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.605528+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "raddle",
+      "homepage": "https://raddle.me/f/Tech",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.611097+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "datatau",
+      "homepage": "https://datatau.net/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.614682+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "twostopbits",
+      "homepage": "https://twostopbits.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.619291+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "sciurls",
+      "homepage": "https://sciurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.622790+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "mathurls",
+      "homepage": "https://mathurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.626540+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "techurls",
+      "homepage": "https://techurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.629748+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "finurls",
+      "homepage": "https://finurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.632970+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "physurls",
+      "homepage": "https://physurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.636081+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "devurls",
+      "homepage": "https://devurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.639232+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "hwurls",
+      "homepage": "https://hwurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.642514+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "tuxurls",
+      "homepage": "https://tuxurls.com/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.645566+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "brutalist",
+      "homepage": "https://brutalist.report/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.648827+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "stacker",
+      "homepage": "https://stacker.news/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.651805+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "tildes",
+      "homepage": "https://tildes.net/",
+      "discovered_via": "user_supplied_post",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.654869+00:00",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+    },
+    {
+      "id": "csr_netking",
+      "homepage": "https://csr.netking.xyz/",
+      "discovered_via": "user_supplied_comment",
+      "decision": "deferred",
+      "homepage_status": null,
+      "access_error": "URLError: <urlopen error Tunnel connection failed: 403 Forbidden>",
+      "checked_at": "2026-11-01T22:48:11.657935+00:00",
+      "notes": "댓글에서 추천한 국내 정보보안 소식 모음. AI 보안 기사 비중·RSS·출처 표시를 검증한 뒤 도입 검토."
+    }
+  ]
+}

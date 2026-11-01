@@ -112,6 +112,30 @@
       "region": "global",
       "role": "analysis",
       "enabled": true
+    },
+    {
+      "id": "bleepingcomputer",
+      "name": "BleepingComputer",
+      "homepage": "https://www.bleepingcomputer.com/",
+      "region": "global",
+      "role": "media",
+      "enabled": true
+    },
+    {
+      "id": "techmeme",
+      "name": "Techmeme",
+      "homepage": "https://www.techmeme.com/",
+      "region": "global",
+      "role": "signal",
+      "enabled": true
+    },
+    {
+      "id": "robohub",
+      "name": "Robohub",
+      "homepage": "https://robohub.org/",
+      "region": "global",
+      "role": "media",
+      "enabled": true
     }
   ]
 }

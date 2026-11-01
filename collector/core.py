@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 
 UTC = timezone.utc
 CATEGORIES = ("모델·연구", "개발·도구", "산업·비즈니스", "정책·사회")
-AI_PATTERN = re.compile(r"\b(llm|gpt\w*|claude|anthropic|openai|gemini|deepmind|hugging\s?face|nvidia|machine learning|neural|agentic|copilot|chatbot|diffusion|transformer|mistral|qwen|deepseek)\b|(?<![a-z])ai(?![a-z])|인공지능|생성형|언어모델|언어 모델|머신러닝|딥러닝|챗봇|챗GPT|에이전트|클로드|제미나이|엔비디아", re.I)
+AI_PATTERN = re.compile(r"\b(llm|gpt\w*|claude|anthropic|openai|gemini|deepmind|hugging\s?face|nvidia|artificial intelligence|machine learning|deep learning|reinforcement learning|robot learning|neural|agentic|copilot|chatbot|diffusion|transformer|mistral|qwen|deepseek)\b|(?<![a-z])ai(?![a-z])|인공지능|생성형|언어모델|언어 모델|머신러닝|딥러닝|챗봇|챗GPT|에이전트|클로드|제미나이|엔비디아", re.I)
 
 
 def iso_now() -> str:

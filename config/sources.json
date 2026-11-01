@@ -222,5 +222,56 @@
     "fetch_body": true,
     "notes": "LLM·에이전트·실제 사용 실험. 링크 메모와 장문 분석을 구분.",
     "description": "LLM과 개발 도구를 직접 실험하며 기록하는 개발자입니다. 분석과 링크 소개를 함께 다룹니다."
+  },
+  {
+    "id": "bleepingcomputer",
+    "name": "BleepingComputer",
+    "region": "global",
+    "role": "media",
+    "homepage": "https://www.bleepingcomputer.com/",
+    "endpoint": "https://www.bleepingcomputer.com/feed/",
+    "adapter": "rss",
+    "enabled": true,
+    "timezone": "UTC",
+    "ai_only": false,
+    "summarize": false,
+    "fetch_body": false,
+    "exclude_author_prefixes": [
+      "Sponsored"
+    ],
+    "notes": "2026-11-02: 공식 RSS·날짜·최근 AI 보안 기사 확인. Sponsored 작성자 광고 제외. robots의 ClaudeBot 차단과 기존 보수적 수집 정책을 따라 원문 링크만 제공.",
+    "description": "AI 서비스 보안 사고, AI 악용과 개발 도구 보안을 다루는 보안 전문 매체입니다. AI 관련 기사만 모으며 후원 콘텐츠는 제외합니다."
+  },
+  {
+    "id": "techmeme",
+    "name": "Techmeme",
+    "region": "global",
+    "role": "signal",
+    "homepage": "https://www.techmeme.com/",
+    "endpoint": "https://www.techmeme.com/feed.xml",
+    "adapter": "techmeme",
+    "enabled": true,
+    "timezone": "UTC",
+    "ai_only": false,
+    "summarize": false,
+    "fetch_body": false,
+    "notes": "2026-11-02: 공식 RSS 15건·발행 시각 확인. 굵은 제목의 원문 링크를 추출하고 Techmeme 모음 페이지를 토론 링크로 보존. 집계 내용은 독립 취재나 LLM 근거로 취급하지 않음.",
+    "description": "여러 매체의 기술 뉴스를 모으는 큐레이션 서비스입니다. AI 관련 소식을 선별해 원문으로 연결하고 Techmeme의 관련 보도 모음도 함께 제공합니다."
+  },
+  {
+    "id": "robohub",
+    "name": "Robohub",
+    "region": "global",
+    "role": "media",
+    "homepage": "https://robohub.org/",
+    "endpoint": "https://robohub.org/feed/",
+    "adapter": "rss",
+    "enabled": true,
+    "timezone": "UTC",
+    "ai_only": false,
+    "summarize": true,
+    "fetch_body": false,
+    "notes": "2026-11-02: RSS 75건·본문·시간대 확인. AI·학습 관련 로봇 연구만 선별하고 피드가 제공하는 충분한 본문으로만 요약. 낮은 발행 빈도이며 최근 3일에 해당 기사가 없을 수 있음.",
+    "description": "로봇 연구자들의 인터뷰와 기술 소식을 다루는 전문 매체입니다. 인공지능·로봇 학습 관련 글을 선별하고, 기고와 재게시 자료는 출처의 설명으로 읽습니다."
   }
 ]

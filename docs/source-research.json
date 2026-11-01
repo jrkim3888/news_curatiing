@@ -6,7 +6,7 @@
   "llm_configuration": "deferred_to_implementation",
   "collection_interval_hours": 6,
   "site_hosting": "Cloudflare Pages static",
-  "meaning": "Research candidates, not an approved or enabled production source list",
+  "meaning": "Research history with current enabled flags mirrored from config/sources.json; config/sources.json is the sole runtime source list.",
   "priorities": {
     "P0": "초기 도입 후보; 직접 접근/품질/이용 조건 확인 후 활성화",
     "P1": "보강 후보",
@@ -30,7 +30,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "AI 섹션으로 제한. 광고·투자 보도와 기술 출시 구분.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -40,7 +40,7 @@
         "evidence_id": "techcrunch"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "robots contains named AI-crawler rules; evaluate intended agent and publisher terms separately. Generic crawling response is not LLM reuse authorization."
     },
     {
@@ -77,9 +77,9 @@
       "name": "BleepingComputer",
       "region": "global",
       "role": "media",
-      "priority": "P2",
+      "priority": "P1",
       "original_design": true,
-      "decision": "demote",
+      "decision": "enable_filtered_feed",
       "homepage": "https://www.bleepingcomputer.com/",
       "candidate_endpoint": "https://www.bleepingcomputer.com/feed/",
       "endpoint_evidence": "direct_http_and_xml_validation",
@@ -87,8 +87,8 @@
       "alternate_feed": null,
       "alternate_provider": null,
       "local_alternate_file": null,
-      "notes": "보안 전문. AI 보안·모델 유출·AI 악용 기사만 필터링.",
-      "enabled": false,
+      "notes": "AI 보안·제품 기사를 선별. Sponsored 작성자 광고 2건을 제외. 기존 robots 정책에 따라 링크 전용으로 추가.",
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -98,8 +98,14 @@
         "evidence_id": "bleepingcomputer"
       },
       "pilot_recommendation": false,
-      "production_enabled": false,
-      "policy_note": "Public technical access does not establish republication permission"
+      "production_enabled": true,
+      "policy_note": "Public technical access does not establish republication permission",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "enabled",
+        "notes": "AI 보안·제품 기사를 선별. Sponsored 작성자 광고 2건을 제외. 기존 robots 정책에 따라 링크 전용으로 추가."
+      }
     },
     {
       "id": "aitimes",
@@ -117,7 +123,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "RSS 50개·각 description 약 300자. 날짜에 시간대가 없지만 기사 JSON-LD의 +09:00과 대조 확인. 충분한 요약에는 공개 원문 확보 필요.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -127,7 +133,7 @@
         "evidence_id": "aitimes"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -146,7 +152,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "RSS 50개·각 description 약 300자. 기사 article:published_time의 +09:00과 대조 확인. AI타임스와 별도 매체이며 공통 보도자료는 중복 제거.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -156,7 +162,7 @@
         "evidence_id": "aitimes_kr"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -175,7 +181,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "공식 newstories JSON과 실제 item 3개 응답 확인. 링크 없는 Ask HN·영상·비AI 글도 있어 필터 필요. 최대 목록 길이·최근 구간 커버리지를 관찰.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "json_received",
@@ -185,7 +191,7 @@
         "evidence_id": "hackernews"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -204,7 +210,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "원문 발견·국내 개발자 관심도 신호. 게시글/댓글을 원문 사실과 분리.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -214,7 +220,7 @@
         "evidence_id": "geeknews"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "robots contains named AI-crawler rules; evaluate intended agent and publisher terms separately. Generic crawling response is not LLM reuse authorization."
     },
     {
@@ -224,7 +230,7 @@
       "role": "signal",
       "priority": "P1",
       "original_design": true,
-      "decision": "reclassify",
+      "decision": "enable_filtered_feed",
       "homepage": "https://www.techmeme.com/",
       "candidate_endpoint": "https://www.techmeme.com/feed.xml",
       "endpoint_evidence": "direct_http_and_xml_validation",
@@ -232,8 +238,8 @@
       "alternate_feed": null,
       "alternate_provider": null,
       "local_alternate_file": null,
-      "notes": "집계·관심도 소스. 연결된 원문과 독립 보도로 이중 집계하지 않기.",
-      "enabled": false,
+      "notes": "AI 기사 발견용. RSS의 원문 제목 링크를 추출하고 Techmeme 모음 URL을 별도 보존. 요약·원문 크롤링은 하지 않음.",
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -243,8 +249,14 @@
         "evidence_id": "techmeme"
       },
       "pilot_recommendation": false,
-      "production_enabled": false,
-      "policy_note": "Public technical access does not establish republication permission"
+      "production_enabled": true,
+      "policy_note": "Public technical access does not establish republication permission",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "enabled",
+        "notes": "AI 기사 발견용. RSS의 원문 제목 링크를 추출하고 Techmeme 모음 URL을 별도 보존. 요약·원문 크롤링은 하지 않음."
+      }
     },
     {
       "id": "aiweekly",
@@ -331,16 +343,22 @@
       },
       "pilot_recommendation": false,
       "production_enabled": false,
-      "policy_note": "Public technical access does not establish republication permission"
+      "policy_note": "Public technical access does not establish republication permission",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "홈페이지는 접근 가능하지만 RSS 자동 발견·공식 피드 링크를 확인하지 못함. 별도 목록 어댑터와 날짜·유료 글 처리가 필요해 보류."
+      }
     },
     {
       "id": "robohub",
       "name": "Robohub",
       "region": "global",
       "role": "research_curated",
-      "priority": "P2",
+      "priority": "P1",
       "original_design": true,
-      "decision": "demote",
+      "decision": "enable_filtered_feed",
       "homepage": "https://robohub.org/",
       "candidate_endpoint": "https://robohub.org/feed/",
       "endpoint_evidence": "direct_http_and_xml_validation",
@@ -348,8 +366,8 @@
       "alternate_feed": null,
       "alternate_provider": null,
       "local_alternate_file": null,
-      "notes": "RSS 75개·2026-10-14 항목 확인. 사이트 중단이 아니라 초기 AI/개발 중심 범위와의 관련성 때문에 후순위.",
-      "enabled": false,
+      "notes": "로봇 학습·AI 연구 보강. 피드 본문으로만 요약하고 일반 로봇 하드웨어는 제외. 최신 일반 글은 10월 30일이나 최근 3일에 AI 해당 글은 없음.",
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -359,8 +377,14 @@
         "evidence_id": "robohub"
       },
       "pilot_recommendation": false,
-      "production_enabled": false,
-      "policy_note": "Public technical access does not establish republication permission"
+      "production_enabled": true,
+      "policy_note": "Public technical access does not establish republication permission",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "enabled",
+        "notes": "로봇 학습·AI 연구 보강. 피드 본문으로만 요약하고 일반 로봇 하드웨어는 제외. 최신 일반 글은 10월 30일이나 최근 3일에 AI 해당 글은 없음."
+      }
     },
     {
       "id": "importai",
@@ -398,8 +422,8 @@
       "role": "ambiguous",
       "priority": "hold",
       "original_design": true,
-      "decision": "replace",
-      "homepage": null,
+      "decision": "identified_pending_verification",
+      "homepage": "https://engineeringblogs.xyz/",
       "candidate_endpoint": null,
       "endpoint_evidence": "not_identified",
       "evidence_url": null,
@@ -418,7 +442,13 @@
       },
       "pilot_recommendation": false,
       "production_enabled": false,
-      "policy_note": "Public technical access does not establish republication permission"
+      "policy_note": "Public technical access does not establish republication permission",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "사용자가 제공한 도메인으로 기존 Engineering Blogs 후보의 사이트를 식별. 공식 피드와 최근 업데이트 검증은 보류."
+      }
     },
     {
       "id": "techblogposts",
@@ -465,7 +495,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "모델·API·제품의 1차 발표. 자사 성능 주장은 발표 주체에 귀속.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -475,7 +505,7 @@
         "evidence_id": "openai"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -494,7 +524,7 @@
       "alternate_provider": "Alan Turing Institute, third-party generated feed",
       "local_alternate_file": "anthropic-news.xml",
       "notes": "공식 페이지와 제3자 RSS 구분. 일부 항목에 설명이 없어 제목만으로 요약하지 않기.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "html_or_other",
@@ -504,7 +534,7 @@
         "evidence_id": "anthropic"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -581,7 +611,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "전체 Google RSS 대신 리디렉션으로 확인한 AI 전용 /innovation-and-ai/technology/ai/rss/ 사용. DeepMind 발표와 이슈 중복 제거.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -591,7 +621,7 @@
         "evidence_id": "google_ai"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -610,7 +640,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "RSS 100개 확인. 응답이 gzip으로 압축되어 있으므로 압축 해제 후 XML 파싱해야 함.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -620,7 +650,7 @@
         "evidence_id": "deepmind"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -639,7 +669,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "RSS 879개가 있으나 description/content 본문은 없음. 공개 기사 HTML 표본 및 공식 GitHub 본문 확인. 공식·기업 계정·커뮤니티 작성자를 구분.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -649,7 +679,7 @@
         "evidence_id": "huggingface"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -697,7 +727,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "GPU·추론·배포·로보틱스. 기업 홍보와 실제 기술 문서를 구분.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -707,7 +737,7 @@
         "evidence_id": "nvidia"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -958,7 +988,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "RSS 20개와 원문 표본 확인. robots에는 일반 feed 경로 제한과 루트 /feed/ 명시 Allow가 함께 있으므로 임의 카테고리 feed로 확대하지 않기.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -968,7 +998,7 @@
         "evidence_id": "byline"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -1074,7 +1104,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "Atom 20개에 본문 제공(표본 중앙값 약 4,768자). 기사 URL 직접 HTML은 앱 셸에 가까우므로 피드 본문 우선. robots 경로가 HTML을 반환해 규칙 확인은 별도 필요.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -1084,7 +1114,7 @@
         "evidence_id": "naver_d2"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "robots URL returned HTML, not a usable robots policy"
     },
     {
@@ -1219,7 +1249,7 @@
       "alternate_provider": null,
       "local_alternate_file": null,
       "notes": "LLM·에이전트·실제 사용 실험. 링크 메모와 장문 분석을 구분.",
-      "enabled": false,
+      "enabled": true,
       "rights_review": "robots_inspected_where_available; publisher reuse terms not approved",
       "verification": {
         "status": "feed_parsed",
@@ -1229,7 +1259,7 @@
         "evidence_id": "simonwillison"
       },
       "pilot_recommendation": true,
-      "production_enabled": false,
+      "production_enabled": true,
       "policy_note": "Public technical access does not establish republication permission"
     },
     {
@@ -1434,6 +1464,446 @@
       "pilot_recommendation": false,
       "production_enabled": false,
       "policy_note": "Public technical access does not establish republication permission"
+    },
+    {
+      "id": "lobsters",
+      "name": "Lobsters",
+      "region": "global",
+      "role": "signal",
+      "priority": "P1",
+      "original_design": false,
+      "homepage": "https://lobste.rs/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "개발자 커뮤니티 후보. AI 관련 필터·원문/토론 URL 분리를 검증한 뒤 도입 검토.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "개발자 커뮤니티 후보. AI 관련 필터·원문/토론 URL 분리를 검증한 뒤 도입 검토."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "bearblog",
+      "name": "Bear Blog Discover",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://bearblog.dev/discover/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "paperlined",
+      "name": "Paperlined",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://paperlined.org/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "lemmy_technology",
+      "name": "Lemmy Technology",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://lemmy.ml/c/technology",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "jimmyr",
+      "name": "Jimmyr",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://jimmyr.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "researchbuzz",
+      "name": "ResearchBuzz",
+      "region": "global",
+      "role": "signal",
+      "priority": "P1",
+      "original_design": false,
+      "homepage": "https://researchbuzz.me/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "연구 도구·검색·AI 자료 발견용 후보. 모음 글의 AI 관련성 및 개별 원문 구분 검증 필요.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "연구 도구·검색·AI 자료 발견용 후보. 모음 글의 AI 관련성 및 개별 원문 구분 검증 필요."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "dailyrotation",
+      "name": "Daily Rotation",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://www.dailyrotation.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "raddle",
+      "name": "Raddle Tech",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://raddle.me/f/Tech",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "datatau",
+      "name": "DataTau",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://datatau.net/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "twostopbits",
+      "name": "TwoStopBits",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://twostopbits.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "sciurls",
+      "name": "SciUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://sciurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "mathurls",
+      "name": "MathUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://mathurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "techurls",
+      "name": "TechUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://techurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "finurls",
+      "name": "FinUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://finurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "physurls",
+      "name": "PhysUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://physurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "devurls",
+      "name": "DevUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://devurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "hwurls",
+      "name": "HWUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://hwurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "tuxurls",
+      "name": "TuxUrls",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://tuxurls.com/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "brutalist",
+      "name": "Brutalist Report",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://brutalist.report/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "stacker",
+      "name": "Stacker News",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://stacker.news/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "tildes",
+      "name": "Tildes",
+      "region": "global",
+      "role": "signal",
+      "priority": "P2",
+      "original_design": false,
+      "homepage": "https://tildes.net/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "일반 기술·과학·개인 글·링크 모음 후보. 이 환경의 네트워크 제한으로 최신 내용과 피드를 검증하지 못해 운영 추가는 보류."
+      },
+      "enabled": false,
+      "production_enabled": false
+    },
+    {
+      "id": "csr_netking",
+      "name": "CSR / Netking",
+      "region": "kr",
+      "role": "signal",
+      "priority": "P1",
+      "original_design": false,
+      "homepage": "https://csr.netking.xyz/",
+      "candidate_endpoint": null,
+      "decision": "defer_pending_verification",
+      "notes": "댓글에서 추천한 국내 정보보안 소식 모음. AI 보안 기사 비중·RSS·출처 표시를 검증한 뒤 도입 검토.",
+      "latest_review": {
+        "date_kst": "2026-11-02",
+        "report": "source-reviews/2026-11-02-hada-15184.json",
+        "decision": "deferred",
+        "notes": "댓글에서 추천한 국내 정보보안 소식 모음. AI 보안 기사 비중·RSS·출처 표시를 검증한 뒤 도입 검토."
+      },
+      "enabled": false,
+      "production_enabled": false
     }
   ],
   "reviewed_at": "2026-10-16T05:57:59.385532+00:00",
@@ -1462,5 +1932,12 @@
     "news_sitemap_parsed": 1,
     "http_error": 1
   },
-  "validation_scope": "One-time public endpoint and payload checks, plus selected article/robots samples. No unattended collection, full extraction implementation, LLM calls, or permission grant."
+  "validation_scope": "One-time public endpoint and payload checks, plus selected article/robots samples. No unattended collection, full extraction implementation, LLM calls, or permission grant.",
+  "supplemental_reviews": [
+    {
+      "date_kst": "2026-11-02",
+      "reference": "https://news.hada.io/topic?id=15184",
+      "report": "source-reviews/2026-11-02-hada-15184.json"
+    }
+  ]
 }

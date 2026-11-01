@@ -19,7 +19,10 @@ def parse_rss(content: bytes, source: dict) -> list[dict]:
     if not feed.version:
         raise ValueError("Expected RSS or Atom")
     items = []
+    excluded_authors = tuple(prefix.casefold() for prefix in source.get('exclude_author_prefixes', []))
     for entry in feed.entries:
+        if excluded_authors and plain(entry.get('author', '')).casefold().startswith(excluded_authors):
+            continue
         url = entry.get("link")
         if not url or not entry.get("title"):
             continue
@@ -28,8 +31,23 @@ def parse_rss(content: bytes, source: dict) -> list[dict]:
         except ValueError:
             continue
         body = " ".join(c.get("value", "") for c in entry.get("content", [])) or entry.get("summary", "")
-        items.append({"url": url, "title": plain(entry.title), "published_at": parse_date(
-            entry.get("published") or entry.get("updated"), source["timezone"]), "body": plain(body)})
+        discussion_url = None
+        if source.get('adapter') == 'techmeme':
+            # The image and publisher-homepage links are not the source article.
+            # Only the bold headline link represents Techmeme's primary source.
+            headline = BeautifulSoup(body, 'html.parser').select_one('b a[href], strong a[href]')
+            if headline:
+                try:
+                    original = canonical_url(headline['href'])
+                except ValueError:
+                    original = None
+                if original and urlsplit(original).hostname != urlsplit(url).hostname:
+                    discussion_url, url = url, original
+        item = {"url": url, "title": plain(entry.title), "published_at": parse_date(
+            entry.get("published") or entry.get("updated"), source["timezone"]), "body": plain(body)}
+        if discussion_url:
+            item['discussion_url'] = discussion_url
+        items.append(item)
     return items
 
 
@@ -56,7 +74,7 @@ def parse_anthropic(content: bytes, source: dict) -> list[dict]:
 def collect_source(source: dict) -> tuple[list[dict], str]:
     hosts = hosts_for(source)
     raw = request(source["endpoint"], hosts)
-    if source["adapter"] == "rss":
+    if source["adapter"] in ("rss", "techmeme"):
         return parse_rss(raw, source), ""
     if source["adapter"] == "anthropic":
         return parse_anthropic(raw, source), ""

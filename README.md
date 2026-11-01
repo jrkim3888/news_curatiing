@@ -26,7 +26,8 @@ Mac으로 수집·발행을 옮길 때는 [Mac + OpenClaw 운영 가이드](docs
 - 뉴스 아카이브의 카테고리 탭, 키워드·발행일 범위·출처·국내외·AI 요약·북마크 복합 필터
 - 카드/리스트 보기 전환, 브라우저 북마크와 보기 방식 저장, URL로 검색 조건 유지
 - 한국어·영문 정적 전체 검색(Pagefind), RSS, 사이트맵, canonical·OG·구조화 메타데이터
-- 검증한 14개 출처: RSS/Atom 12개, Hacker News 공식 API, Anthropic 공식 HTML
+- 검증한 17개 출처: RSS/Atom 15개(Techmeme 원문 링크 추출 포함), Hacker News 공식 API, Anthropic 공식 HTML
+- BleepingComputer의 AI 보안 기사, Techmeme의 AI 원문 발견, Robohub의 AI·로봇 학습 소식 보강. [2026-11-02 후보 검토](docs/source-reviews/2026-11-02-hada-15184.md)
 - 한국 시간 보정, 미래/오래된 기사 제외, 혼합 매체 AI 필터, URL/동일 제목 중복 제거
 - OpenRouter 한국어 요약·의미 설명, 출력·근거 구절 검증, 호출 수 제한·실패 후 재요청 대기
 - 일부 소스 실패 시 이전 기사 보존, 절반 미만의 소스만 성공하면 배치 중단, 원자적 JSON 쓰기

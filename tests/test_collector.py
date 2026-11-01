@@ -31,6 +31,44 @@ class SourceTests(unittest.TestCase):
         self.assertEqual(item["body"], "Full article body")
         self.assertEqual(item["published_at"], "2026-10-15T06:00:00+00:00")
 
+    def test_techmeme_links_to_headline_source_and_preserves_roundup(self):
+        rss = b'''<rss version="2.0"><channel><title>Techmeme</title><item>
+        <title>A new AI model (Example News)</title><link>https://www.techmeme.com/261101/p1#a261101p1</link>
+        <pubDate>Sun, 01 Nov 2026 12:00:00 GMT</pubDate><description><![CDATA[
+        <a href="https://ads.example.com/banner"><img src="image.jpg"></a>
+        <a href="https://publisher.example.com/">Example News</a>
+        <b><a href="https://publisher.example.com/news?id=7&amp;utm_source=techmeme">A new AI model</a></b>
+        ]]></description></item></channel></rss>'''
+        item = parse_rss(rss, {'timezone':'UTC', 'adapter':'techmeme'})[0]
+        self.assertEqual(item['url'], 'https://publisher.example.com/news?id=7')
+        self.assertEqual(item['discussion_url'], 'https://www.techmeme.com/261101/p1')
+        self.assertEqual(item['published_at'], '2026-11-01T12:00:00+00:00')
+        # Generic RSS behavior remains unchanged for other publishers.
+        self.assertEqual(parse_rss(rss, {'timezone':'UTC'})[0]['url'], item['discussion_url'])
+
+    def test_techmeme_missing_or_invalid_headline_link_keeps_roundup_url(self):
+        for body in ('<a href="https://publisher.example.com/">Publisher</a>',
+                     '<b><a href="javascript:alert(1)">AI news</a></b>',
+                     '<strong><a href="https://user:password@example.com/">AI news</a></strong>',
+                     '<b><a href="https://www.techmeme.com/261101/p1">AI news</a></b>'):
+            with self.subTest(body=body):
+                rss = ('<rss version="2.0"><channel><title>Feed</title><item><title>AI news</title>'
+                       '<link>https://www.techmeme.com/261101/p1</link><description><![CDATA[' + body +
+                       ']]></description></item></channel></rss>').encode()
+                item = parse_rss(rss, {'timezone':'UTC','adapter':'techmeme'})[0]
+                self.assertEqual(item['url'], 'https://www.techmeme.com/261101/p1')
+                self.assertNotIn('discussion_url', item)
+
+    def test_rss_sponsored_authors_are_excluded_only_when_configured(self):
+        rss = b'''<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Feed</title>
+        <item><title>AI security course</title><link>https://example.com/ad</link><dc:creator>Sponsored by Example</dc:creator></item>
+        <item><title>Sponsored AI scams investigated</title><link>https://example.com/news</link><dc:creator>A Reporter</dc:creator></item>
+        <item><title>AI announcement</title><link>https://example.com/official</link></item>
+        </channel></rss>'''
+        self.assertEqual(len(parse_rss(rss, {'timezone':'UTC'})), 3)
+        filtered = parse_rss(rss, {'timezone':'UTC','exclude_author_prefixes':['sponsored']})
+        self.assertEqual([i['url'] for i in filtered], ['https://example.com/news','https://example.com/official'])
+
     def test_anthropic_official_listing_adapter_and_layout_failure(self):
         html = b'<a href="/news/test"><time>Oct 15, 2026</time><span class="PublicationList__title">New announcement</span></a>'
         item = parse_anthropic(html, {"homepage": "https://www.anthropic.com/news"})[0]
@@ -69,6 +107,13 @@ def fixture_article(url, title='AI model launch with a sufficiently descriptive 
 
 
 class CurationTests(unittest.TestCase):
+    def test_spelled_out_ai_research_is_included_but_robot_hardware_alone_is_not(self):
+        for phrase in ('artificial intelligence', 'deep learning', 'reinforcement learning', 'robot learning'):
+            with self.subTest(phrase=phrase):
+                self.assertTrue(is_ai_relevant('A new research approach', 'The researchers use ' + phrase + '.'))
+        self.assertFalse(is_ai_relevant('Advancing robotics with novel electronics',
+                                       'Flexible printed electronics for dexterous robots.'))
+
     def test_generated_image_credit_does_not_make_local_event_ai_news(self):
         self.assertFalse(is_ai_relevant('광양 채용박람회', 'AI 생성 영상광양시에서 구인기업과 구직자가 참여했다.'))
         self.assertTrue(is_ai_relevant('오픈AI, 챗GPT 업데이트', '새로운 음성 기능을 발표했다.'))
@@ -139,6 +184,7 @@ class PipelineTests(unittest.TestCase):
         self.addCleanup(self.temp.cleanup)
         self.args = argparse.Namespace(data_dir=self.temp.name, runtime_dir=str(Path(self.temp.name) / 'runtime'), days=3, no_llm=True, dry_run=False)
         self.path = Path(self.temp.name) / 'catalog.json'
+        self.source_count = sum(s['enabled'] for s in json.loads((ROOT / 'config/sources.json').read_text()))
 
     def fetch(self, source):
         now = datetime.now(UTC)
@@ -159,7 +205,7 @@ class PipelineTests(unittest.TestCase):
         self.assertEqual(result['result'], 'unchanged')
         self.assertEqual(self.path.read_bytes(), before)
         data = read_news(self.temp.name)
-        self.assertEqual(len(data['articles']), 14)
+        self.assertEqual(len(data['articles']), self.source_count)
         validate_dataset(data)
 
     def test_all_source_failure_preserves_previous_bytes(self):
@@ -176,7 +222,7 @@ class PipelineTests(unittest.TestCase):
                 raise RuntimeError('offline')
             return self.fetch(source)
         self.quiet_run(fetch_source=partial)
-        self.assertEqual(len(read_news(self.temp.name)['articles']), 14)
+        self.assertEqual(len(read_news(self.temp.name)['articles']), self.source_count)
 
     @patch.dict(os.environ, {'OPENROUTER_API_KEY': 'test-only-not-a-key', 'OPENROUTER_MODEL': 'test/model', 'MAX_SUMMARIES_PER_RUN': '1'})
     def test_paid_call_cap_and_failure_cooldown(self):
@@ -208,7 +254,7 @@ class PipelineTests(unittest.TestCase):
         with patch('collector.__main__.ROOT', root):
             self.quiet_run()
         data = read_news(root)
-        self.assertEqual(len(data['articles']), 14)
+        self.assertEqual(len(data['articles']), self.source_count)
         self.assertFalse(next(s for s in data['sources'] if s['id'] == 'openai')['enabled'])
         validate_dataset(data)
 
