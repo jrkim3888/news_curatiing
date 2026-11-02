@@ -3,6 +3,335 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "252a1f4f553f4ba053f0",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42533",
+      "title": "공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화",
+      "original_title": "공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화",
+      "published_at": "2026-11-02T00:19:38+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 공무원의 자료 조사부터 보고서 작성까지 인공지능(AI)을 활용하는 행정업무 환경 구축에 속도를 낸다. 외부 인터넷망으로 이동하지 않고도 최신 정보를 검색할 수 있도록 업무망에 AI 웹검색 기능을 도입한 데 이어, 오는 12월에는 기존 행정자료를 활용해 한글 보고서 초안을 자동 작성하는 기능까지 선보인다.행정안…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42533",
+          "title": "공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화"
+        }
+      ]
+    },
+    {
+      "id": "386462b7b880fc0702f6",
+      "url": "https://better-together.fun/",
+      "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "original_title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+      "published_at": "2026-11-02T00:19:11+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://better-together.fun/",
+          "title": "Show HN: Better Together – AI agents team up against spam calls and texts",
+          "discussion_url": "https://news.ycombinator.com/item?id=50331415"
+        }
+      ]
+    },
+    {
+      "id": "e7aea804d1201fff014a",
+      "url": "https://operator0x.com/field-notes/weights-still-need-a-home",
+      "title": "How Small Can We Slice an AI Model?",
+      "original_title": "How Small Can We Slice an AI Model?",
+      "published_at": "2026-11-02T00:15:04+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://operator0x.com/field-notes/weights-still-need-a-home",
+          "title": "How Small Can We Slice an AI Model?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50331384"
+        }
+      ]
+    },
+    {
+      "id": "e8409ed2573f1342ce22",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+      "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+      "original_title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "문제 해결을 위한 AI 에이전트 설계이선협 | 한빛미디어2026년 10월 30일추천이유이 책은 AI 에이전트가 정말 필요한지부터 시작해 문제를 분석하고 LLM과 코드의 역할을 나누는 설계 능력을 갖추도록 합니다. 저자는 프레임워크 없이 직접 구현한 다섯 가지 실제 예제를 통해 어떤 상황에서도 적용할 수 있는 오래가는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216785",
+          "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계"
+        }
+      ]
+    },
+    {
+      "id": "ab530fa36781ce358fda",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42532",
+      "title": "이재용 회장, 일본 첨단 패키징 연구거점 직접 챙겼다…AI 반도체 기술 경쟁력 강화",
+      "original_title": "이재용 회장, 일본 첨단 패키징 연구거점 직접 챙겼다…AI 반도체 기술 경쟁력 강화",
+      "published_at": "2026-11-01T23:45:38+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성전자가 인공지능(AI) 반도체 경쟁력의 핵심으로 떠오른 첨단 패키징 기술 확보에 속도를 내고 있다. 일본에 구축한 연구개발 거점을 중심으로 차세대 반도체 소재와 공정 기술을 개발하고, 현지 소재·부품·장비 기업과의 협력을 확대해 고성능·저전력 AI 반도체 구현에 필요한 기술 기반을 강화한다는 전략이다.삼성전자 이…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42532",
+          "title": "이재용 회장, 일본 첨단 패키징 연구거점 직접 챙겼다…AI 반도체 기술 경쟁력 강화"
+        }
+      ]
+    },
+    {
+      "id": "c3eb6b95239d693d6382",
+      "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls",
+      "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "original_title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+      "published_at": "2026-11-01T23:39:35+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls",
+          "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+          "discussion_url": "https://news.ycombinator.com/item?id=50331090"
+        }
+      ]
+    },
+    {
+      "id": "bd7ba1a6c85450d5d45e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42531",
+      "title": "KAIST, AI 학습 데이터 69% 줄여도 성능 유지…학습 시간 최대 69.6% 단축",
+      "original_title": "KAIST, AI 학습 데이터 69% 줄여도 성능 유지…학습 시간 최대 69.6% 단축",
+      "published_at": "2026-11-01T23:30:12+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능 모델을 특정 분야에 맞게 추가 학습시키는 데 필요한 데이터와 시간을 대폭 줄이면서도 기존 성능을 거의 유지할 수 있는 기술이 국내 연구진에 의해 개발됐다.AI 학습에 투입하는 그래픽처리장치(GPU)를 늘리는 대신, 학습 효과가 높은 데이터를 선별하고 여러 GPU에 효율적으로 배분하는 방식이다. KAIST 전…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42531",
+          "title": "KAIST, AI 학습 데이터 69% 줄여도 성능 유지…학습 시간 최대 69.6% 단축"
+        }
+      ]
+    },
+    {
+      "id": "88039e6e22aafb643ccf",
+      "url": "https://ai-nerfs.com/",
+      "title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
+      "original_title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
+      "published_at": "2026-11-01T23:14:01+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ai-nerfs.com/",
+          "title": "AI Nerfs: Are Claude, ChatGPT, and Gemini Nerfed Today?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50330883"
+        }
+      ]
+    },
+    {
+      "id": "b48dc2273e7b530e220d",
+      "url": "https://mom-hub.tryapexti.ai/",
+      "title": "Made-of-meat, a listserv for agentic eng practitioners",
+      "original_title": "Made-of-meat, a listserv for agentic eng practitioners",
+      "published_at": "2026-11-01T23:07:29+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mom-hub.tryapexti.ai/",
+          "title": "Made-of-meat, a listserv for agentic eng practitioners",
+          "discussion_url": "https://news.ycombinator.com/item?id=50330842"
+        }
+      ]
+    },
+    {
+      "id": "cb29f96534885908a673",
+      "url": "https://brasspage.com/alive",
+      "title": "An AI runs a tiny web studio with a year to earn its existence",
+      "original_title": "An AI runs a tiny web studio with a year to earn its existence",
+      "published_at": "2026-11-01T22:46:33+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://brasspage.com/alive",
+          "title": "An AI runs a tiny web studio with a year to earn its existence",
+          "discussion_url": "https://news.ycombinator.com/item?id=50330716"
+        }
+      ]
+    },
+    {
+      "id": "57e33e1c03940976952f",
+      "url": "https://avartha.ai/blog/introducing-avartha",
+      "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "original_title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+      "published_at": "2026-11-01T22:28:27+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://avartha.ai/blog/introducing-avartha",
+          "title": "Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50330585"
+        }
+      ]
+    },
+    {
+      "id": "02e0f8314d1a4dac9a17",
+      "url": "https://byline.network/2026/11/30-626",
+      "title": "169만원 XR 글래스 ‘엑스리얼 아우라’, 첫인상은",
+      "original_title": "169만원 XR 글래스 ‘엑스리얼 아우라’, 첫인상은",
+      "published_at": "2026-11-01T22:16:27+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“제미나이, 유튜브에서 롤러코스터 타는 영상 찾아서 재생해.” “제미나이, 프루트 닌자라는 게임 앱 실행해” ‘엑스리얼 아우라’에 탑재된 제미나이에 이 같은 음성 명령을 내리자 곧바로 유튜브가 실행되고 롤러코스터 탑승자 시점의 영상이 켜진다. 순식간에 눈앞 풍경이 놀이공원으로 바뀌었다. 제미나이는 두 번째 명령도 곧…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/30-626",
+          "title": "169만원 XR 글래스 ‘엑스리얼 아우라’, 첫인상은"
+        }
+      ]
+    },
+    {
+      "id": "81284649239fb24a1970",
+      "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b",
+      "title": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51% (Dean Takahashi/GamesBeat)",
+      "original_title": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51% (Dean Takahashi/GamesBeat)",
+      "published_at": "2026-11-01T22:15:02+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Dean Takahashi / GamesBeat : Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://gamesbeat.com/saudi-arabias-aramco-buy-49-stake-in-ai-firm-humain-for-2-6b",
+          "title": "Saudi Aramco acquires a 49% stake in AI startup Humain, contributing ~$2.6B in cash in 2026 plus AI, compute, and digital assets; Saudi Arabia's PIF retains 51% (Dean Takahashi/GamesBeat)",
+          "discussion_url": "https://www.techmeme.com/261101/p17"
+        }
+      ]
+    },
+    {
+      "id": "e621a5b384ce839c8a49",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "original_title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "published_at": "2026-11-01T21:55:23+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Data centers are deeply unpopular. But what if we called them something else?…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+        }
+      ]
+    },
+    {
+      "id": "4945f438c59d6b3a2474",
+      "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+      "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
+      "original_title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
+      "published_at": "2026-11-01T21:30:01+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Axios : OpenAI plans a post-midterms policy and PR blitz, pushing mandatory “speed limits” for powerful AI and rebranding its data centers as “AI compute campuses” — Right after…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+          "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
+          "discussion_url": "https://www.techmeme.com/261101/p16"
+        }
+      ]
+    },
+    {
+      "id": "c33aab374796d53e0f1d",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "original_title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "published_at": "2026-11-01T20:57:58+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "On Equity, we discuss why tech CEO statements can seem so tone deaf.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?"
+        }
+      ]
+    },
+    {
       "id": "5b0ffa59b5ae1c0363ff",
       "url": "https://versuscraft.xyz/sample",
       "title": "Versuscraft: Fact-checked AI comparison posts for dev tools",
@@ -229,6 +558,47 @@
           "source_id": "simonwillison",
           "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
           "title": "Quoting Kyle Kingsbury"
+        }
+      ]
+    },
+    {
+      "id": "74472b21220edacbd5d3",
+      "url": "https://colossus.com/article/michael-kratsios-office-frontier-ostp",
+      "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)",
+      "original_title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)",
+      "published_at": "2026-11-01T15:30:00+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Harry Lambert / Colossus : A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://colossus.com/article/michael-kratsios-office-frontier-ostp",
+          "title": "A profile of White House OSTP Director Michael Kratsios, an ex-Peter Thiel aide who is among a handful of players steering the Trump administration's AI policy (Harry Lambert/Colossus)",
+          "discussion_url": "https://www.techmeme.com/261101/p9"
+        }
+      ]
+    },
+    {
+      "id": "45479892e16d4e607d79",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat",
+      "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "original_title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+      "published_at": "2026-11-01T13:53:11+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat",
+          "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat"
         }
       ]
     },
@@ -538,6 +908,27 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216857",
           "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진"
+        }
+      ]
+    },
+    {
+      "id": "7820c30f9be5671a3cd1",
+      "url": "https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d",
+      "title": "Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation (Sarah Klearman/Wall Street Journal)",
+      "original_title": "Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation (Sarah Klearman/Wall Street Journal)",
+      "published_at": "2026-11-01T06:35:00+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sarah Klearman / Wall Street Journal : Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/pro/venture-capital/ai-startup-lumaril-wants-to-make-factories-the-best-version-of-themselves-b65ea83d",
+          "title": "Lumaril, which develops AI software for optimizing industrial production by connecting to existing control systems, raised a $66M Series A at a $400M valuation (Sarah Klearman/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261101/p6"
         }
       ]
     },
@@ -1368,6 +1759,26 @@
           "url": "https://dl.acm.org/doi/full/10.1145/3706598.3713778",
           "title": "The Impact of Generative AI on Critical Thinking",
           "discussion_url": "https://news.ycombinator.com/item?id=50318401"
+        }
+      ]
+    },
+    {
+      "id": "7a318fe996e6117e2975",
+      "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "original_title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "published_at": "2026-10-31T18:01:12+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use o…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys",
+          "title": "Northflank security breach leads to abuse of customers' AI API keys"
         }
       ]
     },

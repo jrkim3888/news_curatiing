@@ -33,6 +33,26 @@
       }
     },
     {
+      "id": "71d92d6a48c1cf9968f4",
+      "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
+      "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "original_title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+      "published_at": "2026-10-31T12:50:09+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, …",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques",
+          "title": "Chainalysis discloses data breach from \"offensive agentic techniques\""
+        }
+      ]
+    },
+    {
       "id": "03f71c0e97e894d17abb",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216851",
       "title": "머스크, 그록 이매진으로 AI 영화 '오디세이' 공개",
@@ -1139,6 +1159,26 @@
       ]
     },
     {
+      "id": "6617c8ee53373e8872f5",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "original_title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "published_at": "2026-10-30T21:09:46+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root …",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers",
+          "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers"
+        }
+      ]
+    },
+    {
       "id": "cfb4189f31938d74a87f",
       "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
       "title": "엔비디아, 임베디드 개발용 TensorRT Edge-LLM 튜토리얼 공개",
@@ -1420,6 +1460,26 @@
         "input_hash": "680a3d821ead173c2c60135b0312672fa902b99ca622193ebcdb09c408953686",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "3b99573e7ab441bb3e38",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
+      "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "original_title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+      "published_at": "2026-10-30T14:36:54+00:00",
+      "collected_at": "2026-11-02T00:20:58+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to …",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors",
+          "title": "Malicious Claude Code extension on Cursor planted SSH backdoors"
+        }
+      ]
     },
     {
       "id": "2c05349924dfc396b121",
