@@ -605,14 +605,14 @@
     {
       "id": "01dfc0251d471c4c40ce",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216865",
-      "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
+      "title": "딥시크, 코딩 슈퍼 에이전트 공개…연구용 프로토타입",
       "original_title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축",
       "published_at": "2026-11-01T11:11:03+00:00",
       "collected_at": "2026-11-01T19:23:23+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "딥시크가 여러 코딩 작업을 자동으로 관리하는 '슈퍼 에이전트'를 공개하며 앤트로픽의 '클로드 코드'와 오픈AI의 '코덱스' 추격에 나섰다. 지난 5월 전담팀 구성 이후 약 6개월 만에 자체 개발 도구와 팀 단위 업무 자동화 기술까지 선보였지만, 아직 연구용 프로토타입으로 실제 제품 경쟁력은 검증되지 않았다.딥시크 하…",
       "sources": [
         {
@@ -620,7 +620,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216865",
           "title": "딥시크, 코딩 '슈퍼 에이전트' 공개…6개월 만에 추격 기반 구축"
         }
-      ]
+      ],
+      "summary": "딥시크가 여러 코딩 작업을 자동 관리하는 'DSH 슈퍼에이전트' 소스 코드를 깃허브에 공개했습니다. 라우터와 워커를 분리해 작업을 배분하는 구조로, 자체 실험에서 전체 작업의 95%를 15.7분 이내에 처리했지만 연구용 프로토타입이라고 명시했습니다.",
+      "why_it_matters": "모델 공급에 집중했던 딥시크가 코딩 에이전트 플랫폼으로 영역을 넓히는 신호입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "c61e1cd55dbc9e434e4655ab93b3a67c199dd1d815f2bf18bcff8b3929100dfb",
+        "evidence_verified": true
+      }
     },
     {
       "id": "e39a7a50c877bcf6a8a3",
@@ -814,14 +824,14 @@
     {
       "id": "7b1d9d655613d7aa4f20",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216864",
-      "title": "핀란드, 구글 데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란",
+      "title": "핀란드 경찰, 구글 데이터센터 산림 벌채 의혹 수사",
       "original_title": "핀란드, 구글 데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란",
       "published_at": "2026-11-01T08:01:03+00:00",
       "collected_at": "2026-11-01T10:10:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "핀란드 경찰이 구글의 AI 데이터센터 건설 과정에서 환경영향평가를 마치기 전에 대규모 산림을 벌채한 의혹에 대해 형사 수사에 착수했다. 구글이 핀란드에 150억달러(약 21조원)를 투자하겠다고 발표한 지 두 달도 지나지 않아 대규모 산림 훼손과 전력 소비를 둘러싼 논란이 커지고 있다.로이터와 가디언 등은 29일(현지…",
       "sources": [
         {
@@ -829,19 +839,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216864",
           "title": "핀란드, 구글 데이터센터 환경 훼손 의혹 수사…나무 40만그루 벌채 논란"
         }
-      ]
+      ],
+      "summary": "핀란드 경찰이 구글의 현지 자회사 투이케 핀란드를 대상으로 환경영향평가 완료 전 대규모 산림 벌채와 배수 작업이 수질보호법을 위반했는지 수사에 착수했습니다. 환경단체는 무호스와 오탄매키에서 총 40만그루의 나무가 벌채된 것으로 추산했고, 감독청은 구체적인 수자원 관리 계획을 요구했습니다.",
+      "why_it_matters": "AI 데이터센터 유치 확대가 현지 환경 규제와 충돌할 수 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "5259e615eeb5a3a5f0f6e7d616ec012be4d2a7d75f9de3e56c4941f6c0e120e6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "80afa3f5bd84b73e8fda",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
-      "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
+      "title": "구글, 제미나이 노트북에 무료 교재 수백 권 추가",
       "original_title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대",
       "published_at": "2026-11-01T07:26:45+00:00",
       "collected_at": "2026-11-01T10:10:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "구글이 AI 학습 도구 ‘제미나이 노트북(Gemini Notebook)’에 미국과 인도 지역 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했다. 학생들은 별도로 교재를 찾아 업로드하지 않고도 주요 출판사의 학습 자료를 활용해 시험 준비를 할 수 있게 됐다.구글은 29일(현지시간) X를 통해 오픈스택스(O…",
       "sources": [
         {
@@ -849,19 +869,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216863",
           "title": "구글, '제미나이 노트북'에 무료 교재 수백 권 추가...AI 학습 기능 확대"
         }
-      ]
+      ],
+      "summary": "구글이 AI 학습 도구 '제미나이 노트북'에 미국과 인도 사용자를 대상으로 주요 출판사의 무료 교재 수백 권을 추가했습니다. 사용자는 교재를 학습 소스로 등록해 인라인 인용구와 함께 답변을 받고 맞춤형 학습 가이드와 퀴즈를 생성할 수 있습니다.",
+      "why_it_matters": "신뢰할 수 있는 교재를 AI 제품과 직접 연결해 환각 현상을 줄이려는 시도입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "76237c286aaaf92a8923770dfd19a4a446f39e3f8f5686b4b05be2c7aaf43c68",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6b2ee8612f578dabda07",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216856",
-      "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
+      "title": "오픈AI, 투자 유치 목표 200억달러로 축소",
       "original_title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향",
       "published_at": "2026-11-01T07:05:32+00:00",
       "collected_at": "2026-11-01T10:10:07+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "오픈AI가 최근 기술주 하락과 AI 투자 열기 둔화 속에 신규 투자 유치 목표를 기존 300억달러(약 40조원)에서 200억달러(약 26조원)로 낮췄다. 목표 기업가치도 1조4000억달러(약 1866조원)에서 1조2500억달러(약 1666조원)로 하향 조정했다. 일부 투자자가 출자 규모를 줄이고 투자에 신중한 태도를…",
       "sources": [
         {
@@ -869,7 +899,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216856",
           "title": "오픈AI, 투자 유치 300억달러에서 200억달러로 축소...기업가치도 하향"
         }
-      ]
+      ],
+      "summary": "오픈AI가 신규 투자 유치 목표를 기존 300억달러에서 200억달러로 낮추고 목표 기업가치도 1조2500억달러로 조정했습니다. 월스트리트저널에 따르면 현재까지 약 110억달러의 투자 약정을 확보하는 데 그쳤습니다.",
+      "why_it_matters": "AI 인프라 지출 대비 수익성 우려가 대형 AI 기업의 자금 조달 환경을 바꾸고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "fa2c31b92b7908cb5a65cd773905ccba283e1732c984c7aa62e1eeef6ccf2c81",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5dcb3b4b3028b9b517a2",
@@ -935,14 +975,14 @@
     {
       "id": "b35f0c6907336b3f4439",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42530",
-      "title": "AI가 과거 대화의 의미까지 찾아낸다…카카오, 한국어 특화 임베딩 모델 2종 오픈소스 공개",
+      "title": "카카오, 한국어 특화 임베딩 모델 2종 오픈소스 공개",
       "original_title": "AI가 과거 대화의 의미까지 찾아낸다…카카오, 한국어 특화 임베딩 모델 2종 오픈소스 공개",
       "published_at": "2026-11-01T05:54:31+00:00",
       "collected_at": "2026-11-01T10:10:07+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "카카오가 이용자의 질문과 과거 정보 사이의 의미적 연관성을 분석하는 인공지능(AI) 임베딩 모델 2종을 오픈소스로 공개했다. 단어가 정확히 일치하지 않아도 관련 정보를 찾아내는 기술로, 개인화 AI 에이전트가 이전 대화와 이용자 정보를 필요한 순간에 검색하고 활용하도록 지원하는 것이 핵심이다.카카오는 30억 파라미터…",
       "sources": [
         {
@@ -950,19 +990,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42530",
           "title": "AI가 과거 대화의 의미까지 찾아낸다…카카오, 한국어 특화 임베딩 모델 2종 오픈소스 공개"
         }
-      ]
+      ],
+      "summary": "카카오가 30억 파라미터와 13억 파라미터 규모의 한국어 특화 임베딩 모델 2종을 허깅페이스에 공개했습니다. 두 모델은 의미 검색과 검색증강생성에 활용할 수 있으며, 마트료시카 표현 학습으로 벡터 크기를 조정할 수 있습니다.",
+      "why_it_matters": "개인화 AI 에이전트가 과거 대화와 이용자 정보를 검색해 활용하려면 한국어 의미 검색 성능이 중요합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "6f9c57454356dbe7d45d1177d82aa87992bab94cbb98a8122bc4b54a294f1e49",
+        "evidence_verified": true
+      }
     },
     {
       "id": "d6c8c67be05f614e319a",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42529",
-      "title": "서울시·서울대, 피지컬 AI 생활로봇 실증 본격화…서울 AI 허브에 전용 거점 구축",
+      "title": "서울시·서울대, 피지컬 AI 생활로봇 실증 거점 구축",
       "original_title": "서울시·서울대, 피지컬 AI 생활로봇 실증 본격화…서울 AI 허브에 전용 거점 구축",
       "published_at": "2026-11-01T05:33:13+00:00",
       "collected_at": "2026-11-01T10:10:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "서울시가 서울대학교와 협력해 돌봄과 이동 보조 등 시민 생활에 필요한 피지컬 인공지능(Physical AI) 기술을 실제 환경에서 검증하고 사업화하는 전용 거점을 구축한다. 대학의 로봇 원천기술을 스타트업의 제품 개발과 현장 실증으로 연결해 연구 성과가 실제 생활서비스로 이어지는 산업생태계를 조성한다는 계획이다.서울…",
       "sources": [
         {
@@ -970,19 +1020,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42529",
           "title": "서울시·서울대, 피지컬 AI 생활로봇 실증 본격화…서울 AI 허브에 전용 거점 구축"
         }
-      ]
+      ],
+      "summary": "서울시가 서울대학교와 업무협약을 체결하고 서울 AI 허브에 '피지컬 AX 센터'를 조성해 2027년 상반기까지 생활로봇 실증시설을 만들 계획입니다. 서울대는 연간 5개 내외의 스타트업을 대상으로 근력 보조 로봇과 돌봄로봇 등 실증을 지원합니다.",
+      "why_it_matters": "대학의 로봇 원천기술을 스타트업 제품 개발과 실제 돌봄 현장 검증으로 연결하는 시도입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "f6a0f89024ac8bce5039f828b8e1021075647fedb0fb819a3bc6b222279b0551",
+        "evidence_verified": true
+      }
     },
     {
       "id": "9b0121da44ed3432693e",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42528",
-      "title": "김세웅 전 카카오 AI 부사장 '국민AI서비스혁신추진단장' 선임...과기정통부, 공공 AI 개발 본격화",
+      "title": "김세웅 전 카카오 AI 부사장, 국민AI서비스혁신추진단장 선임",
       "original_title": "김세웅 전 카카오 AI 부사장 '국민AI서비스혁신추진단장' 선임...과기정통부, 공공 AI 개발 본격화",
       "published_at": "2026-11-01T05:13:05+00:00",
       "collected_at": "2026-11-01T10:10:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "과학기술정보통신부가 카카오에서 인공지능(AI) 기술 개발과 서비스 사업화를 이끌어 온 김세웅 전 부사장을 국민AI서비스혁신추진단장으로 선임했다. 민간의 AI 개발 역량을 공공서비스 혁신에 직접 활용하기 위한 인사로, 정부가 기존 외주 개발 중심의 공공 정보화 사업에서 벗어나 자체 AI 서비스 개발 체계를 본격 가동한…",
       "sources": [
         {
@@ -990,7 +1050,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42528",
           "title": "김세웅 전 카카오 AI 부사장 '국민AI서비스혁신추진단장' 선임...과기정통부, 공공 AI 개발 본격화"
         }
-      ]
+      ],
+      "summary": "과학기술정보통신부가 김세웅 전 카카오 AI 부사장을 국민AI서비스혁신추진단장으로 선임했습니다. 추진단은 민간 개발자 26명을 포함해 61명 규모로, 국민이 겪는 불편을 해결하는 AI 서비스를 직접 기획·개발합니다.",
+      "why_it_matters": "정부가 외주 개발 중심에서 벗어나 자체 AI 서비스 개발 역량을 축적하려는 시도입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-02T00:59:27+00:00",
+        "briefing_day": "2026-11-02",
+        "input_hash": "efed78da5ab6a04a29f1d3bd2d6bed77909fa045d9317f6b202d332ce4d88dd7",
+        "evidence_verified": true
+      }
     },
     {
       "id": "21fd7b52c9a19dbada80",
