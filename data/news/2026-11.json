@@ -3,6 +3,762 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "8137643cff7c784928e4",
+      "url": "https://judgereport.org/",
+      "title": "Judge AI analysis of all verdicts for all judges on CA ballot",
+      "original_title": "Judge AI analysis of all verdicts for all judges on CA ballot",
+      "published_at": "2026-11-02T22:59:35+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://judgereport.org/",
+          "title": "Judge AI analysis of all verdicts for all judges on CA ballot",
+          "discussion_url": "https://news.ycombinator.com/item?id=50345279"
+        }
+      ]
+    },
+    {
+      "id": "6d49bd650ae9b86be9f3",
+      "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery",
+      "title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "original_title": "Keep Distributed Training Running with Automated Workload Recovery",
+      "published_at": "2026-11-02T22:43:05+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As distributed AI training scales, failures across hardware and software dependencies increasingly disrupt training progress, making fast, reliable recovery... As distributed AI…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/keep-distributed-training-running-with-automated-workload-recovery",
+          "title": "Keep Distributed Training Running with Automated Workload Recovery"
+        }
+      ]
+    },
+    {
+      "id": "a0c2c03aa4e107f8d19c",
+      "url": "https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant",
+      "title": "Alphabet in talks to acquire assistant startup Howie AI",
+      "original_title": "Alphabet in talks to acquire assistant startup Howie AI",
+      "published_at": "2026-11-02T22:41:23+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.axios.com/pro/merger-deals/2026/11/02/google-alphabet-howie-ai-assistant",
+          "title": "Alphabet in talks to acquire assistant startup Howie AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50345068"
+        }
+      ]
+    },
+    {
+      "id": "b760b461aff6e50cc527",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "title": "Anthropic's growth just flattened (really)",
+      "original_title": "Anthropic's growth just flattened (really)",
+      "published_at": "2026-11-02T22:33:20+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+          "title": "Anthropic's growth just flattened (really)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344958"
+        }
+      ]
+    },
+    {
+      "id": "4fbe630e0f0ceedf83ff",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "original_title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "published_at": "2026-11-02T22:30:47+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public",
+          "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344919"
+        }
+      ]
+    },
+    {
+      "id": "a1d26516dd9df99bbbf8",
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights",
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "original_title": "LLMs are not superhuman at reading and writing neural network weights",
+      "published_at": "2026-11-02T22:26:53+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights",
+          "title": "LLMs are not superhuman at reading and writing neural network weights",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344861"
+        }
+      ]
+    },
+    {
+      "id": "62954b6003d956addf30",
+      "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "original_title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "published_at": "2026-11-02T22:14:50+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from whi…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+          "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI"
+        }
+      ]
+    },
+    {
+      "id": "46ad171ac72655636a81",
+      "url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9",
+      "title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
+      "original_title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
+      "published_at": "2026-11-02T22:10:01+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock sel…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-investors-push-for-cautious-valuation-closer-to-1-5-trillion-2f2df9cf?st=5aagd9",
+          "title": "Sources: institutional investors told Anthropic that its IPO valuation should be around $1.5T to $1.6T, down from estimates of $2T, citing a tech stock selloff (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261102/p42"
+        }
+      ]
+    },
+    {
+      "id": "af08e575c32497290907",
+      "url": "https://www.youtube.com/watch?v=zsO5RktNB7k",
+      "title": "How Open Models Win Against OpenAI and Anthropic [video]",
+      "original_title": "How Open Models Win Against OpenAI and Anthropic [video]",
+      "published_at": "2026-11-02T22:08:28+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=zsO5RktNB7k",
+          "title": "How Open Models Win Against OpenAI and Anthropic [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344584"
+        }
+      ]
+    },
+    {
+      "id": "f3ea6f58c95194f732bd",
+      "url": "https://github.com/UncleAndy/ai-translator",
+      "title": "AI Voice Translator",
+      "original_title": "AI Voice Translator",
+      "published_at": "2026-11-02T22:04:25+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/UncleAndy/ai-translator",
+          "title": "AI Voice Translator",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344525"
+        }
+      ]
+    },
+    {
+      "id": "7a0d429056b52e1e2868",
+      "url": "https://www.youtube.com/watch?v=K5gXc6kDgsE",
+      "title": "Will AI Replace Engineers? I Ran the Experiment [video]",
+      "original_title": "Will AI Replace Engineers? I Ran the Experiment [video]",
+      "published_at": "2026-11-02T22:01:29+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=K5gXc6kDgsE",
+          "title": "Will AI Replace Engineers? I Ran the Experiment [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344481"
+        }
+      ]
+    },
+    {
+      "id": "2c5b34a1ce9d464ef57d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+      "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+      "original_title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까",
+      "published_at": "2026-11-02T22:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 분석한 결과를 토대로 전문가가 최종 결정을 내렸다면, 그 판단은 누구의 것일까요. 앤트로픽의 실험에서 전문가들은 86%의 비율로 AI가 추천한 분석 방법을 선택했습니다. 더 흥미로운 점은 AI가 추천한 방법이 정답으로 정해져 있지 않았다는 것입니다. 연구진이 AI의 선호도를 무작위로 설정했는데도, 전문가들의 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216890",
+          "title": "[11월2일] AI가 분석하고 내가 결정했다…그 판단은 누구의 것일까"
+        }
+      ]
+    },
+    {
+      "id": "af47bfef132290b171fd",
+      "url": "https://www.arresteddevops.com/ai-and-incidents",
+      "title": "AI and Incidents with Sylvain Kalache [video]",
+      "original_title": "AI and Incidents with Sylvain Kalache [video]",
+      "published_at": "2026-11-02T21:55:34+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.arresteddevops.com/ai-and-incidents",
+          "title": "AI and Incidents with Sylvain Kalache [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344404"
+        }
+      ]
+    },
+    {
+      "id": "c3158ab5306cb378bf31",
+      "url": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
+      "title": "AI models may not be so opaque after all",
+      "original_title": "AI models may not be so opaque after all",
+      "published_at": "2026-11-02T21:53:32+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.economist.com/science-and-technology/2026/10/24/ai-models-may-not-be-so-opaque-after-all",
+          "title": "AI models may not be so opaque after all",
+          "discussion_url": "https://news.ycombinator.com/item?id=50344367"
+        }
+      ]
+    },
+    {
+      "id": "710515d713d53bab7df6",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "original_title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "published_at": "2026-11-02T21:40:14+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs",
+          "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs"
+        }
+      ]
+    },
+    {
+      "id": "32b3bf2b225f3d4c4445",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming",
+      "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+      "original_title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+      "published_at": "2026-11-02T20:00:53+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rikiya Takehi : Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math — TL…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://rikiyat.github.io/blog/weight-space-programming",
+          "title": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+          "discussion_url": "https://www.techmeme.com/261102/p36"
+        }
+      ]
+    },
+    {
+      "id": "29f1fd5cb64a11a5f04a",
+      "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "original_title": "Web host Squarespace lays off 19% of its employees",
+      "published_at": "2026-11-02T19:25:59+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The website builder said that the job losses are part of a broader restructuring of its organization.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees",
+          "title": "Web host Squarespace lays off 19% of its employees"
+        }
+      ]
+    },
+    {
+      "id": "9736e53c133415732714",
+      "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+      "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "original_title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "published_at": "2026-11-02T19:19:17+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping",
+          "title": "New York Times and other outlets sue web browser Brave over alleged content scraping"
+        }
+      ]
+    },
+    {
+      "id": "ab9f51c8b2c31abdc330",
+      "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+      "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
+      "original_title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
+      "published_at": "2026-11-02T19:15:01+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Liam Proven / The Register : Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying “automation and AI are fundamentally shifting how software companie…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+          "title": "Memo: Linux distribution vendor SUSE is laying off ~10% of its employees, saying \"automation and AI are fundamentally shifting how software companies operate\" (Liam Proven/The Register)",
+          "discussion_url": "https://www.techmeme.com/261102/p35"
+        }
+      ]
+    },
+    {
+      "id": "6663ba9af98ba4a1d59d",
+      "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
+      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+      "original_title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,... Configuring and optim…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
+          "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One"
+        }
+      ]
+    },
+    {
+      "id": "a5e5b5bff324c47b4f66",
+      "url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves",
+      "title": "Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $117M (John Werner/Forbes)",
+      "original_title": "Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $117M (John Werner/Forbes)",
+      "published_at": "2026-11-02T17:50:01+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "John Werner / Forbes : Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/johnwerner/2026/11/02/tutor-intelligence-why-not-just-teach-the-robots-ourselves",
+          "title": "Tutor Intelligence, which trains robot foundation models and builds AI warehouse robots, raised a $75M Series B led by a16z, taking its total funding to $117M (John Werner/Forbes)",
+          "discussion_url": "https://www.techmeme.com/261102/p33"
+        }
+      ]
+    },
+    {
+      "id": "996c88dfa31d64c0a9d6",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "title": "구글이 2026년 10월 발표한 주요 AI 업데이트 정리",
+      "original_title": "The latest AI news we announced in October 2026",
+      "published_at": "2026-11-02T17:45:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Here are Google’s latest AI updates from October 2026…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "title": "The latest AI news we announced in October 2026"
+        }
+      ],
+      "summary": "구글은 2026년 10월 한 달 동안 프런티어 추론 모델 Gemini 4 Argon을 전 세계에 출시하고, 2주 뒤 장기 엔지니어링과 사이버보안 방어에 특화된 Gemini 4 Carbon을 발표했다. 또한 실시간 대화형 세계 시뮬레이션 모델 Genie 4, SynthID Detector의 글로벌 확대, 안드로이드 사기 탐지 강화, Fitbit Edge, 의료 AI AMIE 연구, 양자컴퓨팅 성과 등을 함께 공개했다.",
+      "why_it_matters": "구글이 한 달 안에 프런티어 모델 두 종을 연달아 내놓고 안전성 검증과 생태계 확장을 병행하는 흐름은, AI 경쟁의 초점이 모델 성능뿐 아니라 배포 속도와 신뢰성 확보로 옮겨가고 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-02T23:00:51+00:00",
+        "input_hash": "150e06d69158f7c729462a2401644bf8d465ed98c32dfedde7bebb5d7454053c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "fa46565cf020d02cc2c1",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode",
+      "title": "DeepSeek releases a \"creator mode\" that allows DeepSeek Harness users to quickly create custom plugins, like a 3D model renderer and a video editing workbench (Debby Wu/Bloomberg)",
+      "original_title": "DeepSeek releases a \"creator mode\" that allows DeepSeek Harness users to quickly create custom plugins, like a 3D model renderer and a video editing workbench (Debby Wu/Bloomberg)",
+      "published_at": "2026-11-02T17:40:03+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Debby Wu / Bloomberg : DeepSeek releases a “creator mode” that allows DeepSeek Harness users to quickly create custom plugins, like a 3D model renderer and a video editing workb…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/deepseek-boosts-ai-agent-offering-with-new-creator-mode",
+          "title": "DeepSeek releases a \"creator mode\" that allows DeepSeek Harness users to quickly create custom plugins, like a 3D model renderer and a video editing workbench (Debby Wu/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261102/p32"
+        }
+      ]
+    },
+    {
+      "id": "fdefa8ea74a47a254edb",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+      "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement is against its usage policy (Bruno Ferreira/Tom's Hardware)",
+      "original_title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement is against its usage policy (Bruno Ferreira/Tom's Hardware)",
+      "published_at": "2026-11-02T17:05:05+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Bruno Ferreira / Tom's Hardware : Anthropic confirms new Claude Code limits “to steer it away from recreating someone else's specific game”, saying IP infringement is against it…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
+          "title": "Anthropic confirms new Claude Code limits \"to steer it away from recreating someone else's specific game\", saying IP infringement is against its usage policy (Bruno Ferreira/Tom's Hardware)",
+          "discussion_url": "https://www.techmeme.com/261102/p31"
+        }
+      ]
+    },
+    {
+      "id": "a840098ac4436b9824e7",
+      "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
+      "title": "NVIDIA Cosmos, 인터랙티브 시뮬레이션용 월드 모델 개발 플랫폼 소개",
+      "original_title": "Build World Models for Interactive Simulation with NVIDIA Cosmos",
+      "published_at": "2026-11-02T17:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Physical AI developers working with world models face two distinct challenges: adapting models to their sensors, tasks, and data, and getting those models into... Physical AI de…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/build-world-models-for-interactive-simulation-with-nvidia-cosmos",
+          "title": "Build World Models for Interactive Simulation with NVIDIA Cosmos"
+        }
+      ],
+      "summary": "NVIDIA가 물리 AI 개발자를 위한 월드 파운데이션 모델 및 개발 도구 플랫폼인 Cosmos를 발표했다. Cosmos Framework는 월드 모델 학습, 최적화, 추론을 위한 에이전트 스킬과 레시피를 제공하며, Cosmos NIM 마이크로서비스는 GPU 가속 서빙을 지원한다. 이 글은 AV, 로봇, 수술 시나리오에서 동기화된 카메라 비디오와 LiDAR 관측을 생성하는 방법과 NIM 배포 방법을 설명한다.",
+      "why_it_matters": "월드 모델 개발과 배포를 단순화해 물리 AI 애플리케이션 개발 속도를 높일 수 있다는 점에서 주목된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-02T23:00:49+00:00",
+        "input_hash": "3c3626cc7548e437dc8da6459f85094b37947ea650d215631e4e7389c284b004",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "6e98f979afd8dac38e98",
+      "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+      "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)",
+      "original_title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)",
+      "published_at": "2026-11-02T16:35:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ashley Capoot / CNBC : Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, “substantially all of which is related to compute and infrastruc…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
+          "title": "Amended S-1: Anthropic says it has purchased commitments and lease agreements of $895.4B, \"substantially all of which is related to compute and infrastructure\" (Ashley Capoot/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261102/p29"
+        }
+      ]
+    },
+    {
+      "id": "cfe776d783ceaa5caccc",
+      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+      "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "original_title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+      "published_at": "2026-11-02T16:30:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+          "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior",
+          "title": "Tel Aviv-based 42AI, which is developing a \"behavioral world model\" that tries to predict how humans will act, emerges from stealth with a $62.5M seed (Ram Iyer/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261102/p30"
+        }
+      ]
+    },
+    {
+      "id": "d2ebc506d8c8ced16e9c",
+      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+      "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "original_title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+      "published_at": "2026-11-02T16:23:21+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs",
+          "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs"
+        }
+      ]
+    },
+    {
+      "id": "fb338bda1aab8560d191",
+      "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map",
+      "title": "NVIDIA, Kubernetes 워크로드 구조 공통 기술하는 Workload Map 공개",
+      "original_title": "Support New AI Frameworks Faster Using NVIDIA Workload Map",
+      "published_at": "2026-11-02T16:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "NVIDIA DSX AI Factory Platform brings together technologies to help the ecosystem design, build, and operate more efficient AI factories, including open source,... NVIDIA DSX AI…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/support-new-ai-frameworks-faster-using-nvidia-workload-map",
+          "title": "Support New AI Frameworks Faster Using NVIDIA Workload Map"
+        }
+      ],
+      "summary": "NVIDIA가 DSX AI Factory Platform의 일부로 Workload Map을 공개했다. 이는 Kubernetes CRD와 Go 라이브러리로, JobSet·PyTorchJob·RayCluster 등 여러 프레임워크의 워크로드 구조를 하나의 정의로 설명해 별도 어댑터 없이 스케줄러·컨트롤러·플랫폼이 해석하도록 돕는다고 NVIDIA는 밝혔다. KAI Scheduler와 NVIDIA Run:ai가 이 정의를 활용한다고 한다.",
+      "why_it_matters": "프레임워크별 파서 유지 부담을 줄여 새 워크로드 지원 속도를 높일 수 있다는 접근으로, AI 인프라 운영 도구의 공통 계층화 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-02T23:00:44+00:00",
+        "input_hash": "5d0c15a7a8f02b5314c3d43a931a1bf4831a2adad2ee7d079d820143019313e2",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "d9c7a4169daa71511aa7",
+      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "original_title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Two startups tackling the data center water problem are joining forces in a $16 million deal.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition",
+          "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition"
+        }
+      ]
+    },
+    {
+      "id": "5d33ed0c66ace544e65f",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "title": "Introducing the Grid Protectors Program",
+      "original_title": "Introducing the Grid Protectors Program",
+      "published_at": "2026-11-02T15:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "title": "Introducing the Grid Protectors Program"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://openai.com/index/grid-protectors-program",
+          "title": "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses meant \"to reduce electricity demand when the grid is under strain\" (OpenAI)",
+          "discussion_url": "https://www.techmeme.com/261102/p34"
+        }
+      ]
+    },
+    {
+      "id": "d57d41926ad809192e78",
+      "url": "https://byline.network/2026/11/2-496",
+      "title": "나무AX “효율적 AI 인프라부터 갖추는 AI 에이전트 환경”",
+      "original_title": "나무AX “효율적 AI 인프라부터 갖추는 AI 에이전트 환경”",
+      "published_at": "2026-11-02T14:24:20+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기업의 AI 에이전트 도입은 짧다면 짧고, 길다면 긴 여정이다. 그리고 완주하기 힘든 여정이기도 하다. 출발선을 긋는 것부터 힘들고, 목표 지점을 잡는 것도 힘들다. AI 에이전트 여정에 존재하는 어려움은 무엇이고, 어떻게 여정을 계획해야 하며, 또 어떻게 여정을 진행할 것인가. 많은 질문이 시중을 뒤엎고 있다. 현…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/2-496",
+          "title": "나무AX “효율적 AI 인프라부터 갖추는 AI 에이전트 환경”"
+        }
+      ]
+    },
+    {
+      "id": "9aab9e1d1098b144449d",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "original_title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+      "published_at": "2026-11-02T14:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big",
+          "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big"
+        }
+      ]
+    },
+    {
+      "id": "dc101bf128590792a3e0",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+      "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "original_title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+      "published_at": "2026-11-02T13:57:53+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs",
+          "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs"
+        }
+      ]
+    },
+    {
+      "id": "1e75cc35b491a3109e48",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+      "title": "The U.S. Census Bureau and “Super Intelligence”",
+      "original_title": "The U.S. Census Bureau and “Super Intelligence”",
+      "published_at": "2026-11-02T13:31:26+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence",
+          "title": "The U.S. Census Bureau and “Super Intelligence”"
+        }
+      ]
+    },
+    {
       "id": "32458124ea120c05bcf4",
       "url": "https://www.pcmag.com/news/sam-altman-suggests-running-ai-locally-is-a-waste-of-memory",
       "title": "Sam Altman on Local AI",
@@ -310,6 +1066,26 @@
           "url": "https://lwn.net/Articles/1104210",
           "title": "Haas: Postgres 19 is late, and it's AI's fault",
           "discussion_url": "https://news.ycombinator.com/item?id=50334549"
+        }
+      ]
+    },
+    {
+      "id": "5a014341bc3fc0f1d8b6",
+      "url": "https://openai.com/index/lifeval",
+      "title": "LifeVal",
+      "original_title": "LifeVal",
+      "published_at": "2026-11-02T09:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/lifeval",
+          "title": "LifeVal"
         }
       ]
     },
@@ -1043,6 +1819,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216785",
           "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계"
+        }
+      ]
+    },
+    {
+      "id": "4094d4340f9e66f9e2fc",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "title": "Qodo builds context into AI code review with Codex",
+      "original_title": "Qodo builds context into AI code review with Codex",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "title": "Qodo builds context into AI code review with Codex"
         }
       ]
     },
@@ -2141,6 +2937,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216861",
           "title": "\"AI 뉴런 2개 조작했더니 인간 증오하는 악당으로\"…내부 구조 해독 활발"
+        }
+      ]
+    },
+    {
+      "id": "890f114888d2b8607277",
+      "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn",
+      "title": "Data centers are now a midterm issue, even in Brooklyn",
+      "original_title": "Data centers are now a midterm issue, even in Brooklyn",
+      "published_at": "2026-11-01T02:22:10+00:00",
+      "collected_at": "2026-11-02T23:00:13+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back t…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn",
+          "title": "Data centers are now a midterm issue, even in Brooklyn"
         }
       ]
     },
