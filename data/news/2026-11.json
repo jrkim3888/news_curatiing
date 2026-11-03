@@ -3,6 +3,1134 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3e394738f2cc013b9a8e",
+      "url": "https://0x4d31.github.io/airt",
+      "title": "AI Red Team Academy: Free, open-source course on breaking AI systems",
+      "original_title": "AI Red Team Academy: Free, open-source course on breaking AI systems",
+      "published_at": "2026-11-03T10:16:03+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://0x4d31.github.io/airt",
+          "title": "AI Red Team Academy: Free, open-source course on breaking AI systems",
+          "discussion_url": "https://news.ycombinator.com/item?id=50350119"
+        }
+      ]
+    },
+    {
+      "id": "564dc98ef5197153a454",
+      "url": "https://pixoate.com/count-objects",
+      "title": "Show HN: Count Anything using AI, for shops, people objects, crowd",
+      "original_title": "Show HN: Count Anything using AI, for shops, people objects, crowd",
+      "published_at": "2026-11-03T10:15:48+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pixoate.com/count-objects",
+          "title": "Show HN: Count Anything using AI, for shops, people objects, crowd",
+          "discussion_url": "https://news.ycombinator.com/item?id=50350115"
+        }
+      ]
+    },
+    {
+      "id": "f5fbc660bfc652a05028",
+      "url": "https://twitter.com/IntCyberDigest/status/2117396586657452317",
+      "title": "Lovable AI Apps Expose User Data Online",
+      "original_title": "Lovable AI Apps Expose User Data Online",
+      "published_at": "2026-11-03T10:12:36+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/IntCyberDigest/status/2117396586657452317",
+          "title": "Lovable AI Apps Expose User Data Online",
+          "discussion_url": "https://news.ycombinator.com/item?id=50350098"
+        }
+      ]
+    },
+    {
+      "id": "346e59fe4752752df63e",
+      "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape",
+      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "original_title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "published_at": "2026-11-03T10:10:23+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape",
+          "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+          "discussion_url": "https://news.ycombinator.com/item?id=50350089"
+        }
+      ]
+    },
+    {
+      "id": "4b0e2a3723c172742fef",
+      "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+      "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+      "original_title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+      "published_at": "2026-11-03T10:10:07+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kai Nicol-Schwarz / CNBC : UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/03/brookfield-ai-data-center-yorkshire-drax.html",
+          "title": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261103/p4"
+        }
+      ]
+    },
+    {
+      "id": "a2d195eec05b3b76a000",
+      "url": "https://ciphercue.com/blog/anthropic-openai-dns-verification-records-europe",
+      "title": "Anthropic Verification Records Outnumber OpenAI's Nearly 2 to 1 in European DNS",
+      "original_title": "Anthropic Verification Records Outnumber OpenAI's Nearly 2 to 1 in European DNS",
+      "published_at": "2026-11-03T10:02:36+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ciphercue.com/blog/anthropic-openai-dns-verification-records-europe",
+          "title": "Anthropic Verification Records Outnumber OpenAI's Nearly 2 to 1 in European DNS",
+          "discussion_url": "https://news.ycombinator.com/item?id=50350058"
+        }
+      ]
+    },
+    {
+      "id": "aa9561aba7bd2baf80c7",
+      "url": "https://www.mindsinmachines.ai/p/on-agentic-curation",
+      "title": "Agentic Curation – What's a beast without an algorithm?",
+      "original_title": "Agentic Curation – What's a beast without an algorithm?",
+      "published_at": "2026-11-03T09:49:23+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.mindsinmachines.ai/p/on-agentic-curation",
+          "title": "Agentic Curation – What's a beast without an algorithm?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349969"
+        }
+      ]
+    },
+    {
+      "id": "db2c46f2dc5af8153a90",
+      "url": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237",
+      "title": "America Can't Afford an AI Recession",
+      "original_title": "America Can't Afford an AI Recession",
+      "published_at": "2026-11-03T09:47:09+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theatlantic.com/technology/2026/11/ai-data-center-spending-economy/689237",
+          "title": "America Can't Afford an AI Recession",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349960"
+        }
+      ]
+    },
+    {
+      "id": "0d297090385ad5a72451",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "original_title": "Preparing our next security sprint to harden OpenAI",
+      "published_at": "2026-11-03T09:39:56+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "title": "Preparing our next security sprint to harden OpenAI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349912"
+        },
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "title": "Preparing our next security sprint to harden OpenAI"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+          "title": "OpenAI partners with Cathedral to test its security defenses and revamps its Security Bug Bounty program, including quadrupling rewards for critical findings (OpenAI)",
+          "discussion_url": "https://www.techmeme.com/261103/p2"
+        }
+      ]
+    },
+    {
+      "id": "631fe469549207c1e05c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42568",
+      "title": "로봇의 눈, 최대 5배 빨라졌다…펜실베이니아대, 초당 440회 시각 정보 처리하는 AI 개발",
+      "original_title": "로봇의 눈, 최대 5배 빨라졌다…펜실베이니아대, 초당 440회 시각 정보 처리하는 AI 개발",
+      "published_at": "2026-11-03T09:39:42+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "미국 펜실베이니아대학교(University of Pennsylvania) 연구진이 이벤트 카메라(Event Camera)에서 발생하는 방대한 시각 신호를 실시간으로 분석해 로봇이 주변 환경을 빠르게 인식할 수 있도록 하는 새로운 인공지능(AI) 기술을 개발했다.기존 이벤트 카메라 기반 기술보다 최대 5배 빠르게 시각…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42568",
+          "title": "로봇의 눈, 최대 5배 빨라졌다…펜실베이니아대, 초당 440회 시각 정보 처리하는 AI 개발"
+        }
+      ]
+    },
+    {
+      "id": "e4acf600099ec702568e",
+      "url": "https://medium.com/@smoking2man/sick-of-ai-slop-but-what-lies-behind-it-dc416eb66bad",
+      "title": "\"Sick of AI Slop \", but What Lies Behind It?",
+      "original_title": "\"Sick of AI Slop \", but What Lies Behind It?",
+      "published_at": "2026-11-03T09:39:11+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://medium.com/@smoking2man/sick-of-ai-slop-but-what-lies-behind-it-dc416eb66bad",
+          "title": "\"Sick of AI Slop \", but What Lies Behind It?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349905"
+        }
+      ]
+    },
+    {
+      "id": "6820dab5e426eda42e78",
+      "url": "https://byline.network/2026/11/3-467",
+      "title": "끝없이 진화하는 AI, 메가존클라우드 ‘AIR 스튜디오’",
+      "original_title": "끝없이 진화하는 AI, 메가존클라우드 ‘AIR 스튜디오’",
+      "published_at": "2026-11-03T09:37:55+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 AI 에이전트 도입은 짧다면 짧고, 길다면 긴 여정이다. 그리고 완주하기 힘든 여정이기도 하다. 출발선을 긋는 것부터 힘들고, 목표 지점을 잡는 것도 힘들다. AI 에이전트 여정에 존재하는 어려움은 무엇이고, 어떻게 여정을 계획해야 하며, 또 어떻게 여정을 진행할 것인가. 많은 질문이 시중을 뒤엎고 있다. 현…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/3-467",
+          "title": "끝없이 진화하는 AI, 메가존클라우드 ‘AIR 스튜디오’"
+        }
+      ]
+    },
+    {
+      "id": "739a8736ac9761fae8f1",
+      "url": "https://leanox.ai/",
+      "title": "We are rolling out LEANOX.AI as early access",
+      "original_title": "We are rolling out LEANOX.AI as early access",
+      "published_at": "2026-11-03T09:36:52+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://leanox.ai/",
+          "title": "We are rolling out LEANOX.AI as early access",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349885"
+        }
+      ]
+    },
+    {
+      "id": "2a167c1f0ad1566a5146",
+      "url": "https://www.science.org/content/article/colleague-hated-my-ai-polished-emails-so-he-set-trap",
+      "title": "A colleague hated my AI-polished emails–so he set a trap",
+      "original_title": "A colleague hated my AI-polished emails–so he set a trap",
+      "published_at": "2026-11-03T09:34:01+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.science.org/content/article/colleague-hated-my-ai-polished-emails-so-he-set-trap",
+          "title": "A colleague hated my AI-polished emails–so he set a trap",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349865"
+        }
+      ]
+    },
+    {
+      "id": "0849ca9831d55492516f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42567",
+      "title": "몬드리안AI, 검색부터 업무 배분까지 대신하는 개인 AI 비서 ‘런유어봇’ 공개",
+      "original_title": "몬드리안AI, 검색부터 업무 배분까지 대신하는 개인 AI 비서 ‘런유어봇’ 공개",
+      "published_at": "2026-11-03T09:19:59+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국내 인공지능(AI) 전문기업 몬드리안AI(Mondrian AI)가 사용자의 요청을 이해하고 검색과 정보 분석, 업무 처리까지 수행하는 개인용 AI 비서 '런유어봇(Runyour Bot)'을 선보였다.단순히 질문에 답변하는 생성형 AI에서 벗어나 여러 애플리케이션을 연결해 실제 작업을 수행하는 에이전틱 AI 서비스로…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42567",
+          "title": "몬드리안AI, 검색부터 업무 배분까지 대신하는 개인 AI 비서 ‘런유어봇’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "540902e6b1e027f2075d",
+      "url": "https://github.com/dxn111/evolv",
+      "title": "Evolv – my self-evolving AI workspace that rewrites its own UI live",
+      "original_title": "Evolv – my self-evolving AI workspace that rewrites its own UI live",
+      "published_at": "2026-11-03T09:19:18+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/dxn111/evolv",
+          "title": "Evolv – my self-evolving AI workspace that rewrites its own UI live",
+          "discussion_url": "https://news.ycombinator.com/item?id=50349778"
+        }
+      ]
+    },
+    {
+      "id": "5ff339321fb9d61e1f50",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+      "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+      "original_title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+      "published_at": "2026-11-03T09:04:42+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "일론 머스크 CEO가 AI 에이전트 '그록 봇(Grok Bot)'의 운영 비용이 매출에 비해 지나치게 높다며 이용자 사용량 제한을 정당화했다. 최근 일부 이용자의 주간 사용 한도가 예상보다 빠르게 소진되는 현상이 나타난 가운데, 서비스 운영 비용을 줄이기 위한 조치로 풀이된다.머스크 CEO는 1일(현지시간) X를 통…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+          "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한"
+        }
+      ]
+    },
+    {
+      "id": "6642c676df20fb76809e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42566",
+      "title": "산업부, 제조 AI 혁신 전국 산업현장으로 확산…245개 AI 팩토리 성과 기반 4단계 전략 가동",
+      "original_title": "산업부, 제조 AI 혁신 전국 산업현장으로 확산…245개 AI 팩토리 성과 기반 4단계 전략 가동",
+      "published_at": "2026-11-03T08:59:17+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 개별 공장과 생산공정에 머물러 있던 제조 인공지능(AI) 혁신을 공급망과 산업단지, 공장 전체로 확대하는 새로운 제조업 전환 전략을 추진한다. 이미 개발된 AI 모델을 다른 제조현장에서도 재사용할 수 있도록 확산체계를 구축하고, 장기적으로 생산계획부터 제조·검사·물류까지 AI가 통합 제어하는 자율운영 공장을 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42566",
+          "title": "산업부, 제조 AI 혁신 전국 산업현장으로 확산…245개 AI 팩토리 성과 기반 4단계 전략 가동"
+        }
+      ]
+    },
+    {
+      "id": "d1dfc3432fc7ada5cc97",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
+      "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
+      "original_title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
+      "published_at": "2026-11-03T08:59:14+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "뤼튼테크놀로지스의 '크랙'과 스캐터랩의 '제타'가 주도해 온 AI 캐릭터챗 시장에 게임사들이 진출하고 있다. 크래프톤이 K팝 팬덤을 겨냥한 서비스를 출시한 데 이어 컴투스도 관련 플랫폼 개발에 착수하면서 경쟁이 본격화할 조짐이다.크래프톤과 컴투스가 대표적이다. 크래프톤은 지난 2일 K팝에 특화된 AI 캐릭터챗 '키프…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
+          "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화"
+        }
+      ]
+    },
+    {
+      "id": "bd7d51d100ac9d14eee4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
+      "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+      "original_title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+      "published_at": "2026-11-03T08:52:30+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "안드레이 카르파시 오픈AI 공동 창립자가 유튜브의 자극적인 썸네일과 반복적인 추천 콘텐츠에 불만을 느껴 AI를 활용한 대안 서비스 '해커튜브(HackerTube)'를 개발했다. 해커뉴스(Hacker News)의 댓글 4300만개를 분석해 영상 6454개를 선정하고, 앤트로픽의 '클로드 오퍼스 5.5'를 활용해 약 2…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
+          "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\""
+        }
+      ]
+    },
+    {
+      "id": "5be443702f6c88257064",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42565",
+      "title": "기계연, 휴머노이드에 ‘일하는 법’ 가르친다…국내 첫 AI 로봇 데이터 생산기지 구축",
+      "original_title": "기계연, 휴머노이드에 ‘일하는 법’ 가르친다…국내 첫 AI 로봇 데이터 생산기지 구축",
+      "published_at": "2026-11-03T08:47:53+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "한국기계연구원(KIMM)이 휴머노이드 로봇의 자율 작업 능력을 높이기 위한 국내 최초의 이족보행 휴머노이드 전용 데이터 생산시설을 구축했다. 사람이 로봇을 직접 조작하거나 움직임을 모방하도록 해 실제 작업 데이터를 확보하고, 이를 인공지능(AI) 학습에 활용하는 국내 피지컬 AI 연구 기반이 마련된 것이다.한국기계연…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42565",
+          "title": "기계연, 휴머노이드에 ‘일하는 법’ 가르친다…국내 첫 AI 로봇 데이터 생산기지 구축"
+        }
+      ]
+    },
+    {
+      "id": "8ee6d25ef2dbdaadbd42",
+      "url": "https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html",
+      "title": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence (David Freedlander/New York Magazine)",
+      "original_title": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence (David Freedlander/New York Magazine)",
+      "published_at": "2026-11-03T08:40:02+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "David Freedlander / New York Magazine : How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://nymag.com/intelligencer/article/alex-bores-who-decides-pac-ai-2028-democratic-presidential-primary.html",
+          "title": "How Alex Bores' Who Decides seeks to make AI safety a standard Democratic position, like being pro-choice, in 2028, as tech-funded rivals vie for influence (David Freedlander/New York Magazine)",
+          "discussion_url": "https://www.techmeme.com/261103/p3"
+        }
+      ]
+    },
+    {
+      "id": "4ed2d28e8fa3f6912800",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216958",
+      "title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화",
+      "original_title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화",
+      "published_at": "2026-11-03T08:39:09+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "딥시크가 자연어 지시만으로 AI 에이전트에 필요한 플러그인을 제작하는 '크리에이터 모드(Creator Mode)'를 공개했다. 사용자가 원하는 기능을 설명하면 AI가 코드를 작성하고 설치와 작동 검증까지 수행하는 방식으로, 복잡한 프로그래밍 지식 없이도 맞춤형 작업 도구를 만들 수 있다.딥시크 하네스 팀은 2일 X를…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216958",
+          "title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화"
+        }
+      ]
+    },
+    {
+      "id": "2d7f4ba11fa4a01620d0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216967",
+      "title": "딥 프린시플, 일부 과학 평가서 GPT-6 아스트라 앞선 '하이드로젠' 공개",
+      "original_title": "딥 프린시플, 일부 과학 평가서 GPT-6 아스트라 앞선 '하이드로젠' 공개",
+      "published_at": "2026-11-03T08:30:16+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 소재 연구 전문 딥 프린시플(Deep Principle)이 실제 실험 기록과 연구 과정의 시행착오까지 학습한 과학 특화 AI 모델 '하이드로젠-1.0(Hydrogen-1.0)'을 공개했다. 총 7530억개 매개변수를 갖춘 오픈웨이트 모델로, 과학적 지식과 추론 능력을 넘어 실험 설계와 시뮬레이션, 신소재 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216967",
+          "title": "딥 프린시플, 일부 과학 평가서 GPT-6 아스트라 앞선 '하이드로젠' 공개"
+        }
+      ]
+    },
+    {
+      "id": "b67d565767868ea76285",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42564",
+      "title": "“AI가 오래 추론할수록 오진도 늘어난다”…칭화대, 의료 AI의 정확도·안전성 충돌 규명",
+      "original_title": "“AI가 오래 추론할수록 오진도 늘어난다”…칭화대, 의료 AI의 정확도·안전성 충돌 규명",
+      "published_at": "2026-11-03T08:20:26+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "인공지능이 복잡한 의료 정보를 더 깊이 추론할수록 진단 정확도는 높아지지만, 동시에 잘못된 진단을 추가하거나 동일한 환자에게 서로 다른 진단 결과를 제시할 위험도 커진다는 연구 결과가 나왔다.AI의 추론 능력이 향상되는 것이 반드시 의료 현장에서의 안전성과 신뢰성 향상으로 이어지는 것은 아니라는 의미다. 중국 칭화대…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42564",
+          "title": "“AI가 오래 추론할수록 오진도 늘어난다”…칭화대, 의료 AI의 정확도·안전성 충돌 규명"
+        }
+      ]
+    },
+    {
+      "id": "abb5b95c05088bb6b9a4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216966",
+      "title": "\"AI 도시, 현실이 되다!”… 화성시, AI엑스포 'MARS 2026' 팡파르",
+      "original_title": "\"AI 도시, 현실이 되다!”… 화성시, AI엑스포 'MARS 2026' 팡파르",
+      "published_at": "2026-11-03T08:17:03+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "'AI 시티, 현실이 되다.(AI CITY IN ACTION)’을 슬로건으로 내건 화성특례시(시장 정명근)의 글로벌 AI 엑스포 'MARS 2026'이 3일 서울 코엑스에서 막을 올렸다.오는 5일까지 사흘간 열리는 이번 행사의 개막식은 정명근 화성특례시장과 이계철 화성특례시의회 의장, 문정복·전용기·김승원·염태영·이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216966",
+          "title": "\"AI 도시, 현실이 되다!”… 화성시, AI엑스포 'MARS 2026' 팡파르"
+        }
+      ]
+    },
+    {
+      "id": "a3ccb202486d95bb270f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216961",
+      "title": "메이투안, 중국산 칩으로 학습한 1.6조 매개변수 '롱캣-2.5' 공개",
+      "original_title": "메이투안, 중국산 칩으로 학습한 1.6조 매개변수 '롱캣-2.5' 공개",
+      "published_at": "2026-11-03T08:15:15+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메이투안이 중국산 AI 반도체로 학습한 1조6000억 매개변수 규모의 멀티모달 AI 모델 '롱캣-2.5(LongCat-2.5)'를 공개했다. 복잡한 소프트웨어 개발과 시각적 디자인, 3D 콘텐츠 제작 등을 지원하는 에이전트형 모델로, 이전 버전보다 장시간 작업 수행 능력을 크게 높였다.메이투안은 2일(현지시간) 롱캣…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216961",
+          "title": "메이투안, 중국산 칩으로 학습한 1.6조 매개변수 '롱캣-2.5' 공개"
+        }
+      ]
+    },
+    {
+      "id": "fa475c0d65d622eb3154",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216969",
+      "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구",
+      "original_title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구",
+      "published_at": "2026-11-03T08:05:07+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 전 세계 데이터센터 및 클라우드 고객사에 중국 기업 대상 서비스 비중을 49% 이하로 줄이도록 요구한 것으로 알려졌다. 미국의 반도체 수출 통제를 피해 해외 데이터센터에서 첨단 AI 칩을 이용해 온 중국 기업들의 연산 자원 확보가 더 어려워질 전망이다.파이낸셜타임스(FT)]는 3일(현지시간) 복수의 소식통…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216969",
+          "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구"
+        }
+      ]
+    },
+    {
+      "id": "fc87a45dcfbf03d41725",
+      "url": "https://openai.com/index/heimstaden",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "original_title": "Heimstaden is changing residential real estate management with AI",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/heimstaden",
+          "title": "Heimstaden is changing residential real estate management with AI"
+        }
+      ]
+    },
+    {
+      "id": "0947fa345395bd1ef883",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216937",
+      "title": "[게시판] LGU+, 서울여대와 개인정보 지키는 AI 데이터 기술 연구 등 단신",
+      "original_title": "[게시판] LGU+, 서울여대와 개인정보 지키는 AI 데이터 기술 연구 등 단신",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ LG유플러스(대표 홍범식)는 서울여자대학교와 개인정보보호·AI·데이터 분야 공동연구 및 인재 양성을 위한 업무협약을 체결했다고 밝혔다. 양측은 서울여대 ‘이노베이션 존’을 거점으로 개인정보를 보호하면서 데이터 활용 가치를 높일 수 있는 가명정보 결합·분석 기술을 공동 연구한다. 서울여대 석·박사 인력 양성 사업에…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216937",
+          "title": "[게시판] LGU+, 서울여대와 개인정보 지키는 AI 데이터 기술 연구 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "aeb4af8675b849bfccd7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
+      "title": "오픈AI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 추진...주민 반발 대응",
+      "original_title": "오픈AI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 추진...주민 반발 대응",
+      "published_at": "2026-11-03T07:45:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 미국 내 데이터센터를 'AI 컴퓨팅 캠퍼스(AI Compute Campus)'로 바꾸는 방안을 추진한다. AI 데이터센터의 막대한 전력 소비와 환경 영향, 전기요금 상승 등을 둘러싼 지역 주민들의 반발이 커지자, 명칭 변경과 함께 지역사회 지원 및 전력망 보호 대책을 내놓으며 여론 관리에 나섰다.악시오스는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216940",
+          "title": "오픈AI, 데이터센터 명칭 'AI 컴퓨팅 캠퍼스'로 변경 추진...주민 반발 대응"
+        }
+      ]
+    },
+    {
+      "id": "5afe20b537d355988058",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216946",
+      "title": "애플, 첫 가정용 로봇 출시 지연…하드웨어 완성에도 AI 개발 난항",
+      "original_title": "애플, 첫 가정용 로봇 출시 지연…하드웨어 완성에도 AI 개발 난항",
+      "published_at": "2026-11-03T07:41:57+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "애플이 첫 가정용 로봇 출시를 앞두고 개발에 난항을 겪고 있다. 2019년부터 약 7년간 프로젝트를 진행했지만, 하드웨어 개발이 마무리된 뒤에도 소프트웨어와 AI 기능을 완성하지 못하고 있다.2일(현지시간) 디 인포메이션에 따르면, 애플의 첫 로봇은 당초 올해 출시를 목표로 했으나 내년으로 미뤄졌다. 상황에 따라 2…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216946",
+          "title": "애플, 첫 가정용 로봇 출시 지연…하드웨어 완성에도 AI 개발 난항"
+        }
+      ]
+    },
+    {
+      "id": "d6958e711a3826a4485d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216954",
+      "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 목소리 공급…한 달 만에 2000만자 돌파",
+      "original_title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 목소리 공급…한 달 만에 2000만자 돌파",
+      "published_at": "2026-11-03T07:30:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 음성합성 서비스 '타입캐스트'와 AI 영상 편집 서비스 '브루'의 협력이 사용자의 호응을 이끌며 시너지를 내고 있다.네오사피엔스(대표 김태수)는 타입캐스트를 보이저엑스의 브루 서비스에 제공한 지 한 달여 만에 누적 사용량 2000만자를 달성했다고 3일 밝혔다.브루는 자동 자막과 텍스트 기반 영상 편집 및 AI …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216954",
+          "title": "네오사피엔스, 보이저엑스 ‘브루’에 AI 목소리 공급…한 달 만에 2000만자 돌파"
+        }
+      ]
+    },
+    {
+      "id": "b0b84c07d575e9f99b58",
+      "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+      "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "original_title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+      "published_at": "2026-11-03T07:20:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing",
+          "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing"
+        }
+      ]
+    },
+    {
+      "id": "ca8478d1ed9f7929a573",
+      "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+      "title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
+      "original_title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
+      "published_at": "2026-11-03T06:00:40+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2",
+          "title": "Sources: Nvidia verbally told cloud compute clients to sell 51%+ of their services to non-Chinese companies, imposing new limits on China's access to AI chips (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261103/p1"
+        }
+      ]
+    },
+    {
+      "id": "449ed68b90056fbb63e7",
+      "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
+      "title": "October sponsors-only newsletter",
+      "original_title": "October sponsors-only newsletter",
+      "published_at": "2026-11-03T05:28:59+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "I sent out the October edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: The October inflec…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/3/october-newsletter",
+          "title": "October sponsors-only newsletter"
+        }
+      ]
+    },
+    {
+      "id": "14f4fbf9d2bf89319dc5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42563",
+      "title": "구글, AI 음성 사기 탐지·악성 앱 차단 확대…아시아·태평양 온라인 사기 대응 강화",
+      "original_title": "구글, AI 음성 사기 탐지·악성 앱 차단 확대…아시아·태평양 온라인 사기 대응 강화",
+      "published_at": "2026-11-03T04:37:52+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 인공지능(AI)을 활용한 전화 사칭 탐지와 메신저 사기 경고, 악성 애플리케이션 차단 기능을 확대하며 아시아·태평양 지역의 온라인 사기 대응에 나선다. 국가 간 조직적으로 활동하는 범죄 집단이 AI와 디지털 플랫폼을 악용해 사기 수법을 고도화하자, 기기 자체의 보안 기능부터 산업계 공동 대응, 지역사회 예방 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42563",
+          "title": "구글, AI 음성 사기 탐지·악성 앱 차단 확대…아시아·태평양 온라인 사기 대응 강화"
+        }
+      ]
+    },
+    {
+      "id": "df51ec0175b74ff87056",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42562",
+      "title": "팔란티어, AI 사업 폭발적 성장…3분기 매출 96% 급증, 미국 기업 매출 정부 부문 첫 추월",
+      "original_title": "팔란티어, AI 사업 폭발적 성장…3분기 매출 96% 급증, 미국 기업 매출 정부 부문 첫 추월",
+      "published_at": "2026-11-03T04:29:12+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "美 인공지능(AI) 기반 데이터 분석 기업 팔란티어 테크놀로지스(Palantir Technologies)가 기업용 AI 플랫폼의 수요 확대에 힘입어 2026년 3분기 매출을 전년 동기 대비 96% 끌어올렸다. 특히 미국 상업 부문 매출이 148% 급증하며 미국 정부 부문 매출을 처음으로 넘어섰다.그동안 국방·정보기관…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42562",
+          "title": "팔란티어, AI 사업 폭발적 성장…3분기 매출 96% 급증, 미국 기업 매출 정부 부문 첫 추월"
+        }
+      ]
+    },
+    {
+      "id": "11a3e4cb137f52664836",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "original_title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "published_at": "2026-11-03T03:30:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+          "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses",
+          "title": "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261102/p51"
+        }
+      ]
+    },
+    {
+      "id": "a51f9b2a659e8a3f6fbc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42561",
+      "title": "앤트로픽, AI 인프라 지출 약정 8954억달러 공개…매출 12배 성장에도 비용 부담 급증",
+      "original_title": "앤트로픽, AI 인프라 지출 약정 8954억달러 공개…매출 12배 성장에도 비용 부담 급증",
+      "published_at": "2026-11-03T03:26:28+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "인공지능 기업 앤트로픽(Anthropic)이 약 8,954억달러(약 1,199조원)에 달하는 컴퓨팅 및 인프라 관련 계약상 지출 약정을 공개했다. AI 모델 ‘클로드(Claude)’의 기업 고객이 빠르게 증가하면서 분기 매출이 1년 만에 12배 이상 성장했지만, AI 연산에 필요한 인프라 비용 역시 급증하고 있어 향…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42561",
+          "title": "앤트로픽, AI 인프라 지출 약정 8954억달러 공개…매출 12배 성장에도 비용 부담 급증"
+        }
+      ]
+    },
+    {
+      "id": "9f76b0fb190c11e1ec9b",
+      "url": "https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea",
+      "title": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
+      "original_title": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
+      "published_at": "2026-11-03T03:25:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Information : Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix — For…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/smugglers-get-expensive-memory-chips-china-south-korea",
+          "title": "Sources: Huawei told some clients that a large share of its upcoming flagship AI chip, Ascend 960DT, will run largely on HBM made by Samsung and SK Hynix (The Information)",
+          "discussion_url": "https://www.techmeme.com/261102/p50"
+        }
+      ]
+    },
+    {
+      "id": "087faf9f24a68616c697",
+      "url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11",
+      "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
+      "original_title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
+      "published_at": "2026-11-03T03:10:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Aditi Bharade / Business Insider : Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led b…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/larridin-ai-spending-measurement-series-a-30-million-2026-11",
+          "title": "Larridin, which helps companies track how AI affects employee output and identifies areas for better AI adoption, raised a $30M Series A led by Pelion Ventures (Aditi Bharade/Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261102/p49"
+        }
+      ]
+    },
+    {
+      "id": "fae352276f0654dcdbb7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42560",
+      "title": "샘 올트먼 CEO, “AI 성장 최대 걸림돌은 전력이며, AI는 인간을 위해 존재해야”",
+      "original_title": "샘 올트먼 CEO, “AI 성장 최대 걸림돌은 전력이며, AI는 인간을 위해 존재해야”",
+      "published_at": "2026-11-03T02:09:24+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)의 샘 올트먼(Sam Altman) 최고경영자(CEO)가 인공지능(AI) 산업의 지속적인 성장을 가로막는 핵심 제약으로 에너지 공급 문제를 지목했다.AI 모델의 성능과 효율성이 빠르게 개선되고 있지만, 폭발적으로 증가하는 AI 수요를 감당하기 위해서는 충분하고 안정적인 전력 공급이 필수적이라는 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42560",
+          "title": "샘 올트먼 CEO, “AI 성장 최대 걸림돌은 전력이며, AI는 인간을 위해 존재해야”"
+        }
+      ]
+    },
+    {
+      "id": "9ff666e7421f5314e201",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "original_title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "published_at": "2026-11-03T01:49:52+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps",
+          "title": "Apple may try to increase revenue by doing…something with third-party AI apps"
+        }
+      ]
+    },
+    {
+      "id": "b97b52030af038764460",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42559",
+      "title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수",
+      "original_title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수",
+      "published_at": "2026-11-03T01:44:17+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "아랍에미리트(UAE) 국영 에너지 기업 아드녹(ADNOC)이 오픈AI(OpenAI), G42와 손잡고 인공지능(AI)을 활용한 에너지 산업 운영체계 혁신에 나선다. 수천 개의 유정과 저류층, 생산시설에서 발생하는 데이터를 AI 에이전트로 통합 분석해 기존 수개월이 걸리던 유전 개발계획 수립을 수시간 단위로 단축하는 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42559",
+          "title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수"
+        }
+      ]
+    },
+    {
+      "id": "486f4cacfee42ca3e46e",
+      "url": "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion",
+      "title": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta (The Information)",
+      "original_title": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta (The Information)",
+      "published_at": "2026-11-03T01:20:01+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "The Information : Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta — Sale…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/briefings/exclusive-salesforce-acquires-startup-cresta-2-7-billion",
+          "title": "Salesforce plans to acquire Cresta, a provider of AI-powered contact center automation software; a source says Salesforce agreed to pay $2.7B for Cresta (The Information)",
+          "discussion_url": "https://www.techmeme.com/261102/p48"
+        }
+      ]
+    },
+    {
+      "id": "2093fed7e05c697fa92f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42558",
+      "title": "\"소변 한 방울의 10분의 1만으로 '방광질환' 구별\"...국내 연구진, AI 진단 정확도 92% 달성",
+      "original_title": "\"소변 한 방울의 10분의 1만으로 '방광질환' 구별\"...국내 연구진, AI 진단 정확도 92% 달성",
+      "published_at": "2026-11-03T01:11:43+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "증상이 비슷해 구별하기 어려운 간질성 방광염과 과민성 방광을 극소량의 소변만으로 분류하는 인공지능(AI) 분석 기술이 국내 연구진에 의해 개발됐다. 소변에 포함된 미세한 분자 신호를 고감도로 검출하고 머신러닝으로 분석해 최대 92%의 분류 정확도를 확보한 것이 핵심이다.서울아산병원 융합의학과 김준기 교수와 이대목동병…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42558",
+          "title": "\"소변 한 방울의 10분의 1만으로 '방광질환' 구별\"...국내 연구진, AI 진단 정확도 92% 달성"
+        }
+      ]
+    },
+    {
+      "id": "3da90f011d060b963f75",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42557",
+      "title": "레드햇, “AI가 취약점 찾아도 신뢰는 사람이 지켜야”…책임 있는 보안 공개 강조",
+      "original_title": "레드햇, “AI가 취약점 찾아도 신뢰는 사람이 지켜야”…책임 있는 보안 공개 강조",
+      "published_at": "2026-11-03T00:45:35+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 오픈소스 기업 레드햇(Red Hat)이 인공지능(AI) 기술로 보안 취약점 발견 속도가 빨라지는 상황에서도 책임 있는 취약점 공개와 인간 중심의 협력체계를 유지해야 한다고 강조했다.AI가 취약점을 빠르게 찾아내더라도 이를 검증하고 수정하며 안전하게 공개하는 과정에는 전문가의 판단과 신뢰가 필요하다는 것이다.레…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42557",
+          "title": "레드햇, “AI가 취약점 찾아도 신뢰는 사람이 지켜야”…책임 있는 보안 공개 강조"
+        }
+      ]
+    },
+    {
+      "id": "d38f7b5068359c020195",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "original_title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "published_at": "2026-11-03T00:35:52+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+          "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens"
+        }
+      ]
+    },
+    {
+      "id": "a6f54d325d31634f8916",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "title": "Hugging Face, Transformers 모델 통합 계약(MIC) 제안",
+      "original_title": "Transformers Model Integration Contracts",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/transformers-mic",
+          "title": "Transformers Model Integration Contracts"
+        }
+      ],
+      "summary": "Hugging Face가 2026년 11월 3일 공개한 글에서 Transformers의 모델 통합 테스트를 표준화하는 Model Integration Contract(MIC)를 제안했다. MIC는 실제 체크포인트를 축소한 fixture, 실행 가능한 사용 경로, 사람이 검토한 기준 출력으로 구성되며, 2026년 7월 30일부터 9월 28일까지 main에 남아 있던 UMT5 디코더의 미래 토큰 참조 회귀를 작은 UMT5 fixture가 재현 테스트에서 탐지했다고 발표했다.",
+      "why_it_matters": "대규모 모델 테스트 비용을 줄이면서 회귀를 조기에 잡으려는 시도로, CI 차단 여부 등은 아직 측정되지 않은 상태다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-03T10:31:29+00:00",
+        "input_hash": "04c607bb86459d5ea441f5a91fd8a20bf7fd01787afc96ab658c2c31c21c8147",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "9d52bf97ae05725130de",
+      "url": "https://simonwillison.net/2026/Nov/2/llm",
+      "title": "LLM CLI 도구 llm 0.37 버전 공개, 기본 모델 변경 및 임베딩 개선",
+      "original_title": "llm 0.37",
+      "published_at": "2026-11-02T23:49:30+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/2/llm",
+          "title": "llm 0.37"
+        }
+      ],
+      "summary": "LLM CLI 도구와 파이썬 라이브러리 llm의 0.37 버전이 공개됐다. 이번 릴리스에는 gpt-6.1-sol과 gpt-6.1-terra 모델 추가, OpenAI 호환 엔드포인트 설정을 위한 llm openai endpoint add 명령, 기본 모델을 gpt-6-luna로 변경한 내용이 포함됐다. 또한 임베딩 지원이 서로 다른 바이너리 콘텐츠의 콘텐츠 타입을 허용하도록 개선됐다.",
+      "why_it_matters": "LLM 도구의 기본 모델 변경과 임베딩 유연성 확대는 사용자 비용과 활용 범위에 영향을 줄 수 있다. AI 지원 PR 처리에 대한 개발자의 경험 공유는 오픈소스 유지보수 논의에 참고가 된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-03T10:31:24+00:00",
+        "input_hash": "7ae9535c798ffc4a786094711f7266621112c5849ee7e0679b839f47e6a442d2",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0dde73a752eec2652b74",
+      "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution",
+      "title": "NVIDIA, 분산 AI 워크로드 실패 원인 진단하는 오픈소스 'Attribution' 공개",
+      "original_title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution",
+      "published_at": "2026-11-02T23:39:34+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "In distributed AI workloads, a single error can produce a cascade of symptoms. A GPU or fabric event may surface as NCCL errors on other ranks, scheduler state... In distributed…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/diagnose-distributed-ai-workload-failures-with-nvidia-attribution",
+          "title": "Diagnose Distributed AI Workload Failures with NVIDIA Attribution"
+        }
+      ],
+      "summary": "NVIDIA가 분산 AI 워크로드의 실패 원인을 워크로드 단위로 분석하는 오픈소스 시스템 'NVIDIA Attribution'을 공개했다. 이 시스템은 로그, 메트릭, 텔레메트리, 스케줄러 상태를 연관 분석해 결과, 근본 원인, 영향 노드, 증상, 증거 추적을 구조화된 진단으로 반환한다고 NVIDIA는 설명했다. NVIDIA에 따르면 이 시스템은 수년간 NVIDIA AI 인프라에서 프로덕션으로 사용되어 주당 수백만 개 워크로드를 분석하며, Attribution Service와 Attribution Blueprint 두 가지 배포 가능한 구성 요소로 제공된다.",
+      "why_it_matters": "분산 AI 학습에서 단일 장애가 여러 노드에 연쇄 오류로 나타나는 문제를 워크로드 단위로 추적해 근본 원인을 식별하려는 시도로, 인프라 운영팀의 장애 대응 방식에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-03T10:31:20+00:00",
+        "input_hash": "4e0850a305a5dd5931dd2f5f94c28f965e888d486a667496909cb8dac8ef5763",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "977334dcf0434eb1c0ae",
+      "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "original_title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "published_at": "2026-11-02T23:13:53+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The one-year-old startup is now valued at $300 million.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+          "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts",
+          "title": "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261102/p45"
+        }
+      ]
+    },
+    {
       "id": "8137643cff7c784928e4",
       "url": "https://judgereport.org/",
       "title": "Judge AI analysis of all verdicts for all judges on CA ballot",
@@ -144,6 +1272,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
           "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai",
+          "title": "S-1: Anthropic says it may \"imminently meet\" its RSI threshold and may fail to identify \"significant acceleration\" in its development until after it's occurred (Julie Bort/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261102/p44"
         }
       ]
     },
@@ -396,6 +1530,26 @@
       ]
     },
     {
+      "id": "bca108e4c77bd86b238b",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "original_title": "Rewarding defenders with bigger bug bounties",
+      "published_at": "2026-11-02T18:00:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+          "title": "Rewarding defenders with bigger bug bounties"
+        }
+      ]
+    },
+    {
       "id": "6663ba9af98ba4a1d59d",
       "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
       "title": "엔비디아, 쿠버네티스용 베라 루빈 지원 도구 소개",
@@ -641,6 +1795,26 @@
         "input_hash": "5d0c15a7a8f02b5314c3d43a931a1bf4831a2adad2ee7d079d820143019313e2",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "277870ffc8d71544c046",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "title": "Scaling Git at OpenAI",
+      "original_title": "Scaling Git at OpenAI",
+      "published_at": "2026-11-02T15:30:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "title": "Scaling Git at OpenAI"
+        }
+      ]
     },
     {
       "id": "d9c7a4169daa71511aa7",
@@ -1879,6 +3053,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216785",
           "title": "[AI리더의 서가] 문제 해결을 위한 AI 에이전트 설계"
+        }
+      ]
+    },
+    {
+      "id": "945f879ef3a469b4aebe",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "original_title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "published_at": "2026-11-02T00:00:00+00:00",
+      "collected_at": "2026-11-03T10:30:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/dan-driscoll-joins-openai",
+          "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization"
         }
       ]
     },
