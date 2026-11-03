@@ -398,14 +398,14 @@
     {
       "id": "6663ba9af98ba4a1d59d",
       "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
-      "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
+      "title": "엔비디아, 쿠버네티스용 베라 루빈 지원 도구 소개",
       "original_title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One",
       "published_at": "2026-11-02T18:00:00+00:00",
       "collected_at": "2026-11-02T23:00:13+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "Configuring and optimizing Kubernetes for new GPU hardware such as NVIDIA Vera Rubin is complex and error-prone. Drivers, kernels, runtimes, networking,... Configuring and optim…",
       "sources": [
         {
@@ -413,7 +413,17 @@
           "url": "https://developer.nvidia.com/blog/making-kubernetes-ai-ready-for-nvidia-vera-rubin-on-day-one",
           "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One"
         }
-      ]
+      ],
+      "summary": "엔비디아는 새 GPU 하드웨어인 베라 루빈을 쿠버네티스 환경에서 첫날부터 쓸 수 있도록 지원하는 AI 클러스터 런타임을 소개했습니다. 이 도구는 튜닝된 설정을 재사용 가능한 레시피로 담고 배포 도구용 번들을 생성하며 실행 중인 클러스터를 검증합니다. 베라 루빈은 새 GPU 드라이버와 커넥트X-9, 블루필드-4 등을 요구합니다.",
+      "why_it_matters": "새 AI 가속기 도입 시 소프트웨어와 네트워크 설정을 맞추는 작업이 클러스터 운영의 핵심 부담임을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "36fb0dd41bd206735fb5244fefa5f96a6cb28eb80fbdb12adfde7d662a7246ea",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a5e5b5bff324c47b4f66",
@@ -681,14 +691,14 @@
     {
       "id": "d57d41926ad809192e78",
       "url": "https://byline.network/2026/11/2-496",
-      "title": "나무AX “효율적 AI 인프라부터 갖추는 AI 에이전트 환경”",
+      "title": "나무AX, 온프레미스 에이전틱 AI 플랫폼 NAA 소개",
       "original_title": "나무AX “효율적 AI 인프라부터 갖추는 AI 에이전트 환경”",
       "published_at": "2026-11-02T14:24:20+00:00",
       "collected_at": "2026-11-02T23:00:13+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "기업의 AI 에이전트 도입은 짧다면 짧고, 길다면 긴 여정이다. 그리고 완주하기 힘든 여정이기도 하다. 출발선을 긋는 것부터 힘들고, 목표 지점을 잡는 것도 힘들다. AI 에이전트 여정에 존재하는 어려움은 무엇이고, 어떻게 여정을 계획해야 하며, 또 어떻게 여정을 진행할 것인가. 많은 질문이 시중을 뒤엎고 있다. 현…",
       "sources": [
         {
@@ -696,7 +706,17 @@
           "url": "https://byline.network/2026/11/2-496",
           "title": "나무AX “효율적 AI 인프라부터 갖추는 AI 에이전트 환경”"
         }
-      ]
+      ],
+      "summary": "나무AX는 온프레미스 및 AI 데이터센터 환경에서 인프라 추상화부터 에이전트 애플리케이션까지 통합 제공하는 엔터프라이즈 전용 플랫폼 NAA를 소개했습니다. NAA는 인증·맥락·라우팅·에이전트·검증의 5단계로 실행 경로를 통제하고, 독립된 검증기가 출처 근거와 정보 누출 여부를 판정합니다. 회사는 GPU 자원 활용 효율을 강점으로 내세웁니다.",
+      "why_it_matters": "기업이 에이전트를 실무에 투입할 때 권한·비용·보안 문제를 해결하려는 시도로, 온프레미스 자원 효율과 거버넌스가 관건입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "bfc3eb0255337d979b41bb6ae485c9a8024ecbe31114b05b58e0c895bef91c73",
+        "evidence_verified": true
+      }
     },
     {
       "id": "9aab9e1d1098b144449d",
@@ -887,14 +907,14 @@
     {
       "id": "79d43d6f8d4dcc183916",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42552",
-      "title": "식음료 제조기업 90% AI 도입 추진하지만 데이터 활용은 45%…로크웰, 전사 확산 과제 제시",
+      "title": "식음료 제조기업 90% AI 도입 추진, 데이터 활용은 45%",
       "original_title": "식음료 제조기업 90% AI 도입 추진하지만 데이터 활용은 45%…로크웰, 전사 확산 과제 제시",
       "published_at": "2026-11-02T10:16:02+00:00",
       "collected_at": "2026-11-02T10:39:28+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "전 세계 식음료 제조업에서 인공지능(AI) 도입이 빠르게 확대되고 있지만, 기업들이 수집한 데이터의 절반 이상을 제대로 활용하지 못하면서 AI 투자와 실제 경영 성과 사이에 격차가 발생하고 있는 것으로 나타났다.AI 기술의 도입 여부보다 생산 현장과 경영 시스템을 연결하고, 개별 공정에서 검증된 성과를 기업 전체로 …",
       "sources": [
         {
@@ -902,7 +922,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42552",
           "title": "식음료 제조기업 90% AI 도입 추진하지만 데이터 활용은 45%…로크웰, 전사 확산 과제 제시"
         }
-      ]
+      ],
+      "summary": "로크웰 오토메이션은 식음료 제조기업의 약 90%가 AI와 머신러닝을 활용 중이거나 도입할 계획이지만 실제로 효과적으로 활용하는 데이터는 전체 수집량의 약 45%에 그쳤다고 밝혔습니다. 보고서는 AI 적용 제조 공정 비중이 현재 약 37%에서 2030년 60% 이상으로 확대될 것으로 전망했습니다.",
+      "why_it_matters": "AI 도입 여부보다 생산 현장과 경영 시스템을 연결하고 검증된 성과를 전사로 확산하는 역량이 제조업 경쟁력을 좌우할 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "d1edc24ca20eb65c9ae425eb83e5ccc144cfed12c515d49c33f1a3bcaa690f19",
+        "evidence_verified": true
+      }
     },
     {
       "id": "823ef000f84ad5ea71a1",
@@ -969,14 +999,14 @@
     {
       "id": "81a1b8826bf330d1c019",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216893",
-      "title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\"",
+      "title": "AI 에이전트 50개 문명 건설 실험, 관료주의로 실패",
       "original_title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\"",
       "published_at": "2026-11-02T09:24:54+00:00",
       "collected_at": "2026-11-02T10:39:28+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "최첨단 AI 모델 50개를 하나의 군집으로 묶어 협업하도록 했지만, 정작 문명 건설에는 실패했다. AI 에이전트들이 5900개의 메시지를 주고받으며 복잡한 규칙과 역할 분담에 매달린 탓이다. 여러 AI를 연결하더라도 의사결정 구조가 비효율적이면 전체 성과가 떨어질 수 있다는 사실을 보여주는 실험이다.Y콤비네이터(Y …",
       "sources": [
         {
@@ -984,7 +1014,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216893",
           "title": "\"AI 50개 모아 문명 건설 시켰더니 관료주의에 빠져 실패\""
         }
-      ]
+      ],
+      "summary": "Y콤비네이터와 올람랩스 연구진은 마인크래프트 등에서 AI 에이전트 군집을 실험한 결과를 공개했습니다. 시브50 실험에서 GPT-6.1 솔 에이전트 50개는 약 5900개의 메시지를 주고받으며 규칙과 승인 절차에 매달리다 문명 건설에 실패했습니다. 연구진은 이런 행동이 실제 코딩 에이전트 협업에서 관찰되는 패턴과 비슷하다고 평가했습니다.",
+      "why_it_matters": "AI 에이전트 집단 성능이 모델 수나 추론 능력만이 아니라 협업 구조와 의사결정 방식에 좌우될 수 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "0e531f89f355ecec929aa16f1feb2866d0ead72617a2ddbb5766022e4f3d23ee",
+        "evidence_verified": true
+      }
     },
     {
       "id": "26109c38e5d687381d9d",
@@ -1132,14 +1172,14 @@
     {
       "id": "bfc6039e4973d2989e0a",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42549",
-      "title": "아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가",
+      "title": "아마존 자체 AI 반도체 약정 20배 이상 증가",
       "original_title": "아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가",
       "published_at": "2026-11-02T08:53:05+00:00",
       "collected_at": "2026-11-02T10:39:28+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인공지능 산업의 중심이 대규모 모델 학습에서 추론과 AI 에이전트의 실제 업무 수행으로 확대되면서, 아마존(Amazon)이 자체 개발한 반도체의 수요가 급증하고 있다. AI 가속기뿐 아니라 강화학습과 에이전트의 도구 실행을 처리하는 중앙처리장치(CPU)의 중요성이 커지면서 아마존웹서비스(AWS)의 반도체 사업도 새로…",
       "sources": [
         {
@@ -1147,7 +1187,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42549",
           "title": "아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가"
         }
-      ]
+      ],
+      "summary": "아마존은 2026년 3분기 실적발표에서 자체 CPU 그라비톤과 AI 가속기 트레이니움의 매출 약정 규모가 각각 전년 동기 대비 20배 이상 증가했다고 밝혔습니다. 앤디 재시 최고경영자는 추론과 AI 에이전트 작업이 CPU 수요를 키우고 있다며 2027년 말 트레이니움 외부 공급 계획도 언급했습니다.",
+      "why_it_matters": "AI 활용이 추론과 에이전트로 확대되며 자체 반도체 수요와 클라우드 밖 공급 가능성이 커지고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "2c992cf87621f58942ed2f6a36c7a36cc2581f7cb0c05b84a7a6165448aa74b9",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ed0d1231be1a1f9c5d48",
@@ -1214,14 +1264,14 @@
     {
       "id": "4ece0351af1df4a369cc",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42548",
-      "title": "SK스퀘어, SK하이닉스 배당 4.3조원 이상 주주환원…출범 이후 최대 규모",
+      "title": "SK스퀘어, SK하이닉스 배당 기반 주주환원 확대",
       "original_title": "SK스퀘어, SK하이닉스 배당 4.3조원 이상 주주환원…출범 이후 최대 규모",
       "published_at": "2026-11-02T08:39:04+00:00",
       "collected_at": "2026-11-02T10:39:28+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인공지능(AI) 반도체 시장의 성장으로 SK하이닉스의 실적과 주주환원 규모가 확대되면서, 주요 주주인 SK스퀘어도 대규모 배당수입을 주주에게 돌려주는 정책을 강화하고 있다. SK하이닉스의 현금배당과 일본 반도체 기업 키옥시아 투자에서 발생한 특별배당을 바탕으로 기존보다 주주환원 비율을 두 배 높이고, 투자 성과를 주…",
       "sources": [
         {
@@ -1229,7 +1279,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42548",
           "title": "SK스퀘어, SK하이닉스 배당 4.3조원 이상 주주환원…출범 이후 최대 규모"
         }
-      ]
+      ],
+      "summary": "SK스퀘어가 SK하이닉스로부터 받을 것으로 예상되는 6조2천억원 이상의 배당수입 가운데 최소 4조3천억원 이상을 주주에게 환원하는 계획을 발표했습니다. 2028년까지 경상배당수입의 60% 이상을 환원하고 키옥시아 투자수익 특별배당은 전액 환원하는 내용입니다. 구체적인 방식은 2026년 재무제표 확정 이후 결정될 예정입니다.",
+      "why_it_matters": "AI 반도체 호황의 성과가 지주회사를 거쳐 주주환원으로 연결되는 구조를 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "3fbdd5d9eb90fc51c6cab9533d97d6cd64d2ef9565d81011d30d5d914e44602e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "3dc1cbc38f7a1d6223ba",
@@ -1990,14 +2050,14 @@
     {
       "id": "02e0f8314d1a4dac9a17",
       "url": "https://byline.network/2026/11/30-626",
-      "title": "169만원 XR 글래스 ‘엑스리얼 아우라’, 첫인상은",
+      "title": "엑스리얼 아우라, 안드로이드 XR 기반 국내 출시",
       "original_title": "169만원 XR 글래스 ‘엑스리얼 아우라’, 첫인상은",
       "published_at": "2026-11-01T22:16:27+00:00",
       "collected_at": "2026-11-02T00:20:58+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "“제미나이, 유튜브에서 롤러코스터 타는 영상 찾아서 재생해.” “제미나이, 프루트 닌자라는 게임 앱 실행해” ‘엑스리얼 아우라’에 탑재된 제미나이에 이 같은 음성 명령을 내리자 곧바로 유튜브가 실행되고 롤러코스터 탑승자 시점의 영상이 켜진다. 순식간에 눈앞 풍경이 놀이공원으로 바뀌었다. 제미나이는 두 번째 명령도 곧…",
       "sources": [
         {
@@ -2005,7 +2065,17 @@
           "url": "https://byline.network/2026/11/30-626",
           "title": "169만원 XR 글래스 ‘엑스리얼 아우라’, 첫인상은"
         }
-      ]
+      ],
+      "summary": "엑스리얼이 구글 안드로이드 XR 운영체제를 기반으로 한 XR 글래스 아우라를 국내 공식 출시했습니다. 아우라는 컴퓨팅 퍽을 연결하면 스마트폰이나 PC 없이 사용할 수 있고, 제미나이 음성 명령과 손동작으로 앱 실행과 메뉴 조작이 가능합니다. 구글 플레이 앱과 게임을 포함해 150개 이상의 XR 전용 경험을 지원합니다.",
+      "why_it_matters": "안드로이드 XR 생태계 기반 웨어러블 기기의 국내 출시는 공간 컴퓨팅의 실사용 가능성을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-03T03:01:33+00:00",
+        "briefing_day": "2026-11-03",
+        "input_hash": "ec9112a34ce395ec73a801a3e2c8eb21d369380f400d6c34afc6ddcd255880e8",
+        "evidence_verified": true
+      }
     },
     {
       "id": "81284649239fb24a1970",
