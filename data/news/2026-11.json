@@ -3,6 +3,844 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "4d0bc422d2ea338f9b4c",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai",
+      "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+      "original_title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+      "published_at": "2026-11-03T20:42:44+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai",
+          "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357893"
+        }
+      ]
+    },
+    {
+      "id": "97c85e9cb7dd28cb3a65",
+      "url": "https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud",
+      "title": "AI Agents Used by Railway Breach Systems of Rival Primcloud",
+      "original_title": "AI Agents Used by Railway Breach Systems of Rival Primcloud",
+      "published_at": "2026-11-03T20:40:14+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://securityboulevard.com/2026/11/ai-agents-used-by-railway-breach-systems-of-rival-primcloud",
+          "title": "AI Agents Used by Railway Breach Systems of Rival Primcloud",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357868"
+        }
+      ]
+    },
+    {
+      "id": "47c6db1d68797272be8b",
+      "url": "https://www.jacky.wtf/essays/2026/indie-dev-llm",
+      "title": "Musings on LLM-Assisted Coding",
+      "original_title": "Musings on LLM-Assisted Coding",
+      "published_at": "2026-11-03T20:38:08+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.jacky.wtf/essays/2026/indie-dev-llm",
+          "title": "Musings on LLM-Assisted Coding",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357837"
+        }
+      ]
+    },
+    {
+      "id": "ba80a697f1c3858eef1a",
+      "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
+      "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
+      "original_title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
+      "published_at": "2026-11-03T20:37:45+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://0xca333.substack.com/p/the-largest-bitcoin-miners-are-quietly",
+          "title": "The Largest Bitcoin Miners Are Quietly Becoming AI Data Centers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357834"
+        }
+      ]
+    },
+    {
+      "id": "e631ae3b3ca2ad8688ec",
+      "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+      "title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
+      "original_title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
+      "published_at": "2026-11-03T20:30:02+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Samantha Subin / CNBC : CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/03/crowdstrike-ai-kill-switch-rogue-agents.html",
+          "title": "CrowdStrike launches an AI kill switch in Falcon Guardian to stop rogue internal agents, and announces a Falcon Guardian integration with Claude Cowork (Samantha Subin/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261103/p28"
+        }
+      ]
+    },
+    {
+      "id": "59d293aece3262f6d232",
+      "url": "https://mallard-ai.com/home",
+      "title": "Show HN: Mallard: Git for the age of AI agents",
+      "original_title": "Show HN: Mallard: Git for the age of AI agents",
+      "published_at": "2026-11-03T20:18:39+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mallard-ai.com/home",
+          "title": "Show HN: Mallard: Git for the age of AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357605"
+        }
+      ]
+    },
+    {
+      "id": "eadbf9b76d0289d3ebae",
+      "url": "https://facerater.net/",
+      "title": "Face Rater – AI Face Analysis and Face Rating Report",
+      "original_title": "Face Rater – AI Face Analysis and Face Rating Report",
+      "published_at": "2026-11-03T20:17:43+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://facerater.net/",
+          "title": "Face Rater – AI Face Analysis and Face Rating Report",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357597"
+        }
+      ]
+    },
+    {
+      "id": "870b1c5ad467f139dec2",
+      "url": "https://developer.apple.com/news?id=gdk2umrf",
+      "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
+      "original_title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
+      "published_at": "2026-11-03T20:15:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Apple Developer : Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents — …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://developer.apple.com/news?id=gdk2umrf",
+          "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
+          "discussion_url": "https://www.techmeme.com/261103/p27"
+        }
+      ]
+    },
+    {
+      "id": "42ad0634ec9740353b43",
+      "url": "https://twitter.com/intology/status/2117642701890105725",
+      "title": "AI agents beating human made tools at molecular discovery",
+      "original_title": "AI agents beating human made tools at molecular discovery",
+      "published_at": "2026-11-03T20:14:18+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/intology/status/2117642701890105725",
+          "title": "AI agents beating human made tools at molecular discovery",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357548"
+        }
+      ]
+    },
+    {
+      "id": "07b0f4ca5cc4c25d11b3",
+      "url": "https://github.com/traccia-ai/traccia-py",
+      "title": "Show HN: Traccia – Control what AI agents can do",
+      "original_title": "Show HN: Traccia – Control what AI agents can do",
+      "published_at": "2026-11-03T20:06:53+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/traccia-ai/traccia-py",
+          "title": "Show HN: Traccia – Control what AI agents can do",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357443"
+        }
+      ]
+    },
+    {
+      "id": "56adc458ef75a2001c92",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles",
+      "title": "AI 'panic': Back office jobs cut – but not the expected roles",
+      "original_title": "AI 'panic': Back office jobs cut – but not the expected roles",
+      "published_at": "2026-11-03T20:04:24+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.rnz.co.nz/news/science-and-technology/2327983/ai-panic-back-office-jobs-cut-but-not-the-expected-roles",
+          "title": "AI 'panic': Back office jobs cut – but not the expected roles",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357407"
+        }
+      ]
+    },
+    {
+      "id": "fc9b34a7018f7315df9b",
+      "url": "https://sf-tensor.com/engineering/formalizing-ptx",
+      "title": "Formalizing Nvidia PTX in Lean to Prove GPU Kernel Correctness",
+      "original_title": "Formalizing Nvidia PTX in Lean to Prove GPU Kernel Correctness",
+      "published_at": "2026-11-03T20:04:08+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://sf-tensor.com/engineering/formalizing-ptx",
+          "title": "Formalizing Nvidia PTX in Lean to Prove GPU Kernel Correctness",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357402"
+        }
+      ]
+    },
+    {
+      "id": "ff6400886000fd41d741",
+      "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration",
+      "title": "Nine engineers, 1,211 PRs in a day: Lessons from building Copilot Cowork",
+      "original_title": "Nine engineers, 1,211 PRs in a day: Lessons from building Copilot Cowork",
+      "published_at": "2026-11-03T19:54:21+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration",
+          "title": "Nine engineers, 1,211 PRs in a day: Lessons from building Copilot Cowork",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357269"
+        }
+      ]
+    },
+    {
+      "id": "eccdd68dcc9bc8b9ff15",
+      "url": "https://github.com/spar-ai-app/spar",
+      "title": "Spar – Make Claude and Codex argue to get the best outputs",
+      "original_title": "Spar – Make Claude and Codex argue to get the best outputs",
+      "published_at": "2026-11-03T19:52:52+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/spar-ai-app/spar",
+          "title": "Spar – Make Claude and Codex argue to get the best outputs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50357247"
+        }
+      ]
+    },
+    {
+      "id": "3e4043f2a16d163e6926",
+      "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+      "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
+      "original_title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
+      "published_at": "2026-11-03T19:45:03+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Steven Lee Myers / New York Times : A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's fir…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/03/business/ai-midterm-election-misinformation.html",
+          "title": "A look at efforts by OpenAI, Anthropic, and others to prevent anyone from using their AI tools to disrupt midterms, including Anthropic's first-ever \"war room\" (Steven Lee Myers/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261103/p26"
+        }
+      ]
+    },
+    {
+      "id": "64e891378c13ac062e9f",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "original_title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "published_at": "2026-11-03T19:34:43+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The five-year-old startup raised a $1.3 billion round led by Bessemer.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+          "title": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+        }
+      ]
+    },
+    {
+      "id": "25e5bb6556bee5818817",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges",
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "original_title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "published_at": "2026-11-03T18:51:04+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges",
+          "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges"
+        }
+      ]
+    },
+    {
+      "id": "d05cff2b935d0ed4bfcd",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "original_title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+      "published_at": "2026-11-03T18:42:16+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood",
+          "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood"
+        }
+      ]
+    },
+    {
+      "id": "b7f450926c5dcf64bbe7",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation",
+      "title": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)",
+      "original_title": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)",
+      "published_at": "2026-11-03T18:10:04+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Natasha Mascarenhas / Bloomberg : AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized reven…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/ai-inference-startup-fal-raises-capital-at-16-billion-valuation",
+          "title": "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261103/p24"
+        }
+      ]
+    },
+    {
+      "id": "d93d65b32758f6cd52ed",
+      "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company",
+      "title": "Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company (Gerrit De Vynck/Washington Post)",
+      "original_title": "Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company (Gerrit De Vynck/Washington Post)",
+      "published_at": "2026-11-03T18:00:38+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Gerrit De Vynck / Washington Post : Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.washingtonpost.com/technology/2026/11/03/google-deepmind-staff-protest-lifetime-ban-criticizing-company",
+          "title": "Sources: UK-based Google DeepMind staff urge leaders to drop non-disparagement clauses barring public warnings about AI risks even after they leave the company (Gerrit De Vynck/Washington Post)",
+          "discussion_url": "https://www.techmeme.com/261103/p23"
+        }
+      ]
+    },
+    {
+      "id": "8d86676710497099b109",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "original_title": "StateBench: Testing how language models track state changes over long documents",
+      "published_at": "2026-11-03T17:15:21+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/statebench",
+          "title": "StateBench: Testing how language models track state changes over long documents"
+        }
+      ]
+    },
+    {
+      "id": "56d477bb7172cb5d5db6",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+      "title": "Anthropic is still grappling with the economics of compute",
+      "original_title": "Anthropic is still grappling with the economics of compute",
+      "published_at": "2026-11-03T17:07:01+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute",
+          "title": "Anthropic is still grappling with the economics of compute"
+        }
+      ]
+    },
+    {
+      "id": "23c4f130369cb97228de",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "original_title": "Agentic cheminformatics with Google Antigravity",
+      "published_at": "2026-11-03T17:01:49+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
+          "title": "Agentic cheminformatics with Google Antigravity"
+        }
+      ]
+    },
+    {
+      "id": "4d3938441f216409a8f1",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "title": "IBM, 디자인 언어로 덱 만드는 소형 모델 'Palette' 공개",
+      "original_title": "Palette: teaching a small model to build decks in your design language",
+      "published_at": "2026-11-03T16:35:36+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+          "title": "Palette: teaching a small model to build decks in your design language"
+        }
+      ],
+      "summary": "IBM 리서치가 20B 오픈웨이트 모델을 LoRA로 파인튜닝해 사용자 디자인 언어에 맞는 슬라이드 덱을 생성하는 'Palette'를 발표했다. 디자이너 역할이 JSON 브리프를 작성하고 코더 역할이 pptxgenjs 코드를 생성하는 2단계 구조로, 합성 데이터 약 1000개 덱(약 10,000장 슬라이드)으로 학습했다. PresentBench 평가에서 3개 도메인 중 Economics와 Education에서 1위, 3개 도메인 평균 2위(59.7점)를 기록했다고 회사는 밝혔다.",
+      "why_it_matters": "소형 오픈 모델이 자체 인프라에서 기업 디자인 언어를 따르는 덱을 만들 수 있다는 가능성을 제시한다. 다만 평가는 회사가 공개한 결과로, 독립 검증은 아직 없다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-03T20:49:23+00:00",
+        "input_hash": "8f2ce2695649d27837d4280ceca6b4c6cda188459fdae4362e2b27e23654fe40",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0258c4a6a8796918028e",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "original_title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "published_at": "2026-11-03T16:30:34+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
+          "title": "Google will let schools disable its AI tools, but not without sacrificing Search"
+        }
+      ]
+    },
+    {
+      "id": "b5cba0d011349b3bc501",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+      "title": "Qwen 3.8 27B, 노트북에서 모델 가중치 해석 실험 재현",
+      "original_title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "published_at": "2026-11-03T16:29:48+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights",
+          "title": "Qwen 3.8 27B on my laptop can interpret model weights, too"
+        }
+      ],
+      "summary": "사이먼 윌리슨은 논문 'Sparks of Weight-Space Programming'의 실험 중 하나를 자신의 노트북에서 실행한 Qwen 3.8 27B로 재현했다. 이 모델은 도구 없이 원시 가중치만 보고 10x10 그리드 게임 중 Pac-Man, Pong, Breakout을 추론했지만 Freeway는 맞히지 못했다. 논문은 GPT-6 Astra가 가중치를 해석하고 수정할 수 있다고 주장하지만, 윌리슨은 도구 없이 가중치를 이해하는 부분과 코드를 사용해 모델을 개선하는 부분을 구분해야 한다고 본다.",
+      "why_it_matters": "로컬에서 실행 가능한 소형 모델도 가중치 해석 작업을 일부 수행할 수 있음을 보여주지만, 논문의 광범위한 주장을 일반화하기에는 아직 이르다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-03T20:49:20+00:00",
+        "input_hash": "2ac40064ee59b1c51128d51682bab4cce5f16ce0804df3be11a7b4ab14ae6792",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a7b0b38ff45912530902",
+      "url": "https://byline.network/2026/11/1013-16",
+      "title": "투자 앱 이름까지 바꾼 미래에셋증권, AI로 무엇을 노리나",
+      "original_title": "투자 앱 이름까지 바꾼 미래에셋증권, AI로 무엇을 노리나",
+      "published_at": "2026-11-03T15:55:09+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "미래에셋증권은 테크&인공지능(AI)부문 산하 본부에서 AI 관련 업무를 담당하고 있다. 해당 조직은 거버넌스, 서비스 기획, 개발 조직으로 구성돼 있으며 인력 규모는 약 40명이다. 올해 AI를 활용한 ‘사내 업무 효율화’와 ‘대고객 서비스 확대’를 주요 목표로 세웠다. 회사 측은 현재까지 올해 계획의 85% 이상을…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1013-16",
+          "title": "투자 앱 이름까지 바꾼 미래에셋증권, AI로 무엇을 노리나"
+        }
+      ]
+    },
+    {
+      "id": "767d305ac7f2dc2f5d34",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?smid=url-share&unlocked_article_code=1.NlE.VMKr.Cr-g-C6phyfH",
+      "title": "Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search (New York Times)",
+      "original_title": "Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search (New York Times)",
+      "published_at": "2026-11-03T15:45:01+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "New York Times : Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html?smid=url-share&unlocked_article_code=1.NlE.VMKr.Cr-g-C6phyfH",
+          "title": "Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261103/p18"
+        }
+      ]
+    },
+    {
+      "id": "73b8a773179669d2a69b",
+      "url": "https://byline.network/2026/11/837492742934",
+      "title": "영어 강사부터 판매 상담까지…위버스브레인, 행동하는 AI 출시",
+      "original_title": "영어 강사부터 판매 상담까지…위버스브레인, 행동하는 AI 출시",
+      "published_at": "2026-11-03T15:43:56+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 영어 강사가 학생에게 전화를 걸어 영어 한 문장을 말하도록 유도한다. 학생이 바쁘다며 수업을 미루려 하자 짧은 연습을 제안하고, 문장을 따라 말하면 칭찬하며 성취감을 북돋운다. 학습 의욕을 끌어내는 대화가 자연스럽게 이어진다. 판매 상담에서도 마찬가지다. AI 상담원은 고객이 말을 끊거나 돌발 질문을 던져도 대…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/837492742934",
+          "title": "영어 강사부터 판매 상담까지…위버스브레인, 행동하는 AI 출시"
+        }
+      ]
+    },
+    {
+      "id": "7caab5e9f7407b2f647f",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "original_title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "published_at": "2026-11-03T15:38:27+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
+          "title": "Apple restricts dating apps and AI companions to users 18 and up"
+        }
+      ]
+    },
+    {
+      "id": "3601ddb664a91509a859",
+      "url": "https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e",
+      "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+      "original_title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+      "published_at": "2026-11-03T14:50:01+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "James Rundle / Wall Street Journal : CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/pro/cybersecurity/crowdstrike-to-buy-two-ai-security-startups-for-495-million-b0ef6a9e",
+          "title": "CrowdStrike agrees to buy Fiddler AI, which helps monitor AI agents, for ~$400M, and Dreadnode, an automated security AI testing tool, for ~$95M, mostly in cash (James Rundle/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261103/p17"
+        }
+      ]
+    },
+    {
+      "id": "28129751865846e44e27",
+      "url": "https://byline.network/2026/11/1030-8",
+      "title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조",
+      "original_title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조",
+      "published_at": "2026-11-03T14:42:58+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "스노우플레이크가 AI 에이전트 도입 확산에 따른 데이터 유출과 권한 남용, 비용 증가 문제에 대응하기 위한 기업용 통제 전략을 공개했다. 코텍스 AI 게이트웨이와 샌드박스, 비즈니스 온톨로지 등을 통해 보안·비용 관리와 기업 데이터에 대한 이해를 강화한다는 구상이다. 외부 AI 모델을 기업의 보안 정책과 데이터 통제…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1030-8",
+          "title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조"
+        }
+      ]
+    },
+    {
+      "id": "90149ac3affbdfbe44c3",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4",
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "original_title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "published_at": "2026-11-03T14:30:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the d…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4",
+          "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4"
+        }
+      ]
+    },
+    {
+      "id": "e268e2cc8489fcf22113",
+      "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors",
+      "title": "Sources: Anthropic has told investors in recent meetings that its 15-person chip design team is using Claude for engineering and design work on its custom chips (The Information)",
+      "original_title": "Sources: Anthropic has told investors in recent meetings that its 15-person chip design team is using Claude for engineering and design work on its custom chips (The Information)",
+      "published_at": "2026-11-03T14:20:04+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Information : Sources: Anthropic has told investors in recent meetings that its 15-person chip design team is using Claude for engineering and design work on its custom chip…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/anthropic-touts-claudes-chip-design-skills-ipo-investors",
+          "title": "Sources: Anthropic has told investors in recent meetings that its 15-person chip design team is using Claude for engineering and design work on its custom chips (The Information)",
+          "discussion_url": "https://www.techmeme.com/261103/p16"
+        }
+      ]
+    },
+    {
+      "id": "b083ef31ba06d70731dd",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase",
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "original_title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase",
+          "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase"
+        }
+      ]
+    },
+    {
+      "id": "4aec85e873ea6f797df7",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack",
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "original_title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "published_at": "2026-11-03T14:00:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack",
+          "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack"
+        }
+      ]
+    },
+    {
+      "id": "02993ec9251f46039191",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42572",
+      "title": "코딩 몰라도 AI 로봇 만든다…명지전문대, 볼리비아·코스타리카와 글로벌 해커톤 개최",
+      "original_title": "코딩 몰라도 AI 로봇 만든다…명지전문대, 볼리비아·코스타리카와 글로벌 해커톤 개최",
+      "published_at": "2026-11-03T12:54:50+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "명지전문대학(총장 권두승)이 지역 주민들이 직접 인공지능(AI) 로봇을 제작해 생활 속 문제를 해결하고, 중남미 학생들과 아이디어를 공유하는 글로벌 AI 해커톤을 개최한다. 코딩 경험이 없는 일반인도 참여할 수 있도록 교육과 제작 과정을 연계해 피지컬 AI 기술을 직접 체험할 수 있는 기회를 제공한다.명지전문대학 A…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42572",
+          "title": "코딩 몰라도 AI 로봇 만든다…명지전문대, 볼리비아·코스타리카와 글로벌 해커톤 개최"
+        }
+      ]
+    },
+    {
+      "id": "7e415185c3a0ad61a69b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42571",
+      "title": "고교생 48명, AI로 하루 만에 웹서비스 개발…루드웍스, 미래 개발자 발굴 나섰다",
+      "original_title": "고교생 48명, AI로 하루 만에 웹서비스 개발…루드웍스, 미래 개발자 발굴 나섰다",
+      "published_at": "2026-11-03T12:44:26+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "고등학생 48명이 인공지능(AI)을 활용해 단 하루 만에 자신만의 웹서비스를 기획하고 개발·배포하는 해커톤에 참가해 전원 결과물을 완성했다. 코딩 실력이나 학업 성적보다 아이디어와 문제 해결 능력을 중심으로 참가자를 선발하고, AI를 실제 서비스 개발 도구로 활용했다는 점에서 새로운 형태의 이공계 인재 육성 사례로 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42571",
+          "title": "고교생 48명, AI로 하루 만에 웹서비스 개발…루드웍스, 미래 개발자 발굴 나섰다"
+        }
+      ]
+    },
+    {
+      "id": "d74661e2381a1ec8586d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42570",
+      "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
+      "original_title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
+      "published_at": "2026-11-03T12:37:51+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "24년간 대화형 인공지능(AI) 서비스를 운영해 온 심심이(Simsimi)가 AI 기술을 활용해 1인 가구의 정서적 고립과 생활 속 위기 징후를 조기에 발견하는 공공 돌봄 사업에 나선다. 사용자의 질문에 응답하는 기존 챗봇 기술을 넘어, 일상생활의 변화를 분석하고 필요한 시점에 복지 지원을 연결하는 에이전틱 AI 기…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42570",
+          "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지"
+        }
+      ]
+    },
+    {
+      "id": "25493a43cba550c7fe81",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "title": "Accelerating engineering for the physical world",
+      "original_title": "Accelerating engineering for the physical world",
+      "published_at": "2026-11-03T12:00:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+          "title": "Accelerating engineering for the physical world"
+        }
+      ]
+    },
+    {
       "id": "3e394738f2cc013b9a8e",
       "url": "https://0x4d31.github.io/airt",
       "title": "AI Red Team Academy: Free, open-source course on breaking AI systems",
@@ -608,6 +1446,26 @@
       ]
     },
     {
+      "id": "34e7d62615202d0de65f",
+      "url": "https://openai.com/index/cisco-cyber",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "original_title": "How Cisco defends at machine speed with OpenAI",
+      "published_at": "2026-11-03T08:00:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/cisco-cyber",
+          "title": "How Cisco defends at machine speed with OpenAI"
+        }
+      ]
+    },
+    {
       "id": "0947fa345395bd1ef883",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216937",
       "title": "[게시판] LGU+, 서울여대와 개인정보 지키는 AI 데이터 기술 연구 등 단신",
@@ -1045,6 +1903,55 @@
         "input_hash": "04c607bb86459d5ea441f5a91fd8a20bf7fd01787afc96ab658c2c31c21c8147",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "63945bc794809749828f",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "title": "CWE-bench v2 공개: 100개 보안 취약점 수정 과제와 리더보드",
+      "original_title": "CWE-bench v2: More coverage, quality, and transparency",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/cwe-bench",
+          "title": "CWE-bench v2: More coverage, quality, and transparency"
+        }
+      ],
+      "summary": "Collinear AI가 2026년 11월 3일 공개한 CWE-bench v2는 실제 오픈소스 저장소에서 보안 약점을 찾아 수정하는 100개 과제로 구성된다. 91개 CWE를 포함하며, 평가는 결정적이고 재현 가능한 프로그램 방식으로 채점된다. 11개 모델 평가에서 Gemini 4 Argon이 pass@1 67.8%로 선두를 기록했고, 95개 과제는 최소 한 모델이 해결했다.",
+      "why_it_matters": "공개 벤치마크와 재현 가능한 채점은 방어적 보안 능력 평가의 투명성을 높이고, 동일 환경이 RL 보상으로도 쓰일 수 있어 모델 훈련과 평가의 연결 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-03T20:49:18+00:00",
+        "input_hash": "16a2a468907962c9b1205538ccf5e7c45444b0ef76ad001c4beb10e569fc681c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "019edb616369c3322f4c",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "original_title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "published_at": "2026-11-03T00:00:00+00:00",
+      "collected_at": "2026-11-03T20:48:54+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+          "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer"
+        }
+      ]
     },
     {
       "id": "9d52bf97ae05725130de",
