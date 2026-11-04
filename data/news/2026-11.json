@@ -935,14 +935,14 @@
     {
       "id": "8d86676710497099b109",
       "url": "https://huggingface.co/blog/allenai/statebench",
-      "title": "StateBench: Testing how language models track state changes over long documents",
+      "title": "StateBench, 장문서 상태 추적 평가 벤치마크 공개",
       "original_title": "StateBench: Testing how language models track state changes over long documents",
       "published_at": "2026-11-03T17:15:21+00:00",
       "collected_at": "2026-11-03T20:48:54+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -950,7 +950,17 @@
           "url": "https://huggingface.co/blog/allenai/statebench",
           "title": "StateBench: Testing how language models track state changes over long documents"
         }
-      ]
+      ],
+      "summary": "앨런AI연구소가 장문서에서 개체 정보 변화를 추적하는 능력을 평가하는 StateBench를 공개했다. 네 단계 난이도로 구성되며, 순환 및 하이브리드 모델이 트랜스포머보다 일반화를 잘하는 반면 제미니 3.8 플래시와 클로드 오퍼스 5.5, GPT-6 솔·루나 등 최전선 모델도 입력이 길어지면 어려운 상태 추적에서 무너진다고 밝혔다.",
+      "why_it_matters": "장문서 상태 추적은 코드 읽기와 이야기 이해의 기반으로, 모델 아키텍처별 한계를 파악하는 기준이 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "2aaa3ecd982ff4b51a7b4bb1eaafb5ccf0fb7e8e3d5883e7746fe90f662831ce",
+        "evidence_verified": true
+      }
     },
     {
       "id": "56d477bb7172cb5d5db6",
@@ -1114,14 +1124,14 @@
     {
       "id": "73b8a773179669d2a69b",
       "url": "https://byline.network/2026/11/837492742934",
-      "title": "영어 강사부터 판매 상담까지…위버스브레인, 행동하는 AI 출시",
+      "title": "위버스브레인, 행동 유도 AI 에이전트 플랫폼 에이전트맥스 공개",
       "original_title": "영어 강사부터 판매 상담까지…위버스브레인, 행동하는 AI 출시",
       "published_at": "2026-11-03T15:43:56+00:00",
       "collected_at": "2026-11-03T20:48:54+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "AI 영어 강사가 학생에게 전화를 걸어 영어 한 문장을 말하도록 유도한다. 학생이 바쁘다며 수업을 미루려 하자 짧은 연습을 제안하고, 문장을 따라 말하면 칭찬하며 성취감을 북돋운다. 학습 의욕을 끌어내는 대화가 자연스럽게 이어진다. 판매 상담에서도 마찬가지다. AI 상담원은 고객이 말을 끊거나 돌발 질문을 던져도 대…",
       "sources": [
         {
@@ -1129,7 +1139,17 @@
           "url": "https://byline.network/2026/11/837492742934",
           "title": "영어 강사부터 판매 상담까지…위버스브레인, 행동하는 AI 출시"
         }
-      ]
+      ],
+      "summary": "위버스브레인이 AI 에이전트 플랫폼 에이전트맥스를 공개했다. 공감·진단·시선 전환·목표 세분화 네 단계 대화 설계 엔진 EDRA를 핵심으로 하며, AI 강사 맥스튜터와 판매 상담원 맥스세일즈가 대표 에이전트다. 맥스세일즈는 고객과 대화하며 브라우저 화면도 직접 조작한다.",
+      "why_it_matters": "AI 에이전트가 단순 응답을 넘어 이용자의 실제 행동을 이끌어내는 방향으로 진화하고 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "359b9b098e13f1a4d80f03026c69bcf93068f06ea652df756edf1135ba372f36",
+        "evidence_verified": true
+      }
     },
     {
       "id": "7caab5e9f7407b2f647f",
@@ -1175,14 +1195,14 @@
     {
       "id": "28129751865846e44e27",
       "url": "https://byline.network/2026/11/1030-8",
-      "title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조",
+      "title": "스노우플레이크, AI 에이전트 통제용 코텍스 AI 게이트웨이 공개",
       "original_title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조",
       "published_at": "2026-11-03T14:42:58+00:00",
       "collected_at": "2026-11-03T20:48:54+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "스노우플레이크가 AI 에이전트 도입 확산에 따른 데이터 유출과 권한 남용, 비용 증가 문제에 대응하기 위한 기업용 통제 전략을 공개했다. 코텍스 AI 게이트웨이와 샌드박스, 비즈니스 온톨로지 등을 통해 보안·비용 관리와 기업 데이터에 대한 이해를 강화한다는 구상이다. 외부 AI 모델을 기업의 보안 정책과 데이터 통제…",
       "sources": [
         {
@@ -1190,7 +1210,17 @@
           "url": "https://byline.network/2026/11/1030-8",
           "title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조"
         }
-      ]
+      ],
+      "summary": "스노우플레이크가 기업 내 모든 AI 에이전트가 거치는 단일 통제 관문인 코텍스 AI 게이트웨이를 소개했다. 이 시스템은 권한 남용과 프롬프트 인젝션을 탐지하고, 부서별 예산 한도 설정과 다이내믹 모델 라우팅도 제공한다. 코드 실행 데이터를 보호하는 코텍스 샌드박스도 도입됐다.",
+      "why_it_matters": "AI 에이전트 도입이 늘수록 데이터 유출과 비용 초과를 막을 통제 체계가 기업 도입의 전제 조건이 되고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "379460fd453a5598e879560a4acd4e2b53b51421e8afa3c229c3ef2cf838b70e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "90149ac3affbdfbe44c3",
@@ -1316,14 +1346,14 @@
     {
       "id": "d74661e2381a1ec8586d",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42570",
-      "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
+      "title": "심심이, 1인 가구 고립 감지 공공 돌봄 실증 착수",
       "original_title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
       "published_at": "2026-11-03T12:37:51+00:00",
       "collected_at": "2026-11-03T20:48:54+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "24년간 대화형 인공지능(AI) 서비스를 운영해 온 심심이(Simsimi)가 AI 기술을 활용해 1인 가구의 정서적 고립과 생활 속 위기 징후를 조기에 발견하는 공공 돌봄 사업에 나선다. 사용자의 질문에 응답하는 기존 챗봇 기술을 넘어, 일상생활의 변화를 분석하고 필요한 시점에 복지 지원을 연결하는 에이전틱 AI 기…",
       "sources": [
         {
@@ -1331,7 +1361,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42570",
           "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지"
         }
-      ]
+      ],
+      "summary": "심심이가 인천 미추홀구와 협약을 맺고 음성·생체·디지털 이용정보를 분석해 1인 가구의 고립과 위기 징후를 조기 감지하는 실증을 추진한다. 실증 과정에서 확보한 비식별 자료는 고독사 예방과 복지 사각지대 발굴에 활용될 계획이다. 심심이는 충북 청주시로도 실증 범위를 확대할 예정이다.",
+      "why_it_matters": "대화형 AI가 개인 상호작용을 넘어 지역 복지체계와 연결되는 공공 돌봄 기술로 확장될 수 있는지 확인하는 과정이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "58e9d6cb621818c3c25ede8bde2a6c5db747670d740dac38afb687af3cfd0b4f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "25493a43cba550c7fe81",
@@ -1700,14 +1740,14 @@
     {
       "id": "5ff339321fb9d61e1f50",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
-      "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+      "title": "머스크, 그록 봇 비용 문제로 사용량 제한 정당화",
       "original_title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
       "published_at": "2026-11-03T09:04:42+00:00",
       "collected_at": "2026-11-03T10:30:54+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "일론 머스크 CEO가 AI 에이전트 '그록 봇(Grok Bot)'의 운영 비용이 매출에 비해 지나치게 높다며 이용자 사용량 제한을 정당화했다. 최근 일부 이용자의 주간 사용 한도가 예상보다 빠르게 소진되는 현상이 나타난 가운데, 서비스 운영 비용을 줄이기 위한 조치로 풀이된다.머스크 CEO는 1일(현지시간) X를 통…",
       "sources": [
         {
@@ -1715,7 +1755,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
           "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한"
         }
-      ]
+      ],
+      "summary": "일론 머스크가 그록 봇 운영 비용이 매출 대비 지속 불가능하다며 사용량 제한을 정당화했다. 일부 이용자는 사용하지 않았는데도 주간 한도가 급증했다고 불만을 제기했고, 머스크는 더 높은 요금제 전환을 언급했다. 그록 봇의 주간 유료 이용자는 80만명에 달한다.",
+      "why_it_matters": "AI 에이전트가 이용자를 늘려도 컴퓨팅 비용을 감당하지 못하면 사용량 제한이나 요금 인상으로 이어질 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "0496b5b1d96c9602b5e1650a07daca3b4353c1ea8f49fa26e1d625ae397174f5",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6642c676df20fb76809e",
@@ -1740,14 +1790,14 @@
     {
       "id": "d1dfc3432fc7ada5cc97",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
-      "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
+      "title": "게임사들, AI 캐릭터챗 시장 진출로 경쟁 본격화",
       "original_title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
       "published_at": "2026-11-03T08:59:14+00:00",
       "collected_at": "2026-11-03T10:30:54+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "뤼튼테크놀로지스의 '크랙'과 스캐터랩의 '제타'가 주도해 온 AI 캐릭터챗 시장에 게임사들이 진출하고 있다. 크래프톤이 K팝 팬덤을 겨냥한 서비스를 출시한 데 이어 컴투스도 관련 플랫폼 개발에 착수하면서 경쟁이 본격화할 조짐이다.크래프톤과 컴투스가 대표적이다. 크래프톤은 지난 2일 K팝에 특화된 AI 캐릭터챗 '키프…",
       "sources": [
         {
@@ -1755,19 +1805,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
           "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화"
         }
-      ]
+      ],
+      "summary": "뤼튼과 스캐터랩이 주도해 온 AI 캐릭터챗 시장에 크래프톤과 컴투스 등 게임사들이 진출하고 있다. 크래프톤은 K팝 특화 키프를 출시했고 컴투스는 여성향 플랫폼 개발에 착수했다. 캐릭터닷AI가 파산보호를 신청한 사례는 수익 구조와 청소년 보호 장치의 필요성을 보여준다.",
+      "why_it_matters": "캐릭터챗은 대화량이 늘수록 비용이 커져 수익 구조와 안전성 확보가 시장 성패를 가를 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "8cf3b7dfd7b600d2d19f1f28ab26d3f529a20f48663e24f72bf9984bbb95faad",
+        "evidence_verified": true
+      }
     },
     {
       "id": "bd7d51d100ac9d14eee4",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
-      "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+      "title": "카르파시, 클로드 오퍼스 5.5로 유튜브 대안 해커튜브 개발",
       "original_title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
       "published_at": "2026-11-03T08:52:30+00:00",
       "collected_at": "2026-11-03T10:30:54+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "안드레이 카르파시 오픈AI 공동 창립자가 유튜브의 자극적인 썸네일과 반복적인 추천 콘텐츠에 불만을 느껴 AI를 활용한 대안 서비스 '해커튜브(HackerTube)'를 개발했다. 해커뉴스(Hacker News)의 댓글 4300만개를 분석해 영상 6454개를 선정하고, 앤트로픽의 '클로드 오퍼스 5.5'를 활용해 약 2…",
       "sources": [
         {
@@ -1775,7 +1835,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
           "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\""
         }
-      ]
+      ],
+      "summary": "안드레이 카르파시가 유튜브 추천에 불만을 느껴 해커뉴스 댓글 4300만개를 분석해 영상 6454개를 선정하고 클로드 오퍼스 5.5로 약 2시간 만에 해커튜브를 구축했다. 그는 직접 코드를 작성하지 않고 자연어 지시만으로 데이터 정리와 배포, 보안 설정을 클로드 코드에 맡겼다고 밝혔다.",
+      "why_it_matters": "AI 코딩 에이전트가 코드 작성뿐 아니라 대규모 데이터 분석과 서비스 설계·배포까지 수행할 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-04T05:51:44+00:00",
+        "briefing_day": "2026-11-04",
+        "input_hash": "72d95be72ee1f132cd736b513d55522188e44cd229d8e99ec21a96d4e061a0ad",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5be443702f6c88257064",

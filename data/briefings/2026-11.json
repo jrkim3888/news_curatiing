@@ -3,6 +3,319 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-04",
+      "day": "2026-11-04",
+      "scheduled_at": "2026-11-03T21:30:00+00:00",
+      "generated_at": "2026-11-04T05:51:44+00:00",
+      "window_start": "2026-11-02T21:00:00+00:00",
+      "window_end": "2026-11-03T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI 에이전트 확산, 비용과 통제가 관건으로",
+      "takeaway": "오늘의 한 줄: AI 에이전트가 빠르게 퍼질수록 운영 비용과 보안 통제, 수익 구조를 함께 설계해야 합니다.",
+      "overview": [
+        {
+          "text": "AI 에이전트가 이용자를 빠르게 늘리면서 운영 비용과 통제 문제가 함께 부각되고 있습니다. 머스크는 그록 봇 제공 비용이 매출 대비 지속 불가능하다며 사용량 제한을 정당화했고, 스노우플레이크는 모든 에이전트가 거치는 코텍스 AI 게이트웨이를 내놨습니다.",
+          "issue_ids": [
+            "issue-1",
+            "issue-2"
+          ]
+        },
+        {
+          "text": "AI 코딩 도구가 서비스 개발 방식을 바꾸는 사례도 나왔습니다. 카르파시는 해커뉴스 댓글 4300만개를 분석해 영상 6454개를 고르고 클로드 오퍼스 5.5로 약 2시간 만에 해커튜브를 만들었다고 밝혔습니다.",
+          "issue_ids": [
+            "issue-3"
+          ]
+        },
+        {
+          "text": "캐릭터챗 시장에서는 게임사들이 새로 뛰어들며 경쟁이 커지고 있습니다. 크래프톤은 K팝 특화 키프를 출시했고 컴투스는 개발에 착수했지만, 캐릭터닷AI가 파산보호를 신청한 사례는 수익 구조와 안전성 확보가 관건임을 보여줍니다.",
+          "issue_ids": [
+            "issue-4"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "머스크, 그록 봇 운영 비용 문제로 사용량 제한 정당화",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "일론 머스크는 그록 봇 제공 비용이 매출 대비 지속 불가능할 정도로 높다며 사용량 제한을 정당화했다.",
+              "article_ids": [
+                "5ff339321fb9d61e1f50"
+              ],
+              "links": [
+                {
+                  "text": "그록 봇",
+                  "article_id": "5ff339321fb9d61e1f50"
+                },
+                {
+                  "text": "사용량 제한",
+                  "article_id": "5ff339321fb9d61e1f50"
+                }
+              ]
+            },
+            {
+              "text": "그록 봇은 가상 컴퓨터로 쇼핑 등 작업을 대신 수행하는 AI 에이전트로, 주간 유료 이용자가 80만명에 달한다.",
+              "article_ids": [
+                "5ff339321fb9d61e1f50"
+              ],
+              "links": [
+                {
+                  "text": "AI 에이전트",
+                  "article_id": "5ff339321fb9d61e1f50"
+                },
+                {
+                  "text": "80만명",
+                  "article_id": "5ff339321fb9d61e1f50"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 에이전트가 이용자를 늘려도 컴퓨팅 비용을 감당하지 못하면 사용량 제한이나 요금 인상으로 이어질 수 있음을 보여준다.",
+          "article_ids": [
+            "5ff339321fb9d61e1f50"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "스노우플레이크, AI 에이전트 통제 위한 코텍스 AI 게이트웨이 소개",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "스노우플레이크는 기업 내 모든 AI 에이전트가 거치는 단일 통제 관문인 코텍스 AI 게이트웨이를 소개했다.",
+              "article_ids": [
+                "28129751865846e44e27"
+              ],
+              "links": [
+                {
+                  "text": "코텍스 AI 게이트웨이",
+                  "article_id": "28129751865846e44e27"
+                }
+              ]
+            },
+            {
+              "text": "코텍스 AI 게이트웨이는 권한 남용과 프롬프트 인젝션을 탐지하고, 부서별 예산 한도 설정과 다이내믹 모델 라우팅도 제공한다.",
+              "article_ids": [
+                "28129751865846e44e27"
+              ],
+              "links": [
+                {
+                  "text": "프롬프트 인젝션",
+                  "article_id": "28129751865846e44e27"
+                },
+                {
+                  "text": "다이내믹 모델 라우팅",
+                  "article_id": "28129751865846e44e27"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 에이전트 도입이 늘수록 데이터 유출과 비용 초과를 막을 통제 체계가 기업 도입의 전제 조건이 되고 있다.",
+          "article_ids": [
+            "28129751865846e44e27"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "카르파시, 클로드 오퍼스 5.5로 유튜브 대안 해커튜브 개발",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "안드레이 카르파시는 해커뉴스 댓글 4300만개를 분석해 영상 6454개를 선정하고 클로드 오퍼스 5.5로 약 2시간 만에 해커튜브를 구축했다.",
+              "article_ids": [
+                "bd7d51d100ac9d14eee4"
+              ],
+              "links": [
+                {
+                  "text": "클로드 오퍼스 5.5",
+                  "article_id": "bd7d51d100ac9d14eee4"
+                },
+                {
+                  "text": "해커튜브",
+                  "article_id": "bd7d51d100ac9d14eee4"
+                }
+              ]
+            },
+            {
+              "text": "카르파시는 직접 코드를 작성하거나 터미널 명령을 실행하지 않고 자연어 지시만으로 데이터 정리와 배포, 보안 설정을 클로드 코드에 맡겼다고 밝혔다.",
+              "article_ids": [
+                "bd7d51d100ac9d14eee4"
+              ],
+              "links": [
+                {
+                  "text": "클로드 코드",
+                  "article_id": "bd7d51d100ac9d14eee4"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 코딩 에이전트가 코드 작성뿐 아니라 대규모 데이터 분석과 서비스 설계·배포까지 수행할 수 있음을 보여주는 사례다.",
+          "article_ids": [
+            "bd7d51d100ac9d14eee4"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "게임사들, AI 캐릭터챗 시장 진출로 경쟁 본격화",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "크래프톤은 K팝 특화 AI 캐릭터챗 키프를 출시했고, 컴투스는 여성향 AI 캐릭터 채팅 플랫폼 개발에 착수했다.",
+              "article_ids": [
+                "d1dfc3432fc7ada5cc97"
+              ],
+              "links": [
+                {
+                  "text": "키프",
+                  "article_id": "d1dfc3432fc7ada5cc97"
+                },
+                {
+                  "text": "컴투스",
+                  "article_id": "d1dfc3432fc7ada5cc97"
+                }
+              ]
+            },
+            {
+              "text": "캐릭터닷AI는 월간 활성 이용자 1200만명을 확보하고도 매월 800만~900만달러 손실을 기록해 지난달 미국에서 파산보호를 신청했다.",
+              "article_ids": [
+                "d1dfc3432fc7ada5cc97"
+              ],
+              "links": [
+                {
+                  "text": "캐릭터닷AI",
+                  "article_id": "d1dfc3432fc7ada5cc97"
+                },
+                {
+                  "text": "파산보호",
+                  "article_id": "d1dfc3432fc7ada5cc97"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "캐릭터챗은 대화량이 늘수록 비용이 커져 수익 구조와 청소년 보호 장치를 함께 갖춰야 하는 과제를 안고 있다.",
+          "article_ids": [
+            "d1dfc3432fc7ada5cc97"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "심심이, 1인 가구 고립 감지 공공 돌봄 실증 착수",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "심심이는 인천 미추홀구와 협약을 맺고 음성·생체·디지털 이용정보를 분석해 1인 가구의 고립과 위기 징후를 조기 감지하는 실증을 추진한다.",
+              "article_ids": [
+                "d74661e2381a1ec8586d"
+              ],
+              "links": [
+                {
+                  "text": "미추홀구",
+                  "article_id": "d74661e2381a1ec8586d"
+                },
+                {
+                  "text": "위기 징후",
+                  "article_id": "d74661e2381a1ec8586d"
+                }
+              ]
+            },
+            {
+              "text": "심심이는 인천에 이어 충북 청주시로 실증 범위를 확대해 장년층 1인 가구의 정서적 고립 감지 기술을 준비하고 있다.",
+              "article_ids": [
+                "d74661e2381a1ec8586d"
+              ],
+              "links": [
+                {
+                  "text": "청주시",
+                  "article_id": "d74661e2381a1ec8586d"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "대화형 AI가 개인 상호작용을 넘어 지역 복지체계와 연결되는 공공 돌봄 기술로 확장될 수 있는지 확인하는 과정이다.",
+          "article_ids": [
+            "d74661e2381a1ec8586d"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "28129751865846e44e27",
+          "title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조",
+          "published_at": "2026-11-03T14:42:58+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/11/1030-8",
+              "title": "스노우플레이크, AI 에이전트 확산 속 ‘데이터 통제’ 강조",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "d74661e2381a1ec8586d",
+          "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
+          "published_at": "2026-11-03T12:37:51+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42570",
+              "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "5ff339321fb9d61e1f50",
+          "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+          "published_at": "2026-11-03T09:04:42+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+              "title": "머스크 \"그록 봇 운영 비용 감당 어려워\"...AI 에이전트 사용량 제한",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "d1dfc3432fc7ada5cc97",
+          "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
+          "published_at": "2026-11-03T08:59:14+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216970",
+              "title": "뤼튼·스캐터랩 양분한 AI 캐릭터챗 시장에 게임사 가세…경쟁 본격화",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "bd7d51d100ac9d14eee4",
+          "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+          "published_at": "2026-11-03T08:52:30+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=216956",
+              "title": "카르파시, 유튜브 추천에 질려 AI로 대안 개발…\"2시간 만에 완성\"",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "27093f38c166ec586c793c5249dff404e8801ae12989380e5b69862a9d8da5e3"
+    },
+    {
       "id": "2026-11-03",
       "day": "2026-11-03",
       "scheduled_at": "2026-11-02T21:30:00+00:00",
