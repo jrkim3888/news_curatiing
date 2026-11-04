@@ -3,6 +3,923 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d21832ce6946258db7eb",
+      "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
+      "title": "AI in Mathematical Research: Heidelberg Laureate Forum",
+      "original_title": "AI in Mathematical Research: Heidelberg Laureate Forum",
+      "published_at": "2026-11-04T10:27:45+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
+          "title": "AI in Mathematical Research: Heidelberg Laureate Forum",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363592"
+        }
+      ]
+    },
+    {
+      "id": "34b11504ce01f4d47b21",
+      "url": "https://i8o.eu/journal/giving-new-life-to-ps-vita",
+      "title": "Giving the PS Vita camera new life with GPT-6 Astra",
+      "original_title": "Giving the PS Vita camera new life with GPT-6 Astra",
+      "published_at": "2026-11-04T10:23:11+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://i8o.eu/journal/giving-new-life-to-ps-vita",
+          "title": "Giving the PS Vita camera new life with GPT-6 Astra",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363552"
+        }
+      ]
+    },
+    {
+      "id": "b8d5cc7913ae910a85fa",
+      "url": "https://seitan.rocks/seitan/about",
+      "title": "Seitan: Syscall Expressive Interpreter, Transformer and Notifier",
+      "original_title": "Seitan: Syscall Expressive Interpreter, Transformer and Notifier",
+      "published_at": "2026-11-04T10:23:04+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://seitan.rocks/seitan/about",
+          "title": "Seitan: Syscall Expressive Interpreter, Transformer and Notifier",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363549"
+        }
+      ]
+    },
+    {
+      "id": "f49b93fe1988ad707711",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42591",
+      "title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자",
+      "original_title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자",
+      "published_at": "2026-11-04T10:07:56+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "글로벌 기업 7곳이 한국의 인공지능 데이터센터(AIDC)와 반도체, 첨단소재, 재생에너지 분야에 총 20억달러 규모의 투자를 신고한다. 특히 전체 투자 신고액의 97%가 비수도권에 집중되면서 AI 인프라와 첨단 제조업을 중심으로 지역 산업 생태계를 확대하려는 정부의 투자유치 전략이 구체적인 성과로 이어지고 있다.산업…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42591",
+          "title": "AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자"
+        }
+      ]
+    },
+    {
+      "id": "a7e7623d10cec12813cb",
+      "url": "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03",
+      "title": "OpenAI employees warned about operational security lapses for years",
+      "original_title": "OpenAI employees warned about operational security lapses for years",
+      "published_at": "2026-11-04T10:05:18+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/business/openai-employees-warned-about-operational-security-lapses-years-sources-say-2026-11-03",
+          "title": "OpenAI employees warned about operational security lapses for years",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363419"
+        }
+      ]
+    },
+    {
+      "id": "28542dc5b2aba2f3d1e9",
+      "url": "https://evalship.com/",
+      "title": "Show HN: Evalship – find the flaws in your LLM evals",
+      "original_title": "Show HN: Evalship – find the flaws in your LLM evals",
+      "published_at": "2026-11-04T10:03:08+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://evalship.com/",
+          "title": "Show HN: Evalship – find the flaws in your LLM evals",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363399"
+        }
+      ]
+    },
+    {
+      "id": "5aad5221035278dd3ff4",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42590",
+      "title": "수일 걸리던 플라스마 예측 밀리초로 단축....엔비디아, AI로 반도체 제조 시뮬레이션 최대 35배 가속",
+      "original_title": "수일 걸리던 플라스마 예측 밀리초로 단축....엔비디아, AI로 반도체 제조 시뮬레이션 최대 35배 가속",
+      "published_at": "2026-11-04T09:49:43+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "반도체 제조 공정에서 수일이 걸리던 복잡한 물리 현상 예측을 밀리초 단위로 수행하고, 기존 시뮬레이션의 연산 속도를 최대 35배까지 높이는 AI 기술이 반도체 산업에 적용되고 있다. 반도체 장비와 제조 공정을 실제로 변경하기 전에 AI가 가상 환경에서 물리적 변화를 예측하고 검증하는 방식으로, 반도체 개발과 생산 최…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42590",
+          "title": "수일 걸리던 플라스마 예측 밀리초로 단축....엔비디아, AI로 반도체 제조 시뮬레이션 최대 35배 가속"
+        }
+      ]
+    },
+    {
+      "id": "89c8baa8c00d43ec0a1e",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "title": "A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)",
+      "original_title": "A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)",
+      "published_at": "2026-11-04T09:45:17+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Neil Kakkar / The Pragmatic Engineer : A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup T…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+          "title": "A software engineer details how he went from merging eight to 20 pull requests per month to 200+ after joining AI-native creator startup Tano eight months ago (Neil Kakkar/The Pragmatic Engineer)",
+          "discussion_url": "https://www.techmeme.com/261104/p11"
+        }
+      ]
+    },
+    {
+      "id": "be909d20a4bddae8e802",
+      "url": "https://github.com/chengmatt416/umbra",
+      "title": "Show HN: Umbra – An AI agent that uses Android apps while you use your phone",
+      "original_title": "Show HN: Umbra – An AI agent that uses Android apps while you use your phone",
+      "published_at": "2026-11-04T09:30:16+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/chengmatt416/umbra",
+          "title": "Show HN: Umbra – An AI agent that uses Android apps while you use your phone",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363170"
+        }
+      ]
+    },
+    {
+      "id": "53154d06861fc85f6a5a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42589",
+      "title": "AI로 업무 생산성 높아졌지만 조직 성과는 제자리…기업 직원 83% 생산성 향상, 품질 개선은 56%",
+      "original_title": "AI로 업무 생산성 높아졌지만 조직 성과는 제자리…기업 직원 83% 생산성 향상, 품질 개선은 56%",
+      "published_at": "2026-11-04T09:26:56+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 인공지능(AI) 도입이 빠르게 확산하면서 직원 개인의 업무 생산성은 크게 높아졌지만, 이러한 변화가 조직 전체의 성과 개선으로 충분히 이어지지 못하고 있다는 조사 결과가 나왔다.AI를 활용해 업무를 더 빠르게 처리하는 직원은 늘었지만, 결과물의 품질과 의사결정, 팀 간 협업에서는 개선 효과가 상대적으로 제한적…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42589",
+          "title": "AI로 업무 생산성 높아졌지만 조직 성과는 제자리…기업 직원 83% 생산성 향상, 품질 개선은 56%"
+        }
+      ]
+    },
+    {
+      "id": "e994f6f025f3b9751cf4",
+      "url": "https://blog.radix63.dk/posts/how-i-ai",
+      "title": "How I AI - mental models for working with AI and long-horizon",
+      "original_title": "How I AI - mental models for working with AI and long-horizon",
+      "published_at": "2026-11-04T09:26:51+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.radix63.dk/posts/how-i-ai",
+          "title": "How I AI - mental models for working with AI and long-horizon",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363148"
+        }
+      ]
+    },
+    {
+      "id": "f55780449bd7af99b00c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216984",
+      "title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토",
+      "original_title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토",
+      "published_at": "2026-11-04T09:24:21+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "앤트로픽이 AI를 활용한 연구개발이 급격히 빨라지면서 안전성과 보안 대책을 마련하는 속도를 앞지를 수 있다고 경고했다. 특히 과거에도 개발 속도가 크게 빨라진 사실을 뒤늦게 파악한 적이 있다고 인정하며, 재귀적 자기개선(RSI)에 대비해 인간의 감독과 통제 체계를 강화할 필요성을 제기했다.테크크런치는 2일(현지시간)…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216984",
+          "title": "앤트로픽 \"RSI 가속에 AI 안전 대책 뒤처질 수도\"…통제 강화 검토"
+        }
+      ]
+    },
+    {
+      "id": "d66fd9b49955ed3c604b",
+      "url": "https://ai.greensighter.com/",
+      "title": "AI UI/UX designer: assign a ticket, get senior-reviewed Figma designs in 24-48h",
+      "original_title": "AI UI/UX designer: assign a ticket, get senior-reviewed Figma designs in 24-48h",
+      "published_at": "2026-11-04T09:18:02+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ai.greensighter.com/",
+          "title": "AI UI/UX designer: assign a ticket, get senior-reviewed Figma designs in 24-48h",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363090"
+        }
+      ]
+    },
+    {
+      "id": "fce613d50e6612101e96",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216989",
+      "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
+      "original_title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
+      "published_at": "2026-11-04T09:07:03+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 AI 모델을 활용해 기계·전기 공학부터 시스템 설계, 시제품 제작까지 하드웨어 개발 전반을 가속하고 있다고 밝혔다. 설계 도면 작성과 시뮬레이션 설정은 물론 제조 과정에 필요한 작업까지 지원하며, 내부 팀의 아이디어 검증과 설계 반복 속도를 높이고 있다는 설명이다.오픈AI는 3일(현지시간) 공식 블로그를 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216989",
+          "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작"
+        }
+      ]
+    },
+    {
+      "id": "52226c415fea109e5e8e",
+      "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections",
+      "title": "Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the state (Sasha Rogelberg/Fortune)",
+      "original_title": "Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the state (Sasha Rogelberg/Fortune)",
+      "published_at": "2026-11-04T09:01:06+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sasha Rogelberg / Fortune : Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections",
+          "title": "Ohio voters approved data center bans or restrictions in at least 14 municipalities across 21 ballot measures, adding to 125 local moratoriums in the state (Sasha Rogelberg/Fortune)",
+          "discussion_url": "https://www.techmeme.com/261104/p9"
+        }
+      ]
+    },
+    {
+      "id": "a462338fc4850fafb3ed",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217019",
+      "title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고",
+      "original_title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고",
+      "published_at": "2026-11-04T09:00:00+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 에이전트가 코딩과 업무를 대신하는 비중이 늘면서 인간의 판단력과 전문성이 약해질 수 있다는 경고가 나오고 있다. 특히 AI가 만든 결과물을 검증하려면 인간의 전문성이 필요하지만, AI에 작업을 맡길수록 그 능력마저 퇴화할 수 있다는 '감독의 역설(Paradox of Supervision)'이 새로운 문제로 떠올…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217019",
+          "title": "\"AI에 일 맡길수록 감독 능력도 퇴화\"…앤트로픽 엔지니어 경고"
+        }
+      ]
+    },
+    {
+      "id": "511651698a5d5b7de58b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217008",
+      "title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개",
+      "original_title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개",
+      "published_at": "2026-11-04T08:54:42+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 AI 스타트업 자이프라(Zyphra)가 초장문 문맥 처리 속도를 크게 높일 수 있는 새로운 희소 어텐션 기술을 공개했다. 문서 전체를 검색하는 대신 정보를 계층적으로 정리한 뒤 필요한 부분만 찾아가는 방식으로, 1000만 토큰 문맥에서 기존 일반 어텐션보다 최대 35배 빠른 처리 속도를 낼 수 있다는 예측 결과…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217008",
+          "title": "\"AI 초장문 처리 속도 최대 35배 높인다\"…자이프라, 새 어텐션 기술 공개"
+        }
+      ]
+    },
+    {
+      "id": "65a45fb2060b26488374",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
+      "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
+      "original_title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
+      "published_at": "2026-11-04T08:40:04+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업들이 AI의 실제 업무 적용을 지원하는 '전방 배치 엔지니어(FDE)' 확보 경쟁에 나서면서, 이들의 몸값이 치솟고 있다. 최상위급 인력의 연간 총보수는 최대 145만달러(약 19억원)에 달하는 것으로 나타났다. AI 도입이 실험 단계를 넘어 실제 사업 성과를 내는 단계로 접어들면서 현장에 AI 시스템을 구축할 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217007",
+          "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력"
+        }
+      ]
+    },
+    {
+      "id": "ff1c3ccd22b4335dc766",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42588",
+      "title": "한국인공지능협회·경북ICT융합산업진흥협회 맞손…경북 AI·DX 생태계 조성 및 ‘CAIO포럼 경북지회’ 출범",
+      "original_title": "한국인공지능협회·경북ICT융합산업진흥협회 맞손…경북 AI·DX 생태계 조성 및 ‘CAIO포럼 경북지회’ 출범",
+      "published_at": "2026-11-04T08:35:44+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "사단법인 한국인공지능협회(협회장 김현철)가 사단법인 경북ICT융합산업진흥협회(협회장 최용진)와 경상북도 지역의 인공지능(AI) 및 ICT 산업 발전과 디지털 전환(DX) 생태계 조성을 위한 업무협약(MOU)을 체결했다고 3일 밝혔다. 양 기관은 이번 협약과 함께 ‘한국CAIO포럼 경북지회’를 공식 출범하기로 뜻을 모…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42588",
+          "title": "한국인공지능협회·경북ICT융합산업진흥협회 맞손…경북 AI·DX 생태계 조성 및 ‘CAIO포럼 경북지회’ 출범"
+        }
+      ]
+    },
+    {
+      "id": "11390f5728bed10a2570",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216992",
+      "title": "\"엔비디아 심기 거스를라\"...오픈AI도 중국 칩 수출 규제에 발언 자제",
+      "original_title": "\"엔비디아 심기 거스를라\"...오픈AI도 중국 칩 수출 규제에 발언 자제",
+      "published_at": "2026-11-04T08:33:34+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "엔비디아가 AI 칩 시장의 압도적인 지배력을 바탕으로 고객사의 사업 결정은 물론 미국 정부의 수출 정책에도 막강한 영향력을 행사하고 있다는 보도가 나왔다. 오픈AI조차 엔비디아와의 관계 악화를 우려해 중국에 대한 첨단 반도체 수출 규제 문제에서 공개적인 입장을 내는 데 신중한 태도를 보여온 것으로 전해졌다.2일(현지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216992",
+          "title": "\"엔비디아 심기 거스를라\"...오픈AI도 중국 칩 수출 규제에 발언 자제"
+        }
+      ]
+    },
+    {
+      "id": "52f998b99def3d53d40e",
+      "url": "https://byline.network/2026/11/4-504",
+      "title": "역설계 문턱 낮춘 AI 도구 ‘REA’, 보안 위협 키우나",
+      "original_title": "역설계 문턱 낮춘 AI 도구 ‘REA’, 보안 위협 키우나",
+      "published_at": "2026-11-04T08:25:52+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)을 활용한 소프트웨어 역설계 기술이 등장하면서 소스코드가 공개되지 않은 프로그램도 분석하기 쉬워지고 있다. 기존에는 전문 인력이 상당한 시간을 들여야 했던 작업을 AI가 지원하면서 취약점 탐색이나 악성 프로그램 제작에 악용될 가능성도 제기된다. 새로운 공격 기법이 등장했다기보다는 기존 공격에 필요한 시…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/4-504",
+          "title": "역설계 문턱 낮춘 AI 도구 ‘REA’, 보안 위협 키우나"
+        }
+      ]
+    },
+    {
+      "id": "7f330728e0367f478599",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217014",
+      "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
+      "original_title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목",
+      "published_at": "2026-11-04T08:24:28+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "유럽연합(EU) 최고법원인 유럽사법재판소(ECJ)의 법무관이 구글의 AI 챗봇 '제미나이'가 언론사 기사를 검색해 답변을 생성하는 과정에서 저작권을 침해할 수 있다는 법률 의견을 내놨다. 단순히 기사에 담긴 사실을 전달하는 것은 문제가 없지만, 원문의 표현을 재현하거나 이용자가 원문을 읽지 않아도 될 정도로 내용을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217014",
+          "title": "EU 최고법원 법무관 \"AI 기사 무단 요약은 저작권 침해\"...구글 제미나이 소송 주목"
+        }
+      ]
+    },
+    {
+      "id": "19aac174c0565a653dcb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217017",
+      "title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링",
+      "original_title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링",
+      "published_at": "2026-11-04T08:05:31+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "현대제철이 차세대 생성 AI 통합 플랫폼을 가동하며 전사 AX 혁신을 가속한다.현대제철은 최근 사내 문서와 데이터를 자산화하고 통합 검색·분석과 다양한 AI 서비스를 제공하는 플랫폼 '스틸(Steel)-X'의 가동에 나섰다고 4일 밝혔다.스틸-X는 여러 시스템과 부서에 분산된 사내 지식을 효율적으로 활용하고 반복적인…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217017",
+          "title": "현대제철, 사내 생성 AI 통합 플랫폼 '스틸-X' 가동...전사 AX 페달링"
+        }
+      ]
+    },
+    {
+      "id": "687ac9614aed3b0871f2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217013",
+      "title": "에이티넘인베 투자기업 올거나이즈, 일본 증시 상장",
+      "original_title": "에이티넘인베 투자기업 올거나이즈, 일본 증시 상장",
+      "published_at": "2026-11-04T08:04:33+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "기업용 AI 전문 올거나이즈(대표 이창수)가 일본 증시에 상장했다.에이티넘인베스트먼트는 4일 자사 투자 포트폴리오 중 하나인 올거나이즈가 일본 도쿄증권거래소 그로스시장에 상장했다고 밝혔다.미국 캘리포니아에서 출발한 올거나이즈는 한국·미국·일본에서 AI 솔루션 사업을 전개했다. 2018년 올거나이즈코리아, 2019년 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217013",
+          "title": "에이티넘인베 투자기업 올거나이즈, 일본 증시 상장"
+        }
+      ]
+    },
+    {
+      "id": "1ace8d5ab0c0b298c9e5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42587",
+      "title": "AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진",
+      "original_title": "AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진",
+      "published_at": "2026-11-04T07:46:26+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 반도체 기업 AMD가 국내 AI 반도체 기업 퓨리오사AI, AI 인프라 전문기업 망고부스트와 손잡고 서로 다른 종류의 프로세서를 통합하는 차세대 AI 컴퓨팅 인프라 개발에 나선다. AMD의 CPU·GPU 기술과 한국의 NPU·DPU 기술을 결합해 AI 추론 작업에 적합한 컴퓨팅 자원을 유연하게 활용하는 개방형…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42587",
+          "title": "AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진"
+        }
+      ]
+    },
+    {
+      "id": "fa73a67e24707f8c8f8d",
+      "url": "https://byline.network/2026/11/1104-12",
+      "title": "메타넷·스켈터랩스, 똑똑한 AI보다 중요한 건 ‘통제’",
+      "original_title": "메타넷·스켈터랩스, 똑똑한 AI보다 중요한 건 ‘통제’",
+      "published_at": "2026-11-04T07:31:53+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최근 엔터프라이즈 인공지능(AI) 시장에서 IT 인프라·컨설팅 역량과 AI 코어 기술력의 결합이 필수적인 생존 전략으로 떠오르고 있다. 기업의 성공적인 인공지능 전환(AX)을 위해서는 단순히 우수한 AI 모델을 도입하는 것을 넘어, 인프라 구축부터 전사적 정책 적용까지 아우르는 통합 역량이 요구된다. 이 지점에서 대…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1104-12",
+          "title": "메타넷·스켈터랩스, 똑똑한 AI보다 중요한 건 ‘통제’"
+        }
+      ]
+    },
+    {
+      "id": "714198814495cfb82903",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217011",
+      "title": "\"오픈AI, 수년간 내부 보안 취약점 경고 무시\"...개발 속도 우선에 기밀 유출 위험",
+      "original_title": "\"오픈AI, 수년간 내부 보안 취약점 경고 무시\"...개발 속도 우선에 기밀 유출 위험",
+      "published_at": "2026-11-04T07:30:09+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 수년간 직원들로부터 내부 보안 취약점에 대한 경고를 받고도 적극적으로 대응하지 않았다는 지적이 나왔다. 구글과 앤트로픽 등 경쟁사와의 기술 개발 경쟁을 우선하면서 내부 연구 자료와 소프트웨어 코드가 외부에 유출될 위험을 방치했다는 것이다.로이터는 3일(현지시간) 복수의 관계자를 인용, 챗GPT가 출시된 2…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217011",
+          "title": "\"오픈AI, 수년간 내부 보안 취약점 경고 무시\"...개발 속도 우선에 기밀 유출 위험"
+        }
+      ]
+    },
+    {
+      "id": "fd8101d72e4088e592ff",
+      "url": "https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?accessToken=zwAAAaGlkx_5kc8g1VmfiVVBhNOioKwSluQA8w.MEQCIFK7Fdnkw1P8IFgW1-qvSdOM3zwT-zAi5iCOR69gDKeaAiA_kkJ1mI6J2nnKn1OyZSmVm-LcnHQeleuqnfqYmrcY9A&sharetype=gift&token=b4848b6e-823f-4d06-ad62-e40b39922426",
+      "title": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)",
+      "original_title": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)",
+      "published_at": "2026-11-04T07:30:05+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Martha Muir / Financial Times : Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure fas…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/20d5599f-8955-4184-a2a0-ac1296e400f3?accessToken=zwAAAaGlkx_5kc8g1VmfiVVBhNOioKwSluQA8w.MEQCIFK7Fdnkw1P8IFgW1-qvSdOM3zwT-zAi5iCOR69gDKeaAiA_kkJ1mI6J2nnKn1OyZSmVm-LcnHQeleuqnfqYmrcY9A&sharetype=gift&token=b4848b6e-823f-4d06-ad62-e40b39922426",
+          "title": "Industry experts warn that slow US power grid expansion could stifle its AI boom and give China an edge, as China builds power infrastructure faster (Martha Muir/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261104/p8"
+        }
+      ]
+    },
+    {
+      "id": "3fdf88ea8c6c32d03157",
+      "url": "https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01",
+      "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
+      "original_title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
+      "published_at": "2026-11-04T07:20:02+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI — After years of building hu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/china/chinas-robot-makers-have-mastered-moves-now-comes-race-brains-2026-11-01",
+          "title": "ITjuzi: Chinese embodied AI companies raised ~$13B across 322 deals in H1 2026, up 5x YoY, as robot makers shift focus from hardware to AI (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261104/p7"
+        }
+      ]
+    },
+    {
+      "id": "7cace8e45638bb426cd4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217012",
+      "title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁",
+      "original_title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁",
+      "published_at": "2026-11-04T07:18:22+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아티피셜 애널리시스(AA)의 새로운 성능 평가에서 미국 최상위 모델과 중국 오픈 모델의 격차가 크게 벌어지면서 중국 AI의 경쟁력이 과대평가된 것 아니냐는 논쟁이 벌어지고 있다. 특히 비공개 문제를 늘린 뒤 성능 차이가 커지자 기존 모델들이 공개된 시험에 맞춰 성능을 높여왔다는 의혹이 제기됐지만, 평가 기준 자체가 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217012",
+          "title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁"
+        }
+      ]
+    },
+    {
+      "id": "ffb06f27d8b231276b26",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout",
+      "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback (Bloomberg)",
+      "original_title": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback (Bloomberg)",
+      "published_at": "2026-11-04T06:55:07+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback — Da…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/ai-data-center-boom-is-set-for-upheaval-after-us-election-rout",
+          "title": "Democratic gubernatorial wins in Texas, Georgia, Ohio, and Pennsylvania are set to expose 50% of proposed AI data center additions to more scrutiny and pushback (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261104/p6"
+        }
+      ]
+    },
+    {
+      "id": "08d7937afce1dcdbbec5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216998",
+      "title": "구글 \"학교에서 AI 끄려면 검색도 포기해야\"...교육용 AI 제한 놓고 논란",
+      "original_title": "구글 \"학교에서 AI 끄려면 검색도 포기해야\"...교육용 AI 제한 놓고 논란",
+      "published_at": "2026-11-04T06:47:06+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 미국 초·중·고교(K-12) 학생 계정에서 '제미나이'와 '구글 클래스룸' 등 AI 기능을 기본적으로 차단하기로 했다. 하지만 학교가 구글 검색을 허용하면 검색에 내장된 AI 기능도 함께 제공해야 해 논란이 일고 있다. AI 사용을 원하지 않는 학교에 사실상 검색 서비스까지 포기하도록 한다는 비판이다.크리스 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216998",
+          "title": "구글 \"학교에서 AI 끄려면 검색도 포기해야\"...교육용 AI 제한 놓고 논란"
+        }
+      ]
+    },
+    {
+      "id": "903240ca0176524fa56a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+      "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)",
+      "original_title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)",
+      "published_at": "2026-11-04T06:15:04+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Bloomberg : A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto — Glo…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/democrats-win-rattles-trump-trades-from-ai-stocks-to-crypto",
+          "title": "A Democratic sweep of US Congress pulls down Asian tech stocks, as investors rethink trades built around Trump's policy agenda for AI infrastructure and crypto (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261104/p3"
+        }
+      ]
+    },
+    {
+      "id": "1241d0e34491e6d610dd",
+      "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
+      "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
+      "original_title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
+      "published_at": "2026-11-04T06:05:02+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration — Inte…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c",
+          "title": "Sources: Oracle has scrapped a ~$7B, five-year deal to lease ~100K advanced AI chips to Tencent after yielding to pressure from the Trump administration (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261104/p2"
+        }
+      ]
+    },
+    {
+      "id": "ed707b05fb3858207f28",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+      "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
+      "original_title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
+      "published_at": "2026-11-04T05:55:00+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months — Chines…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+          "title": "Sources: Alibaba, Tencent, ByteDance, and other Chinese AI companies ordered 6M Nvidia RTX Pro 5500 chips worth $70B, but expect only ~1% within four months (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261104/p1"
+        }
+      ]
+    },
+    {
+      "id": "56fec82d5d87ad271bb5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42586",
+      "title": "K2 전차·FA-50 정비에 'AI 에이전트' 투입…정부, 300억원 규모 군수 AI 개발 착수",
+      "original_title": "K2 전차·FA-50 정비에 'AI 에이전트' 투입…정부, 300억원 규모 군수 AI 개발 착수",
+      "published_at": "2026-11-04T05:18:19+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "국방부와 산업통상부가 K2 전차와 FA-50 전투기 등 주요 무기체계의 고장과 정비 수요, 운용유지비용을 인공지능(AI)으로 분석하는 군수 AI 에이전트 개발에 착수했다.총 300억원을 투입해 무기체계의 운용부터 정비, 부품 수급까지 연결하는 지능형 군수지원체계를 구축하고, 국내 방산업체의 부품 공급망과 수출 경쟁력…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42586",
+          "title": "K2 전차·FA-50 정비에 'AI 에이전트' 투입…정부, 300억원 규모 군수 AI 개발 착수"
+        }
+      ]
+    },
+    {
+      "id": "77b3325538b0e6be790a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42585",
+      "title": "20kg 들고 걷는 한국형 AI 휴머노이드 개발…KIST 이종원 단장, 대한민국 과학기술인상 수상",
+      "original_title": "20kg 들고 걷는 한국형 AI 휴머노이드 개발…KIST 이종원 단장, 대한민국 과학기술인상 수상",
+      "published_at": "2026-11-04T04:48:41+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "20kg 이상의 물체를 들고 균형을 유지하며 이동할 수 있는 한국형 인공지능(AI) 휴머노이드 로봇이 개발됐다. 로봇의 근육에 해당하는 구동기부터 관절, 센서, 제어기술까지 핵심 요소를 국내 기술로 구현하고 에너지 효율을 2배 이상 높인 것이 특징이다.과학기술정보통신부와 한국연구재단(National Research …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42585",
+          "title": "20kg 들고 걷는 한국형 AI 휴머노이드 개발…KIST 이종원 단장, 대한민국 과학기술인상 수상"
+        }
+      ]
+    },
+    {
+      "id": "4d4f7e929e89afb34561",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?reflink=desktopwebshare_permalink&st=sszirS",
+      "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
+      "original_title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
+      "published_at": "2026-11-04T04:20:01+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Xavier Martinez / Wall Street Journal : Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-desig…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c?reflink=desktopwebshare_permalink&st=sszirS",
+          "title": "Pharmaceutical leaders are skeptical of claims that AI could cure most diseases within a decade; the US FDA has yet to clear any AI-designed biotech drugs (Xavier Martinez/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261103/p48"
+        }
+      ]
+    },
+    {
+      "id": "89b6ec2dd0b9531a6480",
+      "url": "https://byline.network/2026/11/03_lineplus_oneable_ai",
+      "title": "메신저 회사 라인플러스는 왜 아마존 판매자의 상품페이지를 만들까",
+      "original_title": "메신저 회사 라인플러스는 왜 아마존 판매자의 상품페이지를 만들까",
+      "published_at": "2026-11-04T03:21:13+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "라인(LINE)의 한국 법인 라인플러스가 아마존 판매자들의 상품페이지를 만들기 시작했습니다. 메신저 서비스로 잘 알려진 회사가 AI를 활용해 다른 회사에서 팔릴 상품 이미지와 설명 콘텐츠를 만드는 사업에 뛰어든 겁니다. 라인플러스가 지난 9월 선보인 워너블 AI입니다. 워너블 AI는 판매자가 상품 사진과 상품 설명 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/03_lineplus_oneable_ai",
+          "title": "메신저 회사 라인플러스는 왜 아마존 판매자의 상품페이지를 만들까"
+        }
+      ]
+    },
+    {
+      "id": "40b927993ffc909119aa",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42583",
+      "title": "탈취한 AI 계정으로 하루 10만달러 ‘요금 폭탄’…구글, LLM재킹 공격 확산 경고",
+      "original_title": "탈취한 AI 계정으로 하루 10만달러 ‘요금 폭탄’…구글, LLM재킹 공격 확산 경고",
+      "published_at": "2026-11-04T03:03:36+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 인공지능(AI) 모델 접근 권한을 탈취해 대규모 사용 요금을 발생시키고, 훔친 AI 서비스를 암시장에서 재판매하는 사이버 범죄가 확산하고 있다. 공격자들은 탈취한 API 키와 클라우드 계정을 이용해 고성능 AI 모델을 무단으로 호출하고, 사용 비용을 피해 기업에 떠넘기는 방식으로 수익을 창출하고 있다.특히 하…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42583",
+          "title": "탈취한 AI 계정으로 하루 10만달러 ‘요금 폭탄’…구글, LLM재킹 공격 확산 경고"
+        }
+      ]
+    },
+    {
+      "id": "9936310bfce15e0bc241",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42582",
+      "title": "\"AI로 아마존 산림파괴 막는다\"... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립",
+      "original_title": "\"AI로 아마존 산림파괴 막는다\"... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립",
+      "published_at": "2026-11-04T02:51:48+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존 열대우림을 인공지능(AI)을 활용해 산림파괴를 감시하고 기상이변을 예측하는 국제협력체계가 출범한다. 기후변화 대응에 AI를 활용하는 동시에 AI 데이터센터의 전력과 용수 소비를 줄이는 기술 개발도 추진한다. 기후위기 해결을 위한 AI 활용과 AI 자체의 환경적 지속가능성을 함께 다루는 국제 연구 거점이 마련되…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42582",
+          "title": "\"AI로 아마존 산림파괴 막는다\"... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립"
+        }
+      ]
+    },
+    {
+      "id": "ddbc9bb447fc257ea46b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42581",
+      "title": "의사는 13분, AI는 3초…UCL, 심장 MRI 분석해 사망 위험 예측력까지 높였다",
+      "original_title": "의사는 13분, AI는 3초…UCL, 심장 MRI 분석해 사망 위험 예측력까지 높였다",
+      "published_at": "2026-11-04T02:31:49+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 심장 자기공명영상(MRI)을 단 2~3초 만에 분석하고, 숙련된 의료진보다 환자의 장기 사망 위험을 더 정확하게 구분할 수 있다는 연구 결과가 나왔다. 특히 2만7000명 이상의 환자를 평균 5년 이상 추적한 실제 임상 데이터를 통해 AI가 측정한 심장 기능 지표의 예후 예측력을 검증했다는 점에서 주목된다…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42581",
+          "title": "의사는 13분, AI는 3초…UCL, 심장 MRI 분석해 사망 위험 예측력까지 높였다"
+        }
+      ]
+    },
+    {
+      "id": "00fdf56951c7683fda6b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42580",
+      "title": "딥핑소스, 자동차 팝업 행사에 AI 영상분석 적용",
+      "original_title": "딥핑소스, 자동차 팝업 행사에 AI 영상분석 적용",
+      "published_at": "2026-11-04T02:21:01+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 공간분석 전문기업 딥핑소스(Deeping Source, 대표 김태훈)가 자동차 브랜드 팝업 행사에 AI 영상분석 기술을 적용해 방문객 규모와 고객 특성, 공간별 관심도를 측정했다. 단순 방문객 집계를 넘어 브랜드 체험 공간에서 나타나는 고객의 이동과 체류 양상을 데이터로 분석해 행사 성과를 평가할 수…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42580",
+          "title": "딥핑소스, 자동차 팝업 행사에 AI 영상분석 적용"
+        }
+      ]
+    },
+    {
+      "id": "f03460c0b759c27cbdaa",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42579",
+      "title": "[AI 리뷰] AI 에이전트에 기능 많이 붙인다고 똑똑해지지 않는다",
+      "original_title": "[AI 리뷰] AI 에이전트에 기능 많이 붙인다고 똑똑해지지 않는다",
+      "published_at": "2026-11-04T01:43:07+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 에이전트에 새로운 기능과 작업 지침을 추가한다고 해서 반드시 성능이 향상되는 것은 아니다. 오히려 불필요한 기능이 늘어나면 AI가 잘못된 도구를 호출하거나 서로 충돌하는 지침을 따를 수 있으며, 처리해야 할 정보가 증가해 토큰 사용량과 운영 비용이 커질 수 있다.구글 클라우드(Google Cloud)…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42579",
+          "title": "[AI 리뷰] AI 에이전트에 기능 많이 붙인다고 똑똑해지지 않는다"
+        }
+      ]
+    },
+    {
+      "id": "a4300156b0282273c4b5",
+      "url": "https://d2.naver.com/news/1095957",
+      "title": "FE News 26년 11월 소식을 전해드립니다.",
+      "original_title": "FE News 26년 11월 소식을 전해드립니다.",
+      "published_at": "2026-11-04T01:24:58+00:00",
+      "collected_at": "2026-11-04T10:34:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "주요소식 26년 11월 소식에서는 다음과 같은 유용한 정보들을 만나보실 수 있습니다. ​ Tailwind Labs is joining Shopify Tailwind CSS를 만든 Adam Wathan이 Tailwind Labs의 Shopify 합류를 발표했다. Tailwind CSS를 비롯한 오픈소스 프로젝트는 계속…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/news/1095957",
+          "title": "FE News 26년 11월 소식을 전해드립니다."
+        }
+      ]
+    },
+    {
       "id": "2c1a8c772c90590dd220",
       "url": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
       "title": "SpaceX Will Be the Biggest AI Cloud",
@@ -680,6 +1597,12 @@
           "url": "https://developer.apple.com/news?id=gdk2umrf",
           "title": "Apple opens Siri AI to all developers with iOS 27.3 and other 27.3 OS betas, letting any app bring its content and actions into Siri AI by using App Intents (Apple Developer)",
           "discussion_url": "https://www.techmeme.com/261103/p27"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://developer.apple.com/news?id=gdk2umrf",
+          "title": "Siri AI is now open to all developers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50363502"
         }
       ]
     },
