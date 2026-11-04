@@ -118,7 +118,7 @@ NEWS_MODE=brief BRIEFING_DATE=2026-10-28 RETRY_FAILED_BRIEFING=true /bin/bash op
 
 날짜와 재시도 옵션을 정기 작업에 넣지 마세요. Mac 전환을 중단해야 한다면 Mac 예약을 먼저 끄고 실행 중인 작업이 끝난 뒤 `COLLECTION_ENABLED=true`로 되돌립니다.
 
-## 5. OpenClaw에 예약 두 개 등록
+## 5. OpenClaw에 예약 세 개 등록
 
 Gateway가 이 Mac에서 실행 중인 것을 확인하세요. 다른 서버의 Gateway에 연결하면 그 서버에서 명령이 실행됩니다. 아래 명령은 **각각 한 번만** 등록하고 반환되는 작업 ID를 보관합니다. 기존 작업이 있으면 `automations list`로 확인해 수정하거나 재활성화하세요.
 
@@ -143,12 +143,22 @@ openclaw automations create "30 6 * * *" \
   --timeout-seconds 3000 --no-output-timeout-seconds 3000 \
   --no-deliver
 
+openclaw automations create "30 7,8 * * *" \
+  --name "AI Brief - recover transient failure" \
+  --tz "Asia/Seoul" --exact \
+  --command-argv '["/bin/bash","ops/run-collector.sh"]' \
+  --command-cwd "$PWD" \
+  --command-env NEWS_MODE=brief \
+  --command-env RECOVER_FAILED_BRIEFING=true \
+  --timeout-seconds 3000 --no-output-timeout-seconds 3000 \
+  --no-deliver
+
 openclaw automations list
 ```
 
-수집은 KST 00·06·12·18시, 브리핑은 KST 06:30입니다. `--exact`로 예약 분산을 끄고, Mac의 시스템 시간대와 관계없이 `Asia/Seoul`로 평가합니다. `--no-deliver`는 외부 메신저 전송 없이 실행 이력에만 결과를 남깁니다. 수집기의 `.env`가 요약을 제어하므로 예약마다 별도 에이전트 모델을 지정하지 않습니다.
+수집은 KST 00·06·12·18시, 브리핑은 KST 06:30이며 07:30/08:30에 일시 장애 복구를 확인합니다. 최초 시도를 포함해 날짜당 자동 실행은 최대 3차례이며 이미 발행된 날짜는 건너뜁니다. 실행 중 502/503/504만 5초·15초 후 재시도하여 실행당 유료 요청은 최대 6회입니다. 검증·인증 오류는 자동 복구하지 않습니다. `--exact`로 예약 분산을 끄고, Mac의 시스템 시간대와 관계없이 `Asia/Seoul`로 평가합니다. `--no-deliver`는 외부 메신저 전송 없이 실행 이력에만 결과를 남깁니다. 수집기의 `.env`가 요약을 제어하므로 예약마다 별도 에이전트 모델을 지정하지 않습니다.
 
-두 작업은 같은 체크아웃의 `flock`을 공유합니다. 이전 작업이 계속 실행 중이면 새 실행은 건너뜁니다. 실행이 30분을 넘거나 Mac이 잠든 경우 발행이 늦거나 누락될 수 있으므로 운영 이력을 확인해야 합니다. 스크립트에 Linux 전용 `timeout`을 덧붙일 필요는 없으며 OpenClaw의 50분 제한을 사용합니다.
+세 작업은 같은 체크아웃의 `flock`을 공유합니다. 이전 작업이 계속 실행 중이면 새 실행은 건너뜁니다. 실행이 30분을 넘거나 Mac이 잠든 경우 발행이 늦거나 누락될 수 있으므로 운영 이력을 확인해야 합니다. 스크립트에 Linux 전용 `timeout`을 덧붙일 필요는 없으며 OpenClaw의 50분 제한을 사용합니다.
 
 등록 후 OpenClaw를 통해서도 수동 실행해 서비스 환경의 Git 인증과 경로를 확인합니다. `JOB_ID`는 앞에서 반환된 실제 ID로 바꾸세요.
 

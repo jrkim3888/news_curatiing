@@ -46,6 +46,11 @@ case "${RETRY_FAILED_BRIEFING:-false}" in
   false) ;;
   *) echo '[error] RETRY_FAILED_BRIEFING must be true or false.'; exit 1 ;;
 esac
+case "${RECOVER_FAILED_BRIEFING:-false}" in
+  true) COLLECTOR_ARGS+=(--recover-failed-briefing) ;;
+  false) ;;
+  *) echo '[error] RECOVER_FAILED_BRIEFING must be true or false.'; exit 1 ;;
+esac
 if [[ "$(git branch --show-current)" != "$BRANCH" ]]; then
   echo "[error] Collector must be on $BRANCH."
   exit 1

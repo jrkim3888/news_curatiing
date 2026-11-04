@@ -1,6 +1,7 @@
 """Exercise the production cron wrapper against a local bare Git remote; no network/LLM."""
 import fcntl
 import hashlib
+import json
 import os
 from pathlib import Path
 import shutil
@@ -84,7 +85,6 @@ else:
         date = '2026-10-20; touch injected'
         result = self.run_job(NEWS_MODE='brief', BRIEFING_DATE=date, RETRY_FAILED_BRIEFING='true')
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
-        import json
         args = json.loads((self.repo / '.runtime/collector-args.json').read_text())
         self.assertEqual(args, ['brief', '--briefing-date', date, '--retry-failed-briefing'])
         self.assertFalse((self.repo / 'injected').exists())
@@ -143,6 +143,13 @@ else:
         result = self.run_job(BASH_ENV=str(shell_env))
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertEqual(self.git('rev-parse', 'HEAD'), self.git('rev-parse', 'origin/main'))
+
+    def test_recovery_schedule_passes_guarded_recovery_flag(self):
+        result = self.run_job(NEWS_MODE='brief', RECOVER_FAILED_BRIEFING='true')
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        import json
+        args = json.loads((self.repo / '.runtime/collector-args.json').read_text())
+        self.assertEqual(args, ['brief', '--recover-failed-briefing'])
 
     def test_dirty_checkout_is_not_overwritten(self):
         (self.repo / 'data/catalog.json').write_text('operator edit')

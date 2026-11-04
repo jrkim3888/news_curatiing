@@ -36,7 +36,8 @@ def request(url: str, hosts: set[str], *, payload: bytes | None = None, headers:
     ensure_allowed(url, hosts)
     opener = urllib.request.build_opener(AllowedRedirect(hosts))
     req_headers = {"User-Agent": USER_AGENT, "Accept-Encoding": "gzip", **(headers or {})}
-    # A paid POST is never retried: a timeout may already have incurred a charge.
+    # No transport-level POST retries: an ambiguous timeout may have been billed.
+    # The briefing caller separately retries explicit 502/503/504 responses only.
     for attempt in range(1 if payload is not None else 2):
         try:
             req = urllib.request.Request(url, data=payload, headers=req_headers)

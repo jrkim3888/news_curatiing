@@ -6,6 +6,7 @@ import math
 import os
 from pathlib import Path
 from datetime import datetime, timedelta
+from time import monotonic
 
 from .adapters import collect_source
 from .core import UTC, article_id, category_for, is_ai_relevant, iso_now, merge_candidates
@@ -134,9 +135,13 @@ def run(args, *, fetch_source=collect_source, generate=summarize) -> dict:
 def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.generate,
               review_coverage=briefings.review_coverage, now=None):
     """Publish one fixed 06:00-to-06:00 edition, scheduled for 06:30 KST."""
+    started = monotonic()
     now = now or datetime.now(UTC)
     requested_day = getattr(args, "briefing_date", None)
     retry = getattr(args, "retry_failed_briefing", False)
+    recover = getattr(args, 'recover_failed_briefing', False)
+    if retry and recover:
+        raise ValueError('Choose either an explicit retry or automatic recovery')
     if retry and not requested_day:
         raise ValueError("A retry requires an explicit --briefing-date")
     day, start, end, scheduled = briefings.daily_window(now, requested_day)
@@ -150,13 +155,16 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     changed_ids, revised_editions = store.editorial_changes(editorial)
     history = briefings.apply_editorial(old, editorial)
     report = {"started_at": now.isoformat(), "llm_requests": 0, "summary_failures": 0,
-              "briefing": {"day": day, "result": "disabled", "retry_requested": retry},
+              "briefing": {"day": day, "result": "disabled", "retry_requested": retry,
+                           "recovery_requested": recover},
               "llm": {"model": os.getenv("OPENROUTER_MODEL"), "max_tokens": budget}, "coverage_llm": {},
               "result": "unchanged"}
     runtime = Path(args.runtime_dir)
     updated_news = {}
 
     def finish(result, **details):
+        report['llm_requests'] += sum(max(0, report[field].get('request_attempts', 1) - 1)
+                                      for field in ('llm', 'coverage_llm'))
         report["briefing"].update(result=result, **details)
         report["finished_at"] = iso_now()
         briefings.validate_history(history)
@@ -192,7 +200,25 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     attempts_path = runtime / "summary-attempts.json"
     attempts = json.loads(attempts_path.read_text()) if attempts_path.exists() else {}
     attempt_key = f"daily:{day}"
-    if attempts.get(attempt_key) and not retry:
+    recovery_key = f'daily-recovery:{day}'
+    recovery = attempts.get(recovery_key, {})
+    if not isinstance(recovery, dict):
+        recovery = {}
+    if recover:
+        # Recovery never starts an unattempted date, guesses a legacy failure's
+        # cause, or bypasses a validation/authentication failure.
+        if not attempts.get(attempt_key) or recovery.get('retryable') is not True:
+            return finish('no_retryable_failure')
+        count = recovery.get('attempts')
+        if type(count) is not int or not 1 <= count < briefings.MAX_DAILY_ATTEMPTS:
+            return finish('recovery_exhausted')
+        try:
+            retry_at = datetime.fromisoformat(recovery['retry_after'])
+            if now < retry_at:
+                return finish('recovery_wait', retry_after=retry_at.isoformat())
+        except (KeyError, ValueError, TypeError):
+            return finish('no_retryable_failure')
+    elif attempts.get(attempt_key) and not retry:
         return finish("cooldown")
     if attempts.get(attempt_key):
         report["briefing"]["previous_attempt_at"] = attempts[attempt_key]
@@ -243,7 +269,13 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
     if len(inputs) < 2:
         return finish("insufficient_sources")
     attempts[attempt_key] = iso_now()
+    count = recovery.get('attempts', 0)
+    recovery = {'attempts': (count if type(count) is int and count >= 0 else 0) + 1}
+    # Clear retry eligibility before the paid call; a killed process must not
+    # leave a stale retryable failure behind and trigger unbounded requests.
+    attempts[recovery_key] = recovery
     atomic_json(attempts_path, attempts)
+    report['briefing']['daily_attempt'] = recovery['attempts']
     report["briefing"]["reviewed_articles"] = len(inputs)
     report['briefing']['excluded_repeated_stories'] = 0
     warnings = report['briefing']['validation_warnings'] = []
@@ -290,6 +322,16 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
             if exc.details:
                 report["briefing"]["validation_details"] = exc.details
         report["summary_failures"] = 1
+        call = report['coverage_llm'] if stage == 'coverage_review' else report['llm']
+        if stage in ('coverage_review', 'generation') and call.get('retryable') is True:
+            # Wait after failure, including time spent fetching/retrying in this run.
+            retry_after = (now + timedelta(seconds=monotonic() - started) + briefings.RECOVERY_DELAY).isoformat()
+            recovery.update(retryable=True, retry_after=retry_after, stage=stage,
+                            status_code=call.get('provider_error_code', call.get('http_status')))
+            atomic_json(attempts_path, attempts)
+            report['briefing']['automatic_recovery'] = {
+                'eligible': recovery['attempts'] < briefings.MAX_DAILY_ATTEMPTS,
+                'retry_after': retry_after, 'max_daily_attempts': briefings.MAX_DAILY_ATTEMPTS}
         return finish("failed_previous_preserved", reason=reason, stage=stage)
     # Publish the edition and its article summaries in the same archive transaction.
     history = candidate
@@ -307,8 +349,11 @@ def main():
     summary_mode.add_argument("--summarize-articles", action="store_true", help="Summarize permitted articles in any source language")
     summary_mode.add_argument("--summarize-english", action="store_true", help="Generate Korean summaries of permitted English articles during collection")
     parser.add_argument("--briefing-date", help="Publish a specific YYYY-MM-DD edition (KST); defaults to the latest due date")
-    parser.add_argument("--retry-failed-briefing", action="store_true",
+    retry_mode = parser.add_mutually_exclusive_group()
+    retry_mode.add_argument("--retry-failed-briefing", action="store_true",
                         help="Allow one new briefing attempt (coverage review + generation); never replaces a published edition")
+    retry_mode.add_argument('--recover-failed-briefing', action='store_true',
+                           help='Recover a transient provider failure after cooldown, at most 3 attempts per date')
     parser.add_argument("--dry-run", action="store_true", help="Fetch and validate, but do not call the LLM or change public data")
     parser.add_argument("--incremental", action="store_true", help="Validate changed archive shards using the disposable local index")
     parser.add_argument("--days", type=int, default=3, help="Lookback in days (initial bootstrap: 14)")
@@ -317,7 +362,7 @@ def main():
     args = parser.parse_args()
     if not 1 <= args.days <= 30:
         parser.error("--days must be between 1 and 30")
-    if (args.briefing_date or args.retry_failed_briefing) and args.command != "brief":
+    if (args.briefing_date or args.retry_failed_briefing or args.recover_failed_briefing) and args.command != "brief":
         parser.error("Briefing date/retry options require the brief command")
     if (args.summarize_articles or args.summarize_english) and args.command != "collect":
         parser.error("Article summary options require the collect command")

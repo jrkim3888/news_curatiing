@@ -13,6 +13,7 @@ import json
 import math
 import os
 import re
+from time import sleep
 from zoneinfo import ZoneInfo
 
 from .adapters import extract_body, hosts_for
@@ -20,12 +21,16 @@ from .briefing_schema import MAX_GENERATION_INPUTS, coverage_format, response_fo
 from .core import CATEGORIES, UTC, article_id, canonical_url, validate_summary
 from .evidence import passage_quote, source_passages, summary_quotes
 from .llm import MODEL_OPTIONS, SummaryError
-from .network import Robots, request
+from .network import RequestError, Robots, request
 
 PROMPT_VERSION = "daily-brief-v11"
 KST = ZoneInfo("Asia/Seoul")
 MAX_INPUTS = 16
 DEFAULT_MAX_TOKENS = 50000
+TRANSIENT_STATUS_CODES = {502, 503, 504}
+REQUEST_RETRY_DELAYS = (5, 15)
+MAX_DAILY_ATTEMPTS = 3
+RECOVERY_DELAY = timedelta(minutes=30)
 # Pin eligible providers: the previous preferred endpoint disappeared, letting
 # unrestricted fallbacks return malformed evidence and a 50,000-token completion.
 PROVIDER_OPTIONS = {
@@ -333,11 +338,34 @@ def request_json(payload, key, model, token_budget, diagnostics):
     diagnostics = diagnostics if diagnostics is not None else {}
     payload.update(MODEL_OPTIONS.get(model, {}))
     payload['provider'].update(PROVIDER_OPTIONS.get(model, {}))
-    diagnostics['provider_routing'] = dict(payload['provider'])
+    base = {'provider_routing': dict(payload['provider']), 'model': model, 'max_tokens': token_budget}
     payload["max_tokens"] = token_budget
-    diagnostics.update(model=model, max_tokens=payload["max_tokens"])
     if "reasoning" in payload:
-        diagnostics["reasoning"] = dict(payload["reasoning"])
+        base['reasoning'] = dict(payload['reasoning'])
+    attempts = []
+    for number in range(len(REQUEST_RETRY_DELAYS) + 1):
+        current = {'attempt': number + 1}
+        try:
+            return _request_json_once(payload, key, current)
+        except (SummaryError, RequestError) as exc:
+            code = current.get('provider_error_code')
+            if isinstance(exc, RequestError) and exc.reason.startswith('http_'):
+                status = exc.reason.removeprefix('http_')
+                if status.isdigit():
+                    code = current['http_status'] = int(status)
+            current.update(reason=exc.reason, retryable=code in TRANSIENT_STATUS_CODES)
+            if not current['retryable'] or number == len(REQUEST_RETRY_DELAYS):
+                raise
+        finally:
+            attempts.append(current)
+            # Keep the last response at the top level without stale failure fields.
+            # Only allowlisted diagnostics are retained; never provider messages/content.
+            diagnostics.clear()
+            diagnostics.update(base, **current, request_attempts=len(attempts), attempts=attempts)
+        sleep(REQUEST_RETRY_DELAYS[number])
+
+
+def _request_json_once(payload, key, diagnostics):
     raw = request("https://openrouter.ai/api/v1/chat/completions", {"openrouter.ai"},
                   payload=json.dumps(payload).encode(), headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json", "X-Title": "AI Brief"},
                   timeout=180)

@@ -6,6 +6,8 @@ on:
     - cron: '0 3,9,15,21 * * *'
     # Daily briefing at KST 06:30, covering yesterday 06:00 to today 06:00.
     - cron: '30 21 * * *'
+    # Recover transient briefing failures at KST 07:30 and 08:30; published dates skip.
+    - cron: '30 22,23 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -22,7 +24,7 @@ on:
         type: string
         default: ''
       retry_failed_briefing:
-        description: 'Allow one additional briefing attempt (up to 2 paid requests); published editions are preserved'
+        description: 'Allow one additional briefing attempt (up to 6 requests with transient retries); published editions are preserved'
         type: boolean
         default: false
 
@@ -71,10 +73,11 @@ jobs:
           BRIEFING_MAX_TOKENS: '50000'
           BRIEFING_DATE: ${{ github.event_name == 'workflow_dispatch' && inputs.briefing_date || '' }}
           RETRY_FAILED_BRIEFING: ${{ github.event_name == 'workflow_dispatch' && inputs.retry_failed_briefing || false }}
+          RECOVER_FAILED_BRIEFING: ${{ github.event_name == 'schedule' && github.event.schedule == '30 22,23 * * *' }}
           SITE_URL: ${{ vars.SITE_URL }}
           NO_LLM: ${{ github.event_name == 'workflow_dispatch' && inputs.no_llm }}
           NEWS_BRANCH: main
-          NEWS_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || (github.event.schedule == '30 21 * * *' && 'brief' || 'collect') }}
+          NEWS_MODE: ${{ github.event_name == 'workflow_dispatch' && inputs.mode || (github.event.schedule != '0 3,9,15,21 * * *' && 'brief' || 'collect') }}
         run: |
           if [[ "$NO_LLM" == true || "$MAX_SUMMARIES_PER_RUN" == 0 ]]; then
             export MAX_SUMMARIES_PER_RUN=0

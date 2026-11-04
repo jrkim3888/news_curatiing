@@ -16,6 +16,7 @@ from collector import briefings
 from collector.__main__ import ROOT, run, run_daily
 from collector.core import UTC, article_id
 from collector.llm import SummaryError
+from collector.network import RequestError
 from collector.evidence import source_passages
 
 
@@ -984,15 +985,134 @@ class BriefingTests(unittest.TestCase):
         self.assertNotIn('test-only', json.dumps(diagnostics))
         self.assertEqual(request.call_count, 1)
 
+    @patch('collector.briefings.sleep')
     @patch('collector.briefings.request')
-    def test_provider_error_payload_is_not_reported_as_invalid_json_or_retried(self, request):
+    def test_transient_provider_errors_stop_after_three_attempts_without_leaking_content(self, request, sleep):
         request.return_value = json.dumps({'id':'gen-error', 'error':{'code':502, 'message':'private input text'}}).encode()
         diagnostics = {}
         with self.assertRaisesRegex(SummaryError, 'provider_error'):
             briefings.generate([], 'test-only', 'test/model', diagnostics=diagnostics)
         self.assertEqual(diagnostics['provider_error_code'], 502)
         self.assertNotIn('private', json.dumps(diagnostics))
-        self.assertEqual(request.call_count, 1)
+        self.assertEqual(request.call_count, 3)
+        self.assertEqual(diagnostics['request_attempts'], 3)
+        self.assertTrue(diagnostics['retryable'])
+        self.assertEqual([c.args[0] for c in sleep.call_args_list], [5, 15])
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_http_and_json_gateway_errors_recover_with_clean_final_diagnostics(self, request, sleep):
+        good = b'{"id":"gen-success","choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}'
+        for code in (502, 503, 504):
+            for transport in ('http', 'json'):
+                with self.subTest(code=code, transport=transport):
+                    request.reset_mock()
+                    sleep.reset_mock()
+                    error = (RequestError(f'http_{code}') if transport == 'http' else
+                             json.dumps({'id':'gen-error', 'error':{'code':code, 'message':'private'}}).encode())
+                    request.side_effect = [error, good]
+                    diagnostics = {}
+                    self.assertEqual(briefings.generate([], 'secret-test', 'test/model', diagnostics=diagnostics), {})
+                    self.assertEqual(request.call_count, 2)
+                    self.assertEqual(diagnostics['request_attempts'], 2)
+                    self.assertEqual(diagnostics['response_id'], 'gen-success')
+                    self.assertNotIn('provider_error_code', diagnostics)
+                    self.assertNotIn('http_status', diagnostics)
+                    self.assertNotIn('retryable', diagnostics)
+                    self.assertNotIn('private', json.dumps(diagnostics))
+                    self.assertNotIn('secret-test', json.dumps(diagnostics))
+                    self.assertTrue(diagnostics['attempts'][0]['retryable'])
+                    sleep.assert_called_once_with(5)
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_auth_billing_rate_limits_and_ambiguous_timeouts_are_not_retried(self, request, sleep):
+        for code in (400, 401, 402, 403, 429):
+            for error in (RequestError(f'http_{code}'),
+                          json.dumps({'error':{'code':code, 'message':'private'}}).encode()):
+                with self.subTest(code=code, error_type=type(error).__name__):
+                    request.reset_mock()
+                    request.side_effect = [error]
+                    diagnostics = {}
+                    with self.assertRaises((SummaryError, RequestError)):
+                        briefings.generate([], 'secret-test', 'test/model', diagnostics=diagnostics)
+                    self.assertEqual(request.call_count, 1)
+                    self.assertFalse(diagnostics['retryable'])
+        request.side_effect = RequestError('network_failed_or_timed_out')
+        with self.assertRaises(RequestError):
+            briefings.generate([], 'secret-test', 'test/model')
+        sleep.assert_not_called()
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_transient_failure_waits_then_recovers_without_rewriting_published_date(self, request, sleep):
+        self.now = datetime(2026, 11, 4, 21, 30, tzinfo=UTC)
+        request.return_value = b'{"error":{"code":504,"message":"private"}}'
+        failed = self.run_batch(review_coverage=briefings.review_coverage)
+        self.assertEqual(failed['briefing']['stage'], 'coverage_review')
+        self.assertEqual(failed['llm_requests'], 3)
+        self.assertTrue(failed['briefing']['automatic_recovery']['eligible'])
+        self.assertFalse(read_history(self.root)['editions'])
+        self.args.recover_failed_briefing = True
+        waiting = self.run_batch(generate=lambda _: self.fail('Recovered before cooldown'))
+        self.assertEqual(waiting['briefing']['result'], 'recovery_wait')
+        self.now += timedelta(hours=1)
+        self.args.no_llm = True
+        self.assertEqual(self.run_batch()['briefing']['result'], 'disabled')
+        self.args.no_llm = False
+        result = self.run_batch()
+        self.assertEqual(result['briefing']['result'], 'created')
+        self.assertEqual(result['briefing']['daily_attempt'], 2)
+        before = encoded(read_history(self.root))
+        again = self.run_batch(generate=lambda _: self.fail('Republished successful date'))
+        self.assertEqual(again['briefing']['result'], 'already_published')
+        self.assertEqual(again['llm_requests'], 0)
+        self.assertEqual(encoded(read_history(self.root)), before)
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_automatic_recovery_is_bounded_even_when_provider_stays_down(self, request, sleep):
+        self.now = datetime(2026, 11, 4, 21, 30, tzinfo=UTC)
+        request.side_effect = RequestError('http_503')
+        for attempt in range(1, 4):
+            result = self.run_batch(review_coverage=briefings.review_coverage)
+            self.assertEqual(result['briefing']['result'], 'failed_previous_preserved')
+            self.assertEqual(result['briefing']['daily_attempt'], attempt)
+            self.assertEqual(result['llm_requests'], 3)
+            self.assertEqual(result['briefing']['automatic_recovery']['eligible'], attempt < 3)
+            self.args.recover_failed_briefing = True
+            self.now += timedelta(hours=1)
+        exhausted = self.run_batch(generate=lambda _: self.fail('Exceeded recovery limit'))
+        self.assertEqual(exhausted['briefing']['result'], 'recovery_exhausted')
+        self.assertEqual(exhausted['llm_requests'], 0)
+        self.assertEqual(request.call_count, 9)
+
+    def test_recovery_does_not_start_new_dates_or_guess_legacy_failures(self):
+        self.args.recover_failed_briefing = True
+        result = self.run_batch(generate=lambda _: self.fail('Started an unattempted date'))
+        self.assertEqual(result['briefing']['result'], 'no_retryable_failure')
+        path = self.args.runtime_dir / 'summary-attempts.json'
+        path.write_text(json.dumps({f'daily:{briefings.daily_window(self.now)[0]}': self.now.isoformat()}))
+        result = self.run_batch(generate=lambda _: self.fail('Retried a legacy failure without its cause'))
+        self.assertEqual(result['briefing']['result'], 'no_retryable_failure')
+        self.assertEqual(result['llm_requests'], 0)
+
+    def test_validation_failure_is_not_eligible_for_automatic_recovery(self):
+        result = self.run_batch(generate=lambda _: {})
+        self.assertEqual(result['briefing']['reason'], 'validation_failed')
+        self.args.recover_failed_briefing = True
+        self.now += timedelta(hours=1)
+        again = self.run_batch(generate=lambda _: self.fail('Automatically retried invalid content'))
+        self.assertEqual(again['briefing']['result'], 'no_retryable_failure')
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_writer_failure_is_recoverable_and_counts_all_request_attempts(self, request, sleep):
+        request.return_value = b'{"error":{"code":504}}'
+        result = self.run_batch(generate_briefing=briefings.generate)
+        self.assertEqual(result['briefing']['stage'], 'generation')
+        self.assertEqual(result['llm_requests'], 4)  # one review + three writer attempts
+        self.assertTrue(result['briefing']['automatic_recovery']['eligible'])
 
     @patch('collector.briefings.request')
     def test_empty_provider_response_has_a_distinct_error_and_is_not_retried(self, request):
