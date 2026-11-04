@@ -3,6 +3,671 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a9fdd7bb38a254f432fa",
+      "url": "https://github.com/aisloperator/fedigoo",
+      "title": "Show HN: Mastodon desktop client, made with Claude, using Rust and GTK4",
+      "original_title": "Show HN: Mastodon desktop client, made with Claude, using Rust and GTK4",
+      "published_at": "2026-11-04T21:03:44+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/aisloperator/fedigoo",
+          "title": "Show HN: Mastodon desktop client, made with Claude, using Rust and GTK4",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371490"
+        }
+      ]
+    },
+    {
+      "id": "2f9a3bab0b7f05a516b0",
+      "url": "https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704",
+      "title": "Science Is Drowning in AI Slop",
+      "original_title": "Science Is Drowning in AI Slop",
+      "published_at": "2026-11-04T21:01:55+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theatlantic.com/science/2026/01/ai-slop-science-publishing/685704",
+          "title": "Science Is Drowning in AI Slop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371470"
+        }
+      ]
+    },
+    {
+      "id": "29f361217d7f58504a7a",
+      "url": "https://twitter.com/frostedxyz/status/2117751149398765916",
+      "title": "Researcher accuses Anthropic of stealing his work",
+      "original_title": "Researcher accuses Anthropic of stealing his work",
+      "published_at": "2026-11-04T20:58:54+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/frostedxyz/status/2117751149398765916",
+          "title": "Researcher accuses Anthropic of stealing his work",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371433"
+        }
+      ]
+    },
+    {
+      "id": "e2703e2900c3c531894e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217023",
+      "title": "\"머스크, 중간선거 최대 패자\"…5억달러 후원 참패에 사업 차질 전망",
+      "original_title": "\"머스크, 중간선거 최대 패자\"…5억달러 후원 참패에 사업 차질 전망",
+      "published_at": "2026-11-04T20:49:04+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "일론 머스크 CEO가 미국 중간선거의 최대 패자 중 한 명으로 꼽혔다. 공화당 승리를 위해 약 5억달러(약 6700억원)를 투입했지만 민주당이 상·하원을 장악하고 핵심 사업 거점인 텍사스에서도 승리하면서, AI 데이터센터 건설과 우주사업 확장, 정부 계약 등에 차질이 생길 수 있다는 전망이 나오고 있다.로이터와 워싱…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217023",
+          "title": "\"머스크, 중간선거 최대 패자\"…5억달러 후원 참패에 사업 차질 전망"
+        }
+      ]
+    },
+    {
+      "id": "7468855d377412f7ff3f",
+      "url": "https://ingram.tech/posts/we-built-a-fancy-pdf-viewer",
+      "title": "The client asked for a chatbot. We built a fancy PDF viewer instead",
+      "original_title": "The client asked for a chatbot. We built a fancy PDF viewer instead",
+      "published_at": "2026-11-04T20:49:03+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ingram.tech/posts/we-built-a-fancy-pdf-viewer",
+          "title": "The client asked for a chatbot. We built a fancy PDF viewer instead",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371294"
+        }
+      ]
+    },
+    {
+      "id": "49b5a8702a50f62ba5fd",
+      "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+      "title": "Investigating Vault Particles with Claude",
+      "original_title": "Investigating Vault Particles with Claude",
+      "published_at": "2026-11-04T20:47:32+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.anthropic.com/research/investigating-vault-particles-with-claude",
+          "title": "Investigating Vault Particles with Claude",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371274"
+        }
+      ]
+    },
+    {
+      "id": "2858ac02eb9cd48613d2",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
+      "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+      "original_title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+      "published_at": "2026-11-04T20:38:23+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending",
+          "title": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371169"
+        }
+      ]
+    },
+    {
+      "id": "53ace6d1e9550ca997dd",
+      "url": "https://dirac.run/labs-market-share",
+      "title": "DeepSeek alone now accounts for 53% of all token volume on Openrouter",
+      "original_title": "DeepSeek alone now accounts for 53% of all token volume on Openrouter",
+      "published_at": "2026-11-04T20:26:56+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dirac.run/labs-market-share",
+          "title": "DeepSeek alone now accounts for 53% of all token volume on Openrouter",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371038"
+        }
+      ]
+    },
+    {
+      "id": "b3cb75f526901535ae9b",
+      "url": "https://danluu.com/astra-testing",
+      "title": "Test and verification technique effectiveness with GPT-6 Astra",
+      "original_title": "Test and verification technique effectiveness with GPT-6 Astra",
+      "published_at": "2026-11-04T20:24:10+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://danluu.com/astra-testing",
+          "title": "Test and verification technique effectiveness with GPT-6 Astra",
+          "discussion_url": "https://news.ycombinator.com/item?id=50370992"
+        }
+      ]
+    },
+    {
+      "id": "d77cba186c94fb963994",
+      "url": "https://blog.raed.dev/posts/context-window",
+      "title": "Why is your AI using so many tokens?",
+      "original_title": "Why is your AI using so many tokens?",
+      "published_at": "2026-11-04T20:23:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.raed.dev/posts/context-window",
+          "title": "Why is your AI using so many tokens?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50370975"
+        }
+      ]
+    },
+    {
+      "id": "91963f93a39629930e73",
+      "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+      "title": "Kenyan startup builds AI around mobile money and low-cost phones",
+      "original_title": "Kenyan startup builds AI around mobile money and low-cost phones",
+      "published_at": "2026-11-04T20:17:13+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://spectrum.ieee.org/ai-small-business-mobile-money-startup",
+          "title": "Kenyan startup builds AI around mobile money and low-cost phones",
+          "discussion_url": "https://news.ycombinator.com/item?id=50370899"
+        }
+      ]
+    },
+    {
+      "id": "a58d6e6f6451d9e6913f",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o",
+      "title": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)",
+      "original_title": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)",
+      "published_at": "2026-11-04T20:10:01+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mark Gurman / Bloomberg : Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of l…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/apple-cuts-internal-ai-usage-budgets-in-move-to-reduce-spending?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgyMTg3MSwiZXhwIjoxNzk0NDI2NjcxLCJhcnRpY2xlSWQiOiJUTlhPMzdLSzNOWTkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.efg5gZUg_bpWGkDdX9in4eLTEutSs8WX9rD17IHSi_o",
+          "title": "Sources: Apple cut some engineers' daily AI spending cap to $200 from $300 and plans cuts to as little as $100, as cost cutting stokes staff fears of layoffs (Mark Gurman/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261104/p49"
+        }
+      ]
+    },
+    {
+      "id": "3ae7fcc2b58b81ef5c5d",
+      "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas",
+      "title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+      "original_title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+      "published_at": "2026-11-04T19:45:48+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Murad Hemmadi / Globe and Mail : Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theglobeandmail.com/business/article-amd-to-pay-29-billion-for-ai-chip-firm-taalas",
+          "title": "Filing: AMD will pay ~$2.9B in cash and stock for AI chip startup Taalas, with $1.4B dependent on unspecified conditions; the deal was announced in August (Murad Hemmadi/Globe and Mail)",
+          "discussion_url": "https://www.techmeme.com/261104/p48"
+        }
+      ]
+    },
+    {
+      "id": "1870bd8ae8038dd949c3",
+      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+      "title": "Open source AI is booming. Hugging Face explains who profits.",
+      "original_title": "Open source AI is booming. Hugging Face explains who profits.",
+      "published_at": "2026-11-04T19:30:04+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as inc…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
+          "title": "Open source AI is booming. Hugging Face explains who profits."
+        }
+      ]
+    },
+    {
+      "id": "ac2776547aacb7b85722",
+      "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+      "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "original_title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+      "published_at": "2026-11-04T19:29:52+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy",
+          "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy"
+        }
+      ]
+    },
+    {
+      "id": "1d902c1e739fa0945f15",
+      "url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+      "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+      "original_title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+      "published_at": "2026-11-04T18:50:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Madison Mills / Axios : Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligenc…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/04/meta-acquires-ai-coding-startup-conductor",
+          "title": "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)",
+          "discussion_url": "https://www.techmeme.com/261104/p46"
+        }
+      ]
+    },
+    {
+      "id": "5acd07c875ea982ee441",
+      "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support",
+      "title": "NVIDIA CUDA 13.5, Vera Rubin GA 지원 및 주요 기능 업데이트 발표",
+      "original_title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
+      "published_at": "2026-11-04T18:46:07+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "As artificial intelligence and accelerated computing continue to push the boundaries of what's possible, the latest NVIDIA CUDA release arrives to unlock... As artificial intell…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support",
+          "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support"
+        }
+      ],
+      "summary": "NVIDIA가 CUDA 13.5를 발표하며 Vera Rubin 지원이 개발자 초기 액세스에서 정식 출시(GA)로 전환됐다고 밝혔다. Windows on Arm 지원은 CUDA 13.4부터 GA였으며 이제 Windows용 NVIDIA DGX Station으로 확장된다. 또한 locality domain과 MPS를 통한 GPU 작업 스케줄링 커스터마이징, CUDA Tile의 멀티 GPU 통신 및 SIMT 상호운용성 프리뷰, CUDA Python 업데이트, CCCL 3.5의 튜닝 API와 배치 Top-K 등이 포함된다.",
+      "why_it_matters": "CUDA 13.5는 NVIDIA의 최신 플랫폼 지원과 개발자 도구 개선을 통해 AI 및 가속 컴퓨팅 워크로드의 성능과 유연성을 높이려는 시도로 보인다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-04T21:05:55+00:00",
+        "input_hash": "b2418e5b60b8bf489b668adcc460be82a3aea16b5c2c87e748f5ede95810d1f6",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "2c984d8f060c91297ac3",
+      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "original_title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
+      "published_at": "2026-11-04T18:44:57+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as inc…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
+          "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs"
+        }
+      ]
+    },
+    {
+      "id": "65b5c1f5cb14c11dba3a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw",
+      "title": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
+      "original_title": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
+      "published_at": "2026-11-04T18:02:18+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow — The …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/big-tech-stocks-soar-as-traders-bet-democrats-will-slow-ai-spend?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MzgxNDc5MCwiZXhwIjoxNzk0NDE5NTkwLCJhcnRpY2xlSWQiOiJUTlpJR0JWVFRENUUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.frDjijiV6zS7FBiJWbcApv_YkVGs2tz0u-uB7LtBVsw",
+          "title": "Shares of US tech giants jump after Democrats' midterm sweep as investors bet that a Democrat-controlled Congress will slow AI capex that's draining cash flow (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261104/p45"
+        }
+      ]
+    },
+    {
+      "id": "32d4e91d243ef07f0795",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "title": "Dharma-AI, 20억 파라미터 필드 추출 모델 'Dharma Field Extractor' 공개",
+      "original_title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "published_at": "2026-11-04T17:50:10+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out"
+        }
+      ],
+      "summary": "Dharma-AI가 문서 이미지에서 요청한 필드를 구조화된 JSON으로 추출하는 20억 파라미터 모델 'Dharma Field Extractor'를 공개했다. 이 모델은 스키마 없이 모든 필드를 찾는 개방형 모드와 지정한 스키마에 맞춰 값을 채우는 스키마 지정 모드를 지원하며, 회사 측은 자체 벤치마크에서 테스트한 프런티어 LLM들을 품질과 비용 면에서 앞섰다고 밝혔다.",
+      "why_it_matters": "문서에서 특정 필드만 뽑아 시스템에 바로 넣는 작업은 반복 비용이 큰 영역이다. 소형 특화 모델이 자체 인프라에서 이 작업을 대체할 수 있다는 주장은 기업의 문서 처리 비용 구조에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-04T21:05:52+00:00",
+        "input_hash": "d16955a91c43f46e20cde63ce4f90dc31be57577b5e688b5a23013c0619e91a7",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "80d98ddd2febef0260df",
+      "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection (Isaac Kasahara/Pangram)",
+      "original_title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection (Isaac Kasahara/Pangram)",
+      "published_at": "2026-11-04T17:02:08+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Isaac Kasahara / Pangram : Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+          "title": "Pangram releases Pangram Image 1.0, which it says is state-of-the-art in AI image and AI video detection, and the smaller Image Flash 1.0 for AI video detection (Isaac Kasahara/Pangram)",
+          "discussion_url": "https://www.techmeme.com/261104/p43"
+        }
+      ]
+    },
+    {
+      "id": "73bbcb2d707df5a34997",
+      "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues",
+      "title": "엔비디아, 공장 운영 블루프린트로 AI 에이전트 협업 조사 시스템 공개",
+      "original_title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues",
+      "published_at": "2026-11-04T17:00:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "A Siemens report estimates that unplanned downtime costs an average large plant in the surveyed sectors $253 million per year. Whether investigating a failed... A Siemens report…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-nvidia-factory-operations-blueprint-coordinates-ai-agents-to-investigate-production-issues",
+          "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues"
+        }
+      ],
+      "summary": "엔비디아가 공장 관리 에이전트를 기존 시스템에 추가하는 참조 아키텍처인 FOX 블루프린트를 공개했다. 이 시스템은 실시간 운영 모니터링, 병목 식별, 오류 원인 조사, 로봇 군집 조정을 지원하며, 지멘스 전자 공장에서 생산 계획 및 검사 워크플로에 적용되었다. 엔비디아는 FOX와 Nemotron 기반 에이전트가 최대 20% 비용 절감, 가상 생산 준비로 최대 40% 시장 출시 시간 단축을 가능하게 한다고 발표했다.",
+      "why_it_matters": "제조 현장에서 AI 에이전트가 데이터 통합과 의사결정을 지원하는 참조 아키텍처가 등장하면서, 기존 공장 시스템에 에이전트를 도입하려는 기업들에게 구체적인 청사진을 제공할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-04T21:05:48+00:00",
+        "input_hash": "89568d5b17121203488bd9183407f466337ab51f5a1565c1734b2a1eb5f4f3e7",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "540dc5198bd72f906da9",
+      "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "original_title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+      "published_at": "2026-11-04T16:51:35+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling",
+          "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling"
+        }
+      ]
+    },
+    {
+      "id": "bce0ffcba988b4eacb45",
+      "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "original_title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+      "published_at": "2026-11-04T16:17:22+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai",
+          "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI"
+        }
+      ]
+    },
+    {
+      "id": "061b5b6ba1d59b9a643e",
+      "url": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation",
+      "title": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
+      "original_title": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
+      "published_at": "2026-11-04T16:15:35+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Shakeel Hashim / Transformer : Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and develo…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.transformernews.ai/p/midterms-democrats-blue-tsunami-ai-policy-legislation",
+          "title": "Democrats' sweep of Congress raises the likelihood of strong frontier AI legislation passing in early 2027, including mandatory testing and developer liability (Shakeel Hashim/Transformer)",
+          "discussion_url": "https://www.techmeme.com/261104/p40"
+        }
+      ]
+    },
+    {
+      "id": "1f522e8436ab4f4eb31b",
+      "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
+      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+      "original_title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+      "published_at": "2026-11-04T16:00:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you... Turn producti…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
+          "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes"
+        }
+      ]
+    },
+    {
+      "id": "63b734aaa907cd4dfd27",
+      "url": "https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04",
+      "title": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)",
+      "original_title": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)",
+      "published_at": "2026-11-04T15:45:29+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Deborah Sophia / Reuters : TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come onli…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/technology/terawulf-gets-credit-backstop-google-anthropic-data-center-project-2026-11-04",
+          "title": "TeraWulf secures a credit backstop agreement with Google to support financing for its data center project with Anthropic in Kentucky, set to come online H2 2027 (Deborah Sophia/Reuters)",
+          "discussion_url": "https://www.techmeme.com/261104/p36"
+        }
+      ]
+    },
+    {
+      "id": "cd09dc87fba0a54b67f7",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+      "title": "datasette-llm 0.1a10",
+      "original_title": "datasette-llm 0.1a10",
+      "published_at": "2026-11-04T15:26:02+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/4/datasette-llm",
+          "title": "datasette-llm 0.1a10"
+        }
+      ]
+    },
+    {
+      "id": "8b4ed67472965a06283a",
+      "url": "https://www.citationneeded.news/2026-election-results",
+      "title": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)",
+      "original_title": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)",
+      "published_at": "2026-11-04T15:15:31+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Molly White / Citation Needed : Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $2…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.citationneeded.news/2026-election-results",
+          "title": "Crypto and AI super PACs spent $250M in 2026 midterms, but lost 9/12 competitive races called so far, spending $74.7M on losing candidates and $28.3M on winners (Molly White/Citation Needed)",
+          "discussion_url": "https://www.techmeme.com/261104/p35"
+        }
+      ]
+    },
+    {
+      "id": "1be4fdd8e6ca80f0ec01",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "original_title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "published_at": "2026-11-04T14:30:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc."
+        }
+      ]
+    },
+    {
+      "id": "bc62d77ed328e80e76f1",
+      "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
+      "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "original_title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
+      "published_at": "2026-11-04T13:00:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day",
+          "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston"
+        }
+      ]
+    },
+    {
       "id": "d21832ce6946258db7eb",
       "url": "https://www.youtube.com/watch?v=H7_d_sgui6o",
       "title": "AI in Mathematical Research: Heidelberg Laureate Forum",
@@ -611,6 +1276,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217012",
           "title": "\"중국 AI 위협 과장됐나\"…성능 격차 확대에 벤치마크 신뢰성 논쟁"
+        }
+      ]
+    },
+    {
+      "id": "a3433e936d2c04bfa772",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "original_title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "published_at": "2026-11-04T07:00:00+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "title": "Daybreak Red is now available in AWS GovCloud (US-East)"
         }
       ]
     },
@@ -1347,6 +2032,26 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
           "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+        }
+      ]
+    },
+    {
+      "id": "0eec722f11509f676ce1",
+      "url": "https://simonwillison.net/2026/Nov/3/llm",
+      "title": "llm 0.37.1",
+      "original_title": "llm 0.37.1",
+      "published_at": "2026-11-03T21:41:42+00:00",
+      "collected_at": "2026-11-04T21:05:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Release: llm 0.37.1 A bugfix release for LLM , with contributions from Steven Huang , Tao An , Arjan Mossel , and XQ . Tags: llm…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/3/llm",
+          "title": "llm 0.37.1"
         }
       ]
     },
@@ -5763,6 +6468,12 @@
           "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
           "title": "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)",
           "discussion_url": "https://www.techmeme.com/261101/p16"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+          "title": "Behind the Curtain: OpenAI's post-election power play",
+          "discussion_url": "https://news.ycombinator.com/item?id=50371378"
         }
       ]
     },
