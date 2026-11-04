@@ -3,6 +3,519 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "2c1a8c772c90590dd220",
+      "url": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+      "title": "SpaceX Will Be the Biggest AI Cloud",
+      "original_title": "SpaceX Will Be the Biggest AI Cloud",
+      "published_at": "2026-11-04T01:02:58+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://newsletter.semianalysis.com/p/elon-is-doing-it-again-spacex-will",
+          "title": "SpaceX Will Be the Biggest AI Cloud",
+          "discussion_url": "https://news.ycombinator.com/item?id=50360345"
+        }
+      ]
+    },
+    {
+      "id": "45523eb164e32431c63e",
+      "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that",
+      "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+      "original_title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+      "published_at": "2026-11-04T00:54:35+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arcturus-labs.com/blog/2026/11/03/ai-can-read-neural-network-weights-i-wasnt-ready-for-that",
+          "title": "AI Can Read Neural Network Weights. I Wasn't Ready for That. – Arcturus Labs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50360281"
+        }
+      ]
+    },
+    {
+      "id": "177d6baf61513ea2e3b3",
+      "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+      "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
+      "original_title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
+      "published_at": "2026-11-04T00:40:00+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Stephen Council / Business Insider : Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure las…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/claude-code-leader-cat-wu-exits-anthropic-before-big-ipo-2026-11",
+          "title": "Cat Wu, product lead for Claude Code and Cowork, has left Anthropic; Thariq Shihipar, who worked on Claude Code, announced his departure last month (Stephen Council/Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261103/p43"
+        }
+      ]
+    },
+    {
+      "id": "1df8fb7e573545518ed4",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42577",
+      "title": "영국 발전소가 초대형 'AI 데이터센터'로…드랙스·브룩필드, 3.6조원 이상 투자 추진",
+      "original_title": "영국 발전소가 초대형 'AI 데이터센터'로…드랙스·브룩필드, 3.6조원 이상 투자 추진",
+      "published_at": "2026-11-04T00:32:30+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "AI 인프라 확보 경쟁이 반도체와 서버를 넘어 발전소 부지와 대규모 전력망으로 확대되고 있다. 영국의 대형 발전소가 기존 전력 인프라를 활용해 1기가와트(GW)가 넘는 초대형 인공지능 데이터센터(AIDC) 단지로 확장되는 개발사업이 추진된다.이번 전체 잠재적 투자 규모는 200억 파운드(약 3.6조원) 이상으로, 영…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42577",
+          "title": "영국 발전소가 초대형 'AI 데이터센터'로…드랙스·브룩필드, 3.6조원 이상 투자 추진"
+        }
+      ]
+    },
+    {
+      "id": "f795a98c4baea4d4259c",
+      "url": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy",
+      "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
+      "original_title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
+      "published_at": "2026-11-04T00:20:01+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "The Information : How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/nvidia-uses-soft-power-influence-customers-shape-policy",
+          "title": "How Nvidia uses soft power to influence customers and shape US chip policy; sources: OpenAI took no public stance on China chip exports to avoid angering Nvidia (The Information)",
+          "discussion_url": "https://www.techmeme.com/261103/p42"
+        }
+      ]
+    },
+    {
+      "id": "5369fb24b618034da4c4",
+      "url": "https://waypointo.com/",
+      "title": "WayPointo – A directory for discovering and comparing AI and creative products",
+      "original_title": "WayPointo – A directory for discovering and comparing AI and creative products",
+      "published_at": "2026-11-04T00:06:12+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://waypointo.com/",
+          "title": "WayPointo – A directory for discovering and comparing AI and creative products",
+          "discussion_url": "https://news.ycombinator.com/item?id=50359965"
+        }
+      ]
+    },
+    {
+      "id": "5130aaa5446d8cf2a72f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42576",
+      "title": "오픈AI, 우버 출신 '질 헤이즐베이커' CCAO로 영입…“AI 시대, 대중의 신뢰 확보가 핵심 과제”",
+      "original_title": "오픈AI, 우버 출신 '질 헤이즐베이커' CCAO로 영입…“AI 시대, 대중의 신뢰 확보가 핵심 과제”",
+      "published_at": "2026-11-04T00:02:02+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)가 인공지능(AI)의 사회적 영향력 확대에 대응하기 위해 질 헤이즐베이커(Jill Hazelbaker)를 최고기업대외협력책임자(CCAO, Chief Corporate Affairs Officer)로 영입한다. AI 기술 경쟁이 모델 성능과 인프라 확충을 넘어 공공정책, 사회적 신뢰, 이해관계자와…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42576",
+          "title": "오픈AI, 우버 출신 '질 헤이즐베이커' CCAO로 영입…“AI 시대, 대중의 신뢰 확보가 핵심 과제”"
+        }
+      ]
+    },
+    {
+      "id": "b2951865554a3fdf07a7",
+      "url": "https://x.com/newsfromgoogle/status/2117714815477059722",
+      "title": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
+      "original_title": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
+      "published_at": "2026-11-04T00:00:50+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "@newsfromgoogle : Google says its education updates give schools “more choice, not less”; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://x.com/newsfromgoogle/status/2117714815477059722",
+          "title": "Google says its education updates give schools \"more choice, not less\"; Gemini, Gemini Notebook, and Search are off by default and can be enabled individually (@newsfromgoogle)",
+          "discussion_url": "https://www.techmeme.com/261103/p41"
+        }
+      ]
+    },
+    {
+      "id": "af6c83acf8e77bda30b4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216788",
+      "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
+      "original_title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM",
+      "published_at": "2026-11-04T00:00:00+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "원하는 대로 튜닝하는 나만의 sLLM오지영 | 길벗2026년 7월 7일추천이유저자는 sLLM의 구축부터 배포까지 전 과정을 실습으로 안내하며, 개발자가 직접 맞춤형 AI를 만들고 운영하는 엔지니어로 성장하도록 돕습니다.상세보기 기업이 생성 AI를 들일 때 가장 먼저 걸리는 문턱은 여전히 데이터다. 메가존클라우드와 파…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216788",
+          "title": "[AI리더의 서가] 원하는 대로 튜닝하는 나만의 sLLM"
+        }
+      ]
+    },
+    {
+      "id": "96fe654d833fe36f856a",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+      "title": "AI 'godfather' Hinton: humans might have been better off without AI",
+      "original_title": "AI 'godfather' Hinton: humans might have been better off without AI",
+      "published_at": "2026-11-03T23:53:48+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+          "title": "AI 'godfather' Hinton: humans might have been better off without AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50359872"
+        }
+      ]
+    },
+    {
+      "id": "f83ae4dac3da6d0d5828",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42575",
+      "title": "AMD 리사 수, “CPU·GPU 수요 더욱 강해진다”... AI 데이터센터 매출 97% 급증",
+      "original_title": "AMD 리사 수, “CPU·GPU 수요 더욱 강해진다”... AI 데이터센터 매출 97% 급증",
+      "published_at": "2026-11-03T23:50:36+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "인공지능(AI) 인프라 투자 확대가 반도체 기업의 실적 성장으로 이어지고 있다. AMD가 AI 가속기와 서버용 프로세서 수요 증가에 힘입어 3분기 데이터센터 매출을 전년 동기 대비 97% 끌어올리며 엔비디아 중심의 AI 반도체 시장에서 경쟁력을 강화하고 있다.AMD 회장 겸 최고경영자(CEO) 리사 수(Lisa Su…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42575",
+          "title": "AMD 리사 수, “CPU·GPU 수요 더욱 강해진다”... AI 데이터센터 매출 97% 급증"
+        }
+      ]
+    },
+    {
+      "id": "5193853fae386e8209f1",
+      "url": "https://modelpeers.com/",
+      "title": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
+      "original_title": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
+      "published_at": "2026-11-03T23:45:40+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://modelpeers.com/",
+          "title": "Show HN: Modelpeers – a changelog for the AI models and agents you use",
+          "discussion_url": "https://news.ycombinator.com/item?id=50359805"
+        }
+      ]
+    },
+    {
+      "id": "7e1618ef531d12463a5b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42574",
+      "title": "마인드로직, 팬의 시험 날짜까지 기억하는 AI 아티스트 구현…K팝 팬 소통 100만건 돌파",
+      "original_title": "마인드로직, 팬의 시험 날짜까지 기억하는 AI 아티스트 구현…K팝 팬 소통 100만건 돌파",
+      "published_at": "2026-11-03T23:32:40+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 기업 마인드로직(Mindlogic)이 팬의 관심사와 주요 일정을 기억하고 먼저 안부를 묻는 AI 아티스트 기술을 통해 K팝 팬덤 시장에서 서비스 영역을 확대하고 있다. 팬이 시험이나 면접 일정을 이야기하면 AI가 이를 기억했다가 해당 날짜에 응원 메시지를 보내는 등 개인화된 소통을 구현한 것이 특징이…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42574",
+          "title": "마인드로직, 팬의 시험 날짜까지 기억하는 AI 아티스트 구현…K팝 팬 소통 100만건 돌파"
+        }
+      ]
+    },
+    {
+      "id": "e206622218da7f2374e1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42573",
+      "title": "클레온, 과기정통부 장관상 수상...디지털휴먼 국제표준 2건 개발 공로",
+      "original_title": "클레온, 과기정통부 장관상 수상...디지털휴먼 국제표준 2건 개발 공로",
+      "published_at": "2026-11-03T23:25:43+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 사람의 얼굴과 목소리, 표정과 몸짓을 활용해 실시간으로 소통하는 디지털휴먼 기술이 국제표준 개발을 넘어 공공시설 안내와 금융 상담 교육 등 실제 산업현장으로 확대되고 있다. 국내 AI 기업 클레온이 디지털휴먼 국제표준 2건의 개발에 참여한 공로를 인정받아 부총리 겸 과학기술정보통신부 장관상을 수상했…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42573",
+          "title": "클레온, 과기정통부 장관상 수상...디지털휴먼 국제표준 2건 개발 공로"
+        }
+      ]
+    },
+    {
+      "id": "0aefc32a5da852dd8e24",
+      "url": "https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds",
+      "title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
+      "original_title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
+      "published_at": "2026-11-03T23:05:01+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Rashi Shrivastava / Forbes : Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuatio…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/the-prompt/2026/11/03/the-billion-dollar-business-of-fixing-what-ai-builds",
+          "title": "Traversal, which provides AI agents for site reliability engineering, raised $120M co-led by Kleiner Perkins, Redpoint, and Khosla at a $1B valuation (Rashi Shrivastava/Forbes)",
+          "discussion_url": "https://www.techmeme.com/261103/p39"
+        }
+      ]
+    },
+    {
+      "id": "fa00b4f66d246a49cbf0",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "original_title": "Anthropic is working on a system to prove AI models’ identity",
+      "published_at": "2026-11-03T22:41:03+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity",
+          "title": "Anthropic is working on a system to prove AI models’ identity"
+        }
+      ]
+    },
+    {
+      "id": "32c42b1a9bd9b90f7d19",
+      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "original_title": "Data centers are turning to old jet engines as the wait for power grows",
+      "published_at": "2026-11-03T22:19:53+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: onc…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
+          "title": "Data centers are turning to old jet engines as the wait for power grows"
+        }
+      ]
+    },
+    {
+      "id": "b7e0350d82e1346fe135",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216936",
+      "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐",
+      "original_title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐",
+      "published_at": "2026-11-03T22:00:00+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최첨단 AI 모델들이 실제 기업의 전문 업무를 재현한 평가에서 최고 12%에 그쳤습니다. 기존 벤치마크가 실제 업무의 복잡성과 전문가의 판단 과정을 충분히 반영하지 못한다는 지적과 함께, AI가 기업의 고부가가치 전문 업무를 얼마나 완수할 수 있는지 측정하는 새로운 평가 방식이 등장했습니다.반도체·AI 산업 분석 전…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216936",
+          "title": "[11월3일] \"AI 성능 높아도 실무는 별개\"…새 벤치마크서 최고 12%에 그쳐"
+        }
+      ]
+    },
+    {
+      "id": "d952ab6d652f8f98f294",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+      "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
+      "original_title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
+      "published_at": "2026-11-03T21:50:01+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Tobias Mann / The Register : Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Cl…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+          "title": "Revolut says it cut AI coding inference costs by ~90% in less than a year by making self-hosted GLM models its default over commercial tools like Claude Code (Tobias Mann/The Register)",
+          "discussion_url": "https://www.techmeme.com/261103/p36"
+        }
+      ]
+    },
+    {
+      "id": "47dbf3e70a9db9a6ec73",
+      "url": "https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03",
+      "title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours (Reuters)",
+      "original_title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours (Reuters)",
+      "published_at": "2026-11-03T21:45:01+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Reuters : Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours — Super Micro Computer (S…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/business/super-micro-forecasts-quarterly-revenue-above-estimates-strong-ai-server-demand-2026-11-03",
+          "title": "Super Micro reports Q1 revenue up 298% YoY to $19.95B, vs. $16.39B est., and forecasts Q2 revenue above estimates; SMCI jumps 7%+ after hours (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261103/p35"
+        }
+      ]
+    },
+    {
+      "id": "9427f87f31ac6b742f96",
+      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+      "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "original_title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+      "published_at": "2026-11-03T21:43:08+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom",
+          "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom"
+        }
+      ]
+    },
+    {
+      "id": "d0f4d81a715c4404f84d",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app",
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "original_title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "published_at": "2026-11-03T21:28:44+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app",
+          "title": "WorkOS says attacker used ARTEX AI to breach internal sales app"
+        }
+      ]
+    },
+    {
+      "id": "43862ef771dfba655e31",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)",
+      "original_title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)",
+      "published_at": "2026-11-03T21:10:03+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic : Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in — Ro…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.anthropic.com/research/provable-inference",
+          "title": "Anthropic releases FlashProve, an open-source prototype that cryptographically verifies an AI response came from a given model, not one that a router swapped in (Anthropic)",
+          "discussion_url": "https://www.techmeme.com/261103/p32"
+        }
+      ]
+    },
+    {
+      "id": "e529e3957e845009c443",
+      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+      "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "original_title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+      "published_at": "2026-11-03T21:05:55+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal",
+          "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal"
+        }
+      ]
+    },
+    {
+      "id": "a46b98b808c99c632582",
+      "url": "https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber",
+      "title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
+      "original_title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
+      "published_at": "2026-11-03T21:00:53+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mike Allen / Axios : OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/03/jill-hazelbaker-openai-uber",
+          "title": "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)",
+          "discussion_url": "https://www.techmeme.com/261103/p31"
+        }
+      ]
+    },
+    {
       "id": "4d0bc422d2ea338f9b4c",
       "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/03/google-will-cut-off-search-engine-access-to-schools-banning-generative-ai",
       "title": "Google to cutoff Search Engine access to schools banning Gen. AI",
@@ -1362,6 +1875,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42564",
           "title": "“AI가 오래 추론할수록 오진도 늘어난다”…칭화대, 의료 AI의 정확도·안전성 충돌 규명"
+        }
+      ]
+    },
+    {
+      "id": "5b9788965e27228e4a03",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=216963",
+      "title": "[AI 모델 신작] 사람처럼 대화하는 '프리즘'부터 로봇 제어 AI까지 6종",
+      "original_title": "[AI 모델 신작] 사람처럼 대화하는 '프리즘'부터 로봇 제어 AI까지 6종",
+      "published_at": "2026-11-03T08:20:00+00:00",
+      "collected_at": "2026-11-04T01:04:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 라임, 사람처럼 듣고 말하는 음성 AI '프리즘' 출시미국 음성 AI 전문 라임(Rime)이 사람과 구별하기 어려울 정도로 자연스럽게 대화하는 음성 AI 모델 ‘프리즘(Prism)’을 출시했다. 기존 음성 AI가 음성을 텍스트로 변환하고 답변을 생성한 뒤 다시 음성으로 바꾸는 방식과 달리, 이용자의 목소리를 직접…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=216963",
+          "title": "[AI 모델 신작] 사람처럼 대화하는 '프리즘'부터 로봇 제어 AI까지 6종"
         }
       ]
     },
