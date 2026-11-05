@@ -3,6 +3,815 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "0d8f15ece0a838f7774c",
+      "url": "https://github.com/paoloviviani/Cerea",
+      "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
+      "original_title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
+      "published_at": "2026-11-05T21:11:50+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/paoloviviani/Cerea",
+          "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384502"
+        }
+      ]
+    },
+    {
+      "id": "e4c1f197010e153d2993",
+      "url": "https://www.reasond.de/topics/6aebd8cc093b9d870af823b9",
+      "title": "AI finds security bugs faster than they get fixed. Should the 90day rule change?",
+      "original_title": "AI finds security bugs faster than they get fixed. Should the 90day rule change?",
+      "published_at": "2026-11-05T21:10:15+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reasond.de/topics/6aebd8cc093b9d870af823b9",
+          "title": "AI finds security bugs faster than they get fixed. Should the 90day rule change?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384488"
+        }
+      ]
+    },
+    {
+      "id": "44a57a97e6c4adf82b9e",
+      "url": "https://www.cbc.ca/news/canada/google-classroom-suite-search-ai-9.7410158",
+      "title": "Google offers schools AI-boosted search or none at all",
+      "original_title": "Google offers schools AI-boosted search or none at all",
+      "published_at": "2026-11-05T21:06:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cbc.ca/news/canada/google-classroom-suite-search-ai-9.7410158",
+          "title": "Google offers schools AI-boosted search or none at all",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384454"
+        }
+      ]
+    },
+    {
+      "id": "3345bc1c75176424cfd8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+      "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
+      "original_title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상",
+      "published_at": "2026-11-05T21:05:26+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 기존 모델보다 보안 취약점에 대한 공격 성공률을 51% 높인 사이버 보안 특화 AI 모델 'GPT-6 사이버(GPT-6 Cyber)'를 출시했다. 리눅스 운영체제에서 실제 작동하는 공격 코드 948건을 개발하고 파이어폭스에서 새로운 고위험 취약점 81건을 발견하는 등 보안 점검 능력을 강화했으며, 주요 보…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217074",
+          "title": "오픈AI, 'GPT-6 사이버' 출시…취약점 공격 성공률 51% 향상"
+        }
+      ]
+    },
+    {
+      "id": "5472a6e08a7510a1cfac",
+      "url": "https://www.xurrent.com/incident-management-response/ai-sre",
+      "title": "AI SRE Teammate",
+      "original_title": "AI SRE Teammate",
+      "published_at": "2026-11-05T21:01:17+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.xurrent.com/incident-management-response/ai-sre",
+          "title": "AI SRE Teammate",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384408"
+        }
+      ]
+    },
+    {
+      "id": "7581eaf3f310dd0d4f65",
+      "url": "https://ritualdev.in/agentshield",
+      "title": "Show HN: Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
+      "original_title": "Show HN: Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
+      "published_at": "2026-11-05T21:00:23+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ritualdev.in/agentshield",
+          "title": "Show HN: Agentshield Zero-leak kernel sandbox and secret defense for AI coding",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384401"
+        }
+      ]
+    },
+    {
+      "id": "3ee9985cd459e03d6d89",
+      "url": "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
+      "title": "Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board",
+      "original_title": "Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board",
+      "published_at": "2026-11-05T20:56:14+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.etherpk.com/hand-your-markdown-tasks-to-claude-code-from-a-kanban-board",
+          "title": "Show HN: Hand Your Markdown Tasks to Claude Code from a Kanban Board",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384357"
+        }
+      ]
+    },
+    {
+      "id": "fb078ac92f1eb8d6a038",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+      "title": "Copilot Chat's usage cap and Microsoft would rather u found them by hitting them",
+      "original_title": "Copilot Chat's usage cap and Microsoft would rather u found them by hitting them",
+      "published_at": "2026-11-05T20:50:49+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+          "title": "Copilot Chat's usage cap and Microsoft would rather u found them by hitting them",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384309"
+        }
+      ]
+    },
+    {
+      "id": "1d40731d5054307517e4",
+      "url": "https://www.dw.com/en/could-ai-give-nfts-a-second-chance/a-79840593",
+      "title": "Could AI give NFTs a second chance?",
+      "original_title": "Could AI give NFTs a second chance?",
+      "published_at": "2026-11-05T20:48:36+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.dw.com/en/could-ai-give-nfts-a-second-chance/a-79840593",
+          "title": "Could AI give NFTs a second chance?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384282"
+        }
+      ]
+    },
+    {
+      "id": "94c291cec1ba815db157",
+      "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/openai-ceos-codex-keyboard-gift-to-samsung-presidents-draws-attention",
+      "title": "OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention",
+      "original_title": "OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention",
+      "published_at": "2026-11-05T20:45:51+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/openai-ceos-codex-keyboard-gift-to-samsung-presidents-draws-attention",
+          "title": "OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384255"
+        }
+      ]
+    },
+    {
+      "id": "c10a448d519d808dc0d5",
+      "url": "https://github.com/Panda-Taps-LLC/watchdeck",
+      "title": "Watchdeck: See what every Claude Code session was stopped from doing",
+      "original_title": "Watchdeck: See what every Claude Code session was stopped from doing",
+      "published_at": "2026-11-05T20:33:54+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/Panda-Taps-LLC/watchdeck",
+          "title": "Watchdeck: See what every Claude Code session was stopped from doing",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384119"
+        }
+      ]
+    },
+    {
+      "id": "19281c231be5ace90100",
+      "url": "https://prax-labs.com/wallet-screening",
+      "title": "Wallet screening your AI agent can call over MCP",
+      "original_title": "Wallet screening your AI agent can call over MCP",
+      "published_at": "2026-11-05T20:33:41+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://prax-labs.com/wallet-screening",
+          "title": "Wallet screening your AI agent can call over MCP",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384115"
+        }
+      ]
+    },
+    {
+      "id": "853a52ab359ad652071c",
+      "url": "https://twitter.com/bebuu_ai/status/2118052769856888892",
+      "title": "Z.ai says GLM 5.5 built on 1T web pages",
+      "original_title": "Z.ai says GLM 5.5 built on 1T web pages",
+      "published_at": "2026-11-05T20:31:56+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/bebuu_ai/status/2118052769856888892",
+          "title": "Z.ai says GLM 5.5 built on 1T web pages",
+          "discussion_url": "https://news.ycombinator.com/item?id=50384093"
+        }
+      ]
+    },
+    {
+      "id": "54e115f18237fc40fbbc",
+      "url": "https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings",
+      "title": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
+      "original_title": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
+      "published_at": "2026-11-05T20:15:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Information : Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data center…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings",
+          "title": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
+          "discussion_url": "https://www.techmeme.com/261105/p50"
+        }
+      ]
+    },
+    {
+      "id": "f66d8f2942889cef95d9",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "original_title": "Meta says US users can now video chat with their Muse AI avatar",
+      "published_at": "2026-11-05T19:48:28+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
+          "title": "Meta says US users can now video chat with their Muse AI avatar"
+        }
+      ]
+    },
+    {
+      "id": "f25b9201ad6bdcc6fc96",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "title": "NVIDIA, 인터랙티브 월드 시뮬레이션용 Cosmos 3 오픈 모델 4종 공개",
+      "original_title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "published_at": "2026-11-05T19:35:16+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation"
+        }
+      ],
+      "summary": "NVIDIA가 Cosmos 3 모델 패밀리에 인터랙티브 월드 시뮬레이션과 다중 센서·다중 뷰 주행 장면 생성을 위한 오픈 웨이트 체크포인트 4종을 추가했다고 발표했다. Cosmos3-Nano-Transfer-Auto, Cosmos3-Nano-Sim-Auto, Cosmos3-Nano-Sim-Transfer, Cosmos3-Nano-Sim-Bimanual은 모두 Cosmos 3 Nano를 포스트트레이닝한 예시로 16B 학습 가능 파라미터를 가지며, OpenMDW1.1 라이선스로 상업적·비상업적 사용이 허용된다고 한다.",
+      "why_it_matters": "월드 모델 연구자와 개발자가 주행·로봇 시뮬레이션용 오픈 웨이트와 포스트트레이닝 레시피를 공유 출발점으로 활용할 수 있게 됐다는 점에서, 시뮬레이션 기반 정책 학습과 평가 방식에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-05T21:22:16+00:00",
+        "input_hash": "f902cd108d0c7cade1e6b5b2fca74b04862e41400db679a5e3af6a0a49dcc3f8",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "bcea566fc08fba9bba93",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "title": "Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time (Jay Peters/The Verge)",
+      "original_title": "Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time (Jay Peters/The Verge)",
+      "published_at": "2026-11-05T19:30:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jay Peters / The Verge : Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time — Mu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+          "title": "Meta rolls out voice mode and expressive avatars in the Muse app, starting in the US, letting users have voice conversations with Muse in real time (Jay Peters/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261105/p48"
+        }
+      ]
+    },
+    {
+      "id": "20039ba5416205700ef8",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks",
+      "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "original_title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+      "published_at": "2026-11-05T19:24:26+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks",
+          "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks"
+        }
+      ]
+    },
+    {
+      "id": "de195e58e28719a1d372",
+      "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05",
+      "title": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)",
+      "original_title": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)",
+      "published_at": "2026-11-05T19:20:02+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports — Abou…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/china/nvidia-chips-pile-up-hong-kong-china-withholds-import-approval-2026-11-05",
+          "title": "Sources: about 600,000 of Nvidia's H200 chips are stored in Hong Kong awaiting shipment to mainland China, as Beijing withholds approval for large-scale imports (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261105/p47"
+        }
+      ]
+    },
+    {
+      "id": "284810c2fd047502da41",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "original_title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "published_at": "2026-11-05T19:12:39+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
+          "title": "Meta warns that election backlash against data centers could make AI expansion harder"
+        }
+      ]
+    },
+    {
+      "id": "5f2083e6ffbe03886ede",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "original_title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "published_at": "2026-11-05T19:06:12+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough",
+          "title": "OpenAI released a new cybersecurity model. Is that enough?"
+        }
+      ]
+    },
+    {
+      "id": "68235029420d6fc7eaed",
+      "url": "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find",
+      "title": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)",
+      "original_title": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)",
+      "published_at": "2026-11-05T19:01:21+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Tiffany Li / The Information : METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of a…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/briefings/anthropics-r-d-speed-may-doubled-due-ai-researchers-find",
+          "title": "METR: Anthropic's models are improving about twice as fast as they did between March 2024 and October 2025, with internal AI use driving ~80% of acceleration (Tiffany Li/The Information)",
+          "discussion_url": "https://www.techmeme.com/261105/p46"
+        }
+      ]
+    },
+    {
+      "id": "2b57a08592ab2048317f",
+      "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic",
+      "title": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)",
+      "original_title": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)",
+      "published_at": "2026-11-05T18:15:04+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Radhika Rajkumar / ZDNET : Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic",
+          "title": "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)",
+          "discussion_url": "https://www.techmeme.com/261105/p44"
+        }
+      ]
+    },
+    {
+      "id": "20ebb1cb1fa152c7b2a7",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "original_title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "published_at": "2026-11-05T18:02:27+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027",
+          "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027"
+        }
+      ]
+    },
+    {
+      "id": "b9ca9ce17c9cbad18ab7",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "original_title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "published_at": "2026-11-05T18:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool",
+          "title": "Claude can now analyze your spending with its new Personal Finance tool"
+        }
+      ]
+    },
+    {
+      "id": "ddd79e75f7535a6e1947",
+      "url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model",
+      "title": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)",
+      "original_title": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)",
+      "published_at": "2026-11-05T17:15:02+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Djohnson / CyberScoop : OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ “novel” vulnerabilities in Firef…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://cyberscoop.com/openai-gpt-6-cyber-security-model",
+          "title": "OpenAI says GPT-6 Cyber will first launch to a limited number of customers in its Daybreak Red program and has found 81+ \"novel\" vulnerabilities in Firefox (Djohnson/CyberScoop)",
+          "discussion_url": "https://www.techmeme.com/261105/p42"
+        }
+      ]
+    },
+    {
+      "id": "c84a4cb62f0462d241c3",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "title": "OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)",
+      "original_title": "OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)",
+      "published_at": "2026-11-05T17:06:54+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Emma Roth / The Verge : OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go ro…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+          "title": "OpenAI launches GPT-6 Cyber, which it says outperforms GPT-6 Astra on cyber benchmarks, is better at finding vulnerabilities, and is less likely to go rogue (Emma Roth/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261105/p40"
+        }
+      ]
+    },
+    {
+      "id": "80a4664a81ee3a98d4e3",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg5OTA0OSwiZXhwIjoxNzk0NTAzODQ5LCJhcnRpY2xlSWQiOiJUTzFEUzNLR1pBS08wMCIsImJjb25uZWN0SWQiOiJBNzk0Njg5OUJFOTM0RjdGQjhDOUU2M0QyMDg5QkRDNyJ9.AdPk0mY4ldQbPF-EY6uZ6LmjXfuvdxPYm4H767nRsKY",
+      "title": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)",
+      "original_title": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)",
+      "published_at": "2026-11-05T17:01:37+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Rebecca Torrence / Bloomberg : Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg5OTA0OSwiZXhwIjoxNzk0NTAzODQ5LCJhcnRpY2xlSWQiOiJUTzFEUzNLR1pBS08wMCIsImJjb25uZWN0SWQiOiJBNzk0Njg5OUJFOTM0RjdGQjhDOUU2M0QyMDg5QkRDNyJ9.AdPk0mY4ldQbPF-EY6uZ6LmjXfuvdxPYm4H767nRsKY",
+          "title": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261105/p39"
+        }
+      ]
+    },
+    {
+      "id": "5ef5685b9690ae6c5fed",
+      "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "original_title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to... One underperformi…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+          "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS"
+        }
+      ]
+    },
+    {
+      "id": "485654c1f98a7cdcb606",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "original_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+        },
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+        }
+      ]
+    },
+    {
+      "id": "9a1f2f6f2756d2c6b535",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "original_title": "Axiom Math wants to keep AI slop out of mathematics",
+      "published_at": "2026-11-05T16:16:45+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest lib…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+          "title": "Axiom Math wants to keep AI slop out of mathematics"
+        }
+      ]
+    },
+    {
+      "id": "7a4fd1de9b53747b5e4c",
+      "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+      "title": "엔비디아, AI 팩토리 메모리 효율 위한 5가지 공동 설계 전략 공개",
+      "original_title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory",
+      "published_at": "2026-11-05T16:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "In an AI factory, high bandwidth memory (HBM)is the fastest, most expensive, and most contested memory tier. Every byte spent on a redundant weight copy, an... In an AI factory,…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/five-ways-nvidia-co-design-maximizes-the-value-of-every-byte-in-the-ai-factory",
+          "title": "Five Ways NVIDIA Co-Design Maximizes the Value of Every Byte in the AI Factory"
+        }
+      ],
+      "summary": "엔비디아가 AI 팩토리에서 HBM(고대역폭 메모리)의 가치를 극대화하기 위한 5가지 공동 설계 방식을 소개했다. NVFP4 포맷, NVLink 스케일업 도메인, Dynamo 서빙 레이어, Vera CPU, CMX 컨텍스트 메모리 스토리지 등이 포함되며, 회사는 이를 통해 에이전트 추론 처리량과 메모리 재사용 효율이 향상된다고 주장했다.",
+      "why_it_matters": "AI 추론 비용에서 메모리 대역폭과 용량이 병목으로 부상하면서, 하드웨어와 소프트웨어를 함께 설계해 바이트당 유효 작업량을 높이려는 시도가 중요해지고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-05T21:22:02+00:00",
+        "input_hash": "64cf6127bd9a22b6d1a33e6a3e325d9ee80d2f92b170bb4cae60adcaee6bef39",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "74bb7f13b00f34a52103",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "original_title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "published_at": "2026-11-05T15:19:05+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+          "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "56d9b68ee4b718c28535",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
+      "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+      "original_title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+      "published_at": "2026-11-05T14:45:19+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최태원 SK그룹 회장이 인공지능(AI) 혁명과 미국·중국의 패권 경쟁으로 세계 경제질서가 근본적으로 재편되고 있다며, 한국이 기존 경제성장 모델에서 벗어나 ‘AI 네이티브 국가(AI Native Nation)’로 전환해야 한다고 강조했다.특히 AI를 중심으로 여러 산업에서 혁신이 동시에 발생하는 상황에서 전통적인 경…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
+          "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야"
+        }
+      ]
+    },
+    {
+      "id": "ec1966491ff28b1901b2",
+      "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "original_title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "published_at": "2026-11-05T14:42:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Aina's ring can also take calls and help you dictate notes on your Mac.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+          "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents",
+          "title": "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (Ivan Mehta/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261105/p38"
+        }
+      ]
+    },
+    {
+      "id": "4453f7a18f3457447807",
+      "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
+      "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "original_title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+      "published_at": "2026-11-05T14:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system",
+          "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system"
+        }
+      ]
+    },
+    {
+      "id": "b6b371a91cafdd86ad70",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "original_title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "published_at": "2026-11-05T13:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex phy…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+          "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI"
+        }
+      ]
+    },
+    {
+      "id": "e60938282d7c04801b65",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "original_title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "published_at": "2026-11-05T12:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying",
+          "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?"
+        }
+      ]
+    },
+    {
       "id": "93cad0094137e1f68fb6",
       "url": "https://arxiv.org/abs/2611.06138",
       "title": "KVGuard: A KV Cache Safety Checker for LLM Serving Systems",
@@ -206,6 +1015,26 @@
           "url": "https://github.com/tester-army",
           "title": "New E2E agentic test framework from Poland",
           "discussion_url": "https://news.ycombinator.com/item?id=50376960"
+        }
+      ]
+    },
+    {
+      "id": "14e90e72d3401ddf817f",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "original_title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "published_at": "2026-11-05T09:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-gpt-6-cyber",
+          "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
         }
       ]
     },
@@ -898,6 +1727,26 @@
       ]
     },
     {
+      "id": "25fa4dd18ec78a48a923",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "original_title": "Setting a new standard for responsible AI infrastructure",
+      "published_at": "2026-11-05T02:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "title": "Setting a new standard for responsible AI infrastructure"
+        }
+      ]
+    },
+    {
       "id": "5701fed5a0c43eab77d3",
       "url": "https://d2.naver.com/helloworld/7770448",
       "title": "2026년과 이후 JavaScript의 동향 - WebAssembly",
@@ -997,6 +1846,35 @@
           "title": "After the midterms, a bigger clash over data centers could be coming"
         }
       ]
+    },
+    {
+      "id": "c65c7708e93995ca4541",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "title": "Phonon TTS, 온디바이스 음성 합성 모델 공개…허깅페이스 리더보드 상위권 기록",
+      "original_title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "collected_at": "2026-11-05T21:21:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/phonon-tts",
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks."
+        }
+      ],
+      "summary": "Phonon은 서버나 네트워크 없이 기기에서 실행되는 소형 텍스트-음성 변환(TTS) 모델로, 약 65MB와 75MB 두 가지 크기로 제공되며 영어·프랑스어·독일어·스페인어·포르투갈어를 지원한다. 개발사 그라디움에 따르면 허깅페이스 Open TTS 리더보드에서 독일어와 스페인어 명료도 1위, 평가한 모든 언어에서 상위 3위를 기록했고 CPU 스트리밍 첫 오디오 생성 시간 부문에서도 1위를 차지했다. 출시 후 2주 만에 20만 회 이상 다운로드됐다.",
+      "why_it_matters": "클라우드 없이 기기에서 고품질 음성을 생성하는 소형 모델의 등장은 프라이버시와 오프라인 사용성을 중시하는 애플리케이션에 영향을 줄 수 있다. 다만 성능 평가는 개발사가 인용한 리더보드 결과에 기반한 것이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-05T21:21:57+00:00",
+        "input_hash": "bd925517d0fca0f853bb94c9ec4293f270534fa8864e3bc33bfb318149ec3614",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5523ef782a102f9407e4",
