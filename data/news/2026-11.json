@@ -3,6 +3,990 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "c3f9b6f32e661047fa9b",
+      "url": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
+      "title": "We are building an AI design tool that skips the prompt",
+      "original_title": "We are building an AI design tool that skips the prompt",
+      "published_at": "2026-11-06T10:07:11+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
+          "title": "We are building an AI design tool that skips the prompt",
+          "discussion_url": "https://news.ycombinator.com/item?id=50390423"
+        }
+      ]
+    },
+    {
+      "id": "5c50352f02719aed8ed7",
+      "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+      "title": "Nasdaq worst day in 19 months, investors bet on AI slowdown after Democrats win",
+      "original_title": "Nasdaq worst day in 19 months, investors bet on AI slowdown after Democrats win",
+      "published_at": "2026-11-06T09:55:15+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses",
+          "title": "Nasdaq worst day in 19 months, investors bet on AI slowdown after Democrats win",
+          "discussion_url": "https://news.ycombinator.com/item?id=50390352"
+        }
+      ]
+    },
+    {
+      "id": "527ffcb8cb0288caae9d",
+      "url": "https://byline.network/2026/11/6-474",
+      "title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나",
+      "original_title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나",
+      "published_at": "2026-11-06T09:37:34+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "지난 4월 앤트로픽이 ‘클로드 미토스 프리뷰’를 공개했을 때, 보안업계는 놀랐다. AI가 소프트웨어 취약점을 찾아 실제 공격 코드까지 만들었기 때문이다. 반년이 지난 지금, 오픈AI·앤트로픽·구글 등 AI 기업들은 취약점 발견과 공격 검증 능력을 높인 프론티어 모델을 앞다퉈 공개하고 있다. 최근에는 AI가 취약점을 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/6-474",
+          "title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나"
+        }
+      ]
+    },
+    {
+      "id": "c23a92e93615beb144ba",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42628",
+      "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
+      "original_title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
+      "published_at": "2026-11-06T09:26:38+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "미국 인공지능(AI) 데이터센터 투자 시장에 금융 불안 신호가 나타나고 있다. 네덜란드 대형 은행 ING가 약 5억 달러(약 6700억원) 규모의 데이터센터 대출채권을 한꺼번에 매각하기로 하면서, 막대한 차입금에 의존해 추진되는 AI 인프라 사업의 자금조달 위험이 다시 부각됐다.특히, 매각 대상에는 오픈AI, 소프트…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42628",
+          "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질"
+        }
+      ]
+    },
+    {
+      "id": "a006a392833080a37e7c",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity",
+      "title": "Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction (Bloomberg)",
+      "original_title": "Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction (Bloomberg)",
+      "published_at": "2026-11-06T09:25:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction — A new crop of Democratic gove…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/new-governors-set-to-challenge-big-swath-of-data-center-capacity",
+          "title": "Cleanview: ~40% of planned data center capacity is in states where newly elected governors have pledged to pause or halt construction (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261106/p6"
+        }
+      ]
+    },
+    {
+      "id": "71a401f731f51fa03641",
+      "url": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+      "title": "The Elephant-Goldfish Model: scaling design-driven AI development",
+      "original_title": "The Elephant-Goldfish Model: scaling design-driven AI development",
+      "published_at": "2026-11-06T09:22:46+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://opensource.googleblog.com/2026/10/introducing-elephant-goldfish-model-plugin.html",
+          "title": "The Elephant-Goldfish Model: scaling design-driven AI development",
+          "discussion_url": "https://news.ycombinator.com/item?id=50390082"
+        }
+      ]
+    },
+    {
+      "id": "7951c5b8003d194fd80a",
+      "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+      "title": "AI for scientific discovery: How researchers use Claude",
+      "original_title": "AI for scientific discovery: How researchers use Claude",
+      "published_at": "2026-11-06T09:13:30+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.anthropic.com/research/how-researchers-use-claude",
+          "title": "AI for scientific discovery: How researchers use Claude",
+          "discussion_url": "https://news.ycombinator.com/item?id=50389990"
+        }
+      ]
+    },
+    {
+      "id": "d8f7a03fc5c5ca232e76",
+      "url": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
+      "title": "Democratic sweep could slow AI growth in US – and help China's ambitions",
+      "original_title": "Democratic sweep could slow AI growth in US – and help China's ambitions",
+      "published_at": "2026-11-06T09:08:17+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373295/how-democratic-sweep-could-slow-ai-growth-us-and-help-chinas-ambitions",
+          "title": "Democratic sweep could slow AI growth in US – and help China's ambitions",
+          "discussion_url": "https://news.ycombinator.com/item?id=50389944"
+        }
+      ]
+    },
+    {
+      "id": "47f2ff76af97da98e951",
+      "url": "https://palettevault.github.io/blog/ai-development-2026",
+      "title": "How AI Is Changing Software Development in 2026",
+      "original_title": "How AI Is Changing Software Development in 2026",
+      "published_at": "2026-11-06T08:59:24+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://palettevault.github.io/blog/ai-development-2026",
+          "title": "How AI Is Changing Software Development in 2026",
+          "discussion_url": "https://news.ycombinator.com/item?id=50389870"
+        }
+      ]
+    },
+    {
+      "id": "533656b88ed5f836af70",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42627",
+      "title": "美 공군, 15개 핵심 임무에 AI 도입…핵작전·정보·우주 분야 AI 전환 본격화",
+      "original_title": "美 공군, 15개 핵심 임무에 AI 도입…핵작전·정보·우주 분야 AI 전환 본격화",
+      "published_at": "2026-11-06T08:53:24+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "美 공군부(Department of the Air Force, DAF)가 핵작전과 정보, 인사 등 15개 핵심 임무 영역에 초지능(Super Intelligence, SI) 역량을 도입하기 위한 전사적 현대화 전략을 공개했다. 인공지능(AI)을 실험적 기술 검증 단계에서 실제 군사작전과 조직 운영에 활용하는 단계로 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42627",
+          "title": "美 공군, 15개 핵심 임무에 AI 도입…핵작전·정보·우주 분야 AI 전환 본격화"
+        }
+      ]
+    },
+    {
+      "id": "812ca5bb4e5fdf919693",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
+      "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+      "original_title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+      "published_at": "2026-11-06T08:44:08+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글 출신 연구진이 설립한 리커시브 인텔리전스(Ricursive Intelligence)가 매개변수 규모가 8배 가까이 큰 AI 모델을 코딩 성능 평가에서 앞서는 오픈웨이트 모델을 공개했다. 기존 선두 모델보다 개발 비용은 약 10분의 1에 불과하다고 밝혀, 대형 모델에 맞먹는 성능을 적은 비용으로 구현한 사례로 주…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
+          "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1"
+        }
+      ]
+    },
+    {
+      "id": "8bd431dc88d7bd65482f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
+      "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
+      "original_title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진",
+      "published_at": "2026-11-06T08:25:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 미국의 노후 전화국 건물을 AI 데이터센터로 개조해 20개 주에 걸친 분산형 네트워크를 구축하는 방안을 추진하고 있다. 신규 데이터센터 건설에 필요한 시간과 비용, 인허가 부담을 줄이고 기존 통신시설에 남아 있는 전력과 통신 인프라를 활용하려는 전략이다.디 인포메이션은 5일(현지시간) 엔비디아가 사모펀드 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217096",
+          "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진"
+        }
+      ]
+    },
+    {
+      "id": "f45baf484678afaf34dc",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+      "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
+      "original_title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인",
+      "published_at": "2026-11-06T08:21:04+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "앤트로픽이 AI를 활용해 차세대 모델의 성능 개선 속도를 약 2배 높였다는 연구 결과가 나왔다. 최근 훈련을 마친 미공개 모델 3개도 확인돼, AI가 더 뛰어난 AI를 개발하는 재귀적 자기개선(RSI)이 현실화할 가능성에 관심이 쏠리고 있다.AI 안전 연구기관 METR은 5일(현지시간) 앤트로픽의 AI 연구개발 가속…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217080",
+          "title": "앤트로픽, AI 자기개선 가속 징후…개발 속도 2배·미공개 모델 3개 확인"
+        }
+      ]
+    },
+    {
+      "id": "5fe1552d4476e00c0dbb",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42626",
+      "title": "UNIST, 해군·해병대와 국방·해양 AI 기술 개발 본격화…부산 AX거점 개소",
+      "original_title": "UNIST, 해군·해병대와 국방·해양 AI 기술 개발 본격화…부산 AX거점 개소",
+      "published_at": "2026-11-06T08:21:04+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "울산과학기술원(UNIST)이 해군·해병대와 손잡고 국방·해양 분야의 인공지능 전환(AX)을 본격 추진한다. 군의 작전 환경과 해양 분야 특성을 반영한 AI 원천기술을 개발하고, 이를 실제 국방 현장에 적용하기 위한 연구·교육·실증 체계를 구축하는 것이 핵심이다.UNIST는 6일 부산에서 '해군·해병대 AX거점' 개소…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42626",
+          "title": "UNIST, 해군·해병대와 국방·해양 AI 기술 개발 본격화…부산 AX거점 개소"
+        }
+      ]
+    },
+    {
+      "id": "c191867e35a2bf69d763",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42625",
+      "title": "포스트에이아이, 한국인 3만여 명 가상사회 구현…소비자 선택 예측하는 ‘SONA AI’ 출시",
+      "original_title": "포스트에이아이, 한국인 3만여 명 가상사회 구현…소비자 선택 예측하는 ‘SONA AI’ 출시",
+      "published_at": "2026-11-06T08:12:47+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 기업 포스트에이아이(대표 조인호)가 실제 한국인의 조사 데이터를 바탕으로 소비자 선택과 사회적 반응을 시뮬레이션하는 소셜트윈(Social Twin) 플랫폼 '소나 AI(SONA AI)'를 출시했다.포스트에이아이는 지난 5일 서울 마포구 KBIZ DMC타워에서 기술설명회를 열고, 실제 조사 패널의 응답…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42625",
+          "title": "포스트에이아이, 한국인 3만여 명 가상사회 구현…소비자 선택 예측하는 ‘SONA AI’ 출시"
+        }
+      ]
+    },
+    {
+      "id": "c44b8627cc59dc2d117a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217115",
+      "title": "앤트로픽, '클로드' 게임 복제 제한 완화…\"비슷한 게임 만들 수 있어\"",
+      "original_title": "앤트로픽, '클로드' 게임 복제 제한 완화…\"비슷한 게임 만들 수 있어\"",
+      "published_at": "2026-11-06T08:10:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드 코드'의 게임 복제 금지 조치를 완화했다. 기존 게임을 그대로 복제하는 것은 계속 금지하지만, 특정 게임을 참고해 비슷한 장르의 독창적인 게임을 만드는 작업은 허용하기로 했다.앤트로픽은 4일(현지시간) 최근 게임 개발 관련 요청을 지나치게 제한한다는 이용자들의 지적에 따라 '클로드 오퍼스 5.5'…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217115",
+          "title": "앤트로픽, '클로드' 게임 복제 제한 완화…\"비슷한 게임 만들 수 있어\""
+        }
+      ]
+    },
+    {
+      "id": "51e1cd323e91a4975b60",
+      "url": "https://byline.network/2026/11/6-467",
+      "title": "지정호 토스 CISO “보안 조직, 기업 AX 가능케 해야”",
+      "original_title": "지정호 토스 CISO “보안 조직, 기업 AX 가능케 해야”",
+      "published_at": "2026-11-06T08:01:47+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“토스의 모든 보안 조직은 기업의 AX를 막는 조직에서 가능하게 하는 조직으로 일하려고 노력하고 있습니다.” 지정호 토스 정보보호최고책임자(CISO)는 6일 서울 삼성동 코엑스에서 열린 보안 콘퍼런스 ‘토스 가디언즈 26’ 기조연설에서 이렇게 말했다. 그는 “기업의 인공지능 전환(AX)이 빨라지는 만큼, 이제 보안 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/6-467",
+          "title": "지정호 토스 CISO “보안 조직, 기업 AX 가능케 해야”"
+        }
+      ]
+    },
+    {
+      "id": "b4fe8bd5407eadac0483",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42624",
+      "title": "구글, 15초 AI 영상 무료 생성 시대 열었다…제미나이 옴니 1.2 플래시 출시, 생성 비용 30% 인하",
+      "original_title": "구글, 15초 AI 영상 무료 생성 시대 열었다…제미나이 옴니 1.2 플래시 출시, 생성 비용 30% 인하",
+      "published_at": "2026-11-06T07:59:36+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 최대 15초 길이의 인공지능(AI) 영상을 생성하고 대화형 명령으로 수정할 수 있는 새로운 영상 생성 모델을 공개했다. 영상 속 인물과 제품의 외형을 일관되게 유지하는 능력을 강화하고 생성 비용을 기존보다 30% 낮춰, 기업과 일반 사용자의 AI 영상 제작 접근성을 확대했다.특히 구글 계정만 있으면 별도의 유…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42624",
+          "title": "구글, 15초 AI 영상 무료 생성 시대 열었다…제미나이 옴니 1.2 플래시 출시, 생성 비용 30% 인하"
+        }
+      ]
+    },
+    {
+      "id": "6e4dcb2edd8f7073c9cb",
+      "url": "https://byline.network/2026/11/1106-11",
+      "title": "기업 AI, 만들고 쓰고 지킨다…아이티센 ‘에이전트고’",
+      "original_title": "기업 AI, 만들고 쓰고 지킨다…아이티센 ‘에이전트고’",
+      "published_at": "2026-11-06T07:59:33+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "아이티센그룹이 AI 에이전트 구축부터 운영, 보안까지 통합 관리하는 플랫폼 ‘에이전트고 2026’을 선보였다. 독립형 보안 플랫폼 ‘에이전트고 가드’로 섀도우 AI와 데이터 유출 위험에 대응하고, 자체 개발한 AI 비서 ‘세니 3.0’을 통해 그룹 내 업무 효율을 높였다. 향후 기업의 업무 경험과 암묵지를 AI 에이…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1106-11",
+          "title": "기업 AI, 만들고 쓰고 지킨다…아이티센 ‘에이전트고’"
+        }
+      ]
+    },
+    {
+      "id": "e23c23bf8692e8d5b7dc",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217084",
+      "title": "앤트로픽, 클로드에 개인 금융 기능 추가…계좌 연결해 지출 분석",
+      "original_title": "앤트로픽, 클로드에 개인 금융 기능 추가…계좌 연결해 지출 분석",
+      "published_at": "2026-11-06T07:47:12+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드'에 은행 계좌와 신용카드를 연결해 개인 재무 상태를 분석할 수 있는 '개인 금융(Personal Finance)' 기능을 추가했다. 여러 금융 계좌의 거래 내역을 종합해 소비 패턴과 예정 지출을 파악하고, 중복 결제나 불필요한 수수료까지 찾아준다.앤트로픽은 5일(현지시간) 개인 금융 기능의 베타 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217084",
+          "title": "앤트로픽, 클로드에 개인 금융 기능 추가…계좌 연결해 지출 분석"
+        }
+      ]
+    },
+    {
+      "id": "8631d70307d330aba908",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217104",
+      "title": "구글, 15초 영상 생성 '제미나이 옴니 1.2' 출시…가격 30% 인하",
+      "original_title": "구글, 15초 영상 생성 '제미나이 옴니 1.2' 출시…가격 30% 인하",
+      "published_at": "2026-11-06T07:41:41+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 동영상 생성 AI의 최대 영상 길이를 15초로 늘리고 가격을 30% 인하했다. 기존 영상을 대화로 수정하는 기능과 참조 이미지의 일관성도 개선해 광고 등 상업용 영상 제작에 활용할 수 있도록 했다.구글은 5일(현지시간) 동영상 생성 AI 모델 ‘제미나이 옴니 1.2 플래시(Gemini Omni 1.2 Flas…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217104",
+          "title": "구글, 15초 영상 생성 '제미나이 옴니 1.2' 출시…가격 30% 인하"
+        }
+      ]
+    },
+    {
+      "id": "2837367967aca41158cb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217097",
+      "title": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현",
+      "original_title": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현",
+      "published_at": "2026-11-06T07:10:19+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 개인용 AI 에이전트 '뮤즈(Muse)'에 실시간 음성 대화와 영상 통화 기능을 추가했다. 사용자는 화면 속 AI 아바타와 얼굴을 마주한 듯 대화할 수 있으며, 아바타는 대화 내용과 말투에 맞춰 표정과 몸짓을 바꾼다.메타는 5일(현지시간) '뮤즈 리얼타임 보이스(Muse Realtime Voice)'와 '뮤즈…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217097",
+          "title": "메타, 표정·몸짓으로 대화하는 'AI 아바타' 출시…실시간 영상 통화 구현"
+        }
+      ]
+    },
+    {
+      "id": "8c682ca5417f7813300f",
+      "url": "https://byline.network/2026/11/1105-14",
+      "title": "사규는 AI가 찾고 미국 증시는 AI가 요약한다…하나증권의 AI 실험",
+      "original_title": "사규는 AI가 찾고 미국 증시는 AI가 요약한다…하나증권의 AI 실험",
+      "published_at": "2026-11-06T06:59:40+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "하나증권이 인공지능(AI)을 활용한 사내 업무 효율화와 고객 서비스 확대에 나선다. 올해 AI 플랫폼을 구축하고 사규·법령 관련 질문에 답하는 AI 에이전트를 개발해 임직원 업무에 적용했다. 고객 서비스에서는 신규 모바일트레이딩시스템(MTS) ‘하나증권V’를 통해 AI 기반 투자정보 분석과 종목 추천 기능을 선보였다…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1105-14",
+          "title": "사규는 AI가 찾고 미국 증시는 AI가 요약한다…하나증권의 AI 실험"
+        }
+      ]
+    },
+    {
+      "id": "4c6ea686e4bd6a9be8a3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217098",
+      "title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제",
+      "original_title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제",
+      "published_at": "2026-11-06T06:57:11+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "미국 휴머노이드 로봇 기업 애질리티 로보틱스(Agility Robotics)가 나스닥에 상장했다. 미국에서 휴머노이드 로봇을 주력 사업으로 하는 기업이 증시에 입성한 첫 사례다. 엔비디아와 아마존, 소프트뱅크 등이 투자하고 실제 물류·제조 현장에 로봇을 공급하며 사업 기반을 확보했지만, 매출에 비해 적자 규모가 커 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217098",
+          "title": "애질리티, 미국 휴머노이드 기업 최초 나스닥 상장…수익성은 과제"
+        }
+      ]
+    },
+    {
+      "id": "1fcf3194d8205c32e5fe",
+      "url": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05",
+      "title": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
+      "original_title": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
+      "published_at": "2026-11-06T06:50:13+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Manya Saini / Reuters : NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M va…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/legal/transactional/ai-powered-insurance-startup-kalepa-valued-470-million-new-funding-round-2026-11-05",
+          "title": "NY-based Kalepa, whose AI platform supports insurance underwriting, pricing, and portfolio management, raised a $75M Series B led by Updata at a $470M valuation (Manya Saini/Reuters)",
+          "discussion_url": "https://www.techmeme.com/261106/p4"
+        }
+      ]
+    },
+    {
+      "id": "7d236f9a17164064c995",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217106",
+      "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+      "original_title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여",
+      "published_at": "2026-11-06T06:43:57+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국이 미국산 첨단 반도체 의존도를 낮추기 위해 엔비디아 칩 수입을 제한하면서 홍콩에 'H200' 칩 60만개가 묶여 있는 것으로 나타났다. 중국 기업들의 AI 연산 수요는 빠르게 늘고 있지만, 당국이 대규모 수입 승인을 보류하면서 공급이 막힌 상황이다.로이터는 5일(현지시간) 정통한 소식통들을 인용, 홍콩에 보관된…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217106",
+          "title": "중국, 엔비디아 H200 수입 제한…60만개 홍콩에 발 묶여"
+        }
+      ]
+    },
+    {
+      "id": "af6e9dcd22b25b89d93d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217101",
+      "title": "팔란티어, 신발 제조사 창신과 맞손…AI로 신발 제조 공정 혁신",
+      "original_title": "팔란티어, 신발 제조사 창신과 맞손…AI로 신발 제조 공정 혁신",
+      "published_at": "2026-11-06T06:40:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "팔란티어 테크놀로지스(PLTR)은 글로벌 신발 제조기업 창신INC와 개발·생산 운영 전반에 ‘파운드리’와 AI 플랫폼 ‘AIP’를 적용하는 파트너십을 체결했다고 6일 밝혔다.이번 협력으로 신발 개발과 샘플 기획부터 공장 생산까지 이어지는 정보와 업무 흐름을 연결해 창신의 각 팀이 전 과정을 한눈에 파악할 수 있도록 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217101",
+          "title": "팔란티어, 신발 제조사 창신과 맞손…AI로 신발 제조 공정 혁신"
+        }
+      ]
+    },
+    {
+      "id": "5abb565a9d0476ac315d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217103",
+      "title": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진",
+      "original_title": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진",
+      "published_at": "2026-11-06T06:37:07+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국의 문샷 AI가 엔비디아의 최신 AI 칩 '블랙웰'을 확보하기 위해 유럽 데이터센터를 통한 컴퓨팅 자원 임대를 추진하고 있다. 미국의 반도체 수출 규제를 우회해 대규모 GPU에 접근하려는 움직임으로, 해외 클라우드 서비스를 통한 중국 기업의 첨단 반도체 이용 문제가 다시 주목받고 있다.CNBC는 5일(현지시간) …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217103",
+          "title": "문샷AI, 엔비디아 블랙웰 확보 위해 유럽으로 눈 돌려...8000개 GPU 임대 추진"
+        }
+      ]
+    },
+    {
+      "id": "a83a56374fd6aa91bfb5",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "original_title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "published_at": "2026-11-06T06:28:32+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
+          "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
+        }
+      ]
+    },
+    {
+      "id": "16da5fad6550d67a8a73",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217102",
+      "title": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소",
+      "original_title": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소",
+      "published_at": "2026-11-06T06:09:02+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "'챗GPT'가 사용자의 남편을 살해하기 위한 독살 계획을 세우는 데 도움을 줬다는 주장으로 오픈AI가 소송을 당했다. 남편은 아내가 챗GPT와 대화하며 독성 물질의 치사량과 투여 방법, 범행 은폐 방법 등을 알아봤다고 주장했다. 아내에 대한 형사 사건은 증거 불충분으로 기각된 상태다.5일(현지시간) 블룸버그에 따르면…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217102",
+          "title": "\"아내가 챗GPT로 남편 독살 계획\"…오픈AI 피소"
+        }
+      ]
+    },
+    {
+      "id": "2f026d4fa82a211ae791",
+      "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+      "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)",
+      "original_title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)",
+      "published_at": "2026-11-06T05:40:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jada Nagumo / Nikkei Asia : Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikk…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://asia.nikkei.com/business/markets/taiwan-stocks-in-steepest-ever-fall-south-korea-halts-trading-amid-ai-rout",
+          "title": "Asian tech stocks plunge amid fears US Democrats may delay data centers; Taiwan's Taiex sees a record intraday point drop, Kospi falls 8.7%, and Nikkei 6.7% (Jada Nagumo/Nikkei Asia)",
+          "discussion_url": "https://www.techmeme.com/261106/p2"
+        }
+      ]
+    },
+    {
+      "id": "46b70bbf9483d510aafa",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42623",
+      "title": "AI 에이전트의 자율 행동까지 보안 검증…정부, 에이전틱 AI 제로트러스트 안내서 발간",
+      "original_title": "AI 에이전트의 자율 행동까지 보안 검증…정부, 에이전틱 AI 제로트러스트 안내서 발간",
+      "published_at": "2026-11-06T05:04:19+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능이 단순한 정보 생성과 분석을 넘어 외부 시스템에 접근하고 업무를 자율적으로 수행하는 에이전틱 AI(Agentic AI)로 발전하면서, AI 에이전트의 행동과 권한까지 지속적으로 검증하는 새로운 보안 기준이 마련됐다.AI 에이전트가 사용자의 지시를 받아 외부 도구를 호출하거나 다른 에이전트에 작업을 위임하는 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42623",
+          "title": "AI 에이전트의 자율 행동까지 보안 검증…정부, 에이전틱 AI 제로트러스트 안내서 발간"
+        }
+      ]
+    },
+    {
+      "id": "0acab40ef2b1f219c781",
+      "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
+      "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
+      "original_title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
+      "published_at": "2026-11-06T05:00:13+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Joel Khalili / Wired : Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure rai…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/finding-new-drugs-is-laborious-this-ai-startup-is-skipping-the-lab-work",
+          "title": "Potential Sciences, an AI startup building large-scale chemical data sets, secured backing from the UK's Sovereign AI Fund, as part of an eight-figure raise (Joel Khalili/Wired)",
+          "discussion_url": "https://www.techmeme.com/261106/p1"
+        }
+      ]
+    },
+    {
+      "id": "486a3fb98d40a76e9a29",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42622",
+      "title": "美 텍사스, AI 데이터센터 신규 개발 중단 추진…주지사 당선인, 주민 보호법 제정 전까지 제동",
+      "original_title": "美 텍사스, AI 데이터센터 신규 개발 중단 추진…주지사 당선인, 주민 보호법 제정 전까지 제동",
+      "published_at": "2026-11-06T04:32:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "미국 중간선거에서 민주당의 압승으로 인공지능(AI) 데이터센터 개발에 대한 정치적 압력이 커진 가운데, 미국의 주요 AI 인프라 투자 거점인 텍사스주에서 신규 데이터센터 개발을 중단하려는 움직임이 구체화되고 있다.현지시간 5일, 텍사스 주지사 선거에서 승리한 민주당 지나 이노호사(Gina Hinojosa, 52세) …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42622",
+          "title": "美 텍사스, AI 데이터센터 신규 개발 중단 추진…주지사 당선인, 주민 보호법 제정 전까지 제동"
+        }
+      ]
+    },
+    {
+      "id": "b2e861cf858b7f41178a",
+      "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent",
+      "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
+      "original_title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
+      "published_at": "2026-11-06T04:05:09+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Matthias Bastian / The Decoder : Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://the-decoder.com/googles-gemini-omni-1-2-flash-stretches-ai-video-clips-to-15-seconds-and-cuts-pricing-by-30-percent",
+          "title": "Google rolls out Gemini Omni 1.2 Flash, which creates clips up to 15 seconds, vs. 10 seconds with Omni 1.1, has better reference adherence, and costs 30% less (Matthias Bastian/The Decoder)",
+          "discussion_url": "https://www.techmeme.com/261105/p70"
+        }
+      ]
+    },
+    {
+      "id": "2cafcca93f6e88bfd644",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42621",
+      "title": "AI 확산 속 격차 더 커졌다…대기업 도입률 52%, 청년과 고령층 활용률 5배 차이",
+      "original_title": "AI 확산 속 격차 더 커졌다…대기업 도입률 52%, 청년과 고령층 활용률 5배 차이",
+      "published_at": "2026-11-06T03:35:20+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 기술이 산업과 일상 전반으로 빠르게 확산하고 있지만, 기업 규모와 연령에 따른 활용 격차는 여전히 큰 것으로 나타났다. 대기업의 절반 이상이 AI를 도입한 반면 전체 기업의 도입률은 20%에 머물렀으며, 청년층과 고령층의 생성형 AI 이용률은 약 5배 차이를 보였다.AI 인프라에 대한 투자는 급증하고…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42621",
+          "title": "AI 확산 속 격차 더 커졌다…대기업 도입률 52%, 청년과 고령층 활용률 5배 차이"
+        }
+      ]
+    },
+    {
+      "id": "2165b65a40c289be1bb3",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)",
+      "original_title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)",
+      "published_at": "2026-11-06T03:15:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Emma Roth / The Verge : Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simulta…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "title": "Perplexity rolls out Teammates, an always-on AI agent system that integrates with Computer to handle multiple roles and execute large-scale tasks simultaneously (Emma Roth/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261105/p69"
+        }
+      ]
+    },
+    {
+      "id": "bb8ae437875abce6af3c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42620",
+      "title": "\"로봇도 잘못된 기억 스스로 고친다\"…MIT, AI 기억의 불확실성 92% 해소한다",
+      "original_title": "\"로봇도 잘못된 기억 스스로 고친다\"…MIT, AI 기억의 불확실성 92% 해소한다",
+      "published_at": "2026-11-06T02:31:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "로봇이 주변 사물을 잘못 인식해 기억하더라도 스스로 오류를 찾아 수정할 수 있는 인공지능(AI) 기술이 개발됐다. 로봇이 이동하면서 같은 사물을 여러 각도에서 관찰하고, 기존 기억의 불확실성을 분석해 정보를 갱신하는 방식이다. 실험에서는 모호한 사물 설명의 약 92%를 해소해 피지컬 AI(Physical AI)의 신…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42620",
+          "title": "\"로봇도 잘못된 기억 스스로 고친다\"…MIT, AI 기억의 불확실성 92% 해소한다"
+        }
+      ]
+    },
+    {
+      "id": "e0e75c1bea37c4853334",
+      "url": "https://d2.naver.com/helloworld/0627744",
+      "title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크",
+      "original_title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크",
+      "published_at": "2026-11-06T02:04:33+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"어느 한 프레임워크가 독보적인 위치를 차지하지 않는 상태는 많은 이들에게 희망과 고통을 동시에 안겨준다.\" 2020년 글 은 이 문장으로 시작했습니다. 6년이 지난 지금, 이 문장은 절반만 맞습니다. 사용률로 보면 React는 독보적인 위치를 굳혔고, 고민은 '어떤 프레임워크를 고를까'에서 'React 위에서 어떤…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/0627744",
+          "title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크"
+        }
+      ]
+    },
+    {
+      "id": "f8738d827caef369d8c4",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42619",
+      "title": "오픈AI, “AI 데이터센터 전력 비용, 주민에 떠넘겨선 안 돼”…지역사회 책임 기준 제시",
+      "original_title": "오픈AI, “AI 데이터센터 전력 비용, 주민에 떠넘겨선 안 돼”…지역사회 책임 기준 제시",
+      "published_at": "2026-11-06T01:50:27+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)가 인공지능 데이터센터(AIDC) 건설과 운영에 따른 전력 비용을 지역 주민에게 전가하지 않고 개발기업이 직접 부담해야 한다는 원칙을 제시했다. 대규모 AI 인프라 확충으로 전력망 부담과 환경 문제가 커지는 가운데 주민들에게 사업계획 참여 기회를 보장하고, 일자리와 경제적 이익을 공유하는 방안도…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42619",
+          "title": "오픈AI, “AI 데이터센터 전력 비용, 주민에 떠넘겨선 안 돼”…지역사회 책임 기준 제시"
+        }
+      ]
+    },
+    {
+      "id": "835a9b8f88c3b27c4d97",
+      "url": "https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup",
+      "title": "Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far (The Information)",
+      "original_title": "Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far (The Information)",
+      "published_at": "2026-11-06T01:50:07+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Information : Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/airbnb-reveals-new-details-cheskys-secretive-ai-startup",
+          "title": "Filing: Airbnb discloses that it has the option to invest in and license tech from CEO Brian Chesky's stealth AI lab; source: Chesky has self-funded it so far (The Information)",
+          "discussion_url": "https://www.techmeme.com/261105/p67"
+        }
+      ]
+    },
+    {
+      "id": "16d964084b88dbc98f86",
+      "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+      "title": "Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year (Business Insider)",
+      "original_title": "Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year (Business Insider)",
+      "published_at": "2026-11-06T01:15:02+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Business Insider : Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last yea…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11",
+          "title": "Sources: Thinking Machines Lab is raising $5B led by Accel at a $40B pre-money valuation, more than tripling its valuation from its last public round last year (Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261105/p66"
+        }
+      ]
+    },
+    {
+      "id": "9546a0cae32ba7d76489",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42618",
+      "title": "과학자들의 AI 활용 20만7000건 분석했더니…데이터 분석·논문 작성에 집중, 실험 연구는 한계",
+      "original_title": "과학자들의 AI 활용 20만7000건 분석했더니…데이터 분석·논문 작성에 집중, 실험 연구는 한계",
+      "published_at": "2026-11-06T01:07:39+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 과학 연구 현장에 빠르게 확산되고 있지만, 실제 활용은 데이터 분석과 논문 작성 등 디지털 작업에 집중된 것으로 나타났다. 반면 새로운 연구 가설을 만들거나 실험 데이터를 직접 수집하는 업무에서는 활용도가 상대적으로 낮았다.AI가 과학자의 연구를 지원하는 도구로 자리 잡고 있지만, 독립적으로 과학적 발견을…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42618",
+          "title": "과학자들의 AI 활용 20만7000건 분석했더니…데이터 분석·논문 작성에 집중, 실험 연구는 한계"
+        }
+      ]
+    },
+    {
+      "id": "b70ccc602d586241f3b4",
+      "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
+      "title": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out (Artificial Analysis)",
+      "original_title": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out (Artificial Analysis)",
+      "published_at": "2026-11-06T00:55:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Artificial Analysis : Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are ou…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://artificialanalysis.ai/articles/thinking-machines-releases-inkling-2-small-highest-scoring-open-weights-model-outside-of-chinia-upon-weights-release-it",
+          "title": "Artificial Analysis says Inkling 2 Small matches Gemini 3.8 Flash (high) in its index and would be the top open model outside China once its weights are out (Artificial Analysis)",
+          "discussion_url": "https://www.techmeme.com/261105/p65"
+        }
+      ]
+    },
+    {
+      "id": "d3918deefa2705fca298",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42617",
+      "title": "AI 에이전트 실행 밀도 10배 높인다…구글, 자율형 AI 인프라 3종 오픈소스로 공개",
+      "original_title": "AI 에이전트 실행 밀도 10배 높인다…구글, 자율형 AI 인프라 3종 오픈소스로 공개",
+      "published_at": "2026-11-06T00:51:39+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 자율형 인공지능(AI) 에이전트를 대규모로 운영하면서 컴퓨팅 자원 낭비를 줄이고 보안성을 높일 수 있는 새로운 오픈소스 인프라를 공개했다. 기존 컨테이너 방식보다 최대 10배 높은 실행 환경 밀도를 구현하고, 사용하지 않는 에이전트의 상태를 저장했다가 0.5초 이내에 복원하는 기술을 통해 수백만 개의 AI 에…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42617",
+          "title": "AI 에이전트 실행 밀도 10배 높인다…구글, 자율형 AI 인프라 3종 오픈소스로 공개"
+        }
+      ]
+    },
+    {
+      "id": "13e4c95dcbaa6d34090e",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "title": "Open ASR 리더보드에 이집트·나이지리아 영어 억양 추가",
+      "original_title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard"
+        }
+      ],
+      "summary": "Open ASR 리더보드에 Liva AI와의 협업으로 이집트와 나이지리아 억양의 비공개 데이터가 추가되었다. 이집트 데이터는 1.34시간, 나이지리아 데이터는 1.55시간의 대화형 자연 발화로 구성되며, 구두점·대소문자·비유창성이 포함되어 있다. 리더보드는 이제 Kachru의 세 원을 기반으로 미국 대 비미국, 내부 원 대 외부·확장 원으로 억양을 구분해 보고한다.",
+      "why_it_matters": "ASR 평가에서 다양한 억양과 비공개 데이터의 비중이 커지면서, 특정 데이터에 과도하게 맞춘 성능 평가를 줄이고 실제 사용 환경의 다양성을 반영하려는 흐름이 이어진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-06T10:31:03+00:00",
+        "input_hash": "4ff9239a8af334775da7fdc55e32470d6ba2f9d5dcf875d2d3a1fc056ee8cf3c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "1121cf54e69f72cb6b4f",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "original_title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "published_at": "2026-11-05T22:40:55+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
+          "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027"
+        }
+      ]
+    },
+    {
+      "id": "d1043c057c6734b8943c",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts",
+      "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "original_title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+      "published_at": "2026-11-05T21:30:30+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Micr…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts",
+          "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts"
+        }
+      ]
+    },
+    {
       "id": "0d8f15ece0a838f7774c",
       "url": "https://github.com/paoloviviani/Cerea",
       "title": "Show HN: Cerea – yet another self-hosted LLM chat front end",
@@ -170,6 +1154,26 @@
       ]
     },
     {
+      "id": "3b60cb97938488b00337",
+      "url": "https://byline.network/2026/11/05_398172-2",
+      "title": "AI 에이전트 제휴사 늘리지 못하던 카카오의 해법은?",
+      "original_title": "AI 에이전트 제휴사 늘리지 못하던 카카오의 해법은?",
+      "published_at": "2026-11-05T20:49:33+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "카카오가 인공지능(AI) 서비스 확산 속도가 시장 기대에 미치지 못했다고 인정했다. 카카오톡을 중심으로 에이전틱 AI 사업을 추진하고 있지만, 실제 외부 서비스를 연결하는 과정에서 예상보다 많은 어려움을 확인했다. 이에 카카오는 카카오톡 AI 에이전트가 이용할 수 있는 외부 서비스를 빠르게 늘리기 위해 연동 전략을 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/05_398172-2",
+          "title": "AI 에이전트 제휴사 늘리지 못하던 카카오의 해법은?"
+        }
+      ]
+    },
+    {
       "id": "1d40731d5054307517e4",
       "url": "https://www.dw.com/en/could-ai-give-nfts-a-second-chance/a-79840593",
       "title": "Could AI give NFTs a second chance?",
@@ -292,6 +1296,26 @@
           "url": "https://www.theinformation.com/articles/nvidias-workaround-data-center-backlash-retrofitting-old-telephone-buildings",
           "title": "Sources: Nvidia approached Apollo about retrofitting some of the 130+ buildings of the PE firm's struggling ISP Brightspeed into a network of small data centers (The Information)",
           "discussion_url": "https://www.techmeme.com/261105/p50"
+        }
+      ]
+    },
+    {
+      "id": "bbd492caba72ca544b8b",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "original_title": "Cult.fit builds operational muscle with Codex",
+      "published_at": "2026-11-05T20:00:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/cultfit-builds-with-codex",
+          "title": "Cult.fit builds operational muscle with Codex"
         }
       ]
     },
@@ -588,6 +1612,26 @@
           "url": "https://www.bloomberg.com/news/articles/2026-11-05/shield-ai-to-hit-28-8-billion-value-with-5-3-billion-radar-acquisition?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzg5OTA0OSwiZXhwIjoxNzk0NTAzODQ5LCJhcnRpY2xlSWQiOiJUTzFEUzNLR1pBS08wMCIsImJjb25uZWN0SWQiOiJBNzk0Njg5OUJFOTM0RjdGQjhDOUU2M0QyMDg5QkRDNyJ9.AdPk0mY4ldQbPF-EY6uZ6LmjXfuvdxPYm4H767nRsKY",
           "title": "Defense tech startup Shield AI raises $2.5B to help acquire radar company Echodyne, including a $1B Series H at a $28.8B valuation, up from $12.7B in March (Rebecca Torrence/Bloomberg)",
           "discussion_url": "https://www.techmeme.com/261105/p39"
+        }
+      ]
+    },
+    {
+      "id": "616c68177b707eae60eb",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "title": "Australian universities are creating AI-native graduates",
+      "original_title": "Australian universities are creating AI-native graduates",
+      "published_at": "2026-11-05T17:00:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+          "title": "Australian universities are creating AI-native graduates"
         }
       ]
     },
@@ -1271,6 +2315,26 @@
       ]
     },
     {
+      "id": "db9792e954d447010915",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "original_title": "Merge builds product and business tools with OpenAI technology",
+      "published_at": "2026-11-05T08:00:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/merge-builds-with-openai",
+          "title": "Merge builds product and business tools with OpenAI technology"
+        }
+      ]
+    },
+    {
       "id": "64b3794126fecf0d5408",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217069",
       "title": "[게시판] LG, 안전보건 컨퍼런스서 AI 활용 사례 15건 공유 등 단신",
@@ -1908,6 +2972,26 @@
       ]
     },
     {
+      "id": "2d1d326185a62641bed0",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "original_title": "Flipsnack grows product signups with conversion optimization",
+      "published_at": "2026-11-05T00:45:15+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/ads/customers/flipsnack",
+          "title": "Flipsnack grows product signups with conversion optimization"
+        }
+      ]
+    },
+    {
       "id": "c65c7708e93995ca4541",
       "url": "https://huggingface.co/blog/phonon-tts",
       "title": "Phonon TTS, 온디바이스 음성 합성 모델 공개…허깅페이스 리더보드 상위권 기록",
@@ -1935,6 +3019,26 @@
         "input_hash": "bd925517d0fca0f853bb94c9ec4293f270534fa8864e3bc33bfb318149ec3614",
         "evidence_verified": true
       }
+    },
+    {
+      "id": "a8e215d1c3fca63aee0f",
+      "url": "https://openai.com/index/franklin-templeton",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "original_title": "Franklin Templeton uses OpenAI to support investment research",
+      "published_at": "2026-11-05T00:00:00+00:00",
+      "collected_at": "2026-11-06T10:30:31+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/franklin-templeton",
+          "title": "Franklin Templeton uses OpenAI to support investment research"
+        }
+      ]
     },
     {
       "id": "5523ef782a102f9407e4",
