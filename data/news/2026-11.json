@@ -3,6 +3,646 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e0c8b4541e0b5e8be31a",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "title": "AI is dramatically accelerating AI research",
+      "original_title": "AI is dramatically accelerating AI research",
+      "published_at": "2026-11-06T20:27:23+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "title": "AI is dramatically accelerating AI research",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397994"
+        }
+      ]
+    },
+    {
+      "id": "264e23a15862b0942bb7",
+      "url": "https://antigravity.google/blog/modernizing-40-year-old-scientific-code-with-gemini-4-argon",
+      "title": "Modernising 40-year-old scientific code with Gemini 4 Argon",
+      "original_title": "Modernising 40-year-old scientific code with Gemini 4 Argon",
+      "published_at": "2026-11-06T20:25:54+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://antigravity.google/blog/modernizing-40-year-old-scientific-code-with-gemini-4-argon",
+          "title": "Modernising 40-year-old scientific code with Gemini 4 Argon",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397967"
+        }
+      ]
+    },
+    {
+      "id": "a6f5d7b7235f4ebe9fec",
+      "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+      "title": "AI Text Watermarking May Not Be Able to Meet the E.U.'S New Rules",
+      "original_title": "AI Text Watermarking May Not Be Able to Meet the E.U.'S New Rules",
+      "published_at": "2026-11-06T20:24:46+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://spectrum.ieee.org/ai-watermark-openai-textgrain-europe",
+          "title": "AI Text Watermarking May Not Be Able to Meet the E.U.'S New Rules",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397951"
+        }
+      ]
+    },
+    {
+      "id": "09fa5f5c7742a60dd1b2",
+      "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs",
+      "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "original_title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+      "published_at": "2026-11-06T20:24:19+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploi…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs",
+          "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs"
+        }
+      ]
+    },
+    {
+      "id": "0369c889a90d881c75fc",
+      "url": "https://pleasedonotescape.com/",
+      "title": "Pleasedonotescape.com: A dataset of sandboxes for AI coding agents",
+      "original_title": "Pleasedonotescape.com: A dataset of sandboxes for AI coding agents",
+      "published_at": "2026-11-06T20:01:01+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pleasedonotescape.com/",
+          "title": "Pleasedonotescape.com: A dataset of sandboxes for AI coding agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397594"
+        }
+      ]
+    },
+    {
+      "id": "afebf1602b7983932e8e",
+      "url": "https://www.youtube.com/watch?v=gQvQ2NanBTI",
+      "title": "Meat Proxy – Claude Opus 5.5 music video",
+      "original_title": "Meat Proxy – Claude Opus 5.5 music video",
+      "published_at": "2026-11-06T19:56:04+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=gQvQ2NanBTI",
+          "title": "Meat Proxy – Claude Opus 5.5 music video",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397516"
+        }
+      ]
+    },
+    {
+      "id": "0f2f7b2b685d81445e93",
+      "url": "https://www.youtube.com/watch?v=WLYW6BPkkIk",
+      "title": "Will AI Kill Mathematics?",
+      "original_title": "Will AI Kill Mathematics?",
+      "published_at": "2026-11-06T19:55:14+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=WLYW6BPkkIk",
+          "title": "Will AI Kill Mathematics?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397506"
+        }
+      ]
+    },
+    {
+      "id": "e5ba507419cb92c2bc9a",
+      "url": "https://blog.jetbrains.com/go/2026/11/06/we-gave-ai-agents-goland-s-profiler-they-found-the-same-bottlenecks-with-half-the-tokens",
+      "title": "GoLand's Profiler Now Works with AI Agents – The JetBrains Blog",
+      "original_title": "GoLand's Profiler Now Works with AI Agents – The JetBrains Blog",
+      "published_at": "2026-11-06T19:42:20+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.jetbrains.com/go/2026/11/06/we-gave-ai-agents-goland-s-profiler-they-found-the-same-bottlenecks-with-half-the-tokens",
+          "title": "GoLand's Profiler Now Works with AI Agents – The JetBrains Blog",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397346"
+        }
+      ]
+    },
+    {
+      "id": "a0a44ed09dc9a1089b4e",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+      "original_title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+      "published_at": "2026-11-06T19:41:59+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI's systems – OpenAI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397341"
+        },
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
+        }
+      ]
+    },
+    {
+      "id": "5029d1b20ac1b626f2ea",
+      "url": "https://psi.inc/research/aaronson-ambainis",
+      "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
+      "original_title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
+      "published_at": "2026-11-06T19:35:01+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "PSI : AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 — The Aaron…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://psi.inc/research/aaronson-ambainis",
+          "title": "AI physics startup PSI says a system running a non-public Anthropic model proved the Aaronson-Ambainis conjecture, a quantum computing question open since 2008 (PSI)",
+          "discussion_url": "https://www.techmeme.com/261106/p20"
+        }
+      ]
+    },
+    {
+      "id": "4ea06a8f19e50ab1740a",
+      "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+      "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "original_title": "OpenAI bugging suspect Alfozan pleads not guilty",
+      "published_at": "2026-11-06T19:31:17+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/06/openai-bugging-alfozan-saudi.html",
+          "title": "OpenAI bugging suspect Alfozan pleads not guilty",
+          "discussion_url": "https://news.ycombinator.com/item?id=50397188"
+        }
+      ]
+    },
+    {
+      "id": "0b47ae94b8dc6c928b08",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "original_title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "published_at": "2026-11-06T18:44:38+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web"
+        }
+      ]
+    },
+    {
+      "id": "a8fc5de6487f58f91f0a",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "original_title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "published_at": "2026-11-06T18:44:20+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent"
+        }
+      ]
+    },
+    {
+      "id": "79a5e58d3011a1a35124",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+      "title": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)",
+      "original_title": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)",
+      "published_at": "2026-11-06T18:05:03+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Brody Ford / Bloomberg : Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvid…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+          "title": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261106/p18"
+        }
+      ]
+    },
+    {
+      "id": "581dcf5cabc7cf1758ba",
+      "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective",
+      "title": "엔비디아, RL 가중치 리핏용 Reshard 집합통신 공개",
+      "original_title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective",
+      "published_at": "2026-11-06T18:03:26+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "During reinforcement learning (RL) post-training, training trajectories are generated on the fly by running inference with the current policy model. For... During reinforcement …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/accelerating-reinforcement-learning-weight-refit-with-the-reshard-collective",
+          "title": "Accelerating Reinforcement Learning Weight Refit with the Reshard Collective"
+        }
+      ],
+      "summary": "엔비디아는 RL 후학습에서 훈련 GPU와 추론 GPU 간 모델 가중치를 전송하는 리핏(refit) 작업을 가속하기 위한 새로운 집합통신 방식인 Reshard를 소개했다. 기존 gather-and-broadcast 방식은 전체 파라미터를 중간 표현으로 사용해 모델 크기에 비례하는 중복 통신이 발생하며, 회사는 Kimi K3(2.8조 파라미터)와 Qwen 3.8 2.4T A95B(2.4조 파라미터)의 BF16 가중치 기준 리핏 페이로드가 각각 약 11.2TB, 9.6TB에 이른다고 추정했다. Reshard는 DTensor-to-DTensor 재샤딩으로 리핏을 재정식화하고, NCCL M2N Reshard 오픈소스 참조 구현을 NVIDIA/nccl-extensions GitHub 저장소를 통해 제공한다.",
+      "why_it_matters": "모델 규모가 커질수록 리핏 통신량이 커지는 문제를 겨냥한 접근으로, RL 후학습 인프라 효율에 영향을 줄 수 있다. 다만 성능 수치는 엔비디아 발표 기준이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-06T20:43:08+00:00",
+        "input_hash": "7edb909723eb5935ca2c75814a38a922d95daa0bf9ae100dfc98528da548a79c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "94d3f146301ece8ef609",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "original_title": "How a Blue Wave midterm might reshape the AI industry",
+      "published_at": "2026-11-06T18:00:00+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+          "title": "How a Blue Wave midterm might reshape the AI industry"
+        }
+      ]
+    },
+    {
+      "id": "84e6c7e1edd2aa71122f",
+      "url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818",
+      "title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)",
+      "original_title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)",
+      "published_at": "2026-11-06T17:35:00+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rebecca Cohen / NBC News : The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nbcnews.com/news/us-news/3-foreign-nationals-allegedly-used-ai-mimic-ceos-129m-scheme-doj-says-rcna607818",
+          "title": "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)",
+          "discussion_url": "https://www.techmeme.com/261106/p17"
+        }
+      ]
+    },
+    {
+      "id": "2563b3e6ff404ee380cc",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "original_title": "After the midterms, is the AI industry in for a rough two years?",
+      "published_at": "2026-11-06T17:23:52+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+          "title": "After the midterms, is the AI industry in for a rough two years?"
+        }
+      ]
+    },
+    {
+      "id": "b7aa5d4fa5c79c451bb7",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
+      "title": "Nilay Patel, AI 제품의 비용 대비 효용과 산업의 문제점 비판",
+      "original_title": "Quoting Nilay Patel",
+      "published_at": "2026-11-06T17:13:12+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
+          "title": "Quoting Nilay Patel"
+        }
+      ],
+      "summary": "Nilay Patel은 The Vergecast에서 AI 제품이 비용을 정당화할 만큼 충분히 좋지 않으며, 데이터센터 소음과 딥페이크 쓰레기 같은 비용을 감수할 가치가 없다고 주장했다. 그는 에이전트가 현실적이지 않고 기업들이 수익보다 더 많은 지출을 하고 있으며, 유럽의 혈액 보관 냉장고 해킹 사례를 언급하며 비용은 너무 높고 혜택은 실제적이지 않다고 말했다. 또한 AI 산업이 더 나은 제품을 만들기 전까지는 이러한 문제에서 벗어나지 못할 것이라고 덧붙였다.",
+      "why_it_matters": "AI 산업의 지속 가능성에 대한 회의론과 제품 중심 접근의 필요성을 제기하는 발언으로, 업계의 비용 구조와 사회적 영향에 대한 논의를 촉발할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-06T20:43:04+00:00",
+        "input_hash": "8e750d6b5c1122606c0cc20cca526b15727ea20d8baab44b604dddf653f6b1ee",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "97dac9d9308d381a4657",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "original_title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "published_at": "2026-11-06T15:54:47+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
+          "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO"
+        }
+      ]
+    },
+    {
+      "id": "812317b374ee65348502",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
+      "title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)",
+      "original_title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)",
+      "published_at": "2026-11-06T15:51:06+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Maggie Eastland / Bloomberg : Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-s-ai-chip-exports-emerge-as-target-in-democratic-congress",
+          "title": "Democrats, with Elizabeth Warren a top contender to chair Senate Banking, are poised to step up oversight of Nvidia over chip exports and circular financing (Maggie Eastland/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261106/p15"
+        }
+      ]
+    },
+    {
+      "id": "fb2a2c729bba491d675b",
+      "url": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending",
+      "title": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due to the AI boom (Qianer Liu/The Information)",
+      "original_title": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due to the AI boom (Qianer Liu/The Information)",
+      "published_at": "2026-11-06T15:05:48+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Qianer Liu / The Information : Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due t…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/tsmc-weighs-making-advanced-memory-chips-capture-ai-spending",
+          "title": "Sources: TSMC is considering expanding into manufacturing 3D DRAM at the request of Nvidia, its biggest customer, amid memory chip shortages due to the AI boom (Qianer Liu/The Information)",
+          "discussion_url": "https://www.techmeme.com/261106/p13"
+        }
+      ]
+    },
+    {
+      "id": "a2da78973cfb02f6b88c",
+      "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+      "title": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)",
+      "original_title": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)",
+      "published_at": "2026-11-06T14:25:00+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Emmy Martin / New York Times : Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/06/technology/microsoft-buyouts.html",
+          "title": "Employees at Microsoft, long known for its stability, are grappling with its decision to offer buyouts to 60,000 people as its spending priorities shift to AI (Emmy Martin/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261106/p12"
+        }
+      ]
+    },
+    {
+      "id": "63e1c5c982d992554201",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "original_title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "published_at": "2026-11-06T14:10:00+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amazon said that the feature will roll out to millions of users in coming weeks.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
+          "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop"
+        }
+      ]
+    },
+    {
+      "id": "5a90caffb2c87d2e6e8e",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "original_title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "published_at": "2026-11-06T14:00:48+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/toyblocks",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation"
+        }
+      ]
+    },
+    {
+      "id": "6c0bae3f849c2423abb9",
+      "url": "https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883",
+      "title": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)",
+      "original_title": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)",
+      "published_at": "2026-11-06T13:20:44+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Eric Geller / Cybersecurity Dive : Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, pro…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cybersecuritydive.com/news/congress-cybersecurity-democrats-agenda-cisa-ai/873883",
+          "title": "Experts say the new Democratic congressional majority will likely seek to rebuild CISA, prioritize AI security, revive local cyber grants, probe DOGE, and more (Eric Geller/Cybersecurity Dive)",
+          "discussion_url": "https://www.techmeme.com/261106/p11"
+        }
+      ]
+    },
+    {
+      "id": "a128386b25427955b1c0",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "original_title": "Underdog shows off a 32MB speech model in new demo",
+      "published_at": "2026-11-06T13:02:16+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Despite its small size, Underdog's new model can generate both speech and music.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo",
+          "title": "Underdog shows off a 32MB speech model in new demo"
+        }
+      ]
+    },
+    {
+      "id": "9a6eee5802a8318dc190",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "original_title": "Physicl raises $10M to make the digital world real enough for robots",
+      "published_at": "2026-11-06T13:00:00+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
+          "title": "Physicl raises $10M to make the digital world real enough for robots"
+        }
+      ]
+    },
+    {
+      "id": "62d0bc6225b51656ea32",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
+      "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
+      "original_title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
+      "published_at": "2026-11-06T11:30:01+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mackenzie Hawkins / Bloomberg : Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/nvidia-boosts-chip-tracking-in-southeast-asia-to-fight-smuggling",
+          "title": "Sources: Nvidia is requiring Southeast Asian customers seeking Nvidia Cloud Partner status to enroll in a program that tracks the locations of their AI chips (Mackenzie Hawkins/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261106/p8"
+        }
+      ]
+    },
+    {
+      "id": "e511b1b6ee7ce1bf4d8f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
+      "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
+      "original_title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
+      "published_at": "2026-11-06T10:35:18+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "국내 인공지능(AI) 기업 예진(대표 고종현)이 해외 공개 모델의 가중치를 활용하지 않고 처음부터 자체 학습한 한국어 특화 80억 매개변수(8B)급 파운데이션 모델을 개발했다. 약 1,384억 토큰을 학습하고 24GB급 그래픽처리장치(GPU) 한 장으로 구동할 수 있도록 설계해 기업과 공공기관의 AI 도입 비용을 낮…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
+          "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동"
+        }
+      ]
+    },
+    {
       "id": "c3f9b6f32e661047fa9b",
       "url": "https://grafista.io/blog/posts/why-we-are-building-an-ai-design-tool-that-skips-the-prompt",
       "title": "We are building an AI design tool that skips the prompt",
@@ -914,6 +1554,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42617",
           "title": "AI 에이전트 실행 밀도 10배 높인다…구글, 자율형 AI 인프라 3종 오픈소스로 공개"
+        }
+      ]
+    },
+    {
+      "id": "5f721228af3682c2417b",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "original_title": "Measuring how AI agents handle everyday wet-lab science",
+      "published_at": "2026-11-06T00:00:00+00:00",
+      "collected_at": "2026-11-06T20:42:41+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "title": "Measuring how AI agents handle everyday wet-lab science"
         }
       ]
     },
