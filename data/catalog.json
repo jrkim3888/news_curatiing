@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updated_at": "2026-11-05T21:22:20+00:00",
+  "updated_at": "2026-11-06T01:45:25+00:00",
   "collection_slot": "2026-11-05T21:00:00+00:00",
   "news": {
     "2026-10": {
@@ -36,7 +36,7 @@
     },
     "2026-11": {
       "count": 476,
-      "sha256": "2877e80521547a6bd1a7489c1a8e7427c0b0172eeab47327b6e2dab3c6f8521f",
+      "sha256": "efe65d20aba047c78da0aff0f3b2a6c47f8e0c1f6d7bd2a4cd0c581ff46f936e",
       "days": [
         "2026-11-01",
         "2026-11-02",
@@ -53,8 +53,8 @@
       "sha256": "669f831ce976956013472c4d1eabc5103433f8f0beacebc8d815100531254b80"
     },
     "2026-11": {
-      "count": 4,
-      "sha256": "f38458a029ca0cc29ff712f714392d2eebc046f6f966cb70aefdfeaf1a87579f"
+      "count": 5,
+      "sha256": "98bfc528c5fedbcbdedd214a0849b71334e5fc365c0c3a0f813450a7ff90e5fd"
     }
   },
   "editorial": {

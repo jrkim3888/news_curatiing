@@ -594,14 +594,14 @@
     {
       "id": "5ef5685b9690ae6c5fed",
       "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
-      "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+      "title": "엔비디아, 쿠버네티스 GPU 클러스터 운영 도구 DSX OS 소개",
       "original_title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
       "published_at": "2026-11-05T17:00:00+00:00",
       "collected_at": "2026-11-05T21:21:25+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "One underperforming GPU can slow an entire distributed training job. The node may pass basic health checks and show normal utilization, leaving operators to... One underperformi…",
       "sources": [
         {
@@ -609,19 +609,29 @@
           "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
           "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS"
         }
-      ]
+      ],
+      "summary": "엔비디아가 AI 팩토리 플랫폼의 오픈소스 소프트웨어 계층인 DSX OS를 소개하며 GPU 클러스터 구성·인증·운영 도구를 공개했습니다. AICR, NVCRE, NVSentinel 세 도구는 아파치 2.0 라이선스의 오픈소스 프로젝트로 외부 기여를 받습니다.",
+      "why_it_matters": "GPU 클러스터의 상태를 반복 검증하는 도구는 분산 학습의 성능 저하와 자원 낭비를 줄이는 데 도움이 될 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-06T01:45:25+00:00",
+        "briefing_day": "2026-11-06",
+        "input_hash": "b37489273e3c1ea4b8fc89b71737c49d293bdb5b1f37153f922b2a664871b802",
+        "evidence_verified": true
+      }
     },
     {
       "id": "485654c1f98a7cdcb606",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "title": "구글, 제미니 옴니 1.2 플래시 공개",
       "original_title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "published_at": "2026-11-05T17:00:00+00:00",
       "collected_at": "2026-11-05T21:21:25+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.…",
       "sources": [
         {
@@ -634,7 +644,17 @@
           "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
           "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
         }
-      ]
+      ],
+      "summary": "구글이 15초 영상 생성과 다중 턴 대화형 편집, 향상된 참조 준수를 지원하는 제미니 옴니 1.2 플래시를 공개했습니다. 제미니 옴니 1.1 대비 가격을 30% 인하해 720p 영상 기준 초당 0.07달러에 제공하며, 제미니 API와 구글 클라우드에서 일반 제공합니다.",
+      "why_it_matters": "영상 생성 비용과 편집 방식이 개선되면 기업이 대량의 영상 콘텐츠를 제작하는 부담이 줄어들 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-06T01:45:25+00:00",
+        "briefing_day": "2026-11-06",
+        "input_hash": "7eedbc92660ca851843b3a92fa4f1fbeb075c61cb0f09381c1fcb67611e301a9",
+        "evidence_verified": true
+      }
     },
     {
       "id": "9a1f2f6f2756d2c6b535",
@@ -708,14 +728,14 @@
     {
       "id": "56d9b68ee4b718c28535",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
-      "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+      "title": "최태원 회장, AI 네이티브 국가 전환 강조",
       "original_title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
       "published_at": "2026-11-05T14:45:19+00:00",
       "collected_at": "2026-11-05T21:21:25+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "최태원 SK그룹 회장이 인공지능(AI) 혁명과 미국·중국의 패권 경쟁으로 세계 경제질서가 근본적으로 재편되고 있다며, 한국이 기존 경제성장 모델에서 벗어나 ‘AI 네이티브 국가(AI Native Nation)’로 전환해야 한다고 강조했다.특히 AI를 중심으로 여러 산업에서 혁신이 동시에 발생하는 상황에서 전통적인 경…",
       "sources": [
         {
@@ -723,7 +743,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
           "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야"
         }
-      ]
+      ],
+      "summary": "최태원 SK그룹 회장이 서울대 특별강연에서 한국이 기존 경제성장 모델에서 벗어나 'AI 네이티브 국가'로 전환해야 한다고 강조했습니다. 에너지, 반도체, AI 데이터센터, 대형언어모델, 애플리케이션을 전략 분야로 꼽고 신자본주의와 한일 경제연대, 성장 인센티브 등 추가 전략을 제시했습니다.",
+      "why_it_matters": "AI 산업 생태계 전반의 경쟁력 확보를 주장한 만큼, 국내 산업·정책 논의에 영향을 줄 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-06T01:45:25+00:00",
+        "briefing_day": "2026-11-06",
+        "input_hash": "748d7f0407c57faf63ffb15b31f89e45eef6ba03e9749a2ee58a774875200261",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ec1966491ff28b1901b2",
@@ -919,14 +949,14 @@
     {
       "id": "98b0d4e0011d135c215d",
       "url": "https://byline.network/2026/11/1105-11",
-      "title": "인피니언, 1MW 데이터센터 시대 겨냥한 전력 기술 공개",
+      "title": "인피니언, 1MW 데이터센터 겨냥 전력 기술 공개",
       "original_title": "인피니언, 1MW 데이터센터 시대 겨냥한 전력 기술 공개",
       "published_at": "2026-11-05T09:33:01+00:00",
       "collected_at": "2026-11-05T10:26:53+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인공지능(AI) 연산 수요가 증가하면서 그래픽처리장치(GPU)의 전력 소비도 빠르게 늘고 있다. 최근 대규모 언어 모델(LLM)과 AI 연산에 사용되는 GPU 한 개의 전력 소비량은 기존 1000와트(W) 수준에서 2000W, 나아가 3000~4000W 이상으로 증가하는 추세다. 이에 따라 서버 여러 대가 모인 데이…",
       "sources": [
         {
@@ -934,7 +964,17 @@
           "url": "https://byline.network/2026/11/1105-11",
           "title": "인피니언, 1MW 데이터센터 시대 겨냥한 전력 기술 공개"
         }
-      ]
+      ],
+      "summary": "인피니언이 서울 기자간담회에서 AI 데이터센터의 전력 밀도 개선을 위한 차세대 전력 공급 아키텍처를 발표했습니다. 두께 3밀리미터 미만의 초슬림 수직 전력 공급 모듈 로드맵과 랙당 1메가와트 전력 공급을 목표로 하는 3세대 구조를 제시했습니다.",
+      "why_it_matters": "GPU 전력 소비가 커질수록 전력 전달 손실과 발열을 줄이는 기술이 데이터센터 운영 비용과 안정성에 영향을 줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-06T01:45:25+00:00",
+        "briefing_day": "2026-11-06",
+        "input_hash": "b90712c83b73b6a2a60f6df0c2ec8084be452c8c4f760c2724cf01aa197513f5",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ea1f98addcd3cece61d3",
@@ -960,14 +1000,14 @@
     {
       "id": "64c545ff7f2c34b86b8c",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
-      "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
+      "title": "앤트로픽, 응답 검증 기술 플래시프루브 공개",
       "original_title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
       "published_at": "2026-11-05T09:18:08+00:00",
       "collected_at": "2026-11-05T10:26:53+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "앤트로픽이 이용자가 받은 답변을 약속된 AI 모델이 생성했는지 수학적으로 검증하는 오픈소스 기술을 공개했다. 모델 가중치를 노출하지 않고도 서비스 업체의 모델 바꿔치기나 응답 조작을 확인할 수 있다.앤트로픽은 2일(현지시간) AI 추론 결과의 신뢰성을 검증하는 시스템 '플래시프루브(FlashProve)'를 공개했다.…",
       "sources": [
         {
@@ -975,7 +1015,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
           "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도"
         }
-      ]
+      ],
+      "summary": "앤트로픽이 모델 가중치를 노출하지 않고 응답이 지정한 모델의 계산 결과인지 확인하는 오픈소스 기술 플래시프루브를 공개했습니다. 영지식 증명을 활용하며, 개발 과정에서 클로드가 증명 시스템의 계산 효율을 높였다고 밝혔습니다. 다만 증명 생성 비용이 일반 연산의 70~95배에 달하는 등 상용 적용에는 한계가 있습니다.",
+      "why_it_matters": "AI 서비스가 실제로 어떤 모델을 쓰는지 확인하려는 시도는 모델 바꿔치기나 평가 조작을 검증하는 기반이 될 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-06T01:45:25+00:00",
+        "briefing_day": "2026-11-06",
+        "input_hash": "e70cae623870e31de511fc0f934c97198a05b00623528a690a0b4e9f8a8ac1c1",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5e0c14dfdae96ea84c31",
@@ -1566,14 +1616,14 @@
     {
       "id": "bf35e59cfc36dbfeae14",
       "url": "https://d2.naver.com/helloworld/5037598",
-      "title": "worklog-system 주간보고 자동화 구축 경험기",
+      "title": "네이버, 주간보고 자동화 시스템 구축 경험 공개",
       "original_title": "worklog-system 주간보고 자동화 구축 경험기",
       "published_at": "2026-11-05T04:50:54+00:00",
       "collected_at": "2026-11-05T10:26:53+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ worklog-system 주간보고 자동화 구축 경험기 NAVER D2 | worklog-system 주간보고 자동화 구축 경험기 naver.me 발표 내용 대 AI 시대에 본인의 업무 기록을 수집하…",
       "sources": [
         {
@@ -1581,7 +1631,17 @@
           "url": "https://d2.naver.com/helloworld/5037598",
           "title": "worklog-system 주간보고 자동화 구축 경험기"
         }
-      ]
+      ],
+      "summary": "네이버가 사내 기술 교류 행사 NAVER Engineering Day에서 주간보고 자동화 시스템 구축 경험을 공개했습니다. 업무 기록 수집과 재택·사무실 환경의 기록 누락, 중앙 서버 없이 업무 도구로 확장한 과정을 다룹니다.",
+      "why_it_matters": "반복적인 업무 기록과 보고를 자동화하려는 조직에 참고할 수 있는 사례입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-06T01:45:25+00:00",
+        "briefing_day": "2026-11-06",
+        "input_hash": "f0ee8a4de40ef7994b8f318060eb262e39c6d1c773a407eb7f5dd375708ff8a0",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6fccf7e18408a94a87c0",

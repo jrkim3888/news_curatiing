@@ -3,6 +3,294 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-06",
+      "day": "2026-11-06",
+      "scheduled_at": "2026-11-05T21:30:00+00:00",
+      "generated_at": "2026-11-06T01:45:25+00:00",
+      "window_start": "2026-11-04T21:00:00+00:00",
+      "window_end": "2026-11-05T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI 검증과 공개, 산업 전략까지",
+      "takeaway": "오늘의 한 줄: AI 모델의 신뢰를 확인하려는 기술과 이를 산업 경쟁력으로 연결하려는 제안이 함께 나왔습니다.",
+      "overview": [
+        {
+          "text": "AI 모델을 둘러싼 검증과 공개가 잇따랐습니다. 앤트로픽은 응답이 약속한 모델에서 생성됐는지 수학적으로 확인하는 오픈소스 기술 플래시프루브를 공개했습니다. 엔비디아는 상호작용형 월드 시뮬레이션용 코스모스 3 오픈 모델 4종을, 구글은 15초 영상 생성을 지원하는 제미니 옴니 1.2 플래시를 내놨습니다.",
+          "issue_ids": [
+            "issue-1",
+            "issue-2",
+            "issue-3"
+          ]
+        },
+        {
+          "text": "AI 확산에 맞춘 산업·정책 제안도 나왔습니다. 최태원 SK그룹 회장은 서울대 강연에서 한국이 'AI 네이티브 국가'로 전환해야 한다며 에너지와 반도체, 데이터센터, 대형언어모델, 애플리케이션을 전략 분야로 제시했습니다. 엔비디아는 쿠버네티스 GPU 클러스터를 구성하고 인증하고 운영하는 오픈소스 도구 모음 DSX OS를 소개했습니다.",
+          "issue_ids": [
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "앤트로픽, AI 응답이 약속한 모델에서 나왔는지 검증하는 오픈소스 기술 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "앤트로픽이 모델 가중치를 노출하지 않고도 응답이 지정한 모델의 계산 결과인지 확인하는 오픈소스 기술 '플래시프루브'를 공개했다.",
+              "article_ids": [
+                "64c545ff7f2c34b86b8c"
+              ],
+              "links": [
+                {
+                  "text": "플래시프루브",
+                  "article_id": "64c545ff7f2c34b86b8c"
+                }
+              ]
+            },
+            {
+              "text": "앤트로픽은 특정 실험 조건에서 증명 생성에 필요한 GPU 시간이 일반 프리필 연산의 70~95배에 달했고, 현재 구현은 1024토큰 문맥과 제한된 연산 조건을 사용한다고 밝혔다.",
+              "article_ids": [
+                "64c545ff7f2c34b86b8c"
+              ],
+              "links": [
+                {
+                  "text": "70~95배",
+                  "article_id": "64c545ff7f2c34b86b8c"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 서비스가 실제로 어떤 모델을 쓰는지 검증하려는 시도는 모델 바꿔치기나 평가 조작을 확인하는 기반이 될 수 있다.",
+          "article_ids": [
+            "64c545ff7f2c34b86b8c"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "엔비디아, 상호작용형 월드 시뮬레이션용 코스모스 3 오픈 모델 4종 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "엔비디아가 코스모스 3 모델 패밀리에 상호작용형 월드 시뮬레이션과 다중 센서·다중 시점 주행 장면 생성을 위한 오픈 가중치 체크포인트 4종을 추가했다.",
+              "article_ids": [
+                "f25b9201ad6bdcc6fc96"
+              ],
+              "links": [
+                {
+                  "text": "코스모스 3",
+                  "article_id": "f25b9201ad6bdcc6fc96"
+                }
+              ]
+            },
+            {
+              "text": "네 가지 모델은 코스모스 3 나노를 후속 학습한 예시로 160억 개의 학습 가능한 매개변수를 가지며, OpenMDW1.1 라이선스로 상업적·비상업적 사용이 가능하다.",
+              "article_ids": [
+                "f25b9201ad6bdcc6fc96"
+              ],
+              "links": [
+                {
+                  "text": "OpenMDW1.1",
+                  "article_id": "f25b9201ad6bdcc6fc96"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "로봇과 자율주행 연구자가 행동과 관측의 관계를 실험할 수 있는 오픈 기반이 넓어진다.",
+          "article_ids": [
+            "f25b9201ad6bdcc6fc96"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "구글, 15초 영상 생성 지원하는 제미니 옴니 1.2 플래시 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "구글이 15초 영상 생성과 다중 턴 대화형 편집, 향상된 참조 준수를 지원하는 제미니 옴니 1.2 플래시를 공개했다.",
+              "article_ids": [
+                "485654c1f98a7cdcb606"
+              ],
+              "links": [
+                {
+                  "text": "제미니 옴니 1.2 플래시",
+                  "article_id": "485654c1f98a7cdcb606"
+                }
+              ]
+            },
+            {
+              "text": "구글은 제미니 옴니 1.1 대비 가격을 30% 인하해 720p 영상 기준 초당 0.07달러에 제공하며, 제미니 API와 구글 클라우드에서 일반 제공한다고 밝혔다.",
+              "article_ids": [
+                "485654c1f98a7cdcb606"
+              ],
+              "links": [
+                {
+                  "text": "30%",
+                  "article_id": "485654c1f98a7cdcb606"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "영상 생성 비용과 편집 방식이 개선되면 기업이 대량의 영상 콘텐츠를 제작하는 부담이 줄어들 수 있다.",
+          "article_ids": [
+            "485654c1f98a7cdcb606"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "최태원 SK 회장, 한국의 'AI 네이티브 국가' 전환과 4대 해법 제시",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "최태원 SK그룹 회장이 서울대 특별강연에서 한국이 기존 경제성장 모델에서 벗어나 'AI 네이티브 국가'로 전환해야 한다고 강조했다.",
+              "article_ids": [
+                "56d9b68ee4b718c28535"
+              ],
+              "links": [
+                {
+                  "text": "AI 네이티브 국가",
+                  "article_id": "56d9b68ee4b718c28535"
+                }
+              ]
+            },
+            {
+              "text": "최 회장은 에너지, 반도체, AI 데이터센터, 대형언어모델, 애플리케이션을 전략 분야로 꼽고 신자본주의와 한일 경제연대, 성장 인센티브 등 추가 전략을 제시했다.",
+              "article_ids": [
+                "56d9b68ee4b718c28535"
+              ],
+              "links": [
+                {
+                  "text": "신자본주의",
+                  "article_id": "56d9b68ee4b718c28535"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 산업 생태계 전반의 경쟁력 확보를 주장한 만큼, 국내 산업·정책 논의에 영향을 줄 수 있다.",
+          "article_ids": [
+            "56d9b68ee4b718c28535"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "엔비디아, 쿠버네티스 GPU 클러스터 운영 도구 DSX OS 소개",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "엔비디아가 AI 팩토리 플랫폼의 오픈소스 소프트웨어 계층인 DSX OS를 소개하며 GPU 클러스터 구성·인증·운영 도구를 공개했다.",
+              "article_ids": [
+                "5ef5685b9690ae6c5fed"
+              ],
+              "links": [
+                {
+                  "text": "DSX OS",
+                  "article_id": "5ef5685b9690ae6c5fed"
+                }
+              ]
+            },
+            {
+              "text": "AICR, NVCRE, NVSentinel 세 도구는 아파치 2.0 라이선스의 오픈소스 프로젝트로 외부 기여를 받는다.",
+              "article_ids": [
+                "5ef5685b9690ae6c5fed"
+              ],
+              "links": [
+                {
+                  "text": "아파치 2.0",
+                  "article_id": "5ef5685b9690ae6c5fed"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "GPU 클러스터의 상태를 반복 검증하는 도구는 분산 학습의 성능 저하와 자원 낭비를 줄이는 데 도움이 될 수 있다.",
+          "article_ids": [
+            "5ef5685b9690ae6c5fed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "f25b9201ad6bdcc6fc96",
+          "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+          "published_at": "2026-11-05T19:35:16+00:00",
+          "sources": [
+            {
+              "source_id": "huggingface",
+              "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+              "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+              "name": "Hugging Face Blog",
+              "role": "official_community"
+            }
+          ]
+        },
+        {
+          "id": "5ef5685b9690ae6c5fed",
+          "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+          "published_at": "2026-11-05T17:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "nvidia",
+              "url": "https://developer.nvidia.com/blog/configure-certify-and-operate-kubernetes-gpu-clusters-with-nvidia-dsx-os",
+              "title": "Configure, Certify, and Operate Kubernetes GPU Clusters with NVIDIA DSX OS",
+              "name": "NVIDIA Technical Blog",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "485654c1f98a7cdcb606",
+          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+          "published_at": "2026-11-05T17:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "google_ai",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+              "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+              "name": "Google The Keyword / AI",
+              "role": "official"
+            },
+            {
+              "source_id": "deepmind",
+              "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips",
+              "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+              "name": "Google DeepMind Blog",
+              "role": "official_research"
+            }
+          ]
+        },
+        {
+          "id": "56d9b68ee4b718c28535",
+          "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+          "published_at": "2026-11-05T14:45:19+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42613",
+              "title": "최태원 회장, “AI 혁명에 기존 경제학만으론 한계”…한국, ‘AI 네이티브 국가’로 도약해야",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "64c545ff7f2c34b86b8c",
+          "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
+          "published_at": "2026-11-05T09:18:08+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217043",
+              "title": "앤트로픽, AI 모델 '신원 확인' 기술 공개...클로드가 개발 과정 주도",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "45f14eda2d964331fa6712e707a215dea1d166972c6279e17b944610c4c0e6a9"
+    },
+    {
       "id": "2026-11-04",
       "day": "2026-11-04",
       "scheduled_at": "2026-11-03T21:30:00+00:00",
