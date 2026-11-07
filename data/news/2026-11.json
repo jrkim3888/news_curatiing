@@ -3,6 +3,535 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "150f95ef73a394141348",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
+      "title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작",
+      "original_title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작",
+      "published_at": "2026-11-07T09:14:54+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성전자와 구글이 공동 개발한 첫 AI 안경이 오는 12일 예약 판매를 시작한다. 국내 젠틀몬스터와 미국 워비파커가 각각 디자인하고 구글의 '제미나이'를 탑재한 제품으로, 12월 정식 출시할 예정이다.젠틀몬스터와 워비파커는 오는 12일부터 '인텔리전트 아이웨어(Intelligent Eyewear)'의 예약 판매를 시…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
+          "title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작"
+        }
+      ]
+    },
+    {
+      "id": "5462766ae9d213614eff",
+      "url": "https://rungrid.space/",
+      "title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
+      "original_title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
+      "published_at": "2026-11-07T08:53:45+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rungrid.space/",
+          "title": "Show HN: Service for the parallel execution of AI agent tasks on remote devices",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402836"
+        }
+      ]
+    },
+    {
+      "id": "d723295579b427cc34cf",
+      "url": "https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques",
+      "title": "AI Source Code Analysis Detection Evasion Techniques",
+      "original_title": "AI Source Code Analysis Detection Evasion Techniques",
+      "published_at": "2026-11-07T08:52:16+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cipher.org.uk/2026/11/06/AI-Source-Code-Analysis-Detection-Evasion-Techniques",
+          "title": "AI Source Code Analysis Detection Evasion Techniques",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402826"
+        }
+      ]
+    },
+    {
+      "id": "6ca9cbc8faea0e063c59",
+      "url": "https://microsoft.github.io/apm",
+      "title": "APM – A dependency manager for AI agents",
+      "original_title": "APM – A dependency manager for AI agents",
+      "published_at": "2026-11-07T08:51:43+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://microsoft.github.io/apm",
+          "title": "APM – A dependency manager for AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402824"
+        }
+      ]
+    },
+    {
+      "id": "f3c3500de24f97539548",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
+      "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+      "original_title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+      "published_at": "2026-11-07T08:45:42+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
+          "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전"
+        }
+      ]
+    },
+    {
+      "id": "1a1b5f83380e0c5d68f9",
+      "url": "https://radio.neoncurrent.dev/",
+      "title": "An internet radio station run by AI",
+      "original_title": "An internet radio station run by AI",
+      "published_at": "2026-11-07T08:40:49+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://radio.neoncurrent.dev/",
+          "title": "An internet radio station run by AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402779"
+        }
+      ]
+    },
+    {
+      "id": "45c934c18ecc7061ae25",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
+      "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
+      "original_title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
+      "published_at": "2026-11-07T08:08:12+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 바이두가 딥시크와 텐센트, 샤오미의 경쟁 모델을 주요 성능 평가에서 앞서는 대형언어모델(LLM)을 공개했다. 특히 사전학습만 마친 모델의 가중치를 공개해 개발자들이 독자적인 AI를 만들도록 지원한다. 그러나 한국과 유럽을 사용 허가 지역에서 제외했다.바이두는 5일 공식 블로그와 허깅페이스를 통해 '어니 5.5 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
+          "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한"
+        }
+      ]
+    },
+    {
+      "id": "23fa70074c348e862e87",
+      "url": "https://digitalminds.cam/inter-ai-morality.pdf",
+      "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+      "original_title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+      "published_at": "2026-11-07T08:02:02+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://digitalminds.cam/inter-ai-morality.pdf",
+          "title": "Inter-AI Morality: How AI Systems Treat One Another [pdf]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402602"
+        }
+      ]
+    },
+    {
+      "id": "322c905689eb4514f977",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217130",
+      "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진",
+      "original_title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진",
+      "published_at": "2026-11-07T07:43:57+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "미국 중간선거에서 상·하원을 모두 장악한 민주당이 빅테크 기업에 대한 대규모 조사와 AI 규제 입법을 준비하고 있다. 트럼프 행정부와 긴밀한 관계를 맺어온 기업들의 정부 거래를 조사하는 동시에 AI 모델의 안전성, 데이터센터 전력 비용, 엔비디아의 중국 AI 칩 수출까지 규제 대상으로 삼을 계획이다.워싱턴포스트(WP…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217130",
+          "title": "미 중간선거 후폭풍…민주당, 빅테크 대대적 조사·AI 규제 추진"
+        }
+      ]
+    },
+    {
+      "id": "2c8def6c9a61aa8031e5",
+      "url": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?accessToken=zwAAAaG04JwkkdOvl1haM4FCqdODi5ogWrgSMg.MEUCIQCIovxjLVzUSHQWyCMTaYOm0TJDSd7ol5iVEl7H4vY1zQIgb9x_ne7L2NI491-fZw0UyShWOkqlydwm2Nt-FGuKvBc&sharetype=gift&token=d741a183-368c-48f8-b401-12390f56a3d7",
+      "title": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies (Gillian Tett/Financial Times)",
+      "original_title": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies (Gillian Tett/Financial Times)",
+      "published_at": "2026-11-07T07:40:01+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Gillian Tett / Financial Times : How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emergin…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/af97585a-3381-42a9-838b-9a205ab81232?accessToken=zwAAAaG04JwkkdOvl1haM4FCqdODi5ogWrgSMg.MEUCIQCIovxjLVzUSHQWyCMTaYOm0TJDSd7ol5iVEl7H4vY1zQIgb9x_ne7L2NI491-fZw0UyShWOkqlydwm2Nt-FGuKvBc&sharetype=gift&token=d741a183-368c-48f8-b401-12390f56a3d7",
+          "title": "How differences in economics, public policy, and cultural patterns could explain greater pessimism about AI in the West than in Asia and emerging economies (Gillian Tett/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261107/p7"
+        }
+      ]
+    },
+    {
+      "id": "6e01e6a22e3c4d119c7f",
+      "url": "https://github.com/vagrillo/nngen",
+      "title": "GenAI generates GenAI – A Diffusion Model That Generates Neural Networks",
+      "original_title": "GenAI generates GenAI – A Diffusion Model That Generates Neural Networks",
+      "published_at": "2026-11-07T07:37:42+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/vagrillo/nngen",
+          "title": "GenAI generates GenAI – A Diffusion Model That Generates Neural Networks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402488"
+        }
+      ]
+    },
+    {
+      "id": "9abedb59a01caf488f9b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217128",
+      "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
+      "original_title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시",
+      "published_at": "2026-11-07T06:39:27+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 AI 에이전트 '뮤즈(Muse)'와 협업할 수 있는 맞춤형 작업 공간 '스페이스(Spaces)'를 출시했다. 사용자가 자연어로 원하는 기능을 설명하면 여행 계획표나 쇼핑 관리 도구, 일정 추적기 등 목적에 맞는 앱 형태의 작업 공간을 자동으로 만들어준다. 외부 서비스와 연동해 관련 정보도 백그라운드에서 갱신할…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217128",
+          "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시"
+        }
+      ]
+    },
+    {
+      "id": "123ab16f20e9957cdee2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217129",
+      "title": "[AI 이슈트렌드] 강호동 구속영장 1위…미 중간선거·바이낸스 해킹 뒤이어",
+      "original_title": "[AI 이슈트렌드] 강호동 구속영장 1위…미 중간선거·바이낸스 해킹 뒤이어",
+      "published_at": "2026-11-07T06:08:35+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "AI타임스와 이스트에이드의 11월 첫째 주(10월30일~11월5일) 이슈 분석 결과, 농협중앙회장 구속영장 신청을 포함해 민주당이 석권한 미국 중간선거와 역대 최대 규모의 바이낸스 해킹 소식 등이 상위권을 차지했다.이번 주 검색량 1위는 '강호동 구속영장(7.74%)'이 차지했다. 서서울경찰청 반부패수사대는 강 회장…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217129",
+          "title": "[AI 이슈트렌드] 강호동 구속영장 1위…미 중간선거·바이낸스 해킹 뒤이어"
+        }
+      ]
+    },
+    {
+      "id": "a5e9d8505cf5e4c25c69",
+      "url": "https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283",
+      "title": "Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M (Eudora Wang/DealStreetAsia)",
+      "original_title": "Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M (Eudora Wang/DealStreetAsia)",
+      "published_at": "2026-11-07T05:45:02+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Eudora Wang / DealStreetAsia : Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 month…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.dealstreetasia.com/stories/sand-ai-enters-unicorn-club-500283",
+          "title": "Beijing-based Sand.ai, an AI startup specializing in video generation, raised a $200M Series A+, bringing its total funding over the past 10 months to $300M (Eudora Wang/DealStreetAsia)",
+          "discussion_url": "https://www.techmeme.com/261107/p1"
+        }
+      ]
+    },
+    {
+      "id": "5280a2532d6b4c57840a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42631",
+      "title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단",
+      "original_title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단",
+      "published_at": "2026-11-07T03:13:01+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "유럽연합(EU)이 틱톡(TikTok)의 개인화 추천 알고리즘이 이용자를 특정 콘텐츠에 반복적으로 노출해 정신건강에 부정적인 영향을 미칠 수 있다며 디지털서비스법(DSA) 위반에 대한 예비 판단을 내렸다. \"불법 콘텐츠 자체가 아니라 이용자의 행동을 분석해 유사한 콘텐츠를 지속적으로 추천하는 알고리즘의 설계와 운영 방…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42631",
+          "title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단"
+        }
+      ]
+    },
+    {
+      "id": "686095afbbd9a078fb93",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42630",
+      "title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측",
+      "original_title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측",
+      "published_at": "2026-11-07T02:25:26+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능을 활용해 신약 후보물질의 약물 상호작용 위험을 예측하는 기술이 국제 블라인드 평가에서 경쟁력을 입증했다.美 AI 신약 개발기업 인덕티브 바이오(Inductive Bio)의 AI 모델이 270개 이상의 참가팀이 경쟁한 약물 대사효소 억제 예측 평가에서 1위를 차지했다. 특히 엔비디아(NVIDIA)와 리커전(R…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42630",
+          "title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측"
+        }
+      ]
+    },
+    {
+      "id": "4d1dd575b8ff5d0550bf",
+      "url": "https://byline.network/2026/11/6-475",
+      "title": "‘로컬 AI 시대’, 엔비디아 ‘RTX 스파크’가 그리는 미래",
+      "original_title": "‘로컬 AI 시대’, 엔비디아 ‘RTX 스파크’가 그리는 미래",
+      "published_at": "2026-11-07T02:02:10+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“올해는 로컬 AI 에이전트의 해라고 할 수 있을 만큼 중요한 변곡점이었다. AI는 우리가 PC와 상호작용하는 방식과 사용하는 방법을 바꿔놓고 있다. 로컬 에이전트의 지능도 상당히 향상돼 고성능 프런티어 모델에 가까운 수준으로 발전하고 있다. 앞으로 AI 에이전트가 실행되는 PC에 대한 요구사항도 달라질 것이라고 보…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/6-475",
+          "title": "‘로컬 AI 시대’, 엔비디아 ‘RTX 스파크’가 그리는 미래"
+        }
+      ]
+    },
+    {
+      "id": "ed45e9d0e9c1798e9027",
+      "url": "https://byline.network/2026/11/06_291872773",
+      "title": "앱 홍수 시대, 이용자에게 어떻게 닿을까 (feat. 몰로코)",
+      "original_title": "앱 홍수 시대, 이용자에게 어떻게 닿을까 (feat. 몰로코)",
+      "published_at": "2026-11-07T02:01:06+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 덕분에 개발자가 아니어도 아이디어만 있으면 앱을 만들 수 있게 됐다. 그 결과 올해 새로 나온 앱은 지난해보다 2배 이상 늘었다. 하지만 같은 기간 앱 다운로드는 2% 느는 데 그쳤다. 하루에도 수많은 앱이 쏟아지는 시장에서, 새 서비스는 어떻게 이용자의 눈에 띌 수 있을까?…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/06_291872773",
+          "title": "앱 홍수 시대, 이용자에게 어떻게 닿을까 (feat. 몰로코)"
+        }
+      ]
+    },
+    {
+      "id": "97c1f959c5c24c4d5071",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217126",
+      "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
+      "original_title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입",
+      "published_at": "2026-11-07T01:57:42+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 중간선거에서 데이터센터 건설에 반대하는 후보들이 잇따라 승리한 데 이어 유럽에서도 데이터센터 반대 운동이 본격화하고 있다. 유럽 16개국의 시민단체 100여곳이 데이터센터 건설 중단을 요구하는 공동 행동에 나섰으며, 네덜란드에서는 시위대가 마이크로소프트(MS)의 AI 데이터센터 건설 현장에 진입하는 사태까지 벌…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217126",
+          "title": "유럽 16개국서 데이터센터 반대 공동 행동…MS 건설 현장 난입"
+        }
+      ]
+    },
+    {
+      "id": "eb97f66498798295fa7f",
+      "url": "https://thenewstack.io/meta-muse-specialized-models",
+      "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+      "original_title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+      "published_at": "2026-11-07T01:50:00+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Frederic Lardinois / The New Stack : Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://thenewstack.io/meta-muse-specialized-models",
+          "title": "Meta introduces specialized versions of its existing models, trained using Muse Wonder, bringing Active Memory and Active Focus to all Muse and Meta AI users (Frederic Lardinois/The New Stack)",
+          "discussion_url": "https://www.techmeme.com/261106/p28"
+        }
+      ]
+    },
+    {
+      "id": "ce80de3e8c50064ab87d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217117",
+      "title": "오픈AI, 기업가치 1.25조달러에 110억달러 유치…투자 목표는 하향",
+      "original_title": "오픈AI, 기업가치 1.25조달러에 110억달러 유치…투자 목표는 하향",
+      "published_at": "2026-11-07T01:44:21+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "오픈AI가 기업가치 1조2500억달러(약 1704조원)를 인정받으며 110억달러(약 15조원)의 신규 투자를 유치했다. 그러나 AI 투자심리 악화로 당초 300억달러 이상이었던 자금 조달 목표를 최대 200억달러로 낮췄다.블룸버그는 6일(현지시간) 복수의 소식통을 인용해 오픈AI가 110억달러의 투자금을 입금받으며 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217117",
+          "title": "오픈AI, 기업가치 1.25조달러에 110억달러 유치…투자 목표는 하향"
+        }
+      ]
+    },
+    {
+      "id": "2af345503cb4dc3ab8a9",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "original_title": "Crusoe sells troubled Wyoming data center project to Google",
+      "published_at": "2026-11-07T01:40:28+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The deal highlights the challenges of developing massive AI data centers.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google",
+          "title": "Crusoe sells troubled Wyoming data center project to Google"
+        }
+      ]
+    },
+    {
+      "id": "c9e0bb6139faf57c6426",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217123",
+      "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+      "original_title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나",
+      "published_at": "2026-11-07T01:19:37+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "세계 최대 파운드리 업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 생산을 검토하고 있다. 실제 사업에 진출하면 삼성전자와 SK하이닉스, 마이크론이 주도하는 메모리 시장에 새로운 경쟁자가 등장하게 된다.디 인포메이션은 6일(현지시간) 사안에 정통한 소식통 2명을 인용해 TSMC가 최근 최대 고객사인…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217123",
+          "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나"
+        }
+      ]
+    },
+    {
+      "id": "c5f38a77fbb8bb1bd021",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217119",
+      "title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\"",
+      "original_title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\"",
+      "published_at": "2026-11-07T01:03:29+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "오픈AI가 미국 중간선거에서 데이터센터 건설에 반대하는 민주당이 압승했음에도 AI 인프라 확장 계획을 유지하겠다고 밝혔다. 지역사회의 반발과 규제 강화 가능성이 커졌지만, 급증하는 AI 수요에 대응하려면 데이터센터 투자가 불가피하다는 입장이다.사라 프라이어 오픈AI CFO는 6일(현지시간) CNBC와의 인터뷰에서 \"…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217119",
+          "title": "오픈AI CFO \"중간선거 결과와 관계없이 데이터센터 투자 계속할 것\""
+        }
+      ]
+    },
+    {
+      "id": "989cc5259d986620085a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217124",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 결혼정보회사에서 알바",
+      "original_title": "[AI카툰] Bob, Senior IT guy - 밥, 결혼정보회사에서 알바",
+      "published_at": "2026-11-07T01:00:00+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글·그림 Dr. Alf…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217124",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, 결혼정보회사에서 알바"
+        }
+      ]
+    },
+    {
+      "id": "9d705cd1768ad08c5dd1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217118",
+      "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
+      "original_title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중",
+      "published_at": "2026-11-07T00:57:09+00:00",
+      "collected_at": "2026-11-07T09:41:07+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "테슬라가 판매 부진을 겪어온 전기 픽업트럭 사이버트럭 생산을 내년 중반부터 단계적으로 축소한다. 대신 자율주행 로보택시 사이버캡 생산을 확대해 AI와 로보틱스 중심으로 사업 구조를 전환한다는 계획이다.일론 머스크 CEO는 6일(현지시간) X를 통해 텍사스 기가팩토리의 사이버트럭 생산을 2027년 중반쯤 중단할 예정이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217118",
+          "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중"
+        }
+      ]
+    },
+    {
       "id": "6183749476d3a7b94b01",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217122",
       "title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락",
@@ -249,6 +778,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
           "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+          "title": "OpenAI reportedly raises an additional $11B at a $1.25T valuation",
+          "discussion_url": "https://news.ycombinator.com/item?id=50402738"
         }
       ]
     },
@@ -648,6 +1183,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
           "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+          "title": "Censys finds 800+ publicly exposed copies of ARTEX, a Chinese-made, AI-powered, open-source penetration testing tool linked to several cyberattacks since July (Zack Whittaker/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261107/p5"
         }
       ]
     },
