@@ -3,6 +3,400 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6183749476d3a7b94b01",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217122",
+      "title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락",
+      "original_title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락",
+      "published_at": "2026-11-07T00:28:29+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽의 기업공개(IPO)를 앞두고 투자자들의 기업가치 평가가 계속 낮아지고 있다. 최근 AI 관련주 급락 이후 일부 투자자는 기업가치를 1조1000억달러(약 1500조원)까지 낮게 평가했지만, 앤트로픽은 다음 주 예정된 IPO 로드쇼를 진행할 계획이다.블룸버그는 6일(현지시간) 앤트로픽 IPO 참여를 검토하는 투…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217122",
+          "title": "앤트로픽 IPO 예상 몸값 2조→1.1조달러…한 달 만에 45% 하락"
+        }
+      ]
+    },
+    {
+      "id": "073250d1f8e79567fdba",
+      "url": "https://github.com/meshapplied/Goethe",
+      "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+      "original_title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+      "published_at": "2026-11-07T00:26:21+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/meshapplied/Goethe",
+          "title": "Show HN: Goethe – The infrastructure for self-hosted AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50400374"
+        }
+      ]
+    },
+    {
+      "id": "8efef01e110c76f30bc9",
+      "url": "https://www.theslopindex.com/",
+      "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
+      "original_title": "The Slop Index: Which AI Model Writes the Least Like AI?",
+      "published_at": "2026-11-06T23:57:51+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theslopindex.com/",
+          "title": "The Slop Index: Which AI Model Writes the Least Like AI?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50400178"
+        }
+      ]
+    },
+    {
+      "id": "e2422bd6f3ce5e1aa7a0",
+      "url": "https://scholar.social/@JubalBarca/117570024280604981",
+      "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
+      "original_title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
+      "published_at": "2026-11-06T23:48:40+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://scholar.social/@JubalBarca/117570024280604981",
+          "title": "Terra Tempora: we shouldn't entrust our understanding of history to AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50400091"
+        }
+      ]
+    },
+    {
+      "id": "30689b894f03e4c2efb3",
+      "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+      "title": "Together Compiler: Continual Compilation for AI Inference",
+      "original_title": "Together Compiler: Continual Compilation for AI Inference",
+      "published_at": "2026-11-06T23:46:51+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.together.ai/blog/together-compiler-continual-compilation-for-ai-inference",
+          "title": "Together Compiler: Continual Compilation for AI Inference",
+          "discussion_url": "https://news.ycombinator.com/item?id=50400081"
+        }
+      ]
+    },
+    {
+      "id": "6fe45295cc86e983aa5f",
+      "url": "https://getcinnamon.ai/",
+      "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
+      "original_title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
+      "published_at": "2026-11-06T23:44:55+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://getcinnamon.ai/",
+          "title": "Show HN: Cinnamon – a household AI agent with shared context and memories",
+          "discussion_url": "https://news.ycombinator.com/item?id=50400056"
+        }
+      ]
+    },
+    {
+      "id": "657c93ee82725cadc00d",
+      "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of",
+      "title": "OpenAI Secures $11B at $1.25T Valuation",
+      "original_title": "OpenAI Secures $11B at $1.25T Valuation",
+      "published_at": "2026-11-06T23:42:48+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://epyhia.com/openai-secures-11-billion-at-1-25-trillion-valuation-well-short-of",
+          "title": "OpenAI Secures $11B at $1.25T Valuation",
+          "discussion_url": "https://news.ycombinator.com/item?id=50400040"
+        }
+      ]
+    },
+    {
+      "id": "1883b99869c71dabe3af",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+      "title": "ECB considers review of bank data center lending on AI risk",
+      "original_title": "ECB considers review of bank data center lending on AI risk",
+      "published_at": "2026-11-06T23:19:22+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/ecb-considers-review-of-banks-data-center-lending-as-fears-rise",
+          "title": "ECB considers review of bank data center lending on AI risk",
+          "discussion_url": "https://news.ycombinator.com/item?id=50399847"
+        }
+      ]
+    },
+    {
+      "id": "faedf1b74043428171b1",
+      "url": "https://huggingface.co/ZelligeAI/Tessera-27B-B-CJK-RL",
+      "title": "Tessera, an open 27B tuned Qwen coding model that thinks in compressed CJK",
+      "original_title": "Tessera, an open 27B tuned Qwen coding model that thinks in compressed CJK",
+      "published_at": "2026-11-06T23:16:42+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://huggingface.co/ZelligeAI/Tessera-27B-B-CJK-RL",
+          "title": "Tessera, an open 27B tuned Qwen coding model that thinks in compressed CJK",
+          "discussion_url": "https://news.ycombinator.com/item?id=50399821"
+        }
+      ]
+    },
+    {
+      "id": "0a464603205bb4b5a039",
+      "url": "https://x.com/i/broadcasts/2OdXnjKkaKWmkV",
+      "title": "Live now: attacking P vs. NP using only AI, written out in real time",
+      "original_title": "Live now: attacking P vs. NP using only AI, written out in real time",
+      "published_at": "2026-11-06T23:15:16+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://x.com/i/broadcasts/2OdXnjKkaKWmkV",
+          "title": "Live now: attacking P vs. NP using only AI, written out in real time",
+          "discussion_url": "https://news.ycombinator.com/item?id=50399811"
+        }
+      ]
+    },
+    {
+      "id": "a329e70f2d69e3f49a2b",
+      "url": "https://zenodo.org/records/23686384",
+      "title": "Turns with an LLM: coherence isn't the same as accuracy",
+      "original_title": "Turns with an LLM: coherence isn't the same as accuracy",
+      "published_at": "2026-11-06T23:02:16+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://zenodo.org/records/23686384",
+          "title": "Turns with an LLM: coherence isn't the same as accuracy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50399673"
+        }
+      ]
+    },
+    {
+      "id": "d9d8ed120c50cfe24ebb",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "original_title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "published_at": "2026-11-06T22:53:46+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation",
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
+        }
+      ]
+    },
+    {
+      "id": "04c2871fc5137923f117",
+      "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox",
+      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "original_title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+      "published_at": "2026-11-06T22:27:25+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool …",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox",
+          "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox"
+        }
+      ]
+    },
+    {
+      "id": "4e0aa3919fe104e56d23",
+      "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
+      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "original_title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "published_at": "2026-11-06T22:20:20+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an... When deploying d…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
+          "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs"
+        }
+      ]
+    },
+    {
+      "id": "340e901aeada649c29b6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217091",
+      "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
+      "original_title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
+      "published_at": "2026-11-06T22:00:00+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "AI에 다른 AI의 안전성을 높이기 위한 연구를 맡겼더니 일부 작업을 제대로 수행하지 않고도 그 사실을 알리지 않는 현상이 발견됐습니다. 여기에 안전하게 행동하라는 지시까지 추가하자 성능이 더 떨어졌습니다. 특히 이전 모델에서는 거의 나타나지 않았던 현상이 최신 모델에서 두드러지면서, AI가 발전할수록 예상하지 못한…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217091",
+          "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아"
+        }
+      ]
+    },
+    {
+      "id": "d4c0364665eea1358e94",
+      "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?smid=url-share&unlocked_article_code=1.OVE.Q7K1.pw9O9sjsZBW4",
+      "title": "Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang (New York Times)",
+      "original_title": "Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang (New York Times)",
+      "published_at": "2026-11-06T21:46:41+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang — U.…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html?smid=url-share&unlocked_article_code=1.OVE.Q7K1.pw9O9sjsZBW4",
+          "title": "Sources: US intelligence concluded that Megaspeed executive Alice Huang was recruited by China's top spy agency MSS to collect intelligence on Jensen Huang (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261106/p24"
+        }
+      ]
+    },
+    {
+      "id": "04f8ac2e03b0d9c3d09f",
+      "url": "https://www.theinformation.com/briefings/google-buys-548-million-qualcomm-shares",
+      "title": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market (Ryan Barwick/The Information)",
+      "original_title": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market (Ryan Barwick/The Information)",
+      "published_at": "2026-11-06T21:35:00+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ryan Barwick / The Information : Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market — Google's inves…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/briefings/google-buys-548-million-qualcomm-shares",
+          "title": "Filing: Google spent roughly $548M to buy around 3M shares of Qualcomm, which is pushing into serving the AI data center market (Ryan Barwick/The Information)",
+          "discussion_url": "https://www.techmeme.com/261106/p23"
+        }
+      ]
+    },
+    {
+      "id": "6c8c697877ef51cc898f",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk5OTYyNywiZXhwIjoxNzk0NjA0NDI3LCJhcnRpY2xlSWQiOiJUTzNNOVRSS1YyVEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.pVWDvtzoWMkiwWdzW9wgW8MNHfO8XHw9d9znQhP2cv4",
+      "title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
+      "original_title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
+      "published_at": "2026-11-06T21:15:00+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total — OpenAI has closed on new fund…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5Mzk5OTYyNywiZXhwIjoxNzk0NjA0NDI3LCJhcnRpY2xlSWQiOiJUTzNNOVRSS1YyVEUwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.pVWDvtzoWMkiwWdzW9wgW8MNHfO8XHw9d9znQhP2cv4",
+          "title": "Sources: OpenAI has closed on new funding of roughly $11B at a $1.25T valuation; the round could increase to as much as $20B in total (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261106/p22"
+        }
+      ]
+    },
+    {
+      "id": "91d6447d2452dcb2e838",
+      "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452",
+      "title": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
+      "original_title": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
+      "published_at": "2026-11-06T21:12:51+00:00",
+      "collected_at": "2026-11-07T00:40:17+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/314e17df-e7af-4814-b208-70a0557cb452",
+          "title": "Sources: Anthropic is continuing with plans to list before the Thanksgiving holiday this month, expecting to raise $80B-$100B at a valuation of $1.25T to $1.75T (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261106/p21"
+        }
+      ]
+    },
+    {
       "id": "e0c8b4541e0b5e8be31a",
       "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
       "title": "AI is dramatically accelerating AI research",
@@ -4375,14 +4769,14 @@
     {
       "id": "1f522e8436ab4f4eb31b",
       "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
-      "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
+      "title": "NVIDIA, 에이전트 실패를 테스트로 전환하는 NeMo 워크플로 공개",
       "original_title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes",
       "published_at": "2026-11-04T16:00:00+00:00",
       "collected_at": "2026-11-04T21:05:17+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Turn production evidence into prioritized issues and custom evaluations that help you improve prompts, tools, models, memory, skills, and harness code. When you... Turn producti…",
       "sources": [
         {
@@ -4390,7 +4784,16 @@
           "url": "https://developer.nvidia.com/blog/use-nvidia-nemo-to-turn-agent-failures-into-tests-and-harness-fixes",
           "title": "Use NVIDIA NeMo to Turn Agent Failures into Tests and Harness Fixes"
         }
-      ]
+      ],
+      "summary": "NVIDIA가 개발자 블로그를 통해 에이전트의 실패 트레이스를 분석해 평가 테스트와 하네스 수정으로 연결하는 NeMo 기반 최적화 워크플로를 소개했다. NeMo Compass로 문제를 식별하고 NeMo Eval Author로 평가를 생성한 뒤 하네스를 수정하고 개발·보류 과제에서 결과를 비교하는 한 주기의 과정을 설명한다. 회사는 예시에서 확인 없이 메시지를 전송한 오류를 다루고, 엔지니어링 사례에서는 잘못된 도구 호출이 142건에서 0건으로 줄었다고 밝혔다.",
+      "why_it_matters": "에이전트 신뢰성 개선이 모델 튜닝만이 아니라 프롬프트·도구·라우팅·메모리 등 하네스 전반의 반복적 평가와 수정으로 이뤄질 수 있음을 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-07T00:40:45+00:00",
+        "input_hash": "f104741e10c9f744f48a3a4909a1d098ed09b0b2bb519b8ce1bc282efe3c392b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "63b734aaa907cd4dfd27",
