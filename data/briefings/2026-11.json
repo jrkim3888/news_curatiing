@@ -3,6 +3,324 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-07",
+      "day": "2026-11-07",
+      "scheduled_at": "2026-11-06T21:30:00+00:00",
+      "generated_at": "2026-11-07T01:06:25+00:00",
+      "window_start": "2026-11-05T21:00:00+00:00",
+      "window_end": "2026-11-06T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI 인프라 자금 경고음과 모델·보안 경쟁의 진전",
+      "takeaway": "오늘의 한 줄: AI 확산이 빨라질수록 자금조달, 검증, 보안 같은 기반 조건이 성능만큼 중요해지고 있습니다.",
+      "overview": [
+        {
+          "text": "AI 데이터센터 투자에 자금조달 경고음이 커지면서 네덜란드 ING가 약 5억 달러 규모의 데이터센터 대출채권 매각에 나섰습니다. 매각 대상에는 오픈AI와 오라클 등이 참여하는 스타게이트의 뉴멕시코 프로젝트 주피터 관련 채권 약 2500만 달러가 포함됐고, 오라클은 전력 공급 지연 가능성에 대비해 불가항력 조항을 근거로 통지를 보냈습니다. 사업 철회로 해석할 근거는 없지만, 전력과 인허가 지연이 금융비용과 투자 회수 일정에 부담을 줄 수 있다는 점이 확인됩니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "국내에서는 예진이 해외 모델 가중치를 쓰지 않고 처음부터 학습한 한국어 특화 80억 매개변수 모델을 공개했습니다. 이 모델은 약 1,384억 토큰을 학습하고 24GB급 그래픽처리장치 한 장으로 구동되며, 한국어 법령 문서 처리 토큰 수를 일부 해외 모델보다 24~38% 줄였다고 회사가 밝혔습니다. 해외에서는 리커시브 인텔리전스가 650억 매개변수 모델로 더 큰 모델들을 일부 코딩 평가에서 앞섰다고 발표했지만, 이 결과는 특정 벤치마크에 한정된다는 지적도 나왔습니다.",
+          "issue_ids": [
+            "issue-2",
+            "issue-4"
+          ]
+        },
+        {
+          "text": "프론티어 AI의 보안 능력도 빠르게 발전해, 앤트로픽은 클로드 모델로 취약점 후보 3만7966건을 찾았고 오픈AI는 GPT-6 사이버로 권한 상승 공격 코드 948건을 검증했습니다. AI가 취약점 발견을 넘어 공격 검증과 패치 작성까지 수행하면서, 방어 체계를 AI 속도에 맞춰 재설계해야 한다는 과제가 커지고 있습니다. AI2는 로봇 학습과 평가를 위한 통제 환경 토이블록스를 공개해, 로봇이 무엇을 배우고 왜 실패하는지 추적할 수 있는 실험 기반을 제공했습니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "AI 데이터센터 투자에 경고등…ING, 스타게이트 관련 대출채권 매각 추진",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "네덜란드 ING은 약 5억 달러 규모의 데이터센터 대출채권 12건을 경쟁입찰 방식으로 매각하고 있으며, 입찰 마감일은 19일이다.",
+              "article_ids": [
+                "c23a92e93615beb144ba"
+              ],
+              "links": [
+                {
+                  "text": "데이터센터 대출채권",
+                  "article_id": "c23a92e93615beb144ba"
+                },
+                {
+                  "text": "경쟁입찰",
+                  "article_id": "c23a92e93615beb144ba"
+                }
+              ]
+            },
+            {
+              "text": "매각 대상에는 뉴멕시코주 스타게이트 데이터센터 '프로젝트 주피터' 관련 약 2500만 달러 대출채권이 포함됐으며, 오라클은 전력 공급 지연 가능성에 대비해 불가항력 조항을 근거로 통지를 보냈다.",
+              "article_ids": [
+                "c23a92e93615beb144ba"
+              ],
+              "links": [
+                {
+                  "text": "프로젝트 주피터",
+                  "article_id": "c23a92e93615beb144ba"
+                },
+                {
+                  "text": "불가항력",
+                  "article_id": "c23a92e93615beb144ba"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 인프라 사업이 대규모 차입에 의존하는 만큼, 전력·인허가 지연이 금융비용과 투자 회수 일정에 영향을 줄 수 있음을 보여줍니다.",
+          "article_ids": [
+            "c23a92e93615beb144ba"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "예진, 한국어 특화 8B 파운데이션 모델 독자 개발…GPU 1장으로 구동",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "예진은 해외 공개 모델 가중치를 쓰지 않고 처음부터 학습한 한국어 특화 80억 매개변수 모델 '예진 8B v3'를 개발해 상업적 이용 가능 라이선스로 공개했다.",
+              "article_ids": [
+                "e511b1b6ee7ce1bf4d8f"
+              ],
+              "links": [
+                {
+                  "text": "한국어 특화",
+                  "article_id": "e511b1b6ee7ce1bf4d8f"
+                },
+                {
+                  "text": "예진 8B v3",
+                  "article_id": "e511b1b6ee7ce1bf4d8f"
+                }
+              ]
+            },
+            {
+              "text": "이 모델은 약 1,384억 토큰을 학습했고 24GB급 GPU 한 장으로 구동되며, 한국어 법령 문서 처리 토큰 수를 일부 해외 모델보다 24~38% 줄였다고 회사가 밝혔다.",
+              "article_ids": [
+                "e511b1b6ee7ce1bf4d8f"
+              ],
+              "links": [
+                {
+                  "text": "1,384억 토큰",
+                  "article_id": "e511b1b6ee7ce1bf4d8f"
+                },
+                {
+                  "text": "24GB급 GPU",
+                  "article_id": "e511b1b6ee7ce1bf4d8f"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "경량 한국어 모델이 온프레미스 환경에서 민감 데이터를 다루려는 기업·공공기관의 선택지를 넓힐 수 있습니다.",
+          "article_ids": [
+            "e511b1b6ee7ce1bf4d8f"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "프론티어 AI 보안 능력 반년 새 급성장…취약점 탐색·공격 코드 검증까지",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "앤트로픽은 클로드 모델로 지난해 11월부터 올해 11월 2일까지 취약점 후보 3만7966건을 찾았고, 외부 기관이 검토한 6376건 중 6009건을 실제 취약점으로 판단했다.",
+              "article_ids": [
+                "527ffcb8cb0288caae9d"
+              ],
+              "links": [
+                {
+                  "text": "클로드",
+                  "article_id": "527ffcb8cb0288caae9d"
+                },
+                {
+                  "text": "취약점 후보 3만7966건",
+                  "article_id": "527ffcb8cb0288caae9d"
+                }
+              ]
+            },
+            {
+              "text": "오픈AI는 GPT-6 사이버로 리눅스 커널 취약점 연구를 진행해 서로 다른 취약점 948건에서 권한 상승 공격이 실제 작동했고, 익스플로잇짐 평가에서 48.5%를 기록했다.",
+              "article_ids": [
+                "527ffcb8cb0288caae9d"
+              ],
+              "links": [
+                {
+                  "text": "GPT-6 사이버",
+                  "article_id": "527ffcb8cb0288caae9d"
+                },
+                {
+                  "text": "익스플로잇짐",
+                  "article_id": "527ffcb8cb0288caae9d"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 취약점 발견을 넘어 공격 코드 검증까지 수행하면서, 보안 패치와 방어 체계를 AI 속도에 맞춰 재설계해야 할 필요가 커졌습니다.",
+          "article_ids": [
+            "527ffcb8cb0288caae9d"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "구글 출신 리커시브, 65B 모델로 8배 큰 모델 추월…개발비 10분의 1",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "리커시브 인텔리전스가 공개한 650억 매개변수 오픈웨이트 모델 '리플-65B 프리뷰'는 터미널벤치 2.1에서 80.52점, SWE-벤치 프로 v2.0 하드에서 79.1점을 기록했다.",
+              "article_ids": [
+                "812ca5bb4e5fdf919693"
+              ],
+              "links": [
+                {
+                  "text": "리플-65B 프리뷰",
+                  "article_id": "812ca5bb4e5fdf919693"
+                },
+                {
+                  "text": "터미널벤치 2.1",
+                  "article_id": "812ca5bb4e5fdf919693"
+                }
+              ]
+            },
+            {
+              "text": "리커시브는 리플-65B 개발에 총 3200만 달러를 투입했으며, 이는 이전 미국 오픈웨이트 코딩 선두 모델 개발 비용의 약 10분의 1에 해당한다고 자체 추정했다.",
+              "article_ids": [
+                "812ca5bb4e5fdf919693"
+              ],
+              "links": [
+                {
+                  "text": "3200만 달러",
+                  "article_id": "812ca5bb4e5fdf919693"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "대형 모델 중심 경쟁에서 비용 효율과 특정 평가 성능을 앞세운 중형 모델의 가능성을 보여주지만, 일부 벤치마크에 한정된 결과라는 한계도 있습니다.",
+          "article_ids": [
+            "812ca5bb4e5fdf919693"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "AI2, 로봇 학습·평가용 통제 환경 '토이블록스' 공개",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "AI2는 로봇 학습과 평가를 위한 통제 환경 프레임워크 '파운데이션월즈'를 소개하고, 첫 사례로 로봇 팔과 블록을 활용한 오픈 시뮬레이션 '토이블록스'를 공개했다.",
+              "article_ids": [
+                "5a90caffb2c87d2e6e8e"
+              ],
+              "links": [
+                {
+                  "text": "파운데이션월즈",
+                  "article_id": "5a90caffb2c87d2e6e8e"
+                },
+                {
+                  "text": "토이블록스",
+                  "article_id": "5a90caffb2c87d2e6e8e"
+                }
+              ]
+            },
+            {
+              "text": "토이블록스는 원격 조작 없이 시연 데이터를 자동 생성하고, 연구자가 훈련 경험을 바꿔 학습에 쓰지 않은 과제에서 성능을 평가할 수 있게 한다.",
+              "article_ids": [
+                "5a90caffb2c87d2e6e8e"
+              ],
+              "links": [
+                {
+                  "text": "시연 데이터를 자동 생성",
+                  "article_id": "5a90caffb2c87d2e6e8e"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "로봇 학습에서 실패 원인을 추적하고 데이터·모델 설계 변화의 효과를 비교할 수 있는 통제된 실험 환경을 제공합니다.",
+          "article_ids": [
+            "5a90caffb2c87d2e6e8e"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "5a90caffb2c87d2e6e8e",
+          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "published_at": "2026-11-06T14:00:48+00:00",
+          "sources": [
+            {
+              "source_id": "huggingface",
+              "url": "https://huggingface.co/blog/allenai/toyblocks",
+              "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+              "name": "Hugging Face Blog",
+              "role": "official_community"
+            }
+          ]
+        },
+        {
+          "id": "e511b1b6ee7ce1bf4d8f",
+          "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
+          "published_at": "2026-11-06T10:35:18+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
+              "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "527ffcb8cb0288caae9d",
+          "title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나",
+          "published_at": "2026-11-06T09:37:34+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/11/6-474",
+              "title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "c23a92e93615beb144ba",
+          "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
+          "published_at": "2026-11-06T09:26:38+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42628",
+              "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "812ca5bb4e5fdf919693",
+          "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+          "published_at": "2026-11-06T08:44:08+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
+              "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "0a89dacc6406b29368dd730224c5e661b8acc4f78e8d652219df2218fa500c7e"
+    },
+    {
       "id": "2026-11-06",
       "day": "2026-11-06",
       "scheduled_at": "2026-11-05T21:30:00+00:00",

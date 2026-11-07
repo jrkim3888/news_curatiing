@@ -917,14 +917,14 @@
     {
       "id": "5a90caffb2c87d2e6e8e",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title": "AI2, 로봇 학습·평가용 통제 환경 '토이블록스' 공개",
       "original_title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "published_at": "2026-11-06T14:00:48+00:00",
       "collected_at": "2026-11-06T20:42:41+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -932,7 +932,17 @@
           "url": "https://huggingface.co/blog/allenai/toyblocks",
           "title": "ToyBlocks: A controlled world for robot learning and evaluation"
         }
-      ]
+      ],
+      "summary": "AI2가 로봇 학습과 평가를 위한 통제 환경 프레임워크 '파운데이션월즈'를 소개하고, 첫 사례로 로봇 팔과 블록을 활용한 오픈 시뮬레이션 '토이블록스'를 공개했다. 토이블록스는 원격 조작 없이 시연 데이터를 자동 생성하고, 학습에 쓰지 않은 과제에서 성능을 평가할 수 있게 한다.",
+      "why_it_matters": "로봇 학습에서 실패 원인을 추적하고 데이터·모델 설계 변화의 효과를 비교할 수 있는 통제된 실험 환경을 제공합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-07T01:06:25+00:00",
+        "briefing_day": "2026-11-07",
+        "input_hash": "fc8788cd2fa967be32c98bfca9bdb9722fd4424830fd0503351995714d37efea",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6c0bae3f849c2423abb9",
@@ -1019,14 +1029,14 @@
     {
       "id": "e511b1b6ee7ce1bf4d8f",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
-      "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
+      "title": "예진, 한국어 특화 8B 파운데이션 모델 독자 개발",
       "original_title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동",
       "published_at": "2026-11-06T10:35:18+00:00",
       "collected_at": "2026-11-06T20:42:41+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "국내 인공지능(AI) 기업 예진(대표 고종현)이 해외 공개 모델의 가중치를 활용하지 않고 처음부터 자체 학습한 한국어 특화 80억 매개변수(8B)급 파운데이션 모델을 개발했다. 약 1,384억 토큰을 학습하고 24GB급 그래픽처리장치(GPU) 한 장으로 구동할 수 있도록 설계해 기업과 공공기관의 AI 도입 비용을 낮…",
       "sources": [
         {
@@ -1034,7 +1044,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42629",
           "title": "예진, 한국어 특화 8B급 파운데이션 모델 독자 개발…1,384억 토큰 학습·GPU 1장으로 구동"
         }
-      ]
+      ],
+      "summary": "예진이 해외 공개 모델 가중치를 쓰지 않고 처음부터 학습한 한국어 특화 80억 매개변수 모델 '예진 8B v3'를 공개했다. 약 1,384억 토큰을 학습하고 24GB급 GPU 한 장으로 구동되며, 한국어 법령 문서 처리 토큰 수를 일부 해외 모델보다 24~38% 줄였다고 회사가 밝혔다.",
+      "why_it_matters": "경량 한국어 모델이 온프레미스 환경에서 민감 데이터를 다루려는 기업과 공공기관의 선택지를 넓힐 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-07T01:06:25+00:00",
+        "briefing_day": "2026-11-07",
+        "input_hash": "f9dce0ff1afa83e3a67d06a2369a93d3130be7b1d94326dab55b935a91948e54",
+        "evidence_verified": true
+      }
     },
     {
       "id": "c3f9b6f32e661047fa9b",
@@ -1081,14 +1101,14 @@
     {
       "id": "527ffcb8cb0288caae9d",
       "url": "https://byline.network/2026/11/6-474",
-      "title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나",
+      "title": "프론티어 AI 보안 능력, 취약점 탐색 넘어 공격 검증까지",
       "original_title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나",
       "published_at": "2026-11-06T09:37:34+00:00",
       "collected_at": "2026-11-06T10:30:31+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "지난 4월 앤트로픽이 ‘클로드 미토스 프리뷰’를 공개했을 때, 보안업계는 놀랐다. AI가 소프트웨어 취약점을 찾아 실제 공격 코드까지 만들었기 때문이다. 반년이 지난 지금, 오픈AI·앤트로픽·구글 등 AI 기업들은 취약점 발견과 공격 검증 능력을 높인 프론티어 모델을 앞다퉈 공개하고 있다. 최근에는 AI가 취약점을 …",
       "sources": [
         {
@@ -1096,19 +1116,29 @@
           "url": "https://byline.network/2026/11/6-474",
           "title": "미토스 등장 반년, 프론티어 AI의 보안 능력은 얼마나 발전했나"
         }
-      ]
+      ],
+      "summary": "앤트로픽은 클로드 모델로 취약점 후보 3만7966건을 찾았고, 외부 기관이 검토한 6376건 중 6009건을 실제 취약점으로 판단했다. 오픈AI는 GPT-6 사이버로 리눅스 커널 취약점 948건에서 권한 상승 공격이 실제 작동했다고 밝혔다.",
+      "why_it_matters": "AI가 공격 코드 검증까지 수행하면서 보안 패치와 방어 체계를 AI 속도에 맞춰 재설계해야 할 필요가 커졌습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-07T01:06:25+00:00",
+        "briefing_day": "2026-11-07",
+        "input_hash": "9cc72d1e4f9dd9df0dac4b134e5032fcd8b4adc4602616944865dac32f98c884",
+        "evidence_verified": true
+      }
     },
     {
       "id": "c23a92e93615beb144ba",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42628",
-      "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
+      "title": "ING, 스타게이트 관련 포함 데이터센터 대출채권 5억 달러 매각 추진",
       "original_title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질",
       "published_at": "2026-11-06T09:26:38+00:00",
       "collected_at": "2026-11-06T10:30:31+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "미국 인공지능(AI) 데이터센터 투자 시장에 금융 불안 신호가 나타나고 있다. 네덜란드 대형 은행 ING가 약 5억 달러(약 6700억원) 규모의 데이터센터 대출채권을 한꺼번에 매각하기로 하면서, 막대한 차입금에 의존해 추진되는 AI 인프라 사업의 자금조달 위험이 다시 부각됐다.특히, 매각 대상에는 오픈AI, 소프트…",
       "sources": [
         {
@@ -1116,7 +1146,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42628",
           "title": "AI 데이터센터 투자에 경고등…ING, 5억 달러 대출채권 매각 추진·오라클 스타게이트 전력 공급 차질"
         }
-      ]
+      ],
+      "summary": "네덜란드 ING가 약 5억 달러 규모의 데이터센터 대출채권 12건을 경쟁입찰로 매각하고 있다. 매각 대상에는 뉴멕시코 프로젝트 주피터 관련 약 2500만 달러 채권이 포함됐으며, 오라클은 전력 공급 지연 가능성에 대비해 불가항력 조항을 근거로 통지를 보냈다.",
+      "why_it_matters": "AI 인프라 사업의 차입 의존 구조에서 전력·인허가 지연이 금융비용과 투자 회수 일정에 영향을 줄 수 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-07T01:06:25+00:00",
+        "briefing_day": "2026-11-07",
+        "input_hash": "6780acb772131f9932cb9be7a1eafa27ac5f4eef1a3aa06580490384435cd953",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a006a392833080a37e7c",
@@ -1246,14 +1286,14 @@
     {
       "id": "812ca5bb4e5fdf919693",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
-      "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
+      "title": "리커시브, 65B 모델로 8배 큰 모델 추월 주장",
       "original_title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1",
       "published_at": "2026-11-06T08:44:08+00:00",
       "collected_at": "2026-11-06T10:30:31+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "구글 출신 연구진이 설립한 리커시브 인텔리전스(Ricursive Intelligence)가 매개변수 규모가 8배 가까이 큰 AI 모델을 코딩 성능 평가에서 앞서는 오픈웨이트 모델을 공개했다. 기존 선두 모델보다 개발 비용은 약 10분의 1에 불과하다고 밝혀, 대형 모델에 맞먹는 성능을 적은 비용으로 구현한 사례로 주…",
       "sources": [
         {
@@ -1261,7 +1301,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217107",
           "title": "구글 출신 연구진, 65B 모델로 8배 큰 AI 코딩 성능 추월…개발비도 10분의 1"
         }
-      ]
+      ],
+      "summary": "구글 출신 연구진이 설립한 리커시브 인텔리전스가 650억 매개변수 오픈웨이트 모델 '리플-65B 프리뷰'를 공개했다. 터미널벤치 2.1에서 80.52점을 기록해 더 큰 모델들을 앞섰고, 개발비는 3200만 달러로 이전 선두 모델의 약 10분의 1이라고 밝혔다.",
+      "why_it_matters": "대형 모델 중심 경쟁에서 비용 효율을 앞세운 중형 모델의 가능성을 보여주지만, 일부 평가에 한정된 결과라는 한계도 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-07T01:06:25+00:00",
+        "briefing_day": "2026-11-07",
+        "input_hash": "65532247013fa2e4645b04b07f0332b83d6d3dc6de5156a30756a380dbb02208",
+        "evidence_verified": true
+      }
     },
     {
       "id": "8bd431dc88d7bd65482f",
@@ -1811,14 +1861,14 @@
     {
       "id": "e0e75c1bea37c4853334",
       "url": "https://d2.naver.com/helloworld/0627744",
-      "title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크",
+      "title": "2026년 JavaScript 프레임워크 동향, React 독주와 AI 도구 영향",
       "original_title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크",
       "published_at": "2026-11-06T02:04:33+00:00",
       "collected_at": "2026-11-06T10:30:31+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "\"어느 한 프레임워크가 독보적인 위치를 차지하지 않는 상태는 많은 이들에게 희망과 고통을 동시에 안겨준다.\" 2020년 글 은 이 문장으로 시작했습니다. 6년이 지난 지금, 이 문장은 절반만 맞습니다. 사용률로 보면 React는 독보적인 위치를 굳혔고, 고민은 '어떤 프레임워크를 고를까'에서 'React 위에서 어떤…",
       "sources": [
         {
@@ -1826,7 +1876,17 @@
           "url": "https://d2.naver.com/helloworld/0627744",
           "title": "2026년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크"
         }
-      ]
+      ],
+      "summary": "네이버 D2가 2026년 10월 기준 JavaScript 라이브러리와 프레임워크 동향을 정리했다. React는 npm 다운로드와 사용률에서 독주를 굳혔고, 프레임워크 선택의 고민은 메타 프레임워크와 빌드 도구, AI 코딩 도구가 기본값으로 고르는 스택을 받아들일지로 옮겨갔다.",
+      "why_it_matters": "프레임워크 선택 기준이 개별 기능보다 생태계와 AI 도구의 기본값으로 바뀌고 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-07T01:06:25+00:00",
+        "briefing_day": "2026-11-07",
+        "input_hash": "2cd3514a58b1e47ebf0115faf93f68fa19aea4639438b8b2400b3f2694e6ff4f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "f8738d827caef369d8c4",
