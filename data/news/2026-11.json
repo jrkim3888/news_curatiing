@@ -3,6 +3,362 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "612273a589d24c11f6ae",
+      "url": "https://www.alekpetty.com/blog/ai_in_science.html",
+      "title": "Some thoughts on AI, scientific papers, and peer review",
+      "original_title": "Some thoughts on AI, scientific papers, and peer review",
+      "published_at": "2026-11-07T19:01:37+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.alekpetty.com/blog/ai_in_science.html",
+          "title": "Some thoughts on AI, scientific papers, and peer review",
+          "discussion_url": "https://news.ycombinator.com/item?id=50407043"
+        }
+      ]
+    },
+    {
+      "id": "d2fbb0fae5914fd385e6",
+      "url": "https://twitter.com/1littlecoder/status/2118985666008953038",
+      "title": "In less than $1, DeepSeek v4.1 Flash 1017 built a Mac App",
+      "original_title": "In less than $1, DeepSeek v4.1 Flash 1017 built a Mac App",
+      "published_at": "2026-11-07T18:40:07+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/1littlecoder/status/2118985666008953038",
+          "title": "In less than $1, DeepSeek v4.1 Flash 1017 built a Mac App",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406854"
+        }
+      ]
+    },
+    {
+      "id": "93b597808e37aa0d6724",
+      "url": "https://www.puglieseweb.com/blog/architecture-as-truth",
+      "title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
+      "original_title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
+      "published_at": "2026-11-07T18:37:04+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.puglieseweb.com/blog/architecture-as-truth",
+          "title": "AI Promoted Everybody. Architecture as Truth (AAT) Is the New Job",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406831"
+        }
+      ]
+    },
+    {
+      "id": "a2260212b25bcacf61a9",
+      "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
+      "title": "Gradual disempowerment model organism: Frontier AI labs",
+      "original_title": "Gradual disempowerment model organism: Frontier AI labs",
+      "published_at": "2026-11-07T18:32:04+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.lesswrong.com/posts/jbttuCF4wFZmXakcj/the-world-s-best-gradual-disempowerment-model-organism",
+          "title": "Gradual disempowerment model organism: Frontier AI labs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406802"
+        }
+      ]
+    },
+    {
+      "id": "0190e568be97b222dfdc",
+      "url": "https://github.com/PersonaliAI/chatty",
+      "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
+      "original_title": "Chatty – Open-source autonomous AI chat agent with tool calling",
+      "published_at": "2026-11-07T18:31:32+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/PersonaliAI/chatty",
+          "title": "Chatty – Open-source autonomous AI chat agent with tool calling",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406794"
+        }
+      ]
+    },
+    {
+      "id": "c037c1d442d57b42a407",
+      "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+      "title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
+      "original_title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
+      "published_at": "2026-11-07T18:23:18+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/Miyamoto-Renya/LaplacesScissors",
+          "title": "Show HN: Laplace's Scissors – A tool for directly editing LLM weights",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406735"
+        }
+      ]
+    },
+    {
+      "id": "415ef1f826d6012e4158",
+      "url": "https://github.com/lhadzic377-netizen/TokiRecur",
+      "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
+      "original_title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
+      "published_at": "2026-11-07T18:08:43+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/lhadzic377-netizen/TokiRecur",
+          "title": "TokiRecur – llama.cpp LLM launcher with KV-cache recycling",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406634"
+        }
+      ]
+    },
+    {
+      "id": "8017ce29f6d88c8d95a2",
+      "url": "https://hunch.net/?p=13764006",
+      "title": "The End of AI Frontiers",
+      "original_title": "The End of AI Frontiers",
+      "published_at": "2026-11-07T18:04:07+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hunch.net/?p=13764006",
+          "title": "The End of AI Frontiers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406589"
+        }
+      ]
+    },
+    {
+      "id": "1355f88619fbf7eb94d5",
+      "url": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
+      "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+      "original_title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+      "published_at": "2026-11-07T18:03:03+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thezvi.substack.com/p/gpt-6-astra-covertly-underperforms",
+          "title": "GPT-6 Astra Covertly Underperforms on Safety Research Tasks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406575"
+        }
+      ]
+    },
+    {
+      "id": "f3f115801f55cbec81fc",
+      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
+      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "original_title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "published_at": "2026-11-07T18:02:17+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
+          "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406563"
+        }
+      ]
+    },
+    {
+      "id": "65a983d512b9ad80dd5e",
+      "url": "https://qorqbot.com/",
+      "title": "Show HN: OS Grokbot, can run on Claude/codex subs",
+      "original_title": "Show HN: OS Grokbot, can run on Claude/codex subs",
+      "published_at": "2026-11-07T17:59:08+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://qorqbot.com/",
+          "title": "Show HN: OS Grokbot, can run on Claude/codex subs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50406534"
+        }
+      ]
+    },
+    {
+      "id": "f64bed7852404fa594dc",
+      "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html?smid=url-share&unlocked_article_code=1.OlE.47kX.eivz6u8UMHXN",
+      "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
+      "original_title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
+      "published_at": "2026-11-07T17:15:01+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cade Metz / New York Times : Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof “shocking news”; it could one day speed up chip design and break…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/06/science/ai-exponential-time-hypothesis.html?smid=url-share&unlocked_article_code=1.OlE.47kX.eivz6u8UMHXN",
+          "title": "Exponential Time Hypothesis co-proposer Russell Impagliazzo calls OpenAI's disproof \"shocking news\"; it could one day speed up chip design and break encryption (Cade Metz/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261107/p12"
+        }
+      ]
+    },
+    {
+      "id": "f329560c6435b57e64a3",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble",
+      "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
+      "original_title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
+      "published_at": "2026-11-07T16:35:01+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cecile Daurat / Bloomberg : Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees “shaky” projec…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-06/data-center-pullback-may-shield-real-economy-from-ai-bubble",
+          "title": "Democratic wins could slow AI investment and safeguard the US economy against a downturn by pacing it over time, as Deutsche Bank sees \"shaky\" projects killed (Cecile Daurat/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261107/p11"
+        }
+      ]
+    },
+    {
+      "id": "2b4e5a68a9d220778d8c",
+      "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics",
+      "title": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)",
+      "original_title": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)",
+      "published_at": "2026-11-07T15:30:01+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Paul Gillin / SiliconANGLE : Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics busines…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://siliconangle.com/2026/11/05/ocient-raises-100-million-as-agentic-ai-drives-growth-in-large-scale-analytics",
+          "title": "Chicago-based data analytics company Ocient raised a $100M Series C co-led by Boka Capital and OCA Ventures to grow its agentic AI analytics business (Paul Gillin/SiliconANGLE)",
+          "discussion_url": "https://www.techmeme.com/261107/p10"
+        }
+      ]
+    },
+    {
+      "id": "9dc677d7af40e534215f",
+      "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html?smid=nytcore-ios-share&unlocked_article_code=1.OlE.MZ9x.zeop-X6IZe5B",
+      "title": "Investigation: some Chinese companies approved by the US Commerce Department to handle Nvidia's H200 chips have empty offices and ties to firms under sanctions (New York Times)",
+      "original_title": "Investigation: some Chinese companies approved by the US Commerce Department to handle Nvidia's H200 chips have empty offices and ties to firms under sanctions (New York Times)",
+      "published_at": "2026-11-07T14:30:04+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Investigation: some Chinese companies approved by the US Commerce Department to handle Nvidia's H200 chips have empty offices and ties to firms under sanctions …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/07/business/economy/nvidia-chips-chinese-firms.html?smid=nytcore-ios-share&unlocked_article_code=1.OlE.MZ9x.zeop-X6IZe5B",
+          "title": "Investigation: some Chinese companies approved by the US Commerce Department to handle Nvidia's H200 chips have empty offices and ties to firms under sanctions (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261107/p9"
+        }
+      ]
+    },
+    {
+      "id": "87b8b9ccd8271eb4ddf3",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
+      "title": "Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul (Sayan Chakraborty/Nikkei Asia)",
+      "original_title": "Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul (Sayan Chakraborty/Nikkei Asia)",
+      "published_at": "2026-11-07T11:40:01+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sayan Chakraborty / Nikkei Asia : Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curr…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://asia.nikkei.com/editor-s-picks/interview/india-s-it-lobby-chief-warns-grads-could-struggle-to-find-jobs-due-to-ai",
+          "title": "Nasscom President Rajesh Nambiar warns AI could make it harder for fresh Indian engineering graduates to find jobs, urging an immediate CS curriculum overhaul (Sayan Chakraborty/Nikkei Asia)",
+          "discussion_url": "https://www.techmeme.com/261107/p8"
+        }
+      ]
+    },
+    {
+      "id": "c47cec33757680476e1a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+      "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+      "original_title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+      "published_at": "2026-11-07T10:05:17+00:00",
+      "collected_at": "2026-11-07T19:16:44+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 앤트로픽의 AI 코딩 에이전트 '클로드 코드'를 성공적인 상용 제품으로 키운 핵심 인물을 영입했다. '코워크'의 제품 개발에도 참여한 캣 우(Cat Wu)로, 오픈AI의 코덱스와 기업용 AI 에이전트 경쟁력을 강화하는 데 중요한 역할을 맡을 전망이다.비즈니스인사이더는 5일(현지시간) 앤트로픽의 클로드 코드…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
+          "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
+        }
+      ]
+    },
+    {
       "id": "150f95ef73a394141348",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
       "title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작",
