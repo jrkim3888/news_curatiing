@@ -610,14 +610,14 @@
     {
       "id": "c47cec33757680476e1a",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
-      "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
+      "title": "오픈AI, 클로드 코드 핵심 인물 캣 우 영입",
       "original_title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아",
       "published_at": "2026-11-07T10:05:17+00:00",
       "collected_at": "2026-11-07T19:16:44+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "오픈AI가 앤트로픽의 AI 코딩 에이전트 '클로드 코드'를 성공적인 상용 제품으로 키운 핵심 인물을 영입했다. '코워크'의 제품 개발에도 참여한 캣 우(Cat Wu)로, 오픈AI의 코덱스와 기업용 AI 에이전트 경쟁력을 강화하는 데 중요한 역할을 맡을 전망이다.비즈니스인사이더는 5일(현지시간) 앤트로픽의 클로드 코드…",
       "sources": [
         {
@@ -625,19 +625,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217134",
           "title": "오픈AI, '클로드 코드' 성공 주역 캣 우 영입…핵심 제품 총괄 맡아"
         }
-      ]
+      ],
+      "summary": "오픈AI가 앤트로픽의 클로드 코드 제품 책임자였던 캣 우를 영입해 핵심 제품 조직의 제품 관리를 총괄하게 했다. 우는 클로드 코드를 상용 서비스로 성장시킨 제품 전문가로, 오픈AI의 코덱스와 기업용 AI 에이전트 경쟁력 강화에 관여할 전망이다.",
+      "why_it_matters": "AI 코딩 에이전트 시장에서 제품 전문가 확보 경쟁이 치열해지고 있음을 보여주며, 오픈AI의 기업용 AI 제품 전략에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "1185bfb533409bc8bcc10cfd579e667df82b549103040beb7f01dca10553de89",
+        "evidence_verified": true
+      }
     },
     {
       "id": "150f95ef73a394141348",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
-      "title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작",
+      "title": "삼성·구글 첫 AI 안경, 12일 예약 판매 시작",
       "original_title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작",
       "published_at": "2026-11-07T09:14:54+00:00",
       "collected_at": "2026-11-07T09:41:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "삼성전자와 구글이 공동 개발한 첫 AI 안경이 오는 12일 예약 판매를 시작한다. 국내 젠틀몬스터와 미국 워비파커가 각각 디자인하고 구글의 '제미나이'를 탑재한 제품으로, 12월 정식 출시할 예정이다.젠틀몬스터와 워비파커는 오는 12일부터 '인텔리전트 아이웨어(Intelligent Eyewear)'의 예약 판매를 시…",
       "sources": [
         {
@@ -645,7 +655,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217133",
           "title": "삼성 첫 AI 안경 출시 임박…젠틀몬스터·워비파커, 12일 예약 시작"
         }
-      ]
+      ],
+      "summary": "삼성전자와 구글이 공동 개발한 첫 AI 안경이 12일 예약 판매를 시작해 12월 정식 출시될 예정이다. 젠틀몬스터와 워비파커가 디자인하고 구글 제미나이를 탑재한 이 제품은 카메라와 음성 기능을 중심으로 실시간 번역과 길 안내 등을 지원한다.",
+      "why_it_matters": "삼성전자와 구글이 메타가 주도하는 스마트 안경 시장에 본격 진입하는 계기로, 디자인 브랜드 협업을 통한 소비자 선택 확대가 기대된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "4d2a58b3ee7ccce37dd141e7bcb1e94948abf8505136e3d880d2218d97a7e8d3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5462766ae9d213614eff",
@@ -713,14 +733,14 @@
     {
       "id": "f3c3500de24f97539548",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
-      "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
+      "title": "씽킹 머신스, 잉클링 2 스몰 공개…중국 오픈 모델에 도전",
       "original_title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전",
       "published_at": "2026-11-07T08:45:42+00:00",
       "collected_at": "2026-11-07T09:41:07+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "오픈AI 출신 미라 무라티가 이끄는 씽킹 머신스 랩(Thinking Machines Lab)이 기존 모델보다 성능을 크게 높인 새로운 AI 모델을 공개했다. 중국 주요 오픈웨이트 모델과 경쟁할 수 있는 수준으로 평가되며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있도록 모델 가중치도 공개할 계획이다.씽킹 머신스는 …",
       "sources": [
         {
@@ -728,7 +748,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217132",
           "title": "씽킹 머신스, 성능 대폭 높인 '잉클링 2' 공개…중국 오픈 모델에 도전"
         }
-      ]
+      ],
+      "summary": "씽킹 머신스 랩이 총 5940억개 매개변수의 전문가 혼합 모델 잉클링 2 스몰을 출시했다. 아티피셜 애널리시스 종합 지능 지수에서 31점을 기록해 기존 모델보다 크게 향상됐으며, 회사는 다음 주 아파치 2.0 라이선스로 전체 가중치를 공개할 계획이다.",
+      "why_it_matters": "중국 기업이 주도해 온 오픈웨이트 모델 시장에서 비중국 모델의 경쟁력을 보여주며, 기업이 자체 업무에 맞춰 AI를 개발할 수 있는 선택지를 넓힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "fb972bf9a88a1694d82e70ba13017768b9719d9c9ccd3f3a24e56c7539d6dd25",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1a1b5f83380e0c5d68f9",
@@ -754,14 +784,14 @@
     {
       "id": "45c934c18ecc7061ae25",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
-      "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
+      "title": "바이두, 어니 5.5 플래시 베이스 공개…한국·유럽 사용 제한",
       "original_title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한",
       "published_at": "2026-11-07T08:08:12+00:00",
       "collected_at": "2026-11-07T09:41:07+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "중국 바이두가 딥시크와 텐센트, 샤오미의 경쟁 모델을 주요 성능 평가에서 앞서는 대형언어모델(LLM)을 공개했다. 특히 사전학습만 마친 모델의 가중치를 공개해 개발자들이 독자적인 AI를 만들도록 지원한다. 그러나 한국과 유럽을 사용 허가 지역에서 제외했다.바이두는 5일 공식 블로그와 허깅페이스를 통해 '어니 5.5 …",
       "sources": [
         {
@@ -769,7 +799,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217131",
           "title": "바이두, 딥시크 앞선 '어니 5.5' 베이스 모델 공개…한국·유럽 사용 제한"
         }
-      ]
+      ],
+      "summary": "바이두가 총 2800억개 매개변수의 전문가 혼합 모델 어니 5.5 플래시 베이스의 가중치를 공개했다. 자체 평가에서 딥시크와 텐센트, 샤오미의 유사 모델을 30개 벤치마크 중 24개에서 앞섰다고 밝혔으나, 자체 라이선스로 한국과 유럽연합, 영국을 사용 허가 지역에서 제외했다.",
+      "why_it_matters": "중국의 오픈웨이트 모델 경쟁이 심화되는 가운데, 지역 제한과 상업적 조건이 붙은 공개 방식이 개발자 생태계 확보에 어떤 영향을 줄지 주목된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "87848a44d4e160a07ca149c15464f422e7e5066822df8b5cbd2278c09b3aa07b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "23fa70074c348e862e87",
@@ -918,14 +958,14 @@
     {
       "id": "5280a2532d6b4c57840a",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42631",
-      "title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단",
+      "title": "유럽연합, 틱톡 추천 알고리즘에 디지털서비스법 위반 예비 판단",
       "original_title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단",
       "published_at": "2026-11-07T03:13:01+00:00",
       "collected_at": "2026-11-07T09:41:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "유럽연합(EU)이 틱톡(TikTok)의 개인화 추천 알고리즘이 이용자를 특정 콘텐츠에 반복적으로 노출해 정신건강에 부정적인 영향을 미칠 수 있다며 디지털서비스법(DSA) 위반에 대한 예비 판단을 내렸다. \"불법 콘텐츠 자체가 아니라 이용자의 행동을 분석해 유사한 콘텐츠를 지속적으로 추천하는 알고리즘의 설계와 운영 방…",
       "sources": [
         {
@@ -933,19 +973,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42631",
           "title": "EU, 틱톡 AI 추천 알고리즘에 제동…정신건강 위협하는 반복 추천에 디지털서비스법 위반 예비 판단"
         }
-      ]
+      ],
+      "summary": "유럽위원회는 틱톡의 '포 유' 추천 피드가 래빗홀 효과를 유발할 위험을 충분히 평가하지 않았고 보호조치도 효과적이지 못했다고 잠정 결론 내렸다. 틱톡은 위원회가 자사 노력을 왜곡한다고 반박했으며, 이번 발표는 최종 판정이 아닌 예비 판단이다.",
+      "why_it_matters": "추천 알고리즘의 설계와 운영 방식이 규제 대상이 될 수 있음을 보여주는 사례로, 플랫폼의 위험 평가와 이용자 보호 조치가 더 중요해질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "74716cf696ed1df40933fc2b41466edd7b3cff92a85e976f21175edbeef3be15",
+        "evidence_verified": true
+      }
     },
     {
       "id": "686095afbbd9a078fb93",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42630",
-      "title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측",
+      "title": "인덕티브 바이오 AI 모델, 약물 상호작용 예측 평가서 1위",
       "original_title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측",
       "published_at": "2026-11-07T02:25:26+00:00",
       "collected_at": "2026-11-07T09:41:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "인공지능을 활용해 신약 후보물질의 약물 상호작용 위험을 예측하는 기술이 국제 블라인드 평가에서 경쟁력을 입증했다.美 AI 신약 개발기업 인덕티브 바이오(Inductive Bio)의 AI 모델이 270개 이상의 참가팀이 경쟁한 약물 대사효소 억제 예측 평가에서 1위를 차지했다. 특히 엔비디아(NVIDIA)와 리커전(R…",
       "sources": [
         {
@@ -953,19 +1003,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42630",
           "title": "AI 신약 개발 모델, 270개 이상 경쟁팀 제치고 1위…인덕티브 바이오, 약물 상호작용 위험 예측"
         }
-      ]
+      ],
+      "summary": "인덕티브 바이오의 AI 모델 비컨이 270개 이상 참가팀이 경쟁한 약물 대사효소 억제 예측 블라인드 평가에서 1위를 차지했다. 엔비디아와 리커전 등이 참여한 이 평가에서 회사는 오픈ADMET 관련 평가 4회 연속 1위를 기록했다.",
+      "why_it_matters": "신약 개발 초기 단계에서 약물 상호작용 위험을 예측하는 AI의 실용성이 검증되고 있으며, 데이터 확보와 모델 최적화가 경쟁력의 핵심임을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "71f07e10a4ede46999730bb0c67bdc62dc084635eac6ddbac415169419995e81",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4d1dd575b8ff5d0550bf",
       "url": "https://byline.network/2026/11/6-475",
-      "title": "‘로컬 AI 시대’, 엔비디아 ‘RTX 스파크’가 그리는 미래",
+      "title": "엔비디아, 로컬 AI 겨냥한 RTX 스파크 플랫폼 소개",
       "original_title": "‘로컬 AI 시대’, 엔비디아 ‘RTX 스파크’가 그리는 미래",
       "published_at": "2026-11-07T02:02:10+00:00",
       "collected_at": "2026-11-07T09:41:07+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "“올해는 로컬 AI 에이전트의 해라고 할 수 있을 만큼 중요한 변곡점이었다. AI는 우리가 PC와 상호작용하는 방식과 사용하는 방법을 바꿔놓고 있다. 로컬 에이전트의 지능도 상당히 향상돼 고성능 프런티어 모델에 가까운 수준으로 발전하고 있다. 앞으로 AI 에이전트가 실행되는 PC에 대한 요구사항도 달라질 것이라고 보…",
       "sources": [
         {
@@ -973,7 +1033,17 @@
           "url": "https://byline.network/2026/11/6-475",
           "title": "‘로컬 AI 시대’, 엔비디아 ‘RTX 스파크’가 그리는 미래"
         }
-      ]
+      ],
+      "summary": "엔비디아가 서울 기자간담회에서 로컬 AI 실행을 겨냥한 PC 플랫폼 RTX 스파크를 소개했다. 이 제품은 블랙웰 아키텍처 기반 GPU와 ARM 기반 CPU를 결합한 시스템온칩으로, 최대 128GB 통합 메모리와 고성능 AI 연산 능력을 갖췄다.",
+      "why_it_matters": "클라우드 의존 없이 개인 기기에서 AI 에이전트를 구동하려는 수요에 대응하며, 보안과 비용 효율을 중시하는 사용자에게 선택지를 넓힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "3dc85b9f1771289019e13fe35d19ef868e7a130fce5942c4733e9141d9a1e93c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ed45e9d0e9c1798e9027",
@@ -1435,14 +1505,14 @@
     {
       "id": "4e0aa3919fe104e56d23",
       "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
-      "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
+      "title": "엔비디아, FLUX 3 이미지 생성 모델 최적화 튜토리얼 공개",
       "original_title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs",
       "published_at": "2026-11-06T22:20:20+00:00",
       "collected_at": "2026-11-07T00:40:17+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "When deploying diffusion models in design tools, image editors, and visual production workflows, developers must account for inference latency. Generating an... When deploying d…",
       "sources": [
         {
@@ -1450,7 +1520,17 @@
           "url": "https://developer.nvidia.com/blog/speed-up-image-generation-with-flux-3-image-klein-on-nvidia-blackwell-gpus",
           "title": "Speed Up Image Generation with FLUX 3 Image Klein on NVIDIA Blackwell GPUs"
         }
-      ]
+      ],
+      "summary": "엔비디아가 블랙웰 GPU에서 FLUX 3 이미지 클라인 모델의 추론 속도를 높이는 튜토리얼을 공개했다. 단일 B200 GPU에서 2048×2048 해상도 기준 텍스트-이미지 생성은 최대 3.46배, 이미지-이미지 생성은 4.45배 빨라졌다고 밝혔다.",
+      "why_it_matters": "이미지 생성 모델을 실제 서비스에 적용할 때 추론 지연과 비용을 줄이는 최적화 기술이 중요해지고 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-08T00:53:41+00:00",
+        "briefing_day": "2026-11-08",
+        "input_hash": "72b5854ceff6691c799fe197da394cefda2fbfc54519706f996895485b613ecc",
+        "evidence_verified": true
+      }
     },
     {
       "id": "340e901aeada649c29b6",
