@@ -3,6 +3,498 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "949c5fafa228b2de2844",
+      "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack",
+      "title": "What Can AI Hack? Inside Frontier Labs' Tests",
+      "original_title": "What Can AI Hack? Inside Frontier Labs' Tests",
+      "published_at": "2026-11-08T09:42:03+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack",
+          "title": "What Can AI Hack? Inside Frontier Labs' Tests",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411752"
+        }
+      ]
+    },
+    {
+      "id": "f979e7209eed0b06ba84",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
+      "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+      "original_title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+      "published_at": "2026-11-08T09:39:54+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 추천한 상품이나 콘텐츠가 다시 AI의 학습 데이터로 활용되면서 이용자의 실제 취향보다 AI가 과거에 추천했던 항목이 이후 추천에 더 큰 영향을 미치는 문제가 확인됐다. 특히 추천 대상에 없는 상품을 제시하거나 사용자의 특성을 잘못 추정하는 오류가 반복 학습 과정에서도 사라지지 않아, 대형언어모델(LLM) …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
+          "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인"
+        }
+      ]
+    },
+    {
+      "id": "c7d4b5215a65d7953ed6",
+      "url": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks",
+      "title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+      "original_title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+      "published_at": "2026-11-08T09:32:43+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://news.ncsu.edu/2026/11/new-techniques-to-prevent-backdoor-attacks",
+          "title": "Researchers unveiled new techniques to protect AI from backdoor attacks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411704"
+        }
+      ]
+    },
+    {
+      "id": "9d7805d2af0c1cd965e6",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42633",
+      "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
+      "original_title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
+      "published_at": "2026-11-08T09:21:16+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글로벌 산업용 컴퓨팅 기업 어드밴텍(Advantech)이 엣지 인공지능(Edge AI)을 기반으로 피지컬 AI와 산업 자율화를 구현하기 위한 핵심 기술과 산업 적용 전략을 공유했다. 인공지능(AI)이 데이터 분석과 예측을 넘어 실제 산업 현장에서 물리적 환경을 인식하고 판단하며 행동하는 단계로 발전하면서, 이를 뒷받…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42633",
+          "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유"
+        }
+      ]
+    },
+    {
+      "id": "50af4f82fb851ac435f8",
+      "url": "https://thinkstream.app/",
+      "title": "ThinkStream – AI generates the work. We still need to understand it",
+      "original_title": "ThinkStream – AI generates the work. We still need to understand it",
+      "published_at": "2026-11-08T09:20:04+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thinkstream.app/",
+          "title": "ThinkStream – AI generates the work. We still need to understand it",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411638"
+        }
+      ]
+    },
+    {
+      "id": "ab976e70bde961f74177",
+      "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
+      "title": "AI Companies Want to Buy Your Work Files and Emails",
+      "original_title": "AI Companies Want to Buy Your Work Files and Emails",
+      "published_at": "2026-11-08T09:15:06+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
+          "title": "AI Companies Want to Buy Your Work Files and Emails",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411618"
+        }
+      ]
+    },
+    {
+      "id": "338ef927e8202a5f8ba2",
+      "url": "https://robotpaper.ai/agentic-development-future-and-current-directions-nov-2026",
+      "title": "Agentic Development Future and Current Directions – Nov 2026",
+      "original_title": "Agentic Development Future and Current Directions – Nov 2026",
+      "published_at": "2026-11-08T09:00:10+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://robotpaper.ai/agentic-development-future-and-current-directions-nov-2026",
+          "title": "Agentic Development Future and Current Directions – Nov 2026",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411542"
+        }
+      ]
+    },
+    {
+      "id": "13af725a058a2ba6e644",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42632",
+      "title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시",
+      "original_title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시",
+      "published_at": "2026-11-08T08:42:49+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 디지털 환경의 데이터 분석과 의사결정을 넘어 로봇과 제조 설비 등 물리적 세계에서 직접 작동하는 단계로 발전하면서, 산업용 엣지 컴퓨팅의 역할이 확대되고 있다. 특히 엣지 AI가 개념검증(PoC)과 시범 도입을 넘어 실제 산업 현장에 적용되는 단계로 이동하면서 하드웨어와 소프트웨어, AI 모델을 통…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42632",
+          "title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시"
+        }
+      ]
+    },
+    {
+      "id": "02a78d56b4ac59152637",
+      "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
+      "title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
+      "original_title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
+      "published_at": "2026-11-08T08:23:27+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/Dr-Logvinovich/round-square/blob/main/README.md",
+          "title": "6th-grade Peano arithmetic broke OpenAI's $100B Yang-Mills mass gap proof",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411385"
+        }
+      ]
+    },
+    {
+      "id": "8366ec92792a63ea8aea",
+      "url": "https://knhash.in/no-ai-line-cook",
+      "title": "Being a line cook without talking to AI",
+      "original_title": "Being a line cook without talking to AI",
+      "published_at": "2026-11-08T08:16:14+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://knhash.in/no-ai-line-cook",
+          "title": "Being a line cook without talking to AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411352"
+        }
+      ]
+    },
+    {
+      "id": "c3ca7aecce3b32fd6da9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+      "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+      "original_title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+      "published_at": "2026-11-08T07:59:00+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 앤트그룹이 이미지와 동영상을 이해하고 복잡한 작업을 수행하는 멀티모달 AI 모델 '링 3.2 플래시(Ling-3.2-flash)'를 출시했다. 앤트로픽의 '클로드 오퍼스 5'를 일부 성능 평가에서 앞섰으며, 외부 웹 제작 평가에서도 상위 10위에 올랐다. 특히 저렴한 사용료와 100만토큰의 긴 컨텍스트를 앞세워…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+          "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서"
+        }
+      ]
+    },
+    {
+      "id": "a760ef6c207feafebd3c",
+      "url": "https://usdt-kit-production.up.railway.app/ramen",
+      "title": "Show HN: Ramen – an AI agent that has to earn its own rent",
+      "original_title": "Show HN: Ramen – an AI agent that has to earn its own rent",
+      "published_at": "2026-11-08T07:38:55+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://usdt-kit-production.up.railway.app/ramen",
+          "title": "Show HN: Ramen – an AI agent that has to earn its own rent",
+          "discussion_url": "https://news.ycombinator.com/item?id=50411182"
+        }
+      ]
+    },
+    {
+      "id": "0de58c5b5832cbedcf30",
+      "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07",
+      "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
+      "original_title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
+      "published_at": "2026-11-08T07:01:10+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Valerie Volcovici / Reuters : Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/sustainability/cop/environmental-groups-embrace-ai-even-they-warn-data-center-impacts-2026-11-07",
+          "title": "Major environmental groups are embracing AI to analyze climate data, track forest fires, and more, even as they warn of the environmental impact of data centers (Valerie Volcovici/Reuters)",
+          "discussion_url": "https://www.techmeme.com/261108/p6"
+        }
+      ]
+    },
+    {
+      "id": "fc895c39f880a83a422c",
+      "url": "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding",
+      "title": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)",
+      "original_title": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)",
+      "published_at": "2026-11-08T06:05:01+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "TechNode : Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ — GenR…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://technode.com/2026/11/02/robot-training-data-startup-genrobot-ai-raises-100-million-in-series-a-funding",
+          "title": "Beijing-based GenRobot AI, which develops equipment and software for collecting human demonstrations that can be used to train robots, raised a $100M Series A+ (TechNode)",
+          "discussion_url": "https://www.techmeme.com/261108/p2"
+        }
+      ]
+    },
+    {
+      "id": "68e3dffc1bddfa4da50c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+      "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "original_title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "published_at": "2026-11-08T03:08:58+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성하고, 전문 연구 경험이 부족한 분야에서도 AI가 과학자의 연구를 도울 수 있다는 가능성을 보여줬다.앤트로픽은 4일(현지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+          "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명"
+        }
+      ]
+    },
+    {
+      "id": "4017b35270ee1d97a2b7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+      "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
+      "original_title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시",
+      "published_at": "2026-11-08T02:48:25+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+          "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시"
+        }
+      ]
+    },
+    {
+      "id": "89eadba1a83b49787813",
+      "url": "https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312",
+      "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
+      "original_title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
+      "published_at": "2026-11-08T02:45:02+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Politico : How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms — For yea…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.politico.com/news/magazine/2026/11/06/ai-big-tech-2026-midterms-anthropic-openai-01152312",
+          "title": "How a small, wealthy AI-safety network that organized in Signal chats grew into a coalition that beat the $100M super PAC Leading the Future in the midterms (Politico)",
+          "discussion_url": "https://www.techmeme.com/261107/p18"
+        }
+      ]
+    },
+    {
+      "id": "1b3444259ad8a5a4dbec",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
+      "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
+      "original_title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
+      "published_at": "2026-11-08T02:26:48+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "구글이 퀄컴의 지분 5억4800만달러(약 7400억원)어치를 확보했다. 기존에 투자했던 AI 반도체 소프트웨어 기업을 퀄컴이 인수하면서 주식을 취득한 것으로, 퀄컴이 스마트폰 중심의 사업을 AI 데이터센터로 확대하는 시점에 알려져 주목받고 있다.로이터는 6일(현지시간) 구글 모회사 알파벳이 지난 3분기 퀄컴 주식 약…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217144",
+          "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득"
+        }
+      ]
+    },
+    {
+      "id": "788b53b0b2aa0aa9af10",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
+      "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
+      "original_title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시",
+      "published_at": "2026-11-08T02:01:12+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존이 AI 쇼핑 비서 '알렉사 포 쇼핑(Alexa for Shopping)'을 문자 메시지로 이용할 수 있는 서비스를 출시했다. 사용자는 별도의 앱이나 음성 명령 없이 문자로 상품을 검색하고 가격을 비교하거나 상품 구매까지 진행할 수 있는 것이 특징이다.아마존은 6일(현지시간) 미국 일부 고객을 대상으로 문자 기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217142",
+          "title": "아마존, 앱 없이 문자로 쇼핑 끝낸다…AI '알렉사' 문자 쇼핑 서비스 출시"
+        }
+      ]
+    },
+    {
+      "id": "0f4c5170859a5255ef4a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217138",
+      "title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
+      "original_title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장",
+      "published_at": "2026-11-08T01:45:54+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI 사무실에 몰래 녹음 장치를 설치한 혐의로 기소된 사우디아라비아 출신 전직 엔지니어 압둘라흐만 알포잔이 미국 법정에서 무죄를 주장했다.6일(현지시간) CNBC와 블룸버그 등에 따르면, 알포잔은 샌프란시스코 연방법원에서 열린 심리에서 변호인을 통해 무죄를 주장했다. 지난 10월9일 체포된 이후 보석 없이 구금된…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217138",
+          "title": "오픈AI 도청 혐의 사우디 엔지니어, 법정서 무죄 주장"
+        }
+      ]
+    },
+    {
+      "id": "e9a78a3073678447f5ff",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217139",
+      "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다",
+      "original_title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다",
+      "published_at": "2026-11-08T01:37:23+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 동남아시아 지역에서 판매한 첨단 AI 칩의 위치 추적을 강화한다. 미국의 수출 규제를 피해 동남아시아를 경유해 중국으로 첨단 AI 칩이 밀수되는 사례가 잇따르자, 클라우드 사업자에 칩 추적 시스템 가입을 의무화하는 방식으로 대응에 나섰다.블룸버그는 6일(현지시간) 엔비디아가 동남아시아 지역 고객사에 공식 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217139",
+          "title": "엔비디아, 동남아 판매 칩 위치 추적 강화로 밀수 차단 나선다"
+        }
+      ]
+    },
+    {
+      "id": "e9dbf8f711f52305b24f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217143",
+      "title": "독일 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
+      "original_title": "독일 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\"",
+      "published_at": "2026-11-08T01:27:21+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "AI로부터 안전한 직업을 찾기보다 앞으로 새롭게 생겨날 일자리를 준비해야 한다는 독일 노동시장 전문가의 주장이 나왔다. AI가 기존 업무를 대체하더라도 새로운 직무와 산업이 등장하기 때문에 청년들이 과거의 직업 구조에 맞춰 진로를 선택해서는 안 된다는 것이다.독일 연방고용청 산하 노동시장·직업연구소(IAB)의 엔초 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217143",
+          "title": "독일 전문가 \"AI에 안전한 직업 찾지 마라…미래 일자리 준비해야\""
+        }
+      ]
+    },
+    {
+      "id": "887bd7fd8ce9f633a14c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+      "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+      "original_title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\"",
+      "published_at": "2026-11-08T00:51:29+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 최신 '이미지 2.6'을 효과적으로 활용하기 위한 공식 프롬프트 가이드를 공개했다. 원하는 이미지를 정확하게 만들려면 용도와 구도, 스타일 등을 구체적으로 지정하고, 기존 이미지를 수정할 때는 바꿀 부분과 유지할 부분을 명확하게 구분해야 한다는 것이 핵심이다.오픈AI는 7일(현지시간) 개발자 문서에 '이미…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217140",
+          "title": "오픈AI, '이미지 2.6' 프롬프트 가이드 공개…\"바꿀 것과 유지할 것 구분하라\""
+        }
+      ]
+    },
+    {
+      "id": "37e0cf49f7b4a1b7fbc7",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+      "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
+      "original_title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
+      "published_at": "2026-11-08T00:45:01+00:00",
+      "collected_at": "2026-11-08T09:55:30+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Emily Birnbaum / Bloomberg : Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their el…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+          "title": "Anthropic-backed AI safety super PAC Public First spent $63M+ in the 2026 midterms, and 10 of the 17 congressional candidates it backed won their elections (Emily Birnbaum/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261107/p17"
+        }
+      ]
+    },
+    {
       "id": "69a96ad58f2ce7e2a46e",
       "url": "https://deepgains.substack.com/p/model-surgery-can-an-ai-directly",
       "title": "Model Surgery: Can an AI directly edit and make another AI forget facts?",
