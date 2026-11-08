@@ -3,6 +3,275 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "69a96ad58f2ce7e2a46e",
+      "url": "https://deepgains.substack.com/p/model-surgery-can-an-ai-directly",
+      "title": "Model Surgery: Can an AI directly edit and make another AI forget facts?",
+      "original_title": "Model Surgery: Can an AI directly edit and make another AI forget facts?",
+      "published_at": "2026-11-08T00:12:29+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://deepgains.substack.com/p/model-surgery-can-an-ai-directly",
+          "title": "Model Surgery: Can an AI directly edit and make another AI forget facts?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50409312"
+        }
+      ]
+    },
+    {
+      "id": "0616eb4432d961cfadb3",
+      "url": "https://twitter.com/v12sec/status/2118442075574464848",
+      "title": "Changing one letter bypassed an admin API in HuggingFace",
+      "original_title": "Changing one letter bypassed an admin API in HuggingFace",
+      "published_at": "2026-11-08T00:06:59+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/v12sec/status/2118442075574464848",
+          "title": "Changing one letter bypassed an admin API in HuggingFace",
+          "discussion_url": "https://news.ycombinator.com/item?id=50409269"
+        }
+      ]
+    },
+    {
+      "id": "c710f49858122ffe4a56",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217136",
+      "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
+      "original_title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길",
+      "published_at": "2026-11-08T00:03:39+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "세계 최대 반도체 위탁생산업체 TSMC가 엔비디아의 요청으로 차세대 메모리인 '3D D램' 개발을 검토하고 있다는 보도에 대해 기존 파운드리 사업에 집중하겠다는 입장을 밝혔다. 개발설을 직접 부인하지는 않았지만, 관련 기술이 상용화되기까지 수년이 걸려 당장의 메모리 공급 부족을 해결하기는 어렵다는 분석도 나왔다.톰스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217136",
+          "title": "TSMC, '3D D램' 개발설 사실상 부인…상용화도 먼 길"
+        }
+      ]
+    },
+    {
+      "id": "40630308035722d4e2b3",
+      "url": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
+      "title": "GitHub AI Vulnerability Scans for Repositories",
+      "original_title": "GitHub AI Vulnerability Scans for Repositories",
+      "published_at": "2026-11-08T00:02:46+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://docs.github.com/en/code-security/concepts/code-scanning/ai-scan-for-repositories",
+          "title": "GitHub AI Vulnerability Scans for Repositories",
+          "discussion_url": "https://news.ycombinator.com/item?id=50409231"
+        }
+      ]
+    },
+    {
+      "id": "8c416cac2e1213d024fa",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104",
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "original_title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "published_at": "2026-11-07T23:52:40+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104",
+          "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+          "discussion_url": "https://news.ycombinator.com/item?id=50409174"
+        }
+      ]
+    },
+    {
+      "id": "1f2623d54486fb8dbaa8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217135",
+      "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
+      "original_title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\"",
+      "published_at": "2026-11-07T23:52:25+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 정보당국이 젠슨 황 엔비디아 CEO가 중국 스파이로 의심되는 여성 기업인과 연인 관계였다고 판단한 것으로 알려졌다. 중국 정보기관이 황 CEO를 정보 수집 대상으로 삼았다는 기존 보도에 이어, 미국 정부 내부 문건에 두 사람의 사적인 관계에 관한 판단까지 담긴 사실이 새롭게 드러났다.파이낸셜타임스(FT)는 7일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217135",
+          "title": "FT \"미 정보당국, 젠슨 황 CEO와 중국 스파이 의심 인물 연인 관계로 판단\""
+        }
+      ]
+    },
+    {
+      "id": "7031e664031a871a483a",
+      "url": "https://ace.githubnext.com/",
+      "title": "Ace: GitHub Next's open-source tool for multiplayer agentic development",
+      "original_title": "Ace: GitHub Next's open-source tool for multiplayer agentic development",
+      "published_at": "2026-11-07T23:50:14+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://ace.githubnext.com/",
+          "title": "Ace: GitHub Next's open-source tool for multiplayer agentic development",
+          "discussion_url": "https://news.ycombinator.com/item?id=50409162"
+        }
+      ]
+    },
+    {
+      "id": "a329ef76f9a8fed412e6",
+      "url": "https://www.nature.com/articles/s41561-026-02149-0",
+      "title": "Responsible Use of Artificial Intelligence",
+      "original_title": "Responsible Use of Artificial Intelligence",
+      "published_at": "2026-11-07T23:02:46+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nature.com/articles/s41561-026-02149-0",
+          "title": "Responsible Use of Artificial Intelligence",
+          "discussion_url": "https://news.ycombinator.com/item?id=50408887"
+        }
+      ]
+    },
+    {
+      "id": "b4e82f3caf3ab1ea9ba2",
+      "url": "https://www.mellonbot.app/",
+      "title": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
+      "original_title": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
+      "published_at": "2026-11-07T22:57:12+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.mellonbot.app/",
+          "title": "Initial submission of Mellonbot – an AI agent for Linux server diagnostics",
+          "discussion_url": "https://news.ycombinator.com/item?id=50408834"
+        }
+      ]
+    },
+    {
+      "id": "2e47bc166e1306a20f5e",
+      "url": "https://www.jaymehoffman.com/writing/dragon-ball-ai",
+      "title": "Dragon Ball AI",
+      "original_title": "Dragon Ball AI",
+      "published_at": "2026-11-07T22:35:18+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.jaymehoffman.com/writing/dragon-ball-ai",
+          "title": "Dragon Ball AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50408688"
+        }
+      ]
+    },
+    {
+      "id": "51a247b5b6ae00e91ef5",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "original_title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "published_at": "2026-11-07T22:07:22+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "On Equity, we unpacked what the midterms mean for the tech industry.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+          "title": "After the midterms, things are looking rocky for Elon Musk and data centers"
+        }
+      ]
+    },
+    {
+      "id": "3b069222ecbd3b59ba7f",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "original_title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "published_at": "2026-11-07T21:17:08+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+          "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo"
+        }
+      ]
+    },
+    {
+      "id": "71b1ddf5ff3bfc79a7f0",
+      "url": "https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions",
+      "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa's election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
+      "original_title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa's election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
+      "published_at": "2026-11-07T19:40:04+00:00",
+      "collected_at": "2026-11-08T00:13:37+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Ann Davis Vaughan / The Information : Public records appear to show SpaceX building a “Starbase supercomputer” in TX, but Gina Hinojosa's election as governor may delay some of …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/blue-wave-may-stop-musks-texas-data-center-ambitions",
+          "title": "Public records appear to show SpaceX building a \"Starbase supercomputer\" in TX, but Gina Hinojosa's election as governor may delay some of the data center plans (Ann Davis Vaughan/The Information)",
+          "discussion_url": "https://www.techmeme.com/261107/p14"
+        }
+      ]
+    },
+    {
       "id": "612273a589d24c11f6ae",
       "url": "https://www.alekpetty.com/blog/ai_in_science.html",
       "title": "Some thoughts on AI, scientific papers, and peer review",
