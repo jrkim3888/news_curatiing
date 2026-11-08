@@ -3,6 +3,258 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ecaa80e2cfd42a971dd5",
+      "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+      "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+      "original_title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+      "published_at": "2026-11-08T19:14:41+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
+          "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50416103"
+        }
+      ]
+    },
+    {
+      "id": "46cfcce78d371245a51d",
+      "url": "https://world.emergence.ai/",
+      "title": "Ask HN- Will AI agents behave differently in a swarm?",
+      "original_title": "Ask HN- Will AI agents behave differently in a swarm?",
+      "published_at": "2026-11-08T19:11:54+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://world.emergence.ai/",
+          "title": "Ask HN- Will AI agents behave differently in a swarm?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50416075"
+        }
+      ]
+    },
+    {
+      "id": "3d85a2d648cd98b3f798",
+      "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes",
+      "title": "Canada's AI translation tool keeps making hilarious mistakes",
+      "original_title": "Canada's AI translation tool keeps making hilarious mistakes",
+      "published_at": "2026-11-08T18:52:42+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.blogto.com/tech/2026/11/canada-ai-translation-tool-making-mistakes",
+          "title": "Canada's AI translation tool keeps making hilarious mistakes",
+          "discussion_url": "https://news.ycombinator.com/item?id=50415905"
+        }
+      ]
+    },
+    {
+      "id": "8dd9e693db9ecf643b4d",
+      "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
+      "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+      "original_title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+      "published_at": "2026-11-08T18:46:42+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rgs-ibg.onlinelibrary.wiley.com/doi/10.1002/geo2.70113",
+          "title": "The Heavy Cloud: Hydrosocial Dispossession and the Water Coloniality of AI Infra",
+          "discussion_url": "https://news.ycombinator.com/item?id=50415854"
+        }
+      ]
+    },
+    {
+      "id": "f400a8a2e0a8ec6a5be1",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "original_title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "published_at": "2026-11-08T18:43:07+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "discussion_url": "https://news.ycombinator.com/item?id=50415817"
+        }
+      ]
+    },
+    {
+      "id": "a31f58ab0db551bf62d8",
+      "url": "https://github.com/rohith0707/llm-cost-watch",
+      "title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
+      "original_title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
+      "published_at": "2026-11-08T18:39:34+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/rohith0707/llm-cost-watch",
+          "title": "Show HN: LLM-cost-watch – Ask Claude why your LLM bill jumped",
+          "discussion_url": "https://news.ycombinator.com/item?id=50415785"
+        }
+      ]
+    },
+    {
+      "id": "edf895ec83a06f3878ba",
+      "url": "https://slopcalculator.com/",
+      "title": "Show HN: Is your product AI slop?",
+      "original_title": "Show HN: Is your product AI slop?",
+      "published_at": "2026-11-08T18:32:31+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://slopcalculator.com/",
+          "title": "Show HN: Is your product AI slop?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50415740"
+        }
+      ]
+    },
+    {
+      "id": "fe5fdb83e1ea95f1b424",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "original_title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "published_at": "2026-11-08T18:16:07+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "discussion_url": "https://news.ycombinator.com/item?id=50415628"
+        }
+      ]
+    },
+    {
+      "id": "a8ba1796982f11191d88",
+      "url": "https://www.theinformation.com/articles/ai-stock-can-market-absorb",
+      "title": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
+      "original_title": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
+      "published_at": "2026-11-08T17:45:00+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alex Eichenstein / The Information : Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/ai-stock-can-market-absorb",
+          "title": "Excluding Anthropic's IPO, AI companies sold or priced $300B+ of stock in 2026, with ~$100B more on tap, raising questions about how much the market can absorb (Alex Eichenstein/The Information)",
+          "discussion_url": "https://www.techmeme.com/261108/p10"
+        }
+      ]
+    },
+    {
+      "id": "401bd0df08e906f40723",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms",
+      "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
+      "original_title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
+      "published_at": "2026-11-08T16:20:06+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Mark Gurman / Bloomberg : Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capa…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE1MTkyNCwiZXhwIjoxNzk0NzU2NzI0LCJhcnRpY2xlSWQiOiJUTzZWMDFLSUpIOEkwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.36GAnE9alr4yBWfCUoJj6dU23ilQniOVEFSDSuoUVms",
+          "title": "Sources: John Ternus wants more urgency in Apple's AI efforts, pushing Craig Federighi to move beyond Siri AI tweaks to agentic and other advanced capabilities (Mark Gurman/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261108/p9"
+        }
+      ]
+    },
+    {
+      "id": "cb8c6b1adf460b531efe",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
+      "original_title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
+      "published_at": "2026-11-08T15:05:01+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Martha Muir / Financial Times : Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "title": "Sources: Anthropic bought commitments for 1.7GW of gas-fired generators from equipment supplier OnePWR for $3.4B, the largest known such purchase by an AI lab (Martha Muir/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261108/p8"
+        }
+      ]
+    },
+    {
+      "id": "cd36879835868947c553",
+      "url": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
+      "title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
+      "original_title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
+      "published_at": "2026-11-08T11:00:01+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "SemiAnalysis : Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash — A wind-po…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
+          "title": "Inside Inner Mongolia, China's fastest-growing AI data center region, where construction is accelerating with low building cost and no public backlash (SemiAnalysis)",
+          "discussion_url": "https://www.techmeme.com/261108/p7"
+        }
+      ]
+    },
+    {
       "id": "949c5fafa228b2de2844",
       "url": "https://dorcohen.dev/posts/what-can-ai-actually-hack",
       "title": "What Can AI Hack? Inside Frontier Labs' Tests",
@@ -123,6 +375,26 @@
           "url": "https://www.wired.com/story/ai-companies-really-really-want-to-buy-your-work-files-and-emails",
           "title": "AI Companies Want to Buy Your Work Files and Emails",
           "discussion_url": "https://news.ycombinator.com/item?id=50411618"
+        }
+      ]
+    },
+    {
+      "id": "735237aaefda3b49f235",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "original_title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "published_at": "2026-11-08T09:14:24+00:00",
+      "collected_at": "2026-11-08T19:22:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한 활동으로 꼽았지만, 실제 AI 사용 비중은 4% 수준에 그쳤다.앤트로픽은 5일(현지시간) 공식 블로그를 통해 '과학적 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+          "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\""
         }
       ]
     },
