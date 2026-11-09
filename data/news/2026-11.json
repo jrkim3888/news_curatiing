@@ -3,6 +3,503 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d6a0e254727d1deafd62",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42638",
+      "title": "서울아산병원, AI로 귀 질환 진단 정확도 최대 32.2%p 향상…전공의와 전문의 격차 크게 줄였다",
+      "original_title": "서울아산병원, AI로 귀 질환 진단 정확도 최대 32.2%p 향상…전공의와 전문의 격차 크게 줄였다",
+      "published_at": "2026-11-09T00:27:40+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 귀 내시경 영상을 분석해 의료진의 진단을 보조하면 중이염 등 귀 질환의 진단 정확도를 크게 높일 수 있다는 연구 결과가 나왔다. 특히 임상 경험이 적은 저연차 전공의의 진단 정확도가 32.2%포인트 상승하면서, AI가 의료진의 숙련도에 따른 진단 격차를 줄이는 데 기여할 수 있다는 가능성이 확인됐다.서울아…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42638",
+          "title": "서울아산병원, AI로 귀 질환 진단 정확도 최대 32.2%p 향상…전공의와 전문의 격차 크게 줄였다"
+        }
+      ]
+    },
+    {
+      "id": "0e66e776bebc556ea0b6",
+      "url": "https://station-house.net/",
+      "title": "Open Source AI Research Collaboration Platform",
+      "original_title": "Open Source AI Research Collaboration Platform",
+      "published_at": "2026-11-09T00:24:27+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://station-house.net/",
+          "title": "Open Source AI Research Collaboration Platform",
+          "discussion_url": "https://news.ycombinator.com/item?id=50419343"
+        }
+      ]
+    },
+    {
+      "id": "d4d9b14085b633d5fecd",
+      "url": "https://reapi.ai/models/gpt-image-2-6",
+      "title": "Turn prompts into images and editable SVGs with GPT Image 2.6",
+      "original_title": "Turn prompts into images and editable SVGs with GPT Image 2.6",
+      "published_at": "2026-11-09T00:11:24+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://reapi.ai/models/gpt-image-2-6",
+          "title": "Turn prompts into images and editable SVGs with GPT Image 2.6",
+          "discussion_url": "https://news.ycombinator.com/item?id=50419220"
+        }
+      ]
+    },
+    {
+      "id": "70214a9c6b8c3a992d8b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42637",
+      "title": "AI로 영상·음악·게임 직접 만든다…‘AI 콘텐츠 페스티벌 2026’ 12일 개막",
+      "original_title": "AI로 영상·음악·게임 직접 만든다…‘AI 콘텐츠 페스티벌 2026’ 12일 개막",
+      "published_at": "2026-11-09T00:07:20+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 영상과 음악, 게임 등 콘텐츠 산업의 제작 방식과 소비 경험을 바꾸는 가운데, AI 기술을 활용한 창작물을 직접 체험하고 콘텐츠 산업의 미래를 살펴볼 수 있는 행사가 열린다. 특히 올해는 관람객 중심의 전시·체험을 넘어 콘텐츠 기업의 투자유치와 사업 협력을 지원하는 프로그램이 새롭게 마련돼 AI 콘…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42637",
+          "title": "AI로 영상·음악·게임 직접 만든다…‘AI 콘텐츠 페스티벌 2026’ 12일 개막"
+        }
+      ]
+    },
+    {
+      "id": "b18e1e7e103a35a94ff8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217029",
+      "title": "[AI리더의 서가] AI 에이전트 시대의 연결 프로토콜",
+      "original_title": "[AI리더의 서가] AI 에이전트 시대의 연결 프로토콜",
+      "published_at": "2026-11-09T00:00:00+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 에이전트 시대의 연결 프로토콜후루카와 히데카즈 | 인사이트2026년 8월 20일추천이유저자는 MCP와 A2A 프로토콜을 단계별로 학습하고 직접 구현해 보면서 AI를 질의응답 도구에서 벗어나 실질적인 업무 자동화를 수행하는 동료로 만드는 방법을 제시합니다.상세보기 코딩 에이전트를 어떻게 쓰느냐고 묻던 개발자들이 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217029",
+          "title": "[AI리더의 서가] AI 에이전트 시대의 연결 프로토콜"
+        }
+      ]
+    },
+    {
+      "id": "dab987be36e106a40b42",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+      "title": "I'm Not Convinced the AI Bubble Exists",
+      "original_title": "I'm Not Convinced the AI Bubble Exists",
+      "published_at": "2026-11-08T23:44:36+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html",
+          "title": "I'm Not Convinced the AI Bubble Exists",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418975"
+        }
+      ]
+    },
+    {
+      "id": "24d2bfdfaeb65e490dbb",
+      "url": "https://github.com/vahmoh/Veda",
+      "title": "Veda: The Agentic Native Hobby OS",
+      "original_title": "Veda: The Agentic Native Hobby OS",
+      "published_at": "2026-11-08T23:28:19+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/vahmoh/Veda",
+          "title": "Veda: The Agentic Native Hobby OS",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418825"
+        }
+      ]
+    },
+    {
+      "id": "8bc6cb875d765899ebf1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42635",
+      "title": "이스트시큐리티, AI가 찾아낸 취약점 실제 공격 방어에 활용…‘프로젝트 캐노피’ 합류",
+      "original_title": "이스트시큐리티, AI가 찾아낸 취약점 실제 공격 방어에 활용…‘프로젝트 캐노피’ 합류",
+      "published_at": "2026-11-08T23:25:55+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 발견한 소프트웨어 취약점을 실제 사이버 공격을 차단하는 보안 기술로 연결하기 위한 협력이 확대된다. AI 기반 취약점 분석 기술과 보안 기업의 위협 인텔리전스를 결합해 새로운 보안 위협을 조기에 식별하고, 실제 공격에 악용될 가능성을 분석하는 선제적 방어 체계 구축이 핵심이다.이스트소프트의 보안 전문 자회…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42635",
+          "title": "이스트시큐리티, AI가 찾아낸 취약점 실제 공격 방어에 활용…‘프로젝트 캐노피’ 합류"
+        }
+      ]
+    },
+    {
+      "id": "6185ae0dc9b57fef1605",
+      "url": "https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do",
+      "title": "AI model to learn language the way children do",
+      "original_title": "AI model to learn language the way children do",
+      "published_at": "2026-11-08T23:24:44+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pni.princeton.edu/news/2026/princeton-researchers-train-ai-model-learn-language-way-children-do",
+          "title": "AI model to learn language the way children do",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418771"
+        }
+      ]
+    },
+    {
+      "id": "1d2f1d6c0a85ca42bc7f",
+      "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii",
+      "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+      "original_title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+      "published_at": "2026-11-08T23:22:40+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://en.gamegpu.com/news/zhelezo/polzovateli-nachali-massovo-skupat-videokarty-rtx-5060-ti-16gb-radi-ii",
+          "title": "Users have started buying RTX 5060 Ti 16GB graphics cards for the sake of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418752"
+        }
+      ]
+    },
+    {
+      "id": "4db6ddba473c37b3a65b",
+      "url": "https://shawnhargreaves.com/CooperativeVectorsAndNeuralRendering.pdf",
+      "title": "Cooperative Vectors and Neural Rendering [pdf]",
+      "original_title": "Cooperative Vectors and Neural Rendering [pdf]",
+      "published_at": "2026-11-08T23:17:27+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://shawnhargreaves.com/CooperativeVectorsAndNeuralRendering.pdf",
+          "title": "Cooperative Vectors and Neural Rendering [pdf]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418686"
+        }
+      ]
+    },
+    {
+      "id": "c66b75d63d2d29611513",
+      "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+      "title": "AI to find vulnerabilities in global legislation (on Git)",
+      "original_title": "AI to find vulnerabilities in global legislation (on Git)",
+      "published_at": "2026-11-08T23:13:27+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/lexifina/global-law/tree/main/vulnerabilities",
+          "title": "AI to find vulnerabilities in global legislation (on Git)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418651"
+        }
+      ]
+    },
+    {
+      "id": "debf9c7e2ffd93777b0a",
+      "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+      "title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+      "original_title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+      "published_at": "2026-11-08T22:55:01+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Garance Burke / Associated Press : Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising indep…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://apnews.com/article/ai-safety-trump-white-house-d3318eb2cf011df53e9ddb3e03d25f13",
+          "title": "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
+          "discussion_url": "https://www.techmeme.com/261108/p16"
+        }
+      ]
+    },
+    {
+      "id": "3212cf7021f4182e10b5",
+      "url": "https://www.exody.ai/",
+      "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+      "original_title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+      "published_at": "2026-11-08T22:50:39+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.exody.ai/",
+          "title": "Exody – Native macOS AI Workbench (5-stage loop, 100% BYOK, $0 markup)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418351"
+        }
+      ]
+    },
+    {
+      "id": "62c9989e66f80c8a3fa7",
+      "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak",
+      "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+      "original_title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+      "published_at": "2026-11-08T22:46:58+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://jaymollica.com/blog/ai-bullshit-and-art-speak",
+          "title": "AI, Bullshit and Art Speak: How the art world prepared us for the age of AI slop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418310"
+        }
+      ]
+    },
+    {
+      "id": "a0af12d22c84e8004197",
+      "url": "http://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+      "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+      "original_title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+      "published_at": "2026-11-08T22:44:35+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "http://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+          "title": "Nvidia Board to Probe Spying Case After CEO Admits Affair",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418284"
+        }
+      ]
+    },
+    {
+      "id": "1ea73a985a10efd61830",
+      "url": "https://github.com/lamarcol/NotBot",
+      "title": "Show HN: My first project, an AI-powered financial news analyzer",
+      "original_title": "Show HN: My first project, an AI-powered financial news analyzer",
+      "published_at": "2026-11-08T22:34:06+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/lamarcol/NotBot",
+          "title": "Show HN: My first project, an AI-powered financial news analyzer",
+          "discussion_url": "https://news.ycombinator.com/item?id=50418158"
+        }
+      ]
+    },
+    {
+      "id": "71c843041955ebc1fdc1",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "original_title": "parse_number() as a SQLite extension: C vs Rust",
+      "published_at": "2026-11-08T22:26:00+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that ad…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust",
+          "title": "parse_number() as a SQLite extension: C vs Rust"
+        }
+      ]
+    },
+    {
+      "id": "dd18157e6bfd11a362b4",
+      "url": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4",
+      "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
+      "original_title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
+      "published_at": "2026-11-08T21:45:03+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ian Hodgson / Wall Street Journal : US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despit…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/economy/jobs/is-ai-taking-white-collar-jobs-what-the-latest-numbers-tell-us-dd31b115?st=YYHUT4",
+          "title": "US professional services added 70K jobs in October, the most since July 2022, as AI-exposed consulting, legal, and accounting all grew despite AI job-loss fears (Ian Hodgson/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261108/p15"
+        }
+      ]
+    },
+    {
+      "id": "b1ba266d32bb7775c977",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217150",
+      "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\"",
+      "original_title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\"",
+      "published_at": "2026-11-08T21:42:12+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 스파이 의혹을 받는 여성과의 관계로 논란에 휩싸인 젠슨 황 엔비디아 CEO가 불륜 사실을 인정하고 가족과 직원들에게 사과했다. 엔비디아 이사회는 외국 정보기관의 접근 의혹에 대한 독립 조사에 착수했지만, 황 CEO는 계속 회사를 이끌 것이라고 밝혔다.황 CEO는 8일(현지시간) 엔비디아 공식 홈페이지에 공개한 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217150",
+          "title": "젠슨 황 \"아내에게 충실하지 못했다\" 사과…엔비디아 \"CEO직 유지\""
+        }
+      ]
+    },
+    {
+      "id": "8a86cf9d70b8065c8241",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "original_title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "published_at": "2026-11-08T21:00:11+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "In a memo to the company, Huang admitted that he had an affair.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+          "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy"
+        }
+      ]
+    },
+    {
+      "id": "094fadb7738e30b88eda",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+      "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
+      "original_title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
+      "published_at": "2026-11-08T20:35:00+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Madison Mills / Axios : Email to staff: Jensen Huang admits an affair, takes “full responsibility”, and says he fell short of his duties to Nvidia's board, shareholders, and emp…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation",
+          "title": "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)",
+          "discussion_url": "https://www.techmeme.com/261108/p14"
+        }
+      ]
+    },
+    {
+      "id": "82df4b8dccfee29dbe84",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE2ODU1OSwiZXhwIjoxNzk0NzczMzU5LCJhcnRpY2xlSWQiOiJUTzU3WTNWVFRDWlkwMCIsImJjb25uZWN0SWQiOiIyQ0FEODkyRDYzODU0QjJFOEI2MEM2QUI2OTg2MzBBNyJ9.AHrN1ygaU7rv8RK6qaS-JAmbJRFuZsKMk5VcnnENzt0&leadSource=article-gifting",
+      "title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+      "original_title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+      "published_at": "2026-11-08T20:25:00+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ian King / Bloomberg : Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compr…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDE2ODU1OSwiZXhwIjoxNzk0NzczMzU5LCJhcnRpY2xlSWQiOiJUTzU3WTNWVFRDWlkwMCIsImJjb25uZWN0SWQiOiIyQ0FEODkyRDYzODU0QjJFOEI2MEM2QUI2OTg2MzBBNyJ9.AHrN1ygaU7rv8RK6qaS-JAmbJRFuZsKMk5VcnnENzt0&leadSource=article-gifting",
+          "title": "Nvidia's board launches a probe into whether Jensen Huang was targeted by a foreign spy plot, saying it has no reason to believe Nvidia secrets were compromised (Ian King/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261108/p13"
+        }
+      ]
+    },
+    {
+      "id": "e78248aa982a016feea2",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+      "title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
+      "original_title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
+      "published_at": "2026-11-08T20:10:00+00:00",
+      "collected_at": "2026-11-09T00:36:06+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Saritha Rai / Bloomberg : DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+          "title": "DeepSeek says its open-source agent app Harness hit 1.54M DAUs on November 4, less than three months after launch, and uses ~92T tokens a day, or ~60M per user (Saritha Rai/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261108/p12"
+        }
+      ]
+    },
+    {
       "id": "ecaa80e2cfd42a971dd5",
       "url": "https://www.youtube.com/watch?v=zrlLUUdqDJI",
       "title": "Etsy changes terms to train AI on your creations, while blocking you doing it [video]",
