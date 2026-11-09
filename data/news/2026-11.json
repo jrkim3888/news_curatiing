@@ -775,14 +775,14 @@
     {
       "id": "f979e7209eed0b06ba84",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
-      "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+      "title": "UNIST, AI 추천의 반복 학습 편향 증폭 위험 확인",
       "original_title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
       "published_at": "2026-11-08T09:39:54+00:00",
       "collected_at": "2026-11-08T09:55:30+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "인공지능이 추천한 상품이나 콘텐츠가 다시 AI의 학습 데이터로 활용되면서 이용자의 실제 취향보다 AI가 과거에 추천했던 항목이 이후 추천에 더 큰 영향을 미치는 문제가 확인됐다. 특히 추천 대상에 없는 상품을 제시하거나 사용자의 특성을 잘못 추정하는 오류가 반복 학습 과정에서도 사라지지 않아, 대형언어모델(LLM) …",
       "sources": [
         {
@@ -790,7 +790,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
           "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인"
         }
-      ]
+      ],
+      "summary": "UNIST 연구팀이 LLM 기반 추천 시스템의 편향과 환각, 반복 학습에 따른 오류 누적을 추적하는 진단 프레임워크 '에코트레이스'를 개발했습니다. 실험에서 LLM이 직접 추천 목록을 생성할 때 실제 추천 대상에 없는 항목이 포함된 비율은 지역 상점 13.14%에 달했고, 사용자 직업 추정 오류율은 93.16%였습니다. 추천 결과가 다시 학습에 반영되는 피드백 루프가 이용자 취향보다 AI의 과거 추천을 강화할 수 있다는 점이 확인됐습니다.",
+      "why_it_matters": "추천 결과가 다시 학습에 반영되는 피드백 루프가 이용자 취향보다 AI의 과거 추천을 강화할 수 있어, 추천 시스템의 신뢰성 검증이 중요해진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "393a3485410b52b651a24c6a6a7147c3b01534f30a85f83eceb709eb9b852885",
+        "evidence_verified": true
+      }
     },
     {
       "id": "c7d4b5215a65d7953ed6",
@@ -816,14 +826,14 @@
     {
       "id": "9d7805d2af0c1cd965e6",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42633",
-      "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
+      "title": "어드밴텍, 엣지 AI에서 피지컬 AI로 산업 적용 전략 공유",
       "original_title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
       "published_at": "2026-11-08T09:21:16+00:00",
       "collected_at": "2026-11-08T09:55:30+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "글로벌 산업용 컴퓨팅 기업 어드밴텍(Advantech)이 엣지 인공지능(Edge AI)을 기반으로 피지컬 AI와 산업 자율화를 구현하기 위한 핵심 기술과 산업 적용 전략을 공유했다. 인공지능(AI)이 데이터 분석과 예측을 넘어 실제 산업 현장에서 물리적 환경을 인식하고 판단하며 행동하는 단계로 발전하면서, 이를 뒷받…",
       "sources": [
         {
@@ -831,7 +841,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42633",
           "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유"
         }
-      ]
+      ],
+      "summary": "어드밴텍이 서울에서 '2026 엣지 AI 데이'를 열고 엣지 AI가 개념검증을 넘어 산업 현장에 적용되는 단계로 이동하고 있다고 밝혔습니다. 차기 CEO 내정자 밀러 창은 클라우드 AI, 엣지 AI, 피지컬 AI로 이어지는 흐름을 설명하며 로보틱스와 스마트팩토리, 의료, 에너지 분야를 주요 성장 영역으로 제시했습니다.",
+      "why_it_matters": "AI가 데이터 분석을 넘어 로봇과 제조 설비 같은 물리적 환경으로 확장되면서 산업용 엣지 컴퓨팅과 통합 역량의 중요성이 커지고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "27509bc9c8a215bd2b307e3eab7d3722c6d7cfbf7d933dbdfd410b63678f11f1",
+        "evidence_verified": true
+      }
     },
     {
       "id": "50af4f82fb851ac435f8",
@@ -878,14 +898,14 @@
     {
       "id": "735237aaefda3b49f235",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
-      "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+      "title": "앤트로픽 조사, 과학자들은 AI를 데이터 분석에 주로 활용",
       "original_title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
       "published_at": "2026-11-08T09:14:24+00:00",
       "collected_at": "2026-11-08T19:22:43+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "과학 연구에서 AI 활용이 늘고 있지만, 새로운 아이디어나 가설을 만드는 작업보다 데이터 분석과 논문 작성에 집중되고 있다는 조사 결과가 나왔다. 연구자들은 가설 생성을 과학적 발견에서 가장 중요한 활동으로 꼽았지만, 실제 AI 사용 비중은 4% 수준에 그쳤다.앤트로픽은 5일(현지시간) 공식 블로그를 통해 '과학적 …",
       "sources": [
         {
@@ -893,7 +913,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
           "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\""
         }
-      ]
+      ],
+      "summary": "앤트로픽이 클로드와 클로드 코드의 과학 연구 세션 20만7049건과 과학자 528명 설문을 분석한 결과, 데이터 분석이 33.7%로 가장 많았고 가설 생성은 4.2%에 그쳤습니다. 과학자들은 가장 중요한 활동으로 가설 생성을 꼽았지만 실제 AI 사용 비중은 낮았고, 전문 연구용 서비스 '클로드 사이언스'에서는 가설 생성 비중이 8%로 일반 클로드의 약 2배였습니다.",
+      "why_it_matters": "AI가 연구의 반복 작업을 줄이는 데 집중되는 현실을 보여주며, 가설 생성 같은 창의적 단계로 활용을 넓히려면 전문 도구와 신뢰 확보가 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "d2b2d9fb2dae5b8df366ac7d07cc7f2d8f9219b0ace1376f341cb2b2547c0fa6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "338ef927e8202a5f8ba2",
@@ -919,14 +949,14 @@
     {
       "id": "13af725a058a2ba6e644",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42632",
-      "title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시",
+      "title": "어드밴텍 차기 CEO, 피지컬 AI 시대 성장 전략 제시",
       "original_title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시",
       "published_at": "2026-11-08T08:42:49+00:00",
       "collected_at": "2026-11-08T09:55:30+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인공지능(AI)이 디지털 환경의 데이터 분석과 의사결정을 넘어 로봇과 제조 설비 등 물리적 세계에서 직접 작동하는 단계로 발전하면서, 산업용 엣지 컴퓨팅의 역할이 확대되고 있다. 특히 엣지 AI가 개념검증(PoC)과 시범 도입을 넘어 실제 산업 현장에 적용되는 단계로 이동하면서 하드웨어와 소프트웨어, AI 모델을 통…",
       "sources": [
         {
@@ -934,7 +964,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42632",
           "title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시"
         }
-      ]
+      ],
+      "summary": "어드밴텍 차기 CEO로 내정된 밀러 창 임베디드 사업부 사장이 '2026 엣지 AI 데이' 기조연설에서 엣지 AI에서 피지컬 AI로 이어지는 기술 발전 방향과 산업별 적용 전략을 제시했습니다. 그는 클라우드 AI, 엣지 AI, 피지컬 AI로 이어지는 흐름을 설명하며 로보틱스와 스마트팩토리, 의료, 에너지 분야를 주요 성장 영역으로 꼽았습니다.",
+      "why_it_matters": "AI가 데이터 분석을 넘어 로봇과 제조 설비 같은 물리적 환경으로 확장되면서 산업용 엣지 컴퓨팅과 통합 역량의 중요성이 커지고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "86d0ce5e1c0f628f08014af46ce2a329a82d382f07b8dc0c61d2d89f2649f9a9",
+        "evidence_verified": true
+      }
     },
     {
       "id": "02a78d56b4ac59152637",
@@ -981,14 +1021,14 @@
     {
       "id": "c3ca7aecce3b32fd6da9",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
-      "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+      "title": "앤트그룹, 멀티모달 모델 '링 3.2 플래시' 공개",
       "original_title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
       "published_at": "2026-11-08T07:59:00+00:00",
       "collected_at": "2026-11-08T09:55:30+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "중국 앤트그룹이 이미지와 동영상을 이해하고 복잡한 작업을 수행하는 멀티모달 AI 모델 '링 3.2 플래시(Ling-3.2-flash)'를 출시했다. 앤트로픽의 '클로드 오퍼스 5'를 일부 성능 평가에서 앞섰으며, 외부 웹 제작 평가에서도 상위 10위에 올랐다. 특히 저렴한 사용료와 100만토큰의 긴 컨텍스트를 앞세워…",
       "sources": [
         {
@@ -996,7 +1036,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
           "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서"
         }
-      ]
+      ],
+      "summary": "중국 앤트그룹이 5600억개 매개변수 중 250억개만 활성화하는 전문가 혼합 구조의 멀티모달 모델 '링 3.2 플래시'를 출시했습니다. 옴니독벤치 1.5에서 92.21점으로 클로드 오퍼스 5의 90.56점을 앞섰고, 디자인아레나 이미지 기반 웹 제작 부문에서 10위에 올랐으며 입력 100만토큰당 0.30달러의 저렴한 가격을 내세웠습니다.",
+      "why_it_matters": "시각 이해와 저렴한 가격을 앞세운 중국 모델이 기업용 AI 에이전트 시장에서 경쟁을 심화시킬 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "e756ab257a3d58e7e6d2fa4737e1679730f7413db34545ddd1e08f2c25a1038a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a760ef6c207feafebd3c",
@@ -1064,14 +1114,14 @@
     {
       "id": "68e3dffc1bddfa4da50c",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
-      "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+      "title": "앤트로픽, 클로드로 볼트 입자 3D 구조 규명",
       "original_title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
       "published_at": "2026-11-08T03:08:58+00:00",
       "collected_at": "2026-11-08T09:55:30+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "앤트로픽이 '클로드'를 활용해 40년 동안 정확한 기능이 밝혀지지 않은 세포 속 단백질 구조물의 새로운 형태를 발견했다. 특히 기존에 몇주가 걸리던 3차원 구조 분석의 첫 모델을 34시간 만에 완성하고, 전문 연구 경험이 부족한 분야에서도 AI가 과학자의 연구를 도울 수 있다는 가능성을 보여줬다.앤트로픽은 4일(현지…",
       "sources": [
         {
@@ -1079,7 +1129,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
           "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명"
         }
-      ]
+      ],
+      "summary": "앤트로픽이 클로드를 활용해 40년간 기능이 밝혀지지 않은 세포 내 단백질 구조물 '볼트 입자'의 새로운 형태를 발견하고 3D 구조를 규명했습니다. 클로드는 150억개 단백질 서열에서 유사 단백질을 찾고 DNA 설계를 도왔으며, 기존에 몇 주 걸리던 3D 구조 분석 첫 모델을 34시간 만에 완성하는 데 기여했습니다. 다만 한 실험에서는 첨가제 조건을 잘못 제안해 연구를 2주 지연시키는 등 인간 연구자의 검증 필요성도 드러났습니다.",
+      "why_it_matters": "AI가 전문 연구자의 실험 설계와 분석을 도와 난제 해결 속도를 높일 수 있음을 보여주지만, 오류 사례는 인간 검증의 필요성을 함께 드러냅니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "bf58c1dd0ab8009255e65dbf94cd7807c0f5f4f1a4cb52ff8356a756f2ead6c6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4017b35270ee1d97a2b7",
@@ -1091,7 +1151,7 @@
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "아마존웹서비스(AWS)가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇(Kiro Bots)'을 출시했다. 각 에이전트가 과거 작업과 개발자의 판단 기준을 기억하고 맡은 업무를 지속적으로 관리하도록 해, 개발자가 여러 AI 에이전트를 일일이 감독해야 하는 부담을 줄이는 것이 핵…",
       "sources": [
         {
@@ -1099,7 +1159,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217141",
           "title": "AWS, 여러 AI 에이전트 지휘하는 '키로 봇' 출시"
         }
-      ]
+      ],
+      "summary": "아마존웹서비스가 여러 AI 에이전트의 작업을 조율하고 반복적인 개발 업무를 자동으로 수행하는 '키로 봇'을 출시했습니다. 각 봇은 독립적인 기억과 작업 공간을 갖추고 과거 작업에서 내린 결정과 개발자의 피드백을 저장해 이후 비슷한 업무에 활용합니다. AWS는 경쟁 제품 대비 생산성이나 작업 성공률을 보여주는 구체적인 벤치마크는 공개하지 않았습니다.",
+      "why_it_matters": "개발자가 개별 코딩 작업을 넘어 개발 업무의 지속적인 관리까지 AI에 위임할 수 있게 되지만, 비용과 정확성, 안전성은 실제 운영에서 검증이 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-09T01:09:33+00:00",
+        "briefing_day": "2026-11-09",
+        "input_hash": "e84c2f6c91d9cef28287acd0682d599a6bc3715205c25896f8238f09e87b8309",
+        "evidence_verified": true
+      }
     },
     {
       "id": "89eadba1a83b49787813",

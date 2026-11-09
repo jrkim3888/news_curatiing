@@ -3,6 +3,339 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-09",
+      "day": "2026-11-09",
+      "scheduled_at": "2026-11-08T21:30:00+00:00",
+      "generated_at": "2026-11-09T01:09:33+00:00",
+      "window_start": "2026-11-07T21:00:00+00:00",
+      "window_end": "2026-11-08T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI, 연구실과 산업 현장으로 확장…검증 부담도 커져",
+      "takeaway": "오늘의 한 줄: AI가 단백질 구조 규명과 산업 자동화 등 전문 영역으로 넓어질수록, 결과를 검증하고 편향을 관리하는 절차가 함께 필요해지고 있습니다.",
+      "overview": [
+        {
+          "text": "앤트로픽이 클로드를 활용해 40년간 기능이 밝혀지지 않은 세포 내 단백질 구조물 '볼트 입자'의 새로운 형태를 발견하고 3D 구조를 규명했습니다. 클로드는 150억개 단백질 서열에서 유사 단백질을 찾고 DNA 설계를 도왔으며, 기존에 몇 주 걸리던 3D 구조 분석 첫 모델을 34시간 만에 완성하는 데 기여했습니다. 다만 한 실험에서는 첨가제 조건을 잘못 제안해 연구를 2주 지연시키는 등 AI 결과에 대한 인간 연구자의 검증 필요성도 함께 드러났습니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "UNIST 연구팀은 LLM 기반 추천 시스템의 편향과 환각, 반복 학습에 따른 오류 누적을 추적하는 진단 프레임워크 '에코트레이스'를 개발했습니다. 실험에서 LLM이 직접 추천 목록을 생성할 때 실제 추천 대상에 없는 항목이 포함된 비율은 지역 상점 13.14%에 달했고, 사용자 직업 추정 오류율은 93.16%였습니다. 추천 결과가 다시 학습에 반영되는 피드백 루프가 이용자 취향보다 AI의 과거 추천을 강화할 수 있어 추천 시스템의 신뢰성 검증이 중요해졌습니다.",
+          "issue_ids": [
+            "issue-2"
+          ]
+        },
+        {
+          "text": "앤트로픽 조사에 따르면 과학자들은 AI를 데이터 분석과 논문 작성에 주로 활용하고 가설 생성에는 상대적으로 적게 사용했습니다. 과학자들은 가설 생성을 가장 중요한 활동으로 꼽았지만 실제 AI 사용 비중은 4% 수준에 그쳤고, 전문 연구용 서비스 '클로드 사이언스'에서는 가설 생성 비중이 8%로 두 배가량 높았습니다. 앤트그룹은 시각 이해 평가에서 클로드 오퍼스 5를 일부 앞선 멀티모달 모델 '링 3.2 플래시'를 공개하며 저렴한 가격으로 기업용 AI 에이전트 시장을 겨냥했습니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-4"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "앤트로픽, 클로드로 40년 미스터리 볼트 입자 3D 구조 규명",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "앤트로픽이 클로드를 활용해 40년간 기능이 밝혀지지 않은 세포 내 단백질 구조물 '볼트 입자'의 새로운 형태를 발견하고 3D 구조를 규명했다.",
+              "article_ids": [
+                "68e3dffc1bddfa4da50c"
+              ],
+              "links": [
+                {
+                  "text": "볼트 입자",
+                  "article_id": "68e3dffc1bddfa4da50c"
+                },
+                {
+                  "text": "3D 구조",
+                  "article_id": "68e3dffc1bddfa4da50c"
+                }
+              ]
+            },
+            {
+              "text": "클로드는 150억개 단백질 서열에서 유사 단백질을 찾고 DNA 설계를 도왔으며, 기존에 몇 주 걸리던 3D 구조 분석 첫 모델을 34시간 만에 완성하는 데 기여했다.",
+              "article_ids": [
+                "68e3dffc1bddfa4da50c"
+              ],
+              "links": [
+                {
+                  "text": "150억개 단백질 서열",
+                  "article_id": "68e3dffc1bddfa4da50c"
+                },
+                {
+                  "text": "34시간",
+                  "article_id": "68e3dffc1bddfa4da50c"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 전문 연구자의 실험 설계와 분석을 도우며 난제 해결 속도를 높일 수 있음을 보여주지만, 오류 사례는 인간 검증의 필요성을 함께 드러낸다.",
+          "article_ids": [
+            "68e3dffc1bddfa4da50c"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "UNIST, AI 추천이 다시 학습 데이터로 쓰이며 편향 증폭되는 위험 확인",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "UNIST 연구팀이 LLM 기반 추천 시스템의 편향과 환각, 반복 학습에 따른 오류 누적을 추적하는 진단 프레임워크 '에코트레이스'를 개발했다.",
+              "article_ids": [
+                "f979e7209eed0b06ba84"
+              ],
+              "links": [
+                {
+                  "text": "에코트레이스",
+                  "article_id": "f979e7209eed0b06ba84"
+                }
+              ]
+            },
+            {
+              "text": "실험에서 LLM이 직접 추천 목록을 생성할 때 실제 추천 대상에 없는 항목이 포함된 비율은 영화 4.07%, 도서 7.40%, 지역 상점 13.14%였고, 사용자 직업 추정 오류율은 93.16%에 달했다.",
+              "article_ids": [
+                "f979e7209eed0b06ba84"
+              ],
+              "links": [
+                {
+                  "text": "13.14%",
+                  "article_id": "f979e7209eed0b06ba84"
+                },
+                {
+                  "text": "93.16%",
+                  "article_id": "f979e7209eed0b06ba84"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "추천 결과가 다시 학습에 반영되는 피드백 루프가 이용자 취향보다 AI의 과거 추천을 강화할 수 있어, 추천 시스템의 신뢰성 검증이 중요해진다.",
+          "article_ids": [
+            "f979e7209eed0b06ba84"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "앤트로픽 조사, 과학자들은 AI를 데이터 분석에 주로 활용",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "앤트로픽이 클로드와 클로드 코드의 과학 연구 세션 20만7049건과 과학자 528명 설문을 분석한 결과, 데이터 분석이 33.7%로 가장 많았고 가설 생성은 4.2%에 그쳤다.",
+              "article_ids": [
+                "735237aaefda3b49f235"
+              ],
+              "links": [
+                {
+                  "text": "데이터 분석",
+                  "article_id": "735237aaefda3b49f235"
+                },
+                {
+                  "text": "가설 생성",
+                  "article_id": "735237aaefda3b49f235"
+                }
+              ]
+            },
+            {
+              "text": "과학자들은 가장 중요한 활동으로 가설 생성을 꼽았지만 실제 AI 사용 비중은 낮았고, 전문 연구용 서비스 '클로드 사이언스'에서는 가설 생성 비중이 8%로 일반 클로드의 약 2배였다.",
+              "article_ids": [
+                "735237aaefda3b49f235"
+              ],
+              "links": [
+                {
+                  "text": "클로드 사이언스",
+                  "article_id": "735237aaefda3b49f235"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 연구의 반복 작업을 줄이는 데 집중되는 현실을 보여주며, 가설 생성 같은 창의적 단계로 활용을 넓히려면 전문 도구와 신뢰 확보가 필요하다.",
+          "article_ids": [
+            "735237aaefda3b49f235"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "앤트그룹, 멀티모달 모델 '링 3.2 플래시' 공개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "중국 앤트그룹이 5600억개 매개변수 중 250억개만 활성화하는 전문가 혼합 구조의 멀티모달 모델 '링 3.2 플래시'를 출시했다.",
+              "article_ids": [
+                "c3ca7aecce3b32fd6da9"
+              ],
+              "links": [
+                {
+                  "text": "전문가 혼합",
+                  "article_id": "c3ca7aecce3b32fd6da9"
+                },
+                {
+                  "text": "링 3.2 플래시",
+                  "article_id": "c3ca7aecce3b32fd6da9"
+                }
+              ]
+            },
+            {
+              "text": "옴니독벤치 1.5에서 92.21점으로 클로드 오퍼스 5의 90.56점을 앞섰고, 디자인아레나 이미지 기반 웹 제작 부문에서 10위에 올랐으며 입력 100만토큰당 0.30달러의 저렴한 가격을 내세웠다.",
+              "article_ids": [
+                "c3ca7aecce3b32fd6da9"
+              ],
+              "links": [
+                {
+                  "text": "옴니독벤치 1.5",
+                  "article_id": "c3ca7aecce3b32fd6da9"
+                },
+                {
+                  "text": "디자인아레나",
+                  "article_id": "c3ca7aecce3b32fd6da9"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "시각 이해와 저렴한 가격을 앞세운 중국 모델이 기업용 AI 에이전트 시장에서 경쟁을 심화시킬 수 있다.",
+          "article_ids": [
+            "c3ca7aecce3b32fd6da9"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "어드밴텍, 엣지 AI에서 피지컬 AI로 산업 적용 전략 공유",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "어드밴텍이 서울에서 '2026 엣지 AI 데이'를 열고 엣지 AI가 개념검증을 넘어 산업 현장에 적용되는 단계로 이동하고 있다고 밝혔다.",
+              "article_ids": [
+                "9d7805d2af0c1cd965e6",
+                "13af725a058a2ba6e644"
+              ],
+              "links": [
+                {
+                  "text": "2026 엣지 AI 데이",
+                  "article_id": "9d7805d2af0c1cd965e6"
+                },
+                {
+                  "text": "개념검증",
+                  "article_id": "13af725a058a2ba6e644"
+                }
+              ]
+            },
+            {
+              "text": "차기 CEO 내정자 밀러 창은 클라우드 AI, 엣지 AI, 피지컬 AI로 이어지는 흐름을 설명하며 로보틱스와 스마트팩토리, 의료, 에너지 분야를 주요 성장 영역으로 제시했다.",
+              "article_ids": [
+                "13af725a058a2ba6e644"
+              ],
+              "links": [
+                {
+                  "text": "피지컬 AI",
+                  "article_id": "13af725a058a2ba6e644"
+                },
+                {
+                  "text": "로보틱스",
+                  "article_id": "13af725a058a2ba6e644"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 데이터 분석을 넘어 로봇과 제조 설비 같은 물리적 환경으로 확장되면서 산업용 엣지 컴퓨팅과 통합 역량의 중요성이 커지고 있다.",
+          "article_ids": [
+            "9d7805d2af0c1cd965e6",
+            "13af725a058a2ba6e644"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "f979e7209eed0b06ba84",
+          "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+          "published_at": "2026-11-08T09:39:54+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
+              "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "9d7805d2af0c1cd965e6",
+          "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
+          "published_at": "2026-11-08T09:21:16+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42633",
+              "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "735237aaefda3b49f235",
+          "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+          "published_at": "2026-11-08T09:14:24+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+              "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 \"데이터 분석 1위, 가설 생성 4%\"",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "13af725a058a2ba6e644",
+          "title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시",
+          "published_at": "2026-11-08T08:42:49+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42632",
+              "title": "어드밴텍 차기 CEO 밀러 창, “엣지 AI, 실증 넘어 산업 현장으로”…피지컬 AI 시대 성장 전략 제시",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "c3ca7aecce3b32fd6da9",
+          "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+          "published_at": "2026-11-08T07:59:00+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+              "title": "앤트그룹, '링 3.2 플래시' 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "68e3dffc1bddfa4da50c",
+          "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+          "published_at": "2026-11-08T03:08:58+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217145",
+              "title": "앤트로픽, 40년 미스터리 단백질 연구 돌파구…3D 구조 첫 규명",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 7,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "a62963e61545a190b18e0edef7b0f5d76e70d6f7dc42b514055923fcbf7a27ed"
+    },
+    {
       "id": "2026-11-08",
       "day": "2026-11-08",
       "scheduled_at": "2026-11-07T21:30:00+00:00",
