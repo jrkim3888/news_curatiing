@@ -3,6 +3,858 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "16d24d5403c703ae78f7",
+      "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+      "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+      "original_title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+      "published_at": "2026-11-09T23:40:49+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mashable.com/tech/google-gemini-chromebook-lawsuit-teen-planned-suicide",
+          "title": "A teen used her school Chromebook and Google AI Mode to plan her suicide",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433977"
+        }
+      ]
+    },
+    {
+      "id": "990d1eee4741728db079",
+      "url": "https://www.joesproxy.com/",
+      "title": "JoesProxy – The free network workbench for your AI agent",
+      "original_title": "JoesProxy – The free network workbench for your AI agent",
+      "published_at": "2026-11-09T23:39:03+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.joesproxy.com/",
+          "title": "JoesProxy – The free network workbench for your AI agent",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433956"
+        }
+      ]
+    },
+    {
+      "id": "28bf67cf1684b7b254ce",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "original_title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago",
+      "published_at": "2026-11-09T23:28:37+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago",
+          "title": "Jensen Huang reportedly engaged a PR firm with a history of handling high-profile sex scandals a year ago"
+        }
+      ]
+    },
+    {
+      "id": "55d17f4cb9f1c4dc47a7",
+      "url": "https://zonderlabs.com/slop",
+      "title": "Why Is AI Slop So Frustrating to Read?",
+      "original_title": "Why Is AI Slop So Frustrating to Read?",
+      "published_at": "2026-11-09T23:21:45+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://zonderlabs.com/slop",
+          "title": "Why Is AI Slop So Frustrating to Read?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433799"
+        }
+      ]
+    },
+    {
+      "id": "a64b4df745c82fbb17d6",
+      "url": "https://essenceia.github.io/projects/expresso",
+      "title": "Building a full ASIC chip (no AI)",
+      "original_title": "Building a full ASIC chip (no AI)",
+      "published_at": "2026-11-09T23:10:44+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://essenceia.github.io/projects/expresso",
+          "title": "Building a full ASIC chip (no AI)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433682"
+        }
+      ]
+    },
+    {
+      "id": "3ef8796c73132e7cae98",
+      "url": "https://nibiashara.com/agent-index",
+      "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+      "original_title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+      "published_at": "2026-11-09T23:10:11+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nibiashara.com/agent-index",
+          "title": "Show HN: Live counts of AI assistants reading a diaspora business directory",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433678"
+        }
+      ]
+    },
+    {
+      "id": "cb617631b4994f7b107e",
+      "url": "https://endtime-instruments.org/ai-bubble-tracker",
+      "title": "AI Bubble Tracker",
+      "original_title": "AI Bubble Tracker",
+      "published_at": "2026-11-09T23:09:15+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://endtime-instruments.org/ai-bubble-tracker",
+          "title": "AI Bubble Tracker",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433669"
+        }
+      ]
+    },
+    {
+      "id": "098c95b1350834a6ad98",
+      "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features",
+      "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+      "original_title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+      "published_at": "2026-11-09T23:05:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ryan Christoffel / 9to5Mac : Apple is now offering additional AI access via one-time $50 “intelligence usage packs” when monthly usage caps are met, starting in its Creator Stud…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://9to5mac.com/2026/11/09/apple-launches-50-intelligence-usage-packs-for-select-ai-features",
+          "title": "Apple is now offering additional AI access via one-time $50 \"intelligence usage packs\" when monthly usage caps are met, starting in its Creator Studio apps (Ryan Christoffel/9to5Mac)",
+          "discussion_url": "https://www.techmeme.com/261109/p45"
+        }
+      ]
+    },
+    {
+      "id": "c23894dbcd93a4320a39",
+      "url": "https://byline.network/2026/11/7328472934293479283",
+      "title": "[바스리] 물류센터 오배송, 사람 실수를 AI가 줄일 수 있을까",
+      "original_title": "[바스리] 물류센터 오배송, 사람 실수를 AI가 줄일 수 있을까",
+      "published_at": "2026-11-09T22:55:35+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "물류센터 근무자는 매일 창고에서 고객이 주문한 물건을 꺼낸다. 작업자는 PDA나 바코드 스캐너로 상품을 확인하고, 종이로 출력한 주문 내역서나 출고 지시서를 보며 파레트에 물건을 담는다. 중요한 것은 주문한 물건을 정확한 수량만큼 꺼내 출고하는 것이다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/7328472934293479283",
+          "title": "[바스리] 물류센터 오배송, 사람 실수를 AI가 줄일 수 있을까"
+        }
+      ]
+    },
+    {
+      "id": "40030809fd443d7a5ef2",
+      "url": "https://programmiere.de/writing/software-vs-model-local-rag",
+      "title": "A 9B with an agentic search loop beat a 35B MoE with one-shot retrieval",
+      "original_title": "A 9B with an agentic search loop beat a 35B MoE with one-shot retrieval",
+      "published_at": "2026-11-09T22:50:55+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://programmiere.de/writing/software-vs-model-local-rag",
+          "title": "A 9B with an agentic search loop beat a 35B MoE with one-shot retrieval",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433445"
+        }
+      ]
+    },
+    {
+      "id": "f4624ff3586a14628cae",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
+      "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
+      "original_title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
+      "published_at": "2026-11-09T22:50:43+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-intervened-in-us-probe-of-megaspeed-chip-smuggling",
+          "title": "Nvidia Intervened in US Probe of Megaspeed Chip Smuggling",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433440"
+        }
+      ]
+    },
+    {
+      "id": "e105484703996e34195d",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "original_title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "published_at": "2026-11-09T22:46:09+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+          "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal",
+          "title": "A report by short seller Culper Research from May is resurfacing because it had flagged Jensen Huang's relationship with Alice Huang as \"uncomfortably close\" (Sarah Perez/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261109/p46"
+        }
+      ]
+    },
+    {
+      "id": "653e9bcb44a075292ea8",
+      "url": "https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8",
+      "title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+      "original_title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+      "published_at": "2026-11-09T22:40:01+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Associated Press : Trump says the FBI is “looking into” Jensen Huang's affair, and the Nvidia CEO told him he “had absolutely no idea that the person in question was a spy” — Pr…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://apnews.com/article/china-denies-spy-jensen-huang-nvidia-3345b9f05c54d58909e88f6dcb9c1cd8",
+          "title": "Trump says the FBI is \"looking into\" Jensen Huang's affair, and the Nvidia CEO told him he \"had absolutely no idea that the person in question was a spy\" (Associated Press)",
+          "discussion_url": "https://www.techmeme.com/261109/p44"
+        }
+      ]
+    },
+    {
+      "id": "952d2516af2e905436ad",
+      "url": "https://openai.com/index/control-room",
+      "title": "OpenAI Control Room: track and stop model workloads across research infra",
+      "original_title": "OpenAI Control Room: track and stop model workloads across research infra",
+      "published_at": "2026-11-09T22:39:30+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openai.com/index/control-room",
+          "title": "OpenAI Control Room: track and stop model workloads across research infra",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433293"
+        },
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/control-room",
+          "title": "Control Room: A central system to track and stop model workloads across our research infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "bda3011897fcd94668c2",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+      "title": "The race is on to sue Nvidia",
+      "original_title": "The race is on to sue Nvidia",
+      "published_at": "2026-11-09T22:23:42+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the co…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia",
+          "title": "The race is on to sue Nvidia"
+        }
+      ]
+    },
+    {
+      "id": "0f10061bc33c1322aa4f",
+      "url": "https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis",
+      "title": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
+      "original_title": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
+      "published_at": "2026-11-09T22:00:35+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Semafor : Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company — Nvidia CEO Jense…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.semafor.com/article/11/09/2026/with-a-weak-board-and-no-successor-nvidia-confronts-a-governance-crisis",
+          "title": "Jensen Huang's affair shines a spotlight on Nvidia's weak board and opaque succession planning at what has become the world's most important company (Semafor)",
+          "discussion_url": "https://www.techmeme.com/261109/p43"
+        }
+      ]
+    },
+    {
+      "id": "03383786a42e749fa3f3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217162",
+      "title": "[11월9일] 중국 AI, 미국 모델 따라잡았다지만…오픈AI·앤트로픽엔 미공개 모델 있다",
+      "original_title": "[11월9일] 중국 AI, 미국 모델 따라잡았다지만…오픈AI·앤트로픽엔 미공개 모델 있다",
+      "published_at": "2026-11-09T22:00:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 기업들이 최근 신제품을 출시할 때 오픈AI와 앤트로픽의 최첨단 모델을 따라잡거나 일부 성능에서 앞섰다고 강조하는 일이 늘고 있습니다. 앤트그룹은 지난 5일 멀티모달 AI 모델 '링 3.2 플래시'를 발표하며 문서 이해와 시각 추론 등 일부 평가에서 '클로드 오퍼스 5'를 앞섰다고 밝혔습니다. 문샷 AI도 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217162",
+          "title": "[11월9일] 중국 AI, 미국 모델 따라잡았다지만…오픈AI·앤트로픽엔 미공개 모델 있다"
+        }
+      ]
+    },
+    {
+      "id": "68e63479aa7626b02b6a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217196",
+      "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하",
+      "original_title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하",
+      "published_at": "2026-11-09T21:34:13+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "앤트로픽이 새로운 최상위 모델 '클로드 페이블 5.2(Claude Fable 5.2)'와 '클로드 미소스 5.2(Claude Mythos 5.2)'를 출시했다. 페이블 5.2는 아티피셜 애널리시스의 성능 평가(AAII)에서 구글을 제치고 1위를 되찾았으며, API 가격도 20% 인하해 기업용 AI 시장에서 성능과 비…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217196",
+          "title": "앤트로픽 '페이블 5.2', AI 성능 평가 1위 탈환…API 가격도 20% 인하"
+        }
+      ]
+    },
+    {
+      "id": "8400c682d1214f2c90b1",
+      "url": "https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens",
+      "title": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
+      "original_title": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
+      "published_at": "2026-11-09T21:15:14+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anna Tong / Forbes : AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/annatong/2026/11/09/fireworks-cyberattack-exposes-customer-data-and-ai-models-as-fallout-widens",
+          "title": "AI infrastructure provider Fireworks says hackers accessed some customers' datasets, incomplete model weights, and billing information over the past month (Anna Tong/Forbes)",
+          "discussion_url": "https://www.techmeme.com/261109/p42"
+        }
+      ]
+    },
+    {
+      "id": "a0c7c7d66a100a72e98d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217195",
+      "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
+      "original_title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥",
+      "published_at": "2026-11-09T20:55:06+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO를 둘러싼 중국 스파이 의혹이 미국 의회의 중국 AI 반도체 수출 정책과 트럼프 행정부에 대한 감독 문제로 이어지고 있다. 공화당이 비공개 브리핑을 요구한 데 이어 민주당도 상무장관의 증언과 의회 조사를 촉구하면서, 엔비디아의 중국 관련 사업과 미국 정부의 수출 허가 결정 과정까지 쟁점으로 떠…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217195",
+          "title": "미 의회, 젠슨 황 조사 압박…중국 AI 칩 거래·정부 책임도 겨냥"
+        }
+      ]
+    },
+    {
+      "id": "5677677883680b7983a8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217194",
+      "title": "엔비디아 주가 장중 8.8% 급락…주요 투자자들은 젠슨 황 잔류 지지",
+      "original_title": "엔비디아 주가 장중 8.8% 급락…주요 투자자들은 젠슨 황 잔류 지지",
+      "published_at": "2026-11-09T20:38:46+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO의 불륜 인정과 중국 스파이 의혹으로 엔비디아 주가가 장중 최대 8.8% 급락했다. 그러나 주요 투자자들은 개인적인 처신에 실망하면서도 경영 지속을 공개적으로 지지하고 있다. 시장에서는 경영 불확실성을 우려해 주식을 매도하는 움직임이 나타난 가운데, 일부 주요 투자자는 CEO 교체가 오히려 기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217194",
+          "title": "엔비디아 주가 장중 8.8% 급락…주요 투자자들은 젠슨 황 잔류 지지"
+        }
+      ]
+    },
+    {
+      "id": "d4adfbe9fb313e38c50e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217193",
+      "title": "\"젠슨 황 후계자 없다\"…자녀들 영향력 확대에 승계 논란",
+      "original_title": "\"젠슨 황 후계자 없다\"…자녀들 영향력 확대에 승계 논란",
+      "published_at": "2026-11-09T20:33:32+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO가 중국 스파이 의혹과 관련해 이사회 조사를 받게 되면서 후계자 부재와 가족들의 회사 내 영향력이 새롭게 주목받고 있다. 경영 권한이 창업자 한 사람에게 집중된 가운데 자녀들의 역할까지 커진 것으로 알려져, 향후 경영 승계와 이사회의 독립성에 대한 의문이 제기되고 있다.월스트리트저널(WSJ)과…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217193",
+          "title": "\"젠슨 황 후계자 없다\"…자녀들 영향력 확대에 승계 논란"
+        }
+      ]
+    },
+    {
+      "id": "e7b41c563c8e101b7fe3",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "original_title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "published_at": "2026-11-09T20:09:06+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Nvidia CEO also pulled out of an Anthropic event earlier.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+          "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
+        }
+      ]
+    },
+    {
+      "id": "ea17c3bd304fbe53d513",
+      "url": "https://thenewstack.io/anthropic-fable-coding-upgrade",
+      "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+      "original_title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+      "published_at": "2026-11-09T20:00:51+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Frederic Lardinois / The New Stack : Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://thenewstack.io/anthropic-fable-coding-upgrade",
+          "title": "Anthropic prices Fable 5.2 and Mythos 5.2 at $8/1M input and $40/1M output tokens, down 20% from 5.1; fast mode costs $16/1M input and $80/1M output tokens (Frederic Lardinois/The New Stack)",
+          "discussion_url": "https://www.techmeme.com/261109/p40"
+        }
+      ]
+    },
+    {
+      "id": "a3bc8ca770f44f2d2835",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "original_title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "published_at": "2026-11-09T19:24:51+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+          "title": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+        }
+      ]
+    },
+    {
+      "id": "f742c03a9c8c1cff71ab",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZxTEU5c3dWWmMiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMzAwMDUvYW50aHJvcGljLWNsYXVkZS1mYWJsZS1teXRob3MtNS0yIiwiZXhwIjoxNzk0NjgzNDYyLCJpYXQiOjE3OTQyNTE0NjJ9.2LVCU8fAafdd4rkRbz6XCtLFvyK6Lugr0vpJRrELfpo",
+      "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
+      "original_title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
+      "published_at": "2026-11-09T19:15:01+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jay Peters / The Verge : Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics p…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IlZxTEU5c3dWWmMiLCJwIjoiL2FpLWFydGlmaWNpYWwtaW50ZWxsaWdlbmNlLzEwMzAwMDUvYW50aHJvcGljLWNsYXVkZS1mYWJsZS1teXRob3MtNS0yIiwiZXhwIjoxNzk0NjgzNDYyLCJpYXQiOjE3OTQyNTE0NjJ9.2LVCU8fAafdd4rkRbz6XCtLFvyK6Lugr0vpJRrELfpo",
+          "title": "Anthropic says during prerelease testing Mythos 5.2 and Fable 5.2 formalized the proof of Fermat's Last Theorem and solved two open black hole physics problems (Jay Peters/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261109/p39"
+        }
+      ]
+    },
+    {
+      "id": "2379109f43cc3c2befa8",
+      "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5",
+      "title": "NVIDIA, Holoscan 5로 로봇 암 중력 보상 제어 튜토리얼 공개",
+      "original_title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5",
+      "published_at": "2026-11-09T19:09:32+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Picture guiding a robot arm by hand while its motors supply just enough torque to support its weight and keep the robot upright. This simple interaction, a... Picture guiding a …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/make-a-robot-arm-feel-weightless-with-nvidia-holoscan-5",
+          "title": "Make a Robot Arm Feel Weightless with NVIDIA Holoscan 5"
+        }
+      ],
+      "summary": "NVIDIA가 Holoscan 5의 로봇 제어 기능을 활용해 Seeed Studio reBot Arm B601-DM에서 중력 보상 루프를 구현하는 튜토리얼을 공개했다. 관절 상태 읽기, Pinocchio 역동역학 기반 중력 토크 계산, 모터 명령 전송의 세 연산자를 그래프로 연결하며, Jetson Orin Nano, Jetson Thor, x86 Ubuntu 24.04에서 테스트됐다고 밝혔다. Holoscan은 파티션 기반 단일 스레드 실행과 Nsight Systems 주석을 통한 지연·지터 측정을 지원한다고 설명한다.",
+      "why_it_matters": "저가형 준직접구동 로봇 암에서 토크 제어와 실시간 런타임 분석을 결합한 예시로, 로봇 제어 개발의 진입 장벽을 낮추는 데 참고가 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-09T23:43:28+00:00",
+        "input_hash": "570de015f4045bcb5d2a312b3b6a1ef4eee5f9814fc83d25eeb08e4dd559916b",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a989f1582084d0cf153c",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "title": "Anthropic releases Mythos 5.2 and Fable 5.2, saying they are \"best for the most ambitious, open-ended technical work\", with outputs up to 30% faster than 5.1 (Anthropic)",
+      "original_title": "Anthropic releases Mythos 5.2 and Fable 5.2, saying they are \"best for the most ambitious, open-ended technical work\", with outputs up to 30% faster than 5.1 (Anthropic)",
+      "published_at": "2026-11-09T19:02:08+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic : Anthropic releases Mythos 5.2 and Fable 5.2, saying they are “best for the most ambitious, open-ended technical work”, with outputs up to 30% faster than 5.1 — We've…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+          "title": "Anthropic releases Mythos 5.2 and Fable 5.2, saying they are \"best for the most ambitious, open-ended technical work\", with outputs up to 30% faster than 5.1 (Anthropic)",
+          "discussion_url": "https://www.techmeme.com/261109/p38"
+        }
+      ]
+    },
+    {
+      "id": "caa9073cefb43725f1a5",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "original_title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "published_at": "2026-11-09T19:00:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "title": "ChatGPT Enterprise now available in AWS Marketplace"
+        }
+      ]
+    },
+    {
+      "id": "38597062943c675332ee",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "original_title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "published_at": "2026-11-09T18:09:52+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny",
+          "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny"
+        }
+      ]
+    },
+    {
+      "id": "e8884a0ba45abd7629fd",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "original_title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "published_at": "2026-11-09T18:00:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+          "title": "Meta releases Muse Ember, a new lightweight model for agent execution"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+          "title": "Meta releases Muse Ember, its smallest and most cost-efficient AI model yet, saying it delivers more intelligence per dollar than Haiku 5.5 and GPT-6 Luna (Russell Brandom/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261109/p35"
+        }
+      ]
+    },
+    {
+      "id": "48b9783d0be504133140",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "original_title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "published_at": "2026-11-09T16:56:54+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines",
+          "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+        }
+      ]
+    },
+    {
+      "id": "8de85573ec67544381c8",
+      "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?smid=url-share&unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8",
+      "title": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
+      "original_title": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
+      "published_at": "2026-11-09T16:20:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened — A…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/09/business/economy/nvidia-megaspeed-investigation-huang.html?smid=url-share&unlocked_article_code=1.PFE.kx0T.Y85ccrbdDRP8",
+          "title": "Sources: a Commerce Department investigation into Megaspeed for allegedly smuggling Nvidia chips to China was transferred to the DOJ after Nvidia intervened (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261109/p32"
+        }
+      ]
+    },
+    {
+      "id": "d65b75d7c2a2b265ec1b",
+      "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "original_title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "published_at": "2026-11-09T16:12:28+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
+          "title": "Medium’s new TK app brings AI assistance directly into the writing process"
+        }
+      ]
+    },
+    {
+      "id": "ac8f18750241a65f1eaf",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "original_title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "published_at": "2026-11-09T15:05:57+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+          "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context"
+        }
+      ]
+    },
+    {
+      "id": "d15f7e7eb74eac75d972",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42661",
+      "title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 선점 위해 ‘원팀’ 구축…반도체·배터리·로봇 기술 결집",
+      "original_title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 선점 위해 ‘원팀’ 구축…반도체·배터리·로봇 기술 결집",
+      "published_at": "2026-11-09T14:51:39+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성과 현대자동차그룹이 반도체, 배터리, 전장 기술과 자율주행, 로보틱스 역량을 결합해 미래 모빌리티와 피지컬 AI 시장 선점에 나선다. 기존 차량용 부품 공급을 중심으로 이어온 협력 관계를 미래 첨단 산업 전반의 전략적 파트너십으로 확대하면서 국내 양대 산업그룹의 기술 협력이 새로운 단계에 접어들고 있다.삼성은 9…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42661",
+          "title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 선점 위해 ‘원팀’ 구축…반도체·배터리·로봇 기술 결집"
+        }
+      ]
+    },
+    {
+      "id": "3b3e007c29566441b3ef",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42660",
+      "title": "아마존, 글로벌 의료 격차 해소에 1억달러 투입…에이전틱 AI로 진단·의료 연구·식량 지원 확대",
+      "original_title": "아마존, 글로벌 의료 격차 해소에 1억달러 투입…에이전틱 AI로 진단·의료 연구·식량 지원 확대",
+      "published_at": "2026-11-09T14:31:18+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존이 인공지능(AI)과 클라우드 기술을 활용해 전 세계 의료 취약계층을 지원하는 1억달러(약 1300억원) 규모의 글로벌 프로그램을 출범했다. 생성형 AI와 에이전틱 AI를 의료 진단과 임상 업무, 질병 연구, 식량 지원 등에 적용해 국가와 지역 간 의료 서비스 격차를 줄이겠다는 구상이다.아마존웹서비스(Amazo…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42660",
+          "title": "아마존, 글로벌 의료 격차 해소에 1억달러 투입…에이전틱 AI로 진단·의료 연구·식량 지원 확대"
+        }
+      ]
+    },
+    {
+      "id": "002b5d6d214abd27bf87",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "original_title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "published_at": "2026-11-09T14:00:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Automattic aims to compete with the likes of Lovable with Spacefast.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+          "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet"
+        }
+      ]
+    },
+    {
+      "id": "0fd59cc0deb0b1c4df6d",
+      "url": "https://byline.network/2026/11/1109-8",
+      "title": "제논이 바라본 기업 AX…모델보다 중요한 업무 프로세스",
+      "original_title": "제논이 바라본 기업 AX…모델보다 중요한 업무 프로세스",
+      "published_at": "2026-11-09T13:26:15+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 생성형 AI 도입이 단순 질의응답을 넘어 핵심 업무 프로세스를 수행하는 에이전틱 AI로 확대되면서, 업무 맥락과 레거시 시스템 연동 등 기업 환경에 맞는 AI 구축의 중요성이 커지고 있다. 제논은 에이전트 개발부터 배포·운영까지 지원하는 플랫폼 ‘제노스(GenOS)’와 자연어 기반 애플리케이션 개발 도구 ‘젠…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1109-8",
+          "title": "제논이 바라본 기업 AX…모델보다 중요한 업무 프로세스"
+        }
+      ]
+    },
+    {
+      "id": "55d059b88c6c576a2f3d",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "title": "아마존, 전문가 간 상호작용 고려한 MoE 프루닝 기법 HOPE 공개",
+      "original_title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "published_at": "2026-11-09T12:34:29+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+          "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together"
+        }
+      ],
+      "summary": "아마존은 희소 전문가 혼합(MoE) 언어 모델에서 전문가를 제거할 때 전문가 간 협력 관계를 고려하는 2차 프루닝 방법 HOPE를 발표했다. HOPE는 기존 1차 방법들이 무시하는 쌍별 상호작용을 F 행렬로 포착해 50% 프루닝에서 에이전트 코딩 작업 성능을 최대 6.1% 향상시켰다고 주장한다. 이 방법은 캘리브레이션 데이터에 대한 추가 순방향 패스와 레이어당 1~2초의 이차 계획법 풀이만 필요하다고 한다.",
+      "why_it_matters": "MoE 모델의 메모리 병목을 완화하는 프루닝에서 전문가 간 협력 구조를 보존하는 접근이 실무적으로 중요해질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-09T23:43:21+00:00",
+        "input_hash": "a4d2db3bb62a07eb80bae73ae85438b089dddd501fd2670d6b2d57df23047aca",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "d8c0348de255cb9bcb26",
       "url": "https://elviovicosa.com/war",
       "title": "Show HN: AI boom or bust, US war footing or not (four scenarios to 2029)",
@@ -696,6 +1548,46 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217178",
           "title": "아마존, '아스트로' 실패 딛고 가정용 로봇 재도전…피지컬 AI 발전에 기대"
+        }
+      ]
+    },
+    {
+      "id": "2e34e84f0999c607fcd0",
+      "url": "https://openai.com/index/kuken",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "original_title": "Kuken Industries searches 70 years of drawings in minutes",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/kuken",
+          "title": "Kuken Industries searches 70 years of drawings in minutes"
+        }
+      ]
+    },
+    {
+      "id": "02e9abf47eaf3fa01f98",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "original_title": "CodeRabbit scales agentic software development and ships 20x more",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "collected_at": "2026-11-09T23:43:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/coderabbit-codex-daybreak",
+          "title": "CodeRabbit scales agentic software development and ships 20x more"
         }
       ]
     },
@@ -4358,6 +5250,12 @@
           "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
           "title": "Sources: Microsoft has been turning off rented computing capacity from Oracle after declining to renew a 2023 deal, because the hardware used older Nvidia chips (Brody Ford/Bloomberg)",
           "discussion_url": "https://www.techmeme.com/261106/p18"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+          "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+          "discussion_url": "https://news.ycombinator.com/item?id=50433601"
         }
       ]
     },
