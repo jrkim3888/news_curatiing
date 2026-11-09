@@ -3,6 +3,1098 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "d8c0348de255cb9bcb26",
+      "url": "https://elviovicosa.com/war",
+      "title": "Show HN: AI boom or bust, US war footing or not (four scenarios to 2029)",
+      "original_title": "Show HN: AI boom or bust, US war footing or not (four scenarios to 2029)",
+      "published_at": "2026-11-09T10:57:54+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://elviovicosa.com/war",
+          "title": "Show HN: AI boom or bust, US war footing or not (four scenarios to 2029)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50423912"
+        }
+      ]
+    },
+    {
+      "id": "cbbeac4b01a0b10f825b",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray",
+      "title": "Nvidia Senior Director Madison Huang, daughter of Jensen, cancels a high-profile Seoul appearance citing a \"family matter\", throwing the event into disarray (Yoolim Lee/Bloomberg)",
+      "original_title": "Nvidia Senior Director Madison Huang, daughter of Jensen, cancels a high-profile Seoul appearance citing a \"family matter\", throwing the event into disarray (Yoolim Lee/Bloomberg)",
+      "published_at": "2026-11-09T10:50:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Yoolim Lee / Bloomberg : Nvidia Senior Director Madison Huang, daughter of Jensen, cancels a high-profile Seoul appearance citing a “family matter”, throwing the event into disa…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/nvidia-controversy-throws-high-profile-korea-event-into-disarray",
+          "title": "Nvidia Senior Director Madison Huang, daughter of Jensen, cancels a high-profile Seoul appearance citing a \"family matter\", throwing the event into disarray (Yoolim Lee/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261109/p12"
+        }
+      ]
+    },
+    {
+      "id": "49802031931e4fadfe57",
+      "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
+      "title": "We Opted Out of Google AI Search – Here's What Happened",
+      "original_title": "We Opted Out of Google AI Search – Here's What Happened",
+      "published_at": "2026-11-09T10:41:40+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://signal.zyppy.com/p/we-opted-out-of-google-ai-search",
+          "title": "We Opted Out of Google AI Search – Here's What Happened",
+          "discussion_url": "https://news.ycombinator.com/item?id=50423786"
+        }
+      ]
+    },
+    {
+      "id": "fb7bf3a4243db649b555",
+      "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654",
+      "title": "Nvidia drops ~5% pre-market after its board opens a probe into Jensen Huang; Nvidia previously dismissed the interactions as \"nothing unusual or unexpected\" (Demetri Sevastopulo/Financial Times)",
+      "original_title": "Nvidia drops ~5% pre-market after its board opens a probe into Jensen Huang; Nvidia previously dismissed the interactions as \"nothing unusual or unexpected\" (Demetri Sevastopulo/Financial Times)",
+      "published_at": "2026-11-09T10:40:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Demetri Sevastopulo / Financial Times : Nvidia drops ~5% pre-market after its board opens a probe into Jensen Huang; Nvidia previously dismissed the interactions as “nothing unu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/fa3b0a35-1aa9-4f31-97b4-e4c599e3e654",
+          "title": "Nvidia drops ~5% pre-market after its board opens a probe into Jensen Huang; Nvidia previously dismissed the interactions as \"nothing unusual or unexpected\" (Demetri Sevastopulo/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261109/p11"
+        }
+      ]
+    },
+    {
+      "id": "c3afa60f8f3a20a9cdca",
+      "url": "https://learnings.aleixmorgadas.dev/p/agentic-development-and-engineering",
+      "title": "Agentic Development and Engineering Strategy",
+      "original_title": "Agentic Development and Engineering Strategy",
+      "published_at": "2026-11-09T10:35:53+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://learnings.aleixmorgadas.dev/p/agentic-development-and-engineering",
+          "title": "Agentic Development and Engineering Strategy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50423745"
+        }
+      ]
+    },
+    {
+      "id": "d0dbfb6d94b0c6e00d1b",
+      "url": "https://rebbe.io/",
+      "title": "The Most Advanced AI Rabbi",
+      "original_title": "The Most Advanced AI Rabbi",
+      "published_at": "2026-11-09T09:55:10+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rebbe.io/",
+          "title": "The Most Advanced AI Rabbi",
+          "discussion_url": "https://news.ycombinator.com/item?id=50423419"
+        }
+      ]
+    },
+    {
+      "id": "ee58951fafedce3938d4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217190",
+      "title": "젠슨 황 논란에 엔비디아 침묵…정부 \"GPU 공급 차질 없어\"",
+      "original_title": "젠슨 황 논란에 엔비디아 침묵…정부 \"GPU 공급 차질 없어\"",
+      "published_at": "2026-11-09T09:54:03+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO를 둘러싼 논란 이후 처음 열린 주요 공식 행사에서 엔비디아 관계자들이 관련 질문에 답변을 피했다. 황 CEO의 딸인 매디슨 황 수석이사의 방한이 취소되고 엔비디아 주가도 급락한 가운데, 한국 정부는 이미 계약한 GPU 공급에는 차질이 없을 것으로 전망했다.9일 서울 코엑스에서 열린 '엔비디아…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217190",
+          "title": "젠슨 황 논란에 엔비디아 침묵…정부 \"GPU 공급 차질 없어\""
+        }
+      ]
+    },
+    {
+      "id": "01bd1da936e5577d0a8c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217188",
+      "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프",
+      "original_title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프",
+      "published_at": "2026-11-09T09:52:34+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "엔비디아가 리얼월드·업스테이지·모티프테크놀로지스 등 국내 AI 스타트업 3곳에 투자한다.엔비디아는 9일 서울 코엑스에서 국내 AI 스타트업 20여개 사가 참석한 가운데 열린 ‘AI 스타트업 파트너십 포럼'에서 이 같은 투자계획을 공개했다.리얼월드는 피지컬 AI 구현을 위한 로봇파운데이션모델(RFM)에서, 업스테이지와…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217188",
+          "title": "엔비디아, 국내 AI 스타트업 3곳 투자 낙점...리얼월드·업스테이지·모티프"
+        }
+      ]
+    },
+    {
+      "id": "126eb079f629db74ecdb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217187",
+      "title": "카카오모빌리티-엔비디아, 레벨4 자율주행 협력…기아 PBV 우선 적용",
+      "original_title": "카카오모빌리티-엔비디아, 레벨4 자율주행 협력…기아 PBV 우선 적용",
+      "published_at": "2026-11-09T09:52:08+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "카카오모빌리티와 엔비디아가 자율주행 기술과 컴퓨팅·센싱·안전 기술을 기아 목적기반차량(PBV)에 통합, 레벨4 자율주행 고도화에 나선다.카카오모빌리티(대표 류긍선)는 엔비디아와 레벨4 자율주행 기술 협력을 위한 업무협약(MOU)을 체결한다고 9일 밝혔다.카카오모빌리티는 강남 도심 운행으로 검증한 자체 자율주행 AI …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217187",
+          "title": "카카오모빌리티-엔비디아, 레벨4 자율주행 협력…기아 PBV 우선 적용"
+        }
+      ]
+    },
+    {
+      "id": "a5c2e3394c7b75e43562",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42659",
+      "title": "모래부터 단백질까지 하나의 AI로 물리세계 시뮬레이션…MIT, 범용 월드모델 ‘월드파티클’ 개발",
+      "original_title": "모래부터 단백질까지 하나의 AI로 물리세계 시뮬레이션…MIT, 범용 월드모델 ‘월드파티클’ 개발",
+      "published_at": "2026-11-09T09:50:44+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "모래가 무너져 내리는 과정부터 액체의 흐름, 단백질의 구조 변화까지 서로 다른 물리 현상을 하나의 인공지능(AI) 모델로 시뮬레이션하는 기술이 개발됐다. 물질마다 별도의 물리 방정식과 계산 프로그램을 구축해야 했던 기존 방식에서 벗어나, AI가 물질의 운동 법칙을 학습하고 다양한 환경에서 움직임을 예측하는 범용 월드…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42659",
+          "title": "모래부터 단백질까지 하나의 AI로 물리세계 시뮬레이션…MIT, 범용 월드모델 ‘월드파티클’ 개발"
+        }
+      ]
+    },
+    {
+      "id": "360eb8f9dd3739f646c6",
+      "url": "https://cacm.acm.org/news/ai-shakes-volunteer-sites",
+      "title": "AI Shakes Volunteer Sites",
+      "original_title": "AI Shakes Volunteer Sites",
+      "published_at": "2026-11-09T09:50:28+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cacm.acm.org/news/ai-shakes-volunteer-sites",
+          "title": "AI Shakes Volunteer Sites",
+          "discussion_url": "https://news.ycombinator.com/item?id=50423378"
+        }
+      ]
+    },
+    {
+      "id": "9413560bdbcec6fdfc33",
+      "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+      "title": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
+      "original_title": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
+      "published_at": "2026-11-09T09:50:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Adeel Hassan / New York Times : US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html",
+          "title": "US federal prosecutors say businesses have lost $129M+ to scam calls using AI-generated voices to mimic company executives in the 18 months since July 2024 (Adeel Hassan/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261109/p9"
+        }
+      ]
+    },
+    {
+      "id": "6cd041e597accdf500eb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217177",
+      "title": "PSI \"비공개 앤트로픽 AI로 18년 된 양자 난제 증명\"",
+      "original_title": "PSI \"비공개 앤트로픽 AI로 18년 된 양자 난제 증명\"",
+      "published_at": "2026-11-09T09:26:11+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "비공개 앤트로픽 AI 모델을 활용해 18년간 풀리지 않았던 양자 컴퓨팅 분야의 난제 '아론슨-암바이니스(Aaronson-Ambainis) 추측'을 증명했다는 연구 결과가 나왔다. AI가 수학적 증명을 작성하고 컴퓨터를 통한 검증까지 통과한 것으로, 모델 개발사가 아닌 외부 기업이 자체 연구 시스템을 활용해 성과를 냈…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217177",
+          "title": "PSI \"비공개 앤트로픽 AI로 18년 된 양자 난제 증명\""
+        }
+      ]
+    },
+    {
+      "id": "38fe228e959e9b160800",
+      "url": "https://www.youtube.com/watch?v=5r-NeMRsfdw",
+      "title": "Porting a Flash game to DOS (without AI) [video]",
+      "original_title": "Porting a Flash game to DOS (without AI) [video]",
+      "published_at": "2026-11-09T09:23:28+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=5r-NeMRsfdw",
+          "title": "Porting a Flash game to DOS (without AI) [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50423158"
+        }
+      ]
+    },
+    {
+      "id": "1dd82fb4f3a7b5fa98ea",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+      "title": "Chinese media denies Beijing's link to Jensen Huang's affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations (Bloomberg)",
+      "original_title": "Chinese media denies Beijing's link to Jensen Huang's affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations (Bloomberg)",
+      "published_at": "2026-11-09T09:20:04+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Chinese media denies Beijing's link to Jensen Huang's affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations — Beij…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-newspaper-dismisses-jensen-huang-spy-claim-warns-on-ties",
+          "title": "Chinese media denies Beijing's link to Jensen Huang's affair, accuses the US media of a fabricated spy narrative, and warns the issue may hurt trade relations (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261109/p7"
+        }
+      ]
+    },
+    {
+      "id": "4710c30cce05a70024c5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217176",
+      "title": "엔비디아, 로봇 AI 추론 5배 빠르게 하는 'V플래시' 공개",
+      "original_title": "엔비디아, 로봇 AI 추론 5배 빠르게 하는 'V플래시' 공개",
+      "published_at": "2026-11-09T09:10:53+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 로봇의 움직임을 계획하는 AI 추론 속도를 5배 높이면서 경로 예측 오류도 줄이는 기술을 공개했다. 이동 경로의 좌표를 하나씩 생성하는 대신 전체 경로를 한꺼번에 예측하는 방식으로, 로봇과 자율주행 차량의 실시간 제어 성능을 개선하는 데 활용할 수 있다는 설명이다.엔비디아는 6일(현지시간) 로봇과 자율주행…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217176",
+          "title": "엔비디아, 로봇 AI 추론 5배 빠르게 하는 'V플래시' 공개"
+        }
+      ]
+    },
+    {
+      "id": "8999a36f92571d44501d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217179",
+      "title": "구글, 코딩 전 설계 오류 잡는 '코끼리-금붕어' 플러그인 공개",
+      "original_title": "구글, 코딩 전 설계 오류 잡는 '코끼리-금붕어' 플러그인 공개",
+      "published_at": "2026-11-09T09:03:42+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 AI 코딩 에이전트의 설계와 검토 과정을 개선하기 위한 '코끼리-금붕어 모델(EGM)' 플러그인을 오픈소스로 공개했다. 코드를 작성하기 전에 상세한 설계 명세서를 만들고, 대화 맥락이 없는 별도의 AI 에이전트가 이를 독립적으로 검토하도록 하는 것이 핵심이다. 설계에 참여한 AI가 자신의 잘못된 가정을 그대로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217179",
+          "title": "구글, 코딩 전 설계 오류 잡는 '코끼리-금붕어' 플러그인 공개"
+        }
+      ]
+    },
+    {
+      "id": "6bbaebf719dc37f24d17",
+      "url": "https://www.hypertesto.me/en/blog/2026/10/asset-flips-and-vibes",
+      "title": "Asset flips and vibes: fifteen years of videogames as a preview of the LLM era",
+      "original_title": "Asset flips and vibes: fifteen years of videogames as a preview of the LLM era",
+      "published_at": "2026-11-09T09:01:40+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.hypertesto.me/en/blog/2026/10/asset-flips-and-vibes",
+          "title": "Asset flips and vibes: fifteen years of videogames as a preview of the LLM era",
+          "discussion_url": "https://news.ycombinator.com/item?id=50422970"
+        }
+      ]
+    },
+    {
+      "id": "3e85d7f67293476a543e",
+      "url": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682",
+      "title": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)",
+      "original_title": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)",
+      "published_at": "2026-11-09T09:00:13+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Pilita Clark / Financial Times : As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many peop…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/c1af5834-e9ee-411f-ba57-9af758ac6682",
+          "title": "As companies replace human workers with AI agents, determining managers' grade and pay is becoming harder, as both often depend on how many people they manage (Pilita Clark/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261109/p6"
+        }
+      ]
+    },
+    {
+      "id": "e71b523b4e92eef2314d",
+      "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html",
+      "title": "STMicroelectronics streamlines AI model development for STM32 developers",
+      "original_title": "STMicroelectronics streamlines AI model development for STM32 developers",
+      "published_at": "2026-11-09T08:52:24+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://newsroom.st.com/media-center/press-item.html/stmicroelectronics-streamlines-ai-model-development-for-stm32-developers-n4800.html",
+          "title": "STMicroelectronics streamlines AI model development for STM32 developers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50422908"
+        }
+      ]
+    },
+    {
+      "id": "267d50643daef26d032f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217183",
+      "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어",
+      "original_title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어",
+      "published_at": "2026-11-09T08:51:32+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 사전 학습 데이터의 0.1%만 오염시켜도 이를 기반으로 개발한 AI 에이전트에 원격 코드 실행(RCE) 백도어를 심을 수 있다는 연구 결과가 나왔다. 정상적인 데이터로 미세조정과 강화학습을 거쳐도 백도어가 제거되지 않았으며, 평소에는 정상적으로 작동하다가 특정 조건에서만 악성 명령을 생성해 탐지도 어려운 것으로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217183",
+          "title": "AI 학습 데이터 0.1%만 조작해도 에이전트에 원격 코드 백도어 심을 수 있어"
+        }
+      ]
+    },
+    {
+      "id": "d1c56a5e62771c1dbda8",
+      "url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026",
+      "title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
+      "original_title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
+      "published_at": "2026-11-09T08:50:59+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://deepsense.ai/blog/eda-benchmark-leaderboard-october-28th-2026",
+          "title": "Claude Opus 5.5 Beats GPT-6 Astra in the Newest EDA Benchmark Leaderboard",
+          "discussion_url": "https://news.ycombinator.com/item?id=50422896"
+        }
+      ]
+    },
+    {
+      "id": "3e3ad90373cd77675b0c",
+      "url": "https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger",
+      "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M (Globe and Mail)",
+      "original_title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M (Globe and Mail)",
+      "published_at": "2026-11-09T08:46:41+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Globe and Mail : Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M — Ad…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theglobeandmail.com/business/article-ada-toronto-ai-chatbot-firm-dialpad-merger",
+          "title": "Toronto-based Ada and SF-based Dialpad, both makers of AI customer service software, agree to merge, sources say in an all-share deal valuing Ada at ~$430M (Globe and Mail)",
+          "discussion_url": "https://www.techmeme.com/261109/p5"
+        }
+      ]
+    },
+    {
+      "id": "de1cea9a326c830aa446",
+      "url": "https://byline.network/2026/11/1106-10",
+      "title": "키움증권, 투자자마다 다른 AI 상담사 만든다",
+      "original_title": "키움증권, 투자자마다 다른 AI 상담사 만든다",
+      "published_at": "2026-11-09T08:46:31+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "키움증권은 인공지능(AI)을 사내 업무 효율화부터 고객 서비스, 자산관리까지 폭넓게 활용하고 있다. 직원들의 업무를 지원하는 AI 에이전트를 도입하고 전 부서의 AI 활용 사례 발굴을 추진하는 한편, 모바일트레이딩시스템(MTS)에서 AI 기반 투자 상담 기능도 운영하고 있다. 향후에는 AI 인프라 투자를 확대해 전사…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1106-10",
+          "title": "키움증권, 투자자마다 다른 AI 상담사 만든다"
+        }
+      ]
+    },
+    {
+      "id": "4739e38f4908dbafa565",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42658",
+      "title": "업스테이지, 엔비디아 투자 유치 예정…아마존·AMD 이어 글로벌 빅테크 투자자 확보 확대",
+      "original_title": "업스테이지, 엔비디아 투자 유치 예정…아마존·AMD 이어 글로벌 빅테크 투자자 확보 확대",
+      "published_at": "2026-11-09T08:45:20+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "국내 인공지능(AI) 기업 업스테이지(Upstage)가 아마존(Amazon), AMD에 이어 엔비디아(NVIDIA)까지 글로벌 주요 기술기업을 투자자로 확보할 전망이다. 자체 개발한 AI 모델의 글로벌 시장 경쟁력을 강화하는 가운데 세계적인 AI 반도체 기업과의 투자 관계를 구축하며 해외 사업 확대에 속도를 내고 있…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42658",
+          "title": "업스테이지, 엔비디아 투자 유치 예정…아마존·AMD 이어 글로벌 빅테크 투자자 확보 확대"
+        }
+      ]
+    },
+    {
+      "id": "4161b961fc34e5603213",
+      "url": "https://github.com/MintCoderpro/mintigate-demo",
+      "title": "Show HN: Control Layer Demo for AI Coding Agents",
+      "original_title": "Show HN: Control Layer Demo for AI Coding Agents",
+      "published_at": "2026-11-09T08:43:54+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/MintCoderpro/mintigate-demo",
+          "title": "Show HN: Control Layer Demo for AI Coding Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50422833"
+        }
+      ]
+    },
+    {
+      "id": "a7fcbccf764f2160fb2f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217182",
+      "title": "모티프, 엔비디아 투자로 독파모 후속작 ‘모티프 4’ 개발한다",
+      "original_title": "모티프, 엔비디아 투자로 독파모 후속작 ‘모티프 4’ 개발한다",
+      "published_at": "2026-11-09T08:35:23+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "모티프테크놀로지스(대표 임정환)는 차세대 파운데이션 대형언어모델(LLM) ‘모티프 4’ 개발을 위한 투자 유치를 마무리하고, 본격적인 개발에 착수했다고 9일 밝혔다.이번 투자는 지난 5월 240억원 규모의 시리즈B에 이은 브릿지 라운드다. 기존 투자자와 함께 엔비디아가 참여할 예정이며, 투자 금액은 비공개다.모티프 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217182",
+          "title": "모티프, 엔비디아 투자로 독파모 후속작 ‘모티프 4’ 개발한다"
+        }
+      ]
+    },
+    {
+      "id": "44278e18ffde37769a4a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217181",
+      "title": "누스 리서치, 중국 AI 모델의 정치 편향 답변 22%→0.9%로 줄여",
+      "original_title": "누스 리서치, 중국 AI 모델의 정치 편향 답변 22%→0.9%로 줄여",
+      "published_at": "2026-11-09T08:33:37+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "누스 리서치가 알리바바의 오픈웨이트 모델 '큐원3.8-27B(Qwen3.8-27B)'의 정치적 답변 성향을 바꾼 '아레테-27B(Arete-27B)'를 공개했다. 지도 미세조정(SFT)만으로 중국 정부의 입장을 옹호하는 선전성 답변 비율을 22%에서 0.9%로 낮추면서도 기존 모델의 코딩과 에이전트 성능을 거의 유지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217181",
+          "title": "누스 리서치, 중국 AI 모델의 정치 편향 답변 22%→0.9%로 줄여"
+        }
+      ]
+    },
+    {
+      "id": "f365ebb4cd098b924782",
+      "url": "https://byline.network/2026/11/9-526",
+      "title": "AI 해킹도 플랫폼화, MS가 분석한 ‘아르텍스’ 공격",
+      "original_title": "AI 해킹도 플랫폼화, MS가 분석한 ‘아르텍스’ 공격",
+      "published_at": "2026-11-09T08:29:18+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "공격자들이 인공지능(AI)에 공격 방법을 묻고 익스플로잇 코드를 만드는 수준을 넘어 AI 에이전트에 취약점 탐색과 해킹 도구 실행 등 실제 작업을 맡기는 사례가 늘어나고 있다. 여러 공격 도구를 하나로 연결해 공격의 여러 단계를 자동화하는 방식이다. 최근 마이크로소프트(MS)가 AI 에이전트 기반 도구 ‘아르텍스(A…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/9-526",
+          "title": "AI 해킹도 플랫폼화, MS가 분석한 ‘아르텍스’ 공격"
+        }
+      ]
+    },
+    {
+      "id": "3cb4e4467a44f2755d1e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42657",
+      "title": "텐센트, 글로벌 최상위 오픈소스 AI 모델 ‘하이4’ 공개…컴퓨터 조작부터 금융·게임·과학 연구까지 수행",
+      "original_title": "텐센트, 글로벌 최상위 오픈소스 AI 모델 ‘하이4’ 공개…컴퓨터 조작부터 금융·게임·과학 연구까지 수행",
+      "published_at": "2026-11-09T08:28:05+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 텐센트(Tencent)가 시각적 이해와 추론, 컴퓨터 조작, 장기 작업 수행 능력을 통합한 차세대 대규모언어모델(LLM) ‘하이4(Hy4)’를 공개하며 글로벌 오픈소스 인공지능(AI) 모델 경쟁에 본격적으로 뛰어들었다.특히 기존 텍스트 중심의 AI를 넘어 컴퓨터 화면을 이해하고 전문 소프트웨어를 직접 조작하는 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42657",
+          "title": "텐센트, 글로벌 최상위 오픈소스 AI 모델 ‘하이4’ 공개…컴퓨터 조작부터 금융·게임·과학 연구까지 수행"
+        }
+      ]
+    },
+    {
+      "id": "d76d1fd47e7f903ad709",
+      "url": "https://0rwx.com/",
+      "title": "0rwx Framework for AI Usage",
+      "original_title": "0rwx Framework for AI Usage",
+      "published_at": "2026-11-09T08:27:21+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://0rwx.com/",
+          "title": "0rwx Framework for AI Usage",
+          "discussion_url": "https://news.ycombinator.com/item?id=50422694"
+        }
+      ]
+    },
+    {
+      "id": "b13b9d654514f7220629",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217180",
+      "title": "LGU+, 서울대·KAIST·연세대와 '말투·맥락 이해하는 음성 AI' 개발",
+      "original_title": "LGU+, 서울대·KAIST·연세대와 '말투·맥락 이해하는 음성 AI' 개발",
+      "published_at": "2026-11-09T08:23:55+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "LG유플러스가 국내 대학교들과 한국어에 특화된 차세대 음성 AI 개발에 나선다.LGU+는 9일 서울대학교·한국과학기술원(KAIST)·연세대학교와 음성을 주고 받는 음성 대 음성(V2V) 기술 기반 'K-보이스 엔진'을 개발하기로 하고 ‘K-보이스 AI 얼라이언스’를 출범했다고 밝혔다.얼라이언스 참여 기관들은 향후 한…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217180",
+          "title": "LGU+, 서울대·KAIST·연세대와 '말투·맥락 이해하는 음성 AI' 개발"
+        }
+      ]
+    },
+    {
+      "id": "f81e8204788b2f8dff26",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217169",
+      "title": "구글 AI, 구형 RSA 암호 약점 2건 발견…인수분해 비용 30배 낮출 알고리즘 개발",
+      "original_title": "구글 AI, 구형 RSA 암호 약점 2건 발견…인수분해 비용 30배 낮출 알고리즘 개발",
+      "published_at": "2026-11-09T08:21:30+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "구글이 AI 에이전트를 활용해 구형 1024비트 RSA 암호의 디지털 서명 위조에 활용할 수 있는 약점을 규명하고, 여러 암호 키를 한꺼번에 인수분해하는 비용을 줄이는 새로운 알고리즘을 개발했다. AI가 인간 전문가와 협력해 복잡한 암호 분석과 수학적 난제 해결을 가속할 수 있음을 보여주는 성과다.구글 딥마인드는 6…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217169",
+          "title": "구글 AI, 구형 RSA 암호 약점 2건 발견…인수분해 비용 30배 낮출 알고리즘 개발"
+        }
+      ]
+    },
+    {
+      "id": "a25a0cda6eedcd6e6875",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217178",
+      "title": "아마존, '아스트로' 실패 딛고 가정용 로봇 재도전…피지컬 AI 발전에 기대",
+      "original_title": "아마존, '아스트로' 실패 딛고 가정용 로봇 재도전…피지컬 AI 발전에 기대",
+      "published_at": "2026-11-09T08:06:43+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존이 가정용 로봇 '아스트로(Astro)'의 부진에도 차세대 로봇 개발에 다시 나섰다. 과거와 달리 AI가 실제 환경을 인식하고 움직이는 '피지컬 AI(Physical AI)' 기술이 빠르게 발전하면서 가정용 로봇의 실용화 가능성도 높아졌다는 판단이다.CNBC는 8일(현지시간) 아마존이 최근 채용 공고를 통해 차…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217178",
+          "title": "아마존, '아스트로' 실패 딛고 가정용 로봇 재도전…피지컬 AI 발전에 기대"
+        }
+      ]
+    },
+    {
+      "id": "ac086a5c5ef592a80aac",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42655",
+      "title": "방사청, KAIST·ETRI·LG AI연구원 국방 AI 선도연구기관 지정…민간 AI 기술 방산 적용 확대",
+      "original_title": "방사청, KAIST·ETRI·LG AI연구원 국방 AI 선도연구기관 지정…민간 AI 기술 방산 적용 확대",
+      "published_at": "2026-11-09T07:42:44+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "방위사업청이 한국과학기술원(KAIST), 한국전자통신연구원(ETRI), LG AI연구원(LG AI Research)을 국방 인공지능(AI) 분야 선도연구기관으로 지정하고, 민간 AI 기술의 국방 분야 적용을 확대한다. 국내 주요 AI 연구기관의 기술력과 연구 인프라를 방산 중소·벤처기업에 연결해 무기체계 개발부터 실…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42655",
+          "title": "방사청, KAIST·ETRI·LG AI연구원 국방 AI 선도연구기관 지정…민간 AI 기술 방산 적용 확대"
+        }
+      ]
+    },
+    {
+      "id": "5d36130d30efbbc00372",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42654",
+      "title": "엔비디아, 한국 AI 모델 4종 추론 성능 최대 2배 높이는 ‘다이나모’ 배포 기술 공개",
+      "original_title": "엔비디아, 한국 AI 모델 4종 추론 성능 최대 2배 높이는 ‘다이나모’ 배포 기술 공개",
+      "published_at": "2026-11-09T07:30:13+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아(NVIDIA)가 SK텔레콤, LG AI연구원, 업스테이지, 모티프 테크놀로지스 등 국내 주요 기업이 개발한 인공지능(AI) 모델 4종을 데이터센터 환경에서 효율적으로 운영할 수 있도록 최적화한 배포 기술을 공개했다.엔비디아의 분산 추론 프레임워크 ‘다이나모(Dynamo)’를 활용해 복잡한 시스템 설정 부담을…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42654",
+          "title": "엔비디아, 한국 AI 모델 4종 추론 성능 최대 2배 높이는 ‘다이나모’ 배포 기술 공개"
+        }
+      ]
+    },
+    {
+      "id": "35ac7dc2e8bd3462e6a1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42653",
+      "title": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 한국형 소버린 AI 인프라 개발…AI 추론 성능·전력 효율 높인다",
+      "original_title": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 한국형 소버린 AI 인프라 개발…AI 추론 성능·전력 효율 높인다",
+      "published_at": "2026-11-09T07:05:25+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "SK텔레콤(SKT)이 엔비디아(NVIDIA), 리벨리온과 손잡고 GPU와 국산 신경망처리장치(NPU)를 결합한 차세대 인공지능(AI) 추론 인프라 개발에 나선다. AI 연산을 단계별로 분리해 서로 다른 반도체에 배분하는 방식으로 데이터센터의 처리 성능과 전력 효율을 높이고, 국산 AI 반도체를 활용한 한국형 소버린 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42653",
+          "title": "SKT·엔비디아·리벨리온, GPU·NPU 결합한 한국형 소버린 AI 인프라 개발…AI 추론 성능·전력 효율 높인다"
+        }
+      ]
+    },
+    {
+      "id": "dcac7bb3dfade810698b",
+      "url": "https://byline.network/2026/11/9-525",
+      "title": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원”",
+      "original_title": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원”",
+      "published_at": "2026-11-09T06:49:02+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“오라클은 정부 기관 등 국가 고객이 일반 기업 고객에게 제공하는 서비스와 기능을 동일하게 이용할 수 있게 막대한 연구개발 투자를 진행해왔다. 정부 고객이 기업 고객보다 떨어지는 기능과 낮은 수준의 AI를 이용할 거라 생각하지 않는다. AI는 모든 정부과 경제에도 핵심에 자리잡을 것이다.” -랜드 월드런 오라클 소버…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/9-525",
+          "title": "오라클 “OCI는 어떤 국가와 규모의 소버린 AI도 지원”"
+        }
+      ]
+    },
+    {
+      "id": "19f5c4562c73d5ef5751",
+      "url": "https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone",
+      "title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
+      "original_title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
+      "published_at": "2026-11-09T06:35:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jay Bonggolto / Android Central : Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Androi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.androidcentral.com/chromebooks-laptops/google-just-made-googlebooks-faster-more-stable-and-less-crash-prone",
+          "title": "Google rolls out a Googlebook update that frees up 3GB to 6GB of RAM via on-device AI optimizations, reduces Chrome crashes, patches ~60 Android flaws, and more (Jay Bonggolto/Android Central)",
+          "discussion_url": "https://www.techmeme.com/261109/p4"
+        }
+      ]
+    },
+    {
+      "id": "177dd03271cc9aec73ac",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+      "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "original_title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+      "published_at": "2026-11-09T05:26:29+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stay…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50",
+          "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”"
+        }
+      ]
+    },
+    {
+      "id": "ff20dfff21de4be9cb66",
+      "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript",
+      "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+      "original_title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+      "published_at": "2026-11-09T05:15:01+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "CBS News : When talking about AI safety, President Trump says “I don't mind guardrails. But I don't wanna put us in a deep second position”, and “China has no guardrails” — This…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cbsnews.com/news/donald-trump-2026-post-midterm-elections-interview-60-minutes-transcript",
+          "title": "When talking about AI safety, President Trump says \"I don't mind guardrails. But I don't wanna put us in a deep second position\", and \"China has no guardrails\" (CBS News)",
+          "discussion_url": "https://www.techmeme.com/261109/p2"
+        }
+      ]
+    },
+    {
+      "id": "b4e26759c88af3c5efa8",
+      "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?reflink=desktopwebshare_permalink&st=qRVEvG",
+      "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+      "original_title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+      "published_at": "2026-11-09T05:10:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valle…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/jensen-huang-apologized-to-nvidia-for-his-infidelity-his-kids-are-on-staff-190f3176?reflink=desktopwebshare_permalink&st=qRVEvG",
+          "title": "Sources and filings detail how Jensen Huang has brought his children and other family members into Nvidia, making it unusually family-run for Silicon Valley (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261109/p1"
+        }
+      ]
+    },
+    {
+      "id": "45e8de741ea9e45e27af",
+      "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
+      "title": "사이먼 윌리슨, Claude Opus 5.5로 Three.js 3D 모델을 Vanilla JS로 포팅",
+      "original_title": "The Web Is More Than Enough, by Paul Ford",
+      "published_at": "2026-11-09T04:32:33+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "My comment on The Web Is More Than Enough, by Paul Ford — Hacker News. OK, this comment convinced me to give that a shot. Here's a thing I made in Three.js this morning - a Nudi…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/9/hn-50421091",
+          "title": "The Web Is More Than Enough, by Paul Ford"
+        }
+      ],
+      "summary": "사이먼 윌리슨은 Hacker News에서 Paul Ford의 글 'The Web Is More Than Enough'에 대한 자신의 댓글을 공유하며, Three.js로 만든 Nudibranch 테마 Faberge Egg를 Claude Opus 5.5 Medium(일반 Claude Chat)에게 Vanilla JS로 포팅하도록 요청한 결과를 공개했다. 결과물은 원본과 동일하지 않았고, 그는 Claude가 그 차이에 대해 설명한 대화 기록을 링크했다. 윌리슨은 Claude Opus 5.5가 Three.js 없이 Vanilla JS와 WebGL만으로 3D 모델링이 가능하다고 평가했다.",
+      "why_it_matters": "LLM이 특정 라이브러리 없이도 3D 모델링 코드를 생성할 수 있음을 보여주는 개인적 사례로, 웹 개발에서 AI 활용 가능성을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-09T10:59:31+00:00",
+        "input_hash": "8529f054d45118873e59f692db4e56cfa317a140c9ee0e3950f696413053c1b1",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "7a56e2062f93f8c0e439",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+      "title": "Hide your slop PR descriptions behind",
+      "original_title": "Hide your slop PR descriptions behind",
+      "published_at": "2026-11-09T04:25:05+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits toge…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/9/details-summary",
+          "title": "Hide your slop PR descriptions behind"
+        }
+      ]
+    },
+    {
+      "id": "7c513061f8a5c05b13ab",
+      "url": "https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity",
+      "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+      "original_title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+      "published_at": "2026-11-09T04:25:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Andrew Edgecliffe-Johnson / Semafor : Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its r…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.semafor.com/article/11/08/2026/nvidias-45-trillion-test-of-founder-immunity",
+          "title": "Jensen Huang's scandal poses a rare crisis in US corporate history, given the national security stakes, his centrality to Nvidia, and its role in the AI race (Andrew Edgecliffe-Johnson/Semafor)",
+          "discussion_url": "https://www.techmeme.com/261108/p23"
+        }
+      ]
+    },
+    {
+      "id": "4b429bd7582936e31a06",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+      "original_title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+      "published_at": "2026-11-09T04:05:00+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Nilay Patel / The Verge : An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "title": "An interview with Cognition CISO Alex Stamos on how AI is upending cybersecurity, AI-powered red teaming, vulnerabilities in legacy codebases, and more (Nilay Patel/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261108/p22"
+        }
+      ]
+    },
+    {
+      "id": "7eda71ddb817cd8109d5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42651",
+      "title": "[AI 리뷰] 메타, AI 에이전트가 직접 활용하는 디자인 시스템 ‘아스트릭스’ 오픈소스 공개…1만 3,000개 앱에 적용한 기술 개방",
+      "original_title": "[AI 리뷰] 메타, AI 에이전트가 직접 활용하는 디자인 시스템 ‘아스트릭스’ 오픈소스 공개…1만 3,000개 앱에 적용한 기술 개방",
+      "published_at": "2026-11-09T03:39:32+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능이 소프트웨어 코드를 작성하는 수준을 넘어 기업의 디자인 규칙을 이해하고, 이를 활용해 사용자 인터페이스(UI)를 구현하는 개발 환경이 확산되고 있다.메타(Meta)가 공개한 오픈소스 디자인 시스템 ‘아스트릭스(Astryx)’는 이러한 변화를 보여주는 사례다. AI 에이전트가 사전에 정의된 UI 구성요소와 개…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42651",
+          "title": "[AI 리뷰] 메타, AI 에이전트가 직접 활용하는 디자인 시스템 ‘아스트릭스’ 오픈소스 공개…1만 3,000개 앱에 적용한 기술 개방"
+        }
+      ]
+    },
+    {
+      "id": "387b16841c76ecc57c9a",
+      "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+      "title": "Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
+      "original_title": "Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
+      "published_at": "2026-11-09T03:15:01+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Vincent Chow / South China Morning Post : Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it “possible to do harm” and Anthropic has a “strong argum…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.scmp.com/tech/big-tech/article/3373697/ai-will-soon-master-biology-unleashing-new-safety-risks-tencent-ai-chief-warns",
+          "title": "Tencent Chief AI Scientist Yao Shunyu says AI's bio abilities will soon make it \"possible to do harm\" and Anthropic has a \"strong argument\" for closed models (Vincent Chow/South China Morning Post)",
+          "discussion_url": "https://www.techmeme.com/261108/p21"
+        }
+      ]
+    },
+    {
+      "id": "d0021d3a7db76726f276",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42650",
+      "title": "현대모비스, 고교생이 직접 개발한 피지컬 AI 자율주행차 경연…미래 모빌리티 인재 육성",
+      "original_title": "현대모비스, 고교생이 직접 개발한 피지컬 AI 자율주행차 경연…미래 모빌리티 인재 육성",
+      "published_at": "2026-11-09T02:59:50+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "현대모비스가 고등학생들이 직접 개발한 인공지능(AI) 자율주행 알고리즘과 로봇 운영 기술을 겨루는 경진대회를 열고 미래 모빌리티 인재 육성에 나섰다. 특히 올해는 딥러닝 기반 자율주행뿐 아니라 로봇 운영체제인 ROS2를 활용한 피지컬 AI 차량 부문까지 운영해 청소년들이 실제 자율주행 기술을 구현하고 검증하는 기회를…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42650",
+          "title": "현대모비스, 고교생이 직접 개발한 피지컬 AI 자율주행차 경연…미래 모빌리티 인재 육성"
+        }
+      ]
+    },
+    {
+      "id": "05045d7b4310b5c303dc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42649",
+      "title": "\"클로드는 어떻게 컴퓨터 화면을 하나의 언어처럼 읽는가\"...김용덕 변리사, 앤트로픽의 화면 이해 특허 분석",
+      "original_title": "\"클로드는 어떻게 컴퓨터 화면을 하나의 언어처럼 읽는가\"...김용덕 변리사, 앤트로픽의 화면 이해 특허 분석",
+      "published_at": "2026-11-09T02:23:58+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "사람은 컴퓨터 화면을 보는 순간 검색창, 메뉴, 버튼, 입력란을 자연스럽게 구별한다. 화면 구성이 조금 바뀌더라도 대략 어느 부분을 눌러야 하는지 판단할 수 있다. 그러나 인공지능의 관점에서 컴퓨터 화면은 수많은 색상값으로 구성된 거대한 픽셀 집합에 가깝다. 화면에 표시된 글자와 아이콘을 이해하는 것뿐 아니라, 각 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42649",
+          "title": "\"클로드는 어떻게 컴퓨터 화면을 하나의 언어처럼 읽는가\"...김용덕 변리사, 앤트로픽의 화면 이해 특허 분석"
+        }
+      ]
+    },
+    {
+      "id": "7d9638b69d990948e113",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42648",
+      "title": "기업 사회공헌 효과, AI로 분석·평가…사회적가치연구원, ‘SEE SV’ 베이징포럼서 공개",
+      "original_title": "기업 사회공헌 효과, AI로 분석·평가…사회적가치연구원, ‘SEE SV’ 베이징포럼서 공개",
+      "published_at": "2026-11-09T02:15:28+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 사회공헌 활동이 실제 사회에 얼마나 긍정적인 변화를 가져왔는지 인공지능(AI)을 활용해 측정하고 평가하는 기술이 주목받고 있다. 기존의 사업비와 참여 인원, 활동 건수 중심의 평가에서 벗어나 수혜자의 삶과 사회문제 해결에 미친 영향을 분석하고, 이를 기업의 의사결정에 활용하려는 시도다.SK가 설립한 사회적가치…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42648",
+          "title": "기업 사회공헌 효과, AI로 분석·평가…사회적가치연구원, ‘SEE SV’ 베이징포럼서 공개"
+        }
+      ]
+    },
+    {
+      "id": "4db14732b72ae2c0eb34",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42647",
+      "title": "유아이패스, 기업 업무 지식 AI가 실행하는 ‘업무 지도’로 전환…‘카토그래퍼’ 출시",
+      "original_title": "유아이패스, 기업 업무 지식 AI가 실행하는 ‘업무 지도’로 전환…‘카토그래퍼’ 출시",
+      "published_at": "2026-11-09T01:59:07+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업 내부에 흩어져 있는 업무 규칙과 직원들의 경험, 예외 처리 방식 등을 인공지능(AI) 에이전트가 활용할 수 있는 구조화된 업무 지도로 전환하는 기술이 등장했다. 단순히 업무 절차를 시각화하는 것을 넘어 실제 업무 수행 과정에서 발생하는 판단과 예외 상황까지 기록하고, 이를 AI 에이전트와 자동화 시스템의 설계·…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42647",
+          "title": "유아이패스, 기업 업무 지식 AI가 실행하는 ‘업무 지도’로 전환…‘카토그래퍼’ 출시"
+        }
+      ]
+    },
+    {
+      "id": "5b9e06eb2c4ac6432b36",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42646",
+      "title": "디노티시아, LLM 학습·평가 도구 오픈소스 해커톤 개최…개발자가 직접 코드 개선",
+      "original_title": "디노티시아, LLM 학습·평가 도구 오픈소스 해커톤 개최…개발자가 직접 코드 개선",
+      "published_at": "2026-11-09T01:55:01+00:00",
+      "collected_at": "2026-11-09T10:59:12+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능 개발 기업이 자체 대규모언어모델(LLM) 개발에 사용해 온 학습·평가 도구를 오픈소스로 공개하고, 외부 개발자가 직접 코드를 수정해 기술 개선에 참여하는 협업 프로그램을 마련했다. 단순히 개발도구 사용법을 익히는 교육을 넘어 실제 오픈소스 프로젝트에 개선 사항을 제안하는 것이 핵심이다.장기기억 AI 및 반도…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42646",
+          "title": "디노티시아, LLM 학습·평가 도구 오픈소스 해커톤 개최…개발자가 직접 코드 개선"
+        }
+      ]
+    },
+    {
       "id": "d6a0e254727d1deafd62",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42638",
       "title": "서울아산병원, AI로 귀 질환 진단 정확도 최대 32.2%p 향상…전공의와 전문의 격차 크게 줄였다",
