@@ -748,14 +748,14 @@
     {
       "id": "d15f7e7eb74eac75d972",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42661",
-      "title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 선점 위해 ‘원팀’ 구축…반도체·배터리·로봇 기술 결집",
+      "title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 협력",
       "original_title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 선점 위해 ‘원팀’ 구축…반도체·배터리·로봇 기술 결집",
       "published_at": "2026-11-09T14:51:39+00:00",
       "collected_at": "2026-11-09T23:43:00+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "삼성과 현대자동차그룹이 반도체, 배터리, 전장 기술과 자율주행, 로보틱스 역량을 결합해 미래 모빌리티와 피지컬 AI 시장 선점에 나선다. 기존 차량용 부품 공급을 중심으로 이어온 협력 관계를 미래 첨단 산업 전반의 전략적 파트너십으로 확대하면서 국내 양대 산업그룹의 기술 협력이 새로운 단계에 접어들고 있다.삼성은 9…",
       "sources": [
         {
@@ -763,19 +763,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42661",
           "title": "삼성·현대차그룹, 미래 모빌리티·피지컬 AI 선점 위해 ‘원팀’ 구축…반도체·배터리·로봇 기술 결집"
         }
-      ]
+      ],
+      "summary": "삼성이 현대차그룹 경영진을 초청한 HMG 어프리시에이션 데이를 처음 열고 미래 모빌리티와 피지컬 AI 협력 방안을 논의했다. 삼성은 차량용 반도체와 전고체 배터리, 전장 솔루션을 전시했고 현대차그룹은 자율주행과 로보틱스 역량을 보유하고 있다.",
+      "why_it_matters": "반도체·배터리와 완성차·로봇 기술의 결합은 피지컬 AI 분야에서 국내 산업 협력의 범위를 넓힐 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "77ae76d2eee4c915f9d9601d6ebf136a97a82846f97bbc47a38f8a9c218a955c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "3b3e007c29566441b3ef",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42660",
-      "title": "아마존, 글로벌 의료 격차 해소에 1억달러 투입…에이전틱 AI로 진단·의료 연구·식량 지원 확대",
+      "title": "아마존, 의료 격차 해소에 1억달러 투입",
       "original_title": "아마존, 글로벌 의료 격차 해소에 1억달러 투입…에이전틱 AI로 진단·의료 연구·식량 지원 확대",
       "published_at": "2026-11-09T14:31:18+00:00",
       "collected_at": "2026-11-09T23:43:00+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "아마존이 인공지능(AI)과 클라우드 기술을 활용해 전 세계 의료 취약계층을 지원하는 1억달러(약 1300억원) 규모의 글로벌 프로그램을 출범했다. 생성형 AI와 에이전틱 AI를 의료 진단과 임상 업무, 질병 연구, 식량 지원 등에 적용해 국가와 지역 간 의료 서비스 격차를 줄이겠다는 구상이다.아마존웹서비스(Amazo…",
       "sources": [
         {
@@ -783,7 +793,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42660",
           "title": "아마존, 글로벌 의료 격차 해소에 1억달러 투입…에이전틱 AI로 진단·의료 연구·식량 지원 확대"
         }
-      ]
+      ],
+      "summary": "아마존웹서비스가 향후 5년간 의료·보건 분야에 AI와 클라우드를 지원하는 AWS 헬스 임팩트 이니셔티브를 발표했다. 의료 접근성, 여성·아동 건강 연구, 식량 공급을 중심으로 취약지역의 AI 솔루션 개발과 현장 적용을 지원한다.",
+      "why_it_matters": "AI와 클라우드가 의료 취약지역의 진단과 연구를 돕는다면 의료 격차 완화에 기여할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "c84ca8bcbe92e16c3eecd1e4de9a34b64ef9ef9b0a08fd8c0e5ab7d6a8a2d86d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "002b5d6d214abd27bf87",
@@ -808,14 +828,14 @@
     {
       "id": "0fd59cc0deb0b1c4df6d",
       "url": "https://byline.network/2026/11/1109-8",
-      "title": "제논이 바라본 기업 AX…모델보다 중요한 업무 프로세스",
+      "title": "제논, 기업 AI 전환에서 업무 프로세스 강조",
       "original_title": "제논이 바라본 기업 AX…모델보다 중요한 업무 프로세스",
       "published_at": "2026-11-09T13:26:15+00:00",
       "collected_at": "2026-11-09T23:43:00+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "기업의 생성형 AI 도입이 단순 질의응답을 넘어 핵심 업무 프로세스를 수행하는 에이전틱 AI로 확대되면서, 업무 맥락과 레거시 시스템 연동 등 기업 환경에 맞는 AI 구축의 중요성이 커지고 있다. 제논은 에이전트 개발부터 배포·운영까지 지원하는 플랫폼 ‘제노스(GenOS)’와 자연어 기반 애플리케이션 개발 도구 ‘젠…",
       "sources": [
         {
@@ -823,7 +843,17 @@
           "url": "https://byline.network/2026/11/1109-8",
           "title": "제논이 바라본 기업 AX…모델보다 중요한 업무 프로세스"
         }
-      ]
+      ],
+      "summary": "제논은 기업의 생성형 AI 도입이 실제 핵심 업무에 적용되는 단계로 넘어가고 있다고 설명했다. 회사는 업무 워크플로우 설계를 지원하는 플랫폼 제노스와 코딩 없이 앱을 만드는 젠빌더를 제공하며, 모델 성능보다 업무 맥락 이해가 중요하다고 강조했다.",
+      "why_it_matters": "기업이 AI를 실제 업무에 적용하려면 모델 도입뿐 아니라 내부 프로세스와 암묵지를 반영하는 설계가 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "6bcb810a4103d7ec5ae84c7f030f65be857866c4d4ef8fb297d7ab6ad2d91d77",
+        "evidence_verified": true
+      }
     },
     {
       "id": "55d059b88c6c576a2f3d",
@@ -1043,14 +1073,14 @@
     {
       "id": "a5c2e3394c7b75e43562",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42659",
-      "title": "모래부터 단백질까지 하나의 AI로 물리세계 시뮬레이션…MIT, 범용 월드모델 ‘월드파티클’ 개발",
+      "title": "MIT 등, 범용 물리 시뮬레이션 월드파티클 개발",
       "original_title": "모래부터 단백질까지 하나의 AI로 물리세계 시뮬레이션…MIT, 범용 월드모델 ‘월드파티클’ 개발",
       "published_at": "2026-11-09T09:50:44+00:00",
       "collected_at": "2026-11-09T10:59:12+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "모래가 무너져 내리는 과정부터 액체의 흐름, 단백질의 구조 변화까지 서로 다른 물리 현상을 하나의 인공지능(AI) 모델로 시뮬레이션하는 기술이 개발됐다. 물질마다 별도의 물리 방정식과 계산 프로그램을 구축해야 했던 기존 방식에서 벗어나, AI가 물질의 운동 법칙을 학습하고 다양한 환경에서 움직임을 예측하는 범용 월드…",
       "sources": [
         {
@@ -1058,7 +1088,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42659",
           "title": "모래부터 단백질까지 하나의 AI로 물리세계 시뮬레이션…MIT, 범용 월드모델 ‘월드파티클’ 개발"
         }
-      ]
+      ],
+      "summary": "MIT와 브리티시컬럼비아대 등 공동 연구진이 다양한 물질의 물리적 거동을 하나의 모델로 시뮬레이션하는 월드파티클을 개발했다. 연구진은 단백질 구조 변화 계산에서 기존 수치 시뮬레이터보다 약 100배 빠른 처리 속도를 확인했다고 밝혔다.",
+      "why_it_matters": "여러 물리 현상을 통합 시뮬레이션하면 신약 개발과 로봇 연구에서 계산 비용과 시간을 줄일 가능성이 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "bc12bb69f7ab1ace5016bb2d888de4a0fd7302e920b4ff484bc6ec09c437b9f6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "360eb8f9dd3739f646c6",
@@ -1332,14 +1372,14 @@
     {
       "id": "de1cea9a326c830aa446",
       "url": "https://byline.network/2026/11/1106-10",
-      "title": "키움증권, 투자자마다 다른 AI 상담사 만든다",
+      "title": "키움증권, 투자자별 AI 상담 서비스 확대",
       "original_title": "키움증권, 투자자마다 다른 AI 상담사 만든다",
       "published_at": "2026-11-09T08:46:31+00:00",
       "collected_at": "2026-11-09T10:59:12+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "키움증권은 인공지능(AI)을 사내 업무 효율화부터 고객 서비스, 자산관리까지 폭넓게 활용하고 있다. 직원들의 업무를 지원하는 AI 에이전트를 도입하고 전 부서의 AI 활용 사례 발굴을 추진하는 한편, 모바일트레이딩시스템(MTS)에서 AI 기반 투자 상담 기능도 운영하고 있다. 향후에는 AI 인프라 투자를 확대해 전사…",
       "sources": [
         {
@@ -1347,19 +1387,29 @@
           "url": "https://byline.network/2026/11/1106-10",
           "title": "키움증권, 투자자마다 다른 AI 상담사 만든다"
         }
-      ]
+      ],
+      "summary": "키움증권이 직원 업무 지원과 투자자 서비스에 AI 활용을 넓히고 있다. AI 에이전트와 AI 업무 포털을 도입했고, 모바일트레이딩시스템에서 AI 투자 상담 기능을 제공하며 내년에는 AI 인프라 투자를 늘릴 계획이다.",
+      "why_it_matters": "증권사가 AI를 상담과 자산관리에 적용하면 투자자별 맞춤 서비스의 가능성이 커지지만 거버넌스 정비도 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "0b9f5bb57b7b9834d4d349f3a82191d9475e91b1b20ef42623066064d0d55c4f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4739e38f4908dbafa565",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42658",
-      "title": "업스테이지, 엔비디아 투자 유치 예정…아마존·AMD 이어 글로벌 빅테크 투자자 확보 확대",
+      "title": "업스테이지, 엔비디아 투자 유치 추진",
       "original_title": "업스테이지, 엔비디아 투자 유치 예정…아마존·AMD 이어 글로벌 빅테크 투자자 확보 확대",
       "published_at": "2026-11-09T08:45:20+00:00",
       "collected_at": "2026-11-09T10:59:12+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "국내 인공지능(AI) 기업 업스테이지(Upstage)가 아마존(Amazon), AMD에 이어 엔비디아(NVIDIA)까지 글로벌 주요 기술기업을 투자자로 확보할 전망이다. 자체 개발한 AI 모델의 글로벌 시장 경쟁력을 강화하는 가운데 세계적인 AI 반도체 기업과의 투자 관계를 구축하며 해외 사업 확대에 속도를 내고 있…",
       "sources": [
         {
@@ -1367,7 +1417,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42658",
           "title": "업스테이지, 엔비디아 투자 유치 예정…아마존·AMD 이어 글로벌 빅테크 투자자 확보 확대"
         }
-      ]
+      ],
+      "summary": "업스테이지가 시리즈C 2차 라운드에서 엔비디아 투자를 받을 예정이라고 밝혔다. 구체적 금액과 지분 규모는 공개되지 않았으며, 회사는 솔라 프로 4와 솔라 미니 4가 오픈라우터에서 국내 모델 최초로 폐쇄형 모델 토큰 사용량 최상위권에 진입했다고 설명했다.",
+      "why_it_matters": "글로벌 반도체 기업의 투자는 국내 AI 모델 기업의 해외 사업 확장과 연구개발 자금 확보에 도움이 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "0c31bd22064ab1d3bafaed89e006b0706af8995d44a9a8f065be6e21596ec9a6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4161b961fc34e5603213",
@@ -1433,14 +1493,14 @@
     {
       "id": "f365ebb4cd098b924782",
       "url": "https://byline.network/2026/11/9-526",
-      "title": "AI 해킹도 플랫폼화, MS가 분석한 ‘아르텍스’ 공격",
+      "title": "MS, AI 에이전트 활용 아르텍스 공격 분석",
       "original_title": "AI 해킹도 플랫폼화, MS가 분석한 ‘아르텍스’ 공격",
       "published_at": "2026-11-09T08:29:18+00:00",
       "collected_at": "2026-11-09T10:59:12+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "공격자들이 인공지능(AI)에 공격 방법을 묻고 익스플로잇 코드를 만드는 수준을 넘어 AI 에이전트에 취약점 탐색과 해킹 도구 실행 등 실제 작업을 맡기는 사례가 늘어나고 있다. 여러 공격 도구를 하나로 연결해 공격의 여러 단계를 자동화하는 방식이다. 최근 마이크로소프트(MS)가 AI 에이전트 기반 도구 ‘아르텍스(A…",
       "sources": [
         {
@@ -1448,7 +1508,17 @@
           "url": "https://byline.network/2026/11/9-526",
           "title": "AI 해킹도 플랫폼화, MS가 분석한 ‘아르텍스’ 공격"
         }
-      ]
+      ],
+      "summary": "마이크로소프트는 캄보디아 기반 해킹조직 Storm-3358이 AI 기반 침투 도구 아르텍스로 금융기관을 공격했다고 밝혔다. 국내에서도 금융보안원이 딥시크 기반 AI 에이전트를 활용한 금융기관 공격 정황을 확인했다.",
+      "why_it_matters": "AI 에이전트가 취약점 탐색과 도구 실행을 자동화하면 금융권의 탐지·차단 부담이 커질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-10T03:45:24+00:00",
+        "briefing_day": "2026-11-10",
+        "input_hash": "55b8ac5be1cbb78ee83095a8ad0788051d5bc633fbaedf1d7cfea898878ee02a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "3cb4e4467a44f2755d1e",
