@@ -3,6 +3,962 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a397f1ea63ad8dd14002",
+      "url": "https://github.com/MaxonT/aisync",
+      "title": "Show HN: Aisync, advisory file claims so two AI agents don't edit one repo",
+      "original_title": "Show HN: Aisync, advisory file claims so two AI agents don't edit one repo",
+      "published_at": "2026-11-10T21:13:03+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/MaxonT/aisync",
+          "title": "Show HN: Aisync, advisory file claims so two AI agents don't edit one repo",
+          "discussion_url": "https://news.ycombinator.com/item?id=50446378"
+        }
+      ]
+    },
+    {
+      "id": "3b53bf6090ab9868ec4d",
+      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+      "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "original_title": "OpenAI Acquires Odessia, travel startup created by Sonder founder",
+      "published_at": "2026-11-10T21:08:52+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+          "title": "OpenAI Acquires Odessia, travel startup created by Sonder founder"
+        }
+      ]
+    },
+    {
+      "id": "c8dde4086f9ad8bc8df0",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "title": "My AI Agents Found an Unmapped Maya Site",
+      "original_title": "My AI Agents Found an Unmapped Maya Site",
+      "published_at": "2026-11-10T21:04:58+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pietromiotti.com/latest/maya-site",
+          "title": "My AI Agents Found an Unmapped Maya Site",
+          "discussion_url": "https://news.ycombinator.com/item?id=50446316"
+        }
+      ]
+    },
+    {
+      "id": "7ea8d672f28ccb5b82a8",
+      "url": "https://brian.biz/blog/ai-agents-verify",
+      "title": "An AI agent said the code was verified. The evidence said otherwise",
+      "original_title": "An AI agent said the code was verified. The evidence said otherwise",
+      "published_at": "2026-11-10T21:04:47+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://brian.biz/blog/ai-agents-verify",
+          "title": "An AI agent said the code was verified. The evidence said otherwise",
+          "discussion_url": "https://news.ycombinator.com/item?id=50446314"
+        }
+      ]
+    },
+    {
+      "id": "91b1b4f8b356274268f8",
+      "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+      "title": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO (Cory Weinberg/New York Times)",
+      "original_title": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO (Cory Weinberg/New York Times)",
+      "published_at": "2026-11-10T20:55:05+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cory Weinberg / New York Times : S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/10/business/anthropic-ipo-nvidia.html",
+          "title": "S-1: Nvidia plans to invest about $10B in Anthropic after its IPO, or ~10% of the new cash Anthropic is expected to raise this month, including in the IPO (Cory Weinberg/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261110/p50"
+        }
+      ]
+    },
+    {
+      "id": "1dff38ef9c16ec973d59",
+      "url": "https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up",
+      "title": "In open-weight AI, America is the one playing catch-up",
+      "original_title": "In open-weight AI, America is the one playing catch-up",
+      "published_at": "2026-11-10T20:53:09+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://village.dev/blog/in-open-weight-ai-america-is-the-one-playing-catch-up",
+          "title": "In open-weight AI, America is the one playing catch-up",
+          "discussion_url": "https://news.ycombinator.com/item?id=50446179"
+        }
+      ]
+    },
+    {
+      "id": "351eb5c97057aee37416",
+      "url": "https://oreillyradar.substack.com/p/the-new-knowledge-artifacts-of-the",
+      "title": "Tim O'Reilly – The New Knowledge Artifacts of the AI Economy",
+      "original_title": "Tim O'Reilly – The New Knowledge Artifacts of the AI Economy",
+      "published_at": "2026-11-10T20:52:23+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://oreillyradar.substack.com/p/the-new-knowledge-artifacts-of-the",
+          "title": "Tim O'Reilly – The New Knowledge Artifacts of the AI Economy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50446163"
+        }
+      ]
+    },
+    {
+      "id": "ae543fdc68f7cb2628d4",
+      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+      "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "original_title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+      "published_at": "2026-11-10T20:52:13+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical inc…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+          "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
+        }
+      ]
+    },
+    {
+      "id": "634453866e523454c13a",
+      "url": "https://misterblocks.com/",
+      "title": "Turn a photo of a pile of Lego blocks to a build with Claude",
+      "original_title": "Turn a photo of a pile of Lego blocks to a build with Claude",
+      "published_at": "2026-11-10T20:47:54+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://misterblocks.com/",
+          "title": "Turn a photo of a pile of Lego blocks to a build with Claude",
+          "discussion_url": "https://news.ycombinator.com/item?id=50446116"
+        }
+      ]
+    },
+    {
+      "id": "211b0dbb97e7beea0f8b",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+      "title": "Statement from the Independent Members of the Nvidia Board",
+      "original_title": "Statement from the Independent Members of the Nvidia Board",
+      "published_at": "2026-11-10T20:26:24+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board",
+          "title": "Statement from the Independent Members of the Nvidia Board",
+          "discussion_url": "https://news.ycombinator.com/item?id=50445828"
+        }
+      ]
+    },
+    {
+      "id": "386fd89f3b6a19c7ea32",
+      "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+      "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)",
+      "original_title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)",
+      "published_at": "2026-11-10T20:25:16+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Shubhangi Goel / Business Insider : Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/graphon-pitch-deck-funding-ai-agents-amnesia-2026-10",
+          "title": "Graphon, which wants to resolve AI agent memory limitations by mapping connections across documents, videos, and images, raised a $35M Series A (Shubhangi Goel/Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261110/p49"
+        }
+      ]
+    },
+    {
+      "id": "8e297135bd18094fb54f",
+      "url": "https://freemalta.com/news/digest/breaking/anthropics-seven-founders-plan-250m-rcv602",
+      "title": "Anthropic's Seven Founders Plan $250M Sales Each",
+      "original_title": "Anthropic's Seven Founders Plan $250M Sales Each",
+      "published_at": "2026-11-10T20:24:20+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://freemalta.com/news/digest/breaking/anthropics-seven-founders-plan-250m-rcv602",
+          "title": "Anthropic's Seven Founders Plan $250M Sales Each",
+          "discussion_url": "https://news.ycombinator.com/item?id=50445801"
+        }
+      ]
+    },
+    {
+      "id": "77dab1137dbb66efa151",
+      "url": "https://flaviocopes.com/zcode",
+      "title": "ZCode review: Z.ai's GLM-5.3 coding agent on a real project",
+      "original_title": "ZCode review: Z.ai's GLM-5.3 coding agent on a real project",
+      "published_at": "2026-11-10T20:22:57+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://flaviocopes.com/zcode",
+          "title": "ZCode review: Z.ai's GLM-5.3 coding agent on a real project",
+          "discussion_url": "https://news.ycombinator.com/item?id=50445787"
+        }
+      ]
+    },
+    {
+      "id": "f22db79b36eec11bba9b",
+      "url": "https://thunderphone.com/blog/introducing-zeus",
+      "title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "original_title": "Show HN: Zeus – Claude Code for AI voice agents",
+      "published_at": "2026-11-10T20:20:03+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thunderphone.com/blog/introducing-zeus",
+          "title": "Show HN: Zeus – Claude Code for AI voice agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50445758"
+        }
+      ]
+    },
+    {
+      "id": "4683cd570ef39debe973",
+      "url": "https://github.com/yetone/magpie",
+      "title": "Magpie: Open-source model gateway for coding agents (Claude Code, Codex)",
+      "original_title": "Magpie: Open-source model gateway for coding agents (Claude Code, Codex)",
+      "published_at": "2026-11-10T20:15:42+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/yetone/magpie",
+          "title": "Magpie: Open-source model gateway for coding agents (Claude Code, Codex)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50445707"
+        }
+      ]
+    },
+    {
+      "id": "5bf610d1dd7d8e146382",
+      "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
+      "title": "llm-gemini 0.36",
+      "original_title": "llm-gemini 0.36",
+      "published_at": "2026-11-10T20:09:44+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Release: llm-gemini 0.36 Gemini 4 Carbon was announced two weeks ago for \"a subset of cyber defenders\", but today it's available to everyone else . This is Google's best ever Ge…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/10/llm-gemini",
+          "title": "llm-gemini 0.36"
+        }
+      ]
+    },
+    {
+      "id": "0f7690162cc12477ab2a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code",
+      "title": "Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
+      "original_title": "Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
+      "published_at": "2026-11-10T20:05:01+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Bloomberg : Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor — Point…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/point72-claims-fired-quant-analyst-used-ai-tools-to-steal-code",
+          "title": "Lawsuit filing: Point72's quant unit Cubist claims its fired lead research analyst used Claude and Codex to steal source code before leaving for a competitor (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261110/p48"
+        }
+      ]
+    },
+    {
+      "id": "6c914047595767790f02",
+      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "original_title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+      "published_at": "2026-11-10T19:57:52+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+          "title": "All 7 Anthropic founders will each cash out about $250M in IPO"
+        }
+      ]
+    },
+    {
+      "id": "56cbc424dfff6a20de99",
+      "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+      "title": "Nvidia hires law firm Wachtell Lipton to probe Jensen Huang's affair with an alleged spy; sources: the probe will be led by ex-acting US attorney Joon H. Kim (New York Times)",
+      "original_title": "Nvidia hires law firm Wachtell Lipton to probe Jensen Huang's affair with an alleged spy; sources: the probe will be led by ex-acting US attorney Joon H. Kim (New York Times)",
+      "published_at": "2026-11-10T19:25:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Nvidia hires law firm Wachtell Lipton to probe Jensen Huang's affair with an alleged spy; sources: the probe will be led by ex-acting US attorney Joon H. Kim — …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/10/business/nvidia-wachtell-lipton-jensen-huang.html",
+          "title": "Nvidia hires law firm Wachtell Lipton to probe Jensen Huang's affair with an alleged spy; sources: the probe will be led by ex-acting US attorney Joon H. Kim (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261110/p43"
+        }
+      ]
+    },
+    {
+      "id": "1b0c05cd97a311af5c4f",
+      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "original_title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+      "published_at": "2026-11-10T19:23:34+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+          "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M"
+        }
+      ]
+    },
+    {
+      "id": "c1414f954b003d6c4c06",
+      "url": "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled",
+      "title": "Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't currently plan to (Aaron Holmes/The Information)",
+      "original_title": "Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't currently plan to (Aaron Holmes/The Information)",
+      "published_at": "2026-11-10T19:16:01+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Aaron Holmes / The Information : Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't cur…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/briefings/anthropic-discloses-10-billion-new-deals-microsoft-google-says-lambda-deal-may-cancelled",
+          "title": "Updated S-1: Anthropic commits ~$10B more to Microsoft and Google cloud by 2033; it can cancel a $34.9B Lambda deal over a delay but doesn't currently plan to (Aaron Holmes/The Information)",
+          "discussion_url": "https://www.techmeme.com/261110/p42"
+        }
+      ]
+    },
+    {
+      "id": "68219fdebd4ad78ca5bc",
+      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "original_title": "PSI is trying to make a business out of AI-driven scientific discovery",
+      "published_at": "2026-11-10T19:03:52+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+          "title": "PSI is trying to make a business out of AI-driven scientific discovery"
+        }
+      ]
+    },
+    {
+      "id": "fafff4292c09fd9370c5",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "original_title": "Gemini Intelligence: New features, on more devices",
+      "published_at": "2026-11-10T19:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+          "title": "Gemini Intelligence: New features, on more devices"
+        }
+      ]
+    },
+    {
+      "id": "7e74320883f414fbb1a0",
+      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "original_title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+      "published_at": "2026-11-10T18:49:52+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google",
+          "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google"
+        }
+      ]
+    },
+    {
+      "id": "3ec8add99452b3402317",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles (Jay Peters/The Verge)",
+      "original_title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles (Jay Peters/The Verge)",
+      "published_at": "2026-11-10T18:25:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Jay Peters / The Verge : OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "title": "OpenAI launches Businesses in ChatGPT in beta, including Business Agents for companies to interact with users and a hub where companies can claim their profiles (Jay Peters/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261110/p39"
+        }
+      ]
+    },
+    {
+      "id": "8bfc573c5ddcb674504c",
+      "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+      "title": "The AI Futures Project updates its timelines after METR's report on Anthropic R&D progress, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
+      "original_title": "The AI Futures Project updates its timelines after METR's report on Anthropic R&D progress, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
+      "published_at": "2026-11-10T18:02:13+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI Futures Project : The AI Futures Project updates its timelines after METR's report on Anthropic R&D progress, saying it now expects a Superhuman AI Researcher to arrive in 20…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://blog.aifutures.org/p/q35-timelines-update-looks-like-the",
+          "title": "The AI Futures Project updates its timelines after METR's report on Anthropic R&D progress, saying it now expects a Superhuman AI Researcher to arrive in 2027 (AI Futures Project)",
+          "discussion_url": "https://www.techmeme.com/261110/p38"
+        }
+      ]
+    },
+    {
+      "id": "e84a108488955e0100e5",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/oura-to-buy-on-demand-doctor-ai-service-counsel-health-revenue-jumps-153-in-q4",
+      "title": "Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B (Mark Gurman/Bloomberg)",
+      "original_title": "Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B (Mark Gurman/Bloomberg)",
+      "published_at": "2026-11-10T17:55:01+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Mark Gurman / Bloomberg : Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% t…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-10/oura-to-buy-on-demand-doctor-ai-service-counsel-health-revenue-jumps-153-in-q4",
+          "title": "Oura agrees to acquire AI and on-demand doctor tool Counsel Health for $625M, and says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to ~$1.75B (Mark Gurman/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261110/p37"
+        }
+      ]
+    },
+    {
+      "id": "cef624cacdf17b78f9c4",
+      "url": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7",
+      "title": "How Alice Huang built her career with romantic partner and Hexi Capital founder Kang Wei, who faced stock market probes; sources believe she is back in China (Financial Times)",
+      "original_title": "How Alice Huang built her career with romantic partner and Hexi Capital founder Kang Wei, who faced stock market probes; sources believe she is back in China (Financial Times)",
+      "published_at": "2026-11-10T17:50:01+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Financial Times : How Alice Huang built her career with romantic partner and Hexi Capital founder Kang Wei, who faced stock market probes; sources believe she is back in China —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/3238d92b-4074-478d-a7f2-d78b9e154fc7",
+          "title": "How Alice Huang built her career with romantic partner and Hexi Capital founder Kang Wei, who faced stock market probes; sources believe she is back in China (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261110/p36"
+        }
+      ]
+    },
+    {
+      "id": "e12be6c2ba7dcfd83e85",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "original_title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+      "published_at": "2026-11-10T17:30:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retr…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks",
+          "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks"
+        }
+      ]
+    },
+    {
+      "id": "4cc686f0d8904bd210ba",
+      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "original_title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+      "published_at": "2026-11-10T17:04:19+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline"
+        }
+      ]
+    },
+    {
+      "id": "55cb0588b3e8436e78b2",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "title": "Gemini 4 Carbon is now available",
+      "original_title": "Gemini 4 Carbon is now available",
+      "published_at": "2026-11-10T16:03:47+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+          "title": "Gemini 4 Carbon is now available"
+        }
+      ]
+    },
+    {
+      "id": "031b00b4f99d2f30104c",
+      "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
+      "title": "NVIDIA, 온보드 추론 한계 내에서 구동하는 AV 추론 모델 'Alpamayo 2 Edge' 공개",
+      "original_title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+      "published_at": "2026-11-10T16:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Autonomous vehicle (AV) developers need reasoning models that can operate within the compute and latency constraints of an onboard system. Larger models provide... Autonomous ve…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
+          "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits"
+        }
+      ],
+      "summary": "NVIDIA가 자율주행차 온보드 컴퓨팅 및 지연 시간 제약 내에서 실시간 작동하도록 설계된 적응형 추론 VLA 모델 'Alpamayo 2 Edge'를 발표했다. 이 모델은 2B 파라미터 Nemotron 기반 추론 백본과 확산 액션 전문가를 결합해 주변 카메라 관측, 시간적 맥락, 내비게이션 입력으로 Chain-of-Causation 추론과 미래 주행 궤적을 생성한다. NVIDIA는 폐쇄 루프 강화학습 후 학습을 통해 최고 성능 체크포인트 대비 폐쇄 루프 주행 성능이 48.9% 향상되었다고 주장했다.",
+      "why_it_matters": "자율주행 시스템에서 대형 추론 모델을 온보드 하드웨어에 효율적으로 배포하려는 시도는 실시간 안전성과 직결된다. 이번 발표는 모델 경량화와 추론 최적화가 실제 차량 환경에서 어느 정도 수준까지 가능한지 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-10T21:14:42+00:00",
+        "input_hash": "76cb9ddfb2cffeaac8b448d0e538f5d4e6a56017ec3814eeed96c0a7ec991757",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a75982b151db7f3d5483",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "original_title": "Google broadens its AI hardware portfolio with two new specialized chips",
+      "published_at": "2026-11-10T15:54:08+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+          "title": "Google broadens its AI hardware portfolio with two new specialized chips"
+        }
+      ]
+    },
+    {
+      "id": "00824ebcd8896845c558",
+      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+      "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "original_title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+      "published_at": "2026-11-10T15:29:30+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os",
+          "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS"
+        }
+      ]
+    },
+    {
+      "id": "a8c416e2c7748124802b",
+      "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
+      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "original_title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per... AI agents spend m…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
+          "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale"
+        }
+      ]
+    },
+    {
+      "id": "5cd7ff8934485154fbfc",
+      "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine",
+      "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "original_title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "NVIDIA is announcing two open source projects for building and operating managed Kubernetes services on GPU infrastructure—NVIDIA Kubernetes Engine (NVKE) and... NVIDIA is annou…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/manage-kubernetes-clusters-for-gpu-infrastructure-with-nvidia-kubernetes-engine",
+          "title": "Manage Kubernetes Clusters for GPU Infrastructure with NVIDIA Kubernetes Engine"
+        }
+      ]
+    },
+    {
+      "id": "25d05ca668539a664912",
+      "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
+      "title": "NVIDIA, GPU 워크로드 체크포인트·복원 오픈소스 'NVIDIA Snapshot' 공개",
+      "original_title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot",
+      "published_at": "2026-11-10T15:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "NVIDIA Snapshot, a new open-source component of the NVIDIA DSX AI Factory Platform, makes initialized GPU workloads reusable across inference... NVIDIA Snapshot, a new open-sour…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/start-and-restore-gpu-workloads-in-seconds-with-nvidia-snapshot",
+          "title": "Start and Restore GPU Workloads in Seconds with NVIDIA Snapshot"
+        }
+      ],
+      "summary": "NVIDIA가 DSX AI Factory Platform의 오픈소스 구성요소로 GPU 워크로드용 체크포인트·복원 시스템인 NVIDIA Snapshot을 공개했다. 이 시스템은 초기화된 워크로드의 CPU·GPU 메모리를 캡처해 같은 GPU 모델과 드라이버를 갖춘 노드에서 복원하며, NVIDIA가 공개한 벤치마크에서는 vLLM·SGLang·TensorRT LLM 전 구성에서 복원 시간이 3.6~42.7초로 콜드 스타트 대비 8~36배 빨랐다고 회사 측은 밝혔다.",
+      "why_it_matters": "추론 수요 급증이나 레플리카 장애 시 콜드 스타트 지연이 서빙 용량 확보를 늦추는 문제를 겨냥한 것으로, NVIDIA는 복원 시간 단축을 자사 벤치마크로 제시했다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-10T21:14:29+00:00",
+        "input_hash": "086721bd341b823b3d375757caa855520c056c06be12d0683eb6a4d903ce5422",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "20130a1f9113e60c39e0",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42679",
+      "title": "앤트로픽, 86조원 규모 기업공개 가속…기업 가치 1880조원 목표, 나스닥 상장 위한 투자자 설명회 돌입",
+      "original_title": "앤트로픽, 86조원 규모 기업공개 가속…기업 가치 1880조원 목표, 나스닥 상장 위한 투자자 설명회 돌입",
+      "published_at": "2026-11-10T14:45:41+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "생성형 인공지능(AI) 기업 앤트로픽(Anthropic)이 미국 증시 상장을 위한 투자자 설명회에 돌입하며 초대형 기업공개(IPO)를 본격화했다. 공모 희망가격을 기준으로 한 기본 공모 규모는 최대 643억 5000만달러(약 86.4조원)에 달한다.기업용 AI 시장에서 성장해 온 앤트로픽이 공개 자본시장에 진입하면서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42679",
+          "title": "앤트로픽, 86조원 규모 기업공개 가속…기업 가치 1880조원 목표, 나스닥 상장 위한 투자자 설명회 돌입"
+        }
+      ]
+    },
+    {
+      "id": "126b111b5d436487e51f",
+      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "original_title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "published_at": "2026-11-10T14:05:10+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Adobe is taking on Figma with a new prototype builder tool in Firefly.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp",
+          "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly"
+        }
+      ]
+    },
+    {
+      "id": "5553fe020c93d3c2ae42",
+      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "original_title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "published_at": "2026-11-10T14:01:39+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion",
+          "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion"
+        }
+      ]
+    },
+    {
+      "id": "e192e4f92a704298f96f",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "title": "구글, 어도비와 파트너십 확대…PDF·이미지 편집 등 구글 앱과 연동",
+      "original_title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+        }
+      ],
+      "summary": "구글이 어도비와의 파트너십을 확대해 어도비의 크리에이티브 및 생산성 도구를 구글 제품에 직접 통합한다고 발표했다. 구글 드라이브와 지메일에서 어도비 애크로뱃으로 바로 이동하는 경로가 제공되고, 제미나이와 제미나이 엔터프라이즈에 어도비 커넥터가 확장되며, 구글 검색의 AI 모드에도 어도비 크리에이티브 도구가 추가될 예정이다. 또한 구글 딥마인드와 어도비는 포토샵용 이미지 모델을 시작으로 새로운 편집 기능을 탐구할 계획이다.",
+      "why_it_matters": "이번 협업은 구글의 AI 모델과 어도비의 창작 도구가 결합해 사용자가 앱 전환 없이 작업할 수 있는 환경을 지향한다는 점에서 주목된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-10T21:14:25+00:00",
+        "input_hash": "af4fb4712730a8a7db974a527130e7cda340768a50e4a8a47bb83cba21dc776b",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "c979be8e72cc92b8a0fb",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "title": "구글 클라우드, 의료용 AI '제미나이 포 헬스케어' 발표",
+      "original_title": "Google Cloud launches Gemini for healthcare.",
+      "published_at": "2026-11-10T13:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "title": "Google Cloud launches Gemini for healthcare."
+        }
+      ],
+      "summary": "구글 클라우드가 임상·운영·행정 시스템을 통합하기 위한 AI 솔루션 '제미나이 포 헬스케어'를 발표했다. 이 플랫폼은 전자의무기록, 청구 플랫폼, 임상 지침, 메디케어 데이터셋 등에서 정보를 모아 의료 기록 합성 및 사전 승인 검토와 같은 복잡한 다단계 워크플로를 조정하고 실행한다. HCA 헬스케어, 하이마크 헬스, 노스웰 헬스를 포함한 출시 파트너와 함께 초기 프리뷰로 제공된다.",
+      "why_it_matters": "의료 행정 부담을 줄이고 환자 치료에 직원 시간을 되돌려주는 것을 목표로 하지만, 실제 효과와 안전성은 독립적으로 검증되지 않았다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-10T21:14:22+00:00",
+        "input_hash": "72fb5945e298696a7403f0f358b8880344f018acb675d7da6088fe1327c2e50c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0e9fb0eb84f13acffdc5",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "original_title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "published_at": "2026-11-10T12:02:28+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s core encryption.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth"
+        }
+      ]
+    },
+    {
+      "id": "0f0020abcf733229d29f",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Helping caregivers use AI in everyday life",
+      "original_title": "Helping caregivers use AI in everyday life",
+      "published_at": "2026-11-10T12:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+          "title": "Helping caregivers use AI in everyday life"
+        }
+      ]
+    },
+    {
+      "id": "096f1e191f469cc7e835",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42678",
+      "title": "\"말만 하면 지도 앱이 완성된다”…구글, 제미나이·구글맵 결합해 AI 앱 개발 자동화",
+      "original_title": "\"말만 하면 지도 앱이 완성된다”…구글, 제미나이·구글맵 결합해 AI 앱 개발 자동화",
+      "published_at": "2026-11-10T11:22:26+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "복잡한 프로그래밍이나 지도 API 설정 없이 자연어로 원하는 기능을 설명하는 것만으로 실제 지도 데이터를 활용하는 애플리케이션을 개발할 수 있는 기술이 공개됐다. 인공지능(AI)이 앱의 기본 구조를 생성하는 데 그치지 않고, 지도 서비스 연결과 인증 설정까지 처리하면서 AI 기반 앱 개발의 진입 장벽이 한층 낮아질 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42678",
+          "title": "\"말만 하면 지도 앱이 완성된다”…구글, 제미나이·구글맵 결합해 AI 앱 개발 자동화"
+        }
+      ]
+    },
+    {
       "id": "873837d446bf7e78a1cf",
       "url": "https://www.wired.com/story/meet-the-sad-wives-of-ai",
       "title": "Meet the Sad Wives of AI",
@@ -165,6 +1121,26 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42677",
           "title": "AI 에이전트가 정부 시스템 무단 침입…호주, AI 사고 신고 의무화·독립 규제기관 신설 추진"
+        }
+      ]
+    },
+    {
+      "id": "991ad48e8559b2fefa9f",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "title": "Introducing Businesses in ChatGPT",
+      "original_title": "Introducing Businesses in ChatGPT",
+      "published_at": "2026-11-10T10:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "title": "Introducing Businesses in ChatGPT"
         }
       ]
     },
@@ -704,6 +1680,26 @@
       ]
     },
     {
+      "id": "f3fc54cd1d78c100d666",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "original_title": "Work at the Frontier: AI’s effect on freelance work",
+      "published_at": "2026-11-10T07:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "title": "Work at the Frontier: AI’s effect on freelance work"
+        }
+      ]
+    },
+    {
       "id": "0f192bba36f64bb6ee3d",
       "url": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages",
       "title": "Otter AI can now follow conversations across 30+ languages",
@@ -1073,6 +2069,55 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42664",
           "title": "구글, AI 반도체 ‘TPU 8i 맥스·8tx’ 공개…연산 성능 2배·데이터 처리 중 암호화로 에이전틱 AI 공략"
+        }
+      ]
+    },
+    {
+      "id": "cb93d68b445c05b0e3dc",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "title": "Hugging Face Hub, 구글 클라우드 계정으로 결제 가능해져",
+      "original_title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account"
+        }
+      ],
+      "summary": "Hugging Face가 조직을 Google Cloud 계정에 연결해 Hugging Face 사용료를 Google Cloud 청구서에 포함할 수 있는 기능을 발표했다. Google Cloud Marketplace를 통해 구독하면 기존 클라우드 청구 계정과 조달 절차로 결제되며, Team·Enterprise 구독과 Jobs·Inference Endpoints·Inference Providers·GPU Spaces 등 사용량이 청구서에 반영된다. Hugging Face는 구독 승인 후 기존 신용카드 결제에서 클라우드 마켓플레이스 결제로 전환된다고 설명했다.",
+      "why_it_matters": "기업이 별도 공급업체 등록과 법인카드 없이 기존 클라우드 예산과 조달 절차 안에서 Hugging Face 유료 서비스를 도입할 수 있게 된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-10T21:14:18+00:00",
+        "input_hash": "aedb9b91c8768e7b45335ade709ea248bba64318af48276a5785937078c7c074",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "5f3963726dbe36e6ccf9",
+      "url": "https://huggingface.co/blog/decision",
+      "title": "Decision Models in Hugging Face",
+      "original_title": "Decision Models in Hugging Face",
+      "published_at": "2026-11-10T00:00:00+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/decision",
+          "title": "Decision Models in Hugging Face"
         }
       ]
     },
@@ -1657,6 +2702,26 @@
       ]
     },
     {
+      "id": "6b6709b612e5913e3ffc",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "original_title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "published_at": "2026-11-09T19:51:47+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity"
+        }
+      ]
+    },
+    {
       "id": "a3bc8ca770f44f2d2835",
       "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
       "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
@@ -1951,6 +3016,35 @@
         "generated_at": "2026-11-10T03:45:24+00:00",
         "briefing_day": "2026-11-10",
         "input_hash": "c84ca8bcbe92e16c3eecd1e4de9a34b64ef9ef9b0a08fd8c0e5ab7d6a8a2d86d",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "90d698cdfe87825c57c5",
+      "url": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai",
+      "title": "AIhub 커피 코너: 휴머노이드가 구현형 AI의 미래일까?",
+      "original_title": "AIhub coffee corner: Are humanoids the future of embodied AI?",
+      "published_at": "2026-11-09T14:21:13+00:00",
+      "collected_at": "2026-11-10T21:13:47+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "The AIhub coffee corner captures the musings of AI experts over a short conversation. This month we ask whether humanoids are the future of robotics. How has the technology evol…",
+      "sources": [
+        {
+          "source_id": "robohub",
+          "url": "https://robohub.org/aihub-coffee-corner-are-humanoids-the-future-of-embodied-ai",
+          "title": "AIhub coffee corner: Are humanoids the future of embodied AI?"
+        }
+      ],
+      "summary": "AIhub 커피 코너에서 전문가들이 휴머노이드 로봇의 최근 발전과 미래에 대해 논의했다. Joydeep Biswas는 RoboCup에서 휴머노이드 로봇의 능력이 크게 향상되었으며, 하드웨어, 알고리즘, 학습 방법의 융합이 필요했다고 언급했다. Sabine Hauert는 휴머노이드가 로봇 분야를 촉진하지만, 모든 작업에 휴머노이드가 필요한 것은 아니라고 말했다.",
+      "why_it_matters": "휴머노이드 로봇의 발전은 로봇공학의 가능성을 넓히지만, 실제 적용에는 아직 한계가 있다. 전문가들은 과장된 홍보에 주의하고 현실적인 기대를 가질 필요가 있다고 강조한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-10T21:14:12+00:00",
+        "input_hash": "40bf606e2dfefffc3ab22d094cd126e9384d4c9cad55077c9e26cfd905c6252b",
         "evidence_verified": true
       }
     },
