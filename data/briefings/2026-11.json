@@ -3,6 +3,312 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-11",
+      "day": "2026-11-11",
+      "scheduled_at": "2026-11-10T21:30:00+00:00",
+      "generated_at": "2026-11-11T22:38:02+00:00",
+      "window_start": "2026-11-09T21:00:00+00:00",
+      "window_end": "2026-11-10T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI 자본시장 진입과 엣지 컴퓨팅 확산",
+      "takeaway": "오늘의 한 줄: AI 기업의 자본 조달과 현장 처리 기술이 동시에 구체화되며 산업 구조가 넓어지고 있습니다.",
+      "overview": [
+        {
+          "text": "앤트로픽이 나스닥 상장을 위한 투자자 설명회를 시작하며 최대 86조원 규모의 기업공개를 추진하고 있습니다. 구글과 엔비디아 등 7개 기업이 별도로 260억달러를 사모 방식으로 투자하기로 해, 반도체·클라우드 기업이 AI 모델 기업의 성장에 직접 자금을 대는 구도가 확인됩니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "챗GPT는 주요 AI 챗봇 6종의 이용 세션 가운데 81.2%를 차지하며 독주를 이어갔고, 클로드는 1년 새 이용 세션이 약 20배 늘어 2위로 올라섰습니다. 이 조사는 6종 챗봇의 이용 세션만 비교한 것으로, 구글 검색에 통합된 AI 모드 등은 포함되지 않아 전체 생성 AI 시장 점유율로 해석할 수는 없습니다.",
+          "issue_ids": [
+            "issue-2"
+          ]
+        },
+        {
+          "text": "엑시스는 네트워크 카메라 30주년을 맞아 영상 분석과 보안 기능을 카메라 내부에서 처리하는 엣지 AI 전략을 강화한다고 밝혔습니다. 네이버 D2는 Figma 디자인을 Android UI로 바꾸는 맞춤형 AI 스킬 제작기를 공개했고, 엔비디아는 차량 내 컴퓨트 한계 안에서 동작하는 자율주행 추론 모델을 소개했습니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "앤트로픽, 나스닥 상장 로드쇼 시작…최대 86조원 공모 추진",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "앤트로픽이 나스닥 상장을 위한 투자자 설명회에 돌입했으며, 기본 공모 규모는 최대 643억5000만달러(약 86조4000억원)에 달한다.",
+              "article_ids": [
+                "20130a1f9113e60c39e0"
+              ],
+              "links": [
+                {
+                  "text": "나스닥 상장",
+                  "article_id": "20130a1f9113e60c39e0"
+                },
+                {
+                  "text": "643억5000만달러",
+                  "article_id": "20130a1f9113e60c39e0"
+                }
+              ]
+            },
+            {
+              "text": "구글, 엔비디아 등 7개 기업이 총 260억달러 규모의 클래스 N 보통주를 사모 방식으로 인수하기로 했으며, 구글과 엔비디아가 각각 약 100억달러를 투자한다.",
+              "article_ids": [
+                "20130a1f9113e60c39e0"
+              ],
+              "links": [
+                {
+                  "text": "260억달러",
+                  "article_id": "20130a1f9113e60c39e0"
+                },
+                {
+                  "text": "클래스 N 보통주",
+                  "article_id": "20130a1f9113e60c39e0"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "기업용 AI 기업이 공개 자본시장에 진입하는 첫 대형 사례로, AI 산업의 기업가치 평가 기준이 될 수 있습니다.",
+          "article_ids": [
+            "20130a1f9113e60c39e0"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 20배 성장",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "그래파이트가 시밀러웹 데이터를 분석한 결과 챗GPT가 전 세계 주요 AI 챗봇 6종의 웹·앱 이용 세션 가운데 81.2%를 차지했다.",
+              "article_ids": [
+                "b68ca6af8517ab7a3eb0"
+              ],
+              "links": [
+                {
+                  "text": "81.2%",
+                  "article_id": "b68ca6af8517ab7a3eb0"
+                }
+              ]
+            },
+            {
+              "text": "클로드는 지난 1년간 이용 세션이 1901% 증가해 약 20배로 늘었으며, 9월에는 54억4000만건을 기록해 제미나이를 제치고 2위에 올랐다.",
+              "article_ids": [
+                "b68ca6af8517ab7a3eb0"
+              ],
+              "links": [
+                {
+                  "text": "1901%",
+                  "article_id": "b68ca6af8517ab7a3eb0"
+                },
+                {
+                  "text": "54억4000만건",
+                  "article_id": "b68ca6af8517ab7a3eb0"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "챗봇 시장의 독주 구도와 경쟁 서비스의 성장 속도를 함께 보여주는 지표입니다.",
+          "article_ids": [
+            "b68ca6af8517ab7a3eb0"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "엑시스, 네트워크 카메라 30주년…엣지 AI·보안 강화 전략 발표",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "엑시스가 네트워크 카메라 출시 30주년을 맞아 AI 영상 분석과 사이버보안 기능을 카메라 내부에서 처리하는 엣지 AI 기술을 강화하고 있다고 밝혔다.",
+              "article_ids": [
+                "f81e81d0bb6bd246e544"
+              ],
+              "links": [
+                {
+                  "text": "엣지 AI",
+                  "article_id": "f81e81d0bb6bd246e544"
+                }
+              ]
+            },
+            {
+              "text": "엑시스는 자체 개발 시스템온칩 아트펙-9를 활용하고 있으며, 카메라가 하나의 영상에서 100개 이상의 객체를 동시에 분류할 수 있다고 설명했다.",
+              "article_ids": [
+                "f81e81d0bb6bd246e544"
+              ],
+              "links": [
+                {
+                  "text": "아트펙-9",
+                  "article_id": "f81e81d0bb6bd246e544"
+                },
+                {
+                  "text": "100개 이상의 객체",
+                  "article_id": "f81e81d0bb6bd246e544"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "영상 분석을 클라우드가 아닌 카메라에서 처리하는 엣지 컴퓨팅 흐름이 보안·비용 측면에서 주목받고 있습니다.",
+          "article_ids": [
+            "f81e81d0bb6bd246e544"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "네이버 D2, Figma→Android 변환 AI 스킬 제작기 공개",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "네이버 D2가 Figma 디자인을 Android UI로 변환하는 Claude 스킬 'naver/design-to-ui'를 오픈 소스로 공개하고, 3개월간 얻은 원칙 10가지를 정리했다.",
+              "article_ids": [
+                "89049d0ef21bea3062ab"
+              ],
+              "links": [
+                {
+                  "text": "naver/design-to-ui",
+                  "article_id": "89049d0ef21bea3062ab"
+                }
+              ]
+            },
+            {
+              "text": "같은 모델과 프롬프트 조건에서 프로젝트 맞춤 스킬을 쓴 경우 디자인 토큰 참조 39회, drawable 1개를 생성해 범용 공식 스킬보다 결과가 좋았다.",
+              "article_ids": [
+                "89049d0ef21bea3062ab"
+              ],
+              "links": [
+                {
+                  "text": "프로젝트 맞춤 스킬",
+                  "article_id": "89049d0ef21bea3062ab"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 코딩 도구의 결과 품질이 모델보다 프로젝트 맞춤 스킬 설계에 좌우될 수 있음을 보여줍니다.",
+          "article_ids": [
+            "89049d0ef21bea3062ab"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "엔비디아, 자율주행용 엣지 추론 모델 '알파마요 2 엣지' 소개",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "엔비디아가 DRIVE AGX Thor에서 실시간 동작하도록 설계된 적응형 추론 비전-언어-행동 모델 '알파마요 2 엣지'를 소개했다.",
+              "article_ids": [
+                "031b00b4f99d2f30104c"
+              ],
+              "links": [
+                {
+                  "text": "DRIVE AGX Thor",
+                  "article_id": "031b00b4f99d2f30104c"
+                },
+                {
+                  "text": "알파마요 2 엣지",
+                  "article_id": "031b00b4f99d2f30104c"
+                }
+              ]
+            },
+            {
+              "text": "알파마요 2 엣지는 NVIDIA AlpaGym에서 폐루프 강화학습으로 후속 학습돼 최고 성능 체크포인트 대비 폐루프 주행 성능을 48.9% 향상시켰다.",
+              "article_ids": [
+                "031b00b4f99d2f30104c"
+              ],
+              "links": [
+                {
+                  "text": "48.9%",
+                  "article_id": "031b00b4f99d2f30104c"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "대형 추론 모델을 차량 내 컴퓨트와 지연 한계 안에서 구동하려는 엣지 AI 연구 방향을 보여줍니다.",
+          "article_ids": [
+            "031b00b4f99d2f30104c"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "031b00b4f99d2f30104c",
+          "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+          "published_at": "2026-11-10T16:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "nvidia",
+              "url": "https://developer.nvidia.com/blog/running-av-reasoning-models-within-onboard-compute-and-latency-limits",
+              "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits",
+              "name": "NVIDIA Technical Blog",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "20130a1f9113e60c39e0",
+          "title": "앤트로픽, 86조원 규모 기업공개 가속…기업 가치 1880조원 목표, 나스닥 상장 위한 투자자 설명회 돌입",
+          "published_at": "2026-11-10T14:45:41+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42679",
+              "title": "앤트로픽, 86조원 규모 기업공개 가속…기업 가치 1880조원 목표, 나스닥 상장 위한 투자자 설명회 돌입",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "89049d0ef21bea3062ab",
+          "title": "AI 스킬 만들기 10계명: Figma→Code 자동화 실전기",
+          "published_at": "2026-11-10T10:27:18+00:00",
+          "sources": [
+            {
+              "source_id": "naver_d2",
+              "url": "https://d2.naver.com/helloworld/8562180",
+              "title": "AI 스킬 만들기 10계명: Figma→Code 자동화 실전기",
+              "name": "NAVER D2",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "f81e81d0bb6bd246e544",
+          "title": "네트워크 카메라 30년…엑시스, AI·보안 ‘카메라 안으로’",
+          "published_at": "2026-11-10T09:48:59+00:00",
+          "sources": [
+            {
+              "source_id": "byline",
+              "url": "https://byline.network/2026/11/10-736",
+              "title": "네트워크 카메라 30년…엑시스, AI·보안 ‘카메라 안으로’",
+              "name": "바이라인네트워크",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "b68ca6af8517ab7a3eb0",
+          "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+          "published_at": "2026-11-10T09:14:53+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217239",
+              "title": "챗GPT, 주요 AI 챗봇 이용량 81% 차지…클로드 급성장에도 독주",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "824ab02437c8945136148f26b8f87811d8368083377d1777179dc0c8be10a5e3"
+    },
+    {
       "id": "2026-11-10",
       "day": "2026-11-10",
       "scheduled_at": "2026-11-09T21:30:00+00:00",
