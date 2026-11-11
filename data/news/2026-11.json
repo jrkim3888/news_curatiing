@@ -3,6 +3,935 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b943bfa40536ef229a7f",
+      "url": "https://solderable.dev/blog/fluid",
+      "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+      "original_title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+      "published_at": "2026-11-11T21:43:47+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://solderable.dev/blog/fluid",
+          "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
+          "discussion_url": "https://news.ycombinator.com/item?id=50459119"
+        }
+      ]
+    },
+    {
+      "id": "8881308f2f9584667ee3",
+      "url": "https://github.com/alessiodonato/forchetta",
+      "title": "Forchetta – one window for all your Claude Code sessions (macOS)",
+      "original_title": "Forchetta – one window for all your Claude Code sessions (macOS)",
+      "published_at": "2026-11-11T21:42:17+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/alessiodonato/forchetta",
+          "title": "Forchetta – one window for all your Claude Code sessions (macOS)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50459106"
+        }
+      ]
+    },
+    {
+      "id": "012cd9b103b088cdb80d",
+      "url": "https://punditclaims.ai/",
+      "title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+      "original_title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+      "published_at": "2026-11-11T21:39:36+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://punditclaims.ai/",
+          "title": "Pundit Claims – Open-Source Register of AI Claims by Gary Marcus and Ed Zitron",
+          "discussion_url": "https://news.ycombinator.com/item?id=50459075"
+        }
+      ]
+    },
+    {
+      "id": "e93000d220e29578f1dd",
+      "url": "https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage",
+      "title": "Some IGF Jurors released a statement about AI usage",
+      "original_title": "Some IGF Jurors released a statement about AI usage",
+      "published_at": "2026-11-11T21:34:05+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.lauramichet.com/some-igf-jurors-released-a-statement-about-ai-usage",
+          "title": "Some IGF Jurors released a statement about AI usage",
+          "discussion_url": "https://news.ycombinator.com/item?id=50459020"
+        }
+      ]
+    },
+    {
+      "id": "70675420b82786d893b3",
+      "url": "https://www.youtube.com/watch?v=IlgvRtTwaUs",
+      "title": "Is the AI Singularity Coming?",
+      "original_title": "Is the AI Singularity Coming?",
+      "published_at": "2026-11-11T21:28:57+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=IlgvRtTwaUs",
+          "title": "Is the AI Singularity Coming?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458955"
+        }
+      ]
+    },
+    {
+      "id": "1df6a00742e99b5a005c",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "original_title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "published_at": "2026-11-11T21:24:35+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458900"
+        }
+      ]
+    },
+    {
+      "id": "70a5a0b77a395f088a98",
+      "url": "https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii",
+      "title": "Apple II Agent: An AI Coding Environment for the Apple II",
+      "original_title": "Apple II Agent: An AI Coding Environment for the Apple II",
+      "published_at": "2026-11-11T21:20:03+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.vintagecomputing.com/index.php/archives/3746/apple-ii-agent-an-ai-coding-environment-for-the-apple-ii",
+          "title": "Apple II Agent: An AI Coding Environment for the Apple II",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458850"
+        }
+      ]
+    },
+    {
+      "id": "d299596ff4a27ec6256a",
+      "url": "https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents",
+      "title": "Show HN: Version History for Your Synced Notes (AI Agent Safety)",
+      "original_title": "Show HN: Version History for Your Synced Notes (AI Agent Safety)",
+      "published_at": "2026-11-11T21:19:24+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.etherpk.com/version-history-for-your-synced-notes-additional-safety-for-working-alongside-ai-agents",
+          "title": "Show HN: Version History for Your Synced Notes (AI Agent Safety)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458841"
+        }
+      ]
+    },
+    {
+      "id": "fd0e38b70a90d204adaa",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+      "title": "aws-emulator",
+      "original_title": "aws-emulator",
+      "published_at": "2026-11-11T21:18:30+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
+          "title": "aws-emulator"
+        }
+      ]
+    },
+    {
+      "id": "73f1d36e0bda7a613458",
+      "url": "https://www.reinvent.science/p/the-role-of-natural-scientists-and",
+      "title": "The role of natural scientists and hardware engineers in AI safety",
+      "original_title": "The role of natural scientists and hardware engineers in AI safety",
+      "published_at": "2026-11-11T21:17:52+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reinvent.science/p/the-role-of-natural-scientists-and",
+          "title": "The role of natural scientists and hardware engineers in AI safety",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458814"
+        }
+      ]
+    },
+    {
+      "id": "b2cb61e979c8a14aebac",
+      "url": "https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w",
+      "title": "SFT for professionals in software, AI, systems, science and others",
+      "original_title": "SFT for professionals in software, AI, systems, science and others",
+      "published_at": "2026-11-11T21:14:58+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://app.outlier.ai/en/expert/referrals/link/3FKWhSGJnWvE8htqBdLKT9ZdU-w",
+          "title": "SFT for professionals in software, AI, systems, science and others",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458761"
+        }
+      ]
+    },
+    {
+      "id": "9b220c81948b01f13073",
+      "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+      "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "original_title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "published_at": "2026-11-11T21:06:05+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://x.com/dimitrispapail/status/2120245027804705121?a=yp1VXtQi8Dep0GmUnxo",
+          "title": "Reprogramming Dormant Neurons to Backdoor AI Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458653"
+        }
+      ]
+    },
+    {
+      "id": "f3e38ae5005dd7f56a1c",
+      "url": "https://haoailab.com/blogs/verifiable-llm-infra",
+      "title": "Towards Verifiable LLM Infra: Agent-Driven Proof of Agent-Implemented Inference",
+      "original_title": "Towards Verifiable LLM Infra: Agent-Driven Proof of Agent-Implemented Inference",
+      "published_at": "2026-11-11T20:58:34+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://haoailab.com/blogs/verifiable-llm-infra",
+          "title": "Towards Verifiable LLM Infra: Agent-Driven Proof of Agent-Implemented Inference",
+          "discussion_url": "https://news.ycombinator.com/item?id=50458579"
+        }
+      ]
+    },
+    {
+      "id": "e9b1651e2709b7ea14f3",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts",
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "original_title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "published_at": "2026-11-11T20:54:20+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts",
+          "title": "Notion says Fireworks breach exposed customer AI chat transcripts"
+        }
+      ]
+    },
+    {
+      "id": "9bcf06fc2ca539c1fcb3",
+      "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents",
+      "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+      "original_title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+      "published_at": "2026-11-11T20:25:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Todd Bishop / GeekWire : AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed an…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents",
+          "title": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+          "discussion_url": "https://www.techmeme.com/261111/p41"
+        }
+      ]
+    },
+    {
+      "id": "321d8b43ce72dae60562",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
+      "title": "Why the data center you dread might never even be built",
+      "original_title": "Why the data center you dread might never even be built",
+      "published_at": "2026-11-11T20:15:15+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built",
+          "title": "Why the data center you dread might never even be built"
+        }
+      ]
+    },
+    {
+      "id": "c3fa6b6a983077561348",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+      "title": "Meta is losing its longtime head of infrastructure",
+      "original_title": "Meta is losing its longtime head of infrastructure",
+      "published_at": "2026-11-11T20:12:01+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure",
+          "title": "Meta is losing its longtime head of infrastructure"
+        }
+      ]
+    },
+    {
+      "id": "27ced9ec34f579c9724a",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "original_title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "published_at": "2026-11-11T20:02:14+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+          "title": "How backlash and red tape continue to slow data centers post-Blue Wave"
+        }
+      ]
+    },
+    {
+      "id": "5413a692ab5366d74989",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "original_title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "published_at": "2026-11-11T19:54:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+          "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth"
+        }
+      ]
+    },
+    {
+      "id": "038f46a4355e85690cee",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+      "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "original_title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+      "published_at": "2026-11-11T19:34:55+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+          "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips"
+        }
+      ]
+    },
+    {
+      "id": "f2c9646eac9d4c1ab580",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "original_title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "published_at": "2026-11-11T19:22:22+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+          "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair"
+        }
+      ]
+    },
+    {
+      "id": "73a487a9dee9c9049eac",
+      "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
+      "title": "Browse tools.simonwillison.net by tag",
+      "original_title": "Browse tools.simonwillison.net by tag",
+      "published_at": "2026-11-11T18:42:50+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Browse tools.simonwillison.net by tag I've been wanting a better way to browse my collection of vibe-coded tools (244 and counting) for a while. I had a few Fable 5.2 credits le…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/11/tools-tags",
+          "title": "Browse tools.simonwillison.net by tag"
+        }
+      ]
+    },
+    {
+      "id": "793c0a0b48b9d32d29e7",
+      "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?st=ytrzi1",
+      "title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
+      "original_title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
+      "published_at": "2026-11-11T18:40:01+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alison Sider / Wall Street Journal : United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule vi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/united-airlines-is-banning-ai-bots-from-booking-flights-5b514b38?st=ytrzi1",
+          "title": "United Airlines says it will prevent personal AI assistants from booking tickets, citing data privacy risks and possible FAA and DOT rule violations (Alison Sider/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261111/p39"
+        }
+      ]
+    },
+    {
+      "id": "e9ee3d0d22832a1de41c",
+      "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU",
+      "title": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)",
+      "original_title": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)",
+      "published_at": "2026-11-11T18:30:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nick Clegg / The Atlantic : Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentim…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360?gift=VELZukBv_TdFyvYot6GkvImUfy5VbhsFdb6Ml7MDXXU",
+          "title": "Silicon Valley's herd mentality in cozying up to Trump backfired as Democrats may seek retribution, China closes the AI gap, and anti-Big Tech sentiment grows (Nick Clegg/The Atlantic)",
+          "discussion_url": "https://www.techmeme.com/261111/p38"
+        }
+      ]
+    },
+    {
+      "id": "02bfed5e7aa817ea9dcb",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "published_at": "2026-11-11T18:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "title": "Gemini Decisions API: Fast, calibrated multimodal decisions"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "title": "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)",
+          "discussion_url": "https://www.techmeme.com/261111/p40"
+        }
+      ]
+    },
+    {
+      "id": "88d1ecd11797604c75de",
+      "url": "https://simonwillison.net/2026/Nov/11/llm",
+      "title": "llm 0.37.2",
+      "original_title": "llm 0.37.2",
+      "published_at": "2026-11-11T17:19:52+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - no…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/11/llm",
+          "title": "llm 0.37.2"
+        }
+      ]
+    },
+    {
+      "id": "4b30bf9e8a4d0303bec6",
+      "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
+      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "original_title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "published_at": "2026-11-11T17:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform... As teams deploy and scale …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
+          "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory"
+        }
+      ]
+    },
+    {
+      "id": "6a4a8d1eb7a86d978045",
+      "url": "https://www.upstartsmedia.com/p/fintech-imprint-raises-130m",
+      "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)",
+      "original_title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)",
+      "published_at": "2026-11-11T16:30:01+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alex Konrad / Upstarts Media : Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuatio…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.upstartsmedia.com/p/fintech-imprint-raises-130m",
+          "title": "Imprint, which helps companies offer co-branded credit cards and manage loyalty programs, raised $130M led by Khosla Ventures at a ~$1.9B valuation (Alex Konrad/Upstarts Media)",
+          "discussion_url": "https://www.techmeme.com/261111/p34"
+        }
+      ]
+    },
+    {
+      "id": "236705559d2866e2db8a",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems",
+      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "original_title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+      "published_at": "2026-11-11T16:16:07+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems",
+          "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?"
+        }
+      ]
+    },
+    {
+      "id": "bed7979fe4378809a9c4",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "original_title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+      "published_at": "2026-11-11T16:14:44+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+          "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time"
+        }
+      ]
+    },
+    {
+      "id": "3d65ccc2f5cdce6978b3",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "title": "구글 랩스, 실시간 협업 실험 '테이블탑' 공개",
+      "original_title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "published_at": "2026-11-11T16:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+          "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
+        }
+      ],
+      "summary": "구글 랩스가 그룹이 함께 계획하고 놀고 작업할 수 있는 실시간 협업 실험 '테이블탑'을 소개했다. 사용자는 링크, 파일, 아이디어를 추가한 뒤 @tabletop을 프롬프트하거나 템플릿을 선택해 맞춤형 여행 일정, 저녁 투표, 비용 분담, 토너먼트 대진표 등을 생성할 수 있다. 초대 링크를 공유하면 구글 독스처럼 여러 명이 동시에 사용할 수 있으며, 미국 18세 이상을 대상으로 대기자 명단을 통해 순차 제공된다.",
+      "why_it_matters": "그룹 협업 도구 시장에서 구글의 생성형 AI 실험이 구체적 사용 사례를 제시하며 접근성을 넓히는 시도로 보인다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-11T21:47:02+00:00",
+        "input_hash": "e8a34870dfe2692ea64a09bc30c2a2a7aa6fee8df24d95985e46b52db45b46b2",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "25d0bf976793cba10a9b",
+      "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents",
+      "title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform designed for AI agents, emerges from stealth with $70M across a Series A and a seed (Tim Keary/Forbes)",
+      "original_title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform designed for AI agents, emerges from stealth with $70M across a Series A and a seed (Tim Keary/Forbes)",
+      "published_at": "2026-11-11T15:21:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Tim Keary / Forbes : Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform designed for AI agents, emerges from stealth with $70M across a Series A and a …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/timkeary/2026/11/11/edelbyte-raises-70-million-to-bring-big-data-analytics-to-ai-agents",
+          "title": "Tel Aviv- and SF-based Edelbyte, which is building a data analytics platform designed for AI agents, emerges from stealth with $70M across a Series A and a seed (Tim Keary/Forbes)",
+          "discussion_url": "https://www.techmeme.com/261111/p33"
+        }
+      ]
+    },
+    {
+      "id": "5e323827c0692e3d7550",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks",
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "original_title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "published_at": "2026-11-11T15:12:59+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [.…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks",
+          "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks"
+        }
+      ]
+    },
+    {
+      "id": "d7414ba9c609253700f3",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow",
+      "title": "Anthropic IPO 로드쇼 영상, 멀티칩 전략과 컴퓨트 승수 공개",
+      "original_title": "Anthropic's IPO roadshow video",
+      "published_at": "2026-11-11T15:11:59+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business wo…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow",
+          "title": "Anthropic's IPO roadshow video"
+        }
+      ],
+      "summary": "Anthropic이 IPO 로드쇼를 시작하며 공개한 영상에서 공동창업자 Tom Brown이 AWS Trainium, Google TPU, NVIDIA GPU, AMD GPU 등 네 가지 주요 칩 제품군 전반에서 Claude를 학습·서빙한다고 밝혔다. 또한 물리적 컴퓨트 용량에 컴퓨트 승수를 곱한 '총 유효 컴퓨트'를 강조하며, AMD GPU에 Claude를 3일 만에 구동시킨 사례를 언급했다.",
+      "why_it_matters": "멀티칩 전략과 컴퓨트 승수 축적이 AI 기업의 비용·성능 경쟁력을 좌우할 수 있다는 점을 보여주며, 재귀적 자기개선 전망은 업계의 장기 경쟁 구도에 시사점을 준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-11T21:47:00+00:00",
+        "input_hash": "f059da990f6f201cb522d5e8a0c646287df26adab8708a55b6d0eb3967a0fcdd",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "943bd9ebdd36c5629d76",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict the effects of genetic variants, for non-commercial research (Robert Hart/The Verge)",
+      "original_title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict the effects of genetic variants, for non-commercial research (Robert Hart/The Verge)",
+      "published_at": "2026-11-11T15:10:04+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Robert Hart / The Verge : Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict the effects of genetic variants, for non-commercial…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "title": "Google DeepMind launches AlphaGenome 2, trained on 100M+ cell profiles across 68 tissues to predict the effects of genetic variants, for non-commercial research (Robert Hart/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261111/p32"
+        }
+      ]
+    },
+    {
+      "id": "ba0fcf4e325b4115c73c",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "original_title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "published_at": "2026-11-11T15:00:15+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+        }
+      ]
+    },
+    {
+      "id": "34b5b4703a4ee2901b19",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "original_title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "published_at": "2026-11-11T15:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he do…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+          "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth"
+        }
+      ]
+    },
+    {
+      "id": "017f010e8d8136f18730",
+      "url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce",
+      "title": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)",
+      "original_title": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)",
+      "published_at": "2026-11-11T14:40:02+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Morgan Chittum / Fortune : Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://fortune.com/2026/11/11/rox-series-b-100-million-funding-take-on-salesforce",
+          "title": "Rox, which develops AI agents to automate customer research and outreach, raised a $100M Series B co-led by General Catalyst and March at a $1.3B valuation (Morgan Chittum/Fortune)",
+          "discussion_url": "https://www.techmeme.com/261111/p30"
+        }
+      ]
+    },
+    {
+      "id": "4a4f72856e6128fb6581",
+      "url": "https://byline.network/2026/11/1111-9",
+      "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
+      "original_title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
+      "published_at": "2026-11-11T14:34:54+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다. 성민수 아이벡스 대표는 센서·AI 모델·로봇 장비·제어 소프트웨어·유지관리 체계가 유기적으로 결합해야 한다고 강조했다. 아이벡스는 핵심 기술 내재화와 단일…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1111-9",
+          "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장"
+        }
+      ]
+    },
+    {
+      "id": "87209848417b63cfc532",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "original_title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "published_at": "2026-11-11T14:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+          "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+          "title": "Plurai, founded by former Nexar staffers to use synthetic data and digital twins of corporate IT environments to assess AI agents, raised a $13M seed (Tim Fernholz/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261111/p31"
+        }
+      ]
+    },
+    {
+      "id": "0f3141386757e6231a05",
+      "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge",
+      "title": "AI100 report released: embodied AI highlighted as grand challenge",
+      "original_title": "AI100 report released: embodied AI highlighted as grand challenge",
+      "published_at": "2026-11-11T13:48:55+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The One Hundred Year Study on Artificial Intelligence (AI100) is a longitudinal study that assesses AI’s development and societal impact. Reports are released once every five ye…",
+      "sources": [
+        {
+          "source_id": "robohub",
+          "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge",
+          "title": "AI100 report released: embodied AI highlighted as grand challenge"
+        }
+      ]
+    },
+    {
+      "id": "a9a27045720eaafa786f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42698",
+      "title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개",
+      "original_title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개",
+      "published_at": "2026-11-11T12:25:23+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "화웨이(Huawei)가 인공지능(AI)을 활용해 가정의 태양광 발전과 배터리 저장, 전기차 충전, 전력 소비를 통합 관리하는 차세대 주거용 에너지 시스템을 공개했다. 전력 변환과 저장 기능을 하나의 장치에 결합하고, AI가 기상 정보와 전기요금, 전력 사용량을 분석해 에너지 운영을 최적화하도록 설계한 것이 특징이다.…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42698",
+          "title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "8973fc99be26d335c77e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42697",
+      "title": "셀바스AI, 한국어·영어를 하나의 목소리로 읽는 AI 음성합성 상용화…예스24 전자책에 적용",
+      "original_title": "셀바스AI, 한국어·영어를 하나의 목소리로 읽는 AI 음성합성 상용화…예스24 전자책에 적용",
+      "published_at": "2026-11-11T12:12:45+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "셀바스AI가 한국어와 영어가 혼합된 전자책을 하나의 목소리로 자연스럽게 읽어주는 인공지능(AI) 음성합성 기술을 상용화했다. 언어가 바뀔 때 발생하는 발음과 음색의 불연속성을 개선하고, 외부 서버를 거치지 않고 이용자 기기에서 음성을 생성하는 온디바이스 기술을 적용한 것이 특징이다.셀바스AI는 자체 개발한 크로스링구…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42697",
+          "title": "셀바스AI, 한국어·영어를 하나의 목소리로 읽는 AI 음성합성 상용화…예스24 전자책에 적용"
+        }
+      ]
+    },
+    {
+      "id": "088e61c3e623454bfa9f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42696",
+      "title": "바이두, 초당 200토큰 생성하는 ‘어니 5.5 플래시’ 공개…코딩·3D 모델링·AI 에이전트 겨냥",
+      "original_title": "바이두, 초당 200토큰 생성하는 ‘어니 5.5 플래시’ 공개…코딩·3D 모델링·AI 에이전트 겨냥",
+      "published_at": "2026-11-11T10:57:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 바이두(Baidu)가 초당 200토큰 이상의 텍스트 생성 속도와 최대 100만 토큰의 문맥 처리 능력을 갖춘 새로운 인공지능(AI) 모델을 공개했다. 전체 2,800억 개의 매개변수 가운데 실제 추론 과정에서는 140억 개만 활성화하는 구조를 적용해 대규모 모델의 성능과 연산 효율을 동시에 확보하는 데 초점을 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42696",
+          "title": "바이두, 초당 200토큰 생성하는 ‘어니 5.5 플래시’ 공개…코딩·3D 모델링·AI 에이전트 겨냥"
+        }
+      ]
+    },
+    {
       "id": "b3459262106a5d564712",
       "url": "https://exponentii.org/blog/tbm-2-0-meet-ldsbot",
       "title": "LDSBot, an AI LDS Chatbot",
@@ -1099,6 +2028,55 @@
       ]
     },
     {
+      "id": "55ff14dc4213127df72a",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "original_title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "title": "JioStar’s chief architect on AI discovery at 500M-user scale"
+        }
+      ]
+    },
+    {
+      "id": "11568aa8dfcf9a3c0750",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "title": "토큰 풀링 인식 학습으로 다중 벡터 임베딩 모델의 검색 품질 향상",
+      "original_title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "published_at": "2026-11-11T00:00:00+00:00",
+      "collected_at": "2026-11-11T21:46:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/token-pooling",
+          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models"
+        }
+      ],
+      "summary": "다중 벡터 임베딩 모델은 각 쿼리 토큰이 문서 내에서 개별적으로 매칭될 수 있어 표현력이 뛰어나지만, 문서 벡터 수가 많아 저장 부담이 크다. 토큰 풀링은 유사한 토큰 벡터를 병합해 표현을 줄이는 방법으로, 풀링 인식 학습을 통해 압축된 표현에서도 검색 품질을 유지하도록 인코더를 훈련할 수 있다. Hugging Face의 Tom Aarsen은 pool_factor=4로 일반 학습 모델이 NanoBEIR nDCG@10의 94.6%를 유지한 반면, 풀링 인식 학습 모델은 97.8%까지 유지했다고 발표했다.",
+      "why_it_matters": "저장 비용을 줄이면서 검색 품질을 유지하는 방법은 대규모 문서 검색 시스템에서 실용적인 균형점을 제시할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-11T21:46:50+00:00",
+        "input_hash": "95bd9737cd8da34d353c31a29ce31b3d937335d3fcc568709867d4368766c0a2",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "57a6c8e304dfd2761397",
       "url": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges",
       "title": "Railway breach leads to $740,000 in fraudulent AI charges",
@@ -1848,14 +2826,14 @@
     {
       "id": "a8c416e2c7748124802b",
       "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
-      "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
+      "title": "엔비디아, 에이전트용 런타임 'Agent Substrate'를 CNCF 샌드박스에 기부",
       "original_title": "Agent Substrate: Advancing Kubernetes for Agents at Scale",
       "published_at": "2026-11-10T15:00:00+00:00",
       "collected_at": "2026-11-10T21:13:47+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "AI agents spend most of their time idle, waiting on a human prompt, a tool result or a model response. Kubernetes wasn’t built for that. Running one Pod per... AI agents spend m…",
       "sources": [
         {
@@ -1863,7 +2841,16 @@
           "url": "https://developer.nvidia.com/blog/agent-substrate-advancing-kubernetes-for-agents-at-scale",
           "title": "Agent Substrate: Advancing Kubernetes for Agents at Scale"
         }
-      ]
+      ],
+      "summary": "엔비디아에 따르면 Agent Substrate는 CNCF Sandbox에 기부된 오픈소스·제로트러스트 샌드박스 런타임으로, 다수 세션을 소규모 워커 파드 풀에 멀티플렉싱하고 유휴 세션은 메모리·파일시스템까지 체크포인트해 다음 요청 때 빈 워커에 복원한다고 밝혔다. 표준 컨테이너 대비 10배 높은 밀도로 수백만 에이전트와 도구를 안전하게 실행하는 것을 목표로 하며, 코딩 어시스턴트, RL 후학습의 CPU 환경, 연구용 GPU 샌드박스를 주요 수요로 제시했다. KAI Scheduler가 쿠버네티스 워크로드를 배치하고 NVIDIA Dynamo가 추론을 담당하며 추론 상태 신호를 에이전트 런타임과 교환하는 구조라고 설명했다.",
+      "why_it_matters": "에이전트 인프라가 쿠버네티스를 우회하는 독자 런타임으로 갈라지는 흐름 속에서 업스트림 기여를 택했다는 점이 눈에 띈다. 다만 API가 계속 바뀌고 GPU 지원이 재구축 중이며 Dynamo 연동 일부가 실험 단계라고 밝혀, 성숙도는 아직 초기다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-11T21:46:47+00:00",
+        "input_hash": "b6a0d91b1d13904f1d4a007dae39bd65e2d806e2df9d29c19baba66eaf4e9a7e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5cd7ff8934485154fbfc",
@@ -3258,14 +4245,14 @@
     {
       "id": "5f3963726dbe36e6ccf9",
       "url": "https://huggingface.co/blog/decision",
-      "title": "Decision Models in Hugging Face",
+      "title": "허깅페이스, 확률 분포로 결정 내리는 '결정 모델' 블로그 공개",
       "original_title": "Decision Models in Hugging Face",
       "published_at": "2026-11-10T00:00:00+00:00",
       "collected_at": "2026-11-10T21:13:47+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -3273,7 +4260,16 @@
           "url": "https://huggingface.co/blog/decision",
           "title": "Decision Models in Hugging Face"
         }
-      ]
+      ],
+      "summary": "허깅페이스 블로그가 2026년 11월 10일 'Decision Models in Hugging Face' 글을 게시했다. 이 글은 LLM이 텍스트를 생성하는 대신 선택지에 확률을 할당해 구조화된 결정을 내리는 '결정 모델' 개념과 인터페이스를 소개한다. 작성자는 Aritra Roy Gosthipaty, Lysandre, Pedro Cuenca, Tom Aarsen이며, TypeSafe AI의 Jev를 System One 모델로 언급하고 커뮤니티가 '결정 모델' 용어로 수렴했다고 설명한다.",
+      "why_it_matters": "LLM의 자유 생성 대신 확률 기반 결정을 내리는 인터페이스가 제안되면서, 분류·라우팅 같은 구조화 작업에서 모델 활용 방식이 달라질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-11T21:46:31+00:00",
+        "input_hash": "52dd198a4ef1d1ef9f8028dea3d9f457fdd4ac1a2f894a108d6f7168e3cfe748",
+        "evidence_verified": true
+      }
     },
     {
       "id": "37e4452e64c861cffe83",
@@ -3298,14 +4294,14 @@
     {
       "id": "9a8fde6cfa9ab68cee22",
       "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
-      "title": "llm-anthropic 0.31",
+      "title": "llm-anthropic 0.31, Anthropic의 Fable 5.2와 Mythos 5.2 모델 추가",
       "original_title": "llm-anthropic 0.31",
       "published_at": "2026-11-09T23:58:46+00:00",
       "collected_at": "2026-11-10T10:50:05+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open pro…",
       "sources": [
         {
@@ -3313,7 +4309,16 @@
           "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
           "title": "llm-anthropic 0.31"
         }
-      ]
+      ],
+      "summary": "Anthropic이 Fable 5.2와 Mythos 5.2를 발표했고, llm-anthropic 0.31에 새 모델들이 추가됐다. Fable 5.2는 Artificial Analysis에서 1위로 평가되며, 가격은 100만 입력 토큰당 8달러, 출력 토큰당 40달러로 이전 Fable 5.1보다 20% 저렴하다. 작성자는 다섯 가지 추론 수준에서 펠리컨 자전거 SVG 생성 테스트를 했고, max 수준에서는 128,000 토큰을 소모한 후 이미지를 반환하지 못했다고 전했다.",
+      "why_it_matters": "새 모델의 실사용 테스트에서 max 추론 수준이 토큰 한도로 실패하는 문제가 확인됐다. 가격 인하와 벤치마크 순위는 Anthropic의 발표와 제3자 평가에 기반한 것이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-11T21:46:27+00:00",
+        "input_hash": "f0da1f0cbc39aaa1ae082652f4047abbfde1c49b6e5e7d387f93ce716b37c2bb",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1cd01b15863e291ad4ce",
