@@ -1026,8 +1026,8 @@ class BriefingTests(unittest.TestCase):
 
     @patch('collector.briefings.sleep')
     @patch('collector.briefings.request')
-    def test_auth_billing_rate_limits_and_ambiguous_timeouts_are_not_retried(self, request, sleep):
-        for code in (400, 401, 402, 403, 429):
+    def test_auth_billing_and_ambiguous_timeouts_are_not_retried(self, request, sleep):
+        for code in (400, 401, 402, 403):
             for error in (RequestError(f'http_{code}'),
                           json.dumps({'error':{'code':code, 'message':'private'}}).encode()):
                 with self.subTest(code=code, error_type=type(error).__name__):
@@ -1041,6 +1041,92 @@ class BriefingTests(unittest.TestCase):
         request.side_effect = RequestError('network_failed_or_timed_out')
         with self.assertRaises(RequestError):
             briefings.generate([], 'secret-test', 'test/model')
+        sleep.assert_not_called()
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_http_and_json_rate_limits_defer_without_repeating_the_request(self, request, sleep):
+        for error in (RequestError('http_429', retry_after_seconds=7200),
+                      b'{"error":{"code":429,"message":"private provider details"}}'):
+            with self.subTest(transport=type(error).__name__):
+                request.reset_mock()
+                request.side_effect = [error]
+                diagnostics = {}
+                with self.assertRaises((SummaryError, RequestError)):
+                    briefings.generate([], 'secret-test', 'test/model', diagnostics=diagnostics)
+                self.assertEqual(request.call_count, 1)
+                self.assertEqual(diagnostics['request_attempts'], 1)
+                self.assertTrue(diagnostics['retryable'])
+                self.assertTrue(diagnostics['deferred'])
+                if isinstance(error, RequestError):
+                    self.assertEqual(diagnostics['retry_after_seconds'], 7200)
+                self.assertNotIn('private', json.dumps(diagnostics))
+                self.assertNotIn('secret-test', json.dumps(diagnostics))
+        sleep.assert_not_called()
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_gateway_retry_after_overrides_backoff_and_long_waits_defer(self, request, sleep):
+        request.side_effect = [RequestError('http_503', retry_after_seconds=30),
+                              b'{"choices":[{"finish_reason":"stop","message":{"content":"{}"}}]}']
+        diagnostics = {}
+        self.assertEqual(briefings.generate([], 'test-only', 'test/model', diagnostics=diagnostics), {})
+        sleep.assert_called_once_with(30)
+        self.assertNotIn('retry_after_seconds', diagnostics)
+        request.reset_mock()
+        sleep.reset_mock()
+        request.side_effect = RequestError('http_503', retry_after_seconds=3600)
+        with self.assertRaises(RequestError):
+            briefings.generate([], 'test-only', 'test/model', diagnostics=diagnostics)
+        self.assertEqual(request.call_count, 1)
+        self.assertTrue(diagnostics['deferred'])
+        self.assertEqual(diagnostics['retry_after_seconds'], 3600)
+        sleep.assert_not_called()
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_rate_limit_waits_for_server_deadline_then_publishes(self, request, sleep):
+        self.now = datetime(2026, 11, 10, 21, 30, tzinfo=UTC)
+        request.side_effect = RequestError('http_429', retry_after_seconds=7200)
+        failed = self.run_batch(review_coverage=briefings.review_coverage)
+        self.assertEqual(failed['briefing']['day'], '2026-11-11')
+        self.assertEqual(failed['briefing']['reason'], 'http_429')
+        self.assertEqual(failed['llm_requests'], 1)
+        recovery = failed['briefing']['automatic_recovery']
+        self.assertTrue(recovery['eligible'])
+        retry_at = datetime.fromisoformat(recovery['retry_after'])
+        self.assertGreaterEqual(retry_at, self.now + timedelta(hours=2))
+        self.args.recover_failed_briefing = True
+        self.now += timedelta(hours=1)
+        waiting = self.run_batch(generate=lambda _: self.fail('Ignored Retry-After'))
+        self.assertEqual(waiting['briefing']['result'], 'recovery_wait')
+        self.assertEqual(waiting['llm_requests'], 0)
+        self.now = retry_at + timedelta(seconds=1)
+        recovered = self.run_batch()
+        self.assertEqual(recovered['briefing']['result'], 'created')
+        self.assertEqual(recovered['briefing']['daily_attempt'], 2)
+        again = self.run_batch(generate=lambda _: self.fail('Overwrote recovered edition'))
+        self.assertEqual(again['briefing']['result'], 'already_published')
+        sleep.assert_not_called()
+
+    @patch('collector.briefings.sleep')
+    @patch('collector.briefings.request')
+    def test_persistent_rate_limit_uses_default_cooldown_and_stops_at_daily_cap(self, request, sleep):
+        self.now = datetime(2026, 11, 10, 21, 30, tzinfo=UTC)
+        request.side_effect = RequestError('http_429')
+        for attempt in range(1, 4):
+            failed = self.run_batch(review_coverage=briefings.review_coverage)
+            self.assertEqual(failed['llm_requests'], 1)
+            self.assertEqual(failed['briefing']['daily_attempt'], attempt)
+            recovery = failed['briefing']['automatic_recovery']
+            self.assertEqual(recovery['eligible'], attempt < 3)
+            self.assertGreaterEqual(datetime.fromisoformat(recovery['retry_after']),
+                                    self.now + timedelta(minutes=30))
+            self.args.recover_failed_briefing = True
+            self.now += timedelta(hours=1)
+        exhausted = self.run_batch(generate=lambda _: self.fail('Exceeded rate-limit retry cap'))
+        self.assertEqual(exhausted['briefing']['result'], 'recovery_exhausted')
+        self.assertEqual(request.call_count, 3)
         sleep.assert_not_called()
 
     @patch('collector.briefings.sleep')

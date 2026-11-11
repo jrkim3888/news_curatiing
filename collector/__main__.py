@@ -325,7 +325,8 @@ def run_daily(args, *, fetch_source=collect_source, generate_briefing=briefings.
         call = report['coverage_llm'] if stage == 'coverage_review' else report['llm']
         if stage in ('coverage_review', 'generation') and call.get('retryable') is True:
             # Wait after failure, including time spent fetching/retrying in this run.
-            retry_after = (now + timedelta(seconds=monotonic() - started) + briefings.RECOVERY_DELAY).isoformat()
+            delay = max(briefings.RECOVERY_DELAY.total_seconds(), call.get('retry_after_seconds', 0))
+            retry_after = (now + timedelta(seconds=monotonic() - started + delay)).isoformat()
             recovery.update(retryable=True, retry_after=retry_after, stage=stage,
                             status_code=call.get('provider_error_code', call.get('http_status')))
             atomic_json(attempts_path, attempts)

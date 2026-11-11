@@ -28,7 +28,9 @@ KST = ZoneInfo("Asia/Seoul")
 MAX_INPUTS = 16
 DEFAULT_MAX_TOKENS = 50000
 TRANSIENT_STATUS_CODES = {502, 503, 504}
+DEFERRED_STATUS_CODES = {429}
 REQUEST_RETRY_DELAYS = (5, 15)
+MAX_INLINE_WAIT = 60
 MAX_DAILY_ATTEMPTS = 3
 RECOVERY_DELAY = timedelta(minutes=30)
 # Pin eligible providers: the previous preferred endpoint disappeared, letting
@@ -353,8 +355,19 @@ def request_json(payload, key, model, token_budget, diagnostics):
                 status = exc.reason.removeprefix('http_')
                 if status.isdigit():
                     code = current['http_status'] = int(status)
-            current.update(reason=exc.reason, retryable=code in TRANSIENT_STATUS_CODES)
+                if exc.retry_after_seconds is not None:
+                    current['retry_after_seconds'] = exc.retry_after_seconds
+            current.update(reason=exc.reason, retryable=code in TRANSIENT_STATUS_CODES | DEFERRED_STATUS_CODES)
+            # A rate limit needs a quiet period, not another burst. Preserve
+            # eligibility so the scheduled recovery can retry after Retry-After.
+            if code in DEFERRED_STATUS_CODES:
+                current['deferred'] = True
+                raise
             if not current['retryable'] or number == len(REQUEST_RETRY_DELAYS):
+                raise
+            delay = max(REQUEST_RETRY_DELAYS[number], current.get('retry_after_seconds', 0))
+            if delay > MAX_INLINE_WAIT:
+                current['deferred'] = True
                 raise
         finally:
             attempts.append(current)
@@ -362,7 +375,7 @@ def request_json(payload, key, model, token_budget, diagnostics):
             # Only allowlisted diagnostics are retained; never provider messages/content.
             diagnostics.clear()
             diagnostics.update(base, **current, request_attempts=len(attempts), attempts=attempts)
-        sleep(REQUEST_RETRY_DELAYS[number])
+        sleep(delay)
 
 
 def _request_json_once(payload, key, diagnostics):
