@@ -3,6 +3,1137 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "b50c89b4a0e7ebef010d",
+      "url": "https://github.com/qybaihe/bla",
+      "title": "Adversarial defense for binaries/JS/Python against AI reverse-engineering agents",
+      "original_title": "Adversarial defense for binaries/JS/Python against AI reverse-engineering agents",
+      "published_at": "2026-11-12T10:40:30+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/qybaihe/bla",
+          "title": "Adversarial defense for binaries/JS/Python against AI reverse-engineering agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50465418"
+        }
+      ]
+    },
+    {
+      "id": "edcd7d40ba131cb40c02",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push",
+      "title": "Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company's 100,000-strong workforce to AI-native businesses (Bloomberg)",
+      "original_title": "Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company's 100,000-strong workforce to AI-native businesses (Bloomberg)",
+      "published_at": "2026-11-12T10:35:08+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company's 100,000-strong workforce to AI-native businesses — Tenc…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/tencent-founder-rallies-half-of-staff-behind-ai-native-push",
+          "title": "Sources: Tencent founder Pony Ma says in his annual speech that he is willing to deploy half of the company's 100,000-strong workforce to AI-native businesses (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261112/p11"
+        }
+      ]
+    },
+    {
+      "id": "6f98a8a8ec28798efa23",
+      "url": "https://www.writingruxandrabio.com/p/handing-over-humanity",
+      "title": "A look at the AI community's \"handoverism\" ideas, which envision humanity entrusting \"the direction of its future to AI\", and what it may look like in practice (Ruxandra Teslo/Ruxandra's Substack)",
+      "original_title": "A look at the AI community's \"handoverism\" ideas, which envision humanity entrusting \"the direction of its future to AI\", and what it may look like in practice (Ruxandra Teslo/Ruxandra's Substack)",
+      "published_at": "2026-11-12T10:30:05+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ruxandra Teslo / Ruxandra's Substack : A look at the AI community's “handoverism” ideas, which envision humanity entrusting “the direction of its future to AI”, and what it may …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.writingruxandrabio.com/p/handing-over-humanity",
+          "title": "A look at the AI community's \"handoverism\" ideas, which envision humanity entrusting \"the direction of its future to AI\", and what it may look like in practice (Ruxandra Teslo/Ruxandra's Substack)",
+          "discussion_url": "https://www.techmeme.com/261112/p10"
+        }
+      ]
+    },
+    {
+      "id": "902f3ea3cd9b96e1e974",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-partner-hon-hai-beats-profit-estimates-on-ai-iphone-duo",
+      "title": "Foxconn reports Q3 revenue up 47% YoY to ~$95.4B, net income up 34% to ~$2.4B, above est., driven by AI and iPhone Duo demand, and forecasts strong 2027 sales (Gao Yuan/Bloomberg)",
+      "original_title": "Foxconn reports Q3 revenue up 47% YoY to ~$95.4B, net income up 34% to ~$2.4B, above est., driven by AI and iPhone Duo demand, and forecasts strong 2027 sales (Gao Yuan/Bloomberg)",
+      "published_at": "2026-11-12T10:20:01+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Gao Yuan / Bloomberg : Foxconn reports Q3 revenue up 47% YoY to ~$95.4B, net income up 34% to ~$2.4B, above est., driven by AI and iPhone Duo demand, and forecasts strong 2027 s…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/nvidia-partner-hon-hai-beats-profit-estimates-on-ai-iphone-duo",
+          "title": "Foxconn reports Q3 revenue up 47% YoY to ~$95.4B, net income up 34% to ~$2.4B, above est., driven by AI and iPhone Duo demand, and forecasts strong 2027 sales (Gao Yuan/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261112/p9"
+        }
+      ]
+    },
+    {
+      "id": "614f4efbf5cbd80309eb",
+      "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+      "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+      "original_title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+      "published_at": "2026-11-12T10:09:02+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/11/10/us/politics/trump-china-trip-nvidia.html",
+          "title": "Despite Denial, Trump Was Told on Trip to China About Spying on Nvidia Leader",
+          "discussion_url": "https://news.ycombinator.com/item?id=50465221"
+        }
+      ]
+    },
+    {
+      "id": "c43a31c41d15b8f797bf",
+      "url": "https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents",
+      "title": "Lumbra, which is developing tech to orchestrate AI agents in ultra-secure computing environments for the intelligence community, raised a $25M Series A (Mike Wheatley/SiliconANGLE)",
+      "original_title": "Lumbra, which is developing tech to orchestrate AI agents in ultra-secure computing environments for the intelligence community, raised a $25M Series A (Mike Wheatley/SiliconANGLE)",
+      "published_at": "2026-11-12T10:03:47+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Mike Wheatley / SiliconANGLE : Lumbra, which is developing tech to orchestrate AI agents in ultra-secure computing environments for the intelligence community, raised a $25M Ser…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://siliconangle.com/2026/11/10/lumbra-gets-25m-in-backing-to-help-the-intelligence-community-deploy-reliable-ai-agents",
+          "title": "Lumbra, which is developing tech to orchestrate AI agents in ultra-secure computing environments for the intelligence community, raised a $25M Series A (Mike Wheatley/SiliconANGLE)",
+          "discussion_url": "https://www.techmeme.com/261112/p8"
+        }
+      ]
+    },
+    {
+      "id": "5c82887ba911882b653f",
+      "url": "https://lira-ia.github.io/",
+      "title": "I gave an AI a week to make something interesting or I switch it off",
+      "original_title": "I gave an AI a week to make something interesting or I switch it off",
+      "published_at": "2026-11-12T09:42:55+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://lira-ia.github.io/",
+          "title": "I gave an AI a week to make something interesting or I switch it off",
+          "discussion_url": "https://news.ycombinator.com/item?id=50465058"
+        }
+      ]
+    },
+    {
+      "id": "983b3a754a6058eda902",
+      "url": "https://www.deepl.com/en/press-release/aure-voice-ai-model",
+      "title": "DeepL unveils Aure, its most lifelike Voice AI translation model yet",
+      "original_title": "DeepL unveils Aure, its most lifelike Voice AI translation model yet",
+      "published_at": "2026-11-12T09:39:36+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.deepl.com/en/press-release/aure-voice-ai-model",
+          "title": "DeepL unveils Aure, its most lifelike Voice AI translation model yet",
+          "discussion_url": "https://news.ycombinator.com/item?id=50465036"
+        }
+      ]
+    },
+    {
+      "id": "4c90bb1e5d40986d1d4a",
+      "url": "https://mvakde.github.io/blog/looped-mdlarc",
+      "title": "I matched Opus 4.5 on ARC-2 with a 100M looped transformer that never saw text",
+      "original_title": "I matched Opus 4.5 on ARC-2 with a 100M looped transformer that never saw text",
+      "published_at": "2026-11-12T09:39:24+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mvakde.github.io/blog/looped-mdlarc",
+          "title": "I matched Opus 4.5 on ARC-2 with a 100M looped transformer that never saw text",
+          "discussion_url": "https://news.ycombinator.com/item?id=50465034"
+        }
+      ]
+    },
+    {
+      "id": "375345c1e503d1668a4c",
+      "url": "https://chohaninsight.com/blog/ai-customer-driven-development",
+      "title": "AI Customer Driven Development",
+      "original_title": "AI Customer Driven Development",
+      "published_at": "2026-11-12T09:33:45+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://chohaninsight.com/blog/ai-customer-driven-development",
+          "title": "AI Customer Driven Development",
+          "discussion_url": "https://news.ycombinator.com/item?id=50465004"
+        }
+      ]
+    },
+    {
+      "id": "46740f81b22492412b48",
+      "url": "https://twitter.com/JensenHuang/status/2080643682408321103",
+      "title": "For my first post, I'm sharing a letter Nvidia signed on why open models matter",
+      "original_title": "For my first post, I'm sharing a letter Nvidia signed on why open models matter",
+      "published_at": "2026-11-12T09:31:41+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/JensenHuang/status/2080643682408321103",
+          "title": "For my first post, I'm sharing a letter Nvidia signed on why open models matter",
+          "discussion_url": "https://news.ycombinator.com/item?id=50464985"
+        }
+      ]
+    },
+    {
+      "id": "4922ca6fb0dd92994c34",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "original_title": "Holiday Extras is rethinking what it can build with Codex",
+      "published_at": "2026-11-12T09:30:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "title": "Holiday Extras is rethinking what it can build with Codex"
+        }
+      ]
+    },
+    {
+      "id": "ca248e99183dbbe18820",
+      "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+      "title": "Google gooses Python AI performance by... removing Python",
+      "original_title": "Google gooses Python AI performance by... removing Python",
+      "published_at": "2026-11-12T09:23:49+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theregister.com/devops/2026/11/11/google-gooses-python-ai-performance-by-removing-python/5308995",
+          "title": "Google gooses Python AI performance by... removing Python",
+          "discussion_url": "https://news.ycombinator.com/item?id=50464918"
+        }
+      ]
+    },
+    {
+      "id": "e9ad48eb168d009adae4",
+      "url": "https://yinfi.substack.com/p/chinas-spy-machine-isnt-as-clever",
+      "title": "China's Spy Machine Isn't as Clever as You Think (Nvidia Scandal)",
+      "original_title": "China's Spy Machine Isn't as Clever as You Think (Nvidia Scandal)",
+      "published_at": "2026-11-12T09:14:30+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://yinfi.substack.com/p/chinas-spy-machine-isnt-as-clever",
+          "title": "China's Spy Machine Isn't as Clever as You Think (Nvidia Scandal)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50464840"
+        }
+      ]
+    },
+    {
+      "id": "27bf4bce6ef9f39bf2e5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217309",
+      "title": "구글 '알파게놈 2', 유전자 변이 영향 세포별 예측…원인 변이 2배 찾아",
+      "original_title": "구글 '알파게놈 2', 유전자 변이 영향 세포별 예측…원인 변이 2배 찾아",
+      "published_at": "2026-11-12T09:14:17+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글 딥마인드가 DNA 변이가 어떤 세포에서 유전자 활동에 영향을 미치는지 예측하는 AI 모델 '알파게놈 2(AlphaGenome 2)'를 공개했다. 기존 모델이 주로 조직 단위로 유전자 활동을 분석했다면, 새 모델은 개별 세포의 유형과 상태까지 구분하며 원인 변이 식별 성능도 약 2배 높였다.구글 딥마인드는 11일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217309",
+          "title": "구글 '알파게놈 2', 유전자 변이 영향 세포별 예측…원인 변이 2배 찾아"
+        }
+      ]
+    },
+    {
+      "id": "bf01e46a09885c40c99a",
+      "url": "https://github.com/ffseika0304/shanhai-gateway",
+      "title": "Show HN: ShanHaiGateway – multi-upstream LLM gateway in Go",
+      "original_title": "Show HN: ShanHaiGateway – multi-upstream LLM gateway in Go",
+      "published_at": "2026-11-12T09:13:38+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ffseika0304/shanhai-gateway",
+          "title": "Show HN: ShanHaiGateway – multi-upstream LLM gateway in Go",
+          "discussion_url": "https://news.ycombinator.com/item?id=50464830"
+        }
+      ]
+    },
+    {
+      "id": "5ee984871feb6a45ea0e",
+      "url": "https://byline.network/2026/11/12-680",
+      "title": "네이버클라우드 “사이버 팬데믹, 보안 특화 AI가 살길”",
+      "original_title": "네이버클라우드 “사이버 팬데믹, 보안 특화 AI가 살길”",
+      "published_at": "2026-11-12T09:06:16+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“저희도 지금 이 순간에 저희 망이 안전한지 모르겠어요. 확신할 수 없고요.” 김진휘 네이버클라우드 전무는 12일 서울 여의도 콘래드서울에서 열린 금융정보보호 컨퍼런스 ‘FISCON 2026’ 특별강연에서 최근의 보안 위협을 ‘사이버 팬데믹’에 비유하며 이렇게 말했다. AI를 활용한 공격이 빨라지면서 네이버도 기존 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/12-680",
+          "title": "네이버클라우드 “사이버 팬데믹, 보안 특화 AI가 살길”"
+        }
+      ]
+    },
+    {
+      "id": "6c8179e6442aebbbdfb3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217327",
+      "title": "메타, AI 데이터 처리 최대 45배 빠르게 하는 'e-민즈' 공개",
+      "original_title": "메타, AI 데이터 처리 최대 45배 빠르게 하는 'e-민즈' 공개",
+      "published_at": "2026-11-12T09:00:53+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 기존 데이터 군집화 알고리즘보다 GPU에서 최대 45배 빠르게 작동하는 'e-민즈(e-means)'를 오픈소스로 공개했다. 대규모 데이터를 비슷한 특성끼리 묶는 데 필요한 연산 시간과 비용을 크게 줄여 AI 검색과 추천 시스템의 구축 효율을 높일 수 있다는 설명이다.메타 연구진은 6일(현지시간) 아카이브에 e…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217327",
+          "title": "메타, AI 데이터 처리 최대 45배 빠르게 하는 'e-민즈' 공개"
+        }
+      ]
+    },
+    {
+      "id": "25fcbc9bf97801b80565",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42709",
+      "title": "분당서울대병원, 뇌 CT 판독문 자동 생성 AI 개발…국제 경진대회 세계 2위",
+      "original_title": "분당서울대병원, 뇌 CT 판독문 자동 생성 AI 개발…국제 경진대회 세계 2위",
+      "published_at": "2026-11-12T08:54:51+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "분당서울대학교병원 연구팀이 뇌 컴퓨터단층촬영(CT) 영상에서 뇌출혈과 뇌경색 등 주요 이상 소견을 식별하고 판독문을 자동 생성하는 인공지능(AI) 기술을 개발해 국제 의료영상 AI 경진대회에서 세계 2위를 차지했다.분당서울대병원은 의료인공지능센터 연구팀이 세계적인 의료영상 AI 학술대회 국제의료영상컴퓨팅및컴퓨터보조중…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42709",
+          "title": "분당서울대병원, 뇌 CT 판독문 자동 생성 AI 개발…국제 경진대회 세계 2위"
+        }
+      ]
+    },
+    {
+      "id": "94c1e5a4c2a4f40369e4",
+      "url": "https://byline.network/2026/11/1112-10",
+      "title": "한컴, 3분기 영업이익 97억원…AI 매출 비중 30.7%",
+      "original_title": "한컴, 3분기 영업이익 97억원…AI 매출 비중 30.7%",
+      "published_at": "2026-11-12T08:53:33+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "한글과컴퓨터(대표 김연수)는 올 3분기 별도 기준 영업이익 97억원을 기록했다고 12일 밝혔다. 전년 동기 대비 9.6% 증가한 수치다. 영업이익률은 20.1%로 집계됐다. 연결 기준 영업이익은 92억원, 영업이익률은 10.0%다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1112-10",
+          "title": "한컴, 3분기 영업이익 97억원…AI 매출 비중 30.7%"
+        }
+      ]
+    },
+    {
+      "id": "45e9b0b04b4e959fe9c7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217321",
+      "title": "AI 모델 가중치 0.05%만 삭제했더니…전체 미세조정 수준 성능 향상",
+      "original_title": "AI 모델 가중치 0.05%만 삭제했더니…전체 미세조정 수준 성능 향상",
+      "published_at": "2026-11-12T08:50:46+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "대형언어모델(LLM)의 가중치를 새로 수정하지 않고 전체의 0.05%도 안 되는 가중치를 선택적으로 제거하는 것만으로 수학 추론과 도구 사용 능력을 크게 높일 수 있다는 연구 결과가 나왔다. 전체 가중치를 다시 조정하는 기존 방식과 비슷한 성능을 달성하면서도 학습 결과를 저장하는 데 필요한 용량을 크게 줄이고, 기존…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217321",
+          "title": "AI 모델 가중치 0.05%만 삭제했더니…전체 미세조정 수준 성능 향상"
+        }
+      ]
+    },
+    {
+      "id": "4284a6fd8434128f1daa",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42708",
+      "title": "마음AI, ‘국방AX 100+ 협의체’ 정식 참여…온디바이스·자율로봇 등 국방 피지컬 AI 협력 확대",
+      "original_title": "마음AI, ‘국방AX 100+ 협의체’ 정식 참여…온디바이스·자율로봇 등 국방 피지컬 AI 협력 확대",
+      "published_at": "2026-11-12T08:48:37+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "피지컬 인공지능(AI) 전문기업 마음AI가 ‘국방AX 100+ 협의체’에 정식 회원사(AX-18)로 합류하며 국방 인공지능 전환(AX)을 위한 군·산·학 협력을 본격화한다. 마음AI는 11일 아주대학교 군·산·학 AX협력센터(판교)로부터 회원패를 수여받고 협의체 참여를 공식화했다.국방AX 100+ 협의체는 미래 국방…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42708",
+          "title": "마음AI, ‘국방AX 100+ 협의체’ 정식 참여…온디바이스·자율로봇 등 국방 피지컬 AI 협력 확대"
+        }
+      ]
+    },
+    {
+      "id": "eb685d1e8a0c930ce093",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217332",
+      "title": "AI, 프리랜서 업무 41.3% 전문가 수준 수행…1년 전 2.5%서 급상승",
+      "original_title": "AI, 프리랜서 업무 41.3% 전문가 수준 수행…1년 전 2.5%서 급상승",
+      "published_at": "2026-11-12T08:41:29+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI가 실제 프리랜서 업무의 41.3%를 인간 전문가와 동등하거나 더 높은 수준으로 수행할 수 있다는 분석이 나왔다. 단순한 지식이나 추론 능력이 아닌, 경제적 가치가 있는 실무 프로젝트를 처음부터 끝까지 완수하는 역량을 평가한 결과다. 1년 전 같은 지표에서 최고 자동화율이 2.5%에 머물렀던 것과 비교하면 AI의…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217332",
+          "title": "AI, 프리랜서 업무 41.3% 전문가 수준 수행…1년 전 2.5%서 급상승"
+        }
+      ]
+    },
+    {
+      "id": "7efe7189b8ccdc4010c3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42707",
+      "title": "AI가 약관 따져 보험금 심사 근거 제시…퀀텀에이아이, ‘로디’ 공개",
+      "original_title": "AI가 약관 따져 보험금 심사 근거 제시…퀀텀에이아이, ‘로디’ 공개",
+      "published_at": "2026-11-12T08:36:52+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "퀀텀에이아이(대표 최성집)는 보험금 청구 접수부터 심사, 지급, 사후관리까지 장기보상 업무 전반의 자동화를 지원하는 플랫폼 ‘로디(llodi)’를 12일 출시했다.기존 보험금 심사 현장에서는 진단서와 영수증, 진료비 세부내역서 등 대량의 서류를 심사자가 직접 대조하고 입력해야 했다. 상품과 사고일, 적용 시점에 따라…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42707",
+          "title": "AI가 약관 따져 보험금 심사 근거 제시…퀀텀에이아이, ‘로디’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "e50e394a0f43308b5b25",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217340",
+      "title": "순천 외식업 소상공인, AI로 메뉴개발·마케팅 배운다",
+      "original_title": "순천 외식업 소상공인, AI로 메뉴개발·마케팅 배운다",
+      "published_at": "2026-11-12T08:20:11+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "순천이 지역 외식업 소상공인을 대상으로 마케팅과 메뉴개발, 매장 운영 등에 AI를 활용할 수 있는 실무형 교육을 추진한다.순천은 지난 11일 순천제일대학교 인제관 대회의실에서 순천제일대학교, 한국외식업중앙회 순천시지부와 ‘순천외식업 소상공인 AI 인재양성 및 교육협력을 위한 업무협약’을 체결했다고 밝혔다.협약에 따라…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217340",
+          "title": "순천 외식업 소상공인, AI로 메뉴개발·마케팅 배운다"
+        }
+      ]
+    },
+    {
+      "id": "490bd940b5dcbe8aea55",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217334",
+      "title": "구글, 애플 카플레이에 '제미나이 라이브' 출시…챗GPT와 경쟁",
+      "original_title": "구글, 애플 카플레이에 '제미나이 라이브' 출시…챗GPT와 경쟁",
+      "published_at": "2026-11-12T08:18:40+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 애플의 차량용 플랫폼 카플레이(CarPlay)에 음성 대화 AI '제미나이 라이브(Gemini Live)'를 출시했다. 기존 구글 지도 연동을 넘어 별도 앱으로 제공하면서, 챗GPT와 클로드 등 주요 AI 챗봇과 차량용 음성 AI 시장에서 경쟁하게 됐다.구글은 11일(현지시간) 공식 블로그를 통해 카플레이에서…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217334",
+          "title": "구글, 애플 카플레이에 '제미나이 라이브' 출시…챗GPT와 경쟁"
+        }
+      ]
+    },
+    {
+      "id": "3c3c6eab3a6fbd87d1cd",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217336",
+      "title": "392조 충청권 메가프로젝트 첫 삽…삼성 온양캠퍼스, HBM 거점 탈바꿈",
+      "original_title": "392조 충청권 메가프로젝트 첫 삽…삼성 온양캠퍼스, HBM 거점 탈바꿈",
+      "published_at": "2026-11-12T08:10:29+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "392조 원 규모 '충청권 메가프로젝트'가 투자 발표 4개월 만에 첫 삽을 떴다.12일 충청권 메가프로젝트의 첫 사업인 삼성전자 온양캠퍼스(아산사업장) 신공장 착공식이 이재명 대통령, 박수현 지사, 이재용 삼성전자 회장 등 100여 명의 관계자들이 참석한 가운데 열렸다.온양캠퍼스는 오는 2028년부터 AI 반도체의 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217336",
+          "title": "392조 충청권 메가프로젝트 첫 삽…삼성 온양캠퍼스, HBM 거점 탈바꿈"
+        }
+      ]
+    },
+    {
+      "id": "bf5db82f8d4caa19e8bd",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217338",
+      "title": "[AI 모델 신작] 물리 세계 예측 'PAN 2'·1.6조 매개변수 '롱캣 2.5' 등",
+      "original_title": "[AI 모델 신작] 물리 세계 예측 'PAN 2'·1.6조 매개변수 '롱캣 2.5' 등",
+      "published_at": "2026-11-12T08:06:46+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ MBZUAI, 물리적 행동 결과 예측하는 오픈웨이트 모델 'PAN 2' 공개아랍에미리트(UAE) 모하메드 빈 자이드 AI 대학(MBZUAI) 산하 기초모델연구소(IFM)가 290억개 매개변수의 월드 모델 'PAN 2'를 공개했다. 초기 장면과 행동 지시를 입력하면 물체의 움직임과 물리적 변화를 예측해 영상으로 생…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217338",
+          "title": "[AI 모델 신작] 물리 세계 예측 'PAN 2'·1.6조 매개변수 '롱캣 2.5' 등"
+        }
+      ]
+    },
+    {
+      "id": "8f745809d4ee19a827da",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217337",
+      "title": "바이트댄스, 오픈AI 추격에 최소 3년 전망…'뮤즈' 유사 AI 에이전트 준비",
+      "original_title": "바이트댄스, 오픈AI 추격에 최소 3년 전망…'뮤즈' 유사 AI 에이전트 준비",
+      "published_at": "2026-11-12T08:05:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "바이트댄스가 메타의 '뮤즈(Muse)'와 유사한 AI 에이전트를 몇주 내 출시할 계획인 가운데, 장이밍 공동 창업자가 오픈AI와 앤트로픽 등 미국 선도 기업을 따라잡으려면 2029~2030년까지 시간이 필요하다고 밝힌 것으로 알려졌다. 특히 자체 언어모델의 학습 데이터가 미국 경쟁사에 크게 못 미친다고 지적하며 장기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217337",
+          "title": "바이트댄스, 오픈AI 추격에 최소 3년 전망…'뮤즈' 유사 AI 에이전트 준비"
+        }
+      ]
+    },
+    {
+      "id": "0d8722a68485df9fea93",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217322",
+      "title": "[게시판] 카카오벤처스, 힉스필드와 스타트업 AI 콘텐츠 제작 지원 등 단신",
+      "original_title": "[게시판] 카카오벤처스, 힉스필드와 스타트업 AI 콘텐츠 제작 지원 등 단신",
+      "published_at": "2026-11-12T08:00:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 카카오벤처스(대표 김기준)는 글로벌 AI 영상 제작 플랫폼 ‘힉스필드’와 초기 스타트업의 AI 콘텐츠 제작 지원을 위한 업무협약(MOU)을 체결했다고 밝혔다. 힉스필드는 238개 국가 및 지역에서 4000만명 이상의 이용자를 확보한 AI 영상·이미지 제작 플랫폼이다. 카카오벤처스는 포트폴리오사의 힉스필드 도입을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217322",
+          "title": "[게시판] 카카오벤처스, 힉스필드와 스타트업 AI 콘텐츠 제작 지원 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "b6f4b3c332b8bf509680",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217339",
+      "title": "미 제재 중국 군 관련 대학, 엔비디아 H200 구매…서버 임대로도 확보",
+      "original_title": "미 제재 중국 군 관련 대학, 엔비디아 H200 구매…서버 임대로도 확보",
+      "published_at": "2026-11-12T07:45:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국의 수출 제재 대상인 중국 군 관련 대학이 엔비디아의 고성능 AI 반도체 'H200'을 구매한 사실이 확인됐다. 중국 업체를 통해 칩을 직접 구입하고 서버 임대 방식으로도 첨단 AI 연산 자원을 확보한 것으로 나타나, 미국의 중국 반도체 수출 통제에 허점이 있다는 지적이 나온다.로이터는 11일(현지시간) 중국 시…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217339",
+          "title": "미 제재 중국 군 관련 대학, 엔비디아 H200 구매…서버 임대로도 확보"
+        }
+      ]
+    },
+    {
+      "id": "4253fd611a1dad008dcb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217335",
+      "title": "중국 AI주 급락 속 알리바바, 반도체 자회사 'T-헤드' 홍콩 상장 추진",
+      "original_title": "중국 AI주 급락 속 알리바바, 반도체 자회사 'T-헤드' 홍콩 상장 추진",
+      "published_at": "2026-11-12T07:40:22+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "중국 AI 관련주가 급락하고 홍콩 기업공개(IPO) 시장의 투자 열기가 식어가는 가운데, 알리바바가 AI 반도체 자회사 'T-헤드(T-Head)'의 상장을 추진한다. 최대 30억달러(약 4조원)의 자금 조달이 거론되는 대형 IPO로, 투자 심리가 위축된 시장에서 중국 AI 반도체 사업이 어느 정도 가치를 인정받을지 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217335",
+          "title": "중국 AI주 급락 속 알리바바, 반도체 자회사 'T-헤드' 홍콩 상장 추진"
+        }
+      ]
+    },
+    {
+      "id": "6e7b19b28e4fc4e32488",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42706",
+      "title": "日 스파이더 네트웍스, AI 에이전트 행동 규칙 라이브러리 공개…코딩부터 일상 업무까지 지원",
+      "original_title": "日 스파이더 네트웍스, AI 에이전트 행동 규칙 라이브러리 공개…코딩부터 일상 업무까지 지원",
+      "published_at": "2026-11-12T07:18:34+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 에이전트가 수행할 업무와 행동 방식을 사전에 설정하고, 복잡한 지침을 직접 작성하지 않아도 목적에 맞는 규칙을 적용할 수 있는 서비스가 등장했다. 소프트웨어 개발뿐 아니라 영업, 고객 지원, 교육 등 다양한 업무에서 AI의 작업 방식을 표준화하고 활용 편의성을 높이기 위한 접근이다.일본 AI 서비스 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42706",
+          "title": "日 스파이더 네트웍스, AI 에이전트 행동 규칙 라이브러리 공개…코딩부터 일상 업무까지 지원"
+        }
+      ]
+    },
+    {
+      "id": "5484b6cb12467dc9877b",
+      "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai",
+      "title": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
+      "original_title": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
+      "published_at": "2026-11-12T06:55:13+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Emily Mullin / Wired : Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection — Startup…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai",
+          "title": "Radical Numerics unveils Omnii Defense, an edge AI model it says can identify natural and AI-engineered pathogens without an internet connection (Emily Mullin/Wired)",
+          "discussion_url": "https://www.techmeme.com/261112/p5"
+        }
+      ]
+    },
+    {
+      "id": "24bf239128209d99ca10",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42702",
+      "title": "AI가 과학 연구의 판도를 바꾼다…서울 S&T 포럼, 글로벌 연구개발 혁신 전략 논의",
+      "original_title": "AI가 과학 연구의 판도를 바꾼다…서울 S&T 포럼, 글로벌 연구개발 혁신 전략 논의",
+      "published_at": "2026-11-12T06:51:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 과학적 발견과 연구개발(R&D)의 방식을 근본적으로 변화시키는 가운데, 미국과 유럽, 한국의 과학기술 전문가들이 한자리에 모여 AI 기반 연구혁신 전략과 국제협력 방안을 논의했다.국가과학기술연구회(NST, 이사장 김영식), 한국과학기술연구원(KIST, 원장 오상록), 한국과학기술단체총연합회(KOFS…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42702",
+          "title": "AI가 과학 연구의 판도를 바꾼다…서울 S&T 포럼, 글로벌 연구개발 혁신 전략 논의"
+        }
+      ]
+    },
+    {
+      "id": "7db5b25e00845e2a17f3",
+      "url": "https://byline.network/2026/11/12-670",
+      "title": "김태수 마이크로소프트 부사장 “AI 공격 빨라지는데, 대응 절차가 병목”",
+      "original_title": "김태수 마이크로소프트 부사장 “AI 공격 빨라지는데, 대응 절차가 병목”",
+      "published_at": "2026-11-12T06:30:44+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“AI가 취약점을 찾아 공격하는 시간은 점점 더 짧아지고 있습니다. 그런데 방어는 여전히 사람이 판단하고 승인하기를 기다립니다. 대응 절차도 이 속도에 맞게 바뀌어야 합니다.” 김태수 마이크로소프트(MS) 보안 연구 부사장 겸 조지아공과대학교 교수는 12일 서울 여의도 콘래드서울에서 열린 금융정보보호 컨퍼런스 ‘피스…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/12-670",
+          "title": "김태수 마이크로소프트 부사장 “AI 공격 빨라지는데, 대응 절차가 병목”"
+        }
+      ]
+    },
+    {
+      "id": "6b715d1c9a26baaac35f",
+      "url": "https://byline.network/2026/11/12_naver_212",
+      "title": "연말에도 고삐 죄는 네이버…데이터센터·AI 에이전트·물류 ‘3대 승부수’",
+      "original_title": "연말에도 고삐 죄는 네이버…데이터센터·AI 에이전트·물류 ‘3대 승부수’",
+      "published_at": "2026-11-12T06:19:23+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버가 연말을 앞두고 주요 사업에 속도를 낸다. AI팩토리 사업을 본격화하기 앞서 20메가와트(MW) 규모 신규 고객을 확보하는 한편, 연내 별도의 AI 에이전트 앱 또한 출시한다. 빠르게 성장하고 있는 쇼핑 사업을 위해 물류 자회사를 설립하고 2030년까지 1조원 가까이를 투자할 계획이다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/12_naver_212",
+          "title": "연말에도 고삐 죄는 네이버…데이터센터·AI 에이전트·물류 ‘3대 승부수’"
+        }
+      ]
+    },
+    {
+      "id": "4076f1cccb01edfba9f1",
+      "url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12",
+      "title": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
+      "original_title": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
+      "published_at": "2026-11-12T06:05:01+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal — Chinese a…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/china/chinese-ai-firms-rush-secure-nvidia-chip-capacity-spy-scandal-stirs-fear-us-2026-11-12",
+          "title": "Sources: Chinese AI companies are rushing to rent Nvidia compute capacity overseas amid fears of tighter US restrictions after the Jensen Huang spy scandal (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261112/p4"
+        }
+      ]
+    },
+    {
+      "id": "35406a2ed8dd93916b06",
+      "url": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688",
+      "title": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls, as Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
+      "original_title": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls, as Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
+      "published_at": "2026-11-12T05:45:05+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Joe Miller / Financial Times : China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls, as Jensen Huang falls out of favor i…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/9ca8ba83-5a3c-409e-96d9-abee1323b688",
+          "title": "China hawks and Big Tech critics on Capitol Hill are building bipartisan support for tighter export controls, as Jensen Huang falls out of favor in DC (Joe Miller/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261112/p3"
+        }
+      ]
+    },
+    {
+      "id": "7868a1da9ee271ad0d47",
+      "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5",
+      "title": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
+      "original_title": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
+      "published_at": "2026-11-12T05:35:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Jonathan Weil / Wall Street Journal : Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megas…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/business/earnings/nvidias-disappearing-singapore-sales-deepen-mystery-around-megaspeed-7d483180?st=NS43G5",
+          "title": "Nvidia stopped reporting Singapore revenue after the quarter ended July 2025, when it accounted for 22% of its revenue, after placing Megaspeed on a blocklist (Jonathan Weil/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261112/p2"
+        }
+      ]
+    },
+    {
+      "id": "62e97321205f016ba927",
+      "url": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e",
+      "title": "AMD's shares rose 4%+ pre-market, after closing up 7.3%, and Broadcom gained 2.4% pre-market, following a 4% gain, as Nvidia's board weighs ousting Jensen Huang (Financial Times)",
+      "original_title": "AMD's shares rose 4%+ pre-market, after closing up 7.3%, and Broadcom gained 2.4% pre-market, following a 4% gain, as Nvidia's board weighs ousting Jensen Huang (Financial Times)",
+      "published_at": "2026-11-12T05:25:01+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : AMD's shares rose 4%+ pre-market, after closing up 7.3%, and Broadcom gained 2.4% pre-market, following a 4% gain, as Nvidia's board weighs ousting Jensen Huan…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/a93307a7-e2cd-4abd-bd89-c38832d8c40e",
+          "title": "AMD's shares rose 4%+ pre-market, after closing up 7.3%, and Broadcom gained 2.4% pre-market, following a 4% gain, as Nvidia's board weighs ousting Jensen Huang (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261112/p1"
+        }
+      ]
+    },
+    {
+      "id": "9df0f6257ad762bbbfc4",
+      "url": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?reflink=article_copyURL_share&st=epsgoa",
+      "title": "Sources: some Trump officials questioned Jensen Huang's push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)",
+      "original_title": "Sources: some Trump officials questioned Jensen Huang's push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)",
+      "published_at": "2026-11-12T04:00:57+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : Sources: some Trump officials questioned Jensen Huang's push for Trump to allow more chip sales to China, even before his affair with Alice Huang became pu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/politics/national-security/huangs-coziness-with-trump-wasnt-enough-to-save-him-from-spying-scandal-85ce06f4?reflink=article_copyURL_share&st=epsgoa",
+          "title": "Sources: some Trump officials questioned Jensen Huang's push for Trump to allow more chip sales to China, even before his affair with Alice Huang became public (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261111/p54"
+        }
+      ]
+    },
+    {
+      "id": "8a36c4f787fd15f6504e",
+      "url": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule",
+      "title": "Sources: the US Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)",
+      "original_title": "Sources: the US Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)",
+      "published_at": "2026-11-12T03:25:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Leo Schwartz / The Information : Sources: the US Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/commerce-department-finalizing-long-awaited-ai-remote-access-rule",
+          "title": "Sources: the US Commerce Department is finalizing a semiconductor control update that would prevent remote access and chip smuggling into China via data centers (Leo Schwartz/The Information)",
+          "discussion_url": "https://www.techmeme.com/261111/p53"
+        }
+      ]
+    },
+    {
+      "id": "d0923a9bc12806766f81",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "original_title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "published_at": "2026-11-12T03:13:10+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors"
+        }
+      ]
+    },
+    {
+      "id": "b82e8005f30b0a561511",
+      "url": "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
+      "title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
+      "original_title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
+      "published_at": "2026-11-12T02:45:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Semafor : Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting — Some …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.semafor.com/article/11/11/2026/nvidia-board-preparing-to-oust-ceo-huang-wsj",
+          "title": "Sources: some Nvidia board members favor naming CFO Colette Kress interim CEO; an administration official says the board briefed the White House on its meeting (Semafor)",
+          "discussion_url": "https://www.techmeme.com/261111/p52"
+        }
+      ]
+    },
+    {
+      "id": "c1b003668226a3fa8f09",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42705",
+      "title": "KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축",
+      "original_title": "KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축",
+      "published_at": "2026-11-12T01:41:13+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "KT와 마이크로소프트가 숙련된 통신망 엔지니어의 경험과 전문지식을 학습한 에이전틱 인공지능(AI) 플랫폼을 공동 개발해 네트워크 장애 탐지 시간을 기존 10분 이상에서 2~3분으로 단축했다. AI가 통신망의 이상 징후를 실시간으로 분석하고 장애 원인을 신속하게 파악하도록 지원하면서, 네트워크 운영의 효율성과 안정성을…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42705",
+          "title": "KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축"
+        }
+      ]
+    },
+    {
+      "id": "e562af82557939603794",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42704",
+      "title": "AI, \"1000개 질문을 0.25초 안에 판단한다!\"...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신",
+      "original_title": "AI, \"1000개 질문을 0.25초 안에 판단한다!\"...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신",
+      "published_at": "2026-11-12T01:11:43+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 긴 문장을 생성하는 대신 주어진 선택지의 확률과 신뢰도를 빠르게 계산하는 의사결정 특화 인공지능(AI) 모델을 공개했다. AI 에이전트가 업무를 수행하는 과정에서 반복적으로 마주하는 도구 선택과 정책 준수 여부 판단, 모델 라우팅 등의 작업을 보다 빠르고 저렴하게 처리하기 위한 기술이다.구글 딥마인드(Goog…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42704",
+          "title": "AI, \"1000개 질문을 0.25초 안에 판단한다!\"...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신"
+        }
+      ]
+    },
+    {
+      "id": "f20866a966295d71850c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42703",
+      "title": "AI로 희귀 신장암 진단 정확도 60%에서 73.3%로 향상…의사의 AI 수용 성향이 진단 성과 좌우",
+      "original_title": "AI로 희귀 신장암 진단 정확도 60%에서 73.3%로 향상…의사의 AI 수용 성향이 진단 성과 좌우",
+      "published_at": "2026-11-12T00:45:40+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "희귀 신장암을 판별하는 인공지능(AI)이 병리의사의 진단 정확도를 높일 수 있지만, 실제 효과는 의료진이 AI의 판단을 얼마나 수용하고 검증하는지에 따라 달라진다는 연구 결과가 나왔다. AI를 적극적으로 활용하는 의사는 진단 정확도가 크게 개선되는 반면, AI가 잘못된 판단을 내렸을 때도 이를 받아들일 위험이 높은 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42703",
+          "title": "AI로 희귀 신장암 진단 정확도 60%에서 73.3%로 향상…의사의 AI 수용 성향이 진단 성과 좌우"
+        }
+      ]
+    },
+    {
+      "id": "e01fd20420238a301935",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42701",
+      "title": "\"기록의 맥락까지 찾아준다\"... 솔트룩스,국가기록 2,380만 건 AI 검색 기반 구축",
+      "original_title": "\"기록의 맥락까지 찾아준다\"... 솔트룩스,국가기록 2,380만 건 AI 검색 기반 구축",
+      "published_at": "2026-11-12T00:22:02+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "솔트룩스(대표 이경일)가 국가기록원의 방대한 기록정보를 자연어 질문만으로 검색하고, 기록물의 맥락과 연관 관계까지 분석하는 인공지능(AI) 검색 시스템 구축에 나섰다.솔트룩스는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 부처협업 기반 AI확산 사업의 일환으로 'AI 기반 지능형 기록정보 검색 솔루션 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42701",
+          "title": "\"기록의 맥락까지 찾아준다\"... 솔트룩스,국가기록 2,380만 건 AI 검색 기반 구축"
+        }
+      ]
+    },
+    {
+      "id": "d7c1da8cb7dc41da688b",
+      "url": "https://openai.com/index/children-first-declaration",
+      "title": "Supporting research on AI and children’s safety",
+      "original_title": "Supporting research on AI and children’s safety",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/children-first-declaration",
+          "title": "Supporting research on AI and children’s safety"
+        }
+      ]
+    },
+    {
+      "id": "65b96c238445cdedc96b",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "original_title": "Gilbert + Tobin rethinks the business of law with AI",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "title": "Gilbert + Tobin rethinks the business of law with AI"
+        }
+      ]
+    },
+    {
+      "id": "3927e8656e242ccd5091",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "original_title": "The unfolding Jensen Huang scandal: a timeline",
+      "published_at": "2026-11-11T23:50:00+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "title": "The unfolding Jensen Huang scandal: a timeline"
+        }
+      ]
+    },
+    {
+      "id": "eb294a56c70bf2d1f7b8",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "original_title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "published_at": "2026-11-11T23:28:45+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+        }
+      ]
+    },
+    {
+      "id": "d1f3df81d4d143b4729a",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "original_title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "published_at": "2026-11-11T23:17:05+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec",
+          "title": "Jensen Huang accused of having another affair — with an Nvidia exec"
+        }
+      ]
+    },
+    {
+      "id": "8cfe95d5a7efcad05530",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+      "title": "Gemini Decisions API, Jev·OpenAI와 경쟁하는 결정 모델 API",
+      "original_title": "Gemini Decisions API",
+      "published_at": "2026-11-11T22:03:25+00:00",
+      "collected_at": "2026-11-12T10:43:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same thre…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api",
+          "title": "Gemini Decisions API"
+        }
+      ],
+      "summary": "구글이 'Gemini Decision 1'을 공개하며 Jev, OpenAI와 함께 결정 모델 범주에 합류했다. 이 API는 Jev와 거의 동일하게 예/아니오, 선택, 루브릭 점수 매기기 세 가지 질문 유형을 지원하며, 예/아니오 질문에 Jev의 용어 'Noul'을 재사용한다. 가격은 GPT-6 Luna 결정 모델과 동일하게 백만 입력 토큰당 10센트이고 출력은 무료이며, Jev는 백만 토큰당 4.2센트로 가장 저렴하다. Jev는 텍스트와 JSON만 지원하고 OpenAI는 텍스트와 이미지를 처리하는 반면, Gemini Decision 1은 텍스트, 이미지, 오디오, 비디오, PDF를 모두 지원하는 완전한 멀티모달 모델이다. 작성자가 로봇 비디오로 테스트한 결과, Jev와 OpenAI는 예/아니오 질문에 1.0 또는 0.0을 반환했지만 Gemini는 확률 값을 반환했다.",
+      "why_it_matters": "결정 모델 API 시장에 멀티모달 지원과 확률 기반 응답을 내세운 구글의 참전은 선택지를 넓히지만, 가격 경쟁과 정확도 비교가 향후 채택에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-12T10:43:37+00:00",
+        "input_hash": "47ae26be0e0e1da619c1e6369e54983d9b99a92345a7daad2abc2b8a1c198bd1",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "b943bfa40536ef229a7f",
       "url": "https://solderable.dev/blog/fluid",
       "title": "An AI-assisted RP2040 audio board that worked on first spin in 5 days",
@@ -4428,6 +5559,12 @@
           "source_id": "simonwillison",
           "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
           "title": "llm-anthropic 0.31"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic",
+          "title": "LLM-Anthropic 0.31",
+          "discussion_url": "https://news.ycombinator.com/item?id=50464645"
         }
       ],
       "summary": "Anthropic이 Fable 5.2와 Mythos 5.2를 발표했고, llm-anthropic 0.31에 새 모델들이 추가됐다. Fable 5.2는 Artificial Analysis에서 1위로 평가되며, 가격은 100만 입력 토큰당 8달러, 출력 토큰당 40달러로 이전 Fable 5.1보다 20% 저렴하다. 작성자는 다섯 가지 추론 수준에서 펠리컨 자전거 SVG 생성 테스트를 했고, max 수준에서는 128,000 토큰을 소모한 후 이미지를 반환하지 못했다고 전했다.",
