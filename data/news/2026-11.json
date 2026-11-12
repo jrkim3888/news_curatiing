@@ -500,14 +500,14 @@
     {
       "id": "02bfed5e7aa817ea9dcb",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "title": "구글, Gemini Decisions API와 Gemini Decision 1 모델 공개",
       "original_title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
       "published_at": "2026-11-11T18:00:00+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "모델·연구",
+      "status": "summarized",
       "excerpt": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.…",
       "sources": [
         {
@@ -521,7 +521,17 @@
           "title": "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)",
           "discussion_url": "https://www.techmeme.com/261111/p40"
         }
-      ]
+      ],
+      "summary": "구글이 Gemini Decision 1 모델 기반의 Gemini Decisions API를 공개했습니다. 이 API는 텍스트·이미지·오디오·비디오·PDF를 한 번에 처리해 최대 1,000개의 선택형 질문에 확률과 신뢰도 점수를 반환하며, 150~250밀리초 지연과 100만 입력 토큰당 0.10달러 비용을 제시합니다.",
+      "why_it_matters": "생성 대신 확률 판단에 특화된 API는 라우팅과 정책 검사 같은 반복 작업 자동화의 비용과 지연을 낮출 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "ebfce624ab069fd469e1f2184534fac7b0a9d2f528e95546ffa3924637379a45",
+        "evidence_verified": true
+      }
     },
     {
       "id": "88d1ecd11797604c75de",
@@ -546,14 +556,14 @@
     {
       "id": "4b30bf9e8a4d0303bec6",
       "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
-      "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
+      "title": "엔비디아, GPU 플랫폼 런타임 AI 인벤토리 검증 도구 추가",
       "original_title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory",
       "published_at": "2026-11-11T17:00:00+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "As teams deploy and scale AI workloads using NVIDIA Dynamo, Kubeflow, or Slurm, tracking what actually runs requires visibility beyond the platform... As teams deploy and scale …",
       "sources": [
         {
@@ -561,7 +571,17 @@
           "url": "https://developer.nvidia.com/blog/validating-gpu-platforms-with-runtime-ai-inventory-via-the-nvidia-dsx-ai-factory",
           "title": "Validating GPU Platforms with Runtime AI Inventory via the NVIDIA DSX AI Factory"
         }
-      ]
+      ],
+      "summary": "엔비디아가 DSX AI 팩토리 플랫폼의 오픈소스 모듈인 AI 클러스터 런타임에 쿠버네티스에서 실행되는 AI 워크로드를 추적하는 AI 자재명세서 구성요소를 추가했습니다. 이 런타임은 검증된 GPU 플랫폼 구성을 버전 고정 레시피와 재현 가능한 배포 번들로 만들고 설치·업그레이드·상태·제거 경로를 시험합니다.",
+      "why_it_matters": "AI 인프라 운영에서 실제 실행되는 워크로드와 보안 검토 범위를 일치시키려는 수요가 커지고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "d1a06fc8cd24e9505de64ffa27e73c3ef097cf843b5954faeb67f345d204d14e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6a4a8d1eb7a86d978045",
@@ -747,14 +767,14 @@
     {
       "id": "ba0fcf4e325b4115c73c",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
-      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "title": "구글 딥마인드, 세포 유형별 DNA 변이 예측 모델 AlphaGenome 2 발표",
       "original_title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "published_at": "2026-11-11T15:00:15+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.…",
       "sources": [
         {
@@ -762,7 +782,17 @@
           "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
           "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
         }
-      ]
+      ],
+      "summary": "구글 딥마인드가 DNA 서열과 변이가 특정 인간 세포 유형에 미치는 영향을 예측하는 AlphaGenome 2를 발표했습니다. 68개 조직의 1억 개 이상 세포 프로필로 학습된 이 모델은 이전 모델보다 유전자 발현을 바꾸는 변이를 약 두 배 더 많이 식별한다고 합니다.",
+      "why_it_matters": "세포 단위 변이 예측은 희귀질환과 복합 형질 연구에서 변이 해석의 정밀도를 높일 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "ca0924946e2938cbaefd025c09246b5848eab127c7a39352a0aac238d1c31981",
+        "evidence_verified": true
+      }
     },
     {
       "id": "34b5b4703a4ee2901b19",
@@ -808,14 +838,14 @@
     {
       "id": "4a4f72856e6128fb6581",
       "url": "https://byline.network/2026/11/1111-9",
-      "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
+      "title": "아이벡스 대표, AI 로봇 양산 걸림돌은 제조 현장 문제라고 지적",
       "original_title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장",
       "published_at": "2026-11-11T14:34:54+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "피지컬 AI의 제조 현장 도입이 확대되고 있지만, 카메라 인식 오류와 기계 부품 고장, 통신 표준화 미비, 현장 데이터 부족 등이 양산의 걸림돌로 작용하고 있다. 성민수 아이벡스 대표는 센서·AI 모델·로봇 장비·제어 소프트웨어·유지관리 체계가 유기적으로 결합해야 한다고 강조했다. 아이벡스는 핵심 기술 내재화와 단일…",
       "sources": [
         {
@@ -823,7 +853,17 @@
           "url": "https://byline.network/2026/11/1111-9",
           "title": "AI 로봇 양산 가로막는 건 알고리즘 아닌 제조 현장"
         }
-      ]
+      ],
+      "summary": "성민수 아이벡스 대표가 AI 로봇 양산 프로젝트가 카메라 보호 유리 두께 변화에 따른 영상 인식 저하나 기계 부품 고장 같은 물리적 문제로 실패하는 사례가 적지 않다고 말했습니다. 그는 통신 프로토콜 비표준화와 로봇 제조사별 제어 소프트웨어 차이도 양산을 가로막는다고 지적했습니다.",
+      "why_it_matters": "피지컬 AI의 상용화가 알고리즘 성능만이 아니라 현장 설비와 표준화 문제에 좌우된다는 점을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "a179bc099021a1fe418d1d2f00e69868897e454aa016567f323657405a0bb4c0",
+        "evidence_verified": true
+      }
     },
     {
       "id": "87209848417b63cfc532",
@@ -854,14 +894,14 @@
     {
       "id": "0f3141386757e6231a05",
       "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge",
-      "title": "AI100 report released: embodied AI highlighted as grand challenge",
+      "title": "AI100 보고서, 피지컬 AI를 핵심 도전 과제로 꼽아",
       "original_title": "AI100 report released: embodied AI highlighted as grand challenge",
       "published_at": "2026-11-11T13:48:55+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "The One Hundred Year Study on Artificial Intelligence (AI100) is a longitudinal study that assesses AI’s development and societal impact. Reports are released once every five ye…",
       "sources": [
         {
@@ -869,19 +909,29 @@
           "url": "https://robohub.org/ai100-report-released-embodied-ai-highlighted-as-grand-challenge",
           "title": "AI100 report released: embodied AI highlighted as grand challenge"
         }
-      ]
+      ],
+      "summary": "5년마다 발표되는 AI100 연구의 2026년 보고서가 피지컬 AI와 구현 지능을 과학적으로 중요한 도전 과제 중 하나로 제시했습니다. 보고서는 중국이 산업용 로봇 개발을 주도하며 세계 휴머노이드 로봇의 약 80%를 생산한다고 언급했습니다.",
+      "why_it_matters": "로봇 분야에서 시연 능력과 실제 배치 사이의 격차가 여전히 크다는 점을 국제 연구진이 확인한 셈입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "80f22d966db472c5a3a6c574cdfe152e8542cc29badeccec2d0b65aa54d2f5fc",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a9a27045720eaafa786f",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42698",
-      "title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개",
+      "title": "화웨이, AI 에너지 관리 통합한 가정용 시스템 루테라 S2 공개",
       "original_title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개",
       "published_at": "2026-11-11T12:25:23+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "화웨이(Huawei)가 인공지능(AI)을 활용해 가정의 태양광 발전과 배터리 저장, 전기차 충전, 전력 소비를 통합 관리하는 차세대 주거용 에너지 시스템을 공개했다. 전력 변환과 저장 기능을 하나의 장치에 결합하고, AI가 기상 정보와 전기요금, 전력 사용량을 분석해 에너지 운영을 최적화하도록 설계한 것이 특징이다.…",
       "sources": [
         {
@@ -889,7 +939,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42698",
           "title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개"
         }
-      ]
+      ],
+      "summary": "화웨이가 하이브리드 인버터와 에너지저장장치, AI 에너지 관리 기능을 통합한 가정용 에너지 시스템 루테라 S2를 출시한다고 밝혔습니다. AI 에너지 관리 2.0 플랫폼은 기상 예보와 전기요금, 전력 수요, 배터리 상태를 분석해 태양광 발전과 저장, 전기차 충전, 히트펌프 작동을 조율합니다.",
+      "why_it_matters": "가정용 에너지 시스템 경쟁이 저장 용량을 넘어 AI 기반 운영 최적화로 이동하고 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "c5b4feb16de3a2a301de047841da9060c5754cd85fdf9ea47ffddfac4d7885a8",
+        "evidence_verified": true
+      }
     },
     {
       "id": "8973fc99be26d335c77e",
@@ -1122,14 +1182,14 @@
     {
       "id": "48342637fca56747f395",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217297",
-      "title": "'제미나이'가 기억하는 내 정보 한눈에 보여준다…수정·삭제도 가능",
+      "title": "구글 제미나이, 이용자가 기억 정보 확인·수정하는 메모리 요약 도입",
       "original_title": "'제미나이'가 기억하는 내 정보 한눈에 보여준다…수정·삭제도 가능",
       "published_at": "2026-11-11T09:23:00+00:00",
       "collected_at": "2026-11-11T10:26:20+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "구글이 '제미나이'가 이용자에 대해 기억하는 정보를 한눈에 보여주는 '메모리 요약(Memory summary)' 기능을 도입했다. 이용자는 AI가 파악한 자신의 직업과 관심사, 생활 습관 등을 직접 확인하고 잘못된 내용을 수정하거나 삭제할 수 있다. '챗GPT'와 '클로드'에 이어 구글도 개인화 AI의 기억을 이용자…",
       "sources": [
         {
@@ -1137,7 +1197,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217297",
           "title": "'제미나이'가 기억하는 내 정보 한눈에 보여준다…수정·삭제도 가능"
         }
-      ]
+      ],
+      "summary": "구글이 제미나이가 이용자에 대해 기억하는 정보를 한눈에 보여주는 메모리 요약 기능을 제미나이에 도입했습니다. 이용자는 직업과 관심사, 생활 습관 등 저장된 정보를 확인하고 수정하거나 삭제할 수 있지만, 공식 지원 대상은 현재 미국의 18세 이상 유료 구독자입니다.",
+      "why_it_matters": "개인화 AI 경쟁이 얼마나 많이 기억하느냐에서 기억의 정확성과 관리 편의성으로 옮겨가고 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "e3808d68c05a527644a9fd191d6d0cd976cf3d1527c412944aa519fc514f6355",
+        "evidence_verified": true
+      }
     },
     {
       "id": "27331b9c15818943ab42",
@@ -1374,14 +1444,14 @@
     {
       "id": "2cc034689d9f6e87d417",
       "url": "https://d2.naver.com/helloworld/7749530",
-      "title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
+      "title": "네이버, 커머스API 플랫폼의 AI 네이티브 과제 세 건 공개",
       "original_title": "검수도 답변도 호출도 AI가? 커머스API의 2026",
       "published_at": "2026-11-11T08:11:58+00:00",
       "collected_at": "2026-11-11T10:26:20+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 같은 API 스펙이 AI 에게 검수되고, 문의 답변의 근거가 되고, tool 로 호출되기까지 — 커머스API 플랫폼이 올해 진행한 AI native 과제 세 건의 설계 결정과 운영 결과…",
       "sources": [
         {
@@ -1389,7 +1459,17 @@
           "url": "https://d2.naver.com/helloworld/7749530",
           "title": "검수도 답변도 호출도 AI가? 커머스API의 2026"
         }
-      ]
+      ],
+      "summary": "네이버가 사내 기술 교류 행사 NAVER Engineering Day 10th에서 발표된 커머스API 플랫폼의 AI 네이티브 과제 세 건을 공개했습니다. API 스펙 AI 검수, MCP 게이트웨이를 통한 도구화, 기술지원 운영 업무 AI 지원의 설계 결정과 운영 결과를 소개합니다.",
+      "why_it_matters": "API 운영과 기술지원에 AI를 결합하려는 시도가 실제 플랫폼 운영 사례로 공유된다는 점에 의미가 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-12T02:25:57+00:00",
+        "briefing_day": "2026-11-12",
+        "input_hash": "1d6f73fdde5fe5874cce5d20e7df068bcc4b8d67ecfbdd7fabbf1f407edd3508",
+        "evidence_verified": true
+      }
     },
     {
       "id": "fdb6a82863ec052d3dd5",
