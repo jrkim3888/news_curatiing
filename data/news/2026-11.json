@@ -3,6 +3,1003 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "fdae90c81d9610a51fb8",
+      "url": "https://buildout.eamag.me/",
+      "title": "Show HN: Buildout, Harmonies-based game to build AI Lab",
+      "original_title": "Show HN: Buildout, Harmonies-based game to build AI Lab",
+      "published_at": "2026-11-12T21:34:32+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://buildout.eamag.me/",
+          "title": "Show HN: Buildout, Harmonies-based game to build AI Lab",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474623"
+        }
+      ]
+    },
+    {
+      "id": "ec8f1446e55023ecbe65",
+      "url": "https://www.karlsnotes.com/can-ai-chair-a-multilateral-negotiation-i-gave-eleven-models-the-job",
+      "title": "Can AI chair a multilateral negotiation?",
+      "original_title": "Can AI chair a multilateral negotiation?",
+      "published_at": "2026-11-12T21:33:32+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.karlsnotes.com/can-ai-chair-a-multilateral-negotiation-i-gave-eleven-models-the-job",
+          "title": "Can AI chair a multilateral negotiation?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474614"
+        }
+      ]
+    },
+    {
+      "id": "32374f6124df831c9c00",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217351",
+      "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러",
+      "original_title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러",
+      "published_at": "2026-11-12T21:33:23+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "미국이 중국 기업의 첨단 AI 반도체 접근을 차단하기 위해 해외 데이터센터의 GPU 임대까지 규제하는 방안을 추진하고 있다. 젠슨 황 엔비디아 CEO의 사임으로 규제 강화 가능성이 커지자, 중국 AI 기업들은 해외 컴퓨팅 자원 확보를 서두르는 것으로 알려졌다.디 인포메이션은 11일(현지시간) 사안에 정통한 관계자 2…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217351",
+          "title": "미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러"
+        }
+      ]
+    },
+    {
+      "id": "5bd1cb10e10b00481d45",
+      "url": "https://www.reuters.com./technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12",
+      "title": "Sources say Huang had affair with second Nvidia employee",
+      "original_title": "Sources say Huang had affair with second Nvidia employee",
+      "published_at": "2026-11-12T21:32:44+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com./technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12",
+          "title": "Sources say Huang had affair with second Nvidia employee",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474602"
+        }
+      ]
+    },
+    {
+      "id": "56db7ab8217efdf4c213",
+      "url": "https://blog.slopcop.com/comparing-jev-gemini-and-openai-decision-models",
+      "title": "Comparing Jev, Gemini, and OpenAI decision models",
+      "original_title": "Comparing Jev, Gemini, and OpenAI decision models",
+      "published_at": "2026-11-12T21:29:57+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.slopcop.com/comparing-jev-gemini-and-openai-decision-models",
+          "title": "Comparing Jev, Gemini, and OpenAI decision models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474571"
+        }
+      ]
+    },
+    {
+      "id": "fb1ddd2a5ff741f61902",
+      "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "original_title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "published_at": "2026-11-12T21:27:10+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its fina…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+          "title": "Nebius tests the neocloud playbook with $40 billion in planned spending"
+        }
+      ]
+    },
+    {
+      "id": "3d1b71a468f2c00dd86e",
+      "url": "https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns",
+      "title": "Nvidia CEO Jensen Huang Resigns",
+      "original_title": "Nvidia CEO Jensen Huang Resigns",
+      "published_at": "2026-11-12T21:24:40+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.phoronix.com/news/NVIDIA-Jensen-Huang-Resigns",
+          "title": "Nvidia CEO Jensen Huang Resigns",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474498"
+        }
+      ]
+    },
+    {
+      "id": "9451ed0cafcb48880d5a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
+      "title": "Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)",
+      "original_title": "Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)",
+      "published_at": "2026-11-12T21:20:01+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bailey Lipschultz / Bloomberg : Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/anthropic-s-ipo-is-said-to-be-about-six-times-oversubscribed",
+          "title": "Sources: Anthropic's IPO is about six times oversubscribed, and bankers have told prospective investors that existing backers will be prioritized (Bailey Lipschultz/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261112/p55"
+        }
+      ]
+    },
+    {
+      "id": "0618adbb466656cd68fa",
+      "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+      "title": "SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue (Grace Kay/New York Times)",
+      "original_title": "SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue (Grace Kay/New York Times)",
+      "published_at": "2026-11-12T21:15:04+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Grace Kay / New York Times : SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its r…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/12/business/spacex-data-center.html",
+          "title": "SpaceX plans to invest $50B in an Arizona data center campus and $24B in a Texas campus; in October, it said its AI business generated 50%+ of its revenue (Grace Kay/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261112/p54"
+        }
+      ]
+    },
+    {
+      "id": "83fbe00ab076635ffdc0",
+      "url": "https://telltale.bot/",
+      "title": "Show HN: Telltale Bot, detecting agentic web traffic",
+      "original_title": "Show HN: Telltale Bot, detecting agentic web traffic",
+      "published_at": "2026-11-12T21:10:41+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://telltale.bot/",
+          "title": "Show HN: Telltale Bot, detecting agentic web traffic",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474320"
+        }
+      ]
+    },
+    {
+      "id": "b1c7febb39e1226c1825",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "original_title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "published_at": "2026-11-12T21:09:49+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+          "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474311"
+        }
+      ]
+    },
+    {
+      "id": "fe5fb588f0650d994c83",
+      "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "title": "Alice Huang tied to Nvidia's biggest Chinese competitor",
+      "original_title": "Alice Huang tied to Nvidia's biggest Chinese competitor",
+      "published_at": "2026-11-12T21:03:58+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+          "title": "Alice Huang tied to Nvidia's biggest Chinese competitor",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474251"
+        }
+      ]
+    },
+    {
+      "id": "aa4aac03ccb169b8fe84",
+      "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
+      "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
+      "original_title": "Dougan Leak Exposes Concerted Effort to Infect AI",
+      "published_at": "2026-11-12T20:58:48+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.newsguardrealitycheck.com/p/dougan-leak-exposes-concerted-effort",
+          "title": "Dougan Leak Exposes Concerted Effort to Infect AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50474186"
+        }
+      ]
+    },
+    {
+      "id": "ed1411a513d879c6c7db",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
+      "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
+      "original_title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
+      "published_at": "2026-11-12T20:56:23+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 CEO의 사임으로 경영 공백이 발생한 엔비디아가 새로운 경영 체제를 가동했다. 13년간 회사의 재무와 사업 전략을 담당해 온 콜레트 크레스가 임시 CEO를 맡고, 창업 초기부터 이사회에 참여한 하비 존스가 초대 의장에 선임됐다. 두 사람은 직원들에게 회사의 미래에 대한 확신을 강조하며 경영 안정화에 나섰다.…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
+          "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아"
+        }
+      ]
+    },
+    {
+      "id": "2b1321eb8d0532cd4b00",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217349",
+      "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
+      "original_title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
+      "published_at": "2026-11-12T20:36:17+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO의 사임을 촉발한 중국 간첩 연루 의혹이 미국 정치권으로 번지고 있다. 백악관 고위 관계자들이 하워드 러트닉 상무장관의 경질 문제를 논의하는 것으로 알려졌으며, 미국 의회에서도 대중국 AI 반도체 수출 통제에 대한 책임을 묻는 목소리가 커지고 있다.로이터는 12일(현지시간) 사안에 정통한 관계…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217349",
+          "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의"
+        }
+      ]
+    },
+    {
+      "id": "779abe288b1c01daf6b7",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "title": "Claude Meetings",
+      "original_title": "Claude Meetings",
+      "published_at": "2026-11-12T20:32:35+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://claude.com/resources/articles/claude-meetings",
+          "title": "Claude Meetings",
+          "discussion_url": "https://news.ycombinator.com/item?id=50473801"
+        }
+      ]
+    },
+    {
+      "id": "e699e9bae2542438eaf0",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+      "title": "Jensen Huang was having a third affair, Reuters reports",
+      "original_title": "Jensen Huang was having a third affair, Reuters reports",
+      "published_at": "2026-11-12T20:26:47+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports",
+          "title": "Jensen Huang was having a third affair, Reuters reports"
+        }
+      ]
+    },
+    {
+      "id": "80787513604626539d2d",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide",
+      "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "original_title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+      "published_at": "2026-11-12T20:15:16+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems …",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide",
+          "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide"
+        }
+      ]
+    },
+    {
+      "id": "a491aa90d650ab2bf91e",
+      "url": "https://openai.com/index/amplitude",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "original_title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/amplitude",
+          "title": "How Amplitude ships product improvements in 1–2 days with OpenAI"
+        }
+      ]
+    },
+    {
+      "id": "63bd078a8755ac74f487",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217348",
+      "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
+      "original_title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
+      "published_at": "2026-11-12T19:47:53+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO가 사생활 논란 끝에 사임했다. 33년간 회사를 이끈 창업자의 퇴진으로 엔비디아 주가가 장중 14% 넘게 급락했으며, AI 산업 전반의 투자와 공급망에도 불확실성이 커지고 있다.엔비디아는 12일(현지시간) 공식 발표를 통해 황 CEO가 사장과 CEO, 이사회 이사직에서 즉시 물러났다고 밝혔다.…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217348",
+          "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
+        }
+      ]
+    },
+    {
+      "id": "b0c4cc313f03d15268b8",
+      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12",
+      "title": "Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation (Reuters)",
+      "original_title": "Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation (Reuters)",
+      "published_at": "2026-11-12T19:46:11+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation — Ousted Nvidia CEO …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12",
+          "title": "Sources: Jensen Huang had an intimate relationship with a second employee; revelations about two other extramarital affairs led to his resignation (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261112/p52"
+        }
+      ]
+    },
+    {
+      "id": "d7e80ea809e6c296043d",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity",
+      "title": "Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)",
+      "original_title": "Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)",
+      "published_at": "2026-11-12T19:30:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google Antigravity : Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity",
+          "title": "Google Antigravity adds Orchestrator, which dynamically switches between models like Carbon and Hydrogen within the same session, for AI Ultra subscribers (Google Antigravity)",
+          "discussion_url": "https://www.techmeme.com/261112/p49"
+        }
+      ]
+    },
+    {
+      "id": "341363dd4020e2e543df",
+      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+      "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "original_title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
+      "published_at": "2026-11-12T19:27:45+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions",
+          "title": "Google’s latest Search upgrade promises better answers to your most complicated questions"
+        }
+      ]
+    },
+    {
+      "id": "1cf9c9ecd98d6e75b2a6",
+      "url": "https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12",
+      "title": "Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal (Reuters)",
+      "original_title": "Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal (Reuters)",
+      "published_at": "2026-11-12T19:20:04+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal — Senior Whit…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/china/white-house-discussing-howard-lutnicks-future-commerce-secretary-people-familiar-2026-11-12",
+          "title": "Sources: senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out in the wake of the Nvidia spy scandal (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261112/p48"
+        }
+      ]
+    },
+    {
+      "id": "d77c24751633c8701525",
+      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "original_title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
+      "published_at": "2026-11-12T19:11:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands",
+          "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands"
+        }
+      ]
+    },
+    {
+      "id": "84ec87286cb35a64f463",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "IBM, LLM 네이티브 마크업 언어 LLMON 적용한 Granite 4.1 3B·8B 프리뷰 공개",
+      "original_title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "published_at": "2026-11-12T19:07:35+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B"
+        }
+      ],
+      "summary": "IBM이 LLM이 구조와 의미를 명시적으로 이해하도록 설계한 마크업 언어 LLMON을 발표하고, Granite 4.1 기반의 3B·8B 프리뷰 모델과 GitHub 툴킷을 공개했다. 회사 측은 간접 프롬프트 인젝션 공격 성공률이 거의 0에 가깝게 낮아졌으며 일반 성능은 Granite 4.1 Instruct와 비슷하다고 주장했다. LLMON은 JSON과 달리 구조 구분자에 예약 특수 토큰을 사용하고, 명령과 데이터를 분리해 실행 블록으로 연결한다.",
+      "why_it_matters": "LLM 컨텍스트의 구조를 명시적으로 표현해 프롬프트 인젝션 취약성을 줄이려는 시도로, 소형 모델의 신뢰성과 보안에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-12T21:46:02+00:00",
+        "input_hash": "6b13bfa7a7d1e3f9a5da5cf1afa8924c0a833320dfdb28fa67dec507e334601c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "d6182f5165948bc0f84b",
+      "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch",
+      "title": "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more (Abner Li/9to5Google)",
+      "original_title": "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more (Abner Li/9to5Google)",
+      "published_at": "2026-11-12T18:55:45+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Abner Li / 9to5Google : Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more — After this we…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://9to5google.com/2026/11/12/gemini-4-hydrogen-launch",
+          "title": "Google says Gemini 4 Hydrogen is available across AI Studio, the Gemini API, Search, paid AI Pro and Ultra tiers in Antigravity, and more (Abner Li/9to5Google)",
+          "discussion_url": "https://www.techmeme.com/261112/p47"
+        }
+      ]
+    },
+    {
+      "id": "d7c21c501eb23f12ba47",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+      "title": "Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window (Koray Kavukcuoglu/Google)",
+      "original_title": "Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window (Koray Kavukcuoglu/Google)",
+      "published_at": "2026-11-12T18:40:47+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Koray Kavukcuoglu / Google : Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M cont…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen",
+          "title": "Google launches Gemini 4 Hydrogen, calling it a major upgrade over Gemini 3.8 Flash, at $1.50/1M input and $7.50/1M output tokens across its 1M context window (Koray Kavukcuoglu/Google)",
+          "discussion_url": "https://www.techmeme.com/261112/p46"
+        }
+      ]
+    },
+    {
+      "id": "4a496b32dce8dcb70540",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+      "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "original_title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
+      "published_at": "2026-11-12T18:39:23+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restric…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+          "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question"
+        }
+      ]
+    },
+    {
+      "id": "5b69826eead48a963c75",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "original_title": "Introducing Gemini 4 Hydrogen",
+      "published_at": "2026-11-12T18:00:50+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
+          "title": "Introducing Gemini 4 Hydrogen"
+        }
+      ]
+    },
+    {
+      "id": "d6d23163b98ddfa1ea7a",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "title": "구글이 Gemini 4 Hydrogen으로 검색을 대대적으로 업그레이드",
+      "original_title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "published_at": "2026-11-12T18:00:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen"
+        }
+      ],
+      "summary": "구글이 Gemini 4 Hydrogen을 구글 검색에 전 세계적으로 도입한다고 발표했다. 구글에 따르면 이번 업데이트는 의도 이해, 쿼리 팬아웃 및 링크, 시각적 응답, 언어 이해를 개선하며, 복잡한 다중 질문에 대해 표와 이미지 등 구조화된 정보를 제공한다.",
+      "why_it_matters": "검색 경험이 더 대화적이고 시각적으로 바뀌면서 정보 탐색 방식과 웹사이트 유입 경로에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-12T21:45:59+00:00",
+        "input_hash": "316b5bf3d6bf5203d11deaad0c84ad3c4d5788b6a38c1ccb662ff6cfd553c77d",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "9ccf02f3129f7388553e",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "original_title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "published_at": "2026-11-12T17:36:40+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit"
+        }
+      ]
+    },
+    {
+      "id": "039c74dda2a3b52c28a0",
+      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "original_title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+      "published_at": "2026-11-12T17:17:58+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+          "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks"
+        }
+      ]
+    },
+    {
+      "id": "260390733a01153c6964",
+      "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+      "title": "Samsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time translation (Victoria Song/The Verge)",
+      "original_title": "Samsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time translation (Victoria Song/The Verge)",
+      "published_at": "2026-11-12T17:01:03+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Victoria Song / The Verge : Samsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/tech/1031647/google-android-xr-warby-parker-gentle-monster-hands-on",
+          "title": "Samsung's Android XR smart glasses hands-on: stylish with good privacy protections like local face redaction and nice Gemini features like real-time translation (Victoria Song/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261112/p44"
+        }
+      ]
+    },
+    {
+      "id": "743bb9f48555c86ca2ab",
+      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+      "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "original_title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
+      "published_at": "2026-11-12T17:00:52+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions",
+          "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions"
+        }
+      ]
+    },
+    {
+      "id": "6cb43935e4fe29e18262",
+      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "original_title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
+      "published_at": "2026-11-12T17:00:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday mom…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+          "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots"
+        }
+      ]
+    },
+    {
+      "id": "fd4d7f368cb292feaa6c",
+      "url": "https://www.theinformation.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets",
+      "title": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
+      "original_title": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
+      "published_at": "2026-11-12T16:45:33+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Phoebe Liu / The Information : Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstoppin…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/interim-nvidia-ceo-colette-kress-tried-tame-nvidias-riskiest-bets",
+          "title": "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
+          "discussion_url": "https://www.techmeme.com/261112/p43"
+        }
+      ]
+    },
+    {
+      "id": "7f38fc753bc5cf702eee",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+      "title": "Jensen Huang agrees to testify before Congress",
+      "original_title": "Jensen Huang agrees to testify before Congress",
+      "published_at": "2026-11-12T16:36:37+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threat…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress",
+          "title": "Jensen Huang agrees to testify before Congress"
+        }
+      ]
+    },
+    {
+      "id": "bbffb3caeffafb113ded",
+      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "original_title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "published_at": "2026-11-12T16:32:33+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very sp…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+          "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry"
+        }
+      ]
+    },
+    {
+      "id": "e1ea85722e08e33b9619",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42715",
+      "title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임",
+      "original_title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임",
+      "published_at": "2026-11-12T14:58:12+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "사생활 문제와 국가안보 우려를 둘러싼 논란 끝에 젠슨 황(Jensen Huang) 엔비디아(NVIDIA) 공동창업자 겸 최고경영자(CEO)가 전격 사임했다. 1993년 회사를 공동 설립한 이후 33년간 엔비디아를 이끌며 인공지능(AI) 반도체 산업의 핵심 기업으로 성장시킨 창업자 경영체제가 막을 내리게 됐다.엔비디아…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42715",
+          "title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임"
+        }
+      ]
+    },
+    {
+      "id": "26478b1589f92c797c9e",
+      "url": "https://byline.network/2026/11/huang",
+      "title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진",
+      "original_title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진",
+      "published_at": "2026-11-12T14:46:55+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 창업자가 12일(현지시간) 최고경영자(CEO)에서 물러났다. 중국 정보기관과 연계됐다는 의혹을 받는 중국 국적 기업인과의 불륜에 이어, 직속 여성 임원과도 관계를 맺었다는 보도가 나오면서 이사회가 해임을 논의한 지 하루 만이다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/huang",
+          "title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진"
+        }
+      ]
+    },
+    {
+      "id": "0f9a60034fb2fb8038af",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42714",
+      "title": "이 대통령, 충청권 392조원 메가프로젝트 본격화…AI·반도체 투자에 중소기업 참여 확대",
+      "original_title": "이 대통령, 충청권 392조원 메가프로젝트 본격화…AI·반도체 투자에 중소기업 참여 확대",
+      "published_at": "2026-11-12T14:38:07+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "정부가 392조원 규모의 충청권 메가프로젝트를 본격 추진하면서 반도체와 인공지능(AI) 등 첨단산업 투자 확대에 속도를 낸다. 삼성그룹의 첨단 투자사업 3건이 착공에 들어간 가운데, 소재·부품·장비(소부장) 기업 112곳에서 23조6000억원 규모의 신규 투자가 발굴됐다.정부는 대기업 중심의 투자를 지역 중소기업과 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42714",
+          "title": "이 대통령, 충청권 392조원 메가프로젝트 본격화…AI·반도체 투자에 중소기업 참여 확대"
+        }
+      ]
+    },
+    {
+      "id": "1e448e82275979b9dd03",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217346",
+      "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
+      "original_title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌",
+      "published_at": "2026-11-12T14:00:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 선점했던 AI 안경 시장에 구글과 삼성전자가 가세하면서 경쟁을 예고했다.구글은 삼성전자·젠틀몬스터·와비파커와 협업한 제미나이 기반 '인텔리전트 아이웨어' 라인업을 공개하고 12일(현지 시간)부터 한국과 미국에서 사전 예약판매에 들어 간다고 밝혔다.정식 출시일은 오는 12월10일이다. 젠틀몬스터 컬렉션은 한국과…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217346",
+          "title": "구글·삼성, AI 안경 시장 출사표… 12월10일 메타와 정식 격돌"
+        }
+      ]
+    },
+    {
+      "id": "5d8eb9bb6ea6192cdc0c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42713",
+      "title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축",
+      "original_title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축",
+      "published_at": "2026-11-12T13:27:34+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인텔코리아가 국내 23개 기업과 함께 소버린 AI와 피지컬 AI를 아우르는 인공지능(AI) 산업 생태계 구축에 나선다. 반도체와 서버 등 하드웨어부터 AI 모델, 소프트웨어, 산업별 솔루션까지 국내 기업의 기술 역량을 연결해 AI 인프라의 자립 기반을 강화하고, 실제 산업 현장에 적용할 수 있는 AI 서비스 개발을 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42713",
+          "title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축"
+        }
+      ]
+    },
+    {
+      "id": "774ee753ddc8154f7664",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42712",
+      "title": "인텔 아닐 난두리 부사장, “AI 에이전트 시대, GPU만으로는 부족”…차세대 추론 가속기 공개",
+      "original_title": "인텔 아닐 난두리 부사장, “AI 에이전트 시대, GPU만으로는 부족”…차세대 추론 가속기 공개",
+      "published_at": "2026-11-12T12:50:29+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능이 질문에 답하는 생성형 AI에서 스스로 업무를 계획하고 실행하는 에이전틱 AI로 발전하면서 데이터센터의 컴퓨팅 구조도 변화하고 있다. 인텔(Intel)은 GPU 중심의 AI 인프라만으로는 복잡한 에이전트 작업을 효율적으로 처리하기 어렵다며, CPU와 GPU, 전용 AI 가속기를 결합한 새로운 데이터센터 전략…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42712",
+          "title": "인텔 아닐 난두리 부사장, “AI 에이전트 시대, GPU만으로는 부족”…차세대 추론 가속기 공개"
+        }
+      ]
+    },
+    {
+      "id": "7ca1215c4277510b3daf",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42711",
+      "title": "인텔 댄 로드리게스 부사장, “PC는 AI 에이전트가 일하는 컴퓨터로 진화”…피지컬 AI·자율 공장 전략 공개",
+      "original_title": "인텔 댄 로드리게스 부사장, “PC는 AI 에이전트가 일하는 컴퓨터로 진화”…피지컬 AI·자율 공장 전략 공개",
+      "published_at": "2026-11-12T12:30:12+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 PC에서 사용자의 질문에 답하는 단계를 넘어 여러 애플리케이션을 직접 실행하고 업무를 처리하는 에이전틱 AI로 발전하면서 컴퓨터의 역할도 변화하고 있다. 인텔(Intel)은 이러한 변화에 대응해 PC를 AI 에이전트의 실행 플랫폼으로 발전시키고, 엣지 컴퓨팅과 피지컬 AI를 결합해 의료·제조·로봇 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42711",
+          "title": "인텔 댄 로드리게스 부사장, “PC는 AI 에이전트가 일하는 컴퓨터로 진화”…피지컬 AI·자율 공장 전략 공개"
+        }
+      ]
+    },
+    {
+      "id": "f7ee675e77f675a273dc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42710",
+      "title": "비스와니탄 인텔 아시아태평양 총괄, “한국, 소버린 AI·피지컬 AI·엣지 AI 성장 잠재력 높아”",
+      "original_title": "비스와니탄 인텔 아시아태평양 총괄, “한국, 소버린 AI·피지컬 AI·엣지 AI 성장 잠재력 높아”",
+      "published_at": "2026-11-12T12:01:27+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인텔(Intel)이 한국의 반도체와 메모리 기술, 연구개발 역량을 기반으로 소버린 AI와 피지컬 AI, 엣지 AI 분야에서 새로운 성장 기회를 창출할 수 있다는 전망을 제시했다. 특히 대규모 AI 인프라 경쟁에만 집중하기보다 한국이 강점을 가진 기술을 활용해 독자적인 AI 모델과 서비스를 개발하는 전략이 중요하다고 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42710",
+          "title": "비스와니탄 인텔 아시아태평양 총괄, “한국, 소버린 AI·피지컬 AI·엣지 AI 성장 잠재력 높아”"
+        }
+      ]
+    },
+    {
+      "id": "a1397c7de5550f05d126",
+      "url": "https://byline.network/2026/11/12-683",
+      "title": "“CVE·패치 나오기 전 악용되는 AI 취약점 공격, ‘런타임 보안’으로 막는다” – 레이븐, 한국 진출",
+      "original_title": "“CVE·패치 나오기 전 악용되는 AI 취약점 공격, ‘런타임 보안’으로 막는다” – 레이븐, 한국 진출",
+      "published_at": "2026-11-12T11:17:14+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“레이븐은 코드가 실행되는 모든 라이브러리에 설치된 CCTV와 같은 역할을 한다. 실행 중인 라이브러리를 식별하고, 실제 취약점 악용 공격이 발생할 경우 CVE나 보안패치가 없더라도 코드 실행은 물론 네트워크나 파일에 접근하지 못하게 하는 즉각 조치를 수행한다.” PHP2Shell, Node2Shell, Log4Sh…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/12-683",
+          "title": "“CVE·패치 나오기 전 악용되는 AI 취약점 공격, ‘런타임 보안’으로 막는다” – 레이븐, 한국 진출"
+        }
+      ]
+    },
+    {
       "id": "b50c89b4a0e7ebef010d",
       "url": "https://github.com/qybaihe/bla",
       "title": "Adversarial defense for binaries/JS/Python against AI reverse-engineering agents",
@@ -1025,6 +2022,35 @@
       ]
     },
     {
+      "id": "cbda9238a3684b28e47a",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "title": "Hugging Face, 3D 생성 모델 TRELLIS.2용 LoRA 파인튜닝 가이드 공개",
+      "original_title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "published_at": "2026-11-12T00:00:00+00:00",
+      "collected_at": "2026-11-12T21:45:29+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning",
+          "title": "The Definitive Fine-Tuning Guide for 3D Generation Models"
+        }
+      ],
+      "summary": "Hugging Face 블로그가 3D 생성 모델 TRELLIS.2를 자체 3D 자산에 맞게 조정할 수 있는 파인튜닝 스크립트와 컨테이너를 공개했다. 작성자들은 GSO 데이터셋의 신발 188개 하위 집합을 사용해 사전학습 모델이 신발 밑창을 부정확하게 생성하는 문제를 LoRA로 개선하는 실험을 설명한다. 파이프라인 중 sparse-structure flow DiT와 shape flow DiT에만 LoRA 어댑터를 추가하고 texture flow DiT는 동결한다.",
+      "why_it_matters": "3D 생성 모델을 특정 카테고리에 맞게 조정하려는 사용자에게 파이프라인 구성요소별 학습·동결 선택 기준과 실행 예시를 제공한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-12T21:45:55+00:00",
+        "input_hash": "c3a2560bf373e90f1de7c81b71d9274717a44f9ac59f5e9a93c23b2496b7e9a8",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "65b96c238445cdedc96b",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
@@ -1060,6 +2086,11 @@
         {
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "title": "The unfolding Jensen Huang scandal: a timeline"
+        },
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
           "title": "The unfolding Jensen Huang scandal: a timeline"
         }
       ]
