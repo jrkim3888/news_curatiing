@@ -276,14 +276,14 @@
     {
       "id": "ed1411a513d879c6c7db",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
-      "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
+      "title": "엔비디아 새 경영 체제, 크레스 임시 CEO와 존스 의장의 안정화 행보",
       "original_title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아",
       "published_at": "2026-11-12T20:56:23+00:00",
       "collected_at": "2026-11-12T21:45:29+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "젠슨 황 CEO의 사임으로 경영 공백이 발생한 엔비디아가 새로운 경영 체제를 가동했다. 13년간 회사의 재무와 사업 전략을 담당해 온 콜레트 크레스가 임시 CEO를 맡고, 창업 초기부터 이사회에 참여한 하비 존스가 초대 의장에 선임됐다. 두 사람은 직원들에게 회사의 미래에 대한 확신을 강조하며 경영 안정화에 나섰다.…",
       "sources": [
         {
@@ -291,19 +291,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217350",
           "title": "젠슨 황 떠난 엔비디아, '실질적 2인자' 크레스가 임시 CEO 맡아"
         }
-      ]
+      ],
+      "summary": "젠슨 황 사임 후 엔비디아는 콜레트 크레스 임시 CEO와 하비 존스 초대 의장 체제로 전환했다. 두 사람은 직원들에게 회사의 미래에 대한 확신을 강조하는 이메일을 보냈으며, 크레스는 18일 전 직원 회의를 열어 향후 운영 방향을 설명할 예정이다. 이사회는 내부와 외부 후보를 모두 검토해 정식 CEO를 선임할 방침이다.",
+      "why_it_matters": "새 경영진이 AI 반도체 개발 일정과 주요 고객사 협력 관계를 안정적으로 이어갈 수 있을지가 관건입니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-13T02:03:31+00:00",
+        "briefing_day": "2026-11-13",
+        "input_hash": "04de6878906c2309d4419ad9136d8729a03888e073abab58cf3daec5a1fc1706",
+        "evidence_verified": true
+      }
     },
     {
       "id": "2b1321eb8d0532cd4b00",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217349",
-      "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
+      "title": "백악관, 젠슨 황 사임 후폭풍으로 상무장관 경질 논의",
       "original_title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의",
       "published_at": "2026-11-12T20:36:17+00:00",
       "collected_at": "2026-11-12T21:45:29+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "젠슨 황 엔비디아 CEO의 사임을 촉발한 중국 간첩 연루 의혹이 미국 정치권으로 번지고 있다. 백악관 고위 관계자들이 하워드 러트닉 상무장관의 경질 문제를 논의하는 것으로 알려졌으며, 미국 의회에서도 대중국 AI 반도체 수출 통제에 대한 책임을 묻는 목소리가 커지고 있다.로이터는 12일(현지시간) 사안에 정통한 관계…",
       "sources": [
         {
@@ -311,7 +321,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217349",
           "title": "젠슨 황 사임 후폭풍…백악관, 상무장관 경질 논의"
         }
-      ]
+      ],
+      "summary": "젠슨 황 엔비디아 CEO 사임을 촉발한 중국 간첩 연루 의혹이 미국 정치권으로 번지면서 백악관 고위 관리들이 하워드 러트닉 상무장관의 경질 여부를 논의하고 있다. 러트닉 장관은 중국 기업 수출 제한 대상 추가와 엔비디아의 중국 반도체 수출 감독을 제대로 하지 않았다는 비판을 받고 있다. 미국 의회에서도 여야를 가리지 않고 수출 통제 책임을 묻는 목소리가 커지고 있다.",
+      "why_it_matters": "엔비디아 CEO 사임이 미국의 대중국 반도체 수출 정책과 상무부 책임 문제로 확산되며 정책 불확실성이 커질 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-13T02:03:31+00:00",
+        "briefing_day": "2026-11-13",
+        "input_hash": "2a5057b8c2782f8603178f7c5af12209c02e9f4c55e87b26d95237b69b84fe44",
+        "evidence_verified": true
+      }
     },
     {
       "id": "779abe288b1c01daf6b7",
@@ -397,14 +417,14 @@
     {
       "id": "63bd078a8755ac74f487",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217348",
-      "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
+      "title": "젠슨 황 사임에 엔비디아 주가 14% 급락, AI 투자 불확실성 확대",
       "original_title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수",
       "published_at": "2026-11-12T19:47:53+00:00",
       "collected_at": "2026-11-12T21:45:29+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "젠슨 황 엔비디아 CEO가 사생활 논란 끝에 사임했다. 33년간 회사를 이끈 창업자의 퇴진으로 엔비디아 주가가 장중 14% 넘게 급락했으며, AI 산업 전반의 투자와 공급망에도 불확실성이 커지고 있다.엔비디아는 12일(현지시간) 공식 발표를 통해 황 CEO가 사장과 CEO, 이사회 이사직에서 즉시 물러났다고 밝혔다.…",
       "sources": [
         {
@@ -412,7 +432,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217348",
           "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수"
         }
-      ]
+      ],
+      "summary": "젠슨 황 엔비디아 CEO가 사생활 논란 끝에 사임하면서 주가가 장중 14% 넘게 급락했고, 최고점 대비 시가총액 1조8000억달러 이상이 사라졌다. 엔비디아가 AI 산업의 핵심 투자자로 활동해 온 만큼 후임 경영진의 투자 전략 변화가 AI 인프라 기업에 영향을 줄 수 있다는 분석이 나온다. 미국의 대중국 반도체 수출 정책에도 영향이 예상된다.",
+      "why_it_matters": "엔비디아 주가 급락은 AI 관련 기업 전반의 투자 심리와 공급망에 부정적 영향을 미칠 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-13T02:03:31+00:00",
+        "briefing_day": "2026-11-13",
+        "input_hash": "f66d7067151eb48e421a08cfd03ae099a5cb3ea263e9379d9670a409bc8e2c7d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b0c4cc313f03d15268b8",
@@ -822,14 +852,14 @@
     {
       "id": "e1ea85722e08e33b9619",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42715",
-      "title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임",
+      "title": "젠슨 황 엔비디아 CEO 사임, 콜레트 크레스 임시 CEO 선임",
       "original_title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임",
       "published_at": "2026-11-12T14:58:12+00:00",
       "collected_at": "2026-11-12T21:45:29+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "사생활 문제와 국가안보 우려를 둘러싼 논란 끝에 젠슨 황(Jensen Huang) 엔비디아(NVIDIA) 공동창업자 겸 최고경영자(CEO)가 전격 사임했다. 1993년 회사를 공동 설립한 이후 33년간 엔비디아를 이끌며 인공지능(AI) 반도체 산업의 핵심 기업으로 성장시킨 창업자 경영체제가 막을 내리게 됐다.엔비디아…",
       "sources": [
         {
@@ -837,19 +867,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42715",
           "title": "젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 '크레스' 임시 CEO 선임"
         }
-      ]
+      ],
+      "summary": "젠슨 황이 사생활 문제와 국가안보 우려 논란 끝에 엔비디아 CEO직에서 전격 사임했다. 이사회는 콜레트 크레스 CFO를 임시 CEO로, 하비 C. 존스를 초대 이사회 의장으로 선임하고 차기 CEO 선임 절차에 착수했다. 엔비디아는 예정대로 17일 분기 실적을 발표할 방침이다.",
+      "why_it_matters": "33년간 엔비디아를 이끈 창업자의 퇴진으로 AI 반도체 산업의 경영 연속성과 투자 전략에 대한 불확실성이 커졌습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-13T02:03:31+00:00",
+        "briefing_day": "2026-11-13",
+        "input_hash": "cea43a1ca579e364365adb684fd4e54b1c1b5837f4bdf12a0d8a279aa5788e6e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "26478b1589f92c797c9e",
       "url": "https://byline.network/2026/11/huang",
-      "title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진",
+      "title": "젠슨 황, 33년 만에 엔비디아 CEO 퇴진…후계 구도 없이 맞은 사임",
       "original_title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진",
       "published_at": "2026-11-12T14:46:55+00:00",
       "collected_at": "2026-11-12T21:45:29+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "젠슨 황 엔비디아 창업자가 12일(현지시간) 최고경영자(CEO)에서 물러났다. 중국 정보기관과 연계됐다는 의혹을 받는 중국 국적 기업인과의 불륜에 이어, 직속 여성 임원과도 관계를 맺었다는 보도가 나오면서 이사회가 해임을 논의한 지 하루 만이다.…",
       "sources": [
         {
@@ -857,7 +897,17 @@
           "url": "https://byline.network/2026/11/huang",
           "title": "젠슨 황, 엔비디아 CEO 사임…33년 만에 경영 일선서 퇴진"
         }
-      ]
+      ],
+      "summary": "젠슨 황이 중국 정보기관 연계 의혹을 받는 여성과의 불륜에 이어 직속 여성 임원과의 관계 보도가 나오면서 이사회 해임 논의 하루 만에 CEO직에서 물러났다. 엔비디아는 콜레트 크레스 CFO를 임시 CEO로, 하비 C. 존스를 이사회 의장으로 선임했다. 황 전 CEO는 이사회에서는 물러나지만 지분 약 3.61%를 가진 대주주로 남는다.",
+      "why_it_matters": "후계 구도 없이 창업자가 퇴진하면서 엔비디아의 경영 연속성과 기술 전략 주도권에 대한 우려가 제기됩니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-13T02:03:31+00:00",
+        "briefing_day": "2026-11-13",
+        "input_hash": "39745660733d882b0fee1bd5ae5fe8edda1c7e7134b251ace376480c78c36bd5",
+        "evidence_verified": true
+      }
     },
     {
       "id": "0f9a60034fb2fb8038af",
@@ -902,14 +952,14 @@
     {
       "id": "5d8eb9bb6ea6192cdc0c",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42713",
-      "title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축",
+      "title": "인텔코리아, 국내 23개 기업과 K-AI 풀스택 얼라이언스 출범",
       "original_title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축",
       "published_at": "2026-11-12T13:27:34+00:00",
       "collected_at": "2026-11-12T21:45:29+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인텔코리아가 국내 23개 기업과 함께 소버린 AI와 피지컬 AI를 아우르는 인공지능(AI) 산업 생태계 구축에 나선다. 반도체와 서버 등 하드웨어부터 AI 모델, 소프트웨어, 산업별 솔루션까지 국내 기업의 기술 역량을 연결해 AI 인프라의 자립 기반을 강화하고, 실제 산업 현장에 적용할 수 있는 AI 서비스 개발을 …",
       "sources": [
         {
@@ -917,7 +967,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42713",
           "title": "인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축"
         }
-      ]
+      ],
+      "summary": "인텔코리아가 국내 23개 기업과 함께 소버린 AI와 피지컬 AI를 아우르는 K-AI 풀스택 얼라이언스를 출범했다. 하드웨어부터 AI 모델, 산업별 솔루션까지 국내 기업의 기술 역량을 연결해 AI 인프라 자립 기반을 강화한다는 구상이다. 인텔코리아는 서울 AI 허브와도 업무협약을 체결해 국내 AI 스타트업의 기술 개발과 검증을 지원할 계획이다.",
+      "why_it_matters": "국내 기업들이 하드웨어부터 AI 모델까지 협력하는 생태계를 구축하면 소버린 AI와 피지컬 AI 분야의 자립 기반이 강화될 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-13T02:03:31+00:00",
+        "briefing_day": "2026-11-13",
+        "input_hash": "67a2e7b2801fe94f91e4fcbb38b9b33148de21e4675992cea8e975175daca401",
+        "evidence_verified": true
+      }
     },
     {
       "id": "774ee753ddc8154f7664",
