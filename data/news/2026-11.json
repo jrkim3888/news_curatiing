@@ -3,6 +3,814 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "0ea09bcc4df5a16efed5",
+      "url": "https://github.com/cloudflare/kitesurf",
+      "title": "Kitesurf now open source – Cloudflare's agentic browser on Dioxus Blitz",
+      "original_title": "Kitesurf now open source – Cloudflare's agentic browser on Dioxus Blitz",
+      "published_at": "2026-11-13T21:10:05+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/cloudflare/kitesurf",
+          "title": "Kitesurf now open source – Cloudflare's agentic browser on Dioxus Blitz",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489689"
+        }
+      ]
+    },
+    {
+      "id": "f954783e782225e6f668",
+      "url": "https://twitter.com/willdepue/status/2120992457630326841",
+      "title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+      "original_title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+      "published_at": "2026-11-13T21:05:19+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/willdepue/status/2120992457630326841",
+          "title": "Evidence Chinese AI labs built their newest models on Nvidia's Blackwell chips",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489631"
+        }
+      ]
+    },
+    {
+      "id": "4edadbc22e3b9d225de7",
+      "url": "https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails",
+      "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+      "original_title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+      "published_at": "2026-11-13T21:01:40+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Semafor : How Nvidia used a “scorched earth, adversarial attitude” targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited — THE …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails",
+          "title": "How Nvidia used a \"scorched earth, adversarial attitude\" targeting proponents of export controls in DC, invoking Trump's name to get license approvals expedited (Semafor)",
+          "discussion_url": "https://www.techmeme.com/261113/p29"
+        }
+      ]
+    },
+    {
+      "id": "5a1f48a99353eb523a76",
+      "url": "https://rainshare.dev/",
+      "title": "Rainshare: Mutual aid for AI coding plans and usage limits",
+      "original_title": "Rainshare: Mutual aid for AI coding plans and usage limits",
+      "published_at": "2026-11-13T20:54:38+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rainshare.dev/",
+          "title": "Rainshare: Mutual aid for AI coding plans and usage limits",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489510"
+        }
+      ]
+    },
+    {
+      "id": "0b92abe35532be7bcef1",
+      "url": "https://www.classaction.org/news/nvidia-facing-securities-class-action-over-stock-drop-linked-to-reported-jensen-huang-affair-with-suspected-chinese-spy",
+      "title": "Nvidia Facing Securities Lawsuit over Stock Drop Linked to Jensen Huang Affair",
+      "original_title": "Nvidia Facing Securities Lawsuit over Stock Drop Linked to Jensen Huang Affair",
+      "published_at": "2026-11-13T20:53:10+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.classaction.org/news/nvidia-facing-securities-class-action-over-stock-drop-linked-to-reported-jensen-huang-affair-with-suspected-chinese-spy",
+          "title": "Nvidia Facing Securities Lawsuit over Stock Drop Linked to Jensen Huang Affair",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489491"
+        }
+      ]
+    },
+    {
+      "id": "f2e5d337d21b573da3d7",
+      "url": "https://images.skynettstudio.com/",
+      "title": "Show HN: Free AI Image Gallery",
+      "original_title": "Show HN: Free AI Image Gallery",
+      "published_at": "2026-11-13T20:51:08+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://images.skynettstudio.com/",
+          "title": "Show HN: Free AI Image Gallery",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489463"
+        }
+      ]
+    },
+    {
+      "id": "4e3b5c76cf60c1af907c",
+      "url": "https://www.researchgate.net/publication/417439900_Cooperation_Between_Autonomous_LLM_Agents_in_the_Repeated_Prisoner%27s_Dilemma_Exploitation_Cheap_Talk_and_Reputation",
+      "title": "Cooperation Between Autonomous LLM Agents in the Prisoner's Dilemma",
+      "original_title": "Cooperation Between Autonomous LLM Agents in the Prisoner's Dilemma",
+      "published_at": "2026-11-13T20:46:58+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.researchgate.net/publication/417439900_Cooperation_Between_Autonomous_LLM_Agents_in_the_Repeated_Prisoner%27s_Dilemma_Exploitation_Cheap_Talk_and_Reputation",
+          "title": "Cooperation Between Autonomous LLM Agents in the Prisoner's Dilemma",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489413"
+        }
+      ]
+    },
+    {
+      "id": "ee52e4cf8d1cd0f1d74f",
+      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl",
+      "title": "Nvidia launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+      "original_title": "Nvidia launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+      "published_at": "2026-11-13T20:40:49+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl",
+          "title": "Nvidia launches GR00T 2 and Isaac Lab 3.0 at CoRL",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489340"
+        }
+      ]
+    },
+    {
+      "id": "8408ae590448a414cae6",
+      "url": "https://x.com/microsoft/status/2121282013600907325",
+      "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+      "original_title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+      "published_at": "2026-11-13T20:40:02+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "@microsoft : Microsoft apologizes for the outage, calling it a “technical issue” from a “network capacity upgrade”, and says it was “not related to cyber or AI/agents” — We are …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://x.com/microsoft/status/2121282013600907325",
+          "title": "Microsoft apologizes for the outage, calling it a \"technical issue\" from a \"network capacity upgrade\", and says it was \"not related to cyber or AI/agents\" (@microsoft)",
+          "discussion_url": "https://www.techmeme.com/261113/p28"
+        }
+      ]
+    },
+    {
+      "id": "15a6001d795399c80101",
+      "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+      "title": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
+      "original_title": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
+      "published_at": "2026-11-13T20:35:01+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CNBC : Nvidia board says it is “in the process of selecting a search firm” for the CEO role and it has “not formally engaged any potential candidates” — Nvidia hasn't yet select…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/13/nvidia-huang-ceo-replacement-search.html",
+          "title": "Nvidia board says it is \"in the process of selecting a search firm\" for the CEO role and it has \"not formally engaged any potential candidates\" (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261113/p27"
+        }
+      ]
+    },
+    {
+      "id": "13909388feecdd704880",
+      "url": "https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934",
+      "title": "The Chinese city powering the country's AI ambitions with data farms",
+      "original_title": "The Chinese city powering the country's AI ambitions with data farms",
+      "published_at": "2026-11-13T20:33:22+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nbcnews.com/world/asia/china-ai-data-center-construction-inner-mongolia-rcna608934",
+          "title": "The Chinese city powering the country's AI ambitions with data farms",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489248"
+        }
+      ]
+    },
+    {
+      "id": "4600eee4d2d4932bd5bc",
+      "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+      "title": "AI Company Employees Should Unionize",
+      "original_title": "AI Company Employees Should Unionize",
+      "published_at": "2026-11-13T20:29:19+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.astralcodexten.com/p/ai-company-employees-should-unionize",
+          "title": "AI Company Employees Should Unionize",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489197"
+        }
+      ]
+    },
+    {
+      "id": "1972a6107d7cc016e042",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+      "title": "DeepMind opens the datasets behind its AI weather models",
+      "original_title": "DeepMind opens the datasets behind its AI weather models",
+      "published_at": "2026-11-13T20:28:58+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models",
+          "title": "DeepMind opens the datasets behind its AI weather models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489192"
+        }
+      ]
+    },
+    {
+      "id": "c44bea2673d49ea3d428",
+      "url": "https://www.youtube.com/watch?v=SXnxZuntM0w",
+      "title": "A board game where you play an AI lab CEO racing to AGI [video]",
+      "original_title": "A board game where you play an AI lab CEO racing to AGI [video]",
+      "published_at": "2026-11-13T20:25:11+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=SXnxZuntM0w",
+          "title": "A board game where you play an AI lab CEO racing to AGI [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489143"
+        }
+      ]
+    },
+    {
+      "id": "81493d061b28a91d3e57",
+      "url": "https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists",
+      "title": "How the U.S.'s biggest news union is fighting an AI onslaught",
+      "original_title": "How the U.S.'s biggest news union is fighting an AI onslaught",
+      "published_at": "2026-11-13T20:23:36+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.fastcompany.com/91637688/newsguild-jon-schleuss-ai-human-journalists",
+          "title": "How the U.S.'s biggest news union is fighting an AI onslaught",
+          "discussion_url": "https://news.ycombinator.com/item?id=50489128"
+        }
+      ]
+    },
+    {
+      "id": "49f0b0840b1ef26af09f",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "original_title": "AI agent startup LangChain hits $3B valuation",
+      "published_at": "2026-11-13T19:37:57+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation",
+          "title": "AI agent startup LangChain hits $3B valuation"
+        }
+      ]
+    },
+    {
+      "id": "a469062bb558beb4fe0a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+      "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
+      "original_title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
+      "published_at": "2026-11-13T19:20:01+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Bloomberg : Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's “deepest business dilemma” due to the unpredictability of revenue — Anthr…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ceo-calls-computing-power-deepest-business-dilemma",
+          "title": "Dario Amodei says figuring out how much computing is needed in a year or two is Anthropic's \"deepest business dilemma\" due to the unpredictability of revenue (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261113/p25"
+        }
+      ]
+    },
+    {
+      "id": "27116240ccb06e54eb41",
+      "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+      "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
+      "original_title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
+      "published_at": "2026-11-13T19:10:01+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops — M…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/13/technology/jensen-huang-silicon-valley-start-ups.html",
+          "title": "Some investors and founders say they lost an ally in Jensen Huang; Nvidia held $48B in 229 private companies as of July and offered $165B in cloud backstops (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261113/p24"
+        }
+      ]
+    },
+    {
+      "id": "b46b6bb43e745acd7c60",
+      "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla",
+      "title": "NVIDIA, Jetson AGX Orin에서 Python으로 cuDLA 추론 실행하는 방법 공개",
+      "original_title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA",
+      "published_at": "2026-11-13T18:57:10+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "AI applications at the edge often need to run multiple neural networks within limited compute and power budgets. NVIDIA Deep Learning Accelerator (DLA)... AI applications at the…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/run-native-dla-inference-in-python-on-nvidia-jetson-agx-orin-using-cudla",
+          "title": "Run Native DLA Inference in Python on NVIDIA Jetson AGX Orin Using cuDLA"
+        }
+      ],
+      "summary": "NVIDIA가 Jetson AGX Orin에서 cuDLA 런타임 API를 Python에서 직접 사용해 DLA 추론을 실행하는 워크플로를 소개했다. cuda-bindings 13.3.0에 추가된 cuda.bindings.cudla 모듈은 cuDLA C++ API를 Python으로 노출하며, TensorRT trtexec로 DLA 로더블을 컴파일한 뒤 디바이스 생성, 모듈 로드, 버퍼 등록, 태스크 제출, 동기화, 정리 순서로 실행한다. NVIDIA는 DLA가 GPU에서 추론 작업을 오프로드해 전력 효율을 높이고 GPU 용량을 다른 작업에 남겨둘 수 있다고 설명했다.",
+      "why_it_matters": "Python만으로 DLA 하드웨어 추론을 제어할 수 있게 되면 C++ 런타임 코드 없이 엣지 AI 애플리케이션에서 GPU와 DLA를 함께 운용하기가 쉬워진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-13T21:14:36+00:00",
+        "input_hash": "509a1605c70d7c68564bbb6250abc3136f3e10441228023b983e251e0c0055f5",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0acc674430dfd202ca5a",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "title": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)",
+      "original_title": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)",
+      "published_at": "2026-11-13T18:55:00+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Allison Johnson / The Verge : Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant t…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "title": "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261113/p23"
+        }
+      ]
+    },
+    {
+      "id": "a5cbeaaf0b4df56fac42",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "original_title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "published_at": "2026-11-13T18:40:30+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!"
+        }
+      ]
+    },
+    {
+      "id": "cdc8eef67bc55a0d0fa5",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "title": "NVIDIA, SimReady 자산으로 로봇 픽앤플레이스 시뮬레이션 구축 가이드 공개",
+      "original_title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "published_at": "2026-11-13T18:00:39+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets"
+        }
+      ],
+      "summary": "NVIDIA가 Isaac Sim에서 UR17G 로봇팔, Robotiq 2F-140 그리퍼, 음료 캔을 조합해 픽앤플레이스 작업을 구성하는 방법을 소개했다. SimReady Central은 충돌, 질량, 조인트, 조인트 드라이브 등 시뮬레이션에 필요한 속성이 작성된 OpenUSD 자산을 Hugging Face에서 제공하며, 이 예제는 에이전트가 생성한 제어 코드로 캔을 집어 목표 지점으로 옮기는 과정을 다룬다. 작성 측은 이 결과가 스크립트된 설정에 한정되며 불확실한 물체 위치나 실제 하드웨어에 대한 견고성을 입증하지 않는다고 밝혔다.",
+      "why_it_matters": "시뮬레이션용 자산의 표준화와 검증 체계가 로봇 개발에서 재사용성과 재현성 확보에 어떤 역할을 하는지 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-13T21:14:32+00:00",
+        "input_hash": "780fe93b6d6e8e515c30d7abe286a98a3907883f5085e9fbcef3a337b0189b76",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "2f54580cd5cefb654d67",
+      "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+      "title": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
+      "original_title": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
+      "published_at": "2026-11-13T17:30:02+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit — Th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/13/business/jensen-huang-nvidia-wall-street.html",
+          "title": "Wall Street fears Jensen Huang's ouster will slow Nvidia's AI dealmaking; sources: its $500B lending consortium is in flux and at least one lender may exit (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261113/p20"
+        }
+      ]
+    },
+    {
+      "id": "691d6cdbb8fb511a5607",
+      "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+      "title": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics (Wen Shao/Fortune)",
+      "original_title": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics (Wen Shao/Fortune)",
+      "published_at": "2026-11-13T17:25:01+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wen Shao / Fortune : OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robo…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots",
+          "title": "OpenAI disbands its standalone robotics team, moving its staff to research and Applied units, saying models like GPT-6 Astra can be directly applied to robotics (Wen Shao/Fortune)",
+          "discussion_url": "https://www.techmeme.com/261113/p19"
+        }
+      ]
+    },
+    {
+      "id": "cc484304fa8256eca09a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+      "title": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
+      "original_title": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
+      "published_at": "2026-11-13T17:10:03+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules — Institutional inv…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/anthropic-ipo-share-orders-from-china-are-said-to-be-rebuffed",
+          "title": "Sources: Anthropic's IPO, like SpaceX's, is closed to institutional investors in mainland China and Hong Kong, partly due to US arms export rules (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261113/p18"
+        }
+      ]
+    },
+    {
+      "id": "5501c539b858dfdb7218",
+      "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
+      "title": "Sources: Nvidia's board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more than a decade ago (Michael Acton/Financial Times)",
+      "original_title": "Sources: Nvidia's board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more than a decade ago (Michael Acton/Financial Times)",
+      "published_at": "2026-11-13T17:03:26+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Michael Acton / Financial Times : Sources: Nvidia's board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926",
+          "title": "Sources: Nvidia's board has approached Arm CEO Rene Haas in its search for a potential successor to Jensen Huang; Haas worked at Nvidia more than a decade ago (Michael Acton/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261113/p17"
+        }
+      ]
+    },
+    {
+      "id": "96c7f67bef86f8316048",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "title": "Ai2, XYBench 공개: 잘못된 전제의 질문을 다루는 AI 평가 벤치마크",
+      "original_title": "XYBench: Helping with the problem behind the question",
+      "published_at": "2026-11-13T17:02:35+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "title": "XYBench: Helping with the problem behind the question"
+        }
+      ],
+      "summary": "Ai2가 카네기멜런, NVIDIA, 존스홉킨스 연구진과 함께 8,115개의 실제 질문으로 구성된 XYBench를 공개했다. 이 벤치마크는 사용자가 목표(X) 대신 잘못된 접근(Y)을 질문할 때 AI가 이를 인식하고 실제 목표에 맞는 해결책으로 유도하는지 측정한다. 평가된 Claude Sonnet 4.6, GPT-5, Gemini 3.1 Pro, Qwen3.5-9B, DeepSeek-V4 Pro는 모두 인간 참조 답변보다 잘못된 접근에서 벗어나도록 유도하는 비율이 낮았다.",
+      "why_it_matters": "AI가 사용자의 잘못된 전제를 바로잡고 실제 목표에 맞는 해결책을 제시하는 능력은 실용적 유용성과 직결된다. XYBench는 모델이 유용한 조언을 인식하는 것과 실제로 생성하는 것 사이의 격차를 드러내며, 향후 훈련 및 평가 방향을 제시한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-13T21:14:28+00:00",
+        "input_hash": "19acbc90c2a62aceb888c172e1dcd48bd6c860efca47fdeb66f179c09bb553ac",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "afe19bd014a42e97b97b",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "title": "NVIDIA, 두 대의 DGX Station으로 GLM-5.3 NVFP4 모델 서빙하는 vLLM 튜토리얼 공개",
+      "original_title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Running a frontier-scale model locally means keeping all its weights in GPU memory; the largest models no longer fit on one machine. Two NVIDIA DGX Stations... Running a frontie…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+          "title": "When One GPU Isn’t Enough: Serving GLM-5.3 Across Two NVIDIA DGX Stations with vLLM"
+        }
+      ],
+      "summary": "NVIDIA 개발자 블로그가 두 대의 NVIDIA DGX Station을 ConnectX-8 RDMA로 연결해 7530억 파라미터 규모의 GLM-5.3 NVFP4 모델을 vLLM으로 서빙하는 방법을 소개했다. 텐서 병렬화(TP=2)로 모델 가중치와 연산을 두 GB300 GPU에 분할하고, 단일 OpenAI 호환 API 엔드포인트로 요청을 처리한다. 체크포인트가 약 464GB로 단일 GB300의 252GB HBM3e를 초과해 두 노드가 필요하다고 설명한다.",
+      "why_it_matters": "프런티어급 대형 모델을 단일 GPU가 아닌 여러 노드에 분산 서빙하는 구체적 구성 사례를 제시해, 로컬 인프라에서 대규모 모델을 운영하려는 조직에 참고가 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-13T21:14:25+00:00",
+        "input_hash": "4149dea3f2211bd8321815516cd06c8392d0f458577ebd84506f1230d90582f9",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a50f32ed0276415adad3",
+      "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter",
+      "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "original_title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Human motion offers roboticists a great starting point for teaching humanoid robots how to move. A human demonstration captures the coordination and timing... Human motion offer…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/adapt-human-motion-for-robots-with-nvidia-soma-retargeter",
+          "title": "Adapt Human Motion for Robots with NVIDIA SOMA Retargeter"
+        }
+      ]
+    },
+    {
+      "id": "bbcb79fadd39dd32e9c7",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "original_title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+      "published_at": "2026-11-13T16:00:12+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+          "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you"
+        }
+      ]
+    },
+    {
+      "id": "34b118579280a6a07f79",
+      "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)",
+      "original_title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)",
+      "published_at": "2026-11-13T15:35:05+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Ashley Capoot / CNBC : OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are o…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+          "title": "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261113/p15"
+        }
+      ]
+    },
+    {
+      "id": "7d4d71d056da02862d0b",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "title": "Introducing ChatGPT Wallet",
+      "original_title": "Introducing ChatGPT Wallet",
+      "published_at": "2026-11-13T15:00:00+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "title": "Introducing ChatGPT Wallet"
+        }
+      ]
+    },
+    {
+      "id": "4d1482722545d06dd169",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "original_title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+      "published_at": "2026-11-13T14:44:48+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+          "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams"
+        }
+      ]
+    },
+    {
+      "id": "6841e619fcd7e8d93702",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 공개: 로컬 AI 생태계를 위한 안정적 기반 마련",
+      "original_title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "published_at": "2026-11-13T14:05:22+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem"
+        }
+      ],
+      "summary": "llama.cpp 프로젝트가 라이브러리 v1.0.0을 공개했다. 이번 릴리스는 다운스트림 개발자들이 의존하는 API와 ABI의 안정성을 강조하며, 앞으로 주요 버전 업데이트 시 호환성 변경을 명시하겠다는 방침을 담고 있다. ggml도 함께 v1.0.0으로 릴리스되었다.",
+      "why_it_matters": "로컬 AI 추론을 위한 핵심 오픈소스 라이브러리가 시맨틱 버전 관리를 도입함으로써, 이를 기반으로 하는 다운스트림 애플리케이션 개발자들이 보다 예측 가능한 의존성 관리와 안정적인 통합을 할 수 있는 기반이 마련됐다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-13T21:14:19+00:00",
+        "input_hash": "d33db1ba331914f506e2ec1509790d30d00cebd0a03d3f0542e1989baafc72b6",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "f5e5ad20de032496fc3f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42730",
+      "title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진",
+      "original_title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진",
+      "published_at": "2026-11-13T13:55:14+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 인프라 전문기업 이모션웨이브(대표 장순철)가 일본에서 확장현실(XR) 기반 공간 미디어 플랫폼을 선보이고, 자체 인공지능(AI) 인프라 기술을 활용한 해외 사업 확대에 나섰다. 콘텐츠 제작과 처리, 서비스 운영을 연결하는 인공지능 인프라를 XR과 로보틱스 분야에 적용하는 것이 핵심이다.이모션웨이브는 지난 11일…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42730",
+          "title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진"
+        }
+      ]
+    },
+    {
+      "id": "ad83f8c3766bbc41d223",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "original_title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+      "published_at": "2026-11-13T12:52:19+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil",
+          "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil"
+        }
+      ]
+    },
+    {
+      "id": "a17f152d477fce8ebb46",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+      "title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "original_title": "Jensen Huang didn’t show confidence in his successor, report says",
+      "published_at": "2026-11-13T12:28:23+00:00",
+      "collected_at": "2026-11-13T21:13:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says",
+          "title": "Jensen Huang didn’t show confidence in his successor, report says"
+        }
+      ]
+    },
+    {
       "id": "bad76c026a7618e2597b",
       "url": "https://www.reuters.com/legal/transactional/how-anthropic-stacks-up-against-some-biggest-us-ipos-2026-11-12",
       "title": "How Anthropic stacks up against some of the biggest US IPOs",
@@ -3333,6 +4141,11 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
           "title": "The unfolding Jensen Huang scandal: a timeline"
+        },
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "title": "The unfolding Jensen Huang scandal: a timeline"
         }
       ]
     },
@@ -3576,14 +4389,14 @@
     {
       "id": "fd0e38b70a90d204adaa",
       "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
-      "title": "aws-emulator",
+      "title": "AWS, 로컬 테스트용 공식 에뮬레이터 'aws-emulator' 공개",
       "original_title": "aws-emulator",
       "published_at": "2026-11-11T21:18:30+00:00",
       "collected_at": "2026-11-11T21:46:02+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's…",
       "sources": [
         {
@@ -3591,7 +4404,16 @@
           "url": "https://simonwillison.net/2026/Nov/11/aws-emulator",
           "title": "aws-emulator"
         }
-      ]
+      ],
+      "summary": "AWS가 유료 API 키 없이 로컬에서 여러 서비스를 테스트할 수 있는 공식 에뮬레이터를 공개했다. 이 도구는 Rust로 작성됐으며 프로젝트 초기 3주 동안 29,684개의 커밋이 발생했다고 한다. Swaminathan (Swami) Sivasubramanian이 Werner Vogels의 블로그 게스트 포스트에서 개발 배경을 설명했고, 현재 macOS와 Windows에서는 Docker가 필요하다.",
+      "why_it_matters": "AWS 서비스 테스트에 유료 API 키가 필요했던 점을 고려하면, 공식 에뮬레이터는 개발자 접근성을 높일 수 있다. 다만 Docker 의존성은 향후 개선 과제로 남아 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-13T21:14:16+00:00",
+        "input_hash": "10a9921f0adf7ef9dad59011629fc61fdb9398b33a08349ba6b753784f7a7ecf",
+        "evidence_verified": true
+      }
     },
     {
       "id": "73f1d36e0bda7a613458",
