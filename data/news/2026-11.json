@@ -3,6 +3,421 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "a337e14be4d0e069d646",
+      "url": "https://whatwerun.dev/",
+      "title": "WhatWeRun, a database of real production AI agent stacks",
+      "original_title": "WhatWeRun, a database of real production AI agent stacks",
+      "published_at": "2026-11-14T19:42:04+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://whatwerun.dev/",
+          "title": "WhatWeRun, a database of real production AI agent stacks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50500086"
+        }
+      ]
+    },
+    {
+      "id": "33886b5fc6cc22adf456",
+      "url": "https://wojak-bench.dev.pion.dev/",
+      "title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+      "original_title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+      "published_at": "2026-11-14T19:33:22+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://wojak-bench.dev.pion.dev/",
+          "title": "Wojak-Bench 3D: Which AI is best at 3D printing?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50500018"
+        }
+      ]
+    },
+    {
+      "id": "6bbfe9a0f065b24ab84e",
+      "url": "https://github.com/dklymentiev/smart-node",
+      "title": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
+      "original_title": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
+      "published_at": "2026-11-14T19:17:50+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/dklymentiev/smart-node",
+          "title": "Show HN: Smart Node, a self-hosted crew of AI agents for a small business",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499898"
+        }
+      ]
+    },
+    {
+      "id": "2c090af5202945d1e494",
+      "url": "https://staysaasy.com/tactical-team-changes-from-ai",
+      "title": "Tactical Team Changes from AI",
+      "original_title": "Tactical Team Changes from AI",
+      "published_at": "2026-11-14T19:04:28+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://staysaasy.com/tactical-team-changes-from-ai",
+          "title": "Tactical Team Changes from AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499787"
+        }
+      ]
+    },
+    {
+      "id": "1ed0f1e720dfde0cd018",
+      "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
+      "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "original_title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+      "published_at": "2026-11-14T19:01:34+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.v0.net/converting-obsolete-sports-tech-into-ai-glasses-part-1",
+          "title": "Hacked 2013 Recon Jet sports glasses into a Linux camera/voice AI assistant",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499763"
+        }
+      ]
+    },
+    {
+      "id": "d82ca112f707ad1b623e",
+      "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+      "title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
+      "original_title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
+      "published_at": "2026-11-14T19:01:14+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Lauren Edmonds / Business Insider : A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+          "title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261114/p17"
+        }
+      ]
+    },
+    {
+      "id": "cd35a4b898631912305a",
+      "url": "https://epochai.substack.com/p/an-update-on-ais-most-important-number",
+      "title": "An update on AI's most important number",
+      "original_title": "An update on AI's most important number",
+      "published_at": "2026-11-14T18:53:22+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://epochai.substack.com/p/an-update-on-ais-most-important-number",
+          "title": "An update on AI's most important number",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499693"
+        }
+      ]
+    },
+    {
+      "id": "4f510c47256b7bb0e4e5",
+      "url": "https://terra-incognita.blog/posts/ode-to-qwen-3-8-flash-next",
+      "title": "Ode to Qwen 3.8 Flash Next",
+      "original_title": "Ode to Qwen 3.8 Flash Next",
+      "published_at": "2026-11-14T18:50:06+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://terra-incognita.blog/posts/ode-to-qwen-3-8-flash-next",
+          "title": "Ode to Qwen 3.8 Flash Next",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499652"
+        }
+      ]
+    },
+    {
+      "id": "36acf237ec95d084a886",
+      "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+      "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "original_title": "Thousands turn out in Edinburgh to protest against AI data centres",
+      "published_at": "2026-11-14T18:47:10+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bbc.co.uk/news/articles/c8n50w445zgpo",
+          "title": "Thousands turn out in Edinburgh to protest against AI data centres",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499627"
+        }
+      ]
+    },
+    {
+      "id": "46c55fe60ed7dc96dbad",
+      "url": "https://www.nikita-pavlichenko.com/blog/every-llm-architecture-change",
+      "title": "I Tried Every LLM Architecture Change Since 2020",
+      "original_title": "I Tried Every LLM Architecture Change Since 2020",
+      "published_at": "2026-11-14T18:41:54+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nikita-pavlichenko.com/blog/every-llm-architecture-change",
+          "title": "I Tried Every LLM Architecture Change Since 2020",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499588"
+        }
+      ]
+    },
+    {
+      "id": "85c189086e1961fe7c18",
+      "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+      "title": "Nvidia board urged to consider 'return of Jensen Huang' by two major investors",
+      "original_title": "Nvidia board urged to consider 'return of Jensen Huang' by two major investors",
+      "published_at": "2026-11-14T18:38:56+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+          "title": "Nvidia board urged to consider 'return of Jensen Huang' by two major investors",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499553"
+        }
+      ]
+    },
+    {
+      "id": "6f637d64a9d1e73ac3e8",
+      "url": "https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c",
+      "title": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
+      "original_title": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
+      "published_at": "2026-11-14T18:35:04+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "FinTech Global : Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://fintech.global/2026/11/13/databento-hits-1-1bn-valuation-with-100m-series-c",
+          "title": "Databento, which offers market data APIs and says it has contracts with five of the six largest frontier AI labs, raised a $100M Series C at a $1.1B valuation (FinTech Global)",
+          "discussion_url": "https://www.techmeme.com/261114/p16"
+        }
+      ]
+    },
+    {
+      "id": "575bbfa070b675e2d238",
+      "url": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
+      "title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
+      "original_title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
+      "published_at": "2026-11-14T18:33:37+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.techspot.com/news/114489-america-school-buses-becoming-ai-powered-ticket-machines.html",
+          "title": "AI School Bus Cameras Cash in on Drivers Who Fail to Stop",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499499"
+        }
+      ]
+    },
+    {
+      "id": "70097c72de443859f581",
+      "url": "https://github.com/noambrand/ai-time-estimator",
+      "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+      "original_title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+      "published_at": "2026-11-14T18:32:30+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/noambrand/ai-time-estimator",
+          "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50499487"
+        }
+      ]
+    },
+    {
+      "id": "95ba8521fd1acc68ba39",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "title": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
+      "original_title": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
+      "published_at": "2026-11-14T18:05:02+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Nathan Lambert / Interconnects AI : Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will ve…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+          "title": "Jensen Huang's resignation is a setback for US open models, as his funding gave open-source developers time to find their footing and will very likely dry up (Nathan Lambert/Interconnects AI)",
+          "discussion_url": "https://www.techmeme.com/261114/p15"
+        }
+      ]
+    },
+    {
+      "id": "238432e278b3a0376a6f",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it",
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it"
+        }
+      ]
+    },
+    {
+      "id": "db6ca16c4a17b4e226df",
+      "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension",
+      "title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "original_title": "Cursor confirms security breach led to malicious Claude Code extension",
+      "published_at": "2026-11-14T17:27:25+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastru…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension",
+          "title": "Cursor confirms security breach led to malicious Claude Code extension"
+        }
+      ]
+    },
+    {
+      "id": "299cfd655b5df2e69b8e",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "original_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "published_at": "2026-11-14T16:34:15+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+          "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
+        }
+      ]
+    },
+    {
+      "id": "29747eb081a8319e2b7d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+      "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+      "original_title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+      "published_at": "2026-11-14T10:19:23+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+          "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다"
+        }
+      ]
+    },
+    {
+      "id": "f95ccae0a03fdf2e2f22",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
+      "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+      "original_title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+      "published_at": "2026-11-14T10:16:46+00:00",
+      "collected_at": "2026-11-14T19:46:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아(NVIDIA)가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술을 공개했다. 인간과 로봇 사이의 관절 구조, 신체 비율, 가동 범위 차이를 보정해 사람의 동작 데이터를 로봇 제어 정책 학습에 활용할 수 있도록 지원하는 기술이다.사람의 행동을 학습해 실제 물리적 환경에서 움직이는 피…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
+          "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개"
+        }
+      ]
+    },
+    {
       "id": "50c68cc596242e266468",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
       "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
