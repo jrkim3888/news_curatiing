@@ -3,6 +3,764 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "50c68cc596242e266468",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
+      "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
+      "original_title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지",
+      "published_at": "2026-11-14T09:45:47+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "스콧 베선트 미국 재무장관이 엔비디아 AI 칩을 구매해 온 싱가포르 기업 메가스피드에 대한 수출 통제를 미뤄 온 상무부를 공개적으로 비판했다. 재무부 등 4개 정부 기관이 수개월 전부터 제재에 찬성했지만, 상무부가 조치를 취하지 않았다는 것이다. 젠슨 황 전 엔비디아 CEO의 퇴진 이후 하워드 러트닉 상무장관의 경질…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217411",
+          "title": "미 재무장관, 메가스피드 제재 지연에 상무부 공개 비판…러트닉 경질론까지"
+        }
+      ]
+    },
+    {
+      "id": "a05d28ea2c71289cec12",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/instead_of_collecting_dust_claude_makes_your_old",
+      "title": "Instead of collecting dust, Claude makes your old Kindle useful again",
+      "original_title": "Instead of collecting dust, Claude makes your old Kindle useful again",
+      "published_at": "2026-11-14T09:44:33+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reddit.com/r/ClaudeAI/comments/1xsk5k9/instead_of_collecting_dust_claude_makes_your_old",
+          "title": "Instead of collecting dust, Claude makes your old Kindle useful again",
+          "discussion_url": "https://news.ycombinator.com/item?id=50495568"
+        }
+      ]
+    },
+    {
+      "id": "3f989100c891483326bc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
+      "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
+      "original_title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
+      "published_at": "2026-11-14T09:43:42+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 인공지능 에이전트가 사용자를 대신해 온라인 상품을 구매하고 결제할 수 있는 전용 디지털 지갑 '챗GPT 월렛(ChatGPT Wallet)'을 13일(미국 현지시간) 공개했다.AI 에이전트가 사용자의 실제 카드번호에 접근하지 않고도 결제를 수행할 수 있도록 설계한 것이 핵심이다. 이용자는 구매할 때마다 생체…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
+          "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행"
+        }
+      ]
+    },
+    {
+      "id": "0c9691d97465096049b1",
+      "url": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust",
+      "title": "Backdooring LLMs – Do you trust your AI provider?",
+      "original_title": "Backdooring LLMs – Do you trust your AI provider?",
+      "published_at": "2026-11-14T09:20:54+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pgaleone.eu/ai/2026/11/14/backdooring-llms-and-trust",
+          "title": "Backdooring LLMs – Do you trust your AI provider?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50495440"
+        }
+      ]
+    },
+    {
+      "id": "4f3b0d131bbf8867326b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
+      "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
+      "original_title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
+      "published_at": "2026-11-14T08:56:54+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 전 CEO가 물러난 뒤 엔비디아 직원들 사이에서 그의 복귀를 요구하는 목소리가 나오고 있다. 이사회에 황의 거취를 결정할 때 직원들의 의견을 반영하라고 요구한 사내 게시물에는 1600개 이상의 댓글이 달렸다. 회사 밖에서도 복귀 청원이 시작됐으며, 일론 머스크 테슬라 CEO도 참여 의사를 밝혔다.와이어드는 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
+          "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개"
+        }
+      ]
+    },
+    {
+      "id": "a1c6408bec3cb6c564fb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217409",
+      "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
+      "original_title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
+      "published_at": "2026-11-14T08:37:48+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "일론 머스크 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 게시물을 올렸다. 앞서 황의 해임 가능성이 제기됐을 때는 그를 영입할 수 있다면 영광이라고 밝혔으나, 현재까지 실제 영입 제안이나 구체적인 계획이 알려진 것은 없다.머스크는 13일(현지시간) X에 영화의 한 장면을 공유하며 황 전 CEO에…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217409",
+          "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\""
+        }
+      ]
+    },
+    {
+      "id": "0e5f3f58ced925f36b4d",
+      "url": "https://www.nakedcapitalism.com/2026/11/jensen-huang-ouster-at-nvidia-bigger-governance-and-coming-financial-train-wreck-than-hank-greenberg-exit-from-aig.html",
+      "title": "Jensen Huang Ouster at Nvidia:Bigger Governance and Coming Financial Train Wreck",
+      "original_title": "Jensen Huang Ouster at Nvidia:Bigger Governance and Coming Financial Train Wreck",
+      "published_at": "2026-11-14T08:15:40+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nakedcapitalism.com/2026/11/jensen-huang-ouster-at-nvidia-bigger-governance-and-coming-financial-train-wreck-than-hank-greenberg-exit-from-aig.html",
+          "title": "Jensen Huang Ouster at Nvidia:Bigger Governance and Coming Financial Train Wreck",
+          "discussion_url": "https://news.ycombinator.com/item?id=50495125"
+        }
+      ]
+    },
+    {
+      "id": "954524411dd232801206",
+      "url": "https://gammapdf.com/",
+      "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+      "original_title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+      "published_at": "2026-11-14T08:08:11+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://gammapdf.com/",
+          "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+          "discussion_url": "https://news.ycombinator.com/item?id=50495073"
+        }
+      ]
+    },
+    {
+      "id": "3f34d897f05e2afc8186",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
+      "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
+      "original_title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\"",
+      "published_at": "2026-11-14T08:03:50+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 전 CEO의 후임을 찾고 있는 엔비디아가 영국 반도체 설계 기업 Arm의 르네 하스 CEO와 접촉한 것으로 알려졌다. 그러나 엔비디아 이사회는 아직 어떤 후보와도 공식적으로 접촉하지 않았으며, 외부 헤드헌팅 업체를 선정하는 단계라고 밝혔다.파이낸셜타임스(FT)는 13일(현지시간) 복수의 소식통을 인용, 엔비…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217407",
+          "title": "엔비디아, 차기 CEO로 Arm 하스 접촉설…이사회 \"공식 접촉 아직 없어\""
+        }
+      ]
+    },
+    {
+      "id": "214bdfc400dc6bd0470e",
+      "url": "https://www.whatstask.com/",
+      "title": "WhatsTask – An AI project manager for teams of people and agents",
+      "original_title": "WhatsTask – An AI project manager for teams of people and agents",
+      "published_at": "2026-11-14T07:57:04+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.whatstask.com/",
+          "title": "WhatsTask – An AI project manager for teams of people and agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50495004"
+        }
+      ]
+    },
+    {
+      "id": "f34ddd3c64935e20336d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+      "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+      "original_title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나",
+      "published_at": "2026-11-14T07:49:31+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO가 대규모 AI 투자에 제동을 걸었던 콜레트 크레스 최고재무책임자(CFO)를 회의에서 공개적으로 깎아내렸던 사실이 드러났다. 황의 공격적인 투자 전략을 견제해 온 크레스가 임시 CEO에 오르면서, 엔비디아의 AI 산업 투자 방식에도 변화가 생길지 주목된다.월스트리트저널(WSJ)과 로이터는 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217406",
+          "title": "젠슨 황 투자에 제동 걸었던 CFO가 후임으로…엔비디아 전략 바뀌나"
+        }
+      ]
+    },
+    {
+      "id": "f0c5577b126279a7371c",
+      "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277",
+      "title": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
+      "original_title": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
+      "published_at": "2026-11-14T07:30:08+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Eleanor Olcott / Financial Times : Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-su…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277",
+          "title": "Sources: despite Nvidia's 20+ years of business in China, Jensen Huang struggled to gain access to policymakers driving Beijing's chip self-sufficiency campaign (Eleanor Olcott/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261114/p7"
+        }
+      ]
+    },
+    {
+      "id": "bc3657725c2462044ee9",
+      "url": "https://research.nvidia.com/labs/gear/gr00t-2",
+      "title": "GR00T 2: new World-Action Model (WAM) from Nvidia",
+      "original_title": "GR00T 2: new World-Action Model (WAM) from Nvidia",
+      "published_at": "2026-11-14T07:06:50+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://research.nvidia.com/labs/gear/gr00t-2",
+          "title": "GR00T 2: new World-Action Model (WAM) from Nvidia",
+          "discussion_url": "https://news.ycombinator.com/item?id=50494742"
+        }
+      ]
+    },
+    {
+      "id": "3a65ea3636b97874d234",
+      "url": "https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m",
+      "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+      "original_title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+      "published_at": "2026-11-14T07:02:17+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Lucinda Shen / Axios : Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation — …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/pro/all-deals/2026/11/10/private-equity-due-diligence-ai-operand-31m",
+          "title": "Operand, which offers AI-powered due diligence tools for PE firms, raised $31M across a seed and a Series A led by Khosla Ventures at a $220M valuation (Lucinda Shen/Axios)",
+          "discussion_url": "https://www.techmeme.com/261114/p6"
+        }
+      ]
+    },
+    {
+      "id": "b9bf3c5cb3e2ae73c25d",
+      "url": "https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11",
+      "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+      "original_title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+      "published_at": "2026-11-14T06:55:00+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Alice Tecotzky / Business Insider : WhiteMatter, which builds “guardian” AI agents to oversee file access, software use, decision making, and actions of existing AI agents, rais…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/whitematter-startup-ai-agent-cybersecurity-funding-pitch-deck-2026-11",
+          "title": "WhiteMatter, which builds \"guardian\" AI agents to oversee file access, software use, decision making, and actions of existing AI agents, raised a $20M Series A (Alice Tecotzky/Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261114/p5"
+        }
+      ]
+    },
+    {
+      "id": "50454fac94dacab877d9",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217405",
+      "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
+      "original_title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
+      "published_at": "2026-11-14T06:53:09+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "말레이시아 정부가 싱가포르 클라우드 컴퓨팅 기업 메가스피드의 현지 계열사가 수입한 엔비디아 AI 칩의 재수출 여부를 조사하고 있다. 젠슨 황 전 엔비디아 CEO와 관련된 의혹으로 주목받은 메가스피드가 미국의 반도체 수출 통제를 우회하는 데 활용됐을 가능성이 제기되자, 말레이시아 정부도 직접 칩 유통 경로 확인에 나선…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217405",
+          "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수"
+        }
+      ]
+    },
+    {
+      "id": "9e5b697eb692c8dc97cf",
+      "url": "https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools",
+      "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+      "original_title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+      "published_at": "2026-11-14T06:35:00+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Jessica Hagen / MobiHealthNews : Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.mobihealthnews.com/news/charta-health-raises-55m-launches-new-ai-coding-tools",
+          "title": "Charta Health, which offers AI-powered tools to automate medical chart review, billing, and coding workflows, raised a $55M Series B led by Insight Partners (Jessica Hagen/MobiHealthNews)",
+          "discussion_url": "https://www.techmeme.com/261114/p4"
+        }
+      ]
+    },
+    {
+      "id": "852e2dbb309992588946",
+      "url": "https://www.axios.com/pro/enterprise-software-deals/2026/11/12/luminal-inference-standard-software",
+      "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+      "original_title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+      "published_at": "2026-11-14T06:30:09+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Chris Metinko / Axios : Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/pro/enterprise-software-deals/2026/11/12/luminal-inference-standard-software",
+          "title": "Luminal, which provides an inference cloud and develops inference compiler software to test running AI models on different chips, raised a $25M Series A (Chris Metinko/Axios)",
+          "discussion_url": "https://www.techmeme.com/261114/p3"
+        }
+      ]
+    },
+    {
+      "id": "ed78271209b1fab1d5f0",
+      "url": "https://posthog.com/newsletter/decision-models",
+      "title": "Not Everything Needs an LLM",
+      "original_title": "Not Everything Needs an LLM",
+      "published_at": "2026-11-14T06:25:03+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://posthog.com/newsletter/decision-models",
+          "title": "Not Everything Needs an LLM",
+          "discussion_url": "https://news.ycombinator.com/item?id=50494554"
+        }
+      ]
+    },
+    {
+      "id": "d13f0bfaa3231ba817b8",
+      "url": "https://blog.dfb.sh/blog/claude-desktop-freeze",
+      "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
+      "original_title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
+      "published_at": "2026-11-14T06:21:16+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.dfb.sh/blog/claude-desktop-freeze",
+          "title": "A 27-byte telemetry response nobody reads freezes Claude Desktop every two days",
+          "discussion_url": "https://news.ycombinator.com/item?id=50494540"
+        }
+      ]
+    },
+    {
+      "id": "da0ed1bcb2a319a38913",
+      "url": "https://nelson.cloud/ai-productivity-gains-mainly-benefit-people-at-the-top",
+      "title": "AI Productivity Gains Mainly Benefit People at the Top",
+      "original_title": "AI Productivity Gains Mainly Benefit People at the Top",
+      "published_at": "2026-11-14T06:19:36+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nelson.cloud/ai-productivity-gains-mainly-benefit-people-at-the-top",
+          "title": "AI Productivity Gains Mainly Benefit People at the Top",
+          "discussion_url": "https://news.ycombinator.com/item?id=50494531"
+        }
+      ]
+    },
+    {
+      "id": "b36f91a6e516e6138291",
+      "url": "https://www.thedailybeast.com/faa-abruptly-grounds-all-flights-for-first-time-since-911",
+      "title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
+      "original_title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
+      "published_at": "2026-11-14T06:19:17+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.thedailybeast.com/faa-abruptly-grounds-all-flights-for-first-time-since-911",
+          "title": "Every Flight Is Grounded on Day Trump Admin Installed AI Controls",
+          "discussion_url": "https://news.ycombinator.com/item?id=50494529"
+        }
+      ]
+    },
+    {
+      "id": "1ed9930afbfb87e41306",
+      "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&sharetype=gift&syn-25a6b1a6=1&token=b0dedc93-80dc-4cab-9250-cec64180d7fc",
+      "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+      "original_title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+      "published_at": "2026-11-14T04:25:01+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "George Hammond / Financial Times : Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?accessToken=zwAAAaHXmcQWkc8O9ArJbQFCj9OYyKUr9bmnhw.MEUCIQChqOl_k9HApdPHOKLDMT_XgOSL9uzUNp5vNQx_0RjyjwIgKpngmKzpF9b6-aERSa1zq2_8NXAvr8S-I-gZ6-r8rSE&sharetype=gift&syn-25a6b1a6=1&token=b0dedc93-80dc-4cab-9250-cec64180d7fc",
+          "title": "Analysis: Sam Bankman-Fried's $500M Anthropic investment in 2021 would be worth ~$37B if Anthropic lists at ~$1.5T; he relinquished his stake in 2024 for ~$1.3B (George Hammond/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261113/p42"
+        }
+      ]
+    },
+    {
+      "id": "68ca1dfabc472cb2d33a",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
+      "original_title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
+      "published_at": "2026-11-14T03:10:01+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dan Mangan / CNBC : US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi — …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+          "title": "US officials say Trump is not expected to raise allegations of a Chinese intelligence operation involving Jensen Huang during his upcoming meeting with Xi (Dan Mangan/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261113/p40"
+        }
+      ]
+    },
+    {
+      "id": "46e7d83519f12509c8ab",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+      "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
+      "original_title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견",
+      "published_at": "2026-11-14T02:18:31+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "딥시크와 문샷 AI 등 중국 주요 AI 기업들이 미국의 수출 통제를 받는 엔비디아 최신 '블랙웰' GPU를 AI 모델 개발에 사용한 정황이 발견됐다. 공개된 모델 가중치에서 블랙웰 특유의 숫자 배열을 찾아낸 것으로, 중국 기업들의 첨단 GPU 사용 의혹을 뒷받침하는 구체적인 기술적 증거가 제시됐다.비영리 연구단체 언…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+          "title": "딥시크·문샷 등 중국 4개사, 수출 통제 '블랙웰' 사용 흔적 발견"
+        }
+      ]
+    },
+    {
+      "id": "4844631389314c2322eb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217392",
+      "title": "[기고] AI 시대, ‘검색되는 브랜드’에서 ‘추천되는 브랜드’로",
+      "original_title": "[기고] AI 시대, ‘검색되는 브랜드’에서 ‘추천되는 브랜드’로",
+      "published_at": "2026-11-14T02:15:00+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "생성 AI의 확산은 기업의 업무 방식뿐 아니라 소비자가 제품과 브랜드를 탐색하는 방식까지 바꾸고 있다.포털이나 이커머스 플랫폼에서 키워드를 검색하고 여러 결과를 직접 비교하던 과정에 AI에게 자신의 상황과 조건을 설명하고 적합한 제품을 제안받는 방식이 더해지고 있다.AI 마케팅 솔루션 기업의 전략을 총괄하는 입장에서…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217392",
+          "title": "[기고] AI 시대, ‘검색되는 브랜드’에서 ‘추천되는 브랜드’로"
+        }
+      ]
+    },
+    {
+      "id": "579aa129bfed87fd3cd5",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+      "original_title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+      "published_at": "2026-11-14T01:55:00+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dwarkesh Patel / Dwarkesh Podcast : AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.dwarkesh.com/p/rsi",
+          "title": "AI's impact on math is a preview of what AI will do to AI research, with AI matching top human researchers potentially just a couple of years away (Dwarkesh Patel/Dwarkesh Podcast)",
+          "discussion_url": "https://www.techmeme.com/261113/p38"
+        }
+      ]
+    },
+    {
+      "id": "00e56ff66f7842afc94c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+      "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
+      "original_title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
+      "published_at": "2026-11-14T01:53:41+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "앤트로픽의 기업공개(IPO)에서 중국 본토와 홍콩 기관투자자들이 공모주를 배정받기 어려운 것으로 알려졌다. 미국의 방산 기술 수출 통제 규정이 제한 근거로 거론되면서, 미국과 중국의 AI 기술 경쟁이 첨단 AI 기업의 투자 시장에도 영향을 미치고 있다.블룸버그는 13일(현지시간) 소식통들을 인용해 일부 투자은행이 앤…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+          "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향"
+        }
+      ]
+    },
+    {
+      "id": "0413df98e5c1943a54d2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+      "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+      "original_title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시",
+      "published_at": "2026-11-14T01:41:50+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제까지 처리할 수 있는 '챗GPT 월렛(ChatGPT Wallet)'을 출시했다. 실제 카드번호를 AI에 노출하지 않고 사용자의 생체인증을 거쳐 결제하는 방식으로, 기존 쇼핑몰의 결제 시스템을 그대로 활용해 AI 에이전트 기반 상거래 시장을 공략한다.오픈A…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+          "title": "오픈AI, AI 에이전트가 대신 결제하는 '챗GPT 월렛' 출시"
+        }
+      ]
+    },
+    {
+      "id": "ec3aa9c7eef8271c77ba",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217404",
+      "title": "[AI 이슈트렌드] 젠슨 황 퇴진 쇼크 속 트럼프 행보·앤트로픽 개인정보 유출 등 화제",
+      "original_title": "[AI 이슈트렌드] 젠슨 황 퇴진 쇼크 속 트럼프 행보·앤트로픽 개인정보 유출 등 화제",
+      "published_at": "2026-11-14T01:27:42+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI타임스와 이스트에이드의 11월 둘째 주(11월6~12일) 이슈 분석 결과, 젠슨 황 엔비디아 CEO의 퇴진과 잇따른 강력 사건을 비롯해 트럼프 대통령의 중간선거 이후 행보 등이 상위권을 차지했다.이번 주 검색량 1위는 '젠슨황 불륜 조사(4.81%)'가 차지했다. 젠슨 황 엔비디아 CEO가 불륜 논란과 중국 스파…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217404",
+          "title": "[AI 이슈트렌드] 젠슨 황 퇴진 쇼크 속 트럼프 행보·앤트로픽 개인정보 유출 등 화제"
+        }
+      ]
+    },
+    {
+      "id": "a68e6ed598e85f336317",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217399",
+      "title": "스페이스X, 영상 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중",
+      "original_title": "스페이스X, 영상 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중",
+      "published_at": "2026-11-14T01:15:28+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "스페이스X가 이미지·영상 생성 AI '그록 이매진(Grok Imagine)' 개발팀 대부분을 해고했다. 오픈AI가 영상 생성 서비스 '소라'를 종료한 데 이어 머스크의 AI 사업도 코딩과 에이전트에 자원을 집중하면서, 미국 주요 AI 기업들의 사업 우선순위가 바뀌고 있다.디 인포메이션은 13일(현지시간) 소식통들을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217399",
+          "title": "스페이스X, 영상 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중"
+        }
+      ]
+    },
+    {
+      "id": "67378abffdf60e95969d",
+      "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13",
+      "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
+      "original_title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
+      "published_at": "2026-11-14T01:15:03+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Greg Bensinger / Reuters : Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling riva…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/business/media-telecom/amazons-plan-own-worlds-product-data-fight-ai-shopping-agents-2026-11-13",
+          "title": "Doc: Amazon, wary of AI agents favoring sites with better data, plans to gather data on nearly every product sold anywhere, including by crawling rivals' sites (Greg Bensinger/Reuters)",
+          "discussion_url": "https://www.techmeme.com/261113/p37"
+        }
+      ]
+    },
+    {
+      "id": "51622fc80a1767f9a9c1",
+      "url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14",
+      "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
+      "original_title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
+      "published_at": "2026-11-14T01:00:12+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang — Former N…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/china/ex-nvidia-ceo-misled-top-lawyer-affair-with-chinese-businesswoman-sources-say-2026-11-14",
+          "title": "Sources and messages: Jensen Huang misled several Nvidia leaders, including general counsel Tim Teter, about the nature of his relationship with Alice Huang (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261113/p36"
+        }
+      ]
+    },
+    {
+      "id": "9d694fa95af0cfaecf52",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "original_title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "published_at": "2026-11-13T22:43:00+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say",
+          "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say"
+        }
+      ]
+    },
+    {
+      "id": "fbc50dc6203beec2f155",
+      "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas",
+      "title": "NVIDIA cuBLAS, FP64 정확도 유지하는 새 알고리즘으로 DGEMM·ZGEMM 가속",
+      "original_title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS",
+      "published_at": "2026-11-13T22:13:51+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Many scientific simulations, from molecular chemistry to materials science, spend the majority of their execution time computing high-precision dense general... Many scientific …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/faster-scientific-simulations-with-new-fp64-algorithms-in-nvidia-cublas",
+          "title": "Faster Scientific Simulations with New FP64 Algorithms in NVIDIA cuBLAS"
+        }
+      ],
+      "summary": "NVIDIA가 CUDA Toolkit 13.4.2의 cuBLAS에 FP64 정확도를 유지하면서 Tensor Core를 활용하는 새로운 알고리즘을 도입했다. Ozaki-II는 DGEMM을, 2M은 ZGEMM을 가속하며, 양자화학 CCSD와 재료과학 BerkeleyGW 응용에서 속도 향상을 보였다고 발표했다. cuBLAS는 응용 코드 변경 없이 자동 가속을 제공한다고 한다.",
+      "why_it_matters": "FP64 정확도를 유지하면서 Tensor Core를 활용해 과학 시뮬레이션의 주요 병목인 DGEMM과 ZGEMM을 가속하려는 시도로, HPC 응용의 성능 향상 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-14T09:52:29+00:00",
+        "input_hash": "e70cb25d36ff6b8679cf8b53d0a5b2007e4de55dec5e67c761707e3541ddd9f4",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "8fc5d8ced20e6bdd730b",
+      "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton",
+      "title": "NVIDIA cuPhoton.xBeam, GPU로 전파 간섭계 상관 처리 가속",
+      "original_title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton",
+      "published_at": "2026-11-13T21:17:17+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Imaging black holes is challenging because they are distant and appear tiny in the sky—for example, M87*’s observed ring spans just 42 microarcseconds. The... Imaging black hole…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/run-gpu-powered-black-hole-interferometry-with-nvidia-cuphoton",
+          "title": "Run GPU-Powered Black Hole Interferometry with NVIDIA cuPhoton"
+        }
+      ],
+      "summary": "NVIDIA는 블로그를 통해 GPU 기반 전파 간섭계 상관기인 cuPhoton.xBeam을 소개했다. 이 도구는 전파 망원경 기록을 읽어 가시도(visibility)를 생성하고, 여러 GPU로 확장할 수 있으며, 하버드-스미소니언 천체물리학 센터 및 MIT 헤이스택 천문대와 협력해 개발됐다. NVIDIA에 따르면 Vera Rubin NVL72 시스템(64 GPU, GPUDirect Storage 호환 모드)에서 10TB 데이터셋을 70초에 처리해 x86 CPU 기준(31,992초) 대비 약 460배 빨랐다.",
+      "why_it_matters": "차세대 블랙홀 관측(ngEHT)은 페타바이트급 데이터를 다뤄야 하므로, GPU 가속 상관 처리는 관측 데이터 처리 시간을 단축해 실시간에 가까운 분석 가능성을 높일 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-14T09:52:26+00:00",
+        "input_hash": "597bcf01ac3db49fd7b299e7a24c180c1911151fbaec126ce8145fca35660b69",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "0ea09bcc4df5a16efed5",
       "url": "https://github.com/cloudflare/kitesurf",
       "title": "Kitesurf now open source – Cloudflare's agentic browser on Dioxus Blitz",
@@ -1270,6 +2028,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217369",
           "title": "오픈AI, 아스트라 '노-CoT' 능력 향상 확인…AI 추론 감시 한계 드러나"
+        }
+      ]
+    },
+    {
+      "id": "a99dfdd20d85acbbb850",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "original_title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "published_at": "2026-11-13T08:00:00+00:00",
+      "collected_at": "2026-11-14T09:52:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "title": "Shield helps technicians hand off legacy portal work with OpenAI"
         }
       ]
     },
