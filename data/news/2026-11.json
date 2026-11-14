@@ -753,14 +753,14 @@
     {
       "id": "f5e5ad20de032496fc3f",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42730",
-      "title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진",
+      "title": "이모션웨이브, 일본 XR 페어에서 공간 미디어 플랫폼 나루 공개",
       "original_title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진",
       "published_at": "2026-11-13T13:55:14+00:00",
       "collected_at": "2026-11-13T21:13:55+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "AI 인프라 전문기업 이모션웨이브(대표 장순철)가 일본에서 확장현실(XR) 기반 공간 미디어 플랫폼을 선보이고, 자체 인공지능(AI) 인프라 기술을 활용한 해외 사업 확대에 나섰다. 콘텐츠 제작과 처리, 서비스 운영을 연결하는 인공지능 인프라를 XR과 로보틱스 분야에 적용하는 것이 핵심이다.이모션웨이브는 지난 11일…",
       "sources": [
         {
@@ -768,7 +768,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42730",
           "title": "이모션웨이브, AI 기반 공간 미디어 플랫폼 공개…日, XR·로보틱스 시장 진출 추진"
         }
-      ]
+      ],
+      "summary": "이모션웨이브가 일본 마쿠하리 멧세에서 열린 2026 도쿄 XR 페어에 참가해 리마엔터테인먼트와 공동으로 애플 비전 프로 기반 공간 미디어 플랫폼 나루를 소개했습니다. 나루의 기반 기술은 이모션웨이브가 자체 개발한 AI 인프라 솔루션 에임플입니다. 회사는 야마하와 니혼 XR 센터 등 현지 기업들과 비즈니스 미팅을 진행했지만, 구체적인 공동 개발 계약이나 상용화 성과는 발표되지 않았습니다.",
+      "why_it_matters": "AI 인프라 기술을 XR과 로보틱스 분야에 적용해 해외 시장으로 확대하려는 시도지만, 아직 구체적인 성과로 이어졌는지는 확인되지 않았습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-14T01:39:27+00:00",
+        "briefing_day": "2026-11-14",
+        "input_hash": "baca76d2c6605051cb486bedc323d166c99a5c20497408f196059b4eca197fdc",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ad83f8c3766bbc41d223",
@@ -1023,14 +1033,14 @@
     {
       "id": "8531aa74ef8de480b8bf",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
-      "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
+      "title": "MS 365 장애로 전 세계 업무 차질, 챗GPT·클로드 연동도 오류",
       "original_title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향",
       "published_at": "2026-11-13T09:44:26+00:00",
       "collected_at": "2026-11-13T10:38:33+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "마이크로소프트(MS)의 기업용 서비스에서 대규모 장애가 발생해 전 세계 정부 기관과 기업들이 업무에 차질을 빚었다. 이메일과 협업 도구뿐 아니라 '챗GPT'와 '클로드'의 업무 연동 기능까지 영향받았으며, MS가 복구 작업을 진행하고 있지만 일부 서비스의 장애는 하루 가까이 이어지고 있다.로이터와 AP 등에 따르면 …",
       "sources": [
         {
@@ -1038,7 +1048,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217394",
           "title": "MS 365 전 세계 장애…정부·기업 업무 차질에 챗GPT·클로드도 영향"
         }
-      ]
+      ],
+      "summary": "마이크로소프트의 아웃룩과 팀즈, 코파일럿 등 MS 365 서비스에서 대규모 접속 장애가 발생해 전 세계 정부 기관과 기업의 업무가 차질을 빚었습니다. 오픈AI와 앤트로픽도 각각 챗GPT와 클로드의 MS 365 연결 기능에서 오류가 발생했다고 공지했습니다. 마이크로소프트는 일부 서버가 자동 점검에 실패해 과부하가 발생했다며 복구 작업을 진행 중이라고 밝혔습니다.",
+      "why_it_matters": "AI 에이전트가 이메일과 일정 등 외부 업무 시스템에 연결돼 작동하는 방식이 늘면서, 연결된 서비스의 안정성이 AI 활용의 전제 조건이 되고 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-14T01:39:27+00:00",
+        "briefing_day": "2026-11-14",
+        "input_hash": "19b1fe077d43bf46d1ccc0cb436cc80655f734b7793dc5bb0893dc6e823249a2",
+        "evidence_verified": true
+      }
     },
     {
       "id": "308de43db55dc9042c9d",
@@ -1106,14 +1126,14 @@
     {
       "id": "3d6a725497aaa99de15a",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217360",
-      "title": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용",
+      "title": "구글, 검색에 제미나이 4 하이드로젠 전면 적용",
       "original_title": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용",
       "published_at": "2026-11-13T09:17:42+00:00",
       "collected_at": "2026-11-13T10:38:33+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "구글이 전 세계 검색 서비스에 최신 모델 '제미나이 4 하이드로젠(Gemini 4 Hydrogen)'을 적용하고, 여러 조건이 섞인 복잡한 질문에도 정확하게 답하도록 기능을 강화했다. 이번 업데이트를 \"검색에 적용한 역대 최대 규모의 모델 업그레이드\"라고 강조하며, 이용자의 검색 의도를 파악하고 관련 웹사이트와 이미…",
       "sources": [
         {
@@ -1121,7 +1141,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217360",
           "title": "구글 \"검색 역대 최대 AI 모델 업그레이드\"…최신 '하이드로젠' 적용"
         }
-      ]
+      ],
+      "summary": "구글이 전 세계 검색 서비스에 최신 모델 제미나이 4 하이드로젠을 적용하고 복잡한 질문 처리 능력을 강화했다고 발표했습니다. 하이드로젠은 AI 모드의 기본 모델로 적용됐으며, 여러 조건이 섞인 질문에도 관련 웹사이트와 이미지, 비교표를 함께 제공합니다. 구글은 이번 업데이트를 검색에 적용한 역대 최대 규모의 모델 업그레이드라고 강조했습니다.",
+      "why_it_matters": "검색의 기본 모델이 교체되면서 이용자가 여러 차례 검색어를 바꾸거나 웹사이트를 직접 비교해야 했던 작업이 한 번의 질문으로 처리될 수 있게 됐습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-14T01:39:27+00:00",
+        "briefing_day": "2026-11-14",
+        "input_hash": "e667879cd8b5e1dcb276a672aadfc86d5c751581259f89666b5a3e28fadc1d9f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "64edba175739e45b5bb4",
@@ -1152,8 +1182,8 @@
       "collected_at": "2026-11-13T10:38:33+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "KMS랩이 자체 개발한 온프레미스 AI 풀스택으로 포스코의 차세대 전사 포털 시스템 구축 사업을 수주하고 1차 시스템 오픈을 완료했다. 26년간 축적한 데이터 처리 기술과 정부의 GPU 지원을 바탕으로 AI 솔루션을 개발·고도화했으며, 7개월간의 기술 검증을 거쳐 대규모 기업 환경에 적용했다. CES 2027 AI …",
       "sources": [
         {
@@ -1161,7 +1191,17 @@
           "url": "https://byline.network/2026/11/1113-10",
           "title": "KMS랩, 포스코 차세대 포털에 온프레미스 AI 공급"
         }
-      ]
+      ],
+      "summary": "KMS랩이 자체 개발한 온프레미스 AI 풀스택을 포스코의 차세대 전사 포털 시스템에 공급했다고 밝혔습니다. 포스코는 중소기업 제품 도입에 따른 위험 부담을 우려해 7개월간 사전 기술 검증을 진행했으며, KMS랩은 과학기술정보통신부의 그래픽처리장치 지원 사업을 활용해 인프라 비용 부담을 줄였다고 설명했습니다.",
+      "why_it_matters": "사내 정보 유출 우려로 클라우드 AI 도입을 주저하는 대기업에 국내 중소기업의 설치형 AI가 대안으로 제시됐다는 점에서 의미가 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-14T01:39:27+00:00",
+        "briefing_day": "2026-11-14",
+        "input_hash": "89f2464e6dfa30f53f2069dcb620aa0ca00991cc53525d66d7c7a95717c0e9bb",
+        "evidence_verified": true
+      }
     },
     {
       "id": "d25a3c7fc06dba47412e",
@@ -1186,14 +1226,14 @@
     {
       "id": "b5d7939daf40fb4d848f",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42728",
-      "title": "구글 박사 펠로우십, 세계 38개국 AI 연구자 148명에 1,300만달러 지원…한국, KAIST·서울대·POSTECH 연구자 3명 선정",
+      "title": "구글 박사 펠로우십, 한국 연구자 3명 포함 148명 선정",
       "original_title": "구글 박사 펠로우십, 세계 38개국 AI 연구자 148명에 1,300만달러 지원…한국, KAIST·서울대·POSTECH 연구자 3명 선정",
       "published_at": "2026-11-13T08:22:56+00:00",
       "collected_at": "2026-11-13T10:38:33+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "구글이 전 세계 38개국의 인공지능(AI) 및 컴퓨터과학 분야 박사과정 연구자 148명을 새롭게 선정하고, 총 1,300만달러(약 174억원) 규모의 연구 지원에 나선다.AI 기초이론과 차세대 컴퓨팅 기술뿐 아니라 의료, 기후변화, 식량 안보, 정보 접근성 등 사회적 과제를 해결하는 연구를 폭넓게 지원한다. 한국에서…",
       "sources": [
         {
@@ -1201,7 +1241,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42728",
           "title": "구글 박사 펠로우십, 세계 38개국 AI 연구자 148명에 1,300만달러 지원…한국, KAIST·서울대·POSTECH 연구자 3명 선정"
         }
-      ]
+      ],
+      "summary": "구글이 전 세계 38개국의 AI 및 컴퓨터과학 분야 박사과정 연구자 148명을 선정하고 총 1,300만달러 규모의 연구 지원에 나선다고 밝혔습니다. 한국에서는 한국과학기술원과 서울대학교, 포항공과대학교 소속 연구자 3명이 선정됐습니다. 선정자에게는 연구비와 컴퓨팅 자원, 구글 연구진과의 교류 기회가 제공됩니다.",
+      "why_it_matters": "특정 소수 대학에 수혜자가 집중되기보다 세계 여러 지역의 연구기관에 지원이 분산됐고, 지원 분야도 기후와 보건, 접근성 등으로 확대됐습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-14T01:39:27+00:00",
+        "briefing_day": "2026-11-14",
+        "input_hash": "f779008c89491b17de7f991a8cb35bbb2c5fdcf5551bac72a027053c8e283d7e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "eb8737794599fe81a692",
