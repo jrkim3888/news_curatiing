@@ -3,6 +3,538 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "df3608744c34bc608a5f",
+      "url": "https://adlrocha.substack.com/p/adlrocha-most-of-ai-moats-are-just",
+      "title": "Most of AI moats are just fuel",
+      "original_title": "Most of AI moats are just fuel",
+      "published_at": "2026-11-15T10:06:16+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://adlrocha.substack.com/p/adlrocha-most-of-ai-moats-are-just",
+          "title": "Most of AI moats are just fuel",
+          "discussion_url": "https://news.ycombinator.com/item?id=50505606"
+        }
+      ]
+    },
+    {
+      "id": "e365fdaf8e7432e0b4d7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217423",
+      "title": "[기고] 채점이 편한 시험은 AI에도 편하다",
+      "original_title": "[기고] 채점이 편한 시험은 AI에도 편하다",
+      "published_at": "2026-11-15T09:59:15+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "몇 년을 준비해도 붙기 어려운 시험이 있다. 올해 제63회 세무사 1차 시험에서 세법학개론을 본 1만 6856명은 평균 30.18점을 받았다.이 과목 만점자이자 수석 합격자인 A씨가 2026년 11월15일 부정행위를 자백하고, 경찰에 자수했다.자백에 따르면 초소형 카메라가 시험 문제를 찍었고, 생성 AI가 답을 만들…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217423",
+          "title": "[기고] 채점이 편한 시험은 AI에도 편하다"
+        }
+      ]
+    },
+    {
+      "id": "baf7c1e911861764edbf",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+      "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+      "original_title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+      "published_at": "2026-11-15T09:52:53+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "제63회 세무사 시험 수석 합격자가 초소형 카메라와 생성 AI를 이용해 부정행위를 저질렀다고 자백했다. 세무사 1·2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방법을 사용했다고 인정하고 경찰에 자수했다.세무사 시험 수석 합격자 A씨는 15일 이돈호 법무법인 노바 대표변호사의 유튜브 채널에 출연해 \"저는 세무사…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
+          "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백"
+        }
+      ]
+    },
+    {
+      "id": "fa86f7bea1a5e6ab5963",
+      "url": "https://github.com/khoadev-vn/VANTAGE-V-AI",
+      "title": "Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
+      "original_title": "Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
+      "published_at": "2026-11-15T09:50:15+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/khoadev-vn/VANTAGE-V-AI",
+          "title": "Show HN: Vantage-V-AI – 2-bit ternary KV-cache with attention sinks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50505516"
+        }
+      ]
+    },
+    {
+      "id": "822daa4faf73c60900f2",
+      "url": "https://hntrbrk.com/investigations/nvidia",
+      "title": "A comprehensive guide to the bank of Nvidia",
+      "original_title": "A comprehensive guide to the bank of Nvidia",
+      "published_at": "2026-11-15T09:26:06+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hntrbrk.com/investigations/nvidia",
+          "title": "A comprehensive guide to the bank of Nvidia",
+          "discussion_url": "https://news.ycombinator.com/item?id=50505376"
+        }
+      ]
+    },
+    {
+      "id": "598320201559bb16da04",
+      "url": "https://inlevel9.com/en/issues/top-score-under-suspicion",
+      "title": "Korea's top tax accountant exam scorer confesses to cheating with AI",
+      "original_title": "Korea's top tax accountant exam scorer confesses to cheating with AI",
+      "published_at": "2026-11-15T09:18:35+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://inlevel9.com/en/issues/top-score-under-suspicion",
+          "title": "Korea's top tax accountant exam scorer confesses to cheating with AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50505336"
+        }
+      ]
+    },
+    {
+      "id": "9690cf29249cefb33545",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+      "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+      "original_title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+      "published_at": "2026-11-15T08:00:00+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의록, 구글 미트에 연동된 서비스까지 사내 데이터베이스에 남지 않던 사람 간 대화를 자산화하려는 시도가 잇따르고 있다.치열…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
+          "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성"
+        }
+      ]
+    },
+    {
+      "id": "5563e58ab9d8c3633170",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217424",
+      "title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급",
+      "original_title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급",
+      "published_at": "2026-11-15T07:55:00+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "KT(대표 박윤영)는 AI 기반 화재안전 서비스 ‘세이프메이트(Safemate)’를 인천 남동국가산업단지에 적용했다고 15일 밝혔다.세이프메이트는 화재 발생 시 불꽃과 연기, 온도 변화 등 다양한 화재 징후를 감지하고 KT 관제서비스와 연계, 상황 확인부터 현장 대응까지 지원하는 서비스다.KT는 한국산업단지공단 인천…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217424",
+          "title": "KT, 인천 남동산단에 AI기반 산업안전 솔루션 공급"
+        }
+      ]
+    },
+    {
+      "id": "0aead43605cf46cc2685",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42738",
+      "title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개",
+      "original_title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개",
+      "published_at": "2026-11-15T07:41:58+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글 딥마인드(Google DeepMind)가 인공지능(AI)을 활용해 전 세계 강수량을 정밀하게 분석하는 기술과 지구 관측 위성영상을 통합한 데이터셋을 공개했다. 기존 글로벌 강수 관측자료보다 약한 비와 보통 강수의 탐지 성능을 30% 이상 높였으며, 이를 연구자와 개발자가 활용할 수 있도록 개방해 AI 기반 기상…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42738",
+          "title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개"
+        }
+      ]
+    },
+    {
+      "id": "696bd1d560b360e2721b",
+      "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+      "title": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
+      "original_title": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
+      "published_at": "2026-11-15T07:01:35+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Chris Miller / Financial Times : A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US f…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+          "title": "A post-Jensen Nvidia must reshuffle its leadership, reset its DC ties, and recognize that even the US' most valuable company cannot dictate US foreign policy (Chris Miller/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261115/p6"
+        }
+      ]
+    },
+    {
+      "id": "7f20417014f67a81118f",
+      "url": "https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m",
+      "title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
+      "original_title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
+      "published_at": "2026-11-15T06:50:01+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alex Konrad / Upstarts Media : Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a s…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.upstartsmedia.com/p/nidus-ai-robotics-raises-30m",
+          "title": "Nidus, which is developing AI-powered tech for manufacturing robots used by US defense industrial companies, raised $30M across a pre-seed and a seed (Alex Konrad/Upstarts Media)",
+          "discussion_url": "https://www.techmeme.com/261115/p5"
+        }
+      ]
+    },
+    {
+      "id": "8fa5a689af3cd67d444d",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm",
+      "title": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
+      "original_title": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
+      "published_at": "2026-11-15T06:45:46+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cheng Ting-Fang / Nikkei Asia : TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying “we also want to support the fut…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://asia.nikkei.com/editor-s-picks/interview/tsmc-seeks-to-back-next-chip-titan-with-new-investment-arm",
+          "title": "TSMC plans to set up a new $500M fund to invest in chip startups, suppliers, and other upstream partners, saying \"we also want to support the future's Nvidia\" (Cheng Ting-Fang/Nikkei Asia)",
+          "discussion_url": "https://www.techmeme.com/261115/p4"
+        }
+      ]
+    },
+    {
+      "id": "1d401d4cb2fc314411b1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42737",
+      "title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다",
+      "original_title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다",
+      "published_at": "2026-11-15T06:44:41+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존의 스마트 보안기기 자회사 링(Ring)은 자율 이동형 보안기기 사업인 '링 로보틱스(Ring Robotics)'를 발표하고, 가정용 비행 보안카메라 '링 드론 캠(Ring Drone Cam)'과 사업장용 자율 순찰로봇 '링 로버 캠(Ring Rover Cam)'을 공개했다.가정 내부를 비행하는 드론과 사업장을…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42737",
+          "title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다"
+        }
+      ]
+    },
+    {
+      "id": "c9b670798186f38a79f1",
+      "url": "https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results",
+      "title": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
+      "original_title": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
+      "published_at": "2026-11-15T06:40:02+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Tamara Djurickovic / Tech.eu : Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://tech.eu/2026/11/12/nebuly-raises-21m-series-a-to-turn-ai-investments-into-measurable-results",
+          "title": "Nebuly, whose tech helps enterprises measure the business value of AI agents by analyzing their impact on productivity and revenue, raised a $21M Series A (Tamara Djurickovic/Tech.eu)",
+          "discussion_url": "https://www.techmeme.com/261115/p3"
+        }
+      ]
+    },
+    {
+      "id": "cf30b2345b2ea129c1f8",
+      "url": "https://nypost.com/2026/11/14/business/how-ex-nvidia-ceo-jensen-huang-threw-tantrums-in-the-office-dressed-down-tech-execs-i-hope-you-die",
+      "title": "Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his public downfall (Thomas Barrabi/New York Post)",
+      "original_title": "Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his public downfall (Thomas Barrabi/New York Post)",
+      "published_at": "2026-11-15T06:20:01+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Thomas Barrabi / New York Post : Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his p…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://nypost.com/2026/11/14/business/how-ex-nvidia-ceo-jensen-huang-threw-tantrums-in-the-office-dressed-down-tech-execs-i-hope-you-die",
+          "title": "Nvidia insiders say Jensen Huang was prone to wild office tantrums, which a source says some employees were surprised hadn't leaked before his public downfall (Thomas Barrabi/New York Post)",
+          "discussion_url": "https://www.techmeme.com/261115/p2"
+        }
+      ]
+    },
+    {
+      "id": "688bb7f8483616c0ab0c",
+      "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?st=geQhk5",
+      "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
+      "original_title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
+      "published_at": "2026-11-15T05:55:03+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Wall Street Journal : How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanc…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/jensen-huang-backdoor-ai-data-centers-a5e4499d?st=geQhk5",
+          "title": "How Jensen Huang built a multibillion-dollar business to let Chinese companies access Nvidia AI chips in SE Asian data centers, exploiting a gap in US sanctions (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261115/p1"
+        }
+      ]
+    },
+    {
+      "id": "a3aab5004348c06ab51f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42736",
+      "title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축…화재 예방·대응 체계 강화",
+      "original_title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축…화재 예방·대응 체계 강화",
+      "published_at": "2026-11-15T04:46:30+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "KT가 인천 남동국가산업단지에 인공지능(AI) 기반 화재감지기 105대를 구축하고 산업현장 화재안전 서비스 확대에 나섰다.KT는 한국산업단지공단 인천지역본부의 ‘2026년 남동산단 AIoT 화재감지기 설치 지원사업’을 통해 입주기업 20곳에 AI 화재안전 서비스 ‘세이프메이트(Safemate)’를 구축했다고 15일 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42736",
+          "title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축…화재 예방·대응 체계 강화"
+        }
+      ]
+    },
+    {
+      "id": "48bf5edb47ff4e5a171e",
+      "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep?itid=gfta&pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzk0NjMyNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk2MDE0Nzk5LCJpYXQiOjE3OTQ2MzI0MDAsImp0aSI6ImVjYmZmMGQyLTdiZGEtNDNjOS1iMzViLTVlMzZiMTFhMzlkNyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI2LzExLzE0L252aWRpYS1zY2FuZGFsLWhpdHMtdHJ1bXBzLXBvbGl0aWNhbC12dWxuZXJhYmlsaXRpZXMtYWZ0ZXItZGVtb2NyYXRpYy1zd2VlcC8ifQ.RnLIqxnR82OE4UaovEWu2ATiORrkV7A6UVgwGsg-1xQ",
+      "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+      "original_title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+      "published_at": "2026-11-15T04:15:42+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Washington Post : The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.washingtonpost.com/politics/2026/11/14/nvidia-scandal-hits-trumps-political-vulnerabilities-after-democratic-sweep?itid=gfta&pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzk0NjMyNDAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzk2MDE0Nzk5LCJpYXQiOjE3OTQ2MzI0MDAsImp0aSI6ImVjYmZmMGQyLTdiZGEtNDNjOS1iMzViLTVlMzZiMTFhMzlkNyIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9wb2xpdGljcy8yMDI2LzExLzE0L252aWRpYS1zY2FuZGFsLWhpdHMtdHJ1bXBzLXBvbGl0aWNhbC12dWxuZXJhYmlsaXRpZXMtYWZ0ZXItZGVtb2NyYXRpYy1zd2VlcC8ifQ.RnLIqxnR82OE4UaovEWu2ATiORrkV7A6UVgwGsg-1xQ",
+          "title": "The Nvidia scandal presents a political challenge for the White House by tying together data centers, China, and corruption, all key voter issues in midterms (Washington Post)",
+          "discussion_url": "https://www.techmeme.com/261114/p23"
+        }
+      ]
+    },
+    {
+      "id": "4cd774aecc087e1deda1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
+      "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
+      "original_title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
+      "published_at": "2026-11-15T03:54:46+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 '제미나이'에 구글 월렛(Google Wallet)을 연동해 개인 금융 정보를 분석하는 기능을 추가했다. 사용자의 소비 내역과 금융 계좌 정보를 바탕으로 지출 패턴을 분석하고, 예산 관리와 저축 계획까지 제안하는 기능이다.구글은 13일(현지시간) 공식 블로그를 통해 제미나이의 개인화 기능인 '퍼스널 인텔리전스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
+          "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지"
+        }
+      ]
+    },
+    {
+      "id": "f46f826250f3f8d1ee19",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217420",
+      "title": "메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중",
+      "original_title": "메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중",
+      "published_at": "2026-11-15T03:23:42+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 직원들을 대상으로 예측 시장 앱 '테이크(Takes)'를 테스트하고 있다. 실제 돈을 걸지 않고 가상 포인트로 각종 사건이나 이벤트의 결과를 예측하는 방식으로, 칼시나 폴리마켓과 달리 현금 거래를 지원하지 않는 것이 특징이다.월스트리트저널(WSJ)은 13일(현지시간) 메타 직원들이 개발 중인 예측 시장 앱을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217420",
+          "title": "메타, 돈 대신 포인트 거는 예측 시장 앱 '테이크' 테스트 중"
+        }
+      ]
+    },
+    {
+      "id": "fb57ab6247f32f2802b5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42735",
+      "title": "\"생성형 AI로 세무사시험 수석 합격했다\"…당사자 부정행위 인정하고 자수",
+      "original_title": "\"생성형 AI로 세무사시험 수석 합격했다\"…당사자 부정행위 인정하고 자수",
+      "published_at": "2026-11-15T03:14:14+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "제63회 세무사시험 수석 합격 논란의 당사자가 생성형 인공지능(AI)과 전자기기를 이용해 시험에서 부정행위를 했다고 공개적으로 인정했다. 세무사 1차와 2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방식으로 부정행위를 저질렀다고 밝혀 전문자격시험의 공정성과 AI를 악용한 부정행위 방지 대책에 대한 논란이 커질 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42735",
+          "title": "\"생성형 AI로 세무사시험 수석 합격했다\"…당사자 부정행위 인정하고 자수"
+        }
+      ]
+    },
+    {
+      "id": "81dcc884f662b8fc2b99",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+      "title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기",
+      "original_title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기",
+      "published_at": "2026-11-15T03:13:03+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "중국에서 엔비디아의 수출 제한 AI 칩을 기반으로 추진 중인 4조원대 데이터센터 사업이 차질을 빚을 가능성이 커지고 있다. 미국의 규제 강화 움직임과 젠슨 황 전 엔비디아 CEO의 사임으로 핵심 GPU 확보가 불투명해진 가운데, 중국 기업들은 여전히 엔비디아 칩을 전제로 대규모 투자를 진행하고 있는 것으로 나타났다.…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+          "title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기"
+        }
+      ]
+    },
+    {
+      "id": "ea8348bcc0231ee20546",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42734",
+      "title": "북극 해빙 30일 앞서 예측하는 AI…UNIST, 위성자료·생성형 AI 결합한 ‘아이스네스트’ 개발",
+      "original_title": "북극 해빙 30일 앞서 예측하는 AI…UNIST, 위성자료·생성형 AI 결합한 ‘아이스네스트’ 개발",
+      "published_at": "2026-11-15T02:38:36+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "북극해의 얼음 분포를 최대 30일 앞서 예측하고, 선박이 북극항로를 이용할 수 있는 시기를 보다 정확하게 판단하도록 지원하는 인공지능(AI) 기술이 개발됐다. 위성 관측자료와 생성형 AI를 결합해 해빙의 위치와 농도를 정밀하게 예측하는 기술로, 북극항로 모의 항해에서 통항 가능 시작일의 평균 예측 오차를 기존 모델보…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42734",
+          "title": "북극 해빙 30일 앞서 예측하는 AI…UNIST, 위성자료·생성형 AI 결합한 ‘아이스네스트’ 개발"
+        }
+      ]
+    },
+    {
+      "id": "3de931cb316ff6631855",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217422",
+      "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
+      "original_title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
+      "published_at": "2026-11-15T02:29:43+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO의 불륜과 사임 논란이 생성 AI를 활용한 풍자 영상과 이미지로 이어지고 있다. 영화 '매트릭스'의 주인공부터 뮤직비디오 속 가수까지 황의 얼굴을 합성한 영상들이 수백만 조회수를 기록하고 있다. AI 산업을 성장시킨 황이 자신이 공급해 온 GPU와 AI 기술로 만들어진 밈의 주인공이 됐다는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217422",
+          "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회"
+        }
+      ]
+    },
+    {
+      "id": "9d649a339c067cf9567d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42733",
+      "title": "최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시",
+      "original_title": "최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시",
+      "published_at": "2026-11-15T02:14:40+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "SK그룹이 인공지능(AI) 반도체와 인프라, 에너지를 중심으로 구축한 사업 경쟁력을 AI 모델과 애플리케이션 등 서비스 영역까지 확대한다.개별 사업의 성장이 다른 사업의 수요와 투자를 촉진하는 'AI 플라이휠(AI Flywheel)' 전략을 통해 그룹 차원의 성장 구조를 구축하고, 장기적으로 AI 연산과 서비스가 경…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42733",
+          "title": "최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시"
+        }
+      ]
+    },
+    {
+      "id": "88d9df80338ea2284575",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-s-jensen-huang-joins-billionaire-tech-titans-cheating-on-their-wives",
+      "title": "23andMe's Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang's affair shows what happens when CEOs think they are \"untouchable\" (Bloomberg)",
+      "original_title": "23andMe's Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang's affair shows what happens when CEOs think they are \"untouchable\" (Bloomberg)",
+      "published_at": "2026-11-15T02:05:01+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : 23andMe's Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang's affair shows what happens when CEOs think they are “untouchable” — As…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-13/nvidia-s-jensen-huang-joins-billionaire-tech-titans-cheating-on-their-wives",
+          "title": "23andMe's Anne Wojcicki, formerly married to Google co-founder Sergey Brin, says Jensen Huang's affair shows what happens when CEOs think they are \"untouchable\" (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261114/p22"
+        }
+      ]
+    },
+    {
       "id": "bcace0364e202b58b518",
       "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
       "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
@@ -109,6 +641,26 @@
           "url": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
           "title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
           "discussion_url": "https://www.techmeme.com/261114/p21"
+        }
+      ]
+    },
+    {
+      "id": "b122c6fc0c530e822e37",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217408",
+      "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
+      "original_title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\"",
+      "published_at": "2026-11-15T00:00:00+00:00",
+      "collected_at": "2026-11-15T10:28:08+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "LG유플러스가 AI 토큰 최적화 기술 성과를 바탕으로 내년 B2B AI 시장에 진출한다고 15일 밝혔다.자체 AI 통화 에이전트 '익시오'와 AI 컨택센터(AICC) 및 사내 AI 전환(AX)에서 쌓은 역량에 정부 주도 '모두의 AI' 모델 서빙 노하우를 더해 기업 시장을 공략한다는 전략이다. 사업은 협력사와의 제휴…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217408",
+          "title": "LGU+, 내년 B2B 토큰 사업 진출…\"업무당 AI 총비용 낮춘다\""
         }
       ]
     },
