@@ -724,14 +724,14 @@
     {
       "id": "29747eb081a8319e2b7d",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
-      "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+      "title": "아마존, 전 세계 상품 정보 통합 '월드 프로덕트 그래프' 검토",
       "original_title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
       "published_at": "2026-11-14T10:19:23+00:00",
       "collected_at": "2026-11-14T19:46:23+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 방안을 검토하고 있다. 소비자가 제품을 비교하기 위해 다른 사이트로 이동하는 일을 줄이고, 구매를 대신하는 외부 AI 에이전트도 아마존을 찾도록 하려는 구상이다.로이터는 13일(현지시간) 내부 문서와 관계자들을 인용해 아마존이 ‘월드 프로덕트 그래…",
       "sources": [
         {
@@ -739,19 +739,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217412",
           "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다"
         }
-      ]
+      ],
+      "summary": "아마존이 자사에서 판매하지 않는 제품까지 전 세계 상품 정보를 모으는 '월드 프로덕트 그래프' 프로젝트를 추진하고 있다고 로이터가 보도했습니다. 소비자가 제품 비교를 위해 다른 사이트로 이동하는 일을 줄이고 외부 AI 에이전트도 아마존을 찾도록 하려는 구상입니다. 아마존은 내부 문서에서 지적된 AI 쇼핑 도우미의 오류 문제에 대해 현재 '알렉사 포 쇼핑'의 답변 정확도가 자체 집계 기준 약 97%라고 설명했습니다.",
+      "why_it_matters": "외부 AI 에이전트가 구매를 대신하는 환경에서 상품 정보와 광고 접점을 확보하려는 경쟁이 쇼핑 플랫폼의 전략을 바꾸고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-15T01:13:58+00:00",
+        "briefing_day": "2026-11-15",
+        "input_hash": "4245cf300458cf9737c4d26babb998910a77c9002c642a30990cdfb12084193f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "f95ccae0a03fdf2e2f22",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
-      "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+      "title": "엔비디아, 사람 동작을 로봇에 이식하는 오픈소스 기술 공개",
       "original_title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
       "published_at": "2026-11-14T10:16:46+00:00",
       "collected_at": "2026-11-14T19:46:23+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "엔비디아(NVIDIA)가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술을 공개했다. 인간과 로봇 사이의 관절 구조, 신체 비율, 가동 범위 차이를 보정해 사람의 동작 데이터를 로봇 제어 정책 학습에 활용할 수 있도록 지원하는 기술이다.사람의 행동을 학습해 실제 물리적 환경에서 움직이는 피…",
       "sources": [
         {
@@ -759,7 +769,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
           "title": "\"사람의 움직임, 휴머노이드 로봇에 이식한다\"…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개"
         }
-      ]
+      ],
+      "summary": "엔비디아가 사람의 움직임을 휴머노이드 로봇의 신체 구조에 맞게 변환하는 오픈소스 기술 '소마 리타기터'의 원리와 구현 절차를 공개했습니다. 이 기술은 유니트리, 부스터, 애지봇 등 서로 다른 신체 구조를 가진 휴머노이드 로봇 5종의 참조 설정과 동작 변환 사례를 포함합니다. 개발자는 사람의 움직임을 로봇 관절의 위치와 각도로 변환하고 시뮬레이션 환경에서 검증한 뒤 로봇 제어 모델 학습에 활용할 수 있습니다.",
+      "why_it_matters": "사람의 동작 데이터를 다양한 로봇에 맞게 변환하는 도구가 공개되면서 피지컬 AI 학습에 필요한 데이터 활용 범위가 넓어질 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-15T01:13:58+00:00",
+        "briefing_day": "2026-11-15",
+        "input_hash": "11308e3e35834a2525a4225d925c024c9d8e48686435d686d83f219de2525ec3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "50c68cc596242e266468",
@@ -805,14 +825,14 @@
     {
       "id": "3f989100c891483326bc",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
-      "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
+      "title": "오픈AI, AI 에이전트 결제용 '챗GPT 월렛' 공개",
       "original_title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
       "published_at": "2026-11-14T09:43:42+00:00",
       "collected_at": "2026-11-14T09:52:02+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "오픈AI가 인공지능 에이전트가 사용자를 대신해 온라인 상품을 구매하고 결제할 수 있는 전용 디지털 지갑 '챗GPT 월렛(ChatGPT Wallet)'을 13일(미국 현지시간) 공개했다.AI 에이전트가 사용자의 실제 카드번호에 접근하지 않고도 결제를 수행할 수 있도록 설계한 것이 핵심이다. 이용자는 구매할 때마다 생체…",
       "sources": [
         {
@@ -820,7 +840,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
           "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행"
         }
-      ]
+      ],
+      "summary": "오픈AI가 AI 에이전트가 사용자를 대신해 상품을 구매하고 결제하는 디지털 지갑 '챗GPT 월렛'을 공개했습니다. 결제 승인 때 실제 카드번호 대신 결제 토큰이 발급돼 카드번호가 AI 에이전트나 판매업체에 전달되지 않도록 설계됐습니다. 초기 서비스는 미국의 만 18세 이상 챗GPT 프로 구독자 가운데 적격 미국 발급 카드를 보유한 이용자를 대상으로 제공됩니다.",
+      "why_it_matters": "AI 에이전트가 실제 결제 단계까지 수행하면서 결제 보안과 승인 방식이 새로운 과제로 떠오르고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-15T01:13:58+00:00",
+        "briefing_day": "2026-11-15",
+        "input_hash": "6eed798ee71354c10434cb50b8923889d305fd6ede6b489aa7a76f3f2e759e7c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "0c9691d97465096049b1",
@@ -846,14 +876,14 @@
     {
       "id": "4f3b0d131bbf8867326b",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
-      "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
+      "title": "엔비디아 직원들, 젠슨 황 전 CEO 복귀 요구",
       "original_title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개",
       "published_at": "2026-11-14T08:56:54+00:00",
       "collected_at": "2026-11-14T09:52:02+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "젠슨 황 전 CEO가 물러난 뒤 엔비디아 직원들 사이에서 그의 복귀를 요구하는 목소리가 나오고 있다. 이사회에 황의 거취를 결정할 때 직원들의 의견을 반영하라고 요구한 사내 게시물에는 1600개 이상의 댓글이 달렸다. 회사 밖에서도 복귀 청원이 시작됐으며, 일론 머스크 테슬라 CEO도 참여 의사를 밝혔다.와이어드는 …",
       "sources": [
         {
@@ -861,19 +891,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217410",
           "title": "엔비디아 직원들 \"젠슨 황 복귀시켜라\"…사내 게시물에 댓글 1600개"
         }
-      ]
+      ],
+      "summary": "젠슨 황 전 CEO의 거취 결정에 직원 의견을 반영하라는 엔비디아 사내 게시물에 1600개 이상의 댓글이 달렸고, 다수는 그의 복귀를 지지했습니다. 엔비디아 이사회는 콜레트 크레스 최고재무책임자를 임시 CEO로 선임하고 하비 존스를 신임 이사회 의장으로 임명했습니다. 직원들의 복귀 요구와 외부 청원에도 이사회가 황의 재선임을 검토하고 있다는 사실은 확인되지 않았습니다.",
+      "why_it_matters": "창업자 퇴진을 둘러싼 내부 반발과 외부 청원이 이어지면서 엔비디아의 리더십 공백과 후임 선임 과정이 주목받고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-15T01:13:58+00:00",
+        "briefing_day": "2026-11-15",
+        "input_hash": "23c0dd06865e29d9e8799880a13aa4684e92b6d2aadcb245d9d5388f680ea551",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a1c6408bec3cb6c564fb",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217409",
-      "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
+      "title": "머스크, 젠슨 황 전 CEO에 영화로 경의 표해",
       "original_title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\"",
       "published_at": "2026-11-14T08:37:48+00:00",
       "collected_at": "2026-11-14T09:52:02+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "일론 머스크 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 게시물을 올렸다. 앞서 황의 해임 가능성이 제기됐을 때는 그를 영입할 수 있다면 영광이라고 밝혔으나, 현재까지 실제 영입 제안이나 구체적인 계획이 알려진 것은 없다.머스크는 13일(현지시간) X에 영화의 한 장면을 공유하며 황 전 CEO에…",
       "sources": [
         {
@@ -881,7 +921,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217409",
           "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\""
         }
-      ]
+      ],
+      "summary": "일론 머스크 테슬라 CEO가 엔비디아에서 물러난 젠슨 황 전 CEO에게 경의를 표하는 영화 장면을 X에 공유하며 '젠슨'이라고만 적었습니다. 머스크는 앞서 황 전 CEO를 영입하라는 제안에 '그렇게 할 수 있다면 영광일 것'이라고 답했으나 구체적인 영입 계획은 밝히지 않았습니다. 머스크가 이끄는 기업들은 엔비디아 GPU의 주요 고객입니다.",
+      "why_it_matters": "엔비디아 GPU의 주요 고객인 머스크의 공개 지지가 이어지면서 황 전 CEO의 거취를 둘러싼 업계 관심이 커지고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-15T01:13:58+00:00",
+        "briefing_day": "2026-11-15",
+        "input_hash": "7285c461ce1697cf2df2cd4638514504b5d15b8e55285c1a8354b4b1f5239064",
+        "evidence_verified": true
+      }
     },
     {
       "id": "0e5f3f58ced925f36b4d",
