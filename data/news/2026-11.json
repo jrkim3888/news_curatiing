@@ -3,6 +3,338 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "bcace0364e202b58b518",
+      "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+      "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
+      "original_title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
+      "published_at": "2026-11-15T00:34:55+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://videocardz.com/newz/microsoft-could-pay-gamers-for-using-spare-gpu-capacity-to-train-ai",
+          "title": "Microsoft patent describes using idle gaming GPUs into paid AI training hardware",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502675"
+        }
+      ]
+    },
+    {
+      "id": "ac33c4a38085fbc257bc",
+      "url": "https://twitter.com/KobeissiLetter/status/2121689817301819425",
+      "title": "The AI revolution is leaving younger tech workers behind",
+      "original_title": "The AI revolution is leaving younger tech workers behind",
+      "published_at": "2026-11-15T00:18:01+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/KobeissiLetter/status/2121689817301819425",
+          "title": "The AI revolution is leaving younger tech workers behind",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502522"
+        }
+      ]
+    },
+    {
+      "id": "167c81c5d6fc7db57e5d",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+      "title": "Where was Nvidia’s security team?",
+      "original_title": "Where was Nvidia’s security team?",
+      "published_at": "2026-11-15T00:08:07+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of …",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+          "title": "Where was Nvidia’s security team?"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team",
+          "title": "Where was Nvidia’s security team?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502758"
+        }
+      ]
+    },
+    {
+      "id": "c2cf009e2c89dc549ae7",
+      "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+      "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "original_title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+      "published_at": "2026-11-15T00:07:46+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=2K_Rm8cho1I",
+          "title": "DeepSeek's New LLM Engine Just Made GPUs 3x More Valuable [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502453"
+        }
+      ]
+    },
+    {
+      "id": "696385c226d8d23864bf",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
+      "title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
+      "original_title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
+      "published_at": "2026-11-15T00:05:02+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Bloomberg : Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases — Tech gi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-14/tech-giants-face-more-grid-cost-pressure-on-democratic-sweep",
+          "title": "Source: Applied Digital has asked tenants like Oracle and Meta for billions in guarantees since at least last year to secure power before finalizing leases (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261114/p21"
+        }
+      ]
+    },
+    {
+      "id": "9c481a0931060f36109e",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+      "title": "datasette-llm 0.1a11 릴리스, OpenAI 호환 엔드포인트 지원 추가",
+      "original_title": "datasette-llm 0.1a11",
+      "published_at": "2026-11-14T23:59:28+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds suppo…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/14/datasette-llm",
+          "title": "datasette-llm 0.1a11"
+        }
+      ],
+      "summary": "Datasette 플러그인 datasette-llm의 0.1a11 버전이 공개됐다. 이번 릴리스는 OpenAI 호환 엔드포인트 지원을 추가해, OpenAI 유사 웹 프로토콜을 사용하는 곳이라면 어디서든 호스팅되는 LLM을 Datasette에 설정할 수 있게 한다. 이를 통해 LM Studio, Ollama, llama.cpp 등으로 로컬 모델을 실행하는 경우 uvx로 Datasette를 구동할 수 있다고 설명한다.",
+      "why_it_matters": "OpenAI 호환 규격 지원은 특정 모델 제공자에 대한 종속 없이 로컬 모델과 Datasette를 연동할 수 있는 선택지를 넓힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-15T00:49:58+00:00",
+        "input_hash": "21aad6c9cdf68e3f47410050c10934f0d8fad3604962251256f78d2201e7f6ae",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "31b0489e20b081a53663",
+      "url": "https://twitter.com/deepseek_ai/status/2121247896918253875",
+      "title": "DeepSeek releases API for its apps along with open source front end",
+      "original_title": "DeepSeek releases API for its apps along with open source front end",
+      "published_at": "2026-11-14T23:55:32+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/deepseek_ai/status/2121247896918253875",
+          "title": "DeepSeek releases API for its apps along with open source front end",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502358"
+        }
+      ]
+    },
+    {
+      "id": "bf79fc54b4cd78f0ea04",
+      "url": "https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html",
+      "title": "Bing is the anti-AI search engine you should be using",
+      "original_title": "Bing is the anti-AI search engine you should be using",
+      "published_at": "2026-11-14T23:48:24+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.pcworld.com/article/3115405/bing-is-the-anti-ai-search-engine-you-should-be-using.html",
+          "title": "Bing is the anti-AI search engine you should be using",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502314"
+        }
+      ]
+    },
+    {
+      "id": "a6c1a8dfd7f8359736ac",
+      "url": "https://letthembuild.com/",
+      "title": "Show HN: LetThemBuild – Claude Code, Codex, Gemini and OpenRouter in Parallel",
+      "original_title": "Show HN: LetThemBuild – Claude Code, Codex, Gemini and OpenRouter in Parallel",
+      "published_at": "2026-11-14T23:24:50+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://letthembuild.com/",
+          "title": "Show HN: LetThemBuild – Claude Code, Codex, Gemini and OpenRouter in Parallel",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502144"
+        }
+      ]
+    },
+    {
+      "id": "410e1cc6b65edc4d549f",
+      "url": "https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai",
+      "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+      "original_title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+      "published_at": "2026-11-14T23:23:18+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.pcmag.com/news/microsoft-patent-describes-using-your-idle-gaming-pc-to-train-ai",
+          "title": "Microsoft Patent Tips Using Idle Gaming PCs to Train AI in Exchange for Rewards",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502137"
+        }
+      ]
+    },
+    {
+      "id": "3e083d430f4450147371",
+      "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai",
+      "title": "AI submissions cause end of game coding contest",
+      "original_title": "AI submissions cause end of game coding contest",
+      "published_at": "2026-11-14T23:18:24+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.pcgamer.com/software/ai/educational-game-dev-program-cancelled-because-students-were-submitting-games-made-entirely-with-ai",
+          "title": "AI submissions cause end of game coding contest",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502097"
+        }
+      ]
+    },
+    {
+      "id": "35d28ff15664a0aa4066",
+      "url": "https://brainsaver.app/",
+      "title": "Show HN: Daily puzzles to keep AI users sharp",
+      "original_title": "Show HN: Daily puzzles to keep AI users sharp",
+      "published_at": "2026-11-14T23:15:33+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://brainsaver.app/",
+          "title": "Show HN: Daily puzzles to keep AI users sharp",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502073"
+        }
+      ]
+    },
+    {
+      "id": "c97fbf2dc09c4bcaf2e2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+      "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+      "original_title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세",
+      "published_at": "2026-11-14T22:52:49+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO의 복귀를 요구하는 목소리가 실리콘밸리 기술 업계에서 주요 투자자들로 이어지고 있다. 엔비디아 지분 20억달러 이상을 보유한 투자사 두 곳이 이사회에 후임 CEO 선임을 서두르지 말고, 황의 복귀 가능성을 검토하라고 촉구했다. 일론 머스크 CEO 등 기술 업계 거물들도 황의 퇴진이 엔비디아…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+          "title": "엔비디아 투자자들 \"젠슨 황 복귀 검토해야\"…머스크 등 거물 가세"
+        }
+      ]
+    },
+    {
+      "id": "4f2214a535505443521d",
+      "url": "https://www.forbes.com/sites/aliciapark/2026/11/13/why-jensen-huangs-firing-couldnt-happen-to-mark-zuckerberg-or-many-other-tech-titans",
+      "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "original_title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+      "published_at": "2026-11-14T22:05:01+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Forbes : Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company — This voice exp…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/aliciapark/2026/11/13/why-jensen-huangs-firing-couldnt-happen-to-mark-zuckerberg-or-many-other-tech-titans",
+          "title": "Unlike other larger-than-life tech founders, Jensen Huang lacked super-voting shares in Nvidia, making it easier for him to lose control of the company (Forbes)",
+          "discussion_url": "https://www.techmeme.com/261114/p20"
+        }
+      ]
+    },
+    {
+      "id": "fc1d70bba296bc73c153",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "published_at": "2026-11-14T21:41:22+00:00",
+      "collected_at": "2026-11-15T00:49:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
+          "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502110"
+        }
+      ]
+    },
+    {
       "id": "a337e14be4d0e069d646",
       "url": "https://whatwerun.dev/",
       "title": "WhatWeRun, a database of real production AI agent stacks",
@@ -125,6 +457,12 @@
           "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
           "title": "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
           "discussion_url": "https://www.techmeme.com/261114/p17"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://www.businessinsider.com/petition-reinstate-jensen-huang-nvidia-elon-musk-2026-11",
+          "title": "A petition to reinstate Jensen Huang as Nvidia CEO has over 100k signatures",
+          "discussion_url": "https://news.ycombinator.com/item?id=50502408"
         }
       ]
     },
@@ -230,6 +568,12 @@
           "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
           "title": "Nvidia board urged to consider 'return of Jensen Huang' by two major investors",
           "discussion_url": "https://news.ycombinator.com/item?id=50499553"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/14/nvidia-investors-jensen-huang-return-board-letter.html",
+          "title": "Letter: Altimeter's Brad Gerstner and Atreides's Gavin Baker urge Nvidia's board to consider \"the potential return of Jensen Huang\"; they own $2.13B in Nvidia (Katie Tarasov/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261114/p18"
         }
       ]
     },
