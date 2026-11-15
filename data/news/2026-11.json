@@ -3,6 +3,368 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "303a41af7e5b3ea10bc4",
+      "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+      "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "original_title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+      "published_at": "2026-11-15T20:09:52+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
+          "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50510210"
+        }
+      ]
+    },
+    {
+      "id": "74228d10bb4918422ee0",
+      "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war",
+      "title": "OBR: Britain faces 'painful' job losses from AI",
+      "original_title": "OBR: Britain faces 'painful' job losses from AI",
+      "published_at": "2026-11-15T20:00:03+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.telegraph.co.uk/business/2026/11/13/britain-faces-very-painful-job-losses-from-ai-obr-chief-war",
+          "title": "OBR: Britain faces 'painful' job losses from AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50510133"
+        }
+      ]
+    },
+    {
+      "id": "e3ba679958f5a484a8be",
+      "url": "https://github.com/eshaangulati123/perfectclone",
+      "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+      "original_title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+      "published_at": "2026-11-15T19:51:10+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/eshaangulati123/perfectclone",
+          "title": "Show HN: Perfectclone – Yoink the source code of any website, not an AI clone",
+          "discussion_url": "https://news.ycombinator.com/item?id=50510058"
+        }
+      ]
+    },
+    {
+      "id": "4f5074fabe74c921c49a",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "title": "DeepSeek Chat Demo: A static chat app powered by the DeepSeek API",
+      "original_title": "DeepSeek Chat Demo: A static chat app powered by the DeepSeek API",
+      "published_at": "2026-11-15T19:41:25+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/deepseek-ai/chat-demo",
+          "title": "DeepSeek Chat Demo: A static chat app powered by the DeepSeek API",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509966"
+        }
+      ]
+    },
+    {
+      "id": "bbfcf564f0bfd130939c",
+      "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
+      "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "original_title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+      "published_at": "2026-11-15T19:39:46+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://fortune.com/2026/11/14/alpha-school-ai-students-tuition-learning-goals",
+          "title": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509953"
+        }
+      ]
+    },
+    {
+      "id": "5a01531348b1fef86fa8",
+      "url": "https://twitter.com/max_spero_/status/2122032840204226687",
+      "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+      "original_title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+      "published_at": "2026-11-15T19:38:10+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/max_spero_/status/2122032840204226687",
+          "title": "First pre-2020 long-form writing detected as 100% AI by Pangram",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509938"
+        }
+      ]
+    },
+    {
+      "id": "fa7e32358249c7c1bd80",
+      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+      "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "original_title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+      "published_at": "2026-11-15T19:31:11+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+          "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509883"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1",
+          "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261115/p14"
+        }
+      ]
+    },
+    {
+      "id": "295afb54d859ab6c3df1",
+      "url": "https://www.pangglow.com/files/blog/run-my-desktop.html?from=hn-agweb",
+      "title": "AI streamlined my digital life",
+      "original_title": "AI streamlined my digital life",
+      "published_at": "2026-11-15T19:26:06+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.pangglow.com/files/blog/run-my-desktop.html?from=hn-agweb",
+          "title": "AI streamlined my digital life",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509835"
+        }
+      ]
+    },
+    {
+      "id": "b2588a8d5a9b042c545c",
+      "url": "https://github.com/raymondhani/aegis-proxy",
+      "title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+      "original_title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+      "published_at": "2026-11-15T19:11:40+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/raymondhani/aegis-proxy",
+          "title": "Show HN: Aegis – A Layer-4 Postgres proxy in Go to block destructive AI SQL",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509721"
+        }
+      ]
+    },
+    {
+      "id": "d9e25d7053145a455340",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
+      "title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
+      "original_title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
+      "published_at": "2026-11-15T19:10:00+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mackenzie Hawkins / Bloomberg : Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/nvidia-sought-taipei-s-help-over-employee-s-chip-smuggling-case",
+          "title": "Sources: Nvidia appealed to Taiwanese officials after its manager was charged over chip smuggling, and sought advice from TSMC, which declined to get involved (Mackenzie Hawkins/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261115/p13"
+        }
+      ]
+    },
+    {
+      "id": "8d844b42c3866ff29e2c",
+      "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times",
+      "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "original_title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+      "published_at": "2026-11-15T19:06:03+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.jetbrains.com/ai/2026/11/ai-models-hate-python-and-love-php-we-asked-12-of-them-1-200-times",
+          "title": "AI models hate Python and love PHP: we asked 12 of them 1,200 times",
+          "discussion_url": "https://news.ycombinator.com/item?id=50509661"
+        }
+      ]
+    },
+    {
+      "id": "8a73aeb797dd5f4af47b",
+      "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
+      "title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)",
+      "original_title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)",
+      "published_at": "2026-11-15T18:55:00+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China — Pac…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22",
+          "title": "The US and Pax Silica allies, including Japan, the UK, and India, agree to create a joint list of AI technologies and supply chains to protect from China (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261115/p12"
+        }
+      ]
+    },
+    {
+      "id": "a6a20519109be0540454",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks",
+      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "original_title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+      "published_at": "2026-11-15T18:29:53+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent C…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks",
+          "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks"
+        }
+      ]
+    },
+    {
+      "id": "0fb3e2317f9322199378",
+      "url": "https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china",
+      "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
+      "original_title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
+      "published_at": "2026-11-15T17:15:01+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ashley Gold / Semafor : Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curb…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.semafor.com/article/11/15/2026/under-pressure-lutnick-joins-trump-in-china",
+          "title": "Sources: Howard Lutnick is expected to join Trump on Air Force One to China this week, after clashing with Scott Bessent and others over Nvidia chip curbs (Ashley Gold/Semafor)",
+          "discussion_url": "https://www.techmeme.com/261115/p11"
+        }
+      ]
+    },
+    {
+      "id": "69f0c87d290d74eef6ac",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDc1NTQ2MSwiZXhwIjoxNzk1MzYwMjYxLCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2TeBxZfpuwFLhhyEns0-GWBuy-YbU6nhgWwD5smKMD4",
+      "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+      "original_title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+      "published_at": "2026-11-15T16:30:00+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mark Gurman / Bloomberg : Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-15/apple-siri-ai-app-integrations-power-smart-glasses-iphone-duo-2-face-id-plan?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDc1NTQ2MSwiZXhwIjoxNzk1MzYwMjYxLCJhcnRpY2xlSWQiOiJUT0pUTzFLSVVQU0IwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.2TeBxZfpuwFLhhyEns0-GWBuy-YbU6nhgWwD5smKMD4",
+          "title": "Sources: Apple plans to unveil smart glasses at WWDC and ship them by the end of 2027, focusing heavily on integration of third-party iPhone apps with Siri AI (Mark Gurman/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261115/p10"
+        }
+      ]
+    },
+    {
+      "id": "f8b414336722335151dd",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+      "title": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)",
+      "original_title": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)",
+      "published_at": "2026-11-15T15:50:01+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Tony Czuczka / Bloomberg : Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed “seemingly illicit” chip sales to China to boo…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+          "title": "Scott Bessent urges Nvidia to hire an outside CEO and wants answers within 10 days on whether it pushed \"seemingly illicit\" chip sales to China to boost revenue (Tony Czuczka/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261115/p8"
+        }
+      ]
+    },
+    {
+      "id": "f6aaa8a845ee21e092e7",
+      "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847",
+      "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+      "original_title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+      "published_at": "2026-11-15T12:02:16+00:00",
+      "collected_at": "2026-11-15T20:11:48+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Corbin Bolies / Variety : Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://variety.com/2026/music/features/inside-first-ai-music-awards-sonic-intelligence-academy-1236947847",
+          "title": "Inside the first AI Music Awards in Los Angeles, featuring AI announcers, lip-syncing, and human stand-ins, as the ceremony was mired in technical issues (Corbin Bolies/Variety)",
+          "discussion_url": "https://www.techmeme.com/261115/p7"
+        }
+      ]
+    },
+    {
       "id": "df3608744c34bc608a5f",
       "url": "https://adlrocha.substack.com/p/adlrocha-most-of-ai-moats-are-just",
       "title": "Most of AI moats are just fuel",
