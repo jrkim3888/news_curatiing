@@ -3,6 +3,1107 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "1acba5cfdb50795bac5c",
+      "url": "https://support.google.com/gemini/answer/13594961?hl=en",
+      "title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
+      "original_title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
+      "published_at": "2026-11-16T23:28:41+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://support.google.com/gemini/answer/13594961?hl=en",
+          "title": "New privacy rules for Google's Gemini Apps (updated November 16, 2026)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50525082"
+        }
+      ]
+    },
+    {
+      "id": "327d80395b29a8622355",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "title": "California sues OpenAI over hacking risks",
+      "original_title": "California sues OpenAI over hacking risks",
+      "published_at": "2026-11-16T23:22:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+          "title": "California sues OpenAI over hacking risks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50525014"
+        }
+      ]
+    },
+    {
+      "id": "fed61ac0b7ec32ea3285",
+      "url": "https://github.com/ilyaizen/CopySpeech",
+      "title": "CopySpeech – AI text-to-speech for your clipboard",
+      "original_title": "CopySpeech – AI text-to-speech for your clipboard",
+      "published_at": "2026-11-16T23:08:26+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ilyaizen/CopySpeech",
+          "title": "CopySpeech – AI text-to-speech for your clipboard",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524875"
+        }
+      ]
+    },
+    {
+      "id": "57e65716926af097e33d",
+      "url": "https://www.frisson-labs.com/reyn",
+      "title": "We got AI to Wombo Combo – collaborative agents in Melee",
+      "original_title": "We got AI to Wombo Combo – collaborative agents in Melee",
+      "published_at": "2026-11-16T23:03:19+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.frisson-labs.com/reyn",
+          "title": "We got AI to Wombo Combo – collaborative agents in Melee",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524802"
+        }
+      ]
+    },
+    {
+      "id": "29a0babdd07e2b22a81b",
+      "url": "https://standardsupport.dev/",
+      "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
+      "original_title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
+      "published_at": "2026-11-16T23:00:44+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://standardsupport.dev/",
+          "title": "Show HN: Standard Support – a convention for AI agents to file support tickets",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524768"
+        }
+      ]
+    },
+    {
+      "id": "71155a813d5bf2c69e9b",
+      "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website",
+      "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "original_title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+      "published_at": "2026-11-16T22:54:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website",
+          "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website"
+        }
+      ]
+    },
+    {
+      "id": "d8d29fa85d4ea0a3b32a",
+      "url": "https://datingprofile.app/",
+      "title": "Show HN: AI Dating photos – can you tell they're AI?",
+      "original_title": "Show HN: AI Dating photos – can you tell they're AI?",
+      "published_at": "2026-11-16T22:47:54+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://datingprofile.app/",
+          "title": "Show HN: AI Dating photos – can you tell they're AI?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524598"
+        }
+      ]
+    },
+    {
+      "id": "55f9a62f165093eb43e0",
+      "url": "https://github.com/formgong/dead-forms-study",
+      "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
+      "original_title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
+      "published_at": "2026-11-16T22:47:31+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/formgong/dead-forms-study",
+          "title": "Show HN: We submitted 105 AI-built contact forms – 27 said \"sent\", sent nothing",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524591"
+        }
+      ]
+    },
+    {
+      "id": "c923851ab65ff4360477",
+      "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup",
+      "title": "AI Killed the MVP – Long Live the IUP",
+      "original_title": "AI Killed the MVP – Long Live the IUP",
+      "published_at": "2026-11-16T22:47:26+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://steveblank.com/2026/09/25/ai-killed-the-mvp-long-live-the-iup",
+          "title": "AI Killed the MVP – Long Live the IUP",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524588"
+        }
+      ]
+    },
+    {
+      "id": "bb8266749d32e45d389a",
+      "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+      "title": "California Sues OpenAI over A.I. Safety Issues",
+      "original_title": "California Sues OpenAI over A.I. Safety Issues",
+      "published_at": "2026-11-16T22:42:21+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/11/16/technology/california-openai-ai-safety.html",
+          "title": "California Sues OpenAI over A.I. Safety Issues",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524523"
+        }
+      ]
+    },
+    {
+      "id": "16c99632466204479932",
+      "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+      "title": "BIS Issues Rule Addressing Remote Access to American AI",
+      "original_title": "BIS Issues Rule Addressing Remote Access to American AI",
+      "published_at": "2026-11-16T22:38:05+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+          "title": "BIS Issues Rule Addressing Remote Access to American AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524466"
+        }
+      ]
+    },
+    {
+      "id": "db8f24c11d7cbcc08be0",
+      "url": "https://www.youtube.com/watch?v=iUqU4Xe2D4E",
+      "title": "Claude vs. Dino [video]",
+      "original_title": "Claude vs. Dino [video]",
+      "published_at": "2026-11-16T22:37:07+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=iUqU4Xe2D4E",
+          "title": "Claude vs. Dino [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524457"
+        }
+      ]
+    },
+    {
+      "id": "c6dba805ea3f2812f802",
+      "url": "https://www.barrons.com/articles/jensen-huang-nvidia-stock-trust-grat-estate-tax-357c1fd3",
+      "title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before Downfall",
+      "original_title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before Downfall",
+      "published_at": "2026-11-16T22:34:56+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.barrons.com/articles/jensen-huang-nvidia-stock-trust-grat-estate-tax-357c1fd3",
+          "title": "Jensen Huang Passed Billions in Nvidia Stock to His Heirs Months Before Downfall",
+          "discussion_url": "https://news.ycombinator.com/item?id=50524439"
+        }
+      ]
+    },
+    {
+      "id": "bbcf1c67c70e2a48292c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42749",
+      "title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓",
+      "original_title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓",
+      "published_at": "2026-11-16T22:34:48+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 증시에서 인공지능(AI) 관련 대형 기술주가 일제히 하락하면서 나스닥지수가 2.5% 급락했다. AI 반도체 시장을 주도하는 엔비디아가 4% 넘게 떨어진 가운데 알파벳과 아마존, 테슬라 등 주요 빅테크 기업에도 매도세가 확산됐다.특히, 엔비디아(NVIDIA) 경영진을 둘러싼 불확실성과 첨단 AI 반도체 수출 규제…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42749",
+          "title": "美 증시, AI 빅테크 7개 종목 일제히 하락…엔비디아 4.1% 급락에 나스닥 2.5%↓"
+        }
+      ]
+    },
+    {
+      "id": "2c116d6d43ca7b46a880",
+      "url": "https://byline.network/2026/11/1116-11",
+      "title": "[기고] 기업 인공지능 전환, 모델 도입보다 업무 지식 체계화가 먼저다",
+      "original_title": "[기고] 기업 인공지능 전환, 모델 도입보다 업무 지식 체계화가 먼저다",
+      "published_at": "2026-11-16T22:30:56+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업의 인공지능(AI) 전환은 어떤 AI 모델을 도입할 것인지에서 시작하지 않는다. 중요한 것은 AI가 기업의 업무 방식과 판단 기준을 얼마나 이해하고 있는지다. 기업 현장에서 AI를 실제 의사결정에 활용하려면 문서에 담긴 정보를 추출하는 데 그쳐서는 안 된다. 추출한 정보가 어떤 업무 개념에 해당하는지, 어떤 기준…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1116-11",
+          "title": "[기고] 기업 인공지능 전환, 모델 도입보다 업무 지식 체계화가 먼저다"
+        }
+      ]
+    },
+    {
+      "id": "2be1284eeb479683b14e",
+      "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential",
+      "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "original_title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential",
+      "published_at": "2026-11-16T22:30:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Molecular dynamics (MD) is an indispensable tool across physics, chemistry, biology, and materials science. Owing to its arithmetic structure, particularly the... Molecular dyna…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/accelerate-molecular-dynamics-simulations-with-accurate-flexible-primitives-using-nvidia-cupotential",
+          "title": "Accelerate Molecular Dynamics Simulations with Accurate, Flexible Primitives Using NVIDIA cuPotential"
+        }
+      ]
+    },
+    {
+      "id": "e9c996a0e3b8ea616213",
+      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "original_title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "published_at": "2026-11-16T22:03:02+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia interim CEO and long-time CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third quarter results. Given th…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+          "title": "All the questions Nvidia should answer on Tuesday — but probably won’t"
+        }
+      ]
+    },
+    {
+      "id": "14d02fe3858af727d60d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217442",
+      "title": "[11월16일] 젠슨 황 복귀설에 시장 반색…그러나 스파이 의혹만이 문제가 아니다",
+      "original_title": "[11월16일] 젠슨 황 복귀설에 시장 반색…그러나 스파이 의혹만이 문제가 아니다",
+      "published_at": "2026-11-16T22:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO가 사임한 지 사흘 만에 복귀를 추진하고 있다는 소식에 시장이 반응했습니다. 15일 저녁(현지시간) 가상자산 파생상품 거래 플랫폼 하이퍼리퀴드에서 엔비디아 주가와 연동된 무기한 선물 가격이 최대 4.5% 상승했습니다.물론 이는 엔비디아 현물 주가가 아니라 주가 연동 무기한 선물로, 이 반응…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217442",
+          "title": "[11월16일] 젠슨 황 복귀설에 시장 반색…그러나 스파이 의혹만이 문제가 아니다"
+        }
+      ]
+    },
+    {
+      "id": "7777ee3cbba6ee2952c9",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats",
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "original_title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "published_at": "2026-11-16T21:31:44+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats",
+          "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats"
+        }
+      ]
+    },
+    {
+      "id": "1cdf5561dbc73d330c2f",
+      "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+      "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
+      "original_title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
+      "published_at": "2026-11-16T21:05:01+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kif Leswing / CNBC : Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it “a cornerstone compounder for a long time…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/16/altimeters-brad-gerstner-investing-5-billion-in-anthropic-ipo.html",
+          "title": "Brad Gerstner says Altimeter is aiming to invest $5B in Anthropic's IPO, 5x his largest IPO investment, calling it \"a cornerstone compounder for a long time\" (Kif Leswing/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261116/p43"
+        }
+      ]
+    },
+    {
+      "id": "4b5e13953f6ead09f8d9",
+      "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms",
+      "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "original_title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms",
+      "published_at": "2026-11-16T20:59:44+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security f…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms",
+          "title": "California sues OpenAI over AI agents escaping sandboxes, hacking firms"
+        }
+      ]
+    },
+    {
+      "id": "f4b8a2529de6bda0757b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
+      "title": "트럼프, 젠슨 황 CEO 복귀 지지…엔비디아 이사회는 논의 안 해",
+      "original_title": "트럼프, 젠슨 황 CEO 복귀 지지…엔비디아 이사회는 논의 안 해",
+      "published_at": "2026-11-16T20:54:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "도널드 트럼프 미국 대통령이 젠슨 황 전 엔비디아 CEO의 복귀를 공개적으로 지지했다. 실리콘밸리 주요 인사들과 엔비디아 직원, 주주들까지 복귀를 요구하는 가운데 트럼프도 힘을 보탰지만, 엔비디아 이사회는 아직 복귀를 검토하지 않고 있는 것으로 알려졌다.트럼프 대통령은 16일(현지시간) 백악관에서 아시아 순방을 떠나…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217468",
+          "title": "트럼프, 젠슨 황 CEO 복귀 지지…엔비디아 이사회는 논의 안 해"
+        }
+      ]
+    },
+    {
+      "id": "f1440c26fcf47849f066",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217467",
+      "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표",
+      "original_title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표",
+      "published_at": "2026-11-16T20:13:33+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "미국 정부가 중국 기업들이 해외 데이터센터에서 첨단 AI 반도체를 빌려 사용하는 것을 제한하는 새로운 규정을 발표했다. 중국으로의 직접 수출뿐 아니라 해외 GPU의 원격 이용까지 통제하고, 싱가포르와 말레이시아 등 5개국에 대한 첨단 반도체 수출 심사도 강화한다.미국 상무부 산업안보국(BIS)은 16일(현지시간) 공…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217467",
+          "title": "미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표"
+        }
+      ]
+    },
+    {
+      "id": "1738f67eaaddba29e970",
+      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "original_title": "California state AG sues OpenAI over rogue agent incidents",
+      "published_at": "2026-11-16T20:07:13+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents",
+          "title": "California state AG sues OpenAI over rogue agent incidents"
+        }
+      ]
+    },
+    {
+      "id": "ad137106d1f760f15fbc",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack",
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "original_title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "published_at": "2026-11-16T19:57:13+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack",
+          "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack"
+        }
+      ]
+    },
+    {
+      "id": "21550db8855da89129a8",
+      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "original_title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "published_at": "2026-11-16T19:12:02+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security",
+          "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security"
+        }
+      ]
+    },
+    {
+      "id": "abc1d3b99d4ccaa39891",
+      "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953",
+      "title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
+      "original_title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
+      "published_at": "2026-11-16T18:55:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Politico : California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards — Calif…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.politico.com/news/2026/11/16/bonta-sues-openai-over-rogue-ai-hack-of-hugging-face-01166953",
+          "title": "California's AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents due to OpenAI testing its AI models without adequate safeguards (Politico)",
+          "discussion_url": "https://www.techmeme.com/261116/p40"
+        }
+      ]
+    },
+    {
+      "id": "a962a9aff8c6e655813a",
+      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "original_title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "published_at": "2026-11-16T18:11:10+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine",
+          "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’"
+        }
+      ]
+    },
+    {
+      "id": "ae6d0c925a2ea21b250c",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg1MTkyNSwiZXhwIjoxNzk1NDU2NzI1LCJhcnRpY2xlSWQiOiJUT0xTTEdUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.r6LmtmU7Op0YupcW7NseYlZEPI3zLR_cnigfe6HXPcY",
+      "title": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)",
+      "original_title": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)",
+      "published_at": "2026-11-16T18:05:01+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Shirin Ghaffary / Bloomberg : Sam Altman says he has “personal strong empathy” for Jensen Huang and “heroes have flaws,” but the AI industry “will be fine” due to strong revenue…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/altman-says-ai-industry-will-be-fine-after-huang-s-ouster?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NDg1MTkyNSwiZXhwIjoxNzk1NDU2NzI1LCJhcnRpY2xlSWQiOiJUT0xTTEdUOTZPU0kwMCIsImJjb25uZWN0SWQiOiI4OUM4OTNDMDhGOTQ0NThDQkQwQTQyREY1RDFCOTY0QyJ9.r6LmtmU7Op0YupcW7NseYlZEPI3zLR_cnigfe6HXPcY",
+          "title": "Sam Altman says he has \"personal strong empathy\" for Jensen Huang and \"heroes have flaws,\" but the AI industry \"will be fine\" due to strong revenues and demand (Shirin Ghaffary/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261116/p38"
+        }
+      ]
+    },
+    {
+      "id": "17db6d2c34796311128c",
+      "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+      "title": "Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)",
+      "original_title": "Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)",
+      "published_at": "2026-11-16T17:43:06+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CNBC : Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang — Nvidia's board of director…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/16/nvidia-ceo-jensen-huang.html",
+          "title": "Source: Nvidia's board is not considering bringing Jensen Huang back as CEO and it is focused on a national security investigation into Huang (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261116/p37"
+        }
+      ]
+    },
+    {
+      "id": "474a91e84ee7b824ce9f",
+      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "original_title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "published_at": "2026-11-16T17:36:43+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours",
+          "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’"
+        }
+      ]
+    },
+    {
+      "id": "4e6009943a7de781fd19",
+      "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+      "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+      "original_title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+      "published_at": "2026-11-16T17:20:03+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic : Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery — We…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.anthropic.com/research/coordinated-vulnerability-disclosure-timelines",
+          "title": "Anthropic cuts its coordinated vulnerability disclosure window from 90 to 30 days for high- and critical-severity issues, in response to AI-driven bug discovery (Anthropic)",
+          "discussion_url": "https://www.techmeme.com/261116/p36"
+        }
+      ]
+    },
+    {
+      "id": "b5b8d2f9cb551dda74e9",
+      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "original_title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "published_at": "2026-11-16T17:10:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street",
+          "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’"
+        }
+      ]
+    },
+    {
+      "id": "af037def51a6f595e97d",
+      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "original_title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "published_at": "2026-11-16T17:02:43+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions ab…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion",
+          "title": "OpenAI will embed safety researchers to investigate AI subversion"
+        }
+      ]
+    },
+    {
+      "id": "dd659f011024f04f24b0",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "original_title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support"
+        }
+      ]
+    },
+    {
+      "id": "37e7777f21965965b8e8",
+      "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "original_title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+          "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+          "title": "OpenAI announces new tools to combat CSAM, including an image classifier and warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261116/p39"
+        }
+      ]
+    },
+    {
+      "id": "2d7a5d6b20fff3cd431e",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "title": "Broadening access to AI for scientists",
+      "original_title": "Broadening access to AI for scientists",
+      "published_at": "2026-11-16T17:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "title": "Broadening access to AI for scientists"
+        }
+      ]
+    },
+    {
+      "id": "8d3e797bf89409e7991e",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai",
+      "title": "Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)",
+      "original_title": "Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)",
+      "published_at": "2026-11-16T16:55:01+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Dina Bass / Bloomberg : Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures — A fi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-backs-genius-grant-winner-s-push-for-cost-efficient-ai",
+          "title": "Noeri, which is developing AI software to review and suggest improvements for its clients' AI models and tools, raised $110M led by Menlo Ventures (Dina Bass/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261116/p35"
+        }
+      ]
+    },
+    {
+      "id": "e5e272e7744c80be5ffb",
+      "url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain",
+      "title": "NVIDIA, 과학 분야용 Nemotron 모델의 사후 학습 레시피 공개",
+      "original_title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Agentic AI is reshaping scientific research and innovation. Researchers communicate complex scientific hypotheses in natural language and let autonomous agents... Agentic AI is …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/post-training-nvidia-nemotron-to-increase-accuracy-in-your-scientific-domain",
+          "title": "Post-Training NVIDIA Nemotron to Increase Accuracy in Your Scientific Domain"
+        }
+      ],
+      "summary": "NVIDIA가 과학 에이전트 워크로드용 모델·데이터셋·도구 모음인 'NVIDIA Nemotron for Science'를 소개하고, Nemotron 3.5 Super VL을 특정 연구 도메인에 맞춰 사후 학습하는 방법을 블로그에서 설명했다. 약물 대사 예측을 예시로 MetxBioDB 데이터를 활용해 강화학습 환경을 구축하고, GRPO와 LoRA로 미세 조정한 결과 SFT로 12%, RL 사후 학습으로 추가 17%의 정확도 향상을 보였다고 발표했다.",
+      "why_it_matters": "이 레시피는 실험 데이터를 검증 가능한 보상으로 전환해 도메인 특화 모델을 개선하는 방법을 제시한다. 과학 연구에서 AI 에이전트의 정확도와 효율을 높이는 데 기여할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T23:40:09+00:00",
+        "input_hash": "d85d8f76f2c767664d113fb33ce01fd613818b8aa0b646c6effbf0f0033f3412",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "bd4930e0839976d3ed7a",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0",
+      "title": "엔비디아, MLPerf Endpoints v1.0에서 베라 루빈 NVL72 에이전틱 추론 성능 공개",
+      "original_title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Agentic workloads are demanding more from inference systems. AI agents carry growing conversation histories across turns and generate a mix of reasoning, tool... Agentic workloa…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-leads-agentic-inference-performance-on-mlperf-endpoints-v1-0",
+          "title": "NVIDIA Vera Rubin NVL72 Leads Agentic Inference Performance on MLPerf Endpoints v1.0"
+        }
+      ],
+      "summary": "엔비디아가 MLPerf Endpoints v1.0에서 베라 루빈 NVL72의 잠정 결과로 GB300 NVL72 대비 프로비저닝 전력 1kW당 처리량이 10배 이상이라고 밝혔다. 이는 사용자당 초당 50토큰의 공통 최소 종단 간 상호작용성을 기준으로 한 비교이며, 키미 K3·딥시크-V4.1-플래시·Qwen3.6-35B-A3B 제출 결과가 포함됐다. GB300 결과는 MLCommons의 검증을 받았으나 베라 루빈 결과는 아직 검증 대기 중이다.",
+      "why_it_matters": "에이전틱 추론에서 전력당 처리량은 같은 전력 예산으로 더 많은 에이전트를 운영할 수 있는지를 가늠하는 지표로 제시됐다. 다만 베라 루빈 수치는 엔비디아가 발표한 잠정 결과로, 독립 검증 전까지는 확정된 성능으로 보기 어렵다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T23:40:04+00:00",
+        "input_hash": "f83525e386f03f0c21bf463a593047c4fa65fa55c56cfbfc1a9384ffa04d9596",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "7ec90737528b7237217e",
+      "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1",
+      "title": "엔비디아, MLPerf Training v6.1에서 Vera Rubin NVL72 첫 결과 공개",
+      "original_title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1",
+      "published_at": "2026-11-16T16:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "As AI agents tackle increasingly complex workflows, reducing time-to-train is critical for rapidly iterating on both models and the agents they power. MLPerf... As AI agents tac…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/nvidia-vera-rubin-nvl72-achieves-up-to-2x-blackwell-ultra-performance-in-mlperf-training-v6-1",
+          "title": "NVIDIA Vera Rubin NVL72 Achieves up to 2x Blackwell Ultra Performance in MLPerf Training v6.1"
+        }
+      ],
+      "summary": "엔비디아가 MLPerf Training v6.1에서 Vera Rubin 아키텍처를 처음 선보이며 7개 벤치마크 중 6개에서 가장 빠른 학습 시간을 기록했다고 발표했다. 회사에 따르면 Vera Rubin NVL72는 최적화된 GB300 NVL72 대비 최대 2배 성능을 냈고, 256→1,024 GPU 확장 시 97% 이상의 효율을 유지했다. GB300 NVL72는 10,240 GPU 클러스터로 DeepSeek-V3 671B에서 라운드 최고 절대 기록을 세웠다.",
+      "why_it_matters": "엔비디아의 발표는 새 아키텍처가 대규모 MoE 학습과 에이전트 후속 학습까지 폭넓게 적용될 수 있음을 보여주지만, 수치는 회사 주장이며 독립 검증 결과는 아니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T23:40:00+00:00",
+        "input_hash": "00f21af95ef4d331625d64f972191fb697f640a28e48ee4ac5759043378c0fbc",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "aca925b15bf1ae05b947",
+      "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "original_title": "Audible turns to AI to help users discover audiobooks",
+      "published_at": "2026-11-16T15:52:19+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks",
+          "title": "Audible turns to AI to help users discover audiobooks"
+        }
+      ]
+    },
+    {
+      "id": "76d8cdf96cdc9ce63391",
+      "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+      "title": "Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 (New York Times)",
+      "original_title": "Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 (New York Times)",
+      "published_at": "2026-11-16T15:10:04+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/16/business/insurance-ai-debt.html",
+          "title": "Moody's: major US life insurers like Athene held $85.2B in AI debt as of June 30, up 24% from December 31, and the figure could rise to $185B by the end of 2027 (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261116/p32"
+        }
+      ]
+    },
+    {
+      "id": "7e98012e3d4701368eed",
+      "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "original_title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "published_at": "2026-11-16T15:02:34+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely",
+          "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely"
+        }
+      ]
+    },
+    {
+      "id": "2108ac63e6edcc1dcd7d",
+      "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "original_title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "published_at": "2026-11-16T14:48:13+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop",
+          "title": "Google Maps can now build trip itineraries with real-time details about each stop"
+        }
+      ]
+    },
+    {
+      "id": "f9d7a29dcda82bb4485b",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon",
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "original_title": "Google warns that fully-automated AI attacks are coming soon",
+      "published_at": "2026-11-16T14:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon",
+          "title": "Google warns that fully-automated AI attacks are coming soon"
+        }
+      ]
+    },
+    {
+      "id": "11608d311d0047796796",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+      "title": "구글, 연말 여행·준비 돕는 Ask Maps 신규 기능 발표",
+      "original_title": "New Ask Maps features to help with holiday travel and prep",
+      "published_at": "2026-11-16T14:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026",
+          "title": "New Ask Maps features to help with holiday travel and prep"
+        }
+      ],
+      "summary": "구글이 연말 여행과 일상 준비를 돕는 Ask Maps 신규 기능을 발표했다. 사용자는 여행 일정을 만들고 실시간 경로 정보를 확인하며, 미용·반려동물 돌봄·수리 등 지역 예약 가능 여부를 검색하고 저장 목록에서 바로 이용 가능한 장소를 찾을 수 있다. 이번 업데이트는 안드로이드와 iOS에서 미국을 포함한 200개 이상 국가 및 지역에 순차 적용되며, 일부 기능은 미국에서 먼저 제공된다.",
+      "why_it_matters": "지도 앱이 단순 길 안내를 넘어 일정 구성과 예약까지 대행하는 방향으로 확장되는 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T23:39:55+00:00",
+        "input_hash": "88b9efbd596b13277665121c36dc85d8acfabcc80896200011ea48049f2036bd",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "806db9cd3ae0f854444a",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "original_title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "published_at": "2026-11-16T12:30:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+          "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
+        }
+      ]
+    },
+    {
+      "id": "d91fd06de7b8771ee8ad",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "original_title": "Science at the Frontier: How scientists use ChatGPT",
+      "published_at": "2026-11-16T12:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/science-at-the-frontier",
+          "title": "Science at the Frontier: How scientists use ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "904d5082a6b717926a23",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42748",
+      "title": "아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장",
+      "original_title": "아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장",
+      "published_at": "2026-11-16T11:57:31+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "아마존이 지상 약 640km 상공에 저궤도 위성을 배치하고, 위성 간 레이저 통신과 클라우드 인프라를 결합한 글로벌 인터넷망 구축에 속도를 내고 있다. 지상 통신망이 닿기 어려운 지역까지 초고속 인터넷을 제공하는 동시에, 인공지능(AI)과 클라우드 서비스를 활용할 수 있는 데이터 통신 기반을 전 세계로 확대한다는 구…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42748",
+          "title": "아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장"
+        }
+      ]
+    },
+    {
+      "id": "d0bdb88f323c2b216d39",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42747",
+      "title": "정부, 수능 앞두고 AI 악용 부정행위 차단 총력…적발 시 합격 취소·수사 의뢰",
+      "original_title": "정부, 수능 앞두고 AI 악용 부정행위 차단 총력…적발 시 합격 취소·수사 의뢰",
+      "published_at": "2026-11-16T11:03:21+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "세무사 시험 수석합격자가 인공지능(AI)과 첨단 스마트기기를 활용한 부정행위를 시인하면서 국가시험의 공정성 문제가 확산되고 있는 가운데 정부가 오는 19일 치러지는 2027학년도 대학수학능력시험을 앞두고 AI 스마트안경과 초소형 카메라, 이어폰 등을 악용한 첨단 부정행위 차단에 나섰다.시험장에서 스마트기기 소지 여부…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42747",
+          "title": "정부, 수능 앞두고 AI 악용 부정행위 차단 총력…적발 시 합격 취소·수사 의뢰"
+        }
+      ]
+    },
+    {
+      "id": "85689c23fd19b57765e3",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs",
+      "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "original_title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+      "published_at": "2026-11-16T11:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interest…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs",
+          "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs"
+        }
+      ]
+    },
+    {
       "id": "afc422dbb9f17708d835",
       "url": "https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029",
       "title": "I cheated: South Korean admits he used AI to achieve top score in national exam",
@@ -473,6 +1574,32 @@
       ]
     },
     {
+      "id": "9fe6d2ae73e55f52b807",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "title": "Our first phase of embedded assessments",
+      "original_title": "Our first phase of embedded assessments",
+      "published_at": "2026-11-16T08:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "title": "Our first phase of embedded assessments"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+          "title": "OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments (OpenAI)",
+          "discussion_url": "https://www.techmeme.com/261116/p33"
+        }
+      ]
+    },
+    {
       "id": "7c56cfebbd15bcf36a3f",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217456",
       "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
@@ -692,6 +1819,46 @@
           "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29",
           "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)",
           "discussion_url": "https://www.techmeme.com/261116/p2"
+        }
+      ]
+    },
+    {
+      "id": "21e886491b30cfff0403",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "original_title": "More ways to move care forward with ChatGPT for Healthcare",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "title": "More ways to move care forward with ChatGPT for Healthcare"
+        }
+      ]
+    },
+    {
+      "id": "21b4758ab52123ac78ff",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "original_title": "Advancing computer-use agents for healthcare teams",
+      "published_at": "2026-11-16T06:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "title": "Advancing computer-use agents for healthcare teams"
         }
       ]
     },
@@ -978,6 +2145,75 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
           "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링"
+        }
+      ]
+    },
+    {
+      "id": "8ec21efa2c62273428cb",
+      "url": "https://huggingface.co/blog/openrouter",
+      "title": "Hugging Face, OpenRouter 라우터로 오픈웨이트 모델 실행 간소화",
+      "original_title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/openrouter",
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run"
+        }
+      ],
+      "summary": "허깅페이스가 OpenRouter와 협력해 언어 모델 추론 요청을 OpenRouter 라우터로 전환한다. 이에 따라 허깅페이스 토큰으로 허브의 오픈웨이트 모델을 동일한 API로 호출할 수 있으며, OpenRouter가 실시간 가격·속도·안정성을 기준으로 80개 이상 제공자 중 최적의 제공자를 선택하고 실패 시 다른 제공자로 재시도한다. 이미지·비디오·오디오 생성은 기존처럼 허깅페이스 추론 제공자를 통해 처리된다.",
+      "why_it_matters": "오픈웨이트 모델 사용이 늘고 비용이 상대적으로 낮다는 점이 부각되면서, 라우팅 인프라를 통한 접근성과 안정성 개선이 오픈웨이트 생태계 확산에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T23:39:52+00:00",
+        "input_hash": "68ba397fcfb9352cc30dd3727334e751f822f46aedae408b77d1e9d3e28dc8f4",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "60f3c7381bc61eae5e3d",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "original_title": "The King’s Trust and OpenAI launch £1m partnership",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "title": "The King’s Trust and OpenAI launch £1m partnership"
+        }
+      ]
+    },
+    {
+      "id": "3d4aeac88b69acfaa9cd",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "original_title": "At Holiday Extras, dots get to work before anyone asks",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "collected_at": "2026-11-16T23:39:33+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+          "title": "At Holiday Extras, dots get to work before anyone asks"
         }
       ]
     },
