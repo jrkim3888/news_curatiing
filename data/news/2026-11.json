@@ -3,6 +3,438 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "7e1757e65d449b6cf78b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42740",
+      "title": "네이버, 카페 게시글·댓글 읽는 ‘AI 에이전트’ 도입…회원 등급 따라 답변 정보도 달라진다",
+      "original_title": "네이버, 카페 게시글·댓글 읽는 ‘AI 에이전트’ 도입…회원 등급 따라 답변 정보도 달라진다",
+      "published_at": "2026-11-16T00:44:51+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버가 온라인 커뮤니티에 축적된 게시글과 댓글을 인공지능(AI)이 분석해 회원의 질문에 답하는 ‘AI 카페 에이전트’를 도입했다.일반 검색에서 찾기 어려운 실제 이용 경험과 회원들의 의견을 AI 답변으로 제공하면서, 카페별 회원 등급에 따른 정보 접근 권한도 유지하는 방식이다. 네이버는 일본 여행과 전기차, 명품 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42740",
+          "title": "네이버, 카페 게시글·댓글 읽는 ‘AI 에이전트’ 도입…회원 등급 따라 답변 정보도 달라진다"
+        }
+      ]
+    },
+    {
+      "id": "55a4cebcb128c7dffa1c",
+      "url": "https://kinshu.co/castle-challenge",
+      "title": "1st place in the OpenAI × Citadel Securities × Sequoia Castle Challenge",
+      "original_title": "1st place in the OpenAI × Citadel Securities × Sequoia Castle Challenge",
+      "published_at": "2026-11-16T00:36:08+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kinshu.co/castle-challenge",
+          "title": "1st place in the OpenAI × Citadel Securities × Sequoia Castle Challenge",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512554"
+        }
+      ]
+    },
+    {
+      "id": "c88f316e61d33f064a88",
+      "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+      "title": "Perplexity partners with Nvidia to launch Portable Computer",
+      "original_title": "Perplexity partners with Nvidia to launch Portable Computer",
+      "published_at": "2026-11-16T00:19:26+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+          "title": "Perplexity partners with Nvidia to launch Portable Computer",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512421"
+        }
+      ]
+    },
+    {
+      "id": "8a766053c1eeef7e9c05",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42739",
+      "title": "\"사람은 색으로, 로봇은 근적외선으로 읽는다\"…KAIST, 사람·로봇 공용 유연 디스플레이 개발",
+      "original_title": "\"사람은 색으로, 로봇은 근적외선으로 읽는다\"…KAIST, 사람·로봇 공용 유연 디스플레이 개발",
+      "published_at": "2026-11-16T00:17:51+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "사람은 눈에 보이는 색으로 정보를 확인하고, 로봇은 카메라로 근적외선 패턴을 읽는 새로운 디스플레이 기술이 국내 연구진에 의해 개발됐다.하나의 화면에서 사람과 기계가 서로 다른 방식으로 정보를 인식할 수 있어, 향후 스마트공장과 피지컬 인공지능(Physical AI) 환경에서 작업자와 로봇이 정보를 공유하는 기술로 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42739",
+          "title": "\"사람은 색으로, 로봇은 근적외선으로 읽는다\"…KAIST, 사람·로봇 공용 유연 디스플레이 개발"
+        }
+      ]
+    },
+    {
+      "id": "7823fede14c0f4a59700",
+      "url": "https://www.crowdgpt.net/",
+      "title": "CrowdGPT – AI Owned by Everyone",
+      "original_title": "CrowdGPT – AI Owned by Everyone",
+      "published_at": "2026-11-16T00:13:30+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.crowdgpt.net/",
+          "title": "CrowdGPT – AI Owned by Everyone",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512383"
+        }
+      ]
+    },
+    {
+      "id": "a379af32143653185e3f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
+      "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+      "original_title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링정상혁 | 위키북스2026년 11월 12일추천이유개발자가 AI 에이전트가 생성한 배치 코드를 효과적으로 감독하고 검증하는 방법을 스프링 배치의 핵심 원리와 함께 설명합니다. 이 책은 개발 환경과 운영 환경의 데이터 크기 차이로 인한 문제를 해결하고, AI 시대에 안…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217277",
+          "title": "[AI리더의 서가] AI 에이전트와 스프링 배치를 활용한 배치 엔지니어링"
+        }
+      ]
+    },
+    {
+      "id": "e39f76e48e249d19e433",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia",
+      "title": "What's Next for Nvidia?",
+      "original_title": "What's Next for Nvidia?",
+      "published_at": "2026-11-15T23:55:55+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia",
+          "title": "What's Next for Nvidia?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512235"
+        }
+      ]
+    },
+    {
+      "id": "69a3c08503fb3a0b5ea6",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+      "title": "The efficient frontier of LLM inference",
+      "original_title": "The efficient frontier of LLM inference",
+      "published_at": "2026-11-15T23:55:50+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference",
+          "title": "The efficient frontier of LLM inference",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512233"
+        }
+      ]
+    },
+    {
+      "id": "094fa3e63726fc9325a0",
+      "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+      "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+      "original_title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+      "published_at": "2026-11-15T23:33:53+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "title": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512047"
+        }
+      ]
+    },
+    {
+      "id": "61200927e23c6bf1a95c",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "original_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "published_at": "2026-11-15T23:30:00+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+          "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market"
+        }
+      ]
+    },
+    {
+      "id": "62499695b24c28e47098",
+      "url": "https://finance.biggo.com/news/71888475bad974d6",
+      "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+      "original_title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+      "published_at": "2026-11-15T23:27:34+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://finance.biggo.com/news/71888475bad974d6",
+          "title": "GLM Models Cut AI Coding Costs 90% for 2k Engineers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50512000"
+        }
+      ]
+    },
+    {
+      "id": "6ba114c21fbdab667de3",
+      "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15",
+      "title": "Jensen Huang might return to Nvidia as CEO",
+      "original_title": "Jensen Huang might return to Nvidia as CEO",
+      "published_at": "2026-11-15T23:24:53+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/china/jensen-huang-discusses-comeback-nvidia-ceo-with-allies-ft-reports-2026-11-15",
+          "title": "Jensen Huang might return to Nvidia as CEO",
+          "discussion_url": "https://news.ycombinator.com/item?id=50511982"
+        }
+      ]
+    },
+    {
+      "id": "5665216703203543fd8d",
+      "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+      "title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+      "original_title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+      "published_at": "2026-11-15T23:00:00+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement — Th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+          "title": "Sources: Anthropic's IPO is ~7x oversubscribed; Anthropic and some of its backers are seeking to raise up to $90.4B via the IPO and a separate private placement (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261115/p18"
+        }
+      ]
+    },
+    {
+      "id": "6c2c64409dfbba0f00e1",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "original_title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "published_at": "2026-11-15T22:58:04+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+          "discussion_url": "https://news.ycombinator.com/item?id=50511793"
+        }
+      ]
+    },
+    {
+      "id": "379ccbb70854194211c4",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+      "title": "Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",
+      "original_title": "Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",
+      "published_at": "2026-11-15T22:53:51+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+          "title": "Huang Discusses Comeback as Nvidia Chief with Allies, FT Says",
+          "discussion_url": "https://news.ycombinator.com/item?id=50511763"
+        }
+      ]
+    },
+    {
+      "id": "81bd1d475d0e0d43a0b3",
+      "url": "https://epochai.substack.com/p/what-huaweis-horinger-data-center",
+      "title": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)",
+      "original_title": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)",
+      "published_at": "2026-11-15T22:02:17+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ben Cottier / Epoch AI : Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at le…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://epochai.substack.com/p/what-huaweis-horinger-data-center",
+          "title": "Analysis: Huawei's Horinger data center, among China's largest for AI, has ~7% of the compute of SpaceX's Colossus 2 and may stay far behind until at least 2028 (Ben Cottier/Epoch AI)",
+          "discussion_url": "https://www.techmeme.com/261115/p16"
+        }
+      ]
+    },
+    {
+      "id": "2e8f421d2ee2a3dfd36b",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "original_title": "A step toward defining the Standard Model on a lattice",
+      "published_at": "2026-11-15T22:00:01+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "title": "A step toward defining the Standard Model on a lattice"
+        }
+      ]
+    },
+    {
+      "id": "33b95c2112c46efd0955",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "title": "Our new blog for science",
+      "original_title": "Our new blog for science",
+      "published_at": "2026-11-15T22:00:00+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "title": "Our new blog for science"
+        }
+      ]
+    },
+    {
+      "id": "24cbece72f55c409692d",
+      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "published_at": "2026-11-15T21:56:35+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+          "title": "Is bad news for Jensen Huang also bad news for the AI industry?"
+        }
+      ]
+    },
+    {
+      "id": "f177a04f0533ce42a335",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+      "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진",
+      "original_title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진",
+      "published_at": "2026-11-15T20:32:58+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO가 사임한 지 며칠 만에 측근들과 복귀 가능성을 논의하기 시작한 것으로 알려졌다. 실리콘밸리 주요 경영진은 복귀를 위한 조직적인 로비에 나서고 백악관의 지원까지 확보할 계획이다.파이낸셜타임스(FT)는 15일(현지시간) 복수의 소식통을 인용해 황 전 CEO가 측근들과 엔비디아 CEO 복귀 가…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217428",
+          "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진"
+        }
+      ]
+    },
+    {
+      "id": "3ea624e61126b81c7ebf",
+      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "original_title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "published_at": "2026-11-15T20:20:57+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+          "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft"
+        }
+      ]
+    },
+    {
       "id": "303a41af7e5b3ea10bc4",
       "url": "https://www.youtube.com/watch?v=4NExTWq_wvk",
       "title": "Vibecoding in Plato's Cave (AI, Music Tech, and Star Trek) [video]",
@@ -173,6 +605,27 @@
           "url": "https://www.pangglow.com/files/blog/run-my-desktop.html?from=hn-agweb",
           "title": "AI streamlined my digital life",
           "discussion_url": "https://news.ycombinator.com/item?id=50509835"
+        }
+      ]
+    },
+    {
+      "id": "7739f987fb24a20d41af",
+      "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&syn-25a6b1a6=1&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b",
+      "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+      "original_title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+      "published_at": "2026-11-15T19:20:00+00:00",
+      "collected_at": "2026-11-16T00:48:11+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a “war room” to lobby for his return and seek White House support …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/45383d86-33c4-4d99-86e5-5e058d3567c1?accessToken=zwAAAaHhCqBRkc9FOD2GM8RNmdOG5V4FjTVnwQ.MEYCIQCZEg_GADuUi3HMzfVy4L3GgdXzwW5GpeLTdxDHbMhYXQIhAKQz7pVUZgb0WKGUJq30p1B5vEF2gPlUop1e8Yzyol24&sharetype=gift&syn-25a6b1a6=1&token=35d995ef-ed14-4cc4-8323-31a3da06ba1b",
+          "title": "Sources: Jensen Huang has discussed a comeback as Nvidia CEO with confidants, as allies form a \"war room\" to lobby for his return and seek White House support (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261115/p14"
         }
       ]
     },
