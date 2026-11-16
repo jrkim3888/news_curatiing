@@ -3,6 +3,862 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "afc422dbb9f17708d835",
+      "url": "https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029",
+      "title": "I cheated: South Korean admits he used AI to achieve top score in national exam",
+      "original_title": "I cheated: South Korean admits he used AI to achieve top score in national exam",
+      "published_at": "2026-11-16T10:42:13+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cbc.ca/news/world/south-korea-tax-accounting-exam-ai-cheating-9.7423029",
+          "title": "I cheated: South Korean admits he used AI to achieve top score in national exam",
+          "discussion_url": "https://news.ycombinator.com/item?id=50516127"
+        }
+      ]
+    },
+    {
+      "id": "0f8fcc61d089314a22dc",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/baidu-posts-sixth-straight-sales-drop-after-ai-drag-persists",
+      "title": "Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue (Bloomberg)",
+      "original_title": "Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue (Bloomberg)",
+      "published_at": "2026-11-16T10:40:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Bloomberg : Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue — Bai…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-16/baidu-posts-sixth-straight-sales-drop-after-ai-drag-persists",
+          "title": "Baidu reports Q3 revenue down 1% YOY to ~$4.6B, its sixth straight quarterly sales decline, and net income of ~$210M; AI businesses are now 50%+ of its revenue (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261116/p12"
+        }
+      ]
+    },
+    {
+      "id": "23e7ea28b632a7cf98f3",
+      "url": "https://www.youtube.com/watch?v=OPZCQk8jF-I",
+      "title": "Tao Lin (Anthropic): \"Pretty Much All Humans Will Be Permanently Unemployable\" [video]",
+      "original_title": "Tao Lin (Anthropic): \"Pretty Much All Humans Will Be Permanently Unemployable\" [video]",
+      "published_at": "2026-11-16T10:06:12+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=OPZCQk8jF-I",
+          "title": "Tao Lin (Anthropic): \"Pretty Much All Humans Will Be Permanently Unemployable\" [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50515910"
+        }
+      ]
+    },
+    {
+      "id": "61b250377431b7bceb55",
+      "url": "https://www.channelnewsasia.com/commentary/commentary-microsoft-discovers-ai-cant-keep-email-going-6552846",
+      "title": "Microsoft discovers AI can't keep the email going",
+      "original_title": "Microsoft discovers AI can't keep the email going",
+      "published_at": "2026-11-16T09:59:10+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.channelnewsasia.com/commentary/commentary-microsoft-discovers-ai-cant-keep-email-going-6552846",
+          "title": "Microsoft discovers AI can't keep the email going",
+          "discussion_url": "https://news.ycombinator.com/item?id=50515867"
+        }
+      ]
+    },
+    {
+      "id": "1788014a9d0901a89975",
+      "url": "https://github.com/adi-devv/fifty-shades-of-claude",
+      "title": "Show HN: Fifty Shades of Claude (Book as a Skill)",
+      "original_title": "Show HN: Fifty Shades of Claude (Book as a Skill)",
+      "published_at": "2026-11-16T09:58:57+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/adi-devv/fifty-shades-of-claude",
+          "title": "Show HN: Fifty Shades of Claude (Book as a Skill)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50515865"
+        }
+      ]
+    },
+    {
+      "id": "679299ca97b8d695a938",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42746",
+      "title": "“AI가 연구하고, 설계하고, 검증한다”…알리바바, 신약 개발·제조 혁신할 ‘큐웬4 맥스’ 공개",
+      "original_title": "“AI가 연구하고, 설계하고, 검증한다”…알리바바, 신약 개발·제조 혁신할 ‘큐웬4 맥스’ 공개",
+      "published_at": "2026-11-16T09:56:52+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 알리바바가 총 2조4000억 개 매개변수를 갖춘 차세대 인공지능(AI) 모델 ‘큐웬4 맥스’를 공개하고, 제조 공정 자동화와 신약 후보 분자 설계 등 산업·과학 연구 분야로 에이전틱 AI 기술을 확대한다.이전 모델보다 추론에 필요한 토큰 사용량과 작업당 비용을 줄이는 동시에, 여러 도구를 활용해 복잡한 업무를 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42746",
+          "title": "“AI가 연구하고, 설계하고, 검증한다”…알리바바, 신약 개발·제조 혁신할 ‘큐웬4 맥스’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "164a91dd9cb88a37567e",
+      "url": "https://medium.com/@smoking2man/generative-artificial-intelligence-and-the-limits-of-the-corpus-why-the-reconstruction-of-69f8748cf380",
+      "title": "Generative Artificial Intelligence and the Limits of the Corpus",
+      "original_title": "Generative Artificial Intelligence and the Limits of the Corpus",
+      "published_at": "2026-11-16T09:45:21+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://medium.com/@smoking2man/generative-artificial-intelligence-and-the-limits-of-the-corpus-why-the-reconstruction-of-69f8748cf380",
+          "title": "Generative Artificial Intelligence and the Limits of the Corpus",
+          "discussion_url": "https://news.ycombinator.com/item?id=50515780"
+        }
+      ]
+    },
+    {
+      "id": "f5641565bf91a10e32ea",
+      "url": "https://byline.network/2026/11/16-753",
+      "title": "솔리드웍스 CEO가 그리는 생성형 설계의 미래",
+      "original_title": "솔리드웍스 CEO가 그리는 생성형 설계의 미래",
+      "published_at": "2026-11-16T09:44:49+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“AI는 디자인 제작을 매우 쉽게 만들어 줄 것이지만, 제작물이 많아지면 그 결과물을 입증하는 것이 더욱 중요해진다. AI가 수많은 모델을 만들어내더라도 그중 하나가 올바른 모델이라는 것을 증명하는 것이 매우 가치 있게 여겨지는 것이고, 바로 그 지점에서 엔지니어의 가치가 드러난다.” -마니쉬 쿠마 다쏘시스템 솔리드…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/16-753",
+          "title": "솔리드웍스 CEO가 그리는 생성형 설계의 미래"
+        }
+      ]
+    },
+    {
+      "id": "e2a30f097330fbd744cc",
+      "url": "https://www.reuters.com/world/china/inside-chinas-drive-build-an-ai-native-generation-2026-11-16",
+      "title": "A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages (Reuters)",
+      "original_title": "A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages (Reuters)",
+      "published_at": "2026-11-16T09:35:02+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages — At a…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/china/inside-chinas-drive-build-an-ai-native-generation-2026-11-16",
+          "title": "A look at China's push for AI literacy by 2030, as schools adopt AI-focused curricula, classroom cameras, and AI-generated lessons to mitigate teacher shortages (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261116/p10"
+        }
+      ]
+    },
+    {
+      "id": "8785fa099c190094d251",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217466",
+      "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
+      "original_title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감",
+      "published_at": "2026-11-16T09:31:44+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "알리바바가 차세대 AI 모델 '큐원4 맥스(Qwen4-Max)'의 기술 사양과 성능 평가 결과를 공개하고 정식 출시했다. 전작과 같은 2조4000억개 규모의 매개변수를 유지하면서 실제 연산에 사용하는 매개변수를 25% 줄였으며, 외부 평가에서는 성능이 향상되고 작업당 비용은 약 67% 감소한 것으로 나타났다.알리바바…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217466",
+          "title": "알리바바 '큐원4 맥스' 정식 출시…성능 높이고 작업 비용 67% 절감"
+        }
+      ]
+    },
+    {
+      "id": "4934191195d54900a40a",
+      "url": "https://gcore.com/blog/ai-offensive-security-endpoints-artex-pentagi-cairn",
+      "title": "We found 1,698 Internet-visible AI offensive-security endpoints",
+      "original_title": "We found 1,698 Internet-visible AI offensive-security endpoints",
+      "published_at": "2026-11-16T09:26:57+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://gcore.com/blog/ai-offensive-security-endpoints-artex-pentagi-cairn",
+          "title": "We found 1,698 Internet-visible AI offensive-security endpoints",
+          "discussion_url": "https://news.ycombinator.com/item?id=50515662"
+        }
+      ]
+    },
+    {
+      "id": "cbecd504b8452348a54f",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42745",
+      "title": "“양자컴퓨팅으로 신약 개발의 한계 넘겠다”…조은성 인세리브로 대표, 글로벌 제약기업 도전",
+      "original_title": "“양자컴퓨팅으로 신약 개발의 한계 넘겠다”…조은성 인세리브로 대표, 글로벌 제약기업 도전",
+      "published_at": "2026-11-16T09:23:06+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 신약 개발의 속도를 높이고 있지만, 새로운 치료 표적에 대한 데이터가 부족하면 AI의 예측 능력에도 한계가 발생한다. 이러한 문제를 해결하기 위해 양자역학에 기반한 계산과 양자컴퓨팅을 활용해 신약 개발의 정확성과 효율성을 높이려는 국내 기업이 있다.조은성 인세리브로(InSilicoBrO) 대표는 물…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42745",
+          "title": "“양자컴퓨팅으로 신약 개발의 한계 넘겠다”…조은성 인세리브로 대표, 글로벌 제약기업 도전"
+        }
+      ]
+    },
+    {
+      "id": "3f5f8c9cb525f6b1baf4",
+      "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a",
+      "title": "Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI \"picks and shovels\" trade swings into reverse (Clara Murray/Financial Times)",
+      "original_title": "Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI \"picks and shovels\" trade swings into reverse (Clara Murray/Financial Times)",
+      "published_at": "2026-11-16T09:20:02+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Clara Murray / Financial Times : Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI “picks and shovels” trade swi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a",
+          "title": "Analysis: global manufacturing, utility, and mining companies have shed $4.2T in market value since June as the AI \"picks and shovels\" trade swings into reverse (Clara Murray/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261116/p9"
+        }
+      ]
+    },
+    {
+      "id": "38bdd4c0892ff43ef411",
+      "url": "https://mopup.online/guides/coding-agent-worktrees",
+      "title": "How to clean up the worktrees Claude Code, Cursor and Codex leave behind",
+      "original_title": "How to clean up the worktrees Claude Code, Cursor and Codex leave behind",
+      "published_at": "2026-11-16T09:15:31+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mopup.online/guides/coding-agent-worktrees",
+          "title": "How to clean up the worktrees Claude Code, Cursor and Codex leave behind",
+          "discussion_url": "https://news.ycombinator.com/item?id=50515592"
+        }
+      ]
+    },
+    {
+      "id": "3002fec83401bb63e94e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217465",
+      "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진",
+      "original_title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진",
+      "published_at": "2026-11-16T09:06:58+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 정부가 엔비디아와 오픈AI, 앤트로픽 등 주요 AI 기업 20여곳을 '국가 대표기업(National Champions)'으로 선정하고 해외 사업 수주를 지원할 계획이다. 반도체와 AI 모델, 클라우드 등을 하나로 묶어 수출하고 정부가 금융과 외교, 수출 허가 절차까지 지원하는 것으로, 중국과의 글로벌 AI 시장…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217465",
+          "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 '국가 대표기업' 지정 추진"
+        }
+      ]
+    },
+    {
+      "id": "b53124f30b6a8a283fb8",
+      "url": "https://d2.naver.com/helloworld/5976687",
+      "title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발",
+      "original_title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발",
+      "published_at": "2026-11-16T09:04:47+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 '자율 그래프 주도 개발(Autonomous Graph-Driven Development)'에서는 사람의 직접적인 지시 없이 그래프가 프로젝트 진행을 주도합니다. 스펙 문서와 코드는 A…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/5976687",
+          "title": "노트북을 닫아도 개발은 계속된다: 자율 그래프 주도 개발"
+        }
+      ]
+    },
+    {
+      "id": "ff7833693fa2a06713dc",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "original_title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "title": "LVMH’s Media Division announces strategic partnership with OpenAI"
+        }
+      ]
+    },
+    {
+      "id": "1f9e99e6ffffa7e1782f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217463",
+      "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
+      "original_title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
+      "published_at": "2026-11-16T09:00:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "1년 전 미국 기업들이 주도했던 영상 생성 모델 성능 평가에서 중국 기업들이 최상위권을 차지했다. 알리바바의 '완 3.0(Wan 3.0)'이 1위, 미니맥스의 오픈웨이트 모델 'H3'가 3위에 올랐으며, 바이트댄스의 '시댄스 2.5(Seedance 2.5)'도 4위를 기록했다.아티피셜 애널리시스(AA)의 13일 기준…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217463",
+          "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악"
+        }
+      ]
+    },
+    {
+      "id": "3eb46171975355db4506",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217455",
+      "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
+      "original_title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단",
+      "published_at": "2026-11-16T08:57:15+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트그룹이 로봇이 손끝의 촉각 정보를 이해하고 물체를 잡는 힘까지 판단할 수 있도록 하는 AI 모델을 공개했다. 시각과 언어, 동작 생성에 이어 촉각까지 로봇 AI에 결합한 것으로, 열쇠로 자물쇠를 열거나 치약을 적절한 힘으로 짜는 등 섬세한 손동작을 구현할 수 있도록 했다.앤트그룹 산하 로비앤트(Robbyant)는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217455",
+          "title": "앤트그룹, 로봇에 '촉각' 더하는 AI 공개…물체 잡는 힘까지 판단"
+        }
+      ]
+    },
+    {
+      "id": "0c9bc27a0d07f0270b84",
+      "url": "https://d2.naver.com/helloworld/9994827",
+      "title": "Image AI 서빙 최적화: CPU와 GPU의 빈 시간을 줄여 H100 67장을 절감하기까지",
+      "original_title": "Image AI 서빙 최적화: CPU와 GPU의 빈 시간을 줄여 H100 67장을 절감하기까지",
+      "published_at": "2026-11-16T08:52:31+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 SNOW의 16개 Image AI 서비스에서 응답 속도와 안정성을 높이면서, H100 환산 약 67장의 GPU 자원을 절감한 경험을 공유합니다. LitServe 전환과 함께 불필요한 연…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/9994827",
+          "title": "Image AI 서빙 최적화: CPU와 GPU의 빈 시간을 줄여 H100 67장을 절감하기까지"
+        }
+      ]
+    },
+    {
+      "id": "d5b3bec79a6d174cd013",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217462",
+      "title": "수주잔고 100배 폭증… 국내 AI 인프라 업계, 3분기 실적 '약진'",
+      "original_title": "수주잔고 100배 폭증… 국내 AI 인프라 업계, 3분기 실적 '약진'",
+      "published_at": "2026-11-16T08:38:33+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국내 AI 인프라 서비스 기업들이 시장의 의구심과 우려 속에서도 3분기 들어 약진한 실적을 보이며 본격적인 성장곡선 진입에 대한 기대감을 높이고 있다. 다만, 아직은 1~2년 단기 계약과 정부사업 및 단일 고객 의존도가 높다는 제약도 향후 넘어야 할 과제로 제기되고 있다. 씨이랩(대표 윤세혁·채정환)은 올해 3분기 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217462",
+          "title": "수주잔고 100배 폭증… 국내 AI 인프라 업계, 3분기 실적 '약진'"
+        }
+      ]
+    },
+    {
+      "id": "ad48a38be1d40094b3fc",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217447",
+      "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%",
+      "original_title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%",
+      "published_at": "2026-11-16T08:18:33+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 사람의 작업 영상을 보고 새로운 동작을 학습하는 데 이어, 자신의 행동으로 주변 환경이 어떻게 변할지까지 예측하는 차세대 로봇 AI 모델 '그루트 2(GR00T 2)'를 공개했다. 새로운 작업 50개를 대상으로 한 실험에서 추가 시연 없이 평균 40%의 성공률을 기록했으며, 작업당 5회의 시연과 30분간의…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217447",
+          "title": "엔비디아 '그루트 2', 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%"
+        }
+      ]
+    },
+    {
+      "id": "ac81cc3b06efcbcdc7be",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217459",
+      "title": "전력난·주민 반발에 AI 데이터센터 바다로…파력 발전까지 추진",
+      "original_title": "전력난·주민 반발에 AI 데이터센터 바다로…파력 발전까지 추진",
+      "published_at": "2026-11-16T08:06:36+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "주민 반발과 전력·냉각수 확보 문제로 육상 데이터센터 건설이 어려워지면서 기업들이 바다로 눈을 돌리고 있다. 파도와 조류를 이용해 전력을 생산하고 바닷물로 서버를 냉각하는 해상 데이터센터는 아직 개발 초기 단계지만, 대규모 투자와 함께 상용화를 위한 실증 사업도 추진되고 있다.월스트리트저널(WSJ)은 14일(현지시간…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217459",
+          "title": "전력난·주민 반발에 AI 데이터센터 바다로…파력 발전까지 추진"
+        }
+      ]
+    },
+    {
+      "id": "7c56cfebbd15bcf36a3f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217456",
+      "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
+      "original_title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신",
+      "published_at": "2026-11-16T08:00:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 멋쟁이사자처럼(대표 나성영)은 베트남 호치민에 피지컬 AI 현장 데이터 거점 '피지컬 AI 데이터랩'을 개소했다고 밝혔다. 약 131㎡ 규모에 주방·세탁·조립 등 7개 작업 셀을 갖췄다. 작업자가 비전 장치·촉각 장갑 등 웨어러블 장비를 착용하고, 학습 데이터를 수집하는 방식이다. 해당 데이터랩은 국내 대학 연구…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217456",
+          "title": "[게시판] 멋쟁이사자처럼 베트남에 '피지컬 AI 데이터랩' 개소 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "85ca86b5434f813ffb2d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217446",
+      "title": "젠슨 황이 키운 동남아 AI 컴퓨팅 사업…미국 규제 강화에 위기",
+      "original_title": "젠슨 황이 키운 동남아 AI 컴퓨팅 사업…미국 규제 강화에 위기",
+      "published_at": "2026-11-16T07:59:26+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO가 미국의 첨단 반도체 수출 제한 속에서도 중국 고객을 유지하기 위해 동남아시아 데이터센터와 현지 클라우드 협력사 네트워크를 확대해 온 것으로 드러났다. 중국 기업들이 해외 데이터센터의 GPU를 원격으로 이용하는 사업이 급성장했지만, 최근 반도체 밀수 의혹과 미국의 규제 강화 움직임으로 사…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217446",
+          "title": "젠슨 황이 키운 동남아 AI 컴퓨팅 사업…미국 규제 강화에 위기"
+        }
+      ]
+    },
+    {
+      "id": "11b3e869cb95d076cfaf",
+      "url": "https://d2.naver.com/helloworld/1599966",
+      "title": "흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기",
+      "original_title": "흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기",
+      "published_at": "2026-11-16T07:55:27+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 네이버의 검색·피드·광고 등 다양한 도메인의 데이터와 추천 기술을 연결하는 버티컬 추천 모델의 개발 및 서비스 적용 경험을 소개하고, 서빙·최적화와 지식 증류를 통한 도메인 간 지식 전이 …",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/1599966",
+          "title": "흩어진 행동을 연결하다: 네이버 전 지면의 사용자 행동을 학습하는 추천 모델 개발기"
+        }
+      ]
+    },
+    {
+      "id": "b6a777240fed18829f2d",
+      "url": "https://d2.naver.com/helloworld/4049909",
+      "title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다.",
+      "original_title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다.",
+      "published_at": "2026-11-16T07:55:13+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 코드만 남아 있던 14년 된 카페 관리도구를 AI와 함께 분석하고, Storybook과 MSW로 화면과 동작을 재현하며 새로운 카페 스튜디오를 개발했습니다. 이 과정에서 기획, 디자인,…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/4049909",
+          "title": "카페 관리도구 개편기: 문서는 낡았고, 사람은 떠났고, 코드만 남았다."
+        }
+      ]
+    },
+    {
+      "id": "5f59c529275bda772997",
+      "url": "https://byline.network/2026/11/1116-10",
+      "title": "AI 장애 대응, 과거 데이터가 좌우한다…엘라스틱 “삭제보다 보존”",
+      "original_title": "AI 장애 대응, 과거 데이터가 좌우한다…엘라스틱 “삭제보다 보존”",
+      "published_at": "2026-11-16T07:54:55+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업이 IT 인프라 운영 비용을 줄이기 위해 과거 데이터를 삭제하면 AI 기반 장애 탐지와 원인 분석 기능이 저하될 수 있다는 지적이 나왔다. AI가 정상적인 시스템 패턴과 장애 원인을 정확하게 파악하려면 로그·메트릭·트레이스 등 텔레메트리 데이터와 과거 장애 기록을 충분히 보존해야 한다. 전문가들은 비용 효율적인 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1116-10",
+          "title": "AI 장애 대응, 과거 데이터가 좌우한다…엘라스틱 “삭제보다 보존”"
+        }
+      ]
+    },
+    {
+      "id": "0991782d98dbbd71996d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217452",
+      "title": "중국 에이스, AI 보컬 음악 생성 세계 1위…수노 제쳤다",
+      "original_title": "중국 에이스, AI 보컬 음악 생성 세계 1위…수노 제쳤다",
+      "published_at": "2026-11-16T07:43:33+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 기업들이 이미지와 영상 생성에 이어 음악 생성 분야에서도 존재감을 키우고 있다. AI 보컬 합성 기술을 앞세운 에이스 스튜디오가 글로벌 음악 생성 AI 평가에서 미국 수노를 앞지르며 시장 경쟁 구도에 변화를 예고했다. 중국 AI 음악 기업 에이스 스튜디오(ACE Studio)의 지난 10일(현지시간) 음악…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217452",
+          "title": "중국 에이스, AI 보컬 음악 생성 세계 1위…수노 제쳤다"
+        }
+      ]
+    },
+    {
+      "id": "4de90df7c2ba0cd0a984",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217460",
+      "title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원",
+      "original_title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원",
+      "published_at": "2026-11-16T07:36:38+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 최초의 AI 생성 장편 영화가 극장 흥행에 실패했다. 배우와 실사 촬영 없이 제작했다는 기술적 성과에도 불구하고 어색한 표정과 장면 간 시각적 불일치, 매끄럽지 못한 이야기 전개가 관객들의 외면을 받았다. AI 콘텐츠가 일상화된 중국에서도 극장 영화에는 여전히 인간의 창작과 감성을 기대한다는 분석이 나온다.사우…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217460",
+          "title": "배우 없이 만든 중국 첫 AI 영화, 흥행 참패…3주간 3.6억원"
+        }
+      ]
+    },
+    {
+      "id": "6aa866735c20c9159416",
+      "url": "https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows",
+      "title": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)",
+      "original_title": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)",
+      "published_at": "2026-11-16T07:35:02+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Heather Landi / Fierce Healthcare : Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.fiercehealthcare.com/health-tech/zus-health-secures-33m-build-infrastructure-ai-powered-clinical-workflows",
+          "title": "Zus Health, which is building an AI-native healthcare data platform, raised a $33M Series B led by Drive Capital, bringing its total funding to $100M+ (Heather Landi/Fierce Healthcare)",
+          "discussion_url": "https://www.techmeme.com/261116/p5"
+        }
+      ]
+    },
+    {
+      "id": "5ac3025eaf37c235fb50",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217461",
+      "title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동",
+      "original_title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동",
+      "published_at": "2026-11-16T07:16:13+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국에서 AI 음악 창작자들을 위한 첫 시상식이 열려 빌보드 차트에 진입한 AI 가수 '자니아 모네(Xania Monet)'가 4관왕을 차지했다. 기존 음악계가 AI 음악의 저작권과 창작자 자격을 놓고 논쟁을 벌이는 가운데, AI 음악 제작자들이 독자적인 차트와 인증·시상 체계를 구축하며 새로운 음악 분야로 인정받기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217461",
+          "title": "AI 가수 '자니아 모네', 첫 AI 음악상 4관왕…'AI판 그래미' 시동"
+        }
+      ]
+    },
+    {
+      "id": "38a26df579195b446535",
+      "url": "https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms",
+      "title": "Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, taking its total funding to $29.2M after a $4.2M pre-seed in Nov. 2025 (Sofia Chesnokova/Tech Funding News)",
+      "original_title": "Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, taking its total funding to $29.2M after a $4.2M pre-seed in Nov. 2025 (Sofia Chesnokova/Tech Funding News)",
+      "published_at": "2026-11-16T06:55:04+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Sofia Chesnokova / Tech Funding News : Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, taking its total funding to $29.2M after a $4.2M …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://techfundingnews.com/sumary-25m-seed-ai-accounting-firms",
+          "title": "Copenhagen-based AI accounting software maker Sumary raised a $25M seed led by Singular, taking its total funding to $29.2M after a $4.2M pre-seed in Nov. 2025 (Sofia Chesnokova/Tech Funding News)",
+          "discussion_url": "https://www.techmeme.com/261116/p4"
+        }
+      ]
+    },
+    {
+      "id": "4e3394fe9b24fae14c69",
+      "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29",
+      "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)",
+      "original_title": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)",
+      "published_at": "2026-11-16T06:05:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas — Jensen Hua…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/3062790a-553d-41b8-9c7d-bae17b9d2e29",
+          "title": "Tighter AI chip export rules are gaining bipartisan support in Congress, including a bill to block Chinese companies from accessing chips overseas (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261116/p2"
+        }
+      ]
+    },
+    {
+      "id": "04d86650d291eaa6888d",
+      "url": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
+      "title": "Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks (Ann Cao/South China Morning Post)",
+      "original_title": "Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks (Ann Cao/South China Morning Post)",
+      "published_at": "2026-11-16T05:15:01+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ann Cao / South China Morning Post : Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, a…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.scmp.com/tech/big-tech/article/3374540/alibaba-says-new-flagship-ai-model-cuts-task-costs-60-while-tightening-cyber-guardrails",
+          "title": "Alibaba says it filtered Qwen4-Max's training data to remove offensive cyber capabilities and mitigate chemical, biological, radiological, and nuclear risks (Ann Cao/South China Morning Post)",
+          "discussion_url": "https://www.techmeme.com/261116/p1"
+        }
+      ]
+    },
+    {
+      "id": "e7e6e78743a946fb9923",
+      "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?reflink=desktopwebshare_permalink&st=e6my7o",
+      "title": "Sources: the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help win overseas business (Wall Street Journal)",
+      "original_title": "Sources: the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help win overseas business (Wall Street Journal)",
+      "published_at": "2026-11-16T04:40:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : Sources: the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI “national champions” to help win overseas bus…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/trump-administration-to-name-nvidia-among-ai-national-champions-c9284344?reflink=desktopwebshare_permalink&st=e6my7o",
+          "title": "Sources: the Trump administration plans to name Nvidia, Amazon, Microsoft, OpenAI, and Anthropic among 24+ AI \"national champions\" to help win overseas business (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261115/p29"
+        }
+      ]
+    },
+    {
+      "id": "7f4363b234f8b837a3b2",
+      "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents",
+      "title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, taking its total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
+      "original_title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, taking its total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
+      "published_at": "2026-11-16T04:35:01+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Abhinaya Prabhu / Tech Funding News : AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, taking its total funding to $57.6M, and says its revenue g…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://techfundingnews.com/kindo-raises-30m-after-800-revenue-growth-can-one-control-center-tame-enterprise-ai-agents",
+          "title": "AI agent management platform Kindo raised $30M led by Crosspoint and Forgepoint, taking its total funding to $57.6M, and says its revenue grew ~800% YoY in 2026 (Abhinaya Prabhu/Tech Funding News)",
+          "discussion_url": "https://www.techmeme.com/261115/p28"
+        }
+      ]
+    },
+    {
+      "id": "bc2325801bc690fa8a41",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42744",
+      "title": "애플, 최대 20만 명 대상 건강 AI 연구 착수…아이폰 건강 데이터와 의료 AI 결합",
+      "original_title": "애플, 최대 20만 명 대상 건강 AI 연구 착수…아이폰 건강 데이터와 의료 AI 결합",
+      "published_at": "2026-11-16T02:54:37+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "애플이 최대 20만 명을 대상으로 인공지능(AI) 건강 상담의 신뢰성과 실제 활용 효과를 검증하는 대규모 연구에 착수했다. 의료 AI가 제공하는 답변을 사용자가 얼마나 정확하게 이해하고 신뢰하는지, 개인 건강 데이터를 결합하면 답변의 유용성이 높아지는지, 실제 건강관리 행동에 어떤 영향을 미치는지를 종합적으로 조사한…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42744",
+          "title": "애플, 최대 20만 명 대상 건강 AI 연구 착수…아이폰 건강 데이터와 의료 AI 결합"
+        }
+      ]
+    },
+    {
+      "id": "1a329c8da07fd5c8f2be",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42743",
+      "title": "SKT·효성중공업, 기가와트급 AI 데이터센터 구축 협력…345kV 변전설비·800V 직류배전 공동 추진",
+      "original_title": "SKT·효성중공업, 기가와트급 AI 데이터센터 구축 협력…345kV 변전설비·800V 직류배전 공동 추진",
+      "published_at": "2026-11-16T02:09:38+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "SK텔레콤이 효성중공업과 손잡고 기가와트(GW)급 인공지능(AI) 데이터센터 구축에 필요한 초고압 전력 인프라 확보에 나선다. 대규모 AI 데이터센터의 핵심 과제로 떠오른 전력설비 공급 문제에 선제적으로 대응하고, 800V 직류배전 등 차세대 전력기술의 공동 실증을 추진한다.SKT는 16일 서울 중구 SKT타워에서 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42743",
+          "title": "SKT·효성중공업, 기가와트급 AI 데이터센터 구축 협력…345kV 변전설비·800V 직류배전 공동 추진"
+        }
+      ]
+    },
+    {
+      "id": "87b76e5b13944ae023be",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+      "title": "Apple launches new app to study how people use AI for health",
+      "original_title": "Apple launches new app to study how people use AI for health",
+      "published_at": "2026-11-16T01:30:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Apple's new app for a study will answer everyday medical questions…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health",
+          "title": "Apple launches new app to study how people use AI for health"
+        }
+      ]
+    },
+    {
+      "id": "3385e0051e23513a40bc",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42741",
+      "title": "서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상",
+      "original_title": "서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상",
+      "published_at": "2026-11-16T01:27:28+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인간의 뇌간과 소뇌, 대뇌가 감각정보를 처리하는 방식을 모사해 인공지능(AI)의 시각 인식 성능을 높이는 새로운 피지컬 AI 아키텍처가 국내 연구진에 의해 개발됐다. 이동형 카메라 실험에서 객체 인식 정확도를 기존 53.8%에서 88%로 높이고, 고성능 원격 AI 모델 호출 빈도를 43.3% 줄여 센서 제어와 AI …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42741",
+          "title": "서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상"
+        }
+      ]
+    },
+    {
+      "id": "3c09c6bf0970883b8807",
+      "url": "https://byline.network/2026/11/13-732",
+      "title": "에임인텔리전스 “AI 에이전트의 행동, 업무 맥락에서 판단해야”",
+      "original_title": "에임인텔리전스 “AI 에이전트의 행동, 업무 맥락에서 판단해야”",
+      "published_at": "2026-11-16T01:27:00+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기업들이 인공지능(AI) 에이전트를 도입하는 방식은 다양하다. 업무에 맞는 에이전트를 직접 개발하기도 하고, 여러 에이전트를 연결해 협업하도록 플랫폼을 구축하기도 한다. 하지만 어떤 방식을 선택하든 빠뜨려서는 안 될 것이 있다. 바로 ‘보안’이다. 자동차에 브레이크와 안전벨트가 필요하듯 AI 에이전트에도 위험한 행동…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/13-732",
+          "title": "에임인텔리전스 “AI 에이전트의 행동, 업무 맥락에서 판단해야”"
+        }
+      ]
+    },
+    {
       "id": "7e1757e65d449b6cf78b",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42740",
       "title": "네이버, 카페 게시글·댓글 읽는 ‘AI 에이전트’ 도입…회원 등급 따라 답변 정보도 달라진다",
@@ -126,6 +982,35 @@
       ]
     },
     {
+      "id": "c6febd82e4661f8df7bb",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+      "title": "datasette-maplibre 0.1a0 공개: MapLibre GL과 OpenFreeMap 결합한 Datasette 지리공간 플러그인",
+      "original_title": "datasette-maplibre 0.1a0",
+      "published_at": "2026-11-15T23:58:36+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vec…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre",
+          "title": "datasette-maplibre 0.1a0"
+        }
+      ],
+      "summary": "사이먼 윌리슨이 Datasette용 지리공간 플러그인 datasette-maplibre 0.1a0을 공개했다. 이 플러그인은 MapLibre GL 라이브러리와 Zsolt Ero가 운영하는 무료 벡터 지도 서버 OpenFreeMap을 결합한 것으로, 작성자는 대부분을 Claude Fable 5.2에 대한 단일 프롬프트로 만들었다고 밝혔다. GeoJSON 도형의 SVG 미리보기를 표시하고 화면에 보일 때만 WebGL 미리보기를 로드하는 기능 등이 포함됐으며, 최신 Datasette Lite에서 동작하는 데모도 함께 제공된다.",
+      "why_it_matters": "Datasette 생태계에서 오랜만에 나온 지리공간 플러그인으로, 생성형 AI를 활용한 도구 제작 사례와 브라우저 기반 데모 방식을 함께 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T10:44:12+00:00",
+        "input_hash": "dc625a1f495302ba425704c8ff074fe1f16c1eae1953c53354121895923c3087",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "e39f76e48e249d19e433",
       "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia",
       "title": "What's Next for Nvidia?",
@@ -205,6 +1090,12 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
           "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market",
+          "title": "Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed (Jagmeet Singh/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261116/p6"
         }
       ]
     },
@@ -249,6 +1140,35 @@
           "discussion_url": "https://news.ycombinator.com/item?id=50511982"
         }
       ]
+    },
+    {
+      "id": "601a53017054bbcae56a",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette",
+      "title": "datasette 1.0a43, 출력 렌더러 스트리밍 지원과 보안 수정 포함",
+      "original_title": "datasette 1.0a43",
+      "published_at": "2026-11-15T23:20:27+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this relea…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette",
+          "title": "datasette 1.0a43"
+        }
+      ],
+      "summary": "datasette 1.0a43이 공개됐다. 이번 릴리스의 가장 큰 1.0 항목은 출력 렌더러의 스트리밍 지원으로, 내장 TSV·CSV 내보내기도 이를 사용하며 플러그인은 새 Response.stream() 메서드로 테이블의 모든 행을 한 번에 스트리밍할 수 있다. 비공개 저장 쿼리가 노출될 수 있는 보안 수정이 포함됐고, 작성자는 해당 문제가 GitHub advisory에 등재될 만하다고 판단했다고 밝혔다.",
+      "why_it_matters": "스트리밍 지원은 대용량 데이터 내보내기 방식에 영향을 줄 수 있고, 저장 쿼리 노출은 비공개 쿼리를 쓰는 사용자에게 보안 검토가 필요한 사안이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T10:44:08+00:00",
+        "input_hash": "6f56f886ab3713a44af8f303a03336021c9126e8df0d3489e8b660fae5ba108b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5665216703203543fd8d",
@@ -1239,6 +2159,35 @@
       ]
     },
     {
+      "id": "756ac6b73c7a66954f4d",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+      "title": "datasette-apps 0.4a0, 앱 간 링크 지원 추가",
+      "original_title": "datasette-apps 0.4a0",
+      "published_at": "2026-11-15T04:02:45+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: datasette-apps 0.4a0 Datasette Apps are sandboxed HTML and JavaScript applications that live inside Datasette - think Claude Artifacts, but these ones can run SQL queri…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-apps",
+          "title": "datasette-apps 0.4a0"
+        }
+      ],
+      "summary": "datasette-apps 0.4a0이 공개됐다. 이 버전은 URL의 #fragment를 통해 앱에 링크할 수 있는 기능을 추가했으며, 앱이 해당 fragment를 확인하고 사용할 수 있다. 또한 지원되는 URL 스킴이 Datasette Agent에 보고되어 서로 링크하는 앱 작성을 도울 수 있다.",
+      "why_it_matters": "앱 간 링크가 가능해지면서 검색 앱과 상세 보기 앱을 연결하는 등 데이터 탐색 흐름을 더 유연하게 구성할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-16T10:44:06+00:00",
+        "input_hash": "36194c2feca0322cc305dccbdcf88418ed8957eff11610434c7ad4aeb971e281",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "4cd774aecc087e1deda1",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
       "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지",
@@ -1255,6 +2204,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217415",
           "title": "구글, 제미나이에 '월렛' 연결…개인 소비 분석부터 저축 계획까지"
+        }
+      ]
+    },
+    {
+      "id": "a434c2daa44c258bf43e",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-agent",
+      "title": "datasette-agent 0.6a0",
+      "original_title": "datasette-agent 0.6a0",
+      "published_at": "2026-11-15T03:49:47+00:00",
+      "collected_at": "2026-11-16T10:43:43+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Release: datasette-agent 0.6a0 Accumulated small fixes for Datasette Agent, my agent plugin for Datasette that lets you ask questions about your data. Most notably, it now adds …",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-agent",
+          "title": "datasette-agent 0.6a0"
         }
       ]
     },
