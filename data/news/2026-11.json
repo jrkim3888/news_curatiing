@@ -861,14 +861,14 @@
     {
       "id": "baf7c1e911861764edbf",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
-      "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
+      "title": "세무사 시험 수석 합격자, 생성 AI 부정행위 자백하고 자수",
       "original_title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백",
       "published_at": "2026-11-15T09:52:53+00:00",
       "collected_at": "2026-11-15T10:28:08+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "제63회 세무사 시험 수석 합격자가 초소형 카메라와 생성 AI를 이용해 부정행위를 저질렀다고 자백했다. 세무사 1·2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방법을 사용했다고 인정하고 경찰에 자수했다.세무사 시험 수석 합격자 A씨는 15일 이돈호 법무법인 노바 대표변호사의 유튜브 채널에 출연해 \"저는 세무사…",
       "sources": [
         {
@@ -876,7 +876,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217426",
           "title": "세무사 시험 수석 합격자 \"생성 AI로 부정행위\" 자백"
         }
-      ]
+      ],
+      "summary": "제63회 세무사 시험 수석 합격자가 초소형 카메라로 문제를 찍고 생성 AI로 답을 확인하는 방식으로 세무사 1·2차와 공인회계사 1차 시험에서 부정행위를 했다고 인정했다. 그는 서울경찰청에 자수서를 제출했고, 한국산업인력공단은 업무방해 혐의 고소와 합격 취소를 추진하며 재정경제부도 합격 효력 정지를 검토하고 있다.",
+      "why_it_matters": "생성 AI를 악용한 부정행위가 실제로 확인되면서 전문자격시험 감독 체계 전반의 재점검이 필요해졌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-16T01:20:28+00:00",
+        "briefing_day": "2026-11-16",
+        "input_hash": "a030e503d2832e7d439865dff662700949e053530a52e0e3153f395456366d46",
+        "evidence_verified": true
+      }
     },
     {
       "id": "fa86f7bea1a5e6ab5963",
@@ -944,14 +954,14 @@
     {
       "id": "9690cf29249cefb33545",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
-      "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
+      "title": "더플레이토 티로, ARR 300만달러 달성하며 지식 관리로 확장",
       "original_title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성",
       "published_at": "2026-11-15T08:00:00+00:00",
       "collected_at": "2026-11-15T10:28:08+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "\"기업이 원하는 건 속기사가 아닙니다. 대화를 조직의 맥락으로 구조화해 자산화하는 것이 핵심입니다.\"AI 회의록 서비스인 '노트테이커' 시장은 이미 포화 상태다. 네이버 클로바노트, 노션 AI 회의록, 구글 미트에 연동된 서비스까지 사내 데이터베이스에 남지 않던 사람 간 대화를 자산화하려는 시도가 잇따르고 있다.치열…",
       "sources": [
         {
@@ -959,7 +969,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217347",
           "title": "더플레이토 \"AI 회의록 넘어 지식 관리로\"…ARR 300만달러 달성"
         }
-      ]
+      ],
+      "summary": "AI 미팅 서비스 티로 운영사 더플레이토가 출시 2년 만에 연간반복매출 300만달러를 돌파했으며 400곳 이상 기업에 도입됐다고 밝혔다. 티로는 전사 다음 단계인 맥락 기반 보정과 백과사전 형태의 티로 위키를 통해 여러 회의 정보를 조직의 지식으로 축적하는 기능을 앞세운다.",
+      "why_it_matters": "음성인식 품질 경쟁을 넘어 회의 내용을 조직 지식으로 구조화하는 것이 기업용 AI 서비스의 차별화 지점이 되고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-16T01:20:28+00:00",
+        "briefing_day": "2026-11-16",
+        "input_hash": "94d2deafabc6414a41a3994e71534b98a2b54df76d621aa47b5d0cc92af02978",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5563e58ab9d8c3633170",
@@ -984,14 +1004,14 @@
     {
       "id": "0aead43605cf46cc2685",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42738",
-      "title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개",
+      "title": "구글 딥마인드, AI 강수 데이터셋 파르디그·새트위브 공개",
       "original_title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개",
       "published_at": "2026-11-15T07:41:58+00:00",
       "collected_at": "2026-11-15T10:28:08+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "구글 딥마인드(Google DeepMind)가 인공지능(AI)을 활용해 전 세계 강수량을 정밀하게 분석하는 기술과 지구 관측 위성영상을 통합한 데이터셋을 공개했다. 기존 글로벌 강수 관측자료보다 약한 비와 보통 강수의 탐지 성능을 30% 이상 높였으며, 이를 연구자와 개발자가 활용할 수 있도록 개방해 AI 기반 기상…",
       "sources": [
         {
@@ -999,7 +1019,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42738",
           "title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개"
         }
-      ]
+      ],
+      "summary": "구글 딥마인드가 AI 기반 글로벌 강수 데이터셋 파르디그와 정지궤도 위성영상 통합 데이터셋 새트위브를 공개했다. 파르디그는 NASA 아이머지 파이널 대비 약한 비와 보통 강수 탐지 성능이 30% 이상 향상됐고, 15분 간격·약 10㎞ 해상도로 전 세계 강수 분포를 제공한다.",
+      "why_it_matters": "관측 인프라가 부족한 지역의 강수 분석과 극한 강수 대응 연구에 활용될 개방형 데이터가 마련됐다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-16T01:20:28+00:00",
+        "briefing_day": "2026-11-16",
+        "input_hash": "5656b29306f1a811c2b6c188dc3e764674a77ff7c2a08fb467e98104fab1876b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "696bd1d560b360e2721b",
@@ -1067,14 +1097,14 @@
     {
       "id": "1d401d4cb2fc314411b1",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42737",
-      "title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다",
+      "title": "아마존 링, 비행 보안카메라와 자율 순찰로봇 공개",
       "original_title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다",
       "published_at": "2026-11-15T06:44:41+00:00",
       "collected_at": "2026-11-15T10:28:08+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "아마존의 스마트 보안기기 자회사 링(Ring)은 자율 이동형 보안기기 사업인 '링 로보틱스(Ring Robotics)'를 발표하고, 가정용 비행 보안카메라 '링 드론 캠(Ring Drone Cam)'과 사업장용 자율 순찰로봇 '링 로버 캠(Ring Rover Cam)'을 공개했다.가정 내부를 비행하는 드론과 사업장을…",
       "sources": [
         {
@@ -1082,7 +1112,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42737",
           "title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다"
         }
-      ]
+      ],
+      "summary": "아마존의 링이 자율 이동형 보안기기 사업 링 로보틱스를 발표하고 가정용 비행 보안카메라 링 드론 캠과 사업장용 자율 순찰로봇 링 로버 캠을 공개했다. 두 제품에는 자율주행 시스템 AI 파일럿이 적용돼 실내 지도를 만들고 순찰 경로를 결정하며, 이상 신호 발생 시 해당 위치로 이동해 상황을 확인한다.",
+      "why_it_matters": "고정형 카메라의 한계를 넘어 이동형 자율 순찰로 보안 서비스 시장이 넓어질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-16T01:20:28+00:00",
+        "briefing_day": "2026-11-16",
+        "input_hash": "a80d83bb56943fd831b7c445a2450e42abb6557fdc379ad6b1e8d4d16ccfa0cb",
+        "evidence_verified": true
+      }
     },
     {
       "id": "c9b670798186f38a79f1",
@@ -1150,14 +1190,14 @@
     {
       "id": "a3aab5004348c06ab51f",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42736",
-      "title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축…화재 예방·대응 체계 강화",
+      "title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축",
       "original_title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축…화재 예방·대응 체계 강화",
       "published_at": "2026-11-15T04:46:30+00:00",
       "collected_at": "2026-11-15T10:28:08+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "KT가 인천 남동국가산업단지에 인공지능(AI) 기반 화재감지기 105대를 구축하고 산업현장 화재안전 서비스 확대에 나섰다.KT는 한국산업단지공단 인천지역본부의 ‘2026년 남동산단 AIoT 화재감지기 설치 지원사업’을 통해 입주기업 20곳에 AI 화재안전 서비스 ‘세이프메이트(Safemate)’를 구축했다고 15일 …",
       "sources": [
         {
@@ -1165,7 +1205,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42736",
           "title": "KT, 인천 남동산단에 AI 화재감지기 105대 구축…화재 예방·대응 체계 강화"
         }
-      ]
+      ],
+      "summary": "KT가 인천 남동국가산업단지 입주기업 20곳에 AI 화재안전 서비스 세이프메이트를 구축하며 AI 화재감지기 105대를 설치했다. 세이프메이트는 불꽃과 연기, 고온 등 복합 화재 징후를 감지해 AI가 이상신호를 분석하고 관제센터를 통해 119 자동 신고 등 후속 대응을 지원한다.",
+      "why_it_matters": "상주 인력이 적은 시간대에도 산업현장 화재 대응 속도를 높이는 AI 안전 서비스가 확대된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-16T01:20:28+00:00",
+        "briefing_day": "2026-11-16",
+        "input_hash": "17d60b080b9ec3337b9e08a288bb295c81181f8abd980cd2b7857760a37f50b6",
+        "evidence_verified": true
+      }
     },
     {
       "id": "48bf5edb47ff4e5a171e",
@@ -1231,14 +1281,14 @@
     {
       "id": "fb57ab6247f32f2802b5",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42735",
-      "title": "\"생성형 AI로 세무사시험 수석 합격했다\"…당사자 부정행위 인정하고 자수",
+      "title": "세무사 시험 부정행위 당사자, 유튜브서 자수 경위 공개",
       "original_title": "\"생성형 AI로 세무사시험 수석 합격했다\"…당사자 부정행위 인정하고 자수",
       "published_at": "2026-11-15T03:14:14+00:00",
       "collected_at": "2026-11-15T10:28:08+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "제63회 세무사시험 수석 합격 논란의 당사자가 생성형 인공지능(AI)과 전자기기를 이용해 시험에서 부정행위를 했다고 공개적으로 인정했다. 세무사 1차와 2차 시험뿐 아니라 공인회계사 1차 시험에서도 같은 방식으로 부정행위를 저질렀다고 밝혀 전문자격시험의 공정성과 AI를 악용한 부정행위 방지 대책에 대한 논란이 커질 …",
       "sources": [
         {
@@ -1246,7 +1296,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42735",
           "title": "\"생성형 AI로 세무사시험 수석 합격했다\"…당사자 부정행위 인정하고 자수"
         }
-      ]
+      ],
+      "summary": "온라인에서 세무냥이로 활동한 한씨는 이돈호 변호사 유튜브 채널에 출연해 세무사 1·2차와 공인회계사 1차 시험에서 전자기기와 생성 AI를 이용해 부정행위를 했다고 밝혔다. 그는 초소형 카메라로 문제를 촬영해 AI로 전송하고 스마트폰으로 답을 확인했다고 진술했으며, 구체적 과정과 사용 AI 서비스는 수사기관에 설명하겠다고 말했다.",
+      "why_it_matters": "당사자가 부정행위 방법을 공개하면서 시험장 전자기기 통제와 감독 방식의 한계가 드러났다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-16T01:20:28+00:00",
+        "briefing_day": "2026-11-16",
+        "input_hash": "fb0b281e3e1d56723e0d06c3c438c4e8ca62ad0a46b50af60386e35629e848e1",
+        "evidence_verified": true
+      }
     },
     {
       "id": "81dcc884f662b8fc2b99",
