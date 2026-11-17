@@ -3,6 +3,821 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "fc38b51a6db9bccf157a",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
+      "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "original_title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+      "published_at": "2026-11-17T22:42:27+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The former CEO offered to return to his top role at the company after his resignation last week.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo",
+          "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO"
+        }
+      ]
+    },
+    {
+      "id": "25619ffb1545aa32e749",
+      "url": "https://realpython.com/tdd-ai-agents",
+      "title": "TDD with AI Agents: Design the Tests First, Let the Agent Implement",
+      "original_title": "TDD with AI Agents: Design the Tests First, Let the Agent Implement",
+      "published_at": "2026-11-17T22:41:21+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://realpython.com/tdd-ai-agents",
+          "title": "TDD with AI Agents: Design the Tests First, Let the Agent Implement",
+          "discussion_url": "https://news.ycombinator.com/item?id=50539310"
+        }
+      ]
+    },
+    {
+      "id": "82b169450b02e27d05b9",
+      "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+      "title": "OpenAI, GPT‑6.2 Astra와 GPT‑6.2 Sol 공개",
+      "original_title": "GPT-6.2 Astra and GPT-6.2 Sol",
+      "published_at": "2026-11-17T22:40:23+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+          "title": "GPT‑6.2 Astra and GPT‑6.2 Sol"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol",
+          "title": "GPT-6.2 Astra and GPT-6.2 Sol",
+          "discussion_url": "https://news.ycombinator.com/item?id=50539299"
+        }
+      ],
+      "summary": "OpenAI가 어려운 프로젝트용 프런티어 모델 GPT‑6.2 Astra와 일상 업무용 모델 GPT‑6.2 Sol을 발표했으며, API에서 gpt-6.2-astra와 gpt-6.2-sol로 제공된다. Astra는 입력 100만 토큰당 8달러·출력 40달러로 이전 6 Astra 가격의 80% 수준이고, Sol은 6.1 Sol·6 Sol과 같은 2달러·10달러 가격이다. 작성자는 새 모델 지원을 포함한 LLM 0.38을 배포했고, 벤치마크 프롬프트 테스트에서 두 모델 모두 경쟁 모델 대비 요청한 변신 애니메이션을 충분히 잘 구현하지 못했다고 전했다.",
+      "why_it_matters": "Astra의 가격 인하와 캐시 가격 할인은 장시간 에이전트 세션 비용에 영향을 줄 수 있지만, 성능 평가는 아직 엇갈린다는 관측이 나온다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-17T22:48:27+00:00",
+        "input_hash": "cba6eb5c96bf5776acc50f83071989b131954e84b704bc7e588da8b3a40e0a80",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "07b404784b93cef452ac",
+      "url": "https://sikemux.com/",
+      "title": "Show HN: Sikemux – a whole team of AI coders in one window (Rust, MIT)",
+      "original_title": "Show HN: Sikemux – a whole team of AI coders in one window (Rust, MIT)",
+      "published_at": "2026-11-17T22:29:19+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://sikemux.com/",
+          "title": "Show HN: Sikemux – a whole team of AI coders in one window (Rust, MIT)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50539180"
+        }
+      ]
+    },
+    {
+      "id": "dc52e334dcb4a8525419",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "original_title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "published_at": "2026-11-17T22:29:05+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+          "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO"
+        }
+      ]
+    },
+    {
+      "id": "2e045d3f64666c99319e",
+      "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjA3cFNpbDJCT1MiLCJwIjoiL3JlcG9ydC8xMDM1NDY1L252aWRpYS1zYXlzLWl0LXdpbGwtbm90LXJlaW5zdGF0ZS1qZW5zZW4taHVhbmctYXMtY2VvIiwiZXhwIjoxNzk1Mzg1NDc1LCJpYXQiOjE3OTQ5NTM0NzV9.PWMNbp8LvjiIh6EH1gdv9OqWZ7SGbuRwywWf6K983Vg",
+      "title": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
+      "original_title": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
+      "published_at": "2026-11-17T22:15:01+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Hayden Field / The Verge : On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO — The board said it would not take addi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6IjA3cFNpbDJCT1MiLCJwIjoiL3JlcG9ydC8xMDM1NDY1L252aWRpYS1zYXlzLWl0LXdpbGwtbm90LXJlaW5zdGF0ZS1qZW5zZW4taHVhbmctYXMtY2VvIiwiZXhwIjoxNzk1Mzg1NDc1LCJpYXQiOjE3OTQ5NTM0NzV9.PWMNbp8LvjiIh6EH1gdv9OqWZ7SGbuRwywWf6K983Vg",
+          "title": "On Q3 earnings call, Nvidia Chair Harvey Jones says the board does not intend to reinstate Jensen Huang as CEO (Hayden Field/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261117/p59"
+        }
+      ]
+    },
+    {
+      "id": "b0d77240e727d0e36ec1",
+      "url": "https://r3.hyperlogue.tech/",
+      "title": "Show HN: R3 – Review AI agent artifacts locally",
+      "original_title": "Show HN: R3 – Review AI agent artifacts locally",
+      "published_at": "2026-11-17T22:14:34+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://r3.hyperlogue.tech/",
+          "title": "Show HN: R3 – Review AI agent artifacts locally",
+          "discussion_url": "https://news.ycombinator.com/item?id=50539007"
+        }
+      ]
+    },
+    {
+      "id": "0872ba3d8f6c72a7e8cd",
+      "url": "https://notesbylex.com/weight-space-programming-1990s",
+      "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "original_title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+      "published_at": "2026-11-17T22:11:46+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://notesbylex.com/weight-space-programming-1990s",
+          "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
+          "discussion_url": "https://news.ycombinator.com/item?id=50538977"
+        }
+      ]
+    },
+    {
+      "id": "6aa024c11514a244489d",
+      "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+      "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
+      "original_title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
+      "published_at": "2026-11-17T22:08:34+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/17/nvidia-nvda-earnings-report-q3-2027.html",
+          "title": "Nvidia Chair Harvey Jones says board doesn't intend to reinstate Huang as CEO",
+          "discussion_url": "https://news.ycombinator.com/item?id=50538942"
+        }
+      ]
+    },
+    {
+      "id": "f4fad0268db4721d3c1b",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos",
+      "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)",
+      "original_title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)",
+      "published_at": "2026-11-17T22:05:10+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ashley Carman / Bloomberg : Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-music-generator-suno-to-let-users-create-music-videos",
+          "title": "Suno launches Visuals, letting users generate 15-second clips that can be spliced into a full music video, using a MiniMax-based model; video credits cost extra (Ashley Carman/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261117/p58"
+        }
+      ]
+    },
+    {
+      "id": "38193a3c6505cf716d4a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217482",
+      "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
+      "original_title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중",
+      "published_at": "2026-11-17T22:00:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 기업들도 미국의 오픈AI와 앤트로픽이 주도하는 'AI 과학적 발견' 경쟁에 뛰어들고 있습니다. 그동안 미국 최첨단 모델과의 성능 격차를 줄이는 데 집중했던 중국 기업들이 이제는 수학과 과학 분야에서 새로운 지식을 만들어내는 능력을 차세대 경쟁력으로 내세우기 시작한 것입니다.사우스차이나모닝포스트(SCMP)는…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217482",
+          "title": "[11월17일] 미국 이어 중국도 'AI 과학적 발견' 경쟁…문샷, 생물학·화학 연구에 집중"
+        }
+      ]
+    },
+    {
+      "id": "ca63a57280c4d544b053",
+      "url": "https://alloy.argonrobotics.ai/",
+      "title": "Alloy physics engine for robot learning",
+      "original_title": "Alloy physics engine for robot learning",
+      "published_at": "2026-11-17T21:57:48+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://alloy.argonrobotics.ai/",
+          "title": "Alloy physics engine for robot learning",
+          "discussion_url": "https://news.ycombinator.com/item?id=50538812"
+        }
+      ]
+    },
+    {
+      "id": "cc8781df9c279647ef43",
+      "url": "https://api-docs.deepseek.com/news/news261113",
+      "title": "The full DeepSeek App experience, now via API",
+      "original_title": "The full DeepSeek App experience, now via API",
+      "published_at": "2026-11-17T21:57:40+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://api-docs.deepseek.com/news/news261113",
+          "title": "The full DeepSeek App experience, now via API",
+          "discussion_url": "https://news.ycombinator.com/item?id=50538810"
+        }
+      ]
+    },
+    {
+      "id": "0cd1c863c56b1b6979d5",
+      "url": "https://manooshree.github.io/math-ed-ai",
+      "title": "What Math Education Research Can Offer to the AI-Math Debate",
+      "original_title": "What Math Education Research Can Offer to the AI-Math Debate",
+      "published_at": "2026-11-17T21:49:33+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://manooshree.github.io/math-ed-ai",
+          "title": "What Math Education Research Can Offer to the AI-Math Debate",
+          "discussion_url": "https://news.ycombinator.com/item?id=50538709"
+        }
+      ]
+    },
+    {
+      "id": "047610888b896ef7ba3b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
+      "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
+      "original_title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하",
+      "published_at": "2026-11-17T21:48:40+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 차세대 플래그십 모델 'GPT-6.2 아스트라(Astra)'와 'GPT-6.2 솔(Sol)'을 출시했다. 안전성 문제로 이전 버전의 출시를 취소한 지 약 50일 만으로, 종합 성능 평가에서 세계 2위에 오르고 API 가격도 20% 인하하는 등 성능과 비용 경쟁력을 동시에 강화했다.오픈AI는 17일(현지시간…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217513",
+          "title": "오픈AI, 세계 2위 성능 'GPT-6.2 아스트라' 출시...API 20% 인하"
+        }
+      ]
+    },
+    {
+      "id": "04c4dac80f3d2432755a",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "original_title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "published_at": "2026-11-17T21:48:07+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit",
+          "title": "SEC reportedly investigating Nvidia amid Huang exit"
+        }
+      ]
+    },
+    {
+      "id": "e918fc955d52a71ef7e1",
+      "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains",
+      "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+      "original_title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+      "published_at": "2026-11-17T21:45:02+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Matthias Bastian / The Decoder : Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tie…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://the-decoder.com/openai-launches-gpt-6-2-astra-and-sol-with-lower-api-prices-and-some-benchmark-gains",
+          "title": "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+          "discussion_url": "https://www.techmeme.com/261117/p57"
+        }
+      ]
+    },
+    {
+      "id": "10493fa85ddbf2d5567c",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
+      "title": "Google joins the tech outage trend by announcing it’s not having one",
+      "original_title": "Google joins the tech outage trend by announcing it’s not having one",
+      "published_at": "2026-11-17T21:34:50+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one",
+          "title": "Google joins the tech outage trend by announcing it’s not having one"
+        }
+      ]
+    },
+    {
+      "id": "166d6124867c787b073a",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+      "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
+      "original_title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
+      "published_at": "2026-11-17T21:26:56+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Nvidia Newsroom : Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates — - Reve…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+          "title": "Nvidia reports Q3 revenue up 103% YoY to $115.8B, above $109.1B est., Data Center revenue up 110% to $107.6B, and forecasts Q4 revenue above estimates (Nvidia Newsroom)",
+          "discussion_url": "https://www.techmeme.com/261117/p56"
+        }
+      ]
+    },
+    {
+      "id": "6a98e33aa360bd5cf6c3",
+      "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN",
+      "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
+      "original_title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
+      "published_at": "2026-11-17T21:20:04+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed “Java4Shell”; Oracle has released a patch — The discovery by security…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html?unlocked_article_code=1.RFE.J4uR.JL0Qv-280ALN",
+          "title": "Cybersecurity startup Calif says it used GPT-6 Cyber to uncover an RCE flaw in Java dubbed \"Java4Shell\"; Oracle has released a patch (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261117/p55"
+        }
+      ]
+    },
+    {
+      "id": "b8cde450a3bc19d17d70",
+      "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?reflink=article_copyURL_share&st=JDfemd",
+      "title": "Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)",
+      "original_title": "Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)",
+      "published_at": "2026-11-17T21:05:01+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors — Regulator's civil probe looks at whether compan…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8?reflink=article_copyURL_share&st=JDfemd",
+          "title": "Sources: the US SEC is investigating Nvidia, including whether the company's disclosures misled investors (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261117/p54"
+        }
+      ]
+    },
+    {
+      "id": "29da439c7e11440aefb8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217512",
+      "title": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해",
+      "original_title": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해",
+      "published_at": "2026-11-17T20:37:19+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 전 엔비디아 CEO가 퇴진 이후 처음으로 공식 성명을 내고 이사회가 원한다면 CEO로 복귀하겠다는 뜻을 밝혔다. 직원과 투자자, 실리콘밸리 주요 인사들에 이어 도널드 트럼프 미국 대통령까지 복귀를 지지하고 있지만, 엔비디아 이사회는 복귀를 검토하지 않는 것으로 알려졌다. 황 전 CEO는 17일(현지시간) 성…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217512",
+          "title": "젠슨 황 \"이사회가 원하면 CEO 복귀\"…엔비디아는 검토 안 해"
+        }
+      ]
+    },
+    {
+      "id": "b00761591631e03075f1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+      "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+      "original_title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+      "published_at": "2026-11-17T20:01:05+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "마이크로소프트(MS)가 오픈AI와 앤트로픽의 첨단 모델에 근접한 코딩 성능을 훨씬 낮은 비용으로 구현한 자체 AI 모델 'MAI 코드 2(MAI Code 2)'를 공개했다. 사이버 보안과 AI 에이전트의 판단 작업에 특화한 모델도 함께 선보이며, 외부 AI 모델에 대한 의존도를 줄이고 자체 모델 경쟁력을 강화하고 나…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+          "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%"
+        }
+      ]
+    },
+    {
+      "id": "55d5fcfaaebe282c5485",
+      "url": "https://x.com/theo/status/2122760447103484410",
+      "title": "GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)",
+      "original_title": "GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)",
+      "published_at": "2026-11-17T19:50:01+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "@theo : GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks — Why I ha…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://x.com/theo/status/2122760447103484410",
+          "title": "GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)",
+          "discussion_url": "https://www.techmeme.com/261117/p49"
+        }
+      ]
+    },
+    {
+      "id": "2fb55c3571a040c5ae0c",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "original_title": "Model ML raises $250M to automate investment banking grunt work",
+      "published_at": "2026-11-17T19:32:11+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+          "title": "Model ML raises $250M to automate investment banking grunt work"
+        }
+      ]
+    },
+    {
+      "id": "af36944b8f532014f977",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "original_title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "published_at": "2026-11-17T19:02:20+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+          "title": "Google expands access to Gemini Tasks, which can help with calls, purchases"
+        }
+      ]
+    },
+    {
+      "id": "92ead912d06bbf7e268a",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "original_title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "published_at": "2026-11-17T18:48:23+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+          "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off",
+          "title": "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261117/p47"
+        }
+      ]
+    },
+    {
+      "id": "4f9c8f50fb0d4c342cc8",
+      "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite",
+      "title": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price (Ina Fried/Axios)",
+      "original_title": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price (Ina Fried/Axios)",
+      "published_at": "2026-11-17T18:25:02+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Ina Fried / Axios : Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/17/microsoft-ai-models-openai-anthropic-ignite",
+          "title": "Microsoft unveils six AI models spanning coding, cybersecurity, images, and voice, saying MAI Code 2 has 98% of GPT-6.1 Sol's performance at 40% of the price (Ina Fried/Axios)",
+          "discussion_url": "https://www.techmeme.com/261117/p45"
+        }
+      ]
+    },
+    {
+      "id": "5a10d07ea77b08677af6",
+      "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model",
+      "title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "original_title": "Researchers hijack Hugging Face account for popular Kokoro AI model",
+      "published_at": "2026-11-17T18:21:24+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, In…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model",
+          "title": "Researchers hijack Hugging Face account for popular Kokoro AI model"
+        }
+      ]
+    },
+    {
+      "id": "6420ccdcb0b076c31c03",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "original_title": "As decision model use skyrockets, is customization the next frontier?",
+      "published_at": "2026-11-17T18:10:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier",
+          "title": "As decision model use skyrockets, is customization the next frontier?"
+        }
+      ]
+    },
+    {
+      "id": "5a600a844d9b7ef8d45f",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "original_title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "published_at": "2026-11-17T18:04:16+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The company uses agentic AI to make supply chains faster and more reliable.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain",
+          "title": "Pedestal AI raises $4.7 million to agentify the supply chain"
+        }
+      ]
+    },
+    {
+      "id": "8f6af8c44a4a1bfb5de3",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "original_title": "Introducing GPT-6.2 Astra and Sol",
+      "published_at": "2026-11-17T17:45:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "title": "Introducing GPT-6.2 Astra and Sol"
+        }
+      ]
+    },
+    {
+      "id": "3818d6ccd2a7f7a119bf",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+      "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "original_title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "published_at": "2026-11-17T17:32:25+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop",
+          "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop"
+        }
+      ]
+    },
+    {
+      "id": "ef0668bcb4a436fa3ea7",
+      "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+      "title": "NVIDIA, 긴 문맥 추론을 위한 희소 어텐션 설계 가이드 공개",
+      "original_title": "Co-Designing Sparse Attention for Efficient Long-Context Inference",
+      "published_at": "2026-11-17T17:30:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "Agentic workloads, long documents, and large codebases are pushing context lengths from tens of thousands of tokens to hundreds of thousands. At those lengths,... Agentic worklo…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/co-designing-sparse-attention-for-efficient-long-context-inference",
+          "title": "Co-Designing Sparse Attention for Efficient Long-Context Inference"
+        }
+      ],
+      "summary": "NVIDIA가 긴 문맥 추론에서 어텐션 비용을 줄이는 희소 어텐션 설계를 다룬 기술 블로그를 공개했다. 각 질의가 전체 문맥 대신 일부 키에만 주목하는 방식으로, 인덱서와 Top-k, 코어 어텐션의 세 단계로 구성된다고 설명했다. DeepSeek V3.2 사례에서 인덱서와 Top-k가 프리필 레이어 시간의 47%를 차지한다고 제시했다.",
+      "why_it_matters": "문맥 길이가 커질수록 어텐션 비용이 병목이 되는 가운데, 인덱서 설계가 실제 추론 성능을 좌우할 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-17T22:48:24+00:00",
+        "input_hash": "a574097dff9919a39fe86f667243d7de7a6fff1f80920801bd6040a4060c2f92",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0fd37b922e47061f484b",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "original_title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
+      "published_at": "2026-11-17T17:20:41+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game",
+          "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game"
+        }
+      ]
+    },
+    {
+      "id": "830da74434e8505c737e",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "title": "구글, Gemini에 예약·결제·장보기 등 작업 수행 기능 추가",
+      "original_title": "Put Gemini to work for you",
+      "published_at": "2026-11-17T17:00:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+          "title": "Put Gemini to work for you"
+        }
+      ],
+      "summary": "구글이 Gemini 앱에서 예약, 청구서 관리, 장보기 등 복잡한 작업을 대신 처리하는 기능을 발표했다. 이 기능은 미국, 일본, 한국, 캐나다, 호주, 인도에서 무료로 순차 제공되며, Gemini 4 Hydrogen 모델을 사용한다고 구글이 밝혔다. 구글은 작업이 하드웨어 격리 가상머신에서 실행되고 프롬프트 인젝션 필터 등 다층 보안을 적용한다고 설명했다.",
+      "why_it_matters": "AI 비서가 단순 대화를 넘어 실제 결제와 예약을 대행하는 단계로 확장되면서, 편의성과 함께 개인정보·결제 보안에 대한 이용자 신뢰가 관건이 될 전망이다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-17T22:48:20+00:00",
+        "input_hash": "65f9d8ba9a1cfb014defdd501c7bc503768f890759cfd3412abcf9dfe804a5b9",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "89be98d92d9e645fab74",
+      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
+      "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "original_title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
+      "published_at": "2026-11-17T16:44:15+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo",
+          "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO"
+        }
+      ]
+    },
+    {
+      "id": "bbeaf17788a78ad897c6",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42771",
+      "title": "벤츠, 독일·미국서 도심 자율주행 기술 확대…목적지까지 AI 운전 지원",
+      "original_title": "벤츠, 독일·미국서 도심 자율주행 기술 확대…목적지까지 AI 운전 지원",
+      "published_at": "2026-11-17T12:50:58+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "독일 메르세데스-벤츠(Mercedes-Benz)가 엔비디아(NVIDIA)와 공동 개발한 인공지능(AI) 기반 운전자 보조 기술을 확대해 고속도로뿐 아니라 복잡한 도심에서도 출발지부터 목적지까지 주행을 지원하는 시스템을 독일과 미국 시장에 도입한다.차량에 탑재된 27개 센서와 최대 254 TOPS의 연산 성능을 활용해…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42771",
+          "title": "벤츠, 독일·미국서 도심 자율주행 기술 확대…목적지까지 AI 운전 지원"
+        }
+      ]
+    },
+    {
       "id": "cdcca0ccfb48b93d197f",
       "url": "https://www.bloomberg.com/news/articles/2026-11-17/ai-startup-for-bankers-raises-funds-at-1-5-billion-value",
       "title": "Model ML, which builds AI agents integrated in Excel and PowerPoint to automate pitch decks, research, and due diligence, raised $250M at a $1.5B valuation (Yazhou Sun/Bloomberg)",
@@ -748,6 +1563,26 @@
       ]
     },
     {
+      "id": "3047d7657748ea760feb",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "title": "Introducing ChatGPT for Sales",
+      "original_title": "Introducing ChatGPT for Sales",
+      "published_at": "2026-11-17T08:00:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "title": "Introducing ChatGPT for Sales"
+        }
+      ]
+    },
+    {
       "id": "a4f7da242988766e0b91",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217503",
       "title": "젠슨 황 딸, 직급 넘는 영향력 행사…아버지 퇴진 후 권한 조정 과제",
@@ -1148,6 +1983,46 @@
           "source_id": "aitimes_kr",
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42759",
           "title": "\"AI 로봇이 뇌혈관 시술하는 시대 오나\"…레머디 로보틱스, 6,200만 달러 투자 유치"
+        }
+      ]
+    },
+    {
+      "id": "b43ef08ac3ed4f7af6f4",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "title": "Astra for Law leads in legal intelligence",
+      "original_title": "Astra for Law leads in legal intelligence",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/astra-law-6-2",
+          "title": "Astra for Law leads in legal intelligence"
+        }
+      ]
+    },
+    {
+      "id": "3b3be741a87f5e2153e6",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "title": "Introducing OpenAI for Chile",
+      "original_title": "Introducing OpenAI for Chile",
+      "published_at": "2026-11-17T00:00:00+00:00",
+      "collected_at": "2026-11-17T22:47:56+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "title": "Introducing OpenAI for Chile"
         }
       ]
     },
