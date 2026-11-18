@@ -12,6 +12,8 @@ Cloudflare Pages: main 변경 시 정적 HTML·Pagefind 검색·RSS 빌드 및 �
 
 Codex 클라우드는 상시 운영 서버가 아닙니다. 환경 저장은 파일과 설정을 보존하는 기능이며, 실행 중인 cron/프로세스의 계속 실행을 보장하지 않습니다. Actions가 매번 새 실행기를 준비하므로 개발 환경을 켜 둘 필요가 없습니다. Oracle 없이 운영할 수 있고, VM을 직접 관리하려면 [Oracle + cron 대안](deployment-oracle.md)을 사용하세요. 두 수집기를 동시에 켜지 않습니다.
 
+브리핑 발행 커밋은 `briefing: publish 2026-11-18`처럼 **브리핑 발행일(KST)**을 표시합니다. 과거 날짜 복구도 그 발행일을 사용합니다. 새 발행 없이 기록만 수정한 브리핑 작업은 `briefing: update archives`, 일반 수집은 기존 `data: refresh AI news YYYY-MM-DD-HHMM`(실행 시각 UTC) 형식을 사용합니다.
+
 ## 1. GitHub에 코드 게시
 
 워크플로 파일은 `.github/workflows/collect.yml`입니다. `main`을 기본 브랜치로 사용합니다. 새 빈 저장소에 아직 코드가 없다면 개발 폴더에서 다음과 같이 게시합니다. 기존 main이 있다면 일반 리뷰·병합 절차를 사용하며 강제 push하지 않습니다.

@@ -45,6 +45,7 @@ else:
  p.write_text('{"value": 2}\\n')
  Path('data/news/2026-11.json').write_text('{"articles": []}\\n')
  Path('data/briefings/2026-10.json').write_text('{"editions": ["new"]}\\n')
+ Path('.runtime/last-run.json').write_text(json.dumps({'briefing': {'day': '2026-10-20', 'result': 'created'}}))
  if os.environ.get('SIMULATE_FAILURE'): raise SystemExit(1)
 ''')
         self.git('add', '.')

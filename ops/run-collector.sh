@@ -125,9 +125,27 @@ while IFS= read -r path; do
     *) echo '[error] Unexpected public output; operator review required.'; exit 1 ;;
   esac
 done < <(git status --porcelain --untracked-files=all -- data | cut -c4-)
+if [[ "$MODE" == brief ]]; then
+  # Use the edition's KST date, including an explicitly recovered past date.
+  COMMIT_MESSAGE="$(.venv/bin/python - <<'PY'
+import json
+from datetime import date
+from pathlib import Path
+
+briefing = json.loads(Path('.runtime/last-run.json').read_text())['briefing']
+if briefing['result'] == 'created':
+    day = date.fromisoformat(briefing['day']).isoformat()
+    print(f'briefing: publish {day}')
+else:
+    print('briefing: update archives')
+PY
+)"
+else
+  COMMIT_MESSAGE="data: refresh AI news $(date -u +%F-%H%M)"
+fi
 git add -A -- data
 git -c user.name='AI Brief Collector' -c user.email='ai-brief-collector@users.noreply.github.com' \
-  commit -m "data: refresh AI news $(date -u +%F-%H%M)"
+  commit -m "$COMMIT_MESSAGE"
 BATCH_COMMITTED=1
 git push origin "HEAD:$BRANCH"
 echo "[done] $(date -u +%FT%TZ) — data pushed; Pages will build independently."
