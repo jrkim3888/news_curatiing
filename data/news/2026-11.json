@@ -3,6 +3,992 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "1fe1d846926c024c6c57",
+      "url": "https://www.oblomovka.com/wp/2026/11/16/forks-and-spoons-uniting-over-ai-differences-in-free-software",
+      "title": "Forks and Spoons: Uniting over AI Differences in Free Software",
+      "original_title": "Forks and Spoons: Uniting over AI Differences in Free Software",
+      "published_at": "2026-11-18T22:28:50+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.oblomovka.com/wp/2026/11/16/forks-and-spoons-uniting-over-ai-differences-in-free-software",
+          "title": "Forks and Spoons: Uniting over AI Differences in Free Software",
+          "discussion_url": "https://news.ycombinator.com/item?id=50553217"
+        }
+      ]
+    },
+    {
+      "id": "8d76c0be78e10c83c010",
+      "url": "https://www.crawlreadiness.com/ai-access-index/2026-11",
+      "title": "AI Access Index, Nov 2026: how 684 of the topk hostnames treat AI crawlers",
+      "original_title": "AI Access Index, Nov 2026: how 684 of the topk hostnames treat AI crawlers",
+      "published_at": "2026-11-18T22:25:52+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.crawlreadiness.com/ai-access-index/2026-11",
+          "title": "AI Access Index, Nov 2026: how 684 of the topk hostnames treat AI crawlers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50553175"
+        }
+      ]
+    },
+    {
+      "id": "9cd84c2455ae281d32d9",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "original_title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "published_at": "2026-11-18T22:11:15+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The long-awaited IPO reportedly values the company at $1.5 trillion on fully diluted basis.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range",
+          "title": "Anthropic reportedly prices IPO at $83 a share, above projected range"
+        }
+      ]
+    },
+    {
+      "id": "5dd63cd3cb9e4b4a4113",
+      "url": "https://oddityforge.net/",
+      "title": "I'm a GM Master Technician Building a Team of AI Agents That Talk to Each Other",
+      "original_title": "I'm a GM Master Technician Building a Team of AI Agents That Talk to Each Other",
+      "published_at": "2026-11-18T22:07:50+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://oddityforge.net/",
+          "title": "I'm a GM Master Technician Building a Team of AI Agents That Talk to Each Other",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552902"
+        }
+      ]
+    },
+    {
+      "id": "f3d566f0f022bd6c80e3",
+      "url": "https://vimeo.com/791026418",
+      "title": "Canvas Dx, an AI app that diagnoses autism [video]",
+      "original_title": "Canvas Dx, an AI app that diagnoses autism [video]",
+      "published_at": "2026-11-18T22:07:10+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://vimeo.com/791026418",
+          "title": "Canvas Dx, an AI app that diagnoses autism [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552892"
+        }
+      ]
+    },
+    {
+      "id": "342aa1b162c1f5728d4b",
+      "url": "https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai",
+      "title": "Growing as an Engineer in a World of AI",
+      "original_title": "Growing as an Engineer in a World of AI",
+      "published_at": "2026-11-18T22:00:29+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nlopes.dev/writing/growing-as-an-engineer-in-a-world-of-ai",
+          "title": "Growing as an Engineer in a World of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552809"
+        }
+      ]
+    },
+    {
+      "id": "92f398ab6d12ca8b45fa",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217545",
+      "title": "엔비디아, 첫 직원회의서 \"앞으로 나아가자\"…황 복귀 배제",
+      "original_title": "엔비디아, 첫 직원회의서 \"앞으로 나아가자\"…황 복귀 배제",
+      "published_at": "2026-11-18T22:00:24+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 젠슨 황 전 CEO의 퇴임 이후 처음 열린 전 직원회의에서 새로운 경영 체제로의 전환을 강조했다. 일부 직원들이 황의 복귀를 요구하는 가운데 경영진은 복귀 불가 방침을 재확인하고, 기존 사업 전략을 유지하겠다고 약속했으며 임금 인상과 주식 보상 일정도 앞당기기로 했다.블룸버그와 뉴욕타임스(NYT), CNB…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217545",
+          "title": "엔비디아, 첫 직원회의서 \"앞으로 나아가자\"…황 복귀 배제"
+        }
+      ]
+    },
+    {
+      "id": "cee846f10cc6ddbeec3f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217524",
+      "title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져",
+      "original_title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져",
+      "published_at": "2026-11-18T22:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국에서 항공관제와 은행, 마이크로소프트(MS), 애플, 국가안보국(NSA)까지 주요 시스템이 잇따라 마비되면서 기술에 대한 불안감이 커지고 있습니다. 사이버 공격이나 AI가 원인이라는 증거는 없지만, 최근 AI의 소프트웨어 취약점 발견 능력이 급격히 발전하고 실제 브라우저 보안 사고까지 발생한 상황에서 AI를 이용…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217524",
+          "title": "[11월18일] 미국 핵심 시스템 줄줄이 마비…해킹 없었지만 AI 공격 공포 커져"
+        }
+      ]
+    },
+    {
+      "id": "d8ac169631b01ef65921",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "original_title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "published_at": "2026-11-18T21:57:40+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+          "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report"
+        }
+      ]
+    },
+    {
+      "id": "91f77560981e3b35c951",
+      "url": "https://www.coderabbit.ai/blog/introducing-coderabbit-verify",
+      "title": "CodeRabbit Verify: Agentic application testing and QA",
+      "original_title": "CodeRabbit Verify: Agentic application testing and QA",
+      "published_at": "2026-11-18T21:48:18+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.coderabbit.ai/blog/introducing-coderabbit-verify",
+          "title": "CodeRabbit Verify: Agentic application testing and QA",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552635"
+        }
+      ]
+    },
+    {
+      "id": "be0aed2f51056a6d6c6f",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+      "title": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
+      "original_title": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
+      "published_at": "2026-11-18T21:47:59+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Koray Kavukcuoglu / Google : Google rolls out Gemini 4 Neon, with “fast end-to-end task completion” across coding, knowledge work, and science, in the API, Antigravity, and the …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon",
+          "title": "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
+          "discussion_url": "https://www.techmeme.com/261118/p44"
+        }
+      ]
+    },
+    {
+      "id": "57007e88b535b36cde42",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-tells-employees-that-company-is-moving-on-from-huang-era",
+      "title": "Nvidia Tells Employees That Company Is Moving on from Huang Era",
+      "original_title": "Nvidia Tells Employees That Company Is Moving on from Huang Era",
+      "published_at": "2026-11-18T21:47:06+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-tells-employees-that-company-is-moving-on-from-huang-era",
+          "title": "Nvidia Tells Employees That Company Is Moving on from Huang Era",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552610"
+        }
+      ]
+    },
+    {
+      "id": "ed013ff432dcf481b1a3",
+      "url": "https://spectrum.ieee.org/optical-computing-ai",
+      "title": "Energy Wins Driving Optical Computing AI",
+      "original_title": "Energy Wins Driving Optical Computing AI",
+      "published_at": "2026-11-18T21:45:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://spectrum.ieee.org/optical-computing-ai",
+          "title": "Energy Wins Driving Optical Computing AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552565"
+        }
+      ]
+    },
+    {
+      "id": "eef9b762f0728ea7128e",
+      "url": "https://github.com/chayworks/milo-pointer",
+      "title": "Show HN: A 149M model handles 70% of phone-agent steps locally, Claude the rest",
+      "original_title": "Show HN: A 149M model handles 70% of phone-agent steps locally, Claude the rest",
+      "published_at": "2026-11-18T21:44:59+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/chayworks/milo-pointer",
+          "title": "Show HN: A 149M model handles 70% of phone-agent steps locally, Claude the rest",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552563"
+        }
+      ]
+    },
+    {
+      "id": "9ba5e890ea2c92b2f1d7",
+      "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c",
+      "title": "Anthropic Prices IPO at $83 a Share",
+      "original_title": "Anthropic Prices IPO at $83 a Share",
+      "published_at": "2026-11-18T21:42:05+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c",
+          "title": "Anthropic Prices IPO at $83 a Share",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552520"
+        }
+      ]
+    },
+    {
+      "id": "d866193457004aff78b0",
+      "url": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
+      "title": "Google Buys Worker Data from Spirit Airlines in a New Market to Feed AI",
+      "original_title": "Google Buys Worker Data from Spirit Airlines in a New Market to Feed AI",
+      "published_at": "2026-11-18T21:41:16+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/11/18/business/economy/google-spirit-employee-data-ai.html",
+          "title": "Google Buys Worker Data from Spirit Airlines in a New Market to Feed AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552512"
+        }
+      ]
+    },
+    {
+      "id": "9b1a854c2062d42a0af6",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight",
+      "title": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake (Sabrina Willmer/Bloomberg)",
+      "original_title": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake (Sabrina Willmer/Bloomberg)",
+      "published_at": "2026-11-18T21:40:01+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sabrina Willmer / Bloomberg : Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zucker…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-18/meta-pauses-zuckerberg-share-plan-during-investor-legal-fight",
+          "title": "Meta agrees to pause issuing nonvoting Class C shares during lawsuits by investors opposing its plan to fund AI investments without diluting Zuckerberg's stake (Sabrina Willmer/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261118/p42"
+        }
+      ]
+    },
+    {
+      "id": "0b2301f58d00208210ad",
+      "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+      "title": "Anthropic prices IPO at $83 per share",
+      "original_title": "Anthropic prices IPO at $83 per share",
+      "published_at": "2026-11-18T21:37:16+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+          "title": "Anthropic prices IPO at $83 per share",
+          "discussion_url": "https://news.ycombinator.com/item?id=50552461"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+          "title": "Source: Anthropic priced its IPO at $83 per share, above the $70-$78 marketed range, which would put its valuation above the $1.4T it was previously targeting (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261118/p34"
+        }
+      ]
+    },
+    {
+      "id": "fd9bebbff7e692862dad",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "title": "Introducing Gemini 4 Neon",
+      "original_title": "Introducing Gemini 4 Neon",
+      "published_at": "2026-11-18T21:35:43+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "title": "Introducing Gemini 4 Neon"
+        }
+      ]
+    },
+    {
+      "id": "3285b906d368abcf3b42",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "original_title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+      "published_at": "2026-11-18T21:34:13+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running",
+          "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’"
+        }
+      ]
+    },
+    {
+      "id": "f2571adad4d38d7232eb",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+      "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "original_title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+      "published_at": "2026-11-18T21:31:21+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated",
+          "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated"
+        }
+      ]
+    },
+    {
+      "id": "1a29c01aa43bd471ef58",
+      "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?reflink=desktopwebshare_permalink&st=xrTMe2",
+      "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+      "original_title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+      "published_at": "2026-11-18T21:15:05+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kate Clark / Wall Street Journal : Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion-39193611?reflink=desktopwebshare_permalink&st=xrTMe2",
+          "title": "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261118/p41"
+        }
+      ]
+    },
+    {
+      "id": "c47918049e3ac734ab91",
+      "url": "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation",
+      "title": "Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+      "original_title": "Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+      "published_at": "2026-11-18T21:01:02+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "The Information : Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theinformation.com/articles/bret-taylors-sierra-talks-raise-30-billion-valuation",
+          "title": "Sources: Bret Taylor's Sierra is in talks to raise ~$1.5B at a ~$30B valuation, up from $15.8B in May; it said in October it hit $400M+ in annualized revenue (The Information)",
+          "discussion_url": "https://www.techmeme.com/261118/p40"
+        }
+      ]
+    },
+    {
+      "id": "85c8b4d9b42d21179a73",
+      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam",
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "original_title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "published_at": "2026-11-18T20:49:32+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream tha…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam",
+          "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam"
+        }
+      ]
+    },
+    {
+      "id": "cef4a627b91c6fcc2510",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+      "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "original_title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "published_at": "2026-11-18T20:07:01+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie",
+          "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie"
+        }
+      ]
+    },
+    {
+      "id": "20774146b79ca781277a",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
+      "original_title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
+      "published_at": "2026-11-18T20:05:02+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Emma Roth / The Verge : Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay — T…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+          "title": "Google rebrands its Gemini Spark AI agent as Tasks and makes it free in six countries; in the US it can call businesses and buy items with Google Pay (Emma Roth/The Verge)",
+          "discussion_url": "https://www.techmeme.com/261118/p39"
+        }
+      ]
+    },
+    {
+      "id": "ac57b5b6ee9ed73e27a8",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "original_title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "published_at": "2026-11-18T19:56:39+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor",
+          "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor"
+        }
+      ]
+    },
+    {
+      "id": "f0b81ce3c14612880642",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "original_title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "published_at": "2026-11-18T19:54:56+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+          "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency"
+        }
+      ]
+    },
+    {
+      "id": "276d6b33ec17971fb70b",
+      "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo",
+      "title": "At Nvidia's first all-hands since Huang's ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)",
+      "original_title": "At Nvidia's first all-hands since Huang's ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)",
+      "published_at": "2026-11-18T19:25:43+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wired : At Nvidia's first all-hands since Huang's ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule — Interi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/inside-nvidias-first-all-hands-without-jensen-huang-as-ceo",
+          "title": "At Nvidia's first all-hands since Huang's ouster, Colette Kress told staff that they can expect pay raises and more equity in December, months ahead of schedule (Wired)",
+          "discussion_url": "https://www.techmeme.com/261118/p38"
+        }
+      ]
+    },
+    {
+      "id": "e55c8f2df06c07ffc92b",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "original_title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "published_at": "2026-11-18T18:53:43+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+          "title": "Why your fine-tuning job takes longer than the FLOPs say"
+        }
+      ]
+    },
+    {
+      "id": "a261d2eee241a886eda0",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+      "title": "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
+      "original_title": "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
+      "published_at": "2026-11-18T18:35:01+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Google : Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them — Explore…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie",
+          "title": "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
+          "discussion_url": "https://www.techmeme.com/261118/p37"
+        }
+      ]
+    },
+    {
+      "id": "ca9ca0837de1673fe715",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "title": "Genie 4 is now available",
+      "original_title": "Genie 4 is now available",
+      "published_at": "2026-11-18T18:13:42+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "title": "Genie 4 is now available"
+        }
+      ]
+    },
+    {
+      "id": "36bbeb249216ceb6a04b",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+      "title": "Google’s AI feature in Search gets its own incognito mode",
+      "original_title": "Google’s AI feature in Search gets its own incognito mode",
+      "published_at": "2026-11-18T18:04:05+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode",
+          "title": "Google’s AI feature in Search gets its own incognito mode"
+        }
+      ]
+    },
+    {
+      "id": "8f53d7351c01b593d9dc",
+      "url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739",
+      "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
+      "original_title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
+      "published_at": "2026-11-18T17:55:01+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Politico : Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches — Gavin New…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.politico.com/news/2026/11/18/newsom-ai-plan-01172739",
+          "title": "Gavin Newsom unveils a proposal to give California broad powers to regulate the AI industry, but stops short of requiring the development of kill switches (Politico)",
+          "discussion_url": "https://www.techmeme.com/261118/p36"
+        }
+      ]
+    },
+    {
+      "id": "f2d6f4a670f0cea1114b",
+      "url": "https://www.axios.com/pro/all-deals/2026/11/17/remanence-30m-ai-model-training",
+      "title": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
+      "original_title": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
+      "published_at": "2026-11-18T17:40:02+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Lucinda Shen / Axios : Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark — Remanence, …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/pro/all-deals/2026/11/17/remanence-30m-ai-model-training",
+          "title": "Paris-based Remanence, which helps companies train and fine-tune open-weight AI models, raised a $30M seed led by EQT Ventures and FirstMark (Lucinda Shen/Axios)",
+          "discussion_url": "https://www.techmeme.com/261118/p35"
+        }
+      ]
+    },
+    {
+      "id": "42ab85f3d5b2fc42240c",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+      "title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "original_title": "More banks say customers using AI agents are on their own — even if they get hacked",
+      "published_at": "2026-11-18T17:32:10+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
+          "title": "More banks say customers using AI agents are on their own — even if they get hacked"
+        }
+      ]
+    },
+    {
+      "id": "e0a5680da648bf1e9f0c",
+      "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos",
+      "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+      "original_title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "World model accuracy starts with high-quality, diverse training datasets. Yet capturing rare defects, nighttime incidents, and other challenging scenarios is... World model accu…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/build-training-ready-physical-ai-datasets-with-two-prompts-in-nvidia-cosmos",
+          "title": "Build Training-Ready Physical AI Datasets with Two Prompts in NVIDIA Cosmos"
+        }
+      ]
+    },
+    {
+      "id": "0191a8cf5007a7e305ee",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "original_title": "The Gemini app is now available on lower-memory Android devices.",
+      "published_at": "2026-11-18T17:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
+          "title": "The Gemini app is now available on lower-memory Android devices."
+        }
+      ]
+    },
+    {
+      "id": "1030bbe139c979c4319e",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
+      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "original_title": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "published_at": "2026-11-18T16:59:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human c…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
+          "title": "Sam Altman warns against a future where AI, not humans, calls the shots"
+        }
+      ]
+    },
+    {
+      "id": "4b6c9d5a45220194af25",
+      "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws",
+      "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
+      "original_title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
+      "published_at": "2026-11-18T16:25:01+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Thomas Brewster / Forbes : Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaw…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/thomasbrewster/2026/11/18/ai-finds-major-web-security-flaws",
+          "title": "Cybersecurity company Xint says it found RCE vulnerabilities in Nginx using GPT 6.1 Sol and GPT-6 Luna; Wiz says it had separately found the same flaws (Thomas Brewster/Forbes)",
+          "discussion_url": "https://www.techmeme.com/261118/p32"
+        }
+      ]
+    },
+    {
+      "id": "e6de34d7c9a098b0d7ce",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
+      "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "original_title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
+      "published_at": "2026-11-18T16:14:09+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen",
+          "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’"
+        }
+      ]
+    },
+    {
+      "id": "1c2cff6fe54921cead04",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
+      "title": "다니엘 스텐버그, AI 에이전트의 curl Rust 재작성과 실제 curl 프로젝트 개선 비교",
+      "original_title": "Quoting Daniel Stenberg",
+      "published_at": "2026-11-18T15:58:27+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually im…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
+          "title": "Quoting Daniel Stenberg"
+        }
+      ],
+      "summary": "다니엘 스텐버그는 AI 에이전트들이 18만 5천 줄의 C 코드를 34만 줄의 Rust 코드로 변환하는 동안 실제 curl 프로젝트에서는 300개 이상의 커밋이 병합됐다고 밝혔다. 그는 이 기간에 200건이 넘는 버그 수정과 일부 취약점 수정이 이뤄졌으며, Rust 재작성본에는 이런 수정이 없다고 지적했다. 또 한 달 동안 200건을 추가로 처리하고 취약점을 더 고쳤을 수 있다고 덧붙이며 재작성본이 이를 따라올 수 있을지 의문을 제기했다.",
+      "why_it_matters": "AI가 생성한 코드 재작성과 실제 유지보수 프로젝트의 축적된 수정·보안 작업 사이의 격차를 보여주는 사례로, 재작성본의 실효성을 판단할 때 참고할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-18T22:30:10+00:00",
+        "input_hash": "3dc86720afde9ed7e7f9a7e5ccc165a340d6b931aea46b19de1ff1ac5f26ab93",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "aef632472a5e3af7f91b",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "title": "IBM, Confluent과 협력해 시계열 파운데이션 모델을 스트리밍 데이터에 네이티브로 통합",
+      "original_title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "published_at": "2026-11-18T15:00:23+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases"
+        }
+      ],
+      "summary": "IBM 리서치와 Confluent가 시계열 파운데이션 모델을 Apache Flink 기반 스트리밍 데이터에 네이티브로 통합했다고 발표했다. IBM은 이 모델들이 5천만 건 이상 다운로드되었으며, 클라우드와 온프레미스에서 CPU로 실행된다고 밝혔다. 이 통합은 실시간 예측, 이상 탐지, 최적화를 SQL을 통해 스트리밍 데이터에 적용할 수 있게 한다고 회사 측은 설명했다.",
+      "why_it_matters": "시계열 모델이 데이터 스트림에 직접 내장되면 예측과 이상 탐지 결과를 의사결정 시점에 더 가깝게 제공할 수 있어, 배치 처리 지연으로 인한 대응 지연을 줄일 가능성이 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-18T22:30:07+00:00",
+        "input_hash": "718158eb96083d9e44883ae94f75e912e7783d073967cc63af5664816b0fda18",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "2023faf93d7d342dd2ad",
+      "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision",
+      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+      "original_title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+      "published_at": "2026-11-18T15:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)... Training a nex…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision",
+          "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision"
+        }
+      ]
+    },
+    {
+      "id": "b9b3936785bef30064f9",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+      "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "original_title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
+      "published_at": "2026-11-18T13:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, inte…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds",
+          "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds"
+        }
+      ]
+    },
+    {
+      "id": "d9a9c27710fe8bbe59a7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42792",
+      "title": "연세대·엔비디아, 1,049억 건 전파 데이터 오픈소스로 공개…6G·AI-RAN 위한 무선 파운데이션 모델 개발 가속",
+      "original_title": "연세대·엔비디아, 1,049억 건 전파 데이터 오픈소스로 공개…6G·AI-RAN 위한 무선 파운데이션 모델 개발 가속",
+      "published_at": "2026-11-18T12:43:07+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 무선통신 환경을 학습하고 새로운 공간에서도 전파 전달 특성을 예측할 수 있도록 지원하는 초대형 데이터셋이 공개됐다. 차세대 6G 이동통신과 AI 기반 무선접속망(AI-RAN)의 핵심 기술로 주목받는 무선 파운데이션 모델 개발에 필요한 대규모 학습 기반을 확보했다는 점에서 의미가 크다.연세대학교(총장…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42792",
+          "title": "연세대·엔비디아, 1,049억 건 전파 데이터 오픈소스로 공개…6G·AI-RAN 위한 무선 파운데이션 모델 개발 가속"
+        }
+      ]
+    },
+    {
+      "id": "2c4163c7e21d994db2e8",
+      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "original_title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+      "published_at": "2026-11-18T12:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
+          "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents"
+        }
+      ]
+    },
+    {
       "id": "aed92cf78c5d62b049be",
       "url": "https://www.ft.com/content/5168b3e9-75d0-4be0-9ccd-d327d6b16c05",
       "title": "KPMG uses 100+ AI agents to conduct a parallel audit of a FTSE 250 company in a pilot, saying the AI asked \"better questions\" and dug deeper than human staff (Financial Times)",
@@ -125,6 +1111,26 @@
           "url": "https://huggingface.co/blog/harness-hub/harness-adapters",
           "title": "Harness adapters: Safe RL for efficient agentic development",
           "discussion_url": "https://news.ycombinator.com/item?id=50544264"
+        }
+      ]
+    },
+    {
+      "id": "184d931227f2504de1a3",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "title": "The Silent Consensus",
+      "original_title": "The Silent Consensus",
+      "published_at": "2026-11-18T10:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/the-silent-consensus",
+          "title": "The Silent Consensus"
         }
       ]
     },
@@ -454,6 +1460,26 @@
       ]
     },
     {
+      "id": "67952d9a918d2536a7bf",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "title": "Inside the Codex sandbox",
+      "original_title": "Inside the Codex sandbox",
+      "published_at": "2026-11-18T08:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "title": "Inside the Codex sandbox"
+        }
+      ]
+    },
+    {
       "id": "f62c94c5e8280d4a7592",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217520",
       "title": "전남광주, 수능 AI 안경 대응 강화…132명 배치·감독교사 법률지원",
@@ -632,6 +1658,26 @@
           "source_id": "byline",
           "url": "https://byline.network/2026/11/18-651",
           "title": "“보안팀 일 덜어주겠다” AI스페라, ‘AITEM’ 출시"
+        }
+      ]
+    },
+    {
+      "id": "99be0c0a7e074380d1a5",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "original_title": "Managing frontier AI risk: From training to deployment",
+      "published_at": "2026-11-18T06:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/managing-frontier-ai-risk",
+          "title": "Managing frontier AI risk: From training to deployment"
         }
       ]
     },
@@ -1040,6 +2086,35 @@
       ]
     },
     {
+      "id": "ec56b5eff9affb1c339e",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "title": "180B 파라미터 MoE 모델을 32GB 맥에서 구동하기: Transformers 전문가 스트리밍 실험",
+      "original_title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/moe-expert-streaming",
+          "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers"
+        }
+      ],
+      "summary": "한 개발자가 32GB 통합 메모리 맥북 M5에서 180B 규모 MoE 모델(Qwen3.8-Flash-Next)을 Transformers로 구동한 실험을 공개했다. 전문가 가중치를 3비트로 양자화해 SSD에서 스트리밍하고, 슬롯 풀 캐시와 Metal 커널을 적용해 디코드 13.9 tok/s, 프리필 228 tok/s를 기록했다. 이는 동일 조건에서 Strata 엔진 대비 디코드 약 6% 느린 수준이라고 발표했다.",
+      "why_it_matters": "대규모 MoE 모델을 소비자용 하드웨어에서 실행하려는 시도는 모델 접근성과 비용 구조에 영향을 줄 수 있다. 다만 이 결과는 특정 실험 환경에 한정된 것이며, 범용 성능 향상으로 일반화하기는 어렵다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-18T22:29:59+00:00",
+        "input_hash": "c99168cb55f0a008870deef55b7889a7fc0d3ec2058b2b739f73172b55075c16",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "a1de396d3910fa2e0f79",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
@@ -1056,6 +2131,52 @@
           "source_id": "openai",
           "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
+        }
+      ]
+    },
+    {
+      "id": "68ddb817fe4001c0fc7b",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "title": "Advancing chip design with OpenAI models",
+      "original_title": "Advancing chip design with OpenAI models",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "title": "Advancing chip design with OpenAI models"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "title": "OpenAI says its models improved power, performance, and area by up to 14% on AMD's flagship GPU IP; some changes are in a design AMD sent for manufacturing (OpenAI)",
+          "discussion_url": "https://www.techmeme.com/261118/p45"
+        }
+      ]
+    },
+    {
+      "id": "5b89a2db7f60ae9099b7",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "original_title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "published_at": "2026-11-18T00:00:00+00:00",
+      "collected_at": "2026-11-18T22:29:36+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
         }
       ]
     },
