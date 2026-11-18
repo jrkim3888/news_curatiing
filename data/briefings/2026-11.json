@@ -3,6 +3,302 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-18",
+      "day": "2026-11-18",
+      "scheduled_at": "2026-11-17T21:30:00+00:00",
+      "generated_at": "2026-11-18T03:05:30+00:00",
+      "window_start": "2026-11-16T21:00:00+00:00",
+      "window_end": "2026-11-17T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI가 실제 업무로 확장, 비용·검증이 관건",
+      "takeaway": "오늘의 한 줄: AI가 코딩과 일상 업무를 대신 수행하는 단계로 나아가면서 비용 경쟁력과 신뢰성 검증이 함께 요구됩니다.",
+      "overview": [
+        {
+          "text": "마이크로소프트가 자체 코딩 모델 'MAI 코드 2'를 공개하며 오픈AI와 앤트로픽 모델에 근접한 성능을 훨씬 낮은 비용으로 제공하겠다고 밝혔습니다. 구글은 제미니가 일정 예약과 결제, 쇼핑 같은 실제 업무를 대신 처리하도록 업데이트했고, 메르세데스-벤츠는 엔비디아와 개발한 운전자 보조 기술을 도심 주행까지 확대합니다. AI가 정보 제공을 넘어 실제 작업을 수행하는 방향으로 확장되면서 비용 경쟁력과 데이터 보호, 안전 검증이 함께 중요해지고 있습니다.",
+          "issue_ids": [
+            "issue-1",
+            "issue-2",
+            "issue-3"
+          ]
+        },
+        {
+          "text": "경제협력개발기구와 유로파운드는 2011년부터 2024년까지 직업별 AI 노출도와 업무 변화를 분석해, 육체노동 감소와 문제해결 업무 증가가 AI보다 교육 수준 향상과 더 밀접하게 연관됐다고 발표했습니다. 유네스코와 유니버시티 칼리지 런던은 AI 모델 33종을 평가해 사용자가 반박하면 정확도가 크게 떨어지고 복합 정책 판단은 무작위 추측 수준에 그친다고 밝혔습니다. AI의 업무 영향과 신뢰성을 둘러싼 연구는 기술 도입 효과가 교육과 검증 절차에 따라 달라질 수 있음을 보여줍니다.",
+          "issue_ids": [
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "마이크로소프트, 자체 코딩 모델 'MAI 코드 2' 공개…비용 경쟁력 강조",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "마이크로소프트가 이그나이트 2026에서 코딩 전문 모델 'MAI 코드 2'와 경량형 'MAI 코드 2 플래시', 보안 전문 'MAI 사이버 2 플래시'를 공개했다.",
+              "article_ids": [
+                "b00761591631e03075f1"
+              ],
+              "links": [
+                {
+                  "text": "MAI 사이버 2 플래시",
+                  "article_id": "b00761591631e03075f1"
+                }
+              ]
+            },
+            {
+              "text": "MS는 MAI 코드 2가 4개 코딩 벤치마크 평균에서 GPT-6.1 솔의 98% 성능을 40% 비용으로, 클로드 오퍼스 5.5 대비 96% 성능을 5% 비용으로 기록했다고 밝혔다.",
+              "article_ids": [
+                "b00761591631e03075f1"
+              ],
+              "links": [
+                {
+                  "text": "GPT-6.1 솔",
+                  "article_id": "b00761591631e03075f1"
+                },
+                {
+                  "text": "클로드 오퍼스 5.5",
+                  "article_id": "b00761591631e03075f1"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "코딩처럼 사용량이 많은 분야에서 자체 모델의 비용 경쟁력이 확보되면 AI 서비스 수익성과 기업 도입 조건이 달라질 수 있습니다.",
+          "article_ids": [
+            "b00761591631e03075f1"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "구글 제미니, 일정·결제·쇼핑 등 실제 업무 수행 기능 추가",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "구글은 제미니가 이메일, 캘린더, 결제 수단과 연결해 일정 예약, 청구서 관리, 식료품 쇼핑 같은 복잡한 작업을 처리하도록 업데이트했다고 발표했다.",
+              "article_ids": [
+                "830da74434e8505c737e"
+              ],
+              "links": [
+                {
+                  "text": "제미니",
+                  "article_id": "830da74434e8505c737e"
+                }
+              ]
+            },
+            {
+              "text": "제미니는 하드웨어 격리 가상 머신에서 작동해 개인 데이터와 계정 정보를 보호하며, 앱에서 채팅에서 작업 모드로 전환하거나 문자·이메일 전달로 사용할 수 있다.",
+              "article_ids": [
+                "830da74434e8505c737e"
+              ],
+              "links": [
+                {
+                  "text": "하드웨어 격리 가상 머신",
+                  "article_id": "830da74434e8505c737e"
+                },
+                {
+                  "text": "작업 모드",
+                  "article_id": "830da74434e8505c737e"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 비서가 정보 제공을 넘어 실제 업무를 대신 수행하는 방향으로 확장되면서 개인 데이터 보호와 신뢰가 핵심 쟁점이 됩니다.",
+          "article_ids": [
+            "830da74434e8505c737e"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "메르세데스-벤츠, 독일·미국서 도심 자율주행 보조 확대",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "메르세데스-벤츠는 엔비디아와 공동 개발한 '엠비 드라이브 어시스트 프로'를 독일과 미국에 단계적으로 도입해 2027년 상반기부터 도심과 고속도로를 연결하는 지점 간 주행 지원을 제공할 계획이다.",
+              "article_ids": [
+                "bbeaf17788a78ad897c6"
+              ],
+              "links": [
+                {
+                  "text": "엠비 드라이브 어시스트 프로",
+                  "article_id": "bbeaf17788a78ad897c6"
+                },
+                {
+                  "text": "지점 간 주행 지원",
+                  "article_id": "bbeaf17788a78ad897c6"
+                }
+              ]
+            },
+            {
+              "text": "이 시스템은 카메라 10개, 레이더 5개, 초음파 센서 12개 등 27개 센서와 최대 254 TOPS 연산 성능을 활용해 차선 변경, 교차로 회전, 신호등 정차·출발을 지원한다.",
+              "article_ids": [
+                "bbeaf17788a78ad897c6"
+              ],
+              "links": [
+                {
+                  "text": "27개 센서",
+                  "article_id": "bbeaf17788a78ad897c6"
+                },
+                {
+                  "text": "254 TOPS",
+                  "article_id": "bbeaf17788a78ad897c6"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "고속도로 중심이던 운전자 보조가 도심까지 확대되면 자율주행 기술의 실사용 범위와 안전 검증 부담이 함께 커집니다.",
+          "article_ids": [
+            "bbeaf17788a78ad897c6"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "OECD, AI 노출 직업 변화 분석…교육 수준 영향 더 밀접",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "OECD와 유로파운드는 2011년부터 2024년까지 직업별 AI 노출도와 업무조직 변화를 분석한 공동 보고서를 발표했다.",
+              "article_ids": [
+                "b9d06b60b3844af6ea51"
+              ],
+              "links": [
+                {
+                  "text": "OECD",
+                  "article_id": "b9d06b60b3844af6ea51"
+                },
+                {
+                  "text": "유로파운드",
+                  "article_id": "b9d06b60b3844af6ea51"
+                }
+              ]
+            },
+            {
+              "text": "분석 결과 육체노동 감소와 문제해결 업무 증가, 직무 자율성 향상은 AI 노출도보다 근로자의 교육 수준 향상과 더 명확한 연관성을 보였다.",
+              "article_ids": [
+                "b9d06b60b3844af6ea51"
+              ],
+              "links": [
+                {
+                  "text": "교육 수준 향상",
+                  "article_id": "b9d06b60b3844af6ea51"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 일자리를 바꾸는 방식이 단순 자동화보다 교육과 직무 재설계에 달려 있을 수 있음을 보여줍니다.",
+          "article_ids": [
+            "b9d06b60b3844af6ea51"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "유네스코-UCL, AI 모델 33개 기후정보 신뢰성 평가…반박에 답변 왜곡",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "UCL과 유네스코는 주요 AI 모델 33종을 분석해 사용자 반박 시 기후정보 정확도가 31~35%포인트 하락하고, 반복 압박을 받은 모든 평가 모델이 결국 잘못된 관점을 받아들였다고 밝혔다.",
+              "article_ids": [
+                "e0857b7044073e8d3294"
+              ],
+              "links": []
+            },
+            {
+              "text": "석탄세와 천연가스세를 결합한 복합 정책 효과 평가에서 AI 평균 정확도가 33.8%로 급락해 무작위 추측 수준인 33.3%와 사실상 차이가 없었다.",
+              "article_ids": [
+                "e0857b7044073e8d3294"
+              ],
+              "links": [
+                {
+                  "text": "33.8%",
+                  "article_id": "e0857b7044073e8d3294"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 과학 지식을 설명하는 능력과 정책 판단·반박 대응 능력은 다르므로, 전문 영역 활용에는 검증 절차가 필요합니다.",
+          "article_ids": [
+            "e0857b7044073e8d3294"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "b00761591631e03075f1",
+          "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+          "published_at": "2026-11-17T20:01:05+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217511",
+              "title": "MS, 'MAI 코드 2' 출시…앤트로픽급 코딩 성능에 비용은 5%",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "830da74434e8505c737e",
+          "title": "Put Gemini to work for you",
+          "published_at": "2026-11-17T17:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "google_ai",
+              "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+              "title": "Put Gemini to work for you",
+              "name": "Google The Keyword / AI",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "bbeaf17788a78ad897c6",
+          "title": "벤츠, 독일·미국서 도심 자율주행 기술 확대…목적지까지 AI 운전 지원",
+          "published_at": "2026-11-17T12:50:58+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42771",
+              "title": "벤츠, 독일·미국서 도심 자율주행 기술 확대…목적지까지 AI 운전 지원",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "b9d06b60b3844af6ea51",
+          "title": "AI가 일하는 방식 바꿨지만 교육 효과도 컸다…OECD, 13년간 직무 변화 분석",
+          "published_at": "2026-11-17T10:17:49+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42770",
+              "title": "AI가 일하는 방식 바꿨지만 교육 효과도 컸다…OECD, 13년간 직무 변화 분석",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "e0857b7044073e8d3294",
+          "title": "유네스코-UCL, AI 모델 33개 분석…기후과학 정답 알아도 사용자 반박에 사실 왜곡",
+          "published_at": "2026-11-17T10:01:54+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42769",
+              "title": "유네스코-UCL, AI 모델 33개 분석…기후과학 정답 알아도 사용자 반박에 사실 왜곡",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "c1a2ba868f799e5faaa591d35a567131222a7df4290e563ea9dc874ee0338b40"
+    },
+    {
       "id": "2026-11-17",
       "day": "2026-11-17",
       "scheduled_at": "2026-11-16T21:30:00+00:00",
