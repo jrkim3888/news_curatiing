@@ -3,6 +3,936 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "bf0b1db6b1ab84c74126",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY",
+      "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
+      "original_title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
+      "published_at": "2026-11-19T22:30:01+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Mark Gurman / Bloomberg : A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for u…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY",
+          "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261119/p52"
+        }
+      ]
+    },
+    {
+      "id": "73eb308d968aaa163867",
+      "url": "https://arxiv.org/abs/2611.18036",
+      "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
+      "original_title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
+      "published_at": "2026-11-19T22:23:02+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/abs/2611.18036",
+          "title": "C-to-Rust Translation Validation at the LLVM IR Level via AI-Assisted Proof",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567314"
+        }
+      ]
+    },
+    {
+      "id": "e088e5cf8cbe5e63a9a4",
+      "url": "https://al.radbox.org/doi/10.1145/3828523.3857041",
+      "title": "A Novel AI-Native GPU Kernel Programming Language for Autonomous Kernel Tuning",
+      "original_title": "A Novel AI-Native GPU Kernel Programming Language for Autonomous Kernel Tuning",
+      "published_at": "2026-11-19T22:21:35+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://al.radbox.org/doi/10.1145/3828523.3857041",
+          "title": "A Novel AI-Native GPU Kernel Programming Language for Autonomous Kernel Tuning",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567301"
+        }
+      ]
+    },
+    {
+      "id": "05140379489e8933a77e",
+      "url": "https://www.youtube.com/watch?v=a5pHmGq1mEs",
+      "title": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+      "original_title": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+      "published_at": "2026-11-19T22:18:39+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=a5pHmGq1mEs",
+          "title": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567265"
+        }
+      ]
+    },
+    {
+      "id": "26d2e690d7df79379d6d",
+      "url": "https://runtimewire.com/article/openrouter-notified-users-of-a-reported-prime-intellect-compromise",
+      "title": "Attacker swapped Prime Intellect's DeepSeek v4.1 Flash endpoint for 53 hours",
+      "original_title": "Attacker swapped Prime Intellect's DeepSeek v4.1 Flash endpoint for 53 hours",
+      "published_at": "2026-11-19T22:16:03+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://runtimewire.com/article/openrouter-notified-users-of-a-reported-prime-intellect-compromise",
+          "title": "Attacker swapped Prime Intellect's DeepSeek v4.1 Flash endpoint for 53 hours",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567236"
+        }
+      ]
+    },
+    {
+      "id": "7aa636191d1691ff31da",
+      "url": "https://github.com/samvallad33/vestige",
+      "title": "Show HN: A deterministic agent memory engine in Rust with no LLM",
+      "original_title": "Show HN: A deterministic agent memory engine in Rust with no LLM",
+      "published_at": "2026-11-19T22:11:48+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/samvallad33/vestige",
+          "title": "Show HN: A deterministic agent memory engine in Rust with no LLM",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567187"
+        }
+      ]
+    },
+    {
+      "id": "931b6f52295f2548dc55",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+      "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
+      "original_title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
+      "published_at": "2026-11-19T22:08:22+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding",
+          "title": "Apple Is Working on AI Agent for Device Control, Apps, Browsing and Coding",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567138"
+        }
+      ]
+    },
+    {
+      "id": "4947b042e027a27e4f30",
+      "url": "https://byline.network/2026/11/19-691",
+      "title": "[지스타 2026] AI 캐릭터 챗 ‘크랙’이 지스타로 향한 이유",
+      "original_title": "[지스타 2026] AI 캐릭터 챗 ‘크랙’이 지스타로 향한 이유",
+      "published_at": "2026-11-19T22:06:32+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "올해 지스타 메인 스폰서로 참여한 뤼튼은 게임 개발사가 아닌 AI 서비스 기업이다. AI 캐릭터 챗 ‘크랙’을 운영하는 업체가 국내 최대 게임 전시회에 참가한 이유는 무엇일까. 이세영 뤼튼테크놀로지스 대표는 지스타 2026 개막 첫날 이에 대한 대답을 내놓았다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/19-691",
+          "title": "[지스타 2026] AI 캐릭터 챗 ‘크랙’이 지스타로 향한 이유"
+        }
+      ]
+    },
+    {
+      "id": "ffa19188cb294f4d8785",
+      "url": "https://github.com/kabirshah4/muscle-memory",
+      "title": "Muscle-memory – repeated Claude Code tasks run with zero tokens",
+      "original_title": "Muscle-memory – repeated Claude Code tasks run with zero tokens",
+      "published_at": "2026-11-19T22:03:48+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/kabirshah4/muscle-memory",
+          "title": "Muscle-memory – repeated Claude Code tasks run with zero tokens",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567090"
+        }
+      ]
+    },
+    {
+      "id": "34a13c5aa9e6f13bd2a6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217596",
+      "title": "아모데이 \"AI 개발 속도 조절…사업·정치적 압력에 굴복 안 해\"",
+      "original_title": "아모데이 \"AI 개발 속도 조절…사업·정치적 압력에 굴복 안 해\"",
+      "published_at": "2026-11-19T22:00:23+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "다리오 아모데이 앤트로픽 CEO가 기업공개(IPO)로 막대한 자금을 확보한 직후에도 AI 안전을 위해 모델 개발 속도를 조절하겠다는 입장을 재확인했다. 상장기업이 된 이후에도 사업적·정치적 압력에 굴복하지 않고 AI 안전을 우선하겠다는 것이다.아모데이 CEO는 19일(현지시간) 미국 뉴욕 나스닥에서 열린 상장 기념행…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217596",
+          "title": "아모데이 \"AI 개발 속도 조절…사업·정치적 압력에 굴복 안 해\""
+        }
+      ]
+    },
+    {
+      "id": "3cde94daa1fae4f0e3ec",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217561",
+      "title": "[11월19일] 앤트로픽 IPO 앞두고 오픈AI 창업진이 던진 견제구",
+      "original_title": "[11월19일] 앤트로픽 IPO 앞두고 오픈AI 창업진이 던진 견제구",
+      "published_at": "2026-11-19T22:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI의 샘 알트먼 CEO와 그렉 브록먼 사장이 18일(현지시간) 뉴욕에서 열린 '뉴욕타임스 딜북 서밋'에 함께 참석했습니다. 최근 AI 업계를 뒤흔든 젠슨 황의 엔비디아 퇴진과 하루 앞으로 다가온 앤트로픽의 기업공개(IPO), AI 안전 문제 등을 놓고 약 40분간 대담을 진행했습니다. 특히 앤트로픽의 강점을 겨…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217561",
+          "title": "[11월19일] 앤트로픽 IPO 앞두고 오픈AI 창업진이 던진 견제구"
+        }
+      ]
+    },
+    {
+      "id": "001e20945eceeac01202",
+      "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+      "title": "Meta’s new Muse Charm device may cost $300",
+      "original_title": "Meta’s new Muse Charm device may cost $300",
+      "published_at": "2026-11-19T21:58:06+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300",
+          "title": "Meta’s new Muse Charm device may cost $300"
+        }
+      ]
+    },
+    {
+      "id": "7389e6d8cbf077113bd5",
+      "url": "https://github.com/replit/datacat",
+      "title": "Replit Datacat – their self-hosted observability is AI slop and it doesn't work",
+      "original_title": "Replit Datacat – their self-hosted observability is AI slop and it doesn't work",
+      "published_at": "2026-11-19T21:55:44+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/replit/datacat",
+          "title": "Replit Datacat – their self-hosted observability is AI slop and it doesn't work",
+          "discussion_url": "https://news.ycombinator.com/item?id=50567005"
+        }
+      ]
+    },
+    {
+      "id": "08a0e8fcc9a87a88a96f",
+      "url": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection",
+      "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
+      "original_title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
+      "published_at": "2026-11-19T21:55:07+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.stackbuilders.com/insights/ai-agent-authorization-that-limits-the-damage-of-prompt-injection",
+          "title": "AI Agent Authorization That Limits the Damage of Prompt Injection",
+          "discussion_url": "https://news.ycombinator.com/item?id=50566999"
+        }
+      ]
+    },
+    {
+      "id": "086cc23473233e951394",
+      "url": "https://beta.astar.inc/",
+      "title": "Host your repo, AI tool or service on ASTAR for learners to build with",
+      "original_title": "Host your repo, AI tool or service on ASTAR for learners to build with",
+      "published_at": "2026-11-19T21:43:34+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://beta.astar.inc/",
+          "title": "Host your repo, AI tool or service on ASTAR for learners to build with",
+          "discussion_url": "https://news.ycombinator.com/item?id=50566865"
+        }
+      ]
+    },
+    {
+      "id": "87b2502506d7cb89efaf",
+      "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
+      "title": "These tech outages are giving Y2K, AI agent style",
+      "original_title": "These tech outages are giving Y2K, AI agent style",
+      "published_at": "2026-11-19T21:42:31+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cyb…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style",
+          "title": "These tech outages are giving Y2K, AI agent style"
+        }
+      ]
+    },
+    {
+      "id": "5c9a651151170caedb24",
+      "url": "https://pathtoship.com/blog/when-ai-built-apps-actually-break",
+      "title": "When AI-built apps get risky: data from 3,911 repos",
+      "original_title": "When AI-built apps get risky: data from 3,911 repos",
+      "published_at": "2026-11-19T21:31:32+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://pathtoship.com/blog/when-ai-built-apps-actually-break",
+          "title": "When AI-built apps get risky: data from 3,911 repos",
+          "discussion_url": "https://news.ycombinator.com/item?id=50566694"
+        }
+      ]
+    },
+    {
+      "id": "d760cc65d9ae111a4eca",
+      "url": "https://github.com/mcbuehler/albert",
+      "title": "A GPT-Live voice companion for seniors with memory and back end",
+      "original_title": "A GPT-Live voice companion for seniors with memory and back end",
+      "published_at": "2026-11-19T21:30:27+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/mcbuehler/albert",
+          "title": "A GPT-Live voice companion for seniors with memory and back end",
+          "discussion_url": "https://news.ycombinator.com/item?id=50566672"
+        }
+      ]
+    },
+    {
+      "id": "ba9d2df186a82bb35a71",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217595",
+      "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단",
+      "original_title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단",
+      "published_at": "2026-11-19T21:23:17+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국이 중국에 공급하는 일부 첨단 반도체에 대해 기존의 수출 허가 예외를 폐지하면서 삼성전자와 TSMC가 중국 고객에 대한 칩 출하를 중단했다. 지금까지 별도 허가 없이 공급할 수 있었던 제품도 미국 정부의 승인을 받아야 하게 되면서, 중국 기업들의 자체 AI 반도체 개발에도 차질이 예상된다.파이낸셜타임스(FT)는 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217595",
+          "title": "미국, 중국 반도체 수출 허가 강화…삼성·TSMC 일부 출하 중단"
+        }
+      ]
+    },
+    {
+      "id": "1df80ba4eb1bc7794fc5",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19",
+      "title": "PostgreSQL 19 출시, 대기 서버 읽기 일관성 위한 WAIT FOR LSN 추가",
+      "original_title": "PostgreSQL 19 Released",
+      "published_at": "2026-11-19T20:43:57+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the Postg…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/19/postgresql-19",
+          "title": "PostgreSQL 19 Released"
+        }
+      ],
+      "summary": "PostgreSQL 19가 출시됐다. 올해는 AI가 보고한 취약점 문제로 인해 예년보다 두 달 늦은 11월에 공개됐다. 이 버전에는 대기 서버로 읽기를 보내는 애플리케이션을 위한 'read-your-writes' 일관성 기능인 WAIT FOR LSN 명령이 추가됐다.",
+      "why_it_matters": "대기 서버를 읽기 부하 분산에 활용하는 환경에서 쓰기 직후 읽기 일관성을 확보하는 표준 방법이 생겼다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:21+00:00",
+        "input_hash": "4e8b9bf56dec1c03142f55c04678d75c9800e4d274d4770260a7acd8edfda6a6",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "fdf247289ced7fca8c81",
+      "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo",
+      "title": "NVIDIA, RL 롤아웃 병목 완화 위한 Dynamo 아키텍처 소개",
+      "original_title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo",
+      "published_at": "2026-11-19T20:28:13+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Reinforcement learning (RL) uses rewards to train models to solve problems and complete tasks more successfully. Inference drives this process. Workers generate... Reinforcement…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/reducing-rollout-bottlenecks-in-reinforcement-learning-with-nvidia-dynamo",
+          "title": "Reducing Rollout Bottlenecks in Reinforcement Learning with NVIDIA Dynamo"
+        }
+      ],
+      "summary": "NVIDIA가 블로그를 통해 자사 Dynamo가 강화학습(RL) 훈련의 롤아웃 병목을 라우팅, ModelExpress 가중치 업데이트, 장애 복구 기능으로 완화한다고 소개했다. Dynamo는 롤아웃 오케스트레이션과 추론 워커 사이에 위치하며, RL 프레임워크는 최적화·보상·샘플 수용을, Dynamo는 라우팅·워커 관리·서빙 제어를 담당한다고 설명했다. 블로그에는 Microsoft AI, CoreWeave, Cognition, Prime Intellect, H Company의 도입 사례가 언급됐다.",
+      "why_it_matters": "RL 훈련에서 추론 서빙 효율이 훈련 속도와 GPU 활용에 직결된다는 점을 겨냥한 사례로, 서빙 계층과 학습 프레임워크의 역할 분리가 확산될 수 있음을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:20+00:00",
+        "input_hash": "b09b7773c34a9db91155c9321dcab1a69ad16aa89ece00aa59749dfc59861d7e",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "6844576f831e5af28e14",
+      "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "original_title": "The unfolding Jensen Huang scandal: a timeline",
+      "published_at": "2026-11-19T20:18:49+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infras…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
+          "title": "The unfolding Jensen Huang scandal: a timeline"
+        }
+      ]
+    },
+    {
+      "id": "694eda7767094817dbc5",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+      "title": "Anthropic’s IPO could deliver $156B to charity",
+      "original_title": "Anthropic’s IPO could deliver $156B to charity",
+      "published_at": "2026-11-19T19:10:45+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
+          "title": "Anthropic’s IPO could deliver $156B to charity"
+        }
+      ]
+    },
+    {
+      "id": "5de356b56be7f9d6488c",
+      "url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829",
+      "title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
+      "original_title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
+      "published_at": "2026-11-19T19:01:15+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Owen Dahlkamp / Politico : A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leader…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.politico.com/live-updates/2026/11/19/congress/new-bipartisan-ai-caucus-forms-with-two-dozen-house-members-01174829",
+          "title": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
+          "discussion_url": "https://www.techmeme.com/261119/p48"
+        }
+      ]
+    },
+    {
+      "id": "62649bf472ca2edcd431",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "original_title": "Google gives Gemini the ability to use your Mac for you",
+      "published_at": "2026-11-19T18:09:11+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+          "title": "Google gives Gemini the ability to use your Mac for you"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you",
+          "title": "Google adds computer use to Gemini for macOS, letting it work across apps, files, and the web in the background, available to US AI Plus, Pro, and Ultra users (Sarah Perez/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261119/p47"
+        }
+      ]
+    },
+    {
+      "id": "056cf0b58a3dbace6833",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+      "title": "구글, Gemini API에 툴 검색(Tool Retrieval) 프리뷰 공개",
+      "original_title": "Introducing Tool Retrieval in the Gemini API",
+      "published_at": "2026-11-19T18:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
+          "title": "Introducing Tool Retrieval in the Gemini API"
+        }
+      ],
+      "summary": "구글이 Gemini API의 Interactions API에서 Tool Retrieval을 프리뷰로 공개했다. 이 기능은 요청마다 전체 툴 라이브러리의 파라미터 스키마를 보내는 대신 필요할 때만 스키마를 불러오는 방식으로, 구글은 입력 토큰과 지연 시간을 줄이고 툴 선택 정확도를 유지하는 데 도움이 된다고 밝혔다. 요청에 tool_search 툴을 추가하고 보류할 툴에 defer_loading: true를 설정해 사용할 수 있으며, Gemini 3.6 이후 모델과 모든 Gemini 4 모델에서 동작한다.",
+      "why_it_matters": "에이전트가 다루는 툴이 많아질수록 컨텍스트 비용과 선택 정확도 문제가 커지는데, 서버 측 검색으로 이를 완화하려는 시도다. 다만 절감 효과는 실제 트래픽에서 직접 측정하라고 구글이 권고했다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:16+00:00",
+        "input_hash": "6c5b538a66d2ff72a6c0d0776c1b1cb94700ee78f6ef24808df149a81400ce38",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "47396adf5e31273b1343",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "original_title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+      "published_at": "2026-11-19T17:38:40+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed,…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
+          "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says"
+        }
+      ]
+    },
+    {
+      "id": "a9933de7f7b7b312069a",
+      "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+      "title": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)",
+      "original_title": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)",
+      "published_at": "2026-11-19T17:25:02+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Lily Hay Newman / Wired : Google built a “Mirror Dimension”, an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agent…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents",
+          "title": "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)",
+          "discussion_url": "https://www.techmeme.com/261119/p43"
+        }
+      ]
+    },
+    {
+      "id": "bafd0056faa95fe38e1d",
+      "url": "https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a",
+      "title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)",
+      "original_title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)",
+      "published_at": "2026-11-19T17:05:16+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "John Reynolds / Tech.eu : London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 202…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://tech.eu/2026/11/19/london-based-boltz-raises-110m-series-a",
+          "title": "London-based Boltz, which is developing AI models to speed up drug discovery, raised a $110M Series A led by Bessemer, after raising a $28M seed in 2025 (John Reynolds/Tech.eu)",
+          "discussion_url": "https://www.techmeme.com/261119/p41"
+        }
+      ]
+    },
+    {
+      "id": "a165ab416a9d4037a704",
+      "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition",
+      "title": "NVIDIA, GPU 네이티브 데이터 수집 라이브러리 DAQIRI 신기능 공개",
+      "original_title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "In science and industry, analyzing sensor measurements in real time can enable AI to adjust processes, guide experiments, and search for better operating... In science and indus…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/enabling-real-time-ai-for-scientific-instruments-with-gpu-native-data-acquisition",
+          "title": "Enabling Real-Time AI for Scientific Instruments with GPU-Native Data Acquisition"
+        }
+      ],
+      "summary": "NVIDIA가 과학 장비용 실시간 AI 처리를 지원하는 소프트웨어 정의 데이터 수집 라이브러리 DAQIRI의 새 버전을 발표했다. 이번 릴리스에는 NIC 하드웨어 패킷 재정렬, 처리량 향상을 위한 ibverbs 엔진, 지연 시간을 줄이는 직접 폴링 모드가 포함됐다. 또한 로렌스 버클리 국립연구소 분자 파운드리와 협력해 500Gbps 이상의 데이터를 GPU로 직접 수신·처리하는 전자현미경 카메라 사례를 소개했다.",
+      "why_it_matters": "고속 센서 데이터를 디스크에 저장하지 않고 GPU에서 직접 처리하는 방식은 실험 중 실시간 피드백과 적응형 측정을 가능하게 할 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:13+00:00",
+        "input_hash": "8b6e51f0929dc5677e031cd8e0725bbe70446e9762e49c27d604edbc0b9343d9",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a01e91531918f8e754a9",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
+      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "original_title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories",
+          "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories"
+        }
+      ]
+    },
+    {
+      "id": "63610b904de29506452a",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "original_title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "published_at": "2026-11-19T17:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
+          "title": "Walter Isaacson on curiosity and creativity in the AI age."
+        }
+      ]
+    },
+    {
+      "id": "56f5de5b11aedbd46f31",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "original_title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "published_at": "2026-11-19T16:59:23+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
+          "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
+        }
+      ]
+    },
+    {
+      "id": "fa5917e879d29a8bbf4f",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "title": "Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price (Reuters)",
+      "original_title": "Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price (Reuters)",
+      "published_at": "2026-11-19T16:56:35+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price — Anthropic (ANT.O) notched…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "title": "Anthropic closes up 17% at $97.17 in its Nasdaq debut, giving it a market cap of $1.3T, after opening at $111.50, up 34% from its IPO price (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261119/p40"
+        }
+      ]
+    },
+    {
+      "id": "987345e2f30bf5e71277",
+      "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+      "title": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+      "original_title": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+      "published_at": "2026-11-19T16:52:44+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CNBC : Anthropic opens at $111.50 per share in record IPO: Live updates … Anthropic opened at $111.50 per share in the artificial intelligence lab's Nasdaq debut on Thursday aft…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+          "title": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261119/p39"
+        }
+      ]
+    },
+    {
+      "id": "0ebd656adae76ffc7a2f",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
+      "title": "AMD's shares fall 6%+ after Hunterbrook disclosed a short position, warning AMD is engaging in \"circular deals\" and \"has made way more promises\" than Nvidia (Lynn Doan/Bloomberg)",
+      "original_title": "AMD's shares fall 6%+ after Hunterbrook disclosed a short position, warning AMD is engaging in \"circular deals\" and \"has made way more promises\" than Nvidia (Lynn Doan/Bloomberg)",
+      "published_at": "2026-11-19T16:40:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Lynn Doan / Bloomberg : AMD's shares fall 6%+ after Hunterbrook disclosed a short position, warning AMD is engaging in “circular deals” and “has made way more promises” than Nvi…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/amd-slides-after-hunterbrook-shorts-stock-cites-circular-deals",
+          "title": "AMD's shares fall 6%+ after Hunterbrook disclosed a short position, warning AMD is engaging in \"circular deals\" and \"has made way more promises\" than Nvidia (Lynn Doan/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261119/p38"
+        }
+      ]
+    },
+    {
+      "id": "2d01b6350c2d3fb2cb0f",
+      "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents",
+      "title": "NVIDIA, Rust 기반 툴 호출 파서 구축 방법과 AI 에이전트 활용 튜토리얼 공개",
+      "original_title": "Build Tool-Calling Parsers in Rust with AI Agents",
+      "published_at": "2026-11-19T16:30:46+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "A tool call can arrive in pieces, an argument can be cut short, or model-specific markup can leak into the answer. A frontend parser turns that output, received... A tool call c…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/build-tool-calling-parsers-in-rust-with-ai-agents",
+          "title": "Build Tool-Calling Parsers in Rust with AI Agents"
+        }
+      ],
+      "summary": "NVIDIA가 개발자 블로그에서 Rust 컴포넌트 frontend-crates를 사용해 LLM의 툴 호출을 파싱하는 방법을 설명했다. 파서는 토큰 ID나 디코딩된 텍스트를 받아 추론, 가시적 텍스트, 툴 호출을 분리하며, 불완전하거나 잘못된 호출, 스트리밍 경계 처리 규칙이 필요하다고 밝혔다. 또한 AI 에이전트를 활용해 새 모델용 파서를 만들고 Conformance Corpus로 검증하는 튜토리얼을 제시했다.",
+      "why_it_matters": "툴 호출 파싱의 경계 처리와 복구 정책은 에이전트 안정성에 직결되며, 재사용 가능한 테스트 코퍼스와 에이전트 기반 개발 워크플로가 파서 개발 비용을 낮출 수 있다는 점을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:11+00:00",
+        "input_hash": "fe3f812db96e278181ff2aa7987a6f7f415a3a3e6d6ea676638e2f0946ef392c",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "74b46c8b5e6ae1301c70",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "original_title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "published_at": "2026-11-19T16:19:41+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+          "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development"
+        }
+      ]
+    },
+    {
+      "id": "559b89dfb99f77d394f4",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+      "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "original_title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+      "published_at": "2026-11-19T14:54:39+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if An…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test",
+          "title": "Anthropic’s IPO puts AI’s circular financing boom to the test"
+        }
+      ]
+    },
+    {
+      "id": "db895de00b77372a93f6",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "original_title": "Superhuman pushes its Go assistant everywhere",
+      "published_at": "2026-11-19T14:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Superhuman is making Go its central agent and making it available in Docs and Mail.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere",
+          "title": "Superhuman pushes its Go assistant everywhere"
+        }
+      ]
+    },
+    {
+      "id": "258eb15df7f520674076",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42810",
+      "title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치",
+      "original_title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치",
+      "published_at": "2026-11-19T13:48:18+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "LG그룹이 피지컬 AI와 인공지능 인프라 등 미래 성장사업의 기술 경쟁력을 강화하기 위해 연구개발(R&D) 핵심인재를 대거 발탁했다. 전체 상무 승진자의 30%를 R&D 인력으로 채우고, 주력사업과 인공지능 전환(AX) 분야에서 성과를 창출한 인재를 주요 경영진에 배치하는 등 기술 중심의 미래사업 경쟁력 확보에 나섰…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42810",
+          "title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치"
+        }
+      ]
+    },
+    {
+      "id": "ea374b7ac5b5c7e5c1d8",
+      "url": "https://byline.network/2026/11/19-689",
+      "title": "수호아이오 “AI 에이전트가 발주·결제하려면 거래 검증 인프라 필요”",
+      "original_title": "수호아이오 “AI 에이전트가 발주·결제하려면 거래 검증 인프라 필요”",
+      "published_at": "2026-11-19T13:20:05+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 에이전트가 가게 주인을 대신해 물건을 주문하고 대금까지 지급하려면 무엇이 필요할까. 수호아이오는 재고·발주·물류·결제 서비스를 연결하고, 에이전트가 주인의 권한 안에서 거래했는지 확인할 수 있어야 한다고 말했다. 박지수 수호아이오 대표는 19일 서울 서초구에서 바이라인네트워크가 개최한 ‘스테이블코인 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/19-689",
+          "title": "수호아이오 “AI 에이전트가 발주·결제하려면 거래 검증 인프라 필요”"
+        }
+      ]
+    },
+    {
+      "id": "5eb6a7615226f5dc04a5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42809",
+      "title": "AI가 쓴 글, 사람처럼 위장해도 잡아낸다…MIT·코넬대, 탐지율 27%에서 93%로 높여",
+      "original_title": "AI가 쓴 글, 사람처럼 위장해도 잡아낸다…MIT·코넬대, 탐지율 27%에서 93%로 높여",
+      "published_at": "2026-11-19T13:11:19+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "사람이 작성한 것처럼 위장한 AI 생성 글을 기존 탐지 기술보다 훨씬 정확하게 식별하는 새로운 학습 방법이 개발됐다. 인공지능이 생성한 문장을 자연스럽게 바꾸는 이른바 '휴머나이저(Humanizer)'를 이용해 탐지를 회피하더라도, 새로운 데이터에 스스로 적응하면서 AI 생성 여부를 판별하는 기술이다.미국 MIT와 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42809",
+          "title": "AI가 쓴 글, 사람처럼 위장해도 잡아낸다…MIT·코넬대, 탐지율 27%에서 93%로 높여"
+        }
+      ]
+    },
+    {
       "id": "1283ca7d3af2b799a360",
       "url": "https://www.nytimes.com/2026/11/18/business/anthropic-ipo-corporate-governance.html",
       "title": "Anthropic is set to become the US stock market's largest public benefit corporation by far; the mandate is overseen by a five-member \"long-term benefit trust\" (Cory Weinberg/New York Times)",
@@ -580,6 +1510,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217588",
           "title": "메타, 주주 소송에 신주 발행 보류…AI 투자금 조달 계획 차질"
+        }
+      ]
+    },
+    {
+      "id": "9342dbf934e428aa00c1",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "published_at": "2026-11-19T08:00:00+00:00",
+      "collected_at": "2026-11-19T22:35:35+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+          "title": "How OpenAI’s Performance Factory keeps ChatGPT fast"
         }
       ]
     },
@@ -2116,14 +3066,14 @@
     {
       "id": "2023faf93d7d342dd2ad",
       "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision",
-      "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
+      "title": "NVIDIA, VASP용 GPU 가속 라이브러리 Daviator와 혼합 정밀도 실행 계층 공개",
       "original_title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision",
       "published_at": "2026-11-18T15:00:00+00:00",
       "collected_at": "2026-11-18T22:29:36+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "Training a next-generation machine learning interatomic potential (MLIP) requires ground truth: tens to hundreds of millions of density functional theory (DFT)... Training a nex…",
       "sources": [
         {
@@ -2131,7 +3081,16 @@
           "url": "https://developer.nvidia.com/blog/tackling-gpu-bottlenecks-in-plane-wave-dft-with-k-point-batching-and-mixed-precision",
           "title": "Tackling GPU Bottlenecks in Plane-Wave DFT with K-Point Batching and Mixed Precision"
         }
-      ]
+      ],
+      "summary": "NVIDIA가 평면파 DFT 코드 VASP의 GPU 병목을 해결하기 위한 두 가지 기능을 발표했다. k점 배치 처리를 위한 Daviator 라이브러리와 혼합 정밀도 실행 계층으로, 회사 측 벤치마크에 따르면 CPU 대비 최대 22배 빠른 시간과 최대 75% 낮은 비용을 보였다. Daviator는 현재 단일 노드 실행으로 제한되며 다중 노드, 비공선 스핀, 감마 전용 실행 지원은 추후 예정이다.",
+      "why_it_matters": "MLIP 학습 데이터 생성에 쓰이는 DFT 계산의 비용과 시간을 줄일 수 있는 GPU 가속 접근으로, 소규모 시스템에서도 GPU 활용도를 높이는 방향을 제시한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:08+00:00",
+        "input_hash": "907d4ddae069e797217a244f74e998b742908c025fa4b9a049e02290ae9d890a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b9b3936785bef30064f9",
@@ -3464,14 +4423,14 @@
     {
       "id": "5b89a2db7f60ae9099b7",
       "url": "https://huggingface.co/blog/rumble-2-flash",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "title": "Reson8, 0.5B 파라미터 음성인식 모델 'Rumble-2-Flash' Apache 2.0으로 공개",
       "original_title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
       "published_at": "2026-11-18T00:00:00+00:00",
       "collected_at": "2026-11-18T22:29:36+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -3479,7 +4438,16 @@
           "url": "https://huggingface.co/blog/rumble-2-flash",
           "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages"
         }
-      ]
+      ],
+      "summary": "Reson8가 40개 이상 언어를 지원하는 0.5B 파라미터 음성인식 모델 Rumble-2-Flash를 Apache 2.0 라이선스로 공개했다. 회사는 이 모델이 자사 대형 모델 Rumble-2를 온폴리시 증류로 압축한 것으로, Open ASR 리더보드 다국어 트랙에서 평균 6.96% 오류율을 기록했다고 밝혔다. 또한 AppTek 통화센터 벤치마크에서 7.86% WER로 NVIDIA Nemotron 3.5 Transcribe(30B)의 7.78%와 비슷한 수준이라고 회사 측은 설명했다.",
+      "why_it_matters": "소형 오픈 모델이 대형 모델과 비슷한 정확도를 주장한다는 점은 음성인식의 비용·배포 구조에 영향을 줄 수 있으나, 수치는 발표 주체의 벤치마크 결과다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-19T22:36:03+00:00",
+        "input_hash": "0b8cc225b4635bf939303c975f70fd831a42c07ad0e65e898f4621e33864d800",
+        "evidence_verified": true
+      }
     },
     {
       "id": "7648720b0216823afd6f",
