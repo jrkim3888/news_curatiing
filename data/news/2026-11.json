@@ -3,6 +3,1103 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "31d8fb0a8a920ac80708",
+      "url": "https://github.com/blackarck/intaiassist",
+      "title": "Show HN: Interviewer assistant – AI open source",
+      "original_title": "Show HN: Interviewer assistant – AI open source",
+      "published_at": "2026-11-20T10:51:21+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/blackarck/intaiassist",
+          "title": "Show HN: Interviewer assistant – AI open source",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572899"
+        }
+      ]
+    },
+    {
+      "id": "1db3b9f3f38e3db7158f",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
+      "title": "Filing: SK Hynix will become Kioxia's largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAND sector (Yoolim Lee/Bloomberg)",
+      "original_title": "Filing: SK Hynix will become Kioxia's largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAND sector (Yoolim Lee/Bloomberg)",
+      "published_at": "2026-11-20T10:51:08+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Yoolim Lee / Bloomberg : Filing: SK Hynix will become Kioxia's largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAN…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/sk-hynix-to-be-kioxia-s-top-shareholder-after-bond-conversion",
+          "title": "Filing: SK Hynix will become Kioxia's largest shareholder with a ~14.1% stake after it converts Kioxia bonds into shares, expanding its clout in the NAND sector (Yoolim Lee/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p8"
+        }
+      ]
+    },
+    {
+      "id": "9b931da4b4b2d9ae5170",
+      "url": "https://chevyclutchfoot.substack.com/p/thought-process-before-and-after",
+      "title": "Thoughts from Before and After AI",
+      "original_title": "Thoughts from Before and After AI",
+      "published_at": "2026-11-20T10:16:55+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://chevyclutchfoot.substack.com/p/thought-process-before-and-after",
+          "title": "Thoughts from Before and After AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572638"
+        }
+      ]
+    },
+    {
+      "id": "3454ec150063c05ba411",
+      "url": "https://www.youtube.com/watch?v=Gis_2Y_pLOo",
+      "title": "Greece's PM Mitsotakis and Greek AI Founders [video]",
+      "original_title": "Greece's PM Mitsotakis and Greek AI Founders [video]",
+      "published_at": "2026-11-20T10:15:52+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=Gis_2Y_pLOo",
+          "title": "Greece's PM Mitsotakis and Greek AI Founders [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572626"
+        }
+      ]
+    },
+    {
+      "id": "426f994656c09b5975e5",
+      "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump",
+      "title": "AI Is Making China's Jobs Slump Worse",
+      "original_title": "AI Is Making China's Jobs Slump Worse",
+      "published_at": "2026-11-20T10:15:28+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump",
+          "title": "AI Is Making China's Jobs Slump Worse",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572621"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/graphics/2026-china-ai-jobs-slump",
+          "title": "An analysis of 10M job ads in China between 2021 and 2025 finds a double-digit decline in listings for roles more exposed to AI than for less-exposed positions (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p7"
+        }
+      ]
+    },
+    {
+      "id": "198f7fe35e1c98a9465e",
+      "url": "https://interconnected.org/home/2026/11/20/flex",
+      "title": "Cool Flex AI Bro",
+      "original_title": "Cool Flex AI Bro",
+      "published_at": "2026-11-20T10:10:39+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://interconnected.org/home/2026/11/20/flex",
+          "title": "Cool Flex AI Bro",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572577"
+        }
+      ]
+    },
+    {
+      "id": "475f04546e2d48754947",
+      "url": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a",
+      "title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
+      "original_title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
+      "published_at": "2026-11-20T10:08:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hyper.ai/cn/stories/cd12451364b2d99638b382e350c3d12a",
+          "title": "Google DeepMind AI predicts Hurricane Melissa path and strength",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572553"
+        }
+      ]
+    },
+    {
+      "id": "3381c1b46b2b81fa0a77",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "original_title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "published_at": "2026-11-20T10:01:41+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572503"
+        }
+      ]
+    },
+    {
+      "id": "fc46bf9e269bfa758ba9",
+      "url": "https://github.com/PHONGUIT22/nostrpulse-full",
+      "title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+      "original_title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+      "published_at": "2026-11-20T10:01:27+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/PHONGUIT22/nostrpulse-full",
+          "title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572502"
+        }
+      ]
+    },
+    {
+      "id": "7ba3306faa6d99a7cfd7",
+      "url": "https://bitrise.io/artex-incident-report",
+      "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
+      "original_title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
+      "published_at": "2026-11-20T09:51:05+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bitrise.io/artex-incident-report",
+          "title": "Anatomy of an AI-driven attack: What ARTEX looks like in action",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572416"
+        }
+      ]
+    },
+    {
+      "id": "ea581fae3a342c75a64b",
+      "url": "https://hyper.ai/stories/38cbde179199e5d614e6f2b5abfb0911",
+      "title": "Anthropic IPO could yield $156B for charity",
+      "original_title": "Anthropic IPO could yield $156B for charity",
+      "published_at": "2026-11-20T09:48:12+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://hyper.ai/stories/38cbde179199e5d614e6f2b5abfb0911",
+          "title": "Anthropic IPO could yield $156B for charity",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572396"
+        }
+      ]
+    },
+    {
+      "id": "fe5c4aba1d64fbaf84f7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42830",
+      "title": "도이치텔레콤, 미스트랄에 1억 유로 투자…독일 소버린 AI 인프라와 유럽산 AI 모델 결합",
+      "original_title": "도이치텔레콤, 미스트랄에 1억 유로 투자…독일 소버린 AI 인프라와 유럽산 AI 모델 결합",
+      "published_at": "2026-11-20T09:43:14+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "독일 최대 통신기업 도이치텔레콤(Deutsche Telekom)이 프랑스 인공지능(AI) 기업 미스트랄 AI(Mistral AI)에 1억 유로(약 1467억원)를 투자하고, 독일의 소버린 AI 생태계 구축에 나선다. 자국 내 AI 인프라와 유럽산 고성능 AI 모델을 결합해 기업과 공공기관이 데이터 통제권을 유지하면서…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42830",
+          "title": "도이치텔레콤, 미스트랄에 1억 유로 투자…독일 소버린 AI 인프라와 유럽산 AI 모델 결합"
+        }
+      ]
+    },
+    {
+      "id": "9d32a0beee769b55b9f1",
+      "url": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
+      "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
+      "original_title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
+      "published_at": "2026-11-20T09:42:13+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.aikido.dev/blog/ai-incidents-root-causes-patterns",
+          "title": "AI incidents of 2026: Rogue agents, stolen keys, and other familiar stories",
+          "discussion_url": "https://news.ycombinator.com/item?id=50572347"
+        }
+      ]
+    },
+    {
+      "id": "0e721ad903486c1826f7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217633",
+      "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
+      "original_title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?",
+      "published_at": "2026-11-20T08:45:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 '제미나이 4'에 화학 원소 이름을 붙이면서 독특한 작명법이 화제가 되고 있다. 신형 모델이 나올 때마다 이용자들이 다음 원소를 예상하는 가운데, 구글도 주기율표를 활용한 모델 선택 기능과 영상을 선보이며 이러한 관심을 즐기는 모습이다.구글 딥마인드의 개발자 경험 총괄인 오마르 산세비에로는 19일(현지시간) …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217633",
+          "title": "구글, AI 모델 이름에 원소 주기율표 활용...다음은 '헬륨'?"
+        }
+      ]
+    },
+    {
+      "id": "0040d9b25f6f3db8065d",
+      "url": "https://byline.network/2026/11/19-692",
+      "title": "쿤텍 “AI 에이전트 보안, 전주기 연결해 대응 시간 줄여야”",
+      "original_title": "쿤텍 “AI 에이전트 보안, 전주기 연결해 대응 시간 줄여야”",
+      "published_at": "2026-11-20T08:37:41+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "기업이 인공지능(AI) 에이전트를 도입할 때는 어떤 모델과 도구를 사용하는지를 알아야 한다. 만약 기업이 보유한 서버와 소프트웨어조차 정확히 파악하지 못한다면 AI 에이전트의 위험을 관리하기는 더 어려워진다. 어떤 시스템에 문제가 있는지 알아야 취약점을 찾아 대응할 수 있기 때문이다. 융합 보안 전문기업 쿤텍은 AI…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/19-692",
+          "title": "쿤텍 “AI 에이전트 보안, 전주기 연결해 대응 시간 줄여야”"
+        }
+      ]
+    },
+    {
+      "id": "7b1cc1852e08fd1703c0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
+      "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
+      "original_title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
+      "published_at": "2026-11-20T08:30:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "개발사가 공개되지 않은 AI 모델 '게슈탈트(Gestalt)'가 실제 기업의 웹사이트와 앱 제작 과제를 활용한 디자인 평가에서 인간 전문 디자이너와 주요 AI 기업의 모델을 모두 제치고 1위를 차지했다. 전문 디자이너들이 직접 결과물을 비교하는 블라인드 평가에서 인간이 제작한 디자인보다 높은 점수를 받은 것이다.미국…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
+          "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위"
+        }
+      ]
+    },
+    {
+      "id": "14bd3cb67d2396135d8e",
+      "url": "https://byline.network/2026/11/1120-8",
+      "title": "과기정통부, AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화",
+      "original_title": "과기정통부, AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화",
+      "published_at": "2026-11-20T08:21:47+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "과학기술정보통신부는 20일 인공지능 데이터센터(AIDC) 신속 구축을 위한 「인공지능 데이터센터 산업 진흥에 관한 특별법」 하위법령 제정안을 입법예고했다. AIDC 인정 기준과 신고 절차를 마련하고 인허가 일괄처리 기한, 전력계통영향평가 면제 기준, 비수도권 특구 지정 요건 등을 구체화했다. 입법예고 기간은 20일부…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1120-8",
+          "title": "과기정통부, AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화"
+        }
+      ]
+    },
+    {
+      "id": "ad16eaaa16ad5a095c77",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
+      "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
+      "original_title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
+      "published_at": "2026-11-20T08:17:56+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 AI 모델의 응답 속도에 따라 API 요금을 차등 적용하는 새로운 과금 방식을 선보였다. 개발자가 응답 완료까지 기다릴 수 있는 시간을 길게 설정하면 최대 40%까지 비용을 절감할 수 있어, 대규모 AI 작업을 수행하는 기업과 개발자의 비용 부담을 줄일 수 있게 됐다.오픈AI는 18일(현지시간) API 요…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
+          "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인"
+        }
+      ]
+    },
+    {
+      "id": "a41090d7d2634f2b7039",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217629",
+      "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
+      "original_title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라",
+      "published_at": "2026-11-20T08:15:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타가 AI 에이전트가 작업 경험을 바탕으로 기억 관리 방식을 스스로 개선하고, 이를 모델 학습에도 반영하는 기술을 공개했다. 최근 오픈AI와 앤트로픽이 AI를 활용한 연구개발 자동화와 자기개선 성과를 잇달아 발표한 가운데, 메타도 기억 관리 능력을 AI 스스로 발전시키는 방법을 제시했다.메타는 19일(현지시간) 공…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217629",
+          "title": "메타, AI가 기억하는 방법도 스스로 개선...AI 자기개선 연구 잇따라"
+        }
+      ]
+    },
+    {
+      "id": "a5e0d5d244a16341a3d8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217637",
+      "title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사",
+      "original_title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사",
+      "published_at": "2026-11-20T08:07:06+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "미국 캘리포니아주 법무부가 젠슨 황 전 엔비디아 CEO와 중국 간 연관성 의혹을 둘러싸고 엔비디아에 대한 조사에 착수했다. 황 전 CEO와 회사의 행위로 중국에 첨단 AI 칩이나 기밀 정보가 전달됐는지, 엔비디아가 관련 위험을 투자자들에게 제대로 알렸는지 등을 조사할 예정이다.캘리포니아주 법무부는 19일(현지시간) …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217637",
+          "title": "캘리포니아주, 엔비디아에 소환장...중국 기밀 유출·투자자 기만 조사"
+        }
+      ]
+    },
+    {
+      "id": "332b2f109020c35df0fa",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217634",
+      "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장",
+      "original_title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장",
+      "published_at": "2026-11-20T07:57:21+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 상무부가 엔비디아와 AMD의 AI 칩 약 88만개를 중국 기업에 수출하도록 승인한 사실이 공개됐다. 전체 승인 물량의 30% 이상은 미 국방부가 중국군 연계 기업으로 지정했거나 이후 지정한 업체들에 배정된 것으로 나타나, 수출 허가 심사 과정에 대한 논란이 커질 전망이다.블룸버그와 로이터에 따르면, 미 하원 외…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217634",
+          "title": "미 상무부, 중국군 연계 기업에 AI 칩 수출 허가...하원 자료 공개로 파장"
+        }
+      ]
+    },
+    {
+      "id": "0c4566cf050a63198ec6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217626",
+      "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성",
+      "original_title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성",
+      "published_at": "2026-11-20T07:47:37+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 '코덱스'를 활용해 챗GPT의 성능 저하 원인을 찾아내고 수정까지 지원하는 내부 자동화 시스템을 공개했다. 성능 문제가 발생하면 AI 에이전트가 로그와 코드를 분석해 원인을 파악하고 수정안을 작성하며, 배포 후에는 문제가 해결됐는지도 확인한다.오픈AI는 19일(현지시간) 코덱스 기반의 내부 성능 관리 시스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217626",
+          "title": "오픈AI, 코덱스로 챗GPT 성능 문제 자동 진단·수정안 작성"
+        }
+      ]
+    },
+    {
+      "id": "013454505aefcfea9ada",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42828",
+      "title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 '포스 디자인 2026' 공개",
+      "original_title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 '포스 디자인 2026' 공개",
+      "published_at": "2026-11-20T07:42:41+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "美 공군이 인공지능(AI)과 자율 시스템, 무인체계, 첨단 센서 등을 결합해 미래 공중전 수행 방식을 재편하는 새로운 전력 설계 전략을 발표했다. 개별 전투기와 무기체계의 성능을 높이는 기존 접근에서 벗어나 유·무인 전력과 지휘통제 시스템을 통합하고, 통신망이 교란되거나 일부 전력이 손실된 상황에서도 전투력을 지속적…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42828",
+          "title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 '포스 디자인 2026' 공개"
+        }
+      ]
+    },
+    {
+      "id": "c363f4c936e7192d6f75",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
+      "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
+      "original_title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어",
+      "published_at": "2026-11-20T07:38:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 맥용 '제미나이' 앱에 컴퓨터를 직접 조작하는 '컴퓨터 유즈(Computer Use)' 기능을 도입했다. 앤트로픽과 오픈AI가 1~2년 전부터 선보인 기능으로, 구글도 기존 개발자용 기술을 일반 이용자에게 확대하면서 AI 에이전트 경쟁에 본격적으로 뛰어들었다.구글은 19일(현지시간) 공식 블로그를 통해 맥용 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217606",
+          "title": "구글, 제미나이에 '컴퓨터 유즈' 기능 도입...맥 앱 직접 제어"
+        }
+      ]
+    },
+    {
+      "id": "5312f2c99a432c4f37f0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217631",
+      "title": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신",
+      "original_title": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신",
+      "published_at": "2026-11-20T07:30:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 셀렉트스타(대표 김세엽)는 대한출판문화협회와 저작권자 및 출판권자의 권리를 보호하면서 고품질 AI 학습용 출판데이터를 공급하기 위한 업무협약(MOU)을 체결했다고 밝혔다. 양측은 ▲출판데이터 정제·가공·구조화·품질 검증 관련 기술 교류 ▲AI 학습용 데이터 공급 체계 마련 ▲출판데이터 수요처 관련 사업 공동 참여…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217631",
+          "title": "[게시판] 셀렉트스타, 출판협회와 AI 학습용 출판데이터 공급 협력 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "e76b8e7ab1bc72843342",
+      "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+      "title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
+      "original_title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
+      "published_at": "2026-11-20T07:25:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Barry Schwartz / Search Engine Roundtable : Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+          "title": "Google is rolling out a collapsible sidebar on its desktop Search homepage, letting users easily find and resume recent AI searches (Barry Schwartz/Search Engine Roundtable)",
+          "discussion_url": "https://www.techmeme.com/261120/p6"
+        }
+      ]
+    },
+    {
+      "id": "13b18a5b1afcea62ea20",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217627",
+      "title": "뉴로퓨전, AI 미래 예측 벤치마크서 공동 1위...구글·오픈AI 앞서",
+      "original_title": "뉴로퓨전, AI 미래 예측 벤치마크서 공동 1위...구글·오픈AI 앞서",
+      "published_at": "2026-11-20T07:20:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국내 AI 전문 뉴로퓨전이 글로벌 AI 미래 예측 벤치마크에서 구글 딥마인드와 오픈AI, 앤트로픽 등 주요 AI 기업을 앞서며 공동 1위를 기록했다. 경제·금융 지표와 주요 국제 사건의 발생 가능성을 예측하는 평가에서 자체 개발한 AI 시스템의 경쟁력을 입증했다는 설명이다.뉴로퓨전(대표 최한철)은 20일 글로벌 AI…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217627",
+          "title": "뉴로퓨전, AI 미래 예측 벤치마크서 공동 1위...구글·오픈AI 앞서"
+        }
+      ]
+    },
+    {
+      "id": "9fb62d1bee1c055764da",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217602",
+      "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
+      "original_title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
+      "published_at": "2026-11-20T07:15:29+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "애플이 기존 '시리 AI'보다 복잡한 업무를 자율적으로 처리할 수 있는 범용 AI 에이전트 개발에 나섰다. 사용자를 대신해 여러 앱과 웹사이트를 조작하고 코드 작성과 디버깅까지 수행하는 시스템으로, 메타와 오픈AI 등 경쟁사의 AI 에이전트에 대응하려는 움직임이다.블룸버그는 19일(현지시간) 애플이 최근 공개한 채용…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217602",
+          "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지"
+        }
+      ]
+    },
+    {
+      "id": "f74bf5c2850fbfdf45fe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217599",
+      "title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개",
+      "original_title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개",
+      "published_at": "2026-11-20T07:03:22+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "모레(대표 조강원)는 대형언어모델(LLM)의 추론 성능과 효율을 높이는 자기 개선형 추론 프레임워크 ‘TIDE’를 공개했다고 20일 밝혔다. TIDE는 미국 시카고에서 열린 고성능 컴퓨팅(HPC) 컨퍼런스 '슈퍼컴퓨팅 2026'에서 처음 발표됐다.TIDE는 실제 추론 과정에서 생성되는 데이터를 활용해 보조 모델을 지…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217599",
+          "title": "모레, LLM 추론 효율 높이는 프레임워크 ‘TIDE’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "51bf064b04ac4eec9ce8",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus",
+      "title": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)",
+      "original_title": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)",
+      "published_at": "2026-11-20T07:00:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure — Day…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/dayone-singapore-us-ipo-plans-data-center-market-chip-curbs-bytedance-tiktok-firmus",
+          "title": "Sources: Singapore-based DayOne pauses its US IPO plans to raise up to $5B as soon as Q4 amid market volatility and valuation concerns around AI infrastructure (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p5"
+        }
+      ]
+    },
+    {
+      "id": "303a58a3c0a42d64e2cd",
+      "url": "https://byline.network/2026/11/20_21827373",
+      "title": "카카오 김범수 ‘SM엔터 시세조종’ 2심도 무죄…”카카오 미래에 힘 보탤 것”",
+      "original_title": "카카오 김범수 ‘SM엔터 시세조종’ 2심도 무죄…”카카오 미래에 힘 보탤 것”",
+      "published_at": "2026-11-20T06:48:34+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "SM엔터테인먼트 인수 과정에서 시세조종에 공모한 혐의로 기소된 김범수 카카오 창업자가 항소심에서도 무죄를 선고받았다. 김 창업자의 법적 리스크가 소폭 해소되면서, 그가 인공지능(AI) 신사업과 인적 분할을 앞둔 카카오의 향후 전략에 힘을 보탤 가능성이 높아졌다는 시각이 나온다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/20_21827373",
+          "title": "카카오 김범수 ‘SM엔터 시세조종’ 2심도 무죄…”카카오 미래에 힘 보탤 것”"
+        }
+      ]
+    },
+    {
+      "id": "67d06f1527b0e97bed03",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42827",
+      "title": "화웨이, AI 에이전트 통신량 100배 증가 전망…차세대 AI 네이티브 코어 네트워크 제시",
+      "original_title": "화웨이, AI 에이전트 통신량 100배 증가 전망…차세대 AI 네이티브 코어 네트워크 제시",
+      "published_at": "2026-11-20T06:25:33+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 화웨이(Huawei)가 인공지능(AI) 에이전트의 확산으로 이동통신망의 상호작용량이 기존 단말 대비 최대 100배 증가할 수 있다고 전망하고, AI 에이전트의 작업 의도와 연산 요구를 이해하는 차세대 코어 네트워크 구조를 제시했다.사람과 사물을 연결하는 기존 통신망을 넘어 로봇과 자율주행차, AI 단말 등 다양…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42827",
+          "title": "화웨이, AI 에이전트 통신량 100배 증가 전망…차세대 AI 네이티브 코어 네트워크 제시"
+        }
+      ]
+    },
+    {
+      "id": "b034f7bca4dd4384def5",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs",
+      "title": "Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)",
+      "original_title": "Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)",
+      "published_at": "2026-11-20T06:15:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue — Nscale Pl…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-19/nscale-s-bytedance-deal-faces-scrutiny-under-us-chip-curbs",
+          "title": "Sources: Nscale must seek a US license to provide ByteDance remote access to Nvidia GPUs under new rules; ByteDance made up ~73% of Nscale's 2025 revenue (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p3"
+        }
+      ]
+    },
+    {
+      "id": "ef82fb2adeaf9d3bcdc6",
+      "url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment",
+      "title": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
+      "original_title": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
+      "published_at": "2026-11-20T05:55:02+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Maria Deutscher / SiliconANGLE : BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://siliconangle.com/2026/11/19/industrial-monitoring-startup-brightai-closes-97m-investment",
+          "title": "BrightAI, which uses AI to help industrial companies detect malfunctioning equipment, raised $97M led by Smith Point, bringing its total funding to $184M (Maria Deutscher/SiliconANGLE)",
+          "discussion_url": "https://www.techmeme.com/261120/p2"
+        }
+      ]
+    },
+    {
+      "id": "b3c987ef948433a0169e",
+      "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b",
+      "title": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)",
+      "original_title": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)",
+      "published_at": "2026-11-20T05:45:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "William Sandlund / Financial Times : Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hyn…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/c7ad2e0c-efd1-40c2-a5a8-819ced8acf5b",
+          "title": "Asian tech stocks plunge as Anthropic's record IPO fails to stem an AI sell-off; SoftBank falls ~15%, TSMC falls 5%+, and Samsung and SK Hynix fall 6%+ (William Sandlund/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261120/p1"
+        }
+      ]
+    },
+    {
+      "id": "54bd3ada8ca6a0fdbcd2",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42826",
+      "title": "본에이아이, 107억원 규모 피지컬 AI 국책사업 참여…국산 AI 반도체 탑재 산불 감지 드론 실증",
+      "original_title": "본에이아이, 107억원 규모 피지컬 AI 국책사업 참여…국산 AI 반도체 탑재 산불 감지 드론 실증",
+      "published_at": "2026-11-20T05:35:54+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "디펜스테크 기업 본에이아이(대표 이도경)가 국산 AI 반도체와 다중 감각 센서를 결합한 화재 감지 기술을 개발하고, 실제 산림 현장에서 드론을 활용한 피지컬 AI 실증에 나선다. 연기·불꽃·가스 등 다양한 감지 정보를 드론에 탑재된 AI 반도체가 직접 분석하도록 해 재난 감지 기술의 국산화와 현장 적용 가능성을 검증…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42826",
+          "title": "본에이아이, 107억원 규모 피지컬 AI 국책사업 참여…국산 AI 반도체 탑재 산불 감지 드론 실증"
+        }
+      ]
+    },
+    {
+      "id": "902b3a440acc1d13ddf5",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42825",
+      "title": "제조 AI 학습데이터 표준화 추진…국표원, 로봇·생산설비 데이터 수집 기준 마련",
+      "original_title": "제조 AI 학습데이터 표준화 추진…국표원, 로봇·생산설비 데이터 수집 기준 마련",
+      "published_at": "2026-11-20T05:21:29+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "산업용 로봇과 절삭기, 생산라인 등 제조설비마다 서로 다른 형식으로 생성되는 데이터를 인공지능 학습에 활용할 수 있도록 공통 수집 기준이 마련된다. 설비별로 제각각인 데이터 명칭과 구조를 표준화해 제조기업이 기술·운영 데이터를 일관된 형태로 수집하고, 제조 AI 개발과 공정 지능화에 활용할 수 있도록 지원하는 것이 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42825",
+          "title": "제조 AI 학습데이터 표준화 추진…국표원, 로봇·생산설비 데이터 수집 기준 마련"
+        }
+      ]
+    },
+    {
+      "id": "ac639ea5b9e14273646a",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+      "title": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)",
+      "original_title": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)",
+      "published_at": "2026-11-20T04:15:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO — Anthropic PBC shares fell on their second day of trading as a broad mark…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+          "title": "Anthropic fell ~5% in after-hours trading on its debut day, following a record $107.3B IPO (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261119/p61"
+        }
+      ]
+    },
+    {
+      "id": "9d58e25853ddb4790f52",
+      "url": "https://www.cbsnews.com/sanfrancisco/news/california-nvidia-subpoena-jensen-huang-affair-alleged-chinese-spy",
+      "title": "California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
+      "original_title": "California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
+      "published_at": "2026-11-20T03:30:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Katie Nicora / CBS News : California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled inve…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cbsnews.com/sanfrancisco/news/california-nvidia-subpoena-jensen-huang-affair-alleged-chinese-spy",
+          "title": "California's AG subpoenas Nvidia to investigate whether Jensen Huang's actions resulted in China getting advanced chips, and whether Nvidia misled investors (Katie Nicora/CBS News)",
+          "discussion_url": "https://www.techmeme.com/261119/p60"
+        }
+      ]
+    },
+    {
+      "id": "80a50d5308f3da130884",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42823",
+      "title": "정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제",
+      "original_title": "정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제",
+      "published_at": "2026-11-20T03:25:17+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "정부가 AI 산업의 핵심 인프라인 인공지능 데이터센터(AIDC)의 구축 속도를 높이기 위해 전력계통영향평가 제도를 개선한다.비수도권에 들어서는 계약전력 50메가와트(MW) 이하 AI 데이터센터는 평가 대상에서 제외하고, AIDC 특구 내 시설에는 전력계통의 기술적 안정성 평가만 적용하고 대규모 AIDC 사업에는 우선…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42823",
+          "title": "정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제"
+        }
+      ]
+    },
+    {
+      "id": "65f23447cf8aab0f13bf",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42822",
+      "title": "加 베이글 랩스, 로봇 제어 오픈 웨이트 AI 모델 세계 3위…GPT-6 아스트라 평가 점수 앞서",
+      "original_title": "加 베이글 랩스, 로봇 제어 오픈 웨이트 AI 모델 세계 3위…GPT-6 아스트라 평가 점수 앞서",
+      "published_at": "2026-11-20T03:07:07+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "캐나다의 피지컬 AI 연구기업 베이글 랩스(Bagel Labs)가 19일(현지시간) 범용 로봇 제어 오픈 웨이트 AI 모델 '베이글 로보틱스 1(Bagel-Robotics-1)'을 허깅페이스(다운)를 통해 공개하고, 로보도조(RoboDojo) 시뮬레이션 벤치마크의 독립형 로봇 제어 모델 부문에서 세계 3위를 기록했다…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42822",
+          "title": "加 베이글 랩스, 로봇 제어 오픈 웨이트 AI 모델 세계 3위…GPT-6 아스트라 평가 점수 앞서"
+        }
+      ]
+    },
+    {
+      "id": "4a2e5bb7d6ae2fe57eb6",
+      "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+      "title": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)",
+      "original_title": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)",
+      "published_at": "2026-11-20T02:55:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CNBC : Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list — The suba…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+          "title": "Docs: as of May 2026, the US Commerce Dept. approved sales of 879K+ AI chips to Chinese companies, including entities on the DOD's Chinese military-linked list (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261119/p59"
+        }
+      ]
+    },
+    {
+      "id": "3f7f7cffebe4ba5935ad",
+      "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad",
+      "title": "ChatPRD, 무료 체험 악용한 토큰 사기 급증으로 무료 체험 종료",
+      "original_title": "Token fraud is here and it’s BAD (YouTube)",
+      "published_at": "2026-11-20T02:49:57+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GP…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad",
+          "title": "Token fraud is here and it’s BAD (YouTube)"
+        }
+      ],
+      "summary": "ChatPRD를 운영하는 Claire Vo는 제품의 무료 체험을 악용해 토큰을 사기적으로 사용하는 사례가 급증했다고 밝혔다. 이들은 무료 AI 사용을 넘어 토큰을 재판매하거나 ChatPRD 에이전트를 기반으로 상업적 활동을 하는 경우도 있다. Claire는 이러한 남용에 대응해 무료 체험을 전면 종료하기로 했다.",
+      "why_it_matters": "AI 제품의 무료 체험 정책이 토큰 사기와 남용에 취약할 수 있음을 보여주며, 서비스 제공자가 무료 체험을 축소하거나 종료하는 결정을 내릴 수 있음을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T10:59:15+00:00",
+        "input_hash": "192ef8055b6442df6d21bf3a309c3128104a4b0ab1397394d9c55cb75278cfa2",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "77210f24ee4a67f0f975",
+      "url": "https://byline.network/2026/11/20-672",
+      "title": "순수 AI 회사의 첫 IPO, 앤트로픽 나스닥 상장",
+      "original_title": "순수 AI 회사의 첫 IPO, 앤트로픽 나스닥 상장",
+      "published_at": "2026-11-20T02:44:45+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "순수한 생성형 인공지능(AI) 회사가 처음으로 나스닥에 입성했다. 19일(현지시간) 미국 나스닥에 상장한 앤트로픽의 공모가는 83달러, 개장가는 111.50달러였다. 역대 최대의 IPO이자 최초의 AI 회사 상장 이벤트는 일단 성황리에 끝났다.…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/20-672",
+          "title": "순수 AI 회사의 첫 IPO, 앤트로픽 나스닥 상장"
+        }
+      ]
+    },
+    {
+      "id": "b9a95559c340785ec69d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42821",
+      "title": "구글, 월드모델 '지니 4' API 공개…720p 가상세계 실시간 생성하고 자연어로 조작",
+      "original_title": "구글, 월드모델 '지니 4' API 공개…720p 가상세계 실시간 생성하고 자연어로 조작",
+      "published_at": "2026-11-20T02:39:10+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 인공지능(AI)으로 가상세계를 생성하고 실시간으로 탐색·조작할 수 있는 월드모델 '지니 4(Genie 4)'를 개발자용 응용프로그램 인터페이스(API)로 공개했다.구글은 18일(현지시간) 지니 4 모델을 발표한 데 이어 19일 제미나이 API(Gemini API)의 인터랙션 API(Interactions AP…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42821",
+          "title": "구글, 월드모델 '지니 4' API 공개…720p 가상세계 실시간 생성하고 자연어로 조작"
+        }
+      ]
+    },
+    {
+      "id": "b36a681e80e6d8cbb8db",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42820",
+      "title": "제미나이, 맥 컴퓨터 직접 조작한다…파일·앱·웹 넘나드는 자율 AI 에이전트",
+      "original_title": "제미나이, 맥 컴퓨터 직접 조작한다…파일·앱·웹 넘나드는 자율 AI 에이전트",
+      "published_at": "2026-11-20T02:17:02+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글의 AI 모델 제미나이에 애플의 맥(Mac) 컴퓨터의 애플리케이션과 웹사이트를 직접 조작하는 '컴퓨터 사용(Computer Use)' 기능을 도입했다. 사용자가 자연어로 업무를 지시하면 AI 에이전트가 로컬 파일과 데스크톱 프로그램, 웹사이트를 넘나들며 클릭과 입력, 양식 작성 등 여러 단계의 작업을 수행한다.대…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42820",
+          "title": "제미나이, 맥 컴퓨터 직접 조작한다…파일·앱·웹 넘나드는 자율 AI 에이전트"
+        }
+      ]
+    },
+    {
+      "id": "92e4d81078a3e685f3f9",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi",
+      "title": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
+      "original_title": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
+      "published_at": "2026-11-20T01:50:51+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Tim Genewein / DeepMind Institute : Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of h…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://institute.deepmind.com/essays/what-comes-after-agi",
+          "title": "Google DeepMind researchers argue AI development is on pace to move beyond human-level AGI to ASI, which consistently outperforms groups of human experts (Tim Genewein/DeepMind Institute)",
+          "discussion_url": "https://www.techmeme.com/261119/p57"
+        }
+      ]
+    },
+    {
+      "id": "480b1ff3e33f2da4a516",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42819",
+      "title": "AMD, 언슬로스 데스크톱용 세계 최초 NPU 구현…100개 이상 AI 에이전트 온디바이스 실행 지원",
+      "original_title": "AMD, 언슬로스 데스크톱용 세계 최초 NPU 구현…100개 이상 AI 에이전트 온디바이스 실행 지원",
+      "published_at": "2026-11-20T01:39:37+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AMD가 인공지능(AI) 모델 실행 플랫폼인 언슬로스(Unsloth)와 협력해 PC에 내장된 신경망처리장치(NPU)에서 100개 이상의 AI 에이전트 애플리케이션과 워크플로가 로컬 AI 추론 기능을 이용할 수 있도록 지원한다. 클라우드 서버에 의존하지 않고 개인용 컴퓨터에서 AI 에이전트를 실행하는 온디바이스 AI …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42819",
+          "title": "AMD, 언슬로스 데스크톱용 세계 최초 NPU 구현…100개 이상 AI 에이전트 온디바이스 실행 지원"
+        }
+      ]
+    },
+    {
+      "id": "711a6b7d1aca278bd56c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42818",
+      "title": "“단순 바이브 코딩 넘어선다”…베이직인터내셔널, 멀티 AI 에이전트 기반 코딩 자동화 솔루션 공개",
+      "original_title": "“단순 바이브 코딩 넘어선다”…베이직인터내셔널, 멀티 AI 에이전트 기반 코딩 자동화 솔루션 공개",
+      "published_at": "2026-11-20T01:08:13+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "베이직인터내셔널이 자연어 명령으로 코드를 생성하는 '바이브 코딩(Vibe Coding)'을 넘어 기업의 시스템 통합(SI)과 유지보수 업무 전반을 자동화하는 멀티 AI 에이전트 기반 개발 솔루션을 공개했다.베이직인터내셔널 인공지능센터는 명세 주도 개발(Spec Driven Development, SDD)과 애자일(A…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42818",
+          "title": "“단순 바이브 코딩 넘어선다”…베이직인터내셔널, 멀티 AI 에이전트 기반 코딩 자동화 솔루션 공개"
+        }
+      ]
+    },
+    {
+      "id": "240b311561064b4adf56",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42817",
+      "title": "“환자복 나르고 의료장비 옮긴다”…한림대성심병원, AI 휴머노이드 로봇 병동 투입 시험",
+      "original_title": "“환자복 나르고 의료장비 옮긴다”…한림대성심병원, AI 휴머노이드 로봇 병동 투입 시험",
+      "published_at": "2026-11-20T00:59:27+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "한림대학교성심병원이 의료진의 반복 업무와 이동 부담을 줄이기 위해 개발 중인 휴머노이드 로봇을 실제 병동과 유사한 환경에 투입해 기초 구동 시험을 진행했다. 좁은 복도에서의 이동과 환자복·의료 소모품 전달, 의료장비 이송 등 병원 업무에 필요한 기능을 점검하고, 의료 현장에 적합한 로봇의 하드웨어와 제어 기술을 구체…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42817",
+          "title": "“환자복 나르고 의료장비 옮긴다”…한림대성심병원, AI 휴머노이드 로봇 병동 투입 시험"
+        }
+      ]
+    },
+    {
+      "id": "dbe111187a465a8a1fe0",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "original_title": "Apple may be developing its own AI agent that runs your Mac",
+      "published_at": "2026-11-20T00:56:01+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+          "title": "Apple may be developing its own AI agent that runs your Mac"
+        }
+      ]
+    },
+    {
+      "id": "428722283ff950c46f3d",
+      "url": "https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo",
+      "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+      "original_title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+      "published_at": "2026-11-20T00:50:59+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Richard Nieva / Forbes : Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment — As th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.forbes.com/sites/richardnieva/2026/11/19/the-big-vc-winners-in-anthropics-ipo",
+          "title": "Source: Iconiq invested more than $6B in Anthropic; its estimated 1.8% stake was worth ~$31.8B at Thursday's close, a 430%+ return on investment (Richard Nieva/Forbes)",
+          "discussion_url": "https://www.techmeme.com/261119/p56"
+        }
+      ]
+    },
+    {
+      "id": "ad84405834598899fa48",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "original_title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "published_at": "2026-11-20T00:43:50+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+          "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO"
+        }
+      ]
+    },
+    {
       "id": "bf0b1db6b1ab84c74126",
       "url": "https://www.bloomberg.com/news/articles/2026-11-19/apple-is-working-on-ai-agent-for-device-control-apps-browsing-and-coding?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTEyNDc2NSwiZXhwIjoxNzk1NzI5NTY1LCJhcnRpY2xlSWQiOiJUT1I5MEtLSkg2VjUwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.76_dY8UuzU3uFF5ExyvuszXnM3mdj2w3dulsez1QvhY",
       "title": "A job listing shows Apple is developing an AI agent that can write code, browse the web, control apps, navigate devices, and coordinate subagents for users (Mark Gurman/Bloomberg)",
@@ -2045,6 +3142,86 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
           "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
+        }
+      ]
+    },
+    {
+      "id": "da30645137037f0052cd",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "title": "Get started with Daybreak Blue",
+      "original_title": "Get started with Daybreak Blue",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "title": "Get started with Daybreak Blue"
+        }
+      ]
+    },
+    {
+      "id": "a890a236270cc5e31862",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "title": "Deploying Daybreak Red",
+      "original_title": "Deploying Daybreak Red",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/learn/deploying-daybreak-red",
+          "title": "Deploying Daybreak Red"
+        }
+      ]
+    },
+    {
+      "id": "82fe289fe466dcc1d4f7",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "title": "Explore the Codex Security Plugin",
+      "original_title": "Explore the Codex Security Plugin",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "title": "Explore the Codex Security Plugin"
+        }
+      ]
+    },
+    {
+      "id": "17b7a2b39f098895a220",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "title": "See PR scans in action",
+      "original_title": "See PR scans in action",
+      "published_at": "2026-11-19T00:00:00+00:00",
+      "collected_at": "2026-11-20T10:58:52+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "title": "See PR scans in action"
         }
       ]
     },
