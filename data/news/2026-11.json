@@ -3,6 +3,626 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6454c07bbd7e68cebf81",
+      "url": "https://tufalabs.ai/research/tufazip",
+      "title": "A Transformer Compressed 1GB of Wikipedia to 105MB",
+      "original_title": "A Transformer Compressed 1GB of Wikipedia to 105MB",
+      "published_at": "2026-11-20T21:53:50+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tufalabs.ai/research/tufazip",
+          "title": "A Transformer Compressed 1GB of Wikipedia to 105MB",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582800"
+        }
+      ]
+    },
+    {
+      "id": "f22d46a83ecd25c4b9af",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "original_title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+      "published_at": "2026-11-20T21:53:39+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582794"
+        }
+      ]
+    },
+    {
+      "id": "85ad74029a8aa4af8da7",
+      "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+      "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+      "original_title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+      "published_at": "2026-11-20T21:50:43+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnn.com/2026/11/20/investing/anthropic-ai-stock-nasdaq",
+          "title": "Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582751"
+        }
+      ]
+    },
+    {
+      "id": "ff772f090165aaaeca61",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "original_title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+      "published_at": "2026-11-20T21:49:42+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "title": "Prompt Canaries Detect Prompt Leaks at AI Providers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582734"
+        }
+      ]
+    },
+    {
+      "id": "10acd9151180454a3f1f",
+      "url": "https://www.effort.news/nvidia",
+      "title": "The Nvidia Board Removed Jensen on False Pretenses",
+      "original_title": "The Nvidia Board Removed Jensen on False Pretenses",
+      "published_at": "2026-11-20T21:45:32+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.effort.news/nvidia",
+          "title": "The Nvidia Board Removed Jensen on False Pretenses",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582677"
+        }
+      ]
+    },
+    {
+      "id": "adc46ec10496777d0afd",
+      "url": "https://github.com/google-deepmind/math-horizon",
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "original_title": "A few hours ago Google DeepMind created a math horizon repo",
+      "published_at": "2026-11-20T21:42:21+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/google-deepmind/math-horizon",
+          "title": "A few hours ago Google DeepMind created a math horizon repo",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582629"
+        }
+      ]
+    },
+    {
+      "id": "4a4697006df93076aaf3",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+      "title": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)",
+      "original_title": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)",
+      "published_at": "2026-11-20T21:35:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rebecca Torrence / Bloomberg : Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuatio…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/cognition-in-talks-for-75-billion-value-with-new-funding",
+          "title": "Sources: Cognition is considering raising $2B or more at a $75B valuation, after raising over $3B in 2026 so far, including $2B at a $48B valuation in September (Rebecca Torrence/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p36"
+        }
+      ]
+    },
+    {
+      "id": "836aecbc1c800c6b7b8c",
+      "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+      "title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
+      "original_title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
+      "published_at": "2026-11-20T21:30:03+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reggie Ugwu / New York Times : Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+          "title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261120/p35"
+        }
+      ]
+    },
+    {
+      "id": "2f00813395f13ea2fcfe",
+      "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+      "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+      "original_title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+      "published_at": "2026-11-20T21:23:16+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/adilshadowaiforensics/luminol/releases/tag/v0.1.1",
+          "title": "Show HN: Luminol: see what AI evidence a Windows PC holds and when it expires",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582358"
+        }
+      ]
+    },
+    {
+      "id": "c8578f36663fdd901477",
+      "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+      "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "original_title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+      "published_at": "2026-11-20T21:18:46+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/finance/stocks/anthropics-ipo-bust-punctuates-4-trillion-ai-wipeout-on-wall-street-f1f1ec90",
+          "title": "Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582280"
+        }
+      ]
+    },
+    {
+      "id": "bd3614c30b5d6b837c23",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini",
+      "title": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)",
+      "original_title": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)",
+      "published_at": "2026-11-20T21:15:02+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Thinking Machines Lab : TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer t…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://thinkingmachines.ai/news/inkling-2-mini",
+          "title": "TML releases Inkling 2 Mini, an open-weights 26.4B-parameter transformer that loops middle layers three times per token for better reasoning with fewer tokens (Thinking Machines Lab)",
+          "discussion_url": "https://www.techmeme.com/261120/p33"
+        }
+      ]
+    },
+    {
+      "id": "160f0f36024fad107c69",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+      "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+      "original_title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+      "published_at": "2026-11-20T21:04:20+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/live-blog/2026-11-20/markets-turmoil",
+          "title": "AI Trade Fears, Anthropic IPO Aftermath Prompts Tech Selloff",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582084"
+        }
+      ]
+    },
+    {
+      "id": "8e15f9025ffa5ebb2606",
+      "url": "https://blog.senko.net/ai-is-building-me-a-web-browser",
+      "title": "AI is building me a web browser",
+      "original_title": "AI is building me a web browser",
+      "published_at": "2026-11-20T20:57:55+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.senko.net/ai-is-building-me-a-web-browser",
+          "title": "AI is building me a web browser",
+          "discussion_url": "https://news.ycombinator.com/item?id=50581976"
+        }
+      ]
+    },
+    {
+      "id": "ce98d3f25e110fafa2d8",
+      "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20",
+      "title": "Sources: the US SEC is probing Nvidia's accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns (Reuters)",
+      "original_title": "Sources: the US SEC is probing Nvidia's accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns (Reuters)",
+      "published_at": "2026-11-20T20:25:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Reuters : Sources: the US SEC is probing Nvidia's accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns — The U…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20",
+          "title": "Sources: the US SEC is probing Nvidia's accounting practices; last year, Nvidia changed how it reports revenue, removing Singapore from geographical breakdowns (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261120/p31"
+        }
+      ]
+    },
+    {
+      "id": "f6e966e3ca18b7ec8ff6",
+      "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation",
+      "title": "Sources: Nvidia board's main reason for ousting Jensen Huang was his \"lying\" and \"lack of candor\" from October 2025 until this fall over the Alice Huang affair (Wired)",
+      "original_title": "Sources: Nvidia board's main reason for ousting Jensen Huang was his \"lying\" and \"lack of candor\" from October 2025 until this fall over the Alice Huang affair (Wired)",
+      "published_at": "2026-11-20T20:20:01+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wired : Sources: Nvidia board's main reason for ousting Jensen Huang was his “lying” and “lack of candor” from October 2025 until this fall over the Alice Huang affair — Amid al…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation",
+          "title": "Sources: Nvidia board's main reason for ousting Jensen Huang was his \"lying\" and \"lack of candor\" from October 2025 until this fall over the Alice Huang affair (Wired)",
+          "discussion_url": "https://www.techmeme.com/261120/p30"
+        }
+      ]
+    },
+    {
+      "id": "319d6f371c05702dc1c4",
+      "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+      "title": "Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company's market cap down by $2.5T (Kif Leswing/CNBC)",
+      "original_title": "Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company's market cap down by $2.5T (Kif Leswing/CNBC)",
+      "published_at": "2026-11-20T20:10:01+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kif Leswing / CNBC : Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company's market cap down by $…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/20/nvidias-7-week-losing-streak-is-longest-since-2008-financial-crisis.html",
+          "title": "Nvidia shares closed down 14% on Friday, sliding for a seventh straight day; the stock fell 44% over seven weeks, pushing the company's market cap down by $2.5T (Kif Leswing/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261120/p29"
+        }
+      ]
+    },
+    {
+      "id": "9c8b0f5279b773aa2239",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion",
+      "title": "Sources: Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B (Bloomberg)",
+      "original_title": "Sources: Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B (Bloomberg)",
+      "published_at": "2026-11-20T20:05:01+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B — KKR & …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/kkr-in-talks-to-buy-edgecore-at-valuation-of-at-least-8-billion",
+          "title": "Sources: Helix Digital, launched by KKR to invest in data centers, is in talks to buy EdgeCore in a deal that values the data center operator at $8B to $10B (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p28"
+        }
+      ]
+    },
+    {
+      "id": "98001fcd04fee0535cde",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "original_title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "published_at": "2026-11-20T19:53:41+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building",
+          "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building."
+        }
+      ]
+    },
+    {
+      "id": "460a8c5d0ac93b11bb9b",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology",
+      "title": "Trump says he \"would love to see\" Jensen Huang return as CEO, saying \"if they were smart\", Nvidia would \"accept an apology, and let him go back to work\" (Bloomberg)",
+      "original_title": "Trump says he \"would love to see\" Jensen Huang return as CEO, saying \"if they were smart\", Nvidia would \"accept an apology, and let him go back to work\" (Bloomberg)",
+      "published_at": "2026-11-20T19:35:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Trump says he “would love to see” Jensen Huang return as CEO, saying “if they were smart”, Nvidia would “accept an apology, and let him go back to work” — President …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-20/trump-says-huang-should-return-as-nvidia-ceo-after-big-apology",
+          "title": "Trump says he \"would love to see\" Jensen Huang return as CEO, saying \"if they were smart\", Nvidia would \"accept an apology, and let him go back to work\" (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261120/p26"
+        }
+      ]
+    },
+    {
+      "id": "861ca51b04b5cf4869c5",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+      "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "original_title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too",
+      "published_at": "2026-11-20T19:32:08+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+          "title": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, too"
+        }
+      ]
+    },
+    {
+      "id": "0d8e213cc0d8372dce87",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+      "title": "Quoting Ravi Vakil",
+      "original_title": "Quoting Ravi Vakil",
+      "published_at": "2026-11-20T19:21:49+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is bein…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+          "title": "Quoting Ravi Vakil"
+        }
+      ]
+    },
+    {
+      "id": "6691469f1dc34a795664",
+      "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+      "title": "METR updates its time horizon plot to add judgment-heavy tasks, finding some AI capabilities still grow exponentially but models lag at designing AI evaluations (Grace Huckins/MIT Technology Review)",
+      "original_title": "METR updates its time horizon plot to add judgment-heavy tasks, finding some AI capabilities still grow exponentially but models lag at designing AI evaluations (Grace Huckins/MIT Technology Review)",
+      "published_at": "2026-11-20T19:05:01+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Grace Huckins / MIT Technology Review : METR updates its time horizon plot to add judgment-heavy tasks, finding some AI capabilities still grow exponentially but models lag at d…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update",
+          "title": "METR updates its time horizon plot to add judgment-heavy tasks, finding some AI capabilities still grow exponentially but models lag at designing AI evaluations (Grace Huckins/MIT Technology Review)",
+          "discussion_url": "https://www.techmeme.com/261120/p25"
+        }
+      ]
+    },
+    {
+      "id": "0bac7f269a924e724672",
+      "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data",
+      "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "original_title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+      "published_at": "2026-11-20T18:51:43+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used …",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data",
+          "title": "Bell Canada says 'agentic' hacker stole enterprise customer data"
+        }
+      ]
+    },
+    {
+      "id": "1f3fed02a0c96e9a49d5",
+      "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+      "title": "Investigation: companies in Alice Huang's family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies (New York Times)",
+      "original_title": "Investigation: companies in Alice Huang's family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies (New York Times)",
+      "published_at": "2026-11-20T18:30:04+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Investigation: companies in Alice Huang's family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies — C…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html",
+          "title": "Investigation: companies in Alice Huang's family network have ties to Chinese military suppliers; ~$3.6B in Chinese state money flowed through the companies (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261120/p22"
+        }
+      ]
+    },
+    {
+      "id": "79b7324f6ff32c68d76f",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
+      "title": "Chips can survive the space environment — can their financing?",
+      "original_title": "Chips can survive the space environment — can their financing?",
+      "published_at": "2026-11-20T17:40:01+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
+          "title": "Chips can survive the space environment — can their financing?"
+        }
+      ]
+    },
+    {
+      "id": "087ffc09c10626b8f798",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server",
+      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "original_title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
+      "published_at": "2026-11-20T17:30:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server",
+          "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server"
+        }
+      ]
+    },
+    {
+      "id": "7220e54bdf8a93f9a841",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+      "title": "Quoting Levent Alpöge",
+      "original_title": "Quoting Levent Alpöge",
+      "published_at": "2026-11-20T16:30:48+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
+          "title": "Quoting Levent Alpöge"
+        }
+      ]
+    },
+    {
+      "id": "bc6cd0668a9d5bb9fc16",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+      "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "original_title": "The fallout from Nvidia’s Jensen Huang scandal continues",
+      "published_at": "2026-11-20T14:55:44+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the go…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues",
+          "title": "The fallout from Nvidia’s Jensen Huang scandal continues"
+        }
+      ]
+    },
+    {
+      "id": "1895a884c21c9ded0549",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "original_title": "Six AI-powered gadgets that could make your home office smarter",
+      "published_at": "2026-11-20T14:00:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter",
+          "title": "Six AI-powered gadgets that could make your home office smarter"
+        }
+      ]
+    },
+    {
+      "id": "b519b3a26a3955660950",
+      "url": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro",
+      "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
+      "original_title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
+      "published_at": "2026-11-20T13:33:55+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Claire chatted to Sebastian Castro about developing open-source software for robot task planning and behaviour. Sebastian Castro is an independent roboticist specializing in rob…",
+      "sources": [
+        {
+          "source_id": "robohub",
+          "url": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro",
+          "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro"
+        }
+      ]
+    },
+    {
       "id": "31d8fb0a8a920ac80708",
       "url": "https://github.com/blackarck/intaiassist",
       "title": "Show HN: Interviewer assistant – AI open source",
@@ -194,6 +814,26 @@
           "url": "https://github.com/PHONGUIT22/nostrpulse-full",
           "title": "Show HN: NostrPulse – Bitcoin HTTP 402 (L402 and Cashu) MCP Server for AI Agents",
           "discussion_url": "https://news.ycombinator.com/item?id=50572502"
+        }
+      ]
+    },
+    {
+      "id": "7ad44f990f0c53ef2e2a",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "title": "Combatting adversarial distillation",
+      "original_title": "Combatting adversarial distillation",
+      "published_at": "2026-11-20T10:00:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/combatting-adversarial-distillation",
+          "title": "Combatting adversarial distillation"
         }
       ]
     },
@@ -1096,6 +1736,86 @@
           "source_id": "techcrunch",
           "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
           "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO"
+        }
+      ]
+    },
+    {
+      "id": "c1a2af93db54bfcf7c21",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "original_title": "Can AI help scientists identify promising drug candidates?",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-medchembench",
+          "title": "Can AI help scientists identify promising drug candidates?"
+        }
+      ]
+    },
+    {
+      "id": "824c03b970f1dc58cad6",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "original_title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/inkling2mini",
+          "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
+        }
+      ]
+    },
+    {
+      "id": "8145fefb47ff1ca9fa55",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/hebbia",
+          "title": "Hebbia sees improvements in financial research with GPT-6 Astra"
+        }
+      ]
+    },
+    {
+      "id": "701a571706ec6c00de8b",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "original_title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "published_at": "2026-11-20T00:00:00+00:00",
+      "collected_at": "2026-11-20T22:08:27+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost"
         }
       ]
     },
@@ -2294,14 +3014,14 @@
     {
       "id": "4f9c18ee4d43564e62e7",
       "url": "https://robohub.org/soft-exosuit-makes-it-easier-to-stand-up",
-      "title": "Soft exosuit makes it easier to stand up",
+      "title": "뮌헨공대, 노인 기립 보조하는 소프트 엑소슈트 개발",
       "original_title": "Soft exosuit makes it easier to stand up",
       "published_at": "2026-11-19T10:09:47+00:00",
       "collected_at": "2026-11-19T11:13:54+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Exoskeletons developed at Professor Lorenzo Masia’s lab help elderly people and those with medical conditions move more easily. They also assist industrial workers in performing…",
       "sources": [
         {
@@ -2309,7 +3029,16 @@
           "url": "https://robohub.org/soft-exosuit-makes-it-easier-to-stand-up",
           "title": "Soft exosuit makes it easier to stand up"
         }
-      ]
+      ],
+      "summary": "뮌헨공대(TUM) 연구진이 인공 힘줄을 이용해 고관절 신전을 보조하는 가볍고 부드러운 슈트를 개발했다. 69~85세 노인 10명을 대상으로 한 연구에서 착용 시 일어서기 동작이 더 쉽고 빨라졌으며, 보행 시 대사 비용도 평균 14% 감소했다고 연구진은 밝혔다. 이 슈트는 노약자와 재활 환자의 독립적 생활을 지원하는 것을 목표로 한다.",
+      "why_it_matters": "고령화 사회에서 일상 동작을 돕는 웨어러블 로봇이 노인의 자립성과 삶의 질을 높이는 실용적 대안이 될 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:09:09+00:00",
+        "input_hash": "579a687da18455fd9ce863073475889d4fd7152c7de2149423fdd6f17246c7d9",
+        "evidence_verified": true
+      }
     },
     {
       "id": "b4e22decd8f2a42368e4",
@@ -3228,14 +3957,14 @@
     {
       "id": "8c4432adfe17d06c6aff",
       "url": "https://simonwillison.net/2026/Nov/18/llm-gemini",
-      "title": "llm-gemini 0.38",
+      "title": "llm-gemini 0.38 릴리스, Gemini 4 Neon 공개",
       "original_title": "llm-gemini 0.38",
       "published_at": "2026-11-18T23:59:20+00:00",
       "collected_at": "2026-11-19T11:13:54+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even w…",
       "sources": [
         {
@@ -3243,7 +3972,16 @@
           "url": "https://simonwillison.net/2026/Nov/18/llm-gemini",
           "title": "llm-gemini 0.38"
         }
-      ]
+      ],
+      "summary": "구글이 Gemini 4 Neon을 발표했고, 이에 맞춰 llm-gemini 0.38이 릴리스됐다. 작성자는 Gemini 4 시리즈의 가격 체계가 혼란스럽다고 지적하며, Neon 발표가 Argon을 없는 것처럼 다룬다고 언급했다. 현재 가격은 Neon이 입력 100만 토큰당 3달러·출력 15달러로 가장 비싸고, Carbon이 2달러·10달러, Hydrogen이 1.50달러·7.50달러 순이다.",
+      "why_it_matters": "모델 라인업과 가격이 자주 바뀌면서 어떤 모델이 실제로 어떤 비용과 성능을 갖는지 파악하기 어려워지고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:09:07+00:00",
+        "input_hash": "3e8b345462336952951faca7fc7505bd651946e322f2779cda811dbdeda5b13e",
+        "evidence_verified": true
+      }
     },
     {
       "id": "28a1e7a21c66bddf9bd1",
@@ -4518,14 +5256,14 @@
     {
       "id": "184d931227f2504de1a3",
       "url": "https://openai.com/index/the-silent-consensus",
-      "title": "The Silent Consensus",
+      "title": "AI 시대의 '침묵의 합의': 인간 우위 포기 우려",
       "original_title": "The Silent Consensus",
       "published_at": "2026-11-18T10:00:00+00:00",
       "collected_at": "2026-11-18T22:29:36+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.…",
       "sources": [
         {
@@ -4533,7 +5271,16 @@
           "url": "https://openai.com/index/the-silent-consensus",
           "title": "The Silent Consensus"
         }
-      ]
+      ],
+      "summary": "딘 볼은 2026년 11월 18일 하버드 강연을 바탕으로 한 글에서 '침묵의 합의'를 비판한다. 이는 AI가 인간보다 뛰어난 능력으로 기업과 제도를 운영하게 되면서 인간이 세계에 대한 주도권을 포기하게 될 것이라는 암묵적 전망이다. 그는 이러한 합의가 안전·정렬 문제를 해결하더라도 발생할 수 있으며, 인간의 과거 유산과 대화에 기반해 인간의 우위를 지켜야 한다고 주장한다.",
+      "why_it_matters": "AI가 경제와 제도를 자율적으로 운영할 경우 인간의 통제력 상실이 불가피할 수 있다는 경고는 기술 발전 방향과 거버넌스 논의에 중요한 시사점을 제공한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:08:55+00:00",
+        "input_hash": "d247cce5daa31c0944f71746648f33a772e2bb8343a7d76f12468f8131d3327a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "d83eed4df273a1d3097b",
@@ -4903,14 +5650,14 @@
     {
       "id": "67952d9a918d2536a7bf",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "title": "Inside the Codex sandbox",
+      "title": "OpenAI, Codex 샌드박스 설계 공개…파일시스템·네트워크 제한 기본 적용",
       "original_title": "Inside the Codex sandbox",
       "published_at": "2026-11-18T08:00:00+00:00",
       "collected_at": "2026-11-18T22:29:36+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.…",
       "sources": [
         {
@@ -4918,7 +5665,16 @@
           "url": "https://openai.com/index/inside-the-codex-sandbox",
           "title": "Inside the Codex sandbox"
         }
-      ]
+      ],
+      "summary": "OpenAI가 Codex 에이전트가 사용자 컴퓨터에서 명령을 실행할 때 파일시스템과 네트워크 접근을 제한하는 샌드박스 구조를 공개했다. 기본 :workspace 프로필은 작업공간 내 쓰기를 허용하되 .git과 .codex는 읽기 전용으로 두고 네트워크 접근을 차단하며, 사용자는 권한 프로필로 제한을 조정할 수 있다. OpenAI는 샌드박스가 악성 행위를 막지만 완전하지는 않아 훈련·정렬과 함께 심층 방어를 적용한다고 밝혔다.",
+      "why_it_matters": "에이전트가 로컬 명령을 실행하는 구조에서 권한 경계를 어떻게 기본값으로 정할지가 실무 보안의 핵심 쟁점이 된다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:08:52+00:00",
+        "input_hash": "3579d85b7276a31b4648949771f0fe6d9fcfcaeee1438be3c4d7ce5ed8927327",
+        "evidence_verified": true
+      }
     },
     {
       "id": "58da586369f33999eb92",
@@ -4943,14 +5699,14 @@
     {
       "id": "53d809d7420a3923e8ba",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "title": "스미토모생명, 경영진 주도로 ChatGPT Enterprise 도입 확대",
       "original_title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "published_at": "2026-11-18T08:00:00+00:00",
       "collected_at": "2026-11-19T11:13:54+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.…",
       "sources": [
         {
@@ -4958,7 +5714,16 @@
           "url": "https://openai.com/business/customer-stories/sumitomo-life",
           "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise"
         }
-      ]
+      ],
+      "summary": "스미토모생명은 2023년 생성형 AI 활용을 시작해 2025년 경영진과 기획팀 등 100~150명이 ChatGPT Business 파일럿을 거친 뒤 2026년 6월 ChatGPT Enterprise로 전환했다. 이 회사는 주간 사용률 80% 이상, 월 101회 이상 사용 직원의 평균 추정 ROI 524%(전체 평균 203%)를 기록했다고 밝혔다. 기획팀은 해외 보험사 조사와 제안서 준비에, 투자팀은 리스크 분석용 코드 초안 작성에 ChatGPT를 활용한다.",
+      "why_it_matters": "금융기관이 보안 검토를 거쳐 생성형 AI를 대규모로 도입할 때 경영진의 직접 사용과 독려가 확산 속도에 영향을 줄 수 있음을 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:09:01+00:00",
+        "input_hash": "4e6d222813882f39a3a794653c381a6a268694563a33eeda73121bc472a04af9",
+        "evidence_verified": true
+      }
     },
     {
       "id": "f62c94c5e8280d4a7592",
@@ -5604,14 +6369,14 @@
     {
       "id": "a1de396d3910fa2e0f79",
       "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "title": "르 피가로 그룹과 OpenAI, 르 피가로 저널리즘을 ChatGPT에 제공하는 파트너십 체결",
       "original_title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
       "published_at": "2026-11-18T00:00:00+00:00",
       "collected_at": "2026-11-18T11:14:15+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.…",
       "sources": [
         {
@@ -5619,19 +6384,28 @@
           "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
         }
-      ]
+      ],
+      "summary": "르 피가로 그룹과 OpenAI가 르 피가로의 저널리즘을 ChatGPT에서 더 많은 사람이 발견하고 접할 수 있도록 돕는 전략적 파트너십을 발표했다. 이 파트너십은 르 피가로와 관련 출판물의 뉴스, 비즈니스, 문화, 라이프스타일 콘텐츠를 요약과 발췌, 원문 링크 형태로 제공하는 것을 포함한다. 르 피가로는 편집 독립성과 저널리즘에 대한 통제권을 유지하며, 여러 팀에 ChatGPT Enterprise를 도입할 계획이다.",
+      "why_it_matters": "주요 언론사의 콘텐츠가 AI 챗봇 인터페이스에서 요약·발췌 형태로 노출되는 사례로, 언론사와 AI 기업 간 제휴가 콘텐츠 발견 경로에 영향을 줄 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:08:44+00:00",
+        "input_hash": "899281c7fdba033640418d2fbdee58b3e9e808bea5a18655a6acad3df133e404",
+        "evidence_verified": true
+      }
     },
     {
       "id": "68ddb817fe4001c0fc7b",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "title": "Advancing chip design with OpenAI models",
+      "title": "OpenAI, 자사 모델로 칩 설계 최적화…AMD·RISC-V 평가 결과 공개",
       "original_title": "Advancing chip design with OpenAI models",
       "published_at": "2026-11-18T00:00:00+00:00",
       "collected_at": "2026-11-18T22:29:36+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.…",
       "sources": [
         {
@@ -5645,7 +6419,16 @@
           "title": "OpenAI says its models improved power, performance, and area by up to 14% on AMD's flagship GPU IP; some changes are in a design AMD sent for manufacturing (OpenAI)",
           "discussion_url": "https://www.techmeme.com/261118/p45"
         }
-      ]
+      ],
+      "summary": "OpenAI는 자사 모델을 활용해 첫 자체 추론 칩 '할라페뇨'의 벡터·매트릭스 유닛 설계를 개선하고, AMD 플래그십 GPU IP에서 최대 14%의 PPA 개선을 확인했다고 발표했다. 또한 오픈소스 RISC-V 코어(PicoRV32, Ibex)를 대상으로 모델 세대별 칩 설계 능력을 평가했으며, GPT‑6.2 Astra가 두 코어 모두에서 가장 높은 평균 점수를 기록했다고 밝혔다. 회사는 Synopsys와 협력해 EDA 도구를 활용하는 새 모델 GPT‑Synopsys를 훈련 중이라고 전했다.",
+      "why_it_matters": "AI 모델이 생산 단계 칩 설계 최적화에 관여하는 사례가 구체화되고 있다. 다만 성능 수치는 발표 주체의 자체 평가이며, RISC-V 평가도 실제 생산 설계와 차이가 있다고 회사 스스로 인정했다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-20T22:08:47+00:00",
+        "input_hash": "e028ad0c9d9dbade60ff78ae2d7ea08710a3171543596e4c56605cb0db91a9a1",
+        "evidence_verified": true
+      }
     },
     {
       "id": "5b89a2db7f60ae9099b7",
@@ -15872,6 +16655,12 @@
           "source_id": "google_ai",
           "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
           "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+          "title": "Google Search upgrade: Gemini 4 Hydrogen features",
+          "discussion_url": "https://news.ycombinator.com/item?id=50582786"
         }
       ],
       "summary": "구글이 Gemini 4 Hydrogen을 구글 검색에 전 세계적으로 도입한다고 발표했다. 구글에 따르면 이번 업데이트는 의도 이해, 쿼리 팬아웃 및 링크, 시각적 응답, 언어 이해를 개선하며, 복잡한 다중 질문에 대해 표와 이미지 등 구조화된 정보를 제공한다.",
