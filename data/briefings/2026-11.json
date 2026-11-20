@@ -3,6 +3,327 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-20",
+      "day": "2026-11-20",
+      "scheduled_at": "2026-11-19T21:30:00+00:00",
+      "generated_at": "2026-11-20T02:31:06+00:00",
+      "window_start": "2026-11-18T21:00:00+00:00",
+      "window_end": "2026-11-19T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI가 설계를 바꾸고, 인재와 정책이 뒤따른다",
+      "takeaway": "오늘의 한 줄: AI 활용이 반도체 설계와 검색 기능을 넘어 산업 인재 양성과 기술 공급의 정치적 검증으로 확장되고 있습니다.",
+      "overview": [
+        {
+          "text": "오픈AI가 AI 모델로 AMD 주력 GPU의 회로 설계를 최적화해 전력·성능·면적 지표에서 최대 14%의 개선을 확인했다고 밝혔습니다. AMD 엔지니어들이 수년간 최적화한 설계에서 5개월도 안 되는 기간에 약 1년 치 추가 진전을 이뤘다는 설명입니다. 이는 GPU 전체 개발 기간을 단축했다는 의미가 아니라 설계 블록의 개선 결과라는 점을 회사가 직접 밝혔습니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "마이크로소프트가 중국 바이트댄스에 5억달러 규모의 AI 클라우드 서비스를 추가 공급하는 계약 체결에 근접했다는 보도가 나왔습니다. 중국 기업의 모델 접근을 제한하려는 오픈AI가 반발한 가운데, 미국 하원 중국특별위원회도 MS에 협상 내용에 대한 설명을 요구했습니다. 기술 공급 계약이 미중 AI 경쟁과 의회 검증이라는 정치적 변수에 놓여 있음을 보여줍니다.",
+          "issue_ids": [
+            "issue-2"
+          ]
+        },
+        {
+          "text": "LG그룹은 2027년 정기 임원인사에서 전체 상무 승진자의 30%를 연구개발 인력으로 채우고 피지컬 AI와 로보틱스 분야 인재를 주요 경영진에 배치했습니다. UNIST는 조선해양과 소재 등 동남권 주력산업의 AI 전환을 이끌 융합인재 2000명을 2030년까지 양성하고 8개 AX융합전공을 신설합니다. 기업과 대학이 각각 인사와 교육 체계를 통해 AI 인재 확보에 나서는 모습입니다.",
+          "issue_ids": [
+            "issue-3",
+            "issue-4"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "오픈AI, AI로 AMD GPU 회로 설계 최적화…PPA 최대 14% 개선",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "오픈AI가 AI 모델로 AMD 주력 GPU의 회로 설계를 최적화해 전력·성능·면적(PPA) 지표에서 최대 14%의 개선을 확인했다고 밝혔다.",
+              "article_ids": [
+                "53196164c1fed5839815"
+              ],
+              "links": [
+                {
+                  "text": "AMD 주력 GPU",
+                  "article_id": "53196164c1fed5839815"
+                },
+                {
+                  "text": "PPA",
+                  "article_id": "53196164c1fed5839815"
+                }
+              ]
+            },
+            {
+              "text": "오픈AI는 AMD 엔지니어들이 수년간 최적화한 설계에서 5개월도 안 되는 기간에 약 1년 치 추가 진전을 이뤘다고 평가했으며, 이는 GPU 전체 개발 기간 단축을 의미하지는 않는다고 설명했다.",
+              "article_ids": [
+                "53196164c1fed5839815"
+              ],
+              "links": [
+                {
+                  "text": "5개월도 안 되는 기간",
+                  "article_id": "53196164c1fed5839815"
+                },
+                {
+                  "text": "약 1년 치 추가 진전",
+                  "article_id": "53196164c1fed5839815"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI가 반도체 설계 최적화에 실제로 활용되며 하드웨어 개발 방식의 변화 가능성을 보여준다.",
+          "article_ids": [
+            "53196164c1fed5839815"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "마이크로소프트가 중국 바이트댄스에 5억달러 규모의 AI 클라우드 서비스를 추가 공급하는 계약 체결에 근접했다는 보도가 나왔다.",
+              "article_ids": [
+                "68036df060cc7e22a97c"
+              ],
+              "links": [
+                {
+                  "text": "바이트댄스",
+                  "article_id": "68036df060cc7e22a97c"
+                },
+                {
+                  "text": "5억달러",
+                  "article_id": "68036df060cc7e22a97c"
+                }
+              ]
+            },
+            {
+              "text": "미 하원 중국특별위원회는 잠재적 계약의 세부 내용에 관한 초당적 브리핑을 MS에 요구했으며, 존 물레나르 위원장은 MS가 바이트댄스에 AI 도구를 판매해서는 안 된다고 말했다.",
+              "article_ids": [
+                "68036df060cc7e22a97c"
+              ],
+              "links": [
+                {
+                  "text": "미 하원 중국특별위원회",
+                  "article_id": "68036df060cc7e22a97c"
+                },
+                {
+                  "text": "존 물레나르 위원장",
+                  "article_id": "68036df060cc7e22a97c"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "미중 AI 기술 경쟁 속에서 기업의 해외 공급 계약이 정치적 검증 대상이 되고 있음을 보여준다.",
+          "article_ids": [
+            "68036df060cc7e22a97c"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "LG그룹, 2027년 임원인사서 피지컬 AI·R&D 핵심인재 전진 배치",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "LG그룹이 2027년 정기 임원인사를 실시하고 총 132명의 승진 인사를 단행했으며, 전체 상무 승진자의 30%를 R&D 인력으로 채웠다.",
+              "article_ids": [
+                "258eb15df7f520674076"
+              ],
+              "links": [
+                {
+                  "text": "132명",
+                  "article_id": "258eb15df7f520674076"
+                },
+                {
+                  "text": "R&D 인력",
+                  "article_id": "258eb15df7f520674076"
+                }
+              ]
+            },
+            {
+              "text": "로보틱스 분야에서는 송시용 LG전자 로보틱스사업센터장이 전무로 승진했으며, 피지컬 AI 기반 로보틱스 사업 확대를 추진해 왔다.",
+              "article_ids": [
+                "258eb15df7f520674076"
+              ],
+              "links": [
+                {
+                  "text": "송시용",
+                  "article_id": "258eb15df7f520674076"
+                },
+                {
+                  "text": "피지컬 AI",
+                  "article_id": "258eb15df7f520674076"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "대기업이 AI와 로보틱스 등 미래 기술 분야 인재를 경영진으로 육성하려는 흐름을 보여준다.",
+          "article_ids": [
+            "258eb15df7f520674076"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "UNIST, 산업 현장 문제 해결할 AI 융합인재 2000명 양성",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "울산과학기술원이 조선해양과 자동차, 소재 등 동남권 주력산업의 인공지능 전환을 이끌 융합인재 2000명을 2030년까지 양성한다.",
+              "article_ids": [
+                "261d33294dd41919996e"
+              ],
+              "links": [
+                {
+                  "text": "울산과학기술원",
+                  "article_id": "261d33294dd41919996e"
+                },
+                {
+                  "text": "융합인재 2000명",
+                  "article_id": "261d33294dd41919996e"
+                }
+              ]
+            },
+            {
+              "text": "UNIST는 조선해양 AI, 피지컬 AI, 소재 AI 등 8개 AX융합전공을 마련해 2027학년도부터 부전공과 복수전공 형태로 운영한다.",
+              "article_ids": [
+                "261d33294dd41919996e"
+              ],
+              "links": [
+                {
+                  "text": "8개 AX융합전공",
+                  "article_id": "261d33294dd41919996e"
+                },
+                {
+                  "text": "2027학년도",
+                  "article_id": "261d33294dd41919996e"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "지역 주력산업의 AI 전환을 위해 대학이 산업 연계 교육 체계를 구축하는 사례다.",
+          "article_ids": [
+            "261d33294dd41919996e"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "구글 검색 AI 모드에 기록·개인화 제외 '임시 대화' 도입",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "구글이 검색 서비스의 AI 모드에 대화 기록과 개인화에 반영되지 않는 '임시 대화' 기능을 추가했다.",
+              "article_ids": [
+                "b645252bf8b5459808ba"
+              ],
+              "links": [
+                {
+                  "text": "임시 대화",
+                  "article_id": "b645252bf8b5459808ba"
+                }
+              ]
+            },
+            {
+              "text": "임시 대화에서는 과거 활동이나 선호도에 따른 맞춤형 답변을 제공하지 않으며, 대화 내용도 검색·AI 모드 기록이나 향후 개인화에 반영하지 않는다.",
+              "article_ids": [
+                "b645252bf8b5459808ba"
+              ],
+              "links": [
+                {
+                  "text": "맞춤형 답변",
+                  "article_id": "b645252bf8b5459808ba"
+                },
+                {
+                  "text": "개인화",
+                  "article_id": "b645252bf8b5459808ba"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 검색에서 사용자가 기록과 개인화를 선택적으로 통제할 수 있는 기능이 확대되고 있다.",
+          "article_ids": [
+            "b645252bf8b5459808ba"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "258eb15df7f520674076",
+          "title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치",
+          "published_at": "2026-11-19T13:48:18+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42810",
+              "title": "LG그룹, \"주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진\"…피지컬 AI·R&D 핵심인재 전진 배치",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "53196164c1fed5839815",
+          "title": "오픈AI, AI로 AMD GPU 설계 개선…“5개월 만에 1년치 진전”",
+          "published_at": "2026-11-19T09:25:39+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217562",
+              "title": "오픈AI, AI로 AMD GPU 설계 개선…“5개월 만에 1년치 진전”",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "261d33294dd41919996e",
+          "title": "UNIST, 산업 현장 문제 해결할 AI 융합인재 2000명 양성…조선해양·피지컬 AI 등 8개 전공 신설",
+          "published_at": "2026-11-19T09:24:36+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42808",
+              "title": "UNIST, 산업 현장 문제 해결할 AI 융합인재 2000명 양성…조선해양·피지컬 AI 등 8개 전공 신설",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "68036df060cc7e22a97c",
+          "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구",
+          "published_at": "2026-11-19T08:54:02+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217557",
+              "title": "MS, 바이트댄스에 오픈AI 모델 공급 확대 추진…미 의회 설명 요구",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "b645252bf8b5459808ba",
+          "title": "구글 검색 AI 모드에 ‘임시 대화’ 추가…기록 저장·개인화 제외",
+          "published_at": "2026-11-19T08:40:32+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217572",
+              "title": "구글 검색 AI 모드에 ‘임시 대화’ 추가…기록 저장·개인화 제외",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "82fa12bf2bafbd697077d7e192a9946e50916eebc6e3a204ad2d7fcd981da3ca"
+    },
+    {
       "id": "2026-11-19",
       "day": "2026-11-19",
       "scheduled_at": "2026-11-18T21:30:00+00:00",
