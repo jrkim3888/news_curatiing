@@ -3,6 +3,702 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "98b6f0fe61295fb30529",
+      "url": "https://unmark.grandimam.com/",
+      "title": "Show HN: Stop applying to jobs using AI-generated resume",
+      "original_title": "Show HN: Stop applying to jobs using AI-generated resume",
+      "published_at": "2026-11-21T10:21:01+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://unmark.grandimam.com/",
+          "title": "Show HN: Stop applying to jobs using AI-generated resume",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587783"
+        }
+      ]
+    },
+    {
+      "id": "b8046ec4adad37f155db",
+      "url": "https://openai.com/research/verify",
+      "title": "Verify OpenAI-Generated Content",
+      "original_title": "Verify OpenAI-Generated Content",
+      "published_at": "2026-11-21T10:16:11+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openai.com/research/verify",
+          "title": "Verify OpenAI-Generated Content",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587759"
+        }
+      ]
+    },
+    {
+      "id": "ce3b5c91c7a2135bbe6d",
+      "url": "https://tmrw.bearblog.dev/some-thoughts-on-ai-assisted-work",
+      "title": "Some thoughts on AI-assisted work",
+      "original_title": "Some thoughts on AI-assisted work",
+      "published_at": "2026-11-21T10:01:20+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tmrw.bearblog.dev/some-thoughts-on-ai-assisted-work",
+          "title": "Some thoughts on AI-assisted work",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587702"
+        }
+      ]
+    },
+    {
+      "id": "2484fa35e43b70b7873d",
+      "url": "https://addyo.substack.com/p/agentic-code-quality",
+      "title": "Agentic Code Quality – By Addy Osmani",
+      "original_title": "Agentic Code Quality – By Addy Osmani",
+      "published_at": "2026-11-21T10:00:41+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://addyo.substack.com/p/agentic-code-quality",
+          "title": "Agentic Code Quality – By Addy Osmani",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587694"
+        }
+      ]
+    },
+    {
+      "id": "026dba0dfeb6008ce4a4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+      "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+      "original_title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+      "published_at": "2026-11-21T09:55:59+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "일론 머스크 CEO의 우주 AI 데이터센터 구상이 자금 조달 과정에서 장애물을 만났다. 스페이스X에 수백억달러 규모의 GPU 구매 자금을 제공하는 채권단이 담보 회수가 어렵다는 이유로 반도체의 우주 반입을 제한하려 한 것으로 알려져, 우주 데이터센터의 경제성을 확보하는 데 금융 문제가 새로운 과제로 떠올랐다.파이낸셜…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+          "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\""
+        }
+      ]
+    },
+    {
+      "id": "a19ba2b6c5a6259a9e75",
+      "url": "https://clawvet.vercel.app/",
+      "title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+      "original_title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+      "published_at": "2026-11-21T09:40:06+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://clawvet.vercel.app/",
+          "title": "Show HN: ClawVet – Offline AST scanner and rug-pull diff for AI agent skills",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587571"
+        }
+      ]
+    },
+    {
+      "id": "e1150fe2f9e639cabfc4",
+      "url": "https://nexupira.com/news/memory-that-saves-itself",
+      "title": "We let our AI save memories by itself. What it got wrong in the first two days",
+      "original_title": "We let our AI save memories by itself. What it got wrong in the first two days",
+      "published_at": "2026-11-21T09:32:07+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://nexupira.com/news/memory-that-saves-itself",
+          "title": "We let our AI save memories by itself. What it got wrong in the first two days",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587530"
+        }
+      ]
+    },
+    {
+      "id": "bc70c510135e7c3eb8b2",
+      "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
+      "title": "Show HN: Factory worker maps AI safety arguments and open questions",
+      "original_title": "Show HN: Factory worker maps AI safety arguments and open questions",
+      "published_at": "2026-11-21T09:25:20+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://huggingface.co/datasets/AegisSolis/aegis-solis-crosswalk-rc9-public-research",
+          "title": "Show HN: Factory worker maps AI safety arguments and open questions",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587511"
+        }
+      ]
+    },
+    {
+      "id": "ca9ca5e0f6aa9bcb4fda",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+      "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+      "original_title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+      "published_at": "2026-11-21T09:20:47+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치가 40시간 수준으로 높아진 것으로, AI의 장시간 작업 수행 능력이 빠르게 발전하고 있으며 연구 판단력에서도 개선이 나…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+          "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\""
+        }
+      ]
+    },
+    {
+      "id": "288a7346dc29314507c0",
+      "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+      "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+      "original_title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+      "published_at": "2026-11-21T09:16:46+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://apnews.com/article/anthropic-history-openai-dario-amodei-ipo-53fb21bd250b936d93c5c8885af8d393",
+          "title": "Anthropic's IPO raises questions about AI safety and shareholder pressure",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587451"
+        }
+      ]
+    },
+    {
+      "id": "ff62a6d0a83feae45bdb",
+      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "original_title": "Google rolls out new search homepage with AI chat history and no search button",
+      "published_at": "2026-11-21T08:39:42+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
+          "title": "Google rolls out new search homepage with AI chat history and no search button",
+          "discussion_url": "https://news.ycombinator.com/item?id=50587246"
+        }
+      ]
+    },
+    {
+      "id": "04fd4e621ea3326650d2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217648",
+      "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
+      "original_title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
+      "published_at": "2026-11-21T07:39:48+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 '제미나이' 앱에 텍스트 프롬프트만으로 짧은 GIF 이미지를 만들 수 있는 기능을 추가했다. 오픈AI가 '챗GPT'에 GIF 생성 기능을 선보인 지 약 2주 만으로, 주요 AI 서비스 간 이미지·영상 생성 기능 경쟁이 치열해지고 있다.구글은 20일(현지시간) 공식 X 계정을 통해 제미나이 앱에 GIF 생성 기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217648",
+          "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입"
+        }
+      ]
+    },
+    {
+      "id": "47d25ef673cbb9937783",
+      "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem",
+      "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
+      "original_title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
+      "published_at": "2026-11-21T06:30:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Peter Hall / Scientific American : NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenA…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem",
+          "title": "NYU's Tristan Buckmaster and Anthropic's Levent Alpöge publish an AI-aided proof of Navier-Stokes blowup, saying it closes a loophole in OpenAI's solution (Peter Hall/Scientific American)",
+          "discussion_url": "https://www.techmeme.com/261121/p4"
+        }
+      ]
+    },
+    {
+      "id": "df1e3ba0c6d039185e91",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls",
+      "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
+      "original_title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
+      "published_at": "2026-11-21T06:00:55+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cheng Ting-Fang / Nikkei Asia : Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://asia.nikkei.com/business/tech/semiconductors/chip-supply-chain-warns-of-broader-disruption-from-new-us-export-controls",
+          "title": "Industry insiders say new US export rules affect a broader range of chips, including SoCs used in consumer electronics, extending beyond advanced AI chips (Cheng Ting-Fang/Nikkei Asia)",
+          "discussion_url": "https://www.techmeme.com/261121/p2"
+        }
+      ]
+    },
+    {
+      "id": "e9385cf1473672633012",
+      "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
+      "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
+      "original_title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
+      "published_at": "2026-11-21T05:15:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Sophie McEvoy / GamesIndustry.biz : Ubisoft launches Motherbrain, a subsidiary focused on developing “smart NPCs with memory and AI game masters that manage large-scale systemic…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
+          "title": "Ubisoft launches Motherbrain, a subsidiary focused on developing \"smart NPCs with memory and AI game masters that manage large-scale systemic worlds\" (Sophie McEvoy/GamesIndustry.biz)",
+          "discussion_url": "https://www.techmeme.com/261121/p1"
+        }
+      ]
+    },
+    {
+      "id": "38029ee187b000395f80",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
+      "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
+      "original_title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
+      "published_at": "2026-11-21T04:59:04+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국 화웨이(Huawei)가 금융기관의 인공지능(AI) 에이전트를 대규모로 개발하고 운영하기 위한 통합 솔루션을 공개했다. AI 에이전트 개발과 관리, 추론에 필요한 토큰 운영, 데이터와 지식 공급을 하나의 체계로 연결해 금융 AI를 개별 업무에서 전사적인 운영 환경으로 확대하는 것이 목표다.화웨이는 지난 19일(현…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
+          "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리"
+        }
+      ]
+    },
+    {
+      "id": "7d0959564fc58d825aed",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42835",
+      "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
+      "original_title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
+      "published_at": "2026-11-21T03:10:59+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "매사추세츠공과대학교(MIT) 연구진이 기상과 기후, 난류처럼 예측하기 어려운 복잡한 물리 시스템에서 인공지능(AI)의 예측값이 비현실적으로 무한히 커지는 현상을 방지하는 머신러닝 기술을 개발하고, 새로운 프레임워크를 20일(현지시간) 공개했다.이 프레임워크는 신경망에 에너지 소산 원리를 수학적 제약으로 적용해 장기간…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42835",
+          "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로"
+        }
+      ]
+    },
+    {
+      "id": "66621d2c4f20418a5b63",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217644",
+      "title": "\"젠슨 황, 20여년 전부터 직원들에게 폭언·위협\"…불만 제기 이어져",
+      "original_title": "\"젠슨 황, 20여년 전부터 직원들에게 폭언·위협\"…불만 제기 이어져",
+      "published_at": "2026-11-21T02:51:51+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아 직원들이 젠슨 황 전 CEO의 폭언과 공개적인 모욕을 동반한 경영 방식에 20여년 전부터 불만을 제기해 온 것으로 드러났다. 엔비디아가 AI 칩 시장을 장악하며 세계적인 기업으로 성장하는 동안에도 직원들을 위협하고 인격적으로 모욕하는 관리 방식이 이어졌다는 증언이 나왔다.뉴욕타임스(NYT)는 20일(현지시간…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217644",
+          "title": "\"젠슨 황, 20여년 전부터 직원들에게 폭언·위협\"…불만 제기 이어져"
+        }
+      ]
+    },
+    {
+      "id": "0abd8ab3e7b1f531245e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42834",
+      "title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축",
+      "original_title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축",
+      "published_at": "2026-11-21T02:42:46+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "영국 정부가 아동과 성인 사회복지 서비스에 인공지능(AI)을 안전하게 활용하기 위한 첫 범부문 지침을 20일(현지시간) 발표했다. 지방정부 시범사업에서는 AI 도입으로 사회복지사의 행정업무 시간이 63% 감소한 것으로 나타났다. 영국은 사례 기록과 정보 검색, 번역 등 반복적인 업무를 AI로 지원해 사회복지 종사자가…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42834",
+          "title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축"
+        }
+      ]
+    },
+    {
+      "id": "0d1b5dc7dfe66dafd11f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217646",
+      "title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구",
+      "original_title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구",
+      "published_at": "2026-11-21T02:37:50+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "도널드 트럼프 미국 대통령이 젠슨 황 전 엔비디아 CEO의 복귀를 다시 한번 촉구했다. 사생활 문제로 물러났지만 미국 AI 산업의 경쟁력을 위해 다시 기회를 줘야 한다며, 시진핑 중국 국가주석도 황을 높이 평가했다고 전했다.워싱턴포스트와 CNBC에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서 황 전 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217646",
+          "title": "트럼프 \"젠슨 황에 두 번째 기회 줘야\"…CEO 복귀 재촉구"
+        }
+      ]
+    },
+    {
+      "id": "9945d5df83615e6a2640",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217641",
+      "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수",
+      "original_title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수",
+      "published_at": "2026-11-21T02:25:40+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 민주당 하원의원들이 엔비디아가 중국으로의 반도체 불법 우회 수출 의혹을 받는 싱가포르 클라우드 기업 메가스피드에 대한 미 상무부 조사에 부당하게 개입했는지 조사에 착수했다. 엔비디아와 트럼프 행정부의 관계뿐 아니라 중국 반도체 수출통제 집행의 공정성까지 조사 대상에 올랐다.로이터와 블룸버그에 따르면 그레고리 믹…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217641",
+          "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수"
+        }
+      ]
+    },
+    {
+      "id": "1659372fe8d63a04f6e0",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
+      "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+      "original_title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+      "published_at": "2026-11-21T02:24:19+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "인간의 작업 경험을 로봇 학습 데이터로 전환하는 피지컬 AI(Physical AI) 스타트업 휴민랩스(Humyn Labs)가 벤처캐피털 액셀(Accel)이 주도한 4,700만달러(약 633억원) 규모의 시리즈 A 투자를 유치하고 한국을 포함한 글로벌 로봇 실증 인프라 구축에 나선다고 20일(현지시간) 밝혔다.이는 공…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
+          "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축"
+        }
+      ]
+    },
+    {
+      "id": "7f1fe8fc5c82616ef90d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42832",
+      "title": "메타, 뇌 연구 데이터 2만5천시간으로 확대…원자 수준 신약·효소 시뮬레이션 연구 강화",
+      "original_title": "메타, 뇌 연구 데이터 2만5천시간으로 확대…원자 수준 신약·효소 시뮬레이션 연구 강화",
+      "published_at": "2026-11-21T02:09:20+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "메타(Meta)가 인간의 뇌를 연구하기 위한 데이터 확보 목표를 2만5,000시간으로 확대하고, 인공지능(AI)을 활용한 신약 개발과 원자 수준의 분자 시뮬레이션 연구를 강화한다. 뇌과학부터 화학, 재료과학, 수학에 이르는 과학 연구에 오픈소스 AI 모델과 데이터를 활용해 연구 효율을 높이고 새로운 발견을 지원한다는…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42832",
+          "title": "메타, 뇌 연구 데이터 2만5천시간으로 확대…원자 수준 신약·효소 시뮬레이션 연구 강화"
+        }
+      ]
+    },
+    {
+      "id": "704f8c31faf83a4ccfeb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217643",
+      "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
+      "original_title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토",
+      "published_at": "2026-11-21T02:01:27+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "스페이스X의 AI 코딩 플랫폼 커서(Cursor)가 중국산 AI 모델의 사용을 단계적으로 중단하는 방안을 검토하고 있다. 미국 의회가 자국 기술 생태계에서 중국산 AI 모델의 사용 현황을 조사하면서, 기업들의 의존도를 줄이려는 움직임도 본격화하고 있다.CNBC는 20일(현지시간) 미국 하원 국토안보위원회와 중국특별위…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217643",
+          "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토"
+        }
+      ]
+    },
+    {
+      "id": "30dfbcb974ec4f7dd7f7",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
+      "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
+      "original_title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
+      "published_at": "2026-11-21T01:59:20+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)가 인공지능(AI) 모델의 비공개 추론 정보를 탈취하는 공격에 대한 방어 체계를 강화해 내부 평가에서 공격 성공률을 54.0%에서 0.2%로 낮췄다. AI가 정답을 도출하는 과정에서 생성하는 추론 기록을 보호하고, 해당 정보를 이용해 고성능 AI 모델의 능력을 무단 복제하는 행위를 차단하기 위한…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
+          "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화"
+        }
+      ]
+    },
+    {
+      "id": "cb7d09a3e358c5c4676b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+      "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+      "original_title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+      "published_at": "2026-11-21T01:42:02+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "도널드 트럼프 미국 대통령과 시진핑 중국 국가주석이 AI를 활용한 군사적 의사결정에는 인간이 개입해야 한다는 원칙에 합의했다. 양국이 AI 기술 패권을 놓고 경쟁하는 상황에서도 주요 군사작전을 AI가 독자적으로 수행해서는 안 된다는 데 뜻을 모은 것으로, 2024년 핵무기 사용 결정에 관한 합의보다 적용 범위가 넓어…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+          "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용"
+        }
+      ]
+    },
+    {
+      "id": "bf913a72d224887ff6b3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217645",
+      "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락",
+      "original_title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락",
+      "published_at": "2026-11-21T01:32:11+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 증권거래위원회(SEC)가 엔비디아의 회계 처리 문제를 조사하는 것으로 알려지면서 주가가 14% 폭락했다. 젠슨 황 전 CEO 퇴진에 이어 회계 처리와 매출 공시의 신뢰성에 대한 의문까지 제기되면서 시가총액이 알파벳 아래로 떨어지고 2008년 금융위기 이후 최장 주간 하락세를 기록했다.로이터는 20일(현지시간) …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217645",
+          "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락"
+        }
+      ]
+    },
+    {
+      "id": "ea942efa0de84f303565",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217636",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
+      "original_title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작",
+      "published_at": "2026-11-21T01:00:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글·그림 Dr. Alf…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217636",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, 코스모스의 시작"
+        }
+      ]
+    },
+    {
+      "id": "c179dacdf0a4446b6d5c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217642",
+      "title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\"",
+      "original_title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\"",
+      "published_at": "2026-11-21T00:49:09+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "도널드 트럼프 미국 대통령이 해외에 데이터센터를 건설하는 미국 기업에 막대한 세금을 부과하겠다고 밝혔다. 미국 내 AI 인프라 투자를 늘리겠다는 취지로, 실제 시행된다면 미국 빅테크 기업들의 글로벌 데이터센터 투자에 상당한 영향을 미칠 전망이다.로이터 등에 따르면 트럼프 대통령은 20일(현지시간) 백악관 기자회견에서…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217642",
+          "title": "트럼프 \"해외에 데이터센터 짓는 미국 기업에 막대한 세금 부과\""
+        }
+      ]
+    },
+    {
+      "id": "5e67595de89d331dca4b",
+      "url": "https://x.com/oracle/status/2123884437045760420",
+      "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+      "original_title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+      "published_at": "2026-11-21T00:25:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "@oracle : Oracle says it has secured funding for its infrastructure contract with OpenAI and “any further private discussions with vendors are just additional options” — Oracle …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://x.com/oracle/status/2123884437045760420",
+          "title": "Oracle says it has secured funding for its infrastructure contract with OpenAI and \"any further private discussions with vendors are just additional options\" (@oracle)",
+          "discussion_url": "https://www.techmeme.com/261120/p43"
+        }
+      ]
+    },
+    {
+      "id": "81ead1b67f6b0920f47e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217616",
+      "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
+      "original_title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진",
+      "published_at": "2026-11-21T00:15:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 비수도권 AI 데이터센터 가운데 계약전력 50메가와트(MW) 이하 시설에 대한 전력계통영향평가를 면제하는 방안을 추진한다. AI 데이터센터 특구에는 평가 간소화를, 메가프로젝트와 인허가 일괄처리 대상에는 우선 심사를 도입할 계획이다.과학기술정보통신부와 기후에너지환경부는 20일 AI 데이터센터의 신속한 구축을 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217616",
+          "title": "비수도권 AI 데이터센터, 50MW 이하 전력계통영향평가 면제 추진"
+        }
+      ]
+    },
+    {
+      "id": "4633dea0f980dbdf292b",
+      "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&sharetype=gift&token=c6d010aa-7792-4679-9ca7-57a6e433dc70",
+      "title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
+      "original_title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
+      "published_at": "2026-11-20T23:50:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "George Steer / Financial Times : Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/9f3c6ed6-c08f-4710-9683-ee2f5eb25841?accessToken=zwAAAaH7iyodkdOfPG7WwI9HENOWg-4vXrJYQQ.MEUCIBpLGE0aJbtCmwWNv_LKucqNz9Ocf7fm-YnyZKCTrYwqAiEAktOWNoh6vwsi_l2Mn4Um3T0q7WOVs8JCm-pwJwLLrcA&sharetype=gift&token=c6d010aa-7792-4679-9ca7-57a6e433dc70",
+          "title": "Nasdaq 100 fell 5.6% on Friday, taking its loss for the week to 10.4%, its worst run in more than six years, amid fears of a slowdown in the AI investment boom (George Steer/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261120/p42"
+        }
+      ]
+    },
+    {
+      "id": "66b034d07f0b63490aef",
+      "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+      "title": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+      "original_title": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+      "published_at": "2026-11-20T23:00:01+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kai Nicol-Schwarz / CNBC : Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to “geopolitical risk”; Cursor's Composer 2 was built on Kimi K…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/20/cursor-chinese-ai-models-geopolitical-risk.html",
+          "title": "Cursor tells lawmakers it is considering phasing out Chinese open-weight AI models due to \"geopolitical risk\"; Cursor's Composer 2 was built on Kimi K2.5 (Kai Nicol-Schwarz/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261120/p39"
+        }
+      ]
+    },
+    {
+      "id": "f4aa7e73ff18e43d05bc",
+      "url": "https://artificialanalysis.ai/articles/inkling-2-mini",
+      "title": "Artificial Analysis says Inkling 2 Mini, with 5.4B active parameters, matches Qwen3.8 27B (xhigh) on its Intelligence Index with ~5x fewer active parameters (Artificial Analysis)",
+      "original_title": "Artificial Analysis says Inkling 2 Mini, with 5.4B active parameters, matches Qwen3.8 27B (xhigh) on its Intelligence Index with ~5x fewer active parameters (Artificial Analysis)",
+      "published_at": "2026-11-20T22:10:00+00:00",
+      "collected_at": "2026-11-21T10:42:49+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Artificial Analysis : Artificial Analysis says Inkling 2 Mini, with 5.4B active parameters, matches Qwen3.8 27B (xhigh) on its Intelligence Index with ~5x fewer active parameter…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://artificialanalysis.ai/articles/inkling-2-mini",
+          "title": "Artificial Analysis says Inkling 2 Mini, with 5.4B active parameters, matches Qwen3.8 27B (xhigh) on its Intelligence Index with ~5x fewer active parameters (Artificial Analysis)",
+          "discussion_url": "https://www.techmeme.com/261120/p37"
+        }
+      ]
+    },
+    {
       "id": "6454c07bbd7e68cebf81",
       "url": "https://tufalabs.ai/research/tufazip",
       "title": "A Transformer Compressed 1GB of Wikipedia to 105MB",
@@ -615,14 +1311,14 @@
     {
       "id": "b519b3a26a3955660950",
       "url": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro",
-      "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
+      "title": "로봇 토크 171회: 세바스찬 카스트로와 로봇 행동 프로그래밍",
       "original_title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro",
       "published_at": "2026-11-20T13:33:55+00:00",
       "collected_at": "2026-11-20T22:08:27+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "Claire chatted to Sebastian Castro about developing open-source software for robot task planning and behaviour. Sebastian Castro is an independent roboticist specializing in rob…",
       "sources": [
         {
@@ -630,7 +1326,16 @@
           "url": "https://robohub.org/robot-talk-episode-171-programming-robot-behaviour-with-sebastian-castro",
           "title": "Robot Talk Episode 171 – Programming robot behaviour, with Sebastian Castro"
         }
-      ]
+      ],
+      "summary": "로봇 토크 171회에서 클레어가 세바스찬 카스트로와 로봇 작업 계획 및 행동을 위한 오픈소스 소프트웨어 개발에 대해 대화를 나눴다. 카스트로는 로봇 조작을 전문으로 하는 독립 로보티시스트로 현재 NASA 존슨 우주 센터의 덱스터러스 로보틱스 그룹과 계약 중이며, 이전에는 RAI 연구소, 픽닉, 보스턴 다이내믹스, MIT CSAIL에서 소프트웨어 엔지니어로 일했다.",
+      "why_it_matters": "오픈소스 로봇 소프트웨어와 교육 활동이 로봇 공학 접근성을 높이는 데 기여할 수 있다는 점을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-21T10:43:25+00:00",
+        "input_hash": "dd5861c910d0dab53afa77e39ce185b9e0a42c5cc944878d81d7f75887c0bd93",
+        "evidence_verified": true
+      }
     },
     {
       "id": "31d8fb0a8a920ac80708",
@@ -1862,14 +2567,14 @@
     {
       "id": "8145fefb47ff1ca9fa55",
       "url": "https://openai.com/business/customer-stories/hebbia",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "title": "Hebbia, GPT-6 Astra 테스트에서 금융 리서치 개선 보고",
       "original_title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "published_at": "2026-11-20T00:00:00+00:00",
       "collected_at": "2026-11-20T22:08:27+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality.…",
       "sources": [
         {
@@ -1877,7 +2582,16 @@
           "url": "https://openai.com/business/customer-stories/hebbia",
           "title": "Hebbia sees improvements in financial research with GPT-6 Astra"
         }
-      ]
+      ],
+      "summary": "Hebbia가 2026년 8~9월 사전 출시 빌드로 GPT-6 Astra를 테스트한 결과, 인용 관련성 99.5%, 프레젠테이션 요구사항 충족률 97.9%를 기록했다고 발표했다. 회사는 테스트한 대안 모델 대비 각각 13.6%포인트, 14.4%포인트 우위를 보였다고 밝혔다.",
+      "why_it_matters": "금융 리서치에서 AI의 출처 추적성과 프레젠테이션 품질이 실무 채택의 핵심 기준이 될 수 있음을 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-21T10:43:20+00:00",
+        "input_hash": "e337ed4d8ee53bec63799ac3f63d376646bb81265b2b21b84179422879afcb69",
+        "evidence_verified": true
+      }
     },
     {
       "id": "701a571706ec6c00de8b",
@@ -3472,14 +4186,14 @@
     {
       "id": "9342dbf934e428aa00c1",
       "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "title": "OpenAI, ChatGPT 성능 유지 위한 '퍼포먼스 팩토리' 공개",
       "original_title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "published_at": "2026-11-19T08:00:00+00:00",
       "collected_at": "2026-11-19T22:35:35+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.…",
       "sources": [
         {
@@ -3487,7 +4201,16 @@
           "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
           "title": "How OpenAI’s Performance Factory keeps ChatGPT fast"
         }
-      ]
+      ],
+      "summary": "OpenAI가 Codex 기반 자율 시스템인 퍼포먼스 팩토리를 도입해 ChatGPT의 성능 회귀를 자동으로 탐지·수정한다고 발표했다. 이 시스템은 클라우드에서 실행되며, 회귀 워크플로를 통해 3개월여 동안 1,700건 이상의 조사를 추적하고 600건 이상의 근본 원인을 규명했다고 한다. OpenAI는 이 워크플로가 조사부터 수정 제안, 배포 후 검증까지 자동화한다고 설명했다.",
+      "why_it_matters": "에이전트 기반 자동화가 성능 엔지니어링에 적용되며 운영 효율을 높일 가능성을 보여주지만, OpenAI의 자체 발표로 독립적 검증은 아직 없다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-21T10:43:09+00:00",
+        "input_hash": "1fdd6f8ca1d93e449a49064b4d7993f078fea39dd46664c74915add01d41b325",
+        "evidence_verified": true
+      }
     },
     {
       "id": "7ecc3e4fce2c36249d43",
@@ -3977,14 +4700,14 @@
     {
       "id": "a890a236270cc5e31862",
       "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "title": "Deploying Daybreak Red",
+      "title": "OpenAI, 감독 보안 조사를 위한 Daybreak Red 배포 가이드 공개",
       "original_title": "Deploying Daybreak Red",
       "published_at": "2026-11-19T00:00:00+00:00",
       "collected_at": "2026-11-20T10:58:52+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.…",
       "sources": [
         {
@@ -3992,7 +4715,16 @@
           "url": "https://openai.com/business/learn/deploying-daybreak-red",
           "title": "Deploying Daybreak Red"
         }
-      ]
+      ],
+      "summary": "OpenAI가 2026년 11월 19일 감독 보안 조사를 위한 참조 아키텍처인 Daybreak Red 배포 가이드를 공개했다. 이 가이드는 격리된 환경 설정, 아키텍처, 안전 제어, 환경 구성, 조사 실행 및 모니터링 방법을 다룬다. 전체 가이드는 PDF로 제공된다.",
+      "why_it_matters": "보안 조사에 AI를 활용하려는 조직이 격리 환경과 안전 제어를 어떻게 구성할지 참고할 수 있는 자료를 OpenAI가 제시했다는 점에서 의미가 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-21T10:43:12+00:00",
+        "input_hash": "36234f851696e8f769d63410979ce58320687251f296bee6b915dd5e715e2cf8",
+        "evidence_verified": true
+      }
     },
     {
       "id": "82fe289fe466dcc1d4f7",
