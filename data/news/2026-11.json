@@ -545,14 +545,14 @@
     {
       "id": "7220e54bdf8a93f9a841",
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
-      "title": "Quoting Levent Alpöge",
+      "title": "수학자, 클로드와 리만 가설 증명 주장",
       "original_title": "Quoting Levent Alpöge",
       "published_at": "2026-11-20T16:30:48+00:00",
       "collected_at": "2026-11-20T22:08:27+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann…",
       "sources": [
         {
@@ -560,7 +560,17 @@
           "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
           "title": "Quoting Levent Alpöge"
         }
-      ]
+      ],
+      "summary": "수학자 레벤트 알포게는 클로드와 함께 리만 가설의 증명을 발견했으며 방법이 일반화 리만 가설로도 확장된다고 주장했다. 그는 클로드와 논증을 가정 없이 형식화했다고 밝혔지만, 이 주장은 아직 독립적으로 검증되지 않았다.",
+      "why_it_matters": "AI가 수학 연구의 공동 도구로 쓰일 수 있다는 주장이지만 검증 전에는 신중한 해석이 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "7bc0a1e683d218ca910a6bdb221935e9127cadb39e2986b9d52a7929e97af287",
+        "evidence_verified": true
+      }
     },
     {
       "id": "bc6cd0668a9d5bb9fc16",
@@ -820,14 +830,14 @@
     {
       "id": "7ad44f990f0c53ef2e2a",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "title": "Combatting adversarial distillation",
+      "title": "오픈AI, 적대적 증류 대응과 GPT-6.2 보호 추론 강화 발표",
       "original_title": "Combatting adversarial distillation",
       "published_at": "2026-11-20T10:00:00+00:00",
       "collected_at": "2026-11-20T22:08:27+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.…",
       "sources": [
         {
@@ -835,7 +845,17 @@
           "url": "https://openai.com/index/combatting-adversarial-distillation",
           "title": "Combatting adversarial distillation"
         }
-      ]
+      ],
+      "summary": "오픈AI는 프런티어 모델 출력을 무단으로 학습에 이용하는 적대적 증류의 안전 위험과 대응 방안을 공개했다. 회사는 GPT-6.2 아스트라와 솔에서 보호 추론 추출 방어를 강화했고, 내부 평가에서 평균 공격 성공률이 54.0%에서 0.2%로 낮아졌다고 밝혔다.",
+      "why_it_matters": "모델의 추론 과정을 보호하는 것이 안전장치 유지의 핵심 조건이 되고 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "4f90286517d16a873b3a2d3f3816c7ac4d810d622fdd1a6f2da33c0faea1fc0f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "7ba3306faa6d99a7cfd7",
@@ -882,14 +902,14 @@
     {
       "id": "fe5c4aba1d64fbaf84f7",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42830",
-      "title": "도이치텔레콤, 미스트랄에 1억 유로 투자…독일 소버린 AI 인프라와 유럽산 AI 모델 결합",
+      "title": "도이치텔레콤, 미스트랄에 1억 유로 투자하고 소버린 AI 협력",
       "original_title": "도이치텔레콤, 미스트랄에 1억 유로 투자…독일 소버린 AI 인프라와 유럽산 AI 모델 결합",
       "published_at": "2026-11-20T09:43:14+00:00",
       "collected_at": "2026-11-20T10:58:52+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "독일 최대 통신기업 도이치텔레콤(Deutsche Telekom)이 프랑스 인공지능(AI) 기업 미스트랄 AI(Mistral AI)에 1억 유로(약 1467억원)를 투자하고, 독일의 소버린 AI 생태계 구축에 나선다. 자국 내 AI 인프라와 유럽산 고성능 AI 모델을 결합해 기업과 공공기관이 데이터 통제권을 유지하면서…",
       "sources": [
         {
@@ -897,7 +917,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42830",
           "title": "도이치텔레콤, 미스트랄에 1억 유로 투자…독일 소버린 AI 인프라와 유럽산 AI 모델 결합"
         }
-      ]
+      ],
+      "summary": "도이치텔레콤이 티캐피털 테크 펀드를 통해 미스트랄의 시리즈 D 라운드에 1억 유로를 투자하고 독일 소버린 AI 서비스 확대를 위한 전략적 협력을 추진한다. 양사는 제조업과 규제 산업, 공공기관을 대상으로 데이터 통제권을 유지하는 AI 도입을 지원할 계획이다.",
+      "why_it_matters": "유럽이 자체 인프라와 모델을 결합해 해외 플랫폼 의존을 줄이려는 시도로 읽힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "13316d68fb32a1eee9a6d381673b3443a5218b16c2eac0f37b04a7a0790f2cef",
+        "evidence_verified": true
+      }
     },
     {
       "id": "9d32a0beee769b55b9f1",
@@ -963,14 +993,14 @@
     {
       "id": "7b1cc1852e08fd1703c0",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
-      "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
+      "title": "비공개 모델 게슈탈트, 디자인 평가서 인간 전문가 제쳐",
       "original_title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위",
       "published_at": "2026-11-20T08:30:00+00:00",
       "collected_at": "2026-11-20T10:58:52+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "개발사가 공개되지 않은 AI 모델 '게슈탈트(Gestalt)'가 실제 기업의 웹사이트와 앱 제작 과제를 활용한 디자인 평가에서 인간 전문 디자이너와 주요 AI 기업의 모델을 모두 제치고 1위를 차지했다. 전문 디자이너들이 직접 결과물을 비교하는 블라인드 평가에서 인간이 제작한 디자인보다 높은 점수를 받은 것이다.미국…",
       "sources": [
         {
@@ -978,19 +1008,29 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217630",
           "title": "정체불명 모델 '게슈탈트', 디자인 평가서 인간 전문가 제치고 1위"
         }
-      ]
+      ],
+      "summary": "콘트라 랩스와 벤치플로우가 공개한 프론티어 디자인 벤치마크에서 비공개 모델 게슈탈트가 1931점과 승률 90%로 1위를 차지했다. 게슈탈트는 인간 디자이너 결과물과 비교한 28차례 평가 중 20차례 선택을 받아 약 71%의 선호도를 기록했다.",
+      "why_it_matters": "디자인 품질 평가에서 비공개 모델이 앞서면서 AI 창작 능력 검증 방식에 관심이 커진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "381fb94a38f3aed940c6853c060313b91b6af3491a4dd97c23bdcce96f1f97ad",
+        "evidence_verified": true
+      }
     },
     {
       "id": "14bd3cb67d2396135d8e",
       "url": "https://byline.network/2026/11/1120-8",
-      "title": "과기정통부, AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화",
+      "title": "과기정통부, AI 데이터센터 특별법 하위법령 입법예고",
       "original_title": "과기정통부, AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화",
       "published_at": "2026-11-20T08:21:47+00:00",
       "collected_at": "2026-11-20T10:58:52+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "과학기술정보통신부는 20일 인공지능 데이터센터(AIDC) 신속 구축을 위한 「인공지능 데이터센터 산업 진흥에 관한 특별법」 하위법령 제정안을 입법예고했다. AIDC 인정 기준과 신고 절차를 마련하고 인허가 일괄처리 기한, 전력계통영향평가 면제 기준, 비수도권 특구 지정 요건 등을 구체화했다. 입법예고 기간은 20일부…",
       "sources": [
         {
@@ -998,19 +1038,29 @@
           "url": "https://byline.network/2026/11/1120-8",
           "title": "과기정통부, AIDC 특별법 하위법령 입법예고…인허가·전력평가 기준 구체화"
         }
-      ]
+      ],
+      "summary": "과학기술정보통신부가 AI 데이터센터 인정 기준과 신고 절차, 인허가 일괄처리 기한, 전력계통영향평가 면제 기준 등을 담은 하위법령 제정안을 입법예고했다. 제정안은 인공지능 가속기를 일정 규모 이상 보유하고 설계전력비율이 1.5 이하인 시설을 AI 데이터센터로 규정한다.",
+      "why_it_matters": "인허가와 전력 기준이 구체화되면 AI 데이터센터 사업의 예측 가능성이 높아진다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "34d704d35ecd39d31642b38b82a554a39825b6e7f153bfcd1bb511cf023875cd",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ad16eaaa16ad5a095c77",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
-      "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
+      "title": "오픈AI, 응답 지연 허용하면 API 요금 최대 40% 할인",
       "original_title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인",
       "published_at": "2026-11-20T08:17:56+00:00",
       "collected_at": "2026-11-20T10:58:52+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "오픈AI가 AI 모델의 응답 속도에 따라 API 요금을 차등 적용하는 새로운 과금 방식을 선보였다. 개발자가 응답 완료까지 기다릴 수 있는 시간을 길게 설정하면 최대 40%까지 비용을 절감할 수 있어, 대규모 AI 작업을 수행하는 기업과 개발자의 비용 부담을 줄일 수 있게 됐다.오픈AI는 18일(현지시간) API 요…",
       "sources": [
         {
@@ -1018,7 +1068,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217632",
           "title": "오픈AI, 'GPT-6.2' 응답 늦게 받으면 API 요금 최대 40% 할인"
         }
-      ]
+      ],
+      "summary": "오픈AI가 리스폰스 API 백그라운드 모드에 완료 시간 옵션을 추가해 2시간 목표는 30%, 8시간 목표는 40% 요금을 할인한다. 대상은 GPT-6.2 아스트라와 솔, GPT-6.1 테라, GPT-6 루나 등 4종이며 현재 공개 베타로 제공된다.",
+      "why_it_matters": "즉각 응답이 필요 없는 대량 작업의 비용을 낮춰 기업의 AI 활용 범위를 넓힐 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "377e7ba255602d0caa9ebd2916d1c21ff2dd3b79d129250ab25794b34d09696c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a41090d7d2634f2b7039",
@@ -1103,14 +1163,14 @@
     {
       "id": "013454505aefcfea9ada",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42828",
-      "title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 '포스 디자인 2026' 공개",
+      "title": "미 공군, AI·자율무기 중심 포스 디자인 2026 공개",
       "original_title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 '포스 디자인 2026' 공개",
       "published_at": "2026-11-20T07:42:41+00:00",
       "collected_at": "2026-11-20T10:58:52+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "美 공군이 인공지능(AI)과 자율 시스템, 무인체계, 첨단 센서 등을 결합해 미래 공중전 수행 방식을 재편하는 새로운 전력 설계 전략을 발표했다. 개별 전투기와 무기체계의 성능을 높이는 기존 접근에서 벗어나 유·무인 전력과 지휘통제 시스템을 통합하고, 통신망이 교란되거나 일부 전력이 손실된 상황에서도 전투력을 지속적…",
       "sources": [
         {
@@ -1118,7 +1178,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42828",
           "title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 '포스 디자인 2026' 공개"
         }
-      ]
+      ],
+      "summary": "미 공군이 AI와 자율 시스템, 무인체계를 결합해 미래 전투력을 재편하는 전력 설계 전략 포스 디자인 2026을 발표했다. 다만 구체적인 무기 도입 규모와 예산, 자율화 수준, 개발 일정은 기밀로 분류돼 공개되지 않았다.",
+      "why_it_matters": "AI와 자율화가 개별 무기를 넘어 전력 구성과 작전 방식의 핵심 요소로 다뤄지고 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "54af6aa835543d54e6d176cfc4ae9d8b4739fa9fb149af253fdf86448d878da7",
+        "evidence_verified": true
+      }
     },
     {
       "id": "c363f4c936e7192d6f75",
@@ -1762,14 +1832,14 @@
     {
       "id": "824c03b970f1dc58cad6",
       "url": "https://huggingface.co/blog/inkling2mini",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "title": "허깅페이스, 로컬용 모델 잉클링 2 미니 공개",
       "original_title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "published_at": "2026-11-20T00:00:00+00:00",
       "collected_at": "2026-11-20T22:08:27+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "",
       "sources": [
         {
@@ -1777,7 +1847,17 @@
           "url": "https://huggingface.co/blog/inkling2mini",
           "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup"
         }
-      ]
+      ],
+      "summary": "허깅페이스 블로그는 루프 구조를 적용한 멀티모달 전문가 혼합 모델 잉클링 2 미니를 소개했다. 이 모델은 물리적 전체 파라미터 약 260억 개와 토큰당 활성 파라미터 30억 개를 갖추고 100만 토큰 문맥과 이미지 입력을 지원한다.",
+      "why_it_matters": "로컬 환경에서 구동 가능한 고성능 모델의 선택지가 늘어나는 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-21T02:42:48+00:00",
+        "briefing_day": "2026-11-21",
+        "input_hash": "10f39c0ba8825a161471abddd6b740347b1fcf7f0cec27e9f720b51b9cf16045",
+        "evidence_verified": true
+      }
     },
     {
       "id": "8145fefb47ff1ca9fa55",
