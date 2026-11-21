@@ -3,6 +3,234 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "e8d0826fab28e298a9e1",
+      "url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
+      "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
+      "original_title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
+      "published_at": "2026-11-21T20:14:20+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
+          "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50593191"
+        }
+      ]
+    },
+    {
+      "id": "8319ee5cb7b80e328007",
+      "url": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+      "title": "Windows: Run larger local AI models across PCs",
+      "original_title": "Windows: Run larger local AI models across PCs",
+      "published_at": "2026-11-21T19:50:50+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://techcommunity.microsoft.com/blog/microsoftusbblog/introducing-rdma-over-usb4%c2%ae-on-windows-run-larger-local-ai-models-across-pcs/4574602",
+          "title": "Windows: Run larger local AI models across PCs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50592949"
+        }
+      ]
+    },
+    {
+      "id": "2936e29c4350933ef7fd",
+      "url": "https://tenarticles.org/",
+      "title": "The Universal Declaration on AI – The Promethean Covenant",
+      "original_title": "The Universal Declaration on AI – The Promethean Covenant",
+      "published_at": "2026-11-21T19:39:08+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tenarticles.org/",
+          "title": "The Universal Declaration on AI – The Promethean Covenant",
+          "discussion_url": "https://news.ycombinator.com/item?id=50592850"
+        }
+      ]
+    },
+    {
+      "id": "5656a37849c51997931a",
+      "url": "https://echo.ls/zden-level-halv",
+      "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
+      "original_title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
+      "published_at": "2026-11-21T19:19:03+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://echo.ls/zden-level-halv",
+          "title": "Gemini 4 Neon solves Bitcoin puzzle from 2024",
+          "discussion_url": "https://news.ycombinator.com/item?id=50592648"
+        }
+      ]
+    },
+    {
+      "id": "4dd09b39c9c29eee4567",
+      "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
+      "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+      "original_title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+      "published_at": "2026-11-21T18:55:01+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China — C…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9",
+          "title": "Investigation: Alice Huang had ties to gaming firms, alleged Prince Group figures and hundreds of shell companies in a network moving Nvidia chips to China (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261121/p9"
+        }
+      ]
+    },
+    {
+      "id": "3eb42e37997e0e5e2c9b",
+      "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+      "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+      "original_title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+      "published_at": "2026-11-21T17:55:01+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week — Acquisit…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/dc7749dc-0f40-44a6-80bc-7f747d383616",
+          "title": "Sources: Amazon is nearing a $7.5B deal to buy AI startup Decart; talks are at an advanced stage and a deal could come together as soon as next week (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261121/p8"
+        }
+      ]
+    },
+    {
+      "id": "f52216bdae320c5247f4",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "original_title": "Here are the top AI agents that can live in your text messages",
+      "published_at": "2026-11-21T17:00:00+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages",
+          "title": "Here are the top AI agents that can live in your text messages"
+        }
+      ]
+    },
+    {
+      "id": "f2e0e504895b9fb3da93",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "original_title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "published_at": "2026-11-21T16:00:00+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Holly…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood",
+          "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?"
+        }
+      ]
+    },
+    {
+      "id": "bbe553c12567334f10fc",
+      "url": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?smid=url-share&unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18",
+      "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
+      "original_title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
+      "published_at": "2026-11-21T15:10:01+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "New York Times : Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/20/business/china-ai-investment-spending.html?smid=url-share&unlocked_article_code=1.SFE.jZ7m.KdwX3UsrRw18",
+          "title": "Rhodium: China's biggest tech companies are set to double capex to $139B in 2026 with AI lab revenue under 8% of it, a gap that may matter more than chip curbs (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261121/p7"
+        }
+      ]
+    },
+    {
+      "id": "ec1fffeb1bfe9519720d",
+      "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c",
+      "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
+      "original_title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
+      "published_at": "2026-11-21T11:30:01+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cristina Criddle / Financial Times : An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/6f807d57-f0ea-4251-9f4d-75a6edc8d49a?accessToken=zwAAAaH8y_kikc9vgH1X8OpCUdOfTXWm7cjUmg.MEQCIACh-UVIJLvZdJk2Ho7Q-qsVRoQLNyCmy5zPK9w3Y1lTAiB-BgoDqcF7LPJ1R7yF4te0TrGCjIV8E56IAgl4GYcrnA&sharetype=gift&token=956073db-4440-473e-97bd-a0af2932464c",
+          "title": "An interview with Google DeepMind in-house philosopher Henry Shevlin on being hired to work on machine consciousness, human-AI relationships, and AGI readiness (Cristina Criddle/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261121/p6"
+        }
+      ]
+    },
+    {
+      "id": "d4b1c5b56b23d7cf2261",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+      "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+      "original_title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+      "published_at": "2026-11-21T10:48:17+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "이재명 대통령이 21일, 울산 SK AI데이터센터 건설 현장을 방문해 사업 추진 상황을 점검하고, 인공지능(AI) 인프라 확충을 통한 국가 경쟁력 강화와 지역 균형발전의 중요성을 강조했다. 특히 데이터센터의 안정적인 전력 공급과 전문인력 확보를 주요 과제로 제시하며 정부 차원의 지원 방안을 검토하겠다는 뜻을 밝혔다.…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+          "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검"
+        }
+      ]
+    },
+    {
       "id": "98b6f0fe61295fb30529",
       "url": "https://unmark.grandimam.com/",
       "title": "Show HN: Stop applying to jobs using AI-generated resume",
@@ -737,6 +965,12 @@
           "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
           "title": "Leaky AI supply chain is exposing secret user data at an alarming rate",
           "discussion_url": "https://news.ycombinator.com/item?id=50582794"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "title": "Researchers used canary credentials in requests to AI routers like OpenRouter and Vercel, even under \"ZDR\" policies, and saw \"privacy\" often broken, keys stolen (Dan Goodin/Ars Technica)",
+          "discussion_url": "https://www.techmeme.com/261121/p10"
         }
       ]
     },
@@ -2261,6 +2495,35 @@
           "title": "加 베이글 랩스, 로봇 제어 오픈 웨이트 AI 모델 세계 3위…GPT-6 아스트라 평가 점수 앞서"
         }
       ]
+    },
+    {
+      "id": "f54713977487b6ec70c4",
+      "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+      "title": "llm-gemini 0.38.1, Gemini 4 모델 추론 수준 설정 수정",
+      "original_title": "llm-gemini 0.38.1",
+      "published_at": "2026-11-20T03:01:57+00:00",
+      "collected_at": "2026-11-21T20:47:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: llm-gemini 0.38.1 Gemini 4 Carbon only supports low , medium and high reasoning levels - but Gemini 4 Hydrogen and Gemini 4 Neon both have an extra xhigh level. I misse…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/20/llm-gemini",
+          "title": "llm-gemini 0.38.1"
+        }
+      ],
+      "summary": "llm-gemini 플러그인 0.38.1 버전이 공개됐다. Gemini 4 Carbon은 low, medium, high 추론 수준만 지원하지만 Gemini 4 Hydrogen과 Gemini 4 Neon은 추가로 xhigh 수준을 지원하는데, 이를 플러그인에 모델 추가 시 누락했던 문제가 이번 닷 릴리스에서 수정됐다. 작성자는 Hydrogen의 xhigh 설정이 상당한 차이를 만든다며 비교 그리드를 갱신했다고 밝혔다.",
+      "why_it_matters": "추론 수준 설정이 모델별로 다를 수 있어 플러그인에서 이를 정확히 반영하는 것이 중요하다는 점을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-21T20:48:01+00:00",
+        "input_hash": "4ab5499ab1ca97e87769ce2fd95aa86b047aceb3ebec1b460d831c2f33b5b532",
+        "evidence_verified": true
+      }
     },
     {
       "id": "4a2e5bb7d6ae2fe57eb6",
