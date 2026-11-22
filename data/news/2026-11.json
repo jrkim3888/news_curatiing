@@ -3,6 +3,361 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "8b9eabb65a4bf74f449e",
+      "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+      "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
+      "original_title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
+      "published_at": "2026-11-22T20:46:37+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
+          "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603702"
+        }
+      ]
+    },
+    {
+      "id": "c1b97cc64a62dc13bbf9",
+      "url": "https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally",
+      "title": "The Crazy AI People Are Directionally Correct",
+      "original_title": "The Crazy AI People Are Directionally Correct",
+      "published_at": "2026-11-22T20:40:19+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.conspicuouscognition.com/p/the-crazy-ai-people-are-directionally",
+          "title": "The Crazy AI People Are Directionally Correct",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603655"
+        }
+      ]
+    },
+    {
+      "id": "00ef13dcf1e5d3ec17fe",
+      "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+      "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+      "original_title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+      "published_at": "2026-11-22T20:35:00+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Garrett Downs / CNBC : After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for “bumps in the road” as systems are upgraded to adapt to the AI a…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/22/jay-clayton-tech-outages-faa-microsoft-thanksgiving.html",
+          "title": "After FAA, Microsoft, and bank outages, DNI Jay Clayton says Americans should prepare for \"bumps in the road\" as systems are upgraded to adapt to the AI age (Garrett Downs/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261122/p11"
+        }
+      ]
+    },
+    {
+      "id": "3a621f8c1c8e3d8e9913",
+      "url": "https://garybake.com/how-much-can-i-hand-to-claude.html",
+      "title": "How much can I hand to Claude and still own the feature?",
+      "original_title": "How much can I hand to Claude and still own the feature?",
+      "published_at": "2026-11-22T20:04:39+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://garybake.com/how-much-can-i-hand-to-claude.html",
+          "title": "How much can I hand to Claude and still own the feature?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603356"
+        }
+      ]
+    },
+    {
+      "id": "7f361335264ac00a674c",
+      "url": "https://smarterarticles.co.uk/ai-rebounding-why-companies-are-rehiring-the-workers-they-cut",
+      "title": "AI Rebounding: Why Companies Are Rehiring the Workers They Cut",
+      "original_title": "AI Rebounding: Why Companies Are Rehiring the Workers They Cut",
+      "published_at": "2026-11-22T19:50:44+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://smarterarticles.co.uk/ai-rebounding-why-companies-are-rehiring-the-workers-they-cut",
+          "title": "AI Rebounding: Why Companies Are Rehiring the Workers They Cut",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603221"
+        }
+      ]
+    },
+    {
+      "id": "2c57b9b7bfe83955db0d",
+      "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+      "title": "What Happened in Fall 2026: AI and P vs. NP",
+      "original_title": "What Happened in Fall 2026: AI and P vs. NP",
+      "published_at": "2026-11-22T19:50:36+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cacm.acm.org/blogcacm/what-happened-in-fall-2026-ai-and-p-vs-np",
+          "title": "What Happened in Fall 2026: AI and P vs. NP",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603219"
+        }
+      ]
+    },
+    {
+      "id": "4c85dae7b92c491e7460",
+      "url": "https://github.com/miloshke/ai-privacy-cloak",
+      "title": "AI Privacy Cloak",
+      "original_title": "AI Privacy Cloak",
+      "published_at": "2026-11-22T19:50:15+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/miloshke/ai-privacy-cloak",
+          "title": "AI Privacy Cloak",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603212"
+        }
+      ]
+    },
+    {
+      "id": "7c2cdff92f5740e3e8d1",
+      "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+      "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+      "original_title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+      "published_at": "2026-11-22T19:50:01+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alan Rappeport / New York Times : A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nv…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
+          "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261122/p10"
+        }
+      ]
+    },
+    {
+      "id": "55ccdc37372cd7191021",
+      "url": "https://asi.anahata.uno/ifptoasi/greenpaper.html",
+      "title": "First Java AI Agent/Harness capable of mutating its own bytecode at runtime",
+      "original_title": "First Java AI Agent/Harness capable of mutating its own bytecode at runtime",
+      "published_at": "2026-11-22T19:37:56+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://asi.anahata.uno/ifptoasi/greenpaper.html",
+          "title": "First Java AI Agent/Harness capable of mutating its own bytecode at runtime",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603104"
+        }
+      ]
+    },
+    {
+      "id": "d93fff1c9db1620e0859",
+      "url": "https://notnottalmud.substack.com/p/the-lottery-of-career-success-or",
+      "title": "The lottery of career success: or why you may want to bribe OpenAI",
+      "original_title": "The lottery of career success: or why you may want to bribe OpenAI",
+      "published_at": "2026-11-22T19:21:38+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://notnottalmud.substack.com/p/the-lottery-of-career-success-or",
+          "title": "The lottery of career success: or why you may want to bribe OpenAI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50602959"
+        }
+      ]
+    },
+    {
+      "id": "5b7e83713e908a053185",
+      "url": "https://roow.work/blog/claude-and-your-business-data",
+      "title": "How to safely work with business data in Claude",
+      "original_title": "How to safely work with business data in Claude",
+      "published_at": "2026-11-22T19:20:12+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://roow.work/blog/claude-and-your-business-data",
+          "title": "How to safely work with business data in Claude",
+          "discussion_url": "https://news.ycombinator.com/item?id=50602946"
+        }
+      ]
+    },
+    {
+      "id": "84d0e5892b68e0f56691",
+      "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later",
+      "title": "\"Prosaic AI alignment\": 10 years later",
+      "original_title": "\"Prosaic AI alignment\": 10 years later",
+      "published_at": "2026-11-22T19:20:03+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.lesswrong.com/posts/pfZWd2dLy7wRaDKYa/prosaic-ai-alignment-10-years-later",
+          "title": "\"Prosaic AI alignment\": 10 years later",
+          "discussion_url": "https://news.ycombinator.com/item?id=50602944"
+        }
+      ]
+    },
+    {
+      "id": "47b2738e2872fd88c166",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "original_title": "Why data centers are at the center of the Big Tech backlash",
+      "published_at": "2026-11-22T18:08:43+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+          "title": "Why data centers are at the center of the Big Tech backlash"
+        }
+      ]
+    },
+    {
+      "id": "f402c39d8412b9fdf735",
+      "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22",
+      "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+      "original_title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+      "published_at": "2026-11-22T17:15:01+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals — For …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22",
+          "title": "Sources: amid leak fears, Anthropic limited some IPO banks to four-person teams, used a view-logging file platform, and sought six-month bans on advising rivals (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261122/p8"
+        }
+      ]
+    },
+    {
+      "id": "fc690aee93bd492c13e7",
+      "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android",
+      "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "original_title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+      "published_at": "2026-11-22T15:15:25+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android",
+          "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android"
+        }
+      ]
+    },
+    {
+      "id": "8383b22eca75087e6e26",
+      "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?smid=url-share&unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx",
+      "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+      "original_title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+      "published_at": "2026-11-22T15:00:34+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jonah Weiner / New York Times : Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with “taste” as a moat against AI slop and whether AI c…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/20/magazine/ai-slop-taste-aesthetic-silicon-valley.html?smid=url-share&unlocked_article_code=1.SFE.1a6T.-kpbFF_tJYZx",
+          "title": "Jony Ive, ex-OpenAI product designer Joey Flynn, and others on Silicon Valley's obsession with \"taste\" as a moat against AI slop and whether AI can learn it (Jonah Weiner/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261122/p7"
+        }
+      ]
+    },
+    {
+      "id": "5076171625fcedded32f",
+      "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&sharetype=gift&token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1",
+      "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
+      "original_title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
+      "published_at": "2026-11-22T11:01:10+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Tom Wilson / Financial Times : Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more qu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/3cf882c6-0be6-43f5-b01e-b6f765686c8b?accessToken=zwAAAaH84u1pkc88-ILGC-ZD9dOwHrb3ZWhsiw.MEQCIEewq-yMEhWLLFytskbl4UfRofl-P5tnaU_ItSGndPYsAiB5E9iR8KtH8A9y5DsKiZxw46YWH_09vwzWKRqKB451VA&sharetype=gift&token=78da349b-c4b7-48c6-8dfa-5cf8d65ca0f1",
+          "title": "Experts say AI has made planning cyberattacks on industrial equipment faster by helping attackers read manuals and research past accidents more quickly (Tom Wilson/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261122/p6"
+        }
+      ]
+    },
+    {
       "id": "855d31a636b15ee64b8f",
       "url": "https://www.noahpinion.blog/p/ai-people-are-very-very-very-very",
       "title": "AI People Are Extremely Rich",
@@ -595,6 +950,41 @@
           "title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\""
         }
       ]
+    },
+    {
+      "id": "1a10f1676d46fc01a909",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "title": "OpenAI, 퍼플렉시티를 AI 발전·안전 표준 지표로 제안",
+      "original_title": "Perplexity and Intelligence",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "collected_at": "2026-11-22T20:56:26+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "summarized",
+      "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "title": "Perplexity and Intelligence"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "title": "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
+          "discussion_url": "https://www.techmeme.com/261122/p9"
+        }
+      ],
+      "summary": "OpenAI의 수석과학자 Jakub Pachocki는 퍼플렉시티(교차 엔트로피 손실)를 모델 개발사 간 비교와 공유 안전 기준 마련을 위한 지표로 삼자고 제안했다. 그는 GPT-3.5부터의 내부 퍼플렉시티 측정치를 공개하며, 로그 퍼플렉시티가 약 0.99에서 0.91, 0.8 이하로 낮아짐에 따라 대화, 사고 연쇄 추론, 사이버보안·수학 분야의 능력이 나타났다고 밝혔다. 또한 약 0.68~0.7 구간에서 추가적 변혁적 능력이 나올 것으로 전망하며, 개발사들이 공통 한계와 투명성 기준을 정하자고 제안했다.",
+      "why_it_matters": "퍼플렉시티를 업계 공통 지표로 삼자는 제안은 AI 발전 속도와 안전 기준을 둘러싼 논의에서 측정과 투명성의 기준을 마련하려는 시도로 읽힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-22T20:56:48+00:00",
+        "input_hash": "87d05b29b4d1928840bed2488227b8c4e1f261b83964f65c136426f24fc8003f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6441bbdb3f2fe08325a9",
@@ -2097,6 +2487,12 @@
           "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
           "title": "Many longtime Etsy sellers say they are leaving after Etsy updated its terms to say Etsy and its third-party partners can use sellers' content for AI training (Reggie Ugwu/New York Times)",
           "discussion_url": "https://www.techmeme.com/261120/p35"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+          "title": "Many Etsy Sellers Close Up Shop over Site's New AI Policy",
+          "discussion_url": "https://news.ycombinator.com/item?id=50603729"
         }
       ]
     },
