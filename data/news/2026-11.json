@@ -3,6 +3,407 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "c58c2ea61f6116e9db12",
+      "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots",
+      "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+      "original_title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+      "published_at": "2026-11-22T00:10:02+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wired : Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches “zero espionage” executive girlfriends — The Jensen…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/regular-tech-bros-are-worried-about-honeypots",
+          "title": "Matchmakers say more tech workers fear romantic espionage after the Jensen Huang scandal; an AI companion app pitches \"zero espionage\" executive girlfriends (Wired)",
+          "discussion_url": "https://www.techmeme.com/261121/p11"
+        }
+      ]
+    },
+    {
+      "id": "03fca9cfc3f484b83d2e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+      "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+      "original_title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+      "published_at": "2026-11-22T00:09:35+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI와 앤트로픽이 하루 간격으로 '챗GPT'와 '클로드'의 모바일 앱을 개편했다. 개인 AI 에이전트와 코딩, 프로젝트 관리 기능을 전면에 배치해 이용자가 스마트폰에서도 AI에 작업을 맡기고 진행 상황을 확인하기 쉽게 만들었다.오픈AI는 19일(현지시간) 공식 릴리스 노트를 통해 챗GPT의 새로운 모바일 디자인을…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+          "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에"
+        }
+      ]
+    },
+    {
+      "id": "041f8426d580822d7c27",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42838",
+      "title": "최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안",
+      "original_title": "최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안",
+      "published_at": "2026-11-22T00:09:31+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "최태원 SK그룹 회장 겸 최종현학술원 이사장이 인공지능(AI)을 일상적인 환경으로 받아들이는 'AI 네이티브 사회'에 대응하기 위해 대학 교육체계를 근본적으로 재설계해야 한다고 강조했다. 특히 한국과 일본의 기업·대학이 공동으로 AI 인재를 육성하고, 양국의 인턴십과 일자리를 연계하는 협력 프로그램을 제안했다.최종현…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42838",
+          "title": "최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안"
+        }
+      ]
+    },
+    {
+      "id": "83ae64bf4f80d585c15e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+      "title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\"",
+      "original_title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\"",
+      "published_at": "2026-11-22T00:00:00+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "LG유플러스가 AI 사업의 본격적인 성과 창출과 통신 본업의 경쟁력 강화를 목표로 2027년 조직개편을 단행했다고 밝혔다. 급변하는 AI 시장 환경에 민첩하게 대응하고, 핵심 사업의 실행력을 높이기 위해 사업과 기술 전반의 조직 체계를 재정비했다는 설명이다.22일 발표에 따르면, 이번 조직개편의 핵심은 ‘AI 사업 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+          "title": "LGU+ 조직개편...\"AI 사업 성과 창출 가속\""
+        }
+      ]
+    },
+    {
+      "id": "6441bbdb3f2fe08325a9",
+      "url": "https://2tinteractive.com/watch/episodes/5736",
+      "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
+      "original_title": "Anthropic Claude down: Why it said it was unable to authenticate code",
+      "published_at": "2026-11-21T23:56:30+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://2tinteractive.com/watch/episodes/5736",
+          "title": "Anthropic Claude down: Why it said it was unable to authenticate code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594846"
+        }
+      ]
+    },
+    {
+      "id": "aaa55aaf598950923826",
+      "url": "https://simonwillison.net/2026/Nov/21/muru",
+      "title": "Graham Dumpleton, 20년 만에 AI 지원 Rust 서버 'Muru' 공개",
+      "original_title": "Muru",
+      "published_at": "2026-11-21T23:56:28+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-ass…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/21/muru",
+          "title": "Muru"
+        }
+      ],
+      "summary": "mod_wsgi를 만든 Graham Dumpleton이 ASGI와 WSGI Python 앱을 개발 및 프로덕션 환경에서 실행하기 위한 새로운 AI 지원 Rust 서버 Muru를 공개했다. 그는 2026년 11월 4일부터 21일까지 약 3주간 프로젝트 개발 과정을 상세히 기록한 글들을 연속으로 게시했다. 그는 AI가 표면적인 작업을 많이 하지만 무엇이 아직 충분하지 않은지 판단하는 것은 자신의 몫이라며, 20년간 mod_wsgi를 다루며 겪은 시행착오가 그 판단에 유용하다고 밝혔다.",
+      "why_it_matters": "20년 된 WSGI 생태계의 저자가 Rust와 AI 지원 개발을 결합해 차세대 Python 서버를 모색한다는 점에서, Python 웹 서빙 환경의 변화 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-22T00:59:45+00:00",
+        "input_hash": "78049a21fc68428d93aa24a716b889598ecf1087177e765fe7448f71691f9fa6",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "020a12755ba13fc6ee14",
+      "url": "https://worldfoundry-demo.vercel.app/",
+      "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+      "original_title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+      "published_at": "2026-11-21T23:53:34+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://worldfoundry-demo.vercel.app/",
+          "title": "Show HN: WorldFoundry – AI agents need experience, not just training data",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594826"
+        }
+      ]
+    },
+    {
+      "id": "f5ce245827953e4cd626",
+      "url": "https://bitbin.de/neon-trajectories",
+      "title": "Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench",
+      "original_title": "Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench",
+      "published_at": "2026-11-21T23:51:50+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bitbin.de/neon-trajectories",
+          "title": "Gemini 4 Neon used 64,067 exclamation marks on Terminal-Bench",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594818"
+        }
+      ]
+    },
+    {
+      "id": "6e3efbaed60551e31782",
+      "url": "https://mirevox.dev/",
+      "title": "Modular workflow governance and evals for AI-DLC",
+      "original_title": "Modular workflow governance and evals for AI-DLC",
+      "published_at": "2026-11-21T23:48:33+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://mirevox.dev/",
+          "title": "Modular workflow governance and evals for AI-DLC",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594796"
+        }
+      ]
+    },
+    {
+      "id": "729aeed786bac75c0d5c",
+      "url": "https://carlkolon.com/2026/11/21/careers-age-of-ai",
+      "title": "Careers in the Age of AI",
+      "original_title": "Careers in the Age of AI",
+      "published_at": "2026-11-21T23:37:35+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://carlkolon.com/2026/11/21/careers-age-of-ai",
+          "title": "Careers in the Age of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594742"
+        }
+      ]
+    },
+    {
+      "id": "6434faa0bbaa347ecc39",
+      "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math",
+      "title": "Anthropic mathematician proves Riemann hypothesis",
+      "original_title": "Anthropic mathematician proves Riemann hypothesis",
+      "published_at": "2026-11-21T23:32:15+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math",
+          "title": "Anthropic mathematician proves Riemann hypothesis",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594702"
+        }
+      ]
+    },
+    {
+      "id": "f749e49b348b0101bafe",
+      "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
+      "title": "Fley AI Update 1.2v a voice AI assistant",
+      "original_title": "Fley AI Update 1.2v a voice AI assistant",
+      "published_at": "2026-11-21T23:26:32+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://fileknot.io/1f4410ab016d2e4d/FLEY_AI_Setup1.2.exe",
+          "title": "Fley AI Update 1.2v a voice AI assistant",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594667"
+        }
+      ]
+    },
+    {
+      "id": "60761832689e48e00f3b",
+      "url": "https://github.com/DevDizzle/gammarips-harness",
+      "title": "Open-source harness and MCP dataset for options trading with AI agents",
+      "original_title": "Open-source harness and MCP dataset for options trading with AI agents",
+      "published_at": "2026-11-21T23:20:48+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/DevDizzle/gammarips-harness",
+          "title": "Open-source harness and MCP dataset for options trading with AI agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594625"
+        }
+      ]
+    },
+    {
+      "id": "0f10d4d32c0b15aba34a",
+      "url": "https://www.saywhichai.org/",
+      "title": "Say which AI wrote it: AI transparency for Open Source projects",
+      "original_title": "Say which AI wrote it: AI transparency for Open Source projects",
+      "published_at": "2026-11-21T22:59:47+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.saywhichai.org/",
+          "title": "Say which AI wrote it: AI transparency for Open Source projects",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594493"
+        }
+      ]
+    },
+    {
+      "id": "dadcef3c2dd1ec64aa9e",
+      "url": "https://keepplain.com/blame",
+      "title": "Show HN: Git blame for AI code, down to the agent session",
+      "original_title": "Show HN: Git blame for AI code, down to the agent session",
+      "published_at": "2026-11-21T22:51:04+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://keepplain.com/blame",
+          "title": "Show HN: Git blame for AI code, down to the agent session",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594433"
+        }
+      ]
+    },
+    {
+      "id": "35b8b2990785489f7c6c",
+      "url": "https://github.com/CAPPZ-ai/cappz-sdk",
+      "title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
+      "original_title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
+      "published_at": "2026-11-21T22:49:35+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/CAPPZ-ai/cappz-sdk",
+          "title": "Cappz – AI agents sell work to each other, paid per stage on XRPL",
+          "discussion_url": "https://news.ycombinator.com/item?id=50594426"
+        }
+      ]
+    },
+    {
+      "id": "f6f5282ad9e3c36becf8",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "original_title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "published_at": "2026-11-21T21:37:10+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
+          "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance"
+        }
+      ]
+    },
+    {
+      "id": "044fb7804e00ac8eecfa",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+      "title": "A tale of two Nvidias",
+      "original_title": "A tale of two Nvidias",
+      "published_at": "2026-11-21T21:07:42+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias",
+          "title": "A tale of two Nvidias"
+        }
+      ]
+    },
+    {
+      "id": "0c56a2d824bd837618d2",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+      "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+      "original_title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+      "published_at": "2026-11-21T20:59:45+00:00",
+      "collected_at": "2026-11-22T00:59:23+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포메이션은 20일(현지시간) 복수…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+          "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진"
+        }
+      ]
+    },
+    {
       "id": "e8d0826fab28e298a9e1",
       "url": "https://tech.yahoo.com/general/article/are-all-of-these-outages-a-coincidence--or-a-glimpse-of-our-ai-future-210035788.html",
       "title": "Are all of these outages a coincidence – or a glimpse of our AI future?",
