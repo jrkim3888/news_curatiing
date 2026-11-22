@@ -3,6 +3,328 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-22",
+      "day": "2026-11-22",
+      "scheduled_at": "2026-11-21T21:30:00+00:00",
+      "generated_at": "2026-11-22T01:30:17+00:00",
+      "window_start": "2026-11-20T21:00:00+00:00",
+      "window_end": "2026-11-21T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI 인프라 확충과 대규모 투자, 자금과 규제가 관건",
+      "takeaway": "오늘의 한 줄: AI 인프라와 반도체를 둘러싼 대규모 투자 구상이 이어지고 있지만, 전력·자금·규제라는 현실적 조건이 실현 가능성을 좌우하고 있습니다.",
+      "overview": [
+        {
+          "text": "이재명 대통령이 울산 SK AI데이터센터 건설 현장을 방문해 공사 진행 상황을 점검하고, 안정적인 전력 공급과 전문인력 확보를 주요 과제로 제시했습니다. 이 데이터센터는 정부가 추진하는 메가프로젝트 가운데 가장 먼저 2027년 말 운영을 시작할 예정이며, 지역 균형발전과 AI 인프라 확충을 연계하려는 정부 전략의 시험대가 될 전망입니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러에 인수하는 방안을 검토한 것으로 알려졌지만, 막대한 자금 조달과 한국 정부의 승인 문제로 현재는 추진하지 않고 있습니다. 머스크의 우주 데이터센터 구상도 채권단이 담보로 제공된 엔비디아 반도체의 우주 반입을 제한하려 하면서 금융 장벽에 부딪혔습니다. 두 사례 모두 AI 반도체와 인프라를 둘러싼 대규모 자금 조달에서 담보 가치와 규제가 핵심 변수로 떠오르고 있음을 보여줍니다.",
+          "issue_ids": [
+            "issue-2",
+            "issue-3"
+          ]
+        },
+        {
+          "text": "AI 안전성 평가기관 METR은 최첨단 모델이 인간 전문가 기준 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다고 발표했습니다. 다만 어떤 연구를 수행할 가치가 있는지 판단하는 연구 판단력에서는 여전히 인간 전문가에게 뒤처지는 것으로 나타났습니다. 화웨이는 금융기관의 AI 에이전트를 대규모로 개발하고 운영하기 위한 통합 솔루션을 공개하며, 금융 AI의 경쟁력이 개별 모델 성능에서 운영 역량으로 이동하고 있다고 진단했습니다.",
+          "issue_ids": [
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "이재명 대통령, 울산 SK AI데이터센터 건설 현장 점검",
+          "category": "정책·사회",
+          "facts": [
+            {
+              "text": "이재명 대통령이 21일 울산 남구 미포국가산업단지 내 SK AI데이터센터 건설 현장을 방문해 공사 진행 상황과 주요 설비 구축 현황을 점검했다.",
+              "article_ids": [
+                "d4b1c5b56b23d7cf2261"
+              ],
+              "links": [
+                {
+                  "text": "울산 남구 미포국가산업단지",
+                  "article_id": "d4b1c5b56b23d7cf2261"
+                },
+                {
+                  "text": "SK AI데이터센터",
+                  "article_id": "d4b1c5b56b23d7cf2261"
+                }
+              ]
+            },
+            {
+              "text": "이 대통령은 데이터센터의 안정적인 전력 공급과 전문인력 확보를 주요 과제로 제시하며 정부 차원의 지원 방안을 검토하겠다고 밝혔다.",
+              "article_ids": [
+                "d4b1c5b56b23d7cf2261"
+              ],
+              "links": [
+                {
+                  "text": "전력 공급",
+                  "article_id": "d4b1c5b56b23d7cf2261"
+                },
+                {
+                  "text": "전문인력 확보",
+                  "article_id": "d4b1c5b56b23d7cf2261"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "국가 AI 인프라 확충과 지역 균형발전을 연계하려는 정부의 전략이 구체적인 현장 점검으로 이어지고 있다.",
+          "article_ids": [
+            "d4b1c5b56b23d7cf2261"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "손정의 소프트뱅크, SK하이닉스 1조달러 인수 검토 보도",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러에 인수하는 초대형 거래를 검토한 것으로 알려졌으며, 현재는 추진하지 않고 있다.",
+              "article_ids": [
+                "0c56a2d824bd837618d2"
+              ],
+              "links": [
+                {
+                  "text": "SK하이닉스",
+                  "article_id": "0c56a2d824bd837618d2"
+                },
+                {
+                  "text": "1조달러",
+                  "article_id": "0c56a2d824bd837618d2"
+                }
+              ]
+            },
+            {
+              "text": "SK하이닉스는 보도에 언급된 사안에 대해 전혀 알지 못한다며 외국 기업의 인수에는 정부의 사전 승인이 필요하다고 밝혔다.",
+              "article_ids": [
+                "0c56a2d824bd837618d2"
+              ],
+              "links": [
+                {
+                  "text": "정부의 사전 승인",
+                  "article_id": "0c56a2d824bd837618d2"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI 반도체 공급망의 핵심인 고대역폭메모리 사업을 둘러싼 대규모 인수 가능성이 제기됐지만, 자금 조달과 정부 승인 문제로 실현 가능성은 불투명하다.",
+          "article_ids": [
+            "0c56a2d824bd837618d2"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "머스크 우주 데이터센터 구상, GPU 담보 회수 문제로 금융 장벽",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "스페이스X의 대규모 GPU 금융 거래에 참여한 채권단이 담보로 제공된 엔비디아 반도체를 우주 궤도로 발사하지 못하도록 계약상 제한을 요구했다.",
+              "article_ids": [
+                "026dba0dfeb6008ce4a4"
+              ],
+              "links": [
+                {
+                  "text": "엔비디아 반도체",
+                  "article_id": "026dba0dfeb6008ce4a4"
+                },
+                {
+                  "text": "우주 궤도",
+                  "article_id": "026dba0dfeb6008ce4a4"
+                }
+              ]
+            },
+            {
+              "text": "스페이스X는 아폴로 글로벌 매니지먼트와 골드만삭스와 함께 약 440억달러 규모의 GPU 관련 채권 발행 조건을 확정했으며, 자금은 미국 내 지상 데이터센터 구축에 사용될 예정이다.",
+              "article_ids": [
+                "026dba0dfeb6008ce4a4"
+              ],
+              "links": [
+                {
+                  "text": "440억달러",
+                  "article_id": "026dba0dfeb6008ce4a4"
+                },
+                {
+                  "text": "지상 데이터센터",
+                  "article_id": "026dba0dfeb6008ce4a4"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "우주 데이터센터의 경제성을 확보하려면 기존 AI 인프라 금융 방식과 다른 담보 구조가 필요하다는 점이 드러났다.",
+          "article_ids": [
+            "026dba0dfeb6008ce4a4"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "METR, 최첨단 AI 작업 수행 능력 40시간 수준 도달 발표",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "AI 안전성 평가기관 METR은 오픈AI의 GPT-6 아스트라와 앤트로픽의 클로드 오퍼스 5.5 등 최첨단 모델이 장시간 전문 작업에서 인간과 비슷하거나 더 뛰어난 성과를 보였다고 밝혔다.",
+              "article_ids": [
+                "ca9ca5e0f6aa9bcb4fda"
+              ],
+              "links": [
+                {
+                  "text": "GPT-6 아스트라",
+                  "article_id": "ca9ca5e0f6aa9bcb4fda"
+                },
+                {
+                  "text": "클로드 오퍼스 5.5",
+                  "article_id": "ca9ca5e0f6aa9bcb4fda"
+                }
+              ]
+            },
+            {
+              "text": "METR은 시간 지평이 두 배로 늘어나는 기간을 평균 3.61개월로 추정했으며, AI가 스스로 연구 성과를 판단할 수 있느냐가 연구개발 자동화의 핵심 변수라는 분석도 나왔다.",
+              "article_ids": [
+                "ca9ca5e0f6aa9bcb4fda"
+              ],
+              "links": [
+                {
+                  "text": "3.61개월",
+                  "article_id": "ca9ca5e0f6aa9bcb4fda"
+                },
+                {
+                  "text": "연구개발 자동화",
+                  "article_id": "ca9ca5e0f6aa9bcb4fda"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "AI의 장시간 작업 수행 능력이 빠르게 향상되고 있지만, 연구 판단력에서는 여전히 인간 전문가에게 뒤처진다는 한계가 확인됐다.",
+          "article_ids": [
+            "ca9ca5e0f6aa9bcb4fda"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "화웨이는 싱가포르 핀테크 페스티벌 2026에서 금융기관을 위한 핀텔리전트 AI 솔루션을 선보였으며, 에이전트 팩토리와 토큰 팩토리, 데이터·지식 팩토리 등 3개 지능형 팩토리로 구성된다.",
+              "article_ids": [
+                "38029ee187b000395f80"
+              ],
+              "links": [
+                {
+                  "text": "핀텔리전트 AI 솔루션",
+                  "article_id": "38029ee187b000395f80"
+                },
+                {
+                  "text": "에이전트 팩토리",
+                  "article_id": "38029ee187b000395f80"
+                }
+              ]
+            },
+            {
+              "text": "화웨이 디지털 금융 부문 CEO는 고객용 슈퍼 에이전트와 직원용 슈퍼 에이전트를 중심으로 다수의 전문 에이전트를 연결하는 아키텍처를 소개했다.",
+              "article_ids": [
+                "38029ee187b000395f80"
+              ],
+              "links": [
+                {
+                  "text": "고객용 슈퍼 에이전트",
+                  "article_id": "38029ee187b000395f80"
+                },
+                {
+                  "text": "직원용 슈퍼 에이전트",
+                  "article_id": "38029ee187b000395f80"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "금융 AI의 경쟁력이 개별 모델 성능에서 기업 전체의 운영 역량으로 이동하고 있으며, 에이전트를 안정적으로 운영하는 기반 기술의 중요성이 커지고 있다.",
+          "article_ids": [
+            "38029ee187b000395f80"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "0c56a2d824bd837618d2",
+          "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+          "published_at": "2026-11-21T20:59:45+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
+              "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "d4b1c5b56b23d7cf2261",
+          "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+          "published_at": "2026-11-21T10:48:17+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+              "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "026dba0dfeb6008ce4a4",
+          "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+          "published_at": "2026-11-21T09:55:59+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
+              "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "ca9ca5e0f6aa9bcb4fda",
+          "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+          "published_at": "2026-11-21T09:20:47+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
+              "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        },
+        {
+          "id": "38029ee187b000395f80",
+          "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
+          "published_at": "2026-11-21T04:59:04+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes_kr",
+              "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
+              "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
+              "name": "인공지능신문",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "3670adcfbebecf5b1837cfced472acbd06af23f066f739f6d069cd539bc43aa5"
+    },
+    {
       "id": "2026-11-21",
       "day": "2026-11-21",
       "scheduled_at": "2026-11-20T21:30:00+00:00",

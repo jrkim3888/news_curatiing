@@ -386,14 +386,14 @@
     {
       "id": "0c56a2d824bd837618d2",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
-      "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
+      "title": "손정의, SK하이닉스 1조달러 인수 검토 보도",
       "original_title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진",
       "published_at": "2026-11-21T20:59:45+00:00",
       "collected_at": "2026-11-22T00:59:23+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "산업·비즈니스",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러(약 1350조원)에 인수하는 초대형 거래를 검토한 것으로 알려졌다. AI 반도체 공급망의 핵심인 고대역폭메모리(HBM) 사업까지 확보하려는 구상이었지만, 막대한 인수 자금과 한국 정부의 승인 문제 등으로 현재는 추진하지 않고 있다.디 인포메이션은 20일(현지시간) 복수…",
       "sources": [
         {
@@ -401,7 +401,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217653",
           "title": "손정의, SK하이닉스 1조달러 인수 검토…월가에 자금 조달 타진"
         }
-      ]
+      ],
+      "summary": "손정의 소프트뱅크 회장이 SK하이닉스를 1조달러에 인수하는 초대형 거래를 검토한 것으로 알려졌으나, 현재는 추진하지 않고 있습니다. SK하이닉스는 보도에 언급된 사안을 알지 못한다며 외국 기업의 인수에는 정부의 사전 승인이 필요하다고 밝혔습니다.",
+      "why_it_matters": "AI 반도체 공급망의 핵심인 고대역폭메모리 사업을 둘러싼 대규모 인수 가능성이 제기됐지만, 자금 조달과 정부 승인 문제로 실현 가능성은 불투명합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "b5428f5376251c9e473e73530005a879bfd93770cf8357cf84e80f4033454896",
+        "evidence_verified": true
+      }
     },
     {
       "id": "e8d0826fab28e298a9e1",
@@ -614,14 +624,14 @@
     {
       "id": "d4b1c5b56b23d7cf2261",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
-      "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+      "title": "이재명 대통령, 울산 SK AI데이터센터 건설 현장 점검",
       "original_title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
       "published_at": "2026-11-21T10:48:17+00:00",
       "collected_at": "2026-11-21T20:47:40+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "이재명 대통령이 21일, 울산 SK AI데이터센터 건설 현장을 방문해 사업 추진 상황을 점검하고, 인공지능(AI) 인프라 확충을 통한 국가 경쟁력 강화와 지역 균형발전의 중요성을 강조했다. 특히 데이터센터의 안정적인 전력 공급과 전문인력 확보를 주요 과제로 제시하며 정부 차원의 지원 방안을 검토하겠다는 뜻을 밝혔다.…",
       "sources": [
         {
@@ -629,7 +639,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
           "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검"
         }
-      ]
+      ],
+      "summary": "이재명 대통령이 21일 울산 남구 미포국가산업단지 내 SK AI데이터센터 건설 현장을 방문해 공사 진행 상황과 주요 설비 구축 현황을 확인했습니다. 이 대통령은 데이터센터의 안정적인 전력 공급과 전문인력 확보를 주요 과제로 제시하며 정부 차원의 지원 방안을 검토하겠다고 밝혔습니다.",
+      "why_it_matters": "국가 AI 인프라 확충과 지역 균형발전을 연계하려는 정부 전략이 구체적인 현장 점검으로 이어지고 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "43c61f5102039382d6f28d89438d31e29ec0bfed3a3800ce10bd1de87a466f24",
+        "evidence_verified": true
+      }
     },
     {
       "id": "98b6f0fe61295fb30529",
@@ -718,14 +738,14 @@
     {
       "id": "026dba0dfeb6008ce4a4",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
-      "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
+      "title": "머스크 우주 데이터센터, GPU 담보 회수 문제로 금융 장벽",
       "original_title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\"",
       "published_at": "2026-11-21T09:55:59+00:00",
       "collected_at": "2026-11-21T10:42:49+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "일론 머스크 CEO의 우주 AI 데이터센터 구상이 자금 조달 과정에서 장애물을 만났다. 스페이스X에 수백억달러 규모의 GPU 구매 자금을 제공하는 채권단이 담보 회수가 어렵다는 이유로 반도체의 우주 반입을 제한하려 한 것으로 알려져, 우주 데이터센터의 경제성을 확보하는 데 금융 문제가 새로운 과제로 떠올랐다.파이낸셜…",
       "sources": [
         {
@@ -733,7 +753,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217650",
           "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\""
         }
-      ]
+      ],
+      "summary": "스페이스X의 대규모 GPU 금융 거래에 참여한 채권단이 담보로 제공된 엔비디아 반도체를 우주 궤도로 발사하지 못하도록 계약상 제한을 요구했습니다. 스페이스X는 약 440억달러 규모의 GPU 관련 채권 발행 조건을 확정했으며, 자금은 미국 내 지상 데이터센터 구축에 사용될 예정입니다.",
+      "why_it_matters": "우주 데이터센터의 경제성을 확보하려면 기존 AI 인프라 금융 방식과 다른 담보 구조가 필요하다는 점이 드러났습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "db2819e863d56a5da18666bcd00d054b26f9c80e0b88e69970c1086bd1310d39",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a19ba2b6c5a6259a9e75",
@@ -801,14 +831,14 @@
     {
       "id": "ca9ca5e0f6aa9bcb4fda",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
-      "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
+      "title": "METR, 최첨단 AI 작업 수행 능력 40시간 수준 도달 발표",
       "original_title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\"",
       "published_at": "2026-11-21T09:20:47+00:00",
       "collected_at": "2026-11-21T10:42:49+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "최첨단 AI가 인간 전문가에게 약 40시간 걸리는 작업까지 수행할 수 있는 수준에 도달했다는 연구 결과가 나왔다. 지난 5월 16시간 이상의 작업 수행 능력을 기록한 데 이어 6개월 만에 평가 수치가 40시간 수준으로 높아진 것으로, AI의 장시간 작업 수행 능력이 빠르게 발전하고 있으며 연구 판단력에서도 개선이 나…",
       "sources": [
         {
@@ -816,7 +846,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217649",
           "title": "AI 작업 능력, 6개월 만에 16시간→40시간…\"판단력 여전히 한계\""
         }
-      ]
+      ],
+      "summary": "AI 안전성 평가기관 METR은 오픈AI의 GPT-6 아스트라와 앤트로픽의 클로드 오퍼스 5.5 등 최첨단 모델이 장시간 전문 작업에서 인간과 비슷하거나 더 뛰어난 성과를 보였다고 밝혔습니다. 다만 연구 판단력이 필요한 작업에서는 여전히 인간 전문가에게 뒤처지는 것으로 나타났습니다.",
+      "why_it_matters": "AI의 장시간 작업 수행 능력이 빠르게 향상되고 있지만, 연구 판단력에서는 여전히 한계가 확인됐습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "328d6511dbb65b564632cee29e000a30ac4063eb9f0950a2ae705ce5f07f2cde",
+        "evidence_verified": true
+      }
     },
     {
       "id": "288a7346dc29314507c0",
@@ -863,14 +903,14 @@
     {
       "id": "04fd4e621ea3326650d2",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217648",
-      "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
+      "title": "구글, 제미나이 앱에 GIF 생성 기능 출시",
       "original_title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입",
       "published_at": "2026-11-21T07:39:48+00:00",
       "collected_at": "2026-11-21T10:42:49+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "구글이 '제미나이' 앱에 텍스트 프롬프트만으로 짧은 GIF 이미지를 만들 수 있는 기능을 추가했다. 오픈AI가 '챗GPT'에 GIF 생성 기능을 선보인 지 약 2주 만으로, 주요 AI 서비스 간 이미지·영상 생성 기능 경쟁이 치열해지고 있다.구글은 20일(현지시간) 공식 X 계정을 통해 제미나이 앱에 GIF 생성 기…",
       "sources": [
         {
@@ -878,7 +918,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217648",
           "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입"
         }
-      ]
+      ],
+      "summary": "구글이 제미나이 앱에 텍스트 프롬프트만으로 짧은 GIF 이미지를 만들 수 있는 기능을 추가했습니다. 제미나이 옴니 1.2 플래시 모델을 기반으로 약 3초 길이의 반복 재생 애니메이션을 생성하며, 미국과 한국 등 8개국에서 무료 이용자도 사용할 수 있습니다.",
+      "why_it_matters": "AI 챗봇이 텍스트와 정지 이미지 생성을 넘어 짧은 애니메이션 제작까지 지원하는 흐름을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "50b25279769f444b797713ab68a445b5c8e5812d3aa2b58f922bf8688c21349c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "47d25ef673cbb9937783",
@@ -946,14 +996,14 @@
     {
       "id": "38029ee187b000395f80",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
-      "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
+      "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개",
       "original_title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리",
       "published_at": "2026-11-21T04:59:04+00:00",
       "collected_at": "2026-11-21T10:42:49+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "개발·도구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "중국 화웨이(Huawei)가 금융기관의 인공지능(AI) 에이전트를 대규모로 개발하고 운영하기 위한 통합 솔루션을 공개했다. AI 에이전트 개발과 관리, 추론에 필요한 토큰 운영, 데이터와 지식 공급을 하나의 체계로 연결해 금융 AI를 개별 업무에서 전사적인 운영 환경으로 확대하는 것이 목표다.화웨이는 지난 19일(현…",
       "sources": [
         {
@@ -961,19 +1011,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42836",
           "title": "화웨이, 금융 AI 에이전트 대규모 운영체계 공개…개발·토큰·데이터 통합 관리"
         }
-      ]
+      ],
+      "summary": "화웨이가 싱가포르 핀테크 페스티벌 2026에서 금융기관을 위한 핀텔리전트 AI 솔루션을 선보였습니다. 에이전트 팩토리와 토큰 팩토리, 데이터·지식 팩토리로 구성되며, 고객용과 직원용 슈퍼 에이전트를 중심으로 전문 에이전트를 연결하는 아키텍처를 제시했습니다.",
+      "why_it_matters": "금융 AI의 경쟁력이 개별 모델 성능에서 기업 전체의 운영 역량으로 이동하고 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "61b4fc9314998f6da5d46baafb16c503d9767f3fd3a6912064b35118596fc11b",
+        "evidence_verified": true
+      }
     },
     {
       "id": "7d0959564fc58d825aed",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42835",
-      "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
+      "title": "MIT, 혼돈계 예측 안정성 보장하는 머신러닝 기술 공개",
       "original_title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로",
       "published_at": "2026-11-21T03:10:59+00:00",
       "collected_at": "2026-11-21T10:42:49+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "매사추세츠공과대학교(MIT) 연구진이 기상과 기후, 난류처럼 예측하기 어려운 복잡한 물리 시스템에서 인공지능(AI)의 예측값이 비현실적으로 무한히 커지는 현상을 방지하는 머신러닝 기술을 개발하고, 새로운 프레임워크를 20일(현지시간) 공개했다.이 프레임워크는 신경망에 에너지 소산 원리를 수학적 제약으로 적용해 장기간…",
       "sources": [
         {
@@ -981,7 +1041,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42835",
           "title": "\"AI 예측은 물리적 한계를 벗어나지 않는다\"…MIT, 혼돈계에서도 안정성 보장하는 머신러닝 기술 오픈소스로"
         }
-      ]
+      ],
+      "summary": "MIT 연구진이 기상과 기후, 난류처럼 예측하기 어려운 복잡한 물리 시스템에서 AI 예측값이 무한히 커지는 현상을 방지하는 머신러닝 기술을 개발했습니다. 신경망에 에너지 소산 원리를 수학적 제약으로 적용해 장기간 시뮬레이션에서도 예측 궤적이 일정 범위 안에 머물도록 보장합니다.",
+      "why_it_matters": "기후 시스템과 난류 흐름의 장기 패턴을 보다 신뢰할 수 있게 예측하는 데 도움이 될 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "c9235364fd585d85a033e1e7274b87883334b1f68095c34f92bf0e311daf580f",
+        "evidence_verified": true
+      }
     },
     {
       "id": "66621d2c4f20418a5b63",
@@ -1006,14 +1076,14 @@
     {
       "id": "0abd8ab3e7b1f531245e",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42834",
-      "title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축",
+      "title": "영국 정부, 사회복지 분야 AI 활용 첫 범부문 지침 발표",
       "original_title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축",
       "published_at": "2026-11-21T02:42:46+00:00",
       "collected_at": "2026-11-21T10:42:49+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "영국 정부가 아동과 성인 사회복지 서비스에 인공지능(AI)을 안전하게 활용하기 위한 첫 범부문 지침을 20일(현지시간) 발표했다. 지방정부 시범사업에서는 AI 도입으로 사회복지사의 행정업무 시간이 63% 감소한 것으로 나타났다. 영국은 사례 기록과 정보 검색, 번역 등 반복적인 업무를 AI로 지원해 사회복지 종사자가…",
       "sources": [
         {
@@ -1021,7 +1091,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42834",
           "title": "英 보건사회복지부·교육부, 아동·성인 돌봄에 AI 활용 지침 첫 발표…사회복지 행정업무 시간 63% 단축"
         }
-      ]
+      ],
+      "summary": "영국 보건사회복지부와 교육부가 아동과 성인 사회복지 서비스에 AI를 안전하게 활용하기 위한 첫 범부문 지침을 발표했습니다. 지방정부 시범사업에서는 AI 도입으로 사회복지사의 행정업무 시간이 63% 감소한 것으로 나타났습니다.",
+      "why_it_matters": "사회복지 분야에서 AI가 행정 부담을 줄이고 종사자가 돌봄에 집중하도록 지원할 수 있는 가능성을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-22T01:30:17+00:00",
+        "briefing_day": "2026-11-22",
+        "input_hash": "80176053341fe44da2f3adf650b706ec15f90ac63a5a91c8665ac6af6bc29701",
+        "evidence_verified": true
+      }
     },
     {
       "id": "0d1b5dc7dfe66dafd11f",
