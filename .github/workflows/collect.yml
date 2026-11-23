@@ -1,4 +1,14 @@
-name: Collect AI news
+name: AI 뉴스 수집·브리핑
+run-name: >-
+  ${{ format('{0} · {1}{2}{3}',
+    github.event_name == 'workflow_dispatch'
+      && (inputs.mode == 'brief' && (inputs.retry_failed_briefing && '브리핑 재발행' || '브리핑 발행') || '뉴스 수집')
+      || (github.event.schedule == '30 22,23 * * *' && '브리핑 자동 복구'
+        || (github.event.schedule == '30 21 * * *' && '브리핑 발행' || '뉴스 수집')),
+    github.event_name == 'workflow_dispatch' && '수동 실행' || '예약 실행',
+    github.event_name == 'workflow_dispatch' && inputs.mode == 'brief' && inputs.briefing_date != ''
+      && format(' · {0}', inputs.briefing_date) || '',
+    github.event_name == 'workflow_dispatch' && inputs.no_llm && ' · AI 호출 없음' || '') }}
 
 on:
   schedule:
