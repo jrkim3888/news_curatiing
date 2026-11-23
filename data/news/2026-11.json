@@ -3,6 +3,481 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6fa8c5db391204e7fa99",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42843",
+      "title": "오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안",
+      "original_title": "오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안",
+      "published_at": "2026-11-23T01:27:53+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI(OpenAI)의 수석과학자 야쿠프 파호츠키(Jakub Pachocki)가 인공지능(AI)이 스스로 AI 개발에 기여하면서 기술 발전 속도가 급격히 빨라질 가능성을 경고하고, 주요 AI 개발사들이 공동으로 지능 발전 수준을 측정해 일정 기준을 넘는 모델 개발을 제한하는 산업 공통 안전 체계를 마련해야 한다고 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42843",
+          "title": "오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안"
+        }
+      ]
+    },
+    {
+      "id": "50eaee9a341397954900",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "original_title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "published_at": "2026-11-23T01:25:53+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Three significant backers share what gave them conviction to bet billions on Anthropic.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+          "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO"
+        }
+      ]
+    },
+    {
+      "id": "ef0e349b17607470b522",
+      "url": "https://www.phoronix.com/news/LiberNT",
+      "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+      "original_title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+      "published_at": "2026-11-23T01:23:15+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.phoronix.com/news/LiberNT",
+          "title": "LiberNT: An AI-Fueled Fork of ReactOS Focused on Windows 11 Compatibility",
+          "discussion_url": "https://news.ycombinator.com/item?id=50606270"
+        }
+      ]
+    },
+    {
+      "id": "0e2a5c25d0503504abd8",
+      "url": "https://www.rnz.co.nz/life/relationships/family/ai-will-eliminate-many-jobs-what-should-your-children-study-now",
+      "title": "AI will eliminate many jobs. What should your children study now?",
+      "original_title": "AI will eliminate many jobs. What should your children study now?",
+      "published_at": "2026-11-23T01:20:26+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.rnz.co.nz/life/relationships/family/ai-will-eliminate-many-jobs-what-should-your-children-study-now",
+          "title": "AI will eliminate many jobs. What should your children study now?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50606249"
+        }
+      ]
+    },
+    {
+      "id": "2eed03af2010f3d2d34f",
+      "url": "https://twitter.com/letonyo/status/2124535989779505271",
+      "title": "Possible quantum attack find by Anthropic on RLWE problem",
+      "original_title": "Possible quantum attack find by Anthropic on RLWE problem",
+      "published_at": "2026-11-23T01:17:49+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/letonyo/status/2124535989779505271",
+          "title": "Possible quantum attack find by Anthropic on RLWE problem",
+          "discussion_url": "https://news.ycombinator.com/item?id=50606224"
+        }
+      ]
+    },
+    {
+      "id": "790afd0d3c3ef6cc3f72",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+      "title": "Goldman's SpaceX pitch helps solve AI debt puzzle",
+      "original_title": "Goldman's SpaceX pitch helps solve AI debt puzzle",
+      "published_at": "2026-11-23T01:15:59+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+          "title": "Goldman's SpaceX pitch helps solve AI debt puzzle",
+          "discussion_url": "https://news.ycombinator.com/item?id=50606210"
+        }
+      ]
+    },
+    {
+      "id": "1738e01b0c87d9d014f7",
+      "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+      "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
+      "original_title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
+      "published_at": "2026-11-23T00:55:00+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Axios : Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation — Directo…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+          "title": "Sources: Jay Clayton, director of national intelligence and AI czar, will also be acting national cyber director pending Kirsten A. Davies' Senate confirmation (Axios)",
+          "discussion_url": "https://www.techmeme.com/261122/p15"
+        }
+      ]
+    },
+    {
+      "id": "fea8a8674624f72ec939",
+      "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+      "title": "U.S. Tracked Alice Huang's Contacts with China Spy Agency During Nvidia Affair",
+      "original_title": "U.S. Tracked Alice Huang's Contacts with China Spy Agency During Nvidia Affair",
+      "published_at": "2026-11-23T00:52:51+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html",
+          "title": "U.S. Tracked Alice Huang's Contacts with China Spy Agency During Nvidia Affair",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605988"
+        }
+      ]
+    },
+    {
+      "id": "396bdf71c91c25ed0a30",
+      "url": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000",
+      "title": "What 47,000 Companies' Disclosures Reveal About the AI Stack",
+      "original_title": "What 47,000 Companies' Disclosures Reveal About the AI Stack",
+      "published_at": "2026-11-23T00:52:46+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kamathhrishi.substack.com/p/i-analyzed-the-ai-stack-used-by-40000",
+          "title": "What 47,000 Companies' Disclosures Reveal About the AI Stack",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605987"
+        }
+      ]
+    },
+    {
+      "id": "c0333ea2f1aaaa4f74cb",
+      "url": "https://github.com/taskcue/taskcue",
+      "title": "Show HN: Taskcue – see which of your Claude Code and Codex sessions need you",
+      "original_title": "Show HN: Taskcue – see which of your Claude Code and Codex sessions need you",
+      "published_at": "2026-11-23T00:52:02+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/taskcue/taskcue",
+          "title": "Show HN: Taskcue – see which of your Claude Code and Codex sessions need you",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605978"
+        }
+      ]
+    },
+    {
+      "id": "aac3bc7d0f3f7fbe5e7c",
+      "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11",
+      "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+      "original_title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+      "published_at": "2026-11-23T00:45:01+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessne…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/anthropic-dario-daniela-amodei-siblings-ipo-be84ad11",
+          "title": "A profile of siblings Dario and Daniela Amodei; while at OpenAI, Dario suggested immersive videogames might ease political strife from AI-induced joblessness (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261122/p14"
+        }
+      ]
+    },
+    {
+      "id": "4de34673a8103a912b58",
+      "url": "https://github.com/svailla4/glimpse",
+      "title": "Glimpse – Generative UI for Codebases in Claude Code",
+      "original_title": "Glimpse – Generative UI for Codebases in Claude Code",
+      "published_at": "2026-11-23T00:27:06+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/svailla4/glimpse",
+          "title": "Glimpse – Generative UI for Codebases in Claude Code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605736"
+        }
+      ]
+    },
+    {
+      "id": "0015a0b3155ca3559f1b",
+      "url": "https://github.com/ericwang915/agent-hive",
+      "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
+      "original_title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
+      "published_at": "2026-11-23T00:22:01+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ericwang915/agent-hive",
+          "title": "Show HN: Run Mult AI Agents (Claude, Gemini, etc.) as a team of bees, maids",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605688"
+        }
+      ]
+    },
+    {
+      "id": "887821c3b6193c43d594",
+      "url": "https://greyenlightenment.com/2026/11/20/the-riemann-hypothesis-and-the-industrialization-of-mathematics",
+      "title": "You couldn't have proved the Riemann hypothesis on a $200/month Claude/GPT plan",
+      "original_title": "You couldn't have proved the Riemann hypothesis on a $200/month Claude/GPT plan",
+      "published_at": "2026-11-23T00:17:57+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://greyenlightenment.com/2026/11/20/the-riemann-hypothesis-and-the-industrialization-of-mathematics",
+          "title": "You couldn't have proved the Riemann hypothesis on a $200/month Claude/GPT plan",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605662"
+        }
+      ]
+    },
+    {
+      "id": "f5cdbf2925124bd732fb",
+      "url": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust",
+      "title": "I Rebuilt Eleventy in Rust with AI in One Week",
+      "original_title": "I Rebuilt Eleventy in Rust with AI in One Week",
+      "published_at": "2026-11-23T00:16:29+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://joshtronic.com/2026/11/22/eleventy-rebuilt-rust",
+          "title": "I Rebuilt Eleventy in Rust with AI in One Week",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605647"
+        }
+      ]
+    },
+    {
+      "id": "2487230817c54f10a801",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42842",
+      "title": "AI가 이틀 만에 세포 장벽 복원법 제안…아스테로모프, DNA 나노브릿지 실험 검증",
+      "original_title": "AI가 이틀 만에 세포 장벽 복원법 제안…아스테로모프, DNA 나노브릿지 실험 검증",
+      "published_at": "2026-11-23T00:12:07+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능이 손상된 세포 사이를 DNA 나노구조물로 연결해 장벽 기능을 복원하는 새로운 치료 전략을 제안하고, 연구진이 실제 세포 실험을 통해 가능성을 확인했다. AI가 기존 연구 결과를 분석하는 수준을 넘어 과학적 가설을 생성하고, 이를 실험으로 검증해 후속 치료 기술 개발로 연결한 사례다.과학 AI 기업 아스테로모…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42842",
+          "title": "AI가 이틀 만에 세포 장벽 복원법 제안…아스테로모프, DNA 나노브릿지 실험 검증"
+        }
+      ]
+    },
+    {
+      "id": "bab81e16745952c97dbb",
+      "url": "https://github.com/salespeak-ai/inbox-envoy",
+      "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
+      "original_title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
+      "published_at": "2026-11-23T00:00:35+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/salespeak-ai/inbox-envoy",
+          "title": "Show HN: Inbox Envoy, an open-source email triage skill for your own AI agent",
+          "discussion_url": "https://news.ycombinator.com/item?id=50605502"
+        }
+      ]
+    },
+    {
+      "id": "0bac840a5a08d8e8d75a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217619",
+      "title": "[AI리더의 서가] The RLHF Book 한국어판",
+      "original_title": "[AI리더의 서가] The RLHF Book 한국어판",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The RLHF Book 한국어판네이선 램버트 | 책만2026년 11월 19일추천이유이 책은 LLM 성능 향상을 위한 RLHF의 핵심 구현과 직접 정렬 알고리즘을 다루며, 현업 엔지니어와 AI 연구자가 모델 정렬의 실무 기초를 탄탄히 다질 수 있도록 합니다.상세보기 출간 소식이 알려지자, 입고 일정을 묻는 문의가 먼…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217619",
+          "title": "[AI리더의 서가] The RLHF Book 한국어판"
+        }
+      ]
+    },
+    {
+      "id": "8ab3ef3aeea10e14f44b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42841",
+      "title": "KAIST, 사람을 돕는 AI 안경 개발 도전…수어 자막부터 전문가 작업 지원까지",
+      "original_title": "KAIST, 사람을 돕는 AI 안경 개발 도전…수어 자막부터 전문가 작업 지원까지",
+      "published_at": "2026-11-22T23:53:14+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "한국과학기술원(KAIST)이 대학생들과 함께 인공지능(AI) 안경과 확장현실(XR) 기술을 활용해 사람의 소통과 학습, 작업 능력을 높이는 새로운 활용 방안을 모색했다. 수어를 실시간 자막으로 변환하고 숙련자의 작업 경험을 초보자에게 전달하는 등 일상생활과 산업 현장에 적용할 수 있는 기술들이 선보였다.KAIST는 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42841",
+          "title": "KAIST, 사람을 돕는 AI 안경 개발 도전…수어 자막부터 전문가 작업 지원까지"
+        }
+      ]
+    },
+    {
+      "id": "b728c1cfc582d7b6513a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42840",
+      "title": "\"같은 심부전 치료제도 환자마다 효과 다르다\"…분당서울대병원, 치료 효과 예측하는 AI ‘파라가이드’ 공개",
+      "original_title": "\"같은 심부전 치료제도 환자마다 효과 다르다\"…분당서울대병원, 치료 효과 예측하는 AI ‘파라가이드’ 공개",
+      "published_at": "2026-11-22T23:43:41+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "같은 심부전 치료제를 사용하더라도 환자에 따라 치료 효과가 달라지는 문제를 인공지능(AI)으로 예측하는 기술이 개발됐다. 환자의 나이와 혈압, 심장 기능, 동반 질환 등 16가지 임상정보만으로 특정 약물의 치료 효과가 클 것으로 예상되는 환자를 구분하는 방식이다.분당서울대병원 순환기내과 박진주·윤민재 교수팀은 서울대…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42840",
+          "title": "\"같은 심부전 치료제도 환자마다 효과 다르다\"…분당서울대병원, 치료 효과 예측하는 AI ‘파라가이드’ 공개"
+        }
+      ]
+    },
+    {
+      "id": "716ddf581d146167e38c",
+      "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future",
+      "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+      "original_title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+      "published_at": "2026-11-22T23:20:08+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nitasha Tiku / Washington Post : How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and “Vision Quest” talks, as Anthropic seeds his ideas with op…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.washingtonpost.com/technology/2026/11/22/inside-an-ai-prophets-secretive-plans-humanitys-future",
+          "title": "How Dario Amodei built Anthropic's tightly knit culture with essays, Slack memos, and \"Vision Quest\" talks, as Anthropic seeds his ideas with opinion-makers (Nitasha Tiku/Washington Post)",
+          "discussion_url": "https://www.techmeme.com/261122/p12"
+        }
+      ]
+    },
+    {
+      "id": "3e0de548e80fcc1360aa",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+      "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+      "original_title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\"",
+      "published_at": "2026-11-22T22:14:28+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "오픈AI가 AI의 지능 발전 수준을 측정할 수 있는 사전학습 성능 수치를 공개하고, 이를 토대로 주요 AI 기업들이 공동으로 지켜야 할 개발 제한선을 마련하자고 제안했다. 학습 성능이 높아질수록 예상하지 못한 새로운 능력이 나타난다는 분석으로, 샘 알트먼 CEO도 최근 회사가 발표한 내용 중 가장 중요한 것이라고 평…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217665",
+          "title": "오픈AI \"사전학습으로 AI 지능 급성장…RSI 대비해 개발 제한해야\""
+        }
+      ]
+    },
+    {
+      "id": "883b69d3f986860bffa5",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "original_title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "published_at": "2026-11-22T21:14:07+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "To establish a speed limit on AI development, you need to agree on how to measure speed.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+          "title": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+        }
+      ]
+    },
+    {
       "id": "8b9eabb65a4bf74f449e",
       "url": "https://www.indiehackers.com/post/launches/a-new-tool-from-pieter-levels-lets-anyone-block-3-728-x-accounts-he-says-post-ai-replies-8sgOq6YhwgahokzyznK6",
       "title": "A new tool from Pieter Levels lets anyone block 3,728 X accounts post AI replies",
@@ -167,6 +642,26 @@
           "url": "https://www.nytimes.com/2026/11/22/business/scott-bessent-jensen-huang-nvidia.html",
           "title": "A week after urging an Nvidia shake-up, Scott Bessent says Jensen Huang's return should depend on probes of its China chip sales and presses Nvidia for answers (Alan Rappeport/New York Times)",
           "discussion_url": "https://www.techmeme.com/261122/p10"
+        }
+      ]
+    },
+    {
+      "id": "71ff2ee8bf23be9b6db7",
+      "url": "https://simonwillison.net/2026/Nov/22/select-styling",
+      "title": "Select Styling Specimens",
+      "original_title": "Select Styling Specimens",
+      "published_at": "2026-11-22T19:45:06+00:00",
+      "collected_at": "2026-11-23T01:28:20+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had C…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/22/select-styling",
+          "title": "Select Styling Specimens"
         }
       ]
     },
