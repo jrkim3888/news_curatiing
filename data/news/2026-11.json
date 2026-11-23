@@ -3,6 +3,1005 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "3e66823ea56dd1762d44",
+      "url": "https://www.gostudio.ai/",
+      "title": "Gostudio.ai – AI photo and video studio with 38 one-click tools",
+      "original_title": "Gostudio.ai – AI photo and video studio with 38 one-click tools",
+      "published_at": "2026-11-23T11:48:42+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.gostudio.ai/",
+          "title": "Gostudio.ai – AI photo and video studio with 38 one-click tools",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610441"
+        }
+      ]
+    },
+    {
+      "id": "cac71c94202c6769e243",
+      "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest",
+      "title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
+      "original_title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
+      "published_at": "2026-11-23T11:48:27+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest",
+          "title": "AI Riemann Hypothesis proof is true, independent mathematicians confirm",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610434"
+        }
+      ]
+    },
+    {
+      "id": "057b53b0e39f3ff4bd76",
+      "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4",
+      "title": "South Korean minister says he is too old to tackle AI exam cheating",
+      "original_title": "South Korean minister says he is too old to tackle AI exam cheating",
+      "published_at": "2026-11-23T11:45:15+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/d97f37d0-588e-488c-b10e-035900367aa4",
+          "title": "South Korean minister says he is too old to tackle AI exam cheating",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610406"
+        }
+      ]
+    },
+    {
+      "id": "21d1e638f4468861b67d",
+      "url": "https://www.washingtonpost.com/technology/2026/11/23/how-nvidia-fought-years-washington-sell-its-prized-chips-china",
+      "title": "Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market (Ian Duncan/Washington Post)",
+      "original_title": "Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market (Ian Duncan/Washington Post)",
+      "published_at": "2026-11-23T11:40:01+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ian Duncan / Washington Post : Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B p…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.washingtonpost.com/technology/2026/11/23/how-nvidia-fought-years-washington-sell-its-prized-chips-china",
+          "title": "Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market (Ian Duncan/Washington Post)",
+          "discussion_url": "https://www.techmeme.com/261123/p14"
+        }
+      ]
+    },
+    {
+      "id": "28c764e2cf8a36efd027",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "original_title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "published_at": "2026-11-23T11:39:45+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610369"
+        }
+      ]
+    },
+    {
+      "id": "3ceb4a11f29bc89390eb",
+      "url": "https://github.com/AndyCross/claude-hot-path",
+      "title": "Show HN: Claude Hot Path, one-file Claude clients in 7 languages, no SDK",
+      "original_title": "Show HN: Claude Hot Path, one-file Claude clients in 7 languages, no SDK",
+      "published_at": "2026-11-23T11:33:58+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/AndyCross/claude-hot-path",
+          "title": "Show HN: Claude Hot Path, one-file Claude clients in 7 languages, no SDK",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610333"
+        }
+      ]
+    },
+    {
+      "id": "e8c6aa4f495f6c35770a",
+      "url": "https://www.disruptionbanking.com/2026/11/23/why-did-anthropics-shares-drop-8-5-after-record-ipo",
+      "title": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
+      "original_title": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
+      "published_at": "2026-11-23T11:27:46+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.disruptionbanking.com/2026/11/23/why-did-anthropics-shares-drop-8-5-after-record-ipo",
+          "title": "Why Did Anthropic's Shares Drop 8.5% After Record IPO?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610285"
+        }
+      ]
+    },
+    {
+      "id": "f454abea7962801e16d0",
+      "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+      "title": "AI may have solved math's greatest mystery. Can humans understand the answer?",
+      "original_title": "AI may have solved math's greatest mystery. Can humans understand the answer?",
+      "published_at": "2026-11-23T11:10:13+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+          "title": "AI may have solved math's greatest mystery. Can humans understand the answer?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610152"
+        }
+      ]
+    },
+    {
+      "id": "239f1a3ffade54a1687b",
+      "url": "https://www.superlogical.com/updates/public-testing-beginning",
+      "title": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents",
+      "original_title": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents",
+      "published_at": "2026-11-23T11:07:46+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.superlogical.com/updates/public-testing-beginning",
+          "title": "Rex: Hashimoto's New Terminal Emulator and Multiplexer for AI Coding Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610138"
+        }
+      ]
+    },
+    {
+      "id": "7e8cd7da94611da2bfd3",
+      "url": "https://github.com/ameesme/shoebox",
+      "title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
+      "original_title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
+      "published_at": "2026-11-23T11:07:29+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ameesme/shoebox",
+          "title": "Show HN: Crazy simple AI agent orchestration with Markdown and Containers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50610136"
+        }
+      ]
+    },
+    {
+      "id": "f1db7ce98881d8901597",
+      "url": "https://z.ai/blog/glm-5.4",
+      "title": "Z.ai launches GLM-5.4, a 750B-parameter flagship model built on its Loop Transformer architecture, reaching intelligence levels comparable to 2T-3T models (Z.ai)",
+      "original_title": "Z.ai launches GLM-5.4, a 750B-parameter flagship model built on its Loop Transformer architecture, reaching intelligence levels comparable to 2T-3T models (Z.ai)",
+      "published_at": "2026-11-23T10:50:12+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Z.ai : Z.ai launches GLM-5.4, a 750B-parameter flagship model built on its Loop Transformer architecture, reaching intelligence levels comparable to 2T-3T models — Over the past…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://z.ai/blog/glm-5.4",
+          "title": "Z.ai launches GLM-5.4, a 750B-parameter flagship model built on its Loop Transformer architecture, reaching intelligence levels comparable to 2T-3T models (Z.ai)",
+          "discussion_url": "https://www.techmeme.com/261123/p11"
+        }
+      ]
+    },
+    {
+      "id": "133ab111f07c196ee68d",
+      "url": "https://www.symbiocit.com/",
+      "title": "Show HN: Stop using AI clones. Raise an AI with a Real ID and age",
+      "original_title": "Show HN: Stop using AI clones. Raise an AI with a Real ID and age",
+      "published_at": "2026-11-23T10:44:31+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.symbiocit.com/",
+          "title": "Show HN: Stop using AI clones. Raise an AI with a Real ID and age",
+          "discussion_url": "https://news.ycombinator.com/item?id=50609967"
+        }
+      ]
+    },
+    {
+      "id": "3bb6e37593fdea868a7b",
+      "url": "https://www.signalvs.com/p/no-i-dont-think-ai-is-going-to-kill",
+      "title": "I Don't Think AI Is Going to Kill Us All",
+      "original_title": "I Don't Think AI Is Going to Kill Us All",
+      "published_at": "2026-11-23T10:43:44+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.signalvs.com/p/no-i-dont-think-ai-is-going-to-kill",
+          "title": "I Don't Think AI Is Going to Kill Us All",
+          "discussion_url": "https://news.ycombinator.com/item?id=50609964"
+        }
+      ]
+    },
+    {
+      "id": "5fb7aeaf987409d3fae7",
+      "url": "https://github.com/suren19113/agent-huddle",
+      "title": "Show HN: Huddle – a corner window for every running Claude Code session",
+      "original_title": "Show HN: Huddle – a corner window for every running Claude Code session",
+      "published_at": "2026-11-23T10:43:04+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/suren19113/agent-huddle",
+          "title": "Show HN: Huddle – a corner window for every running Claude Code session",
+          "discussion_url": "https://news.ycombinator.com/item?id=50609960"
+        }
+      ]
+    },
+    {
+      "id": "cd3031457ac794031845",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42859",
+      "title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현",
+      "original_title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현",
+      "published_at": "2026-11-23T10:03:33+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 매사추세츠공과대학교(MIT) 연구진이 노트북에서 실행할 수 있는 소형 언어모델(SLM)로 복잡한 아날로그 반도체 회로 설계를 자동화하는 인공지능(AI) 학습 기술을 개발했다. 수십억개 매개변수의 소형 모델이 최첨단 대형언어모델(LLM)에 근접한 설계 성능을 구현하면서도 컴퓨팅 비용을 낮추고 기업의 반도체 설계 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42859",
+          "title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현"
+        }
+      ]
+    },
+    {
+      "id": "33a400d40a16e9dc9747",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42858",
+      "title": "英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원",
+      "original_title": "英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원",
+      "published_at": "2026-11-23T09:33:58+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "영국 정부가 인공지능(AI) 기반 자율 국방 시스템을 개발하는 자국 스타트업에 직접 투자하며 소버린 AI(Sovereign AI) 역량 확보에 나섰다. 실제 군사 환경에서 수행하던 고비용 훈련과 시험을 가상전장으로 전환하고, 드론 공격과 통신 교란 등 다양한 위협 상황에 대응하는 국방 AI 기술을 자국에서 개발하겠다…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42858",
+          "title": "英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원"
+        }
+      ]
+    },
+    {
+      "id": "7440e8ce07502603fa3a",
+      "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html?smid=url-share&unlocked_article_code=1.SlE.7MPS.E8d7eCsFiexw",
+      "title": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
+      "original_title": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
+      "published_at": "2026-11-23T09:30:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Chris Buckley / New York Times : Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beij…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/23/world/asia/china-us-nuclear-ai.html?smid=url-share&unlocked_article_code=1.SlE.7MPS.E8d7eCsFiexw",
+          "title": "Chinese civilian and military studies show a growing concern that US AI advances may cut nuclear decision-making to 90 seconds, undermining Beijing's deterrent (Chris Buckley/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261123/p8"
+        }
+      ]
+    },
+    {
+      "id": "51790e3a6c8003cf2723",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42857",
+      "title": "텐센트 클라우드, 사우디에 손바닥 정맥인식 AI 결제 도입 추진…학교부터 기업까지 확대",
+      "original_title": "텐센트 클라우드, 사우디에 손바닥 정맥인식 AI 결제 도입 추진…학교부터 기업까지 확대",
+      "published_at": "2026-11-23T09:16:19+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 텐센트(Tencent)의 클라우드 사업부 텐센트 클라우드(Tencent Cloud)가 사우디아라비아에서 손바닥 정맥인식 기반 인공지능(AI) 결제와 출입관리 서비스 도입을 추진한다. 기존 카드나 비밀번호 대신 생체정보로 신원을 확인하는 기술을 교육기관에 우선 적용하고, 기업용 AI 서비스로 사업 범위를 확대할 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42857",
+          "title": "텐센트 클라우드, 사우디에 손바닥 정맥인식 AI 결제 도입 추진…학교부터 기업까지 확대"
+        }
+      ]
+    },
+    {
+      "id": "d0f627371e89b1a37b63",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states",
+      "title": "The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers (Bloomberg)",
+      "original_title": "The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers (Bloomberg)",
+      "published_at": "2026-11-23T09:15:03+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Bloomberg : The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers — A b…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/governors-call-for-federal-ai-rules-without-sidelining-states",
+          "title": "The National Governors Association proposes a split of AI regulation roles, asking the US government to review AI models while letting states protect consumers (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261123/p7"
+        }
+      ]
+    },
+    {
+      "id": "603207cb2d60f26ae8bc",
+      "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80",
+      "title": "A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spark debate over AI use (Rafe Rosner-Uddin/Financial Times)",
+      "original_title": "A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spark debate over AI use (Rafe Rosner-Uddin/Financial Times)",
+      "published_at": "2026-11-23T09:05:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Rafe Rosner-Uddin / Financial Times : A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spa…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/d194e93b-8d3c-42eb-85dd-46d58c4f2a80",
+          "title": "A look at AECJ, an Amazon employee group with over 1,000 members that is stepping up efforts to slow Amazon's data center expansion and spark debate over AI use (Rafe Rosner-Uddin/Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261123/p6"
+        }
+      ]
+    },
+    {
+      "id": "61c64388798deb0e5b2d",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42856",
+      "title": "대만 경제부, 100대 연구개발 혁신기술상 9개 수상…반도체 AI 시뮬레이션 4~5시간서 10초 미만으로",
+      "original_title": "대만 경제부, 100대 연구개발 혁신기술상 9개 수상…반도체 AI 시뮬레이션 4~5시간서 10초 미만으로",
+      "published_at": "2026-11-23T09:01:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "대만이 인공지능(AI)을 활용해 반도체 제조공정의 시뮬레이션 시간을 기존 4~5시간에서 10초 미만으로 단축하는 기술을 개발했다. 사용자 상황에 따라 정보를 조절하는 AI 스마트 안경과 비상 상황에서 스스로 안전하게 정차하는 자율주행 전기버스 기술도 국제 연구개발 혁신상을 수상했다.대만 경제부(Ministry of …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42856",
+          "title": "대만 경제부, 100대 연구개발 혁신기술상 9개 수상…반도체 AI 시뮬레이션 4~5시간서 10초 미만으로"
+        }
+      ]
+    },
+    {
+      "id": "eecd3fb71ac3a5331379",
+      "url": "https://byline.network/2026/11/23_291827734-2",
+      "title": "[RE: 자사몰] ‘트라넥삼산 10%’ 모르는 고객은?…오가니시티가 자사몰에 AI를 넣은 이유",
+      "original_title": "[RE: 자사몰] ‘트라넥삼산 10%’ 모르는 고객은?…오가니시티가 자사몰에 AI를 넣은 이유",
+      "published_at": "2026-11-23T08:41:23+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "‘트라넥삼산 10%’, ‘나이아신아마이드 10%’. 주요 성분과 함량을 제품명에 내세운 스킨케어 브랜드 오가니시티가 인공지능(AI)을 활용해 자사몰을 키우고 있습니다. 성분을 잘 모르는 소비자도 피부 고민에 맞는 제품을 찾고, 조합과 사용법까지 안내받도록 한 겁니다. 네이버 스마트스토어에서 축적한 약 6만 건의 리뷰…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/23_291827734-2",
+          "title": "[RE: 자사몰] ‘트라넥삼산 10%’ 모르는 고객은?…오가니시티가 자사몰에 AI를 넣은 이유"
+        }
+      ]
+    },
+    {
+      "id": "a1c010bc6bb1da70c450",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217693",
+      "title": "'네온'이 3주 만에 '카본'을 추월한 이유…구글 \"3개 세대 동시 개발\"",
+      "original_title": "'네온'이 3주 만에 '카본'을 추월한 이유…구글 \"3개 세대 동시 개발\"",
+      "published_at": "2026-11-23T08:40:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 대형 모델을 출시한 지 불과 3주 만에 최고 성능에서 이를 앞서는 중형급 모델을 선보이는 등 AI 개발 속도를 높이고 있다. 현재 모델과 차기·차차기 모델을 동시에 개발하고, 성능 평가와 학습을 반복하는 방식으로 새로운 모델을 잇달아 선보이고 있다는 설명이다.구글은 9월 말 '제미나이 4 아르곤'을 시작으로 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217693",
+          "title": "'네온'이 3주 만에 '카본'을 추월한 이유…구글 \"3개 세대 동시 개발\""
+        }
+      ]
+    },
+    {
+      "id": "627b849df1a9b159a89c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217697",
+      "title": "광주 상무역, AI로 열차 도착시간 예측…30초 남으면 표시 중단",
+      "original_title": "광주 상무역, AI로 열차 도착시간 예측…30초 남으면 표시 중단",
+      "published_at": "2026-11-23T08:35:57+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "광주 상무역에서 AI가 열차의 실시간 위치와 운행 데이터를 분석해 도착 예정 시간을 승객에게 안내하는 시스템이 운영되고 있다.광주교통공사는 ‘AI 기반 실시간 열차 도착시간 안내시스템 연구개발’ 논문이 한국철도학회 2026년 추계학술대회에서 우수논문발표상을 받았다고 20일 밝혔다.공사는 광주테크노파크의 지원을 받아 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217697",
+          "title": "광주 상무역, AI로 열차 도착시간 예측…30초 남으면 표시 중단"
+        }
+      ]
+    },
+    {
+      "id": "c2fe3b67013239a950e1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217694",
+      "title": "광주 서구 직원들이 만든 AI 서비스 15종…구내식당 예약도 해결",
+      "original_title": "광주 서구 직원들이 만든 AI 서비스 15종…구내식당 예약도 해결",
+      "published_at": "2026-11-23T08:35:45+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "전남광주통합특별시 서구 직원들이 생성형 AI를 활용해 구내식당 예약 서비스를 직접 개발했다. 별도 전문 개발인력 없이 직원들이 업무 현장의 불편을 해결한 것으로, 서구는 이 서비스를 포함해 AI 서비스 15종을 발굴했다.서구는 19일 서구청 들불홀에서 직원 주도 AI 학습동아리 결과보고회를 열고 ‘서구밥상’을 비롯한…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217694",
+          "title": "광주 서구 직원들이 만든 AI 서비스 15종…구내식당 예약도 해결"
+        }
+      ]
+    },
+    {
+      "id": "1b6e93348ca7b4d03d63",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217703",
+      "title": "오픈AI 연구책임자 \"AGI 달성까지 80% 진전…RSI는 25~50% 수준\"",
+      "original_title": "오픈AI 연구책임자 \"AGI 달성까지 80% 진전…RSI는 25~50% 수준\"",
+      "published_at": "2026-11-23T08:35:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI의 최고연구책임자(CRO)인 마크 첸이 AGI 달성까지 약 80% 진전했다고 평가했다. AGI는 산업혁명처럼 점진적으로 발전하는 과정이며, AI가 스스로 연구하고 성능을 개선하는 재귀적 자기개선(RSI)은 아직 25~50% 수준이라고 진단했다.첸 CRO는 지난 17일(현지시간) 앤드리슨 호로위츠가 공개한 팟캐…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217703",
+          "title": "오픈AI 연구책임자 \"AGI 달성까지 80% 진전…RSI는 25~50% 수준\""
+        }
+      ]
+    },
+    {
+      "id": "977faf16e825f269de66",
+      "url": "https://byline.network/2026/11/1123-4",
+      "title": "“용접 소음도 뚫고 통역한다”…오픈AI 음성 AI 입은 하이워커",
+      "original_title": "“용접 소음도 뚫고 통역한다”…오픈AI 음성 AI 입은 하이워커",
+      "published_at": "2026-11-23T08:22:21+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "하이로컬이 오픈AI의 음성 AI 모델을 적용한 산업 현장 특화 통·번역 솔루션 ‘하이워커’를 국내외 1500개 산업 현장에 보급했다. 하이워커는 별도 앱 설치 없이 외국인 근로자에게 모국어 음성과 자막으로 작업 지시와 안전교육 내용을 전달하며, 현장 소음과 전문용어에 대응하는 기능을 갖췄다. 하이로컬은 헬멧 부착형 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1123-4",
+          "title": "“용접 소음도 뚫고 통역한다”…오픈AI 음성 AI 입은 하이워커"
+        }
+      ]
+    },
+    {
+      "id": "b177ba0c9668e1044402",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42854",
+      "title": "[AI 리뷰] 엔비디아, 과학 연구용 오픈 AI 에이전트 플랫폼 공개…화학·신약·신소재 개발 가속화",
+      "original_title": "[AI 리뷰] 엔비디아, 과학 연구용 오픈 AI 에이전트 플랫폼 공개…화학·신약·신소재 개발 가속화",
+      "published_at": "2026-11-23T08:18:40+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "엔비디아(NVIDIA)가 화학과 생명과학, 신소재 개발 등 전문 과학 연구에 특화된 인공지능(AI) 에이전트를 구축할 수 있도록 오픈 모델과 과학 데이터셋, 학습 기술을 통합한 ‘네모트론 포 사이언스(Nemotron for Science)’를 공개했다.과학자가 AI에 질문해 답변을 얻는 수준을 넘어, AI 에이전트가…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42854",
+          "title": "[AI 리뷰] 엔비디아, 과학 연구용 오픈 AI 에이전트 플랫폼 공개…화학·신약·신소재 개발 가속화"
+        }
+      ]
+    },
+    {
+      "id": "7c342bbb9c70d8862a22",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217673",
+      "title": "국산 AI칩 상용화 돕는다…광주 NPU센터 설립 추진",
+      "original_title": "국산 AI칩 상용화 돕는다…광주 NPU센터 설립 추진",
+      "published_at": "2026-11-23T08:15:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "광주가 국산 AI반도체를 활용하는 국가 NPU 전용 컴퓨팅센터 설립을 추진하고 있다. 올해 타당성조사 예산 6억원을 확보한 데 이어 2027년 정부예산안에는 19억7000만원이 반영됐다.NPU는 인공지능 연산에 특화된 신경망처리장치로, 이미 학습된 AI 모델이 질문에 답하거나 영상·데이터를 분석하는 추론 작업 등에 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217673",
+          "title": "국산 AI칩 상용화 돕는다…광주 NPU센터 설립 추진"
+        }
+      ]
+    },
+    {
+      "id": "7b525c357c832625e58f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217701",
+      "title": "\"AI 컨텍스트 창만 키워선 오답 못 줄여\"…정보 선별이 핵심",
+      "original_title": "\"AI 컨텍스트 창만 키워선 오답 못 줄여\"…정보 선별이 핵심",
+      "published_at": "2026-11-23T08:15:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "기업들이 AI 에이전트에 방대한 내부 정보를 제공하는 것이 반드시 정확한 답변으로 이어지지는 않는다는 지적이 나왔다. 고객 지원 문서에 서로 충돌하는 지침이 섞여 있으면 AI가 잘못된 정보를 선택할 수 있기 때문이다. 미국 통신사 T모바일은 복잡한 지식 그래프 대신 필요한 정보와 처리 경로를 연결하는 단순한 조회표를…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217701",
+          "title": "\"AI 컨텍스트 창만 키워선 오답 못 줄여\"…정보 선별이 핵심"
+        }
+      ]
+    },
+    {
+      "id": "bd861997fbd019cbafec",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217705",
+      "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
+      "original_title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
+      "published_at": "2026-11-23T08:10:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 에이전트가 기존 반도체 회로를 개선하는 수준을 넘어 새로운 CPU 아키텍처를 설계한 사례가 공개됐다. 명령어 체계부터 회로 구현과 검증까지 AI가 수행한 것으로, 기존 순차 실행 CPU 코어보다 와트당 성능이 4.59배 높다는 평가 결과를 제시했다.미국 스타트업 아키텍트랩스(Architect Labs)는 18일…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217705",
+          "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장"
+        }
+      ]
+    },
+    {
+      "id": "6b85eaf2fdab759fb97f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217686",
+      "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
+      "original_title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
+      "published_at": "2026-11-23T08:10:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "애플이 실시간 상호작용이 가능한 영상 생성 AI 모델을 공개했다. 영상 생성 과정에서 병목으로 작용하던 디코딩과 캐시 갱신 단계를 최적화해, 엔비디아 B200 GPU 한 장으로 프레임당 36밀리초(ms)의 처리 속도를 구현했다. 사용자 입력에 즉각 반응해야 하는 게임이나 시뮬레이션 등에 활용할 수 있는 수준이다.애플…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217686",
+          "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연"
+        }
+      ]
+    },
+    {
+      "id": "1293e7d5c1091636fbbd",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+      "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개",
+      "original_title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개",
+      "published_at": "2026-11-23T08:08:39+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 차량용 컴퓨팅 환경에서도 복잡한 추론을 수행할 수 있도록 설계한 경량 AI 모델을 선보이며 자율주행 기술의 온디바이스화에 속도를 내고 있다.엔비디아는 최근 차량 내부에서 직접 추론하고 주행 경로를 생성하는 자율주행 AI 모델 '알파마요 2 엣지(Alpamayo 2 Edge)'를 공개했다. 대형 클라우드 모…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+          "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 '알파마요 2 엣지' 공개"
+        }
+      ]
+    },
+    {
+      "id": "1e25c0196f8cac42c3ca",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217695",
+      "title": "[게시판] AI 지팡이·노인용 로봇 등...LG CNS, 고교생 대상 AI 경연 등 단신",
+      "original_title": "[게시판] AI 지팡이·노인용 로봇 등...LG CNS, 고교생 대상 AI 경연 등 단신",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ LG CNS(대표 현신균)는 고교생 대상 AI 사회공헌 프로그램 'AI지니어스 아카데미 챌린지데이'를 개최했다고 밝혔다. 올해는 약 1300명이 참여해 역대 최대 규모를 기록했다. 대상은 안전 정보 기반 보행 경로 추천 서비스 '귀가 ON'을 개발한 미림마이스터고가 차지했으며, 최우수상과 우수상은 각각 수도전기공…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217695",
+          "title": "[게시판] AI 지팡이·노인용 로봇 등...LG CNS, 고교생 대상 AI 경연 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "1e233871daad1f142769",
+      "url": "https://d2.naver.com/helloworld/3284900",
+      "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+      "original_title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
+      "published_at": "2026-11-23T07:51:06+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 AI 에이전트가 뉴스 데이터를 직접 찾고 추출·분석까지 수행하는 하네스 레포 news-data를 소개합니다. 작업마다 배운 것을 회고와 PR로 되돌려 도메인을 모르는 신입사원 같은 에이…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/3284900",
+          "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data"
+        }
+      ]
+    },
+    {
+      "id": "d8d58c218a6d071190d3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217682",
+      "title": "폭염경보 방송까지 53분…광주, AI로 외국어 재난방송 자동화 추진",
+      "original_title": "폭염경보 방송까지 53분…광주, AI로 외국어 재난방송 자동화 추진",
+      "published_at": "2026-11-23T07:50:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "광주 글로벌광주방송(GGN)이 재난정보 수신부터 외국어 번역, 방송용 문안 작성과 송출 승인까지 연결하는 AI 자동화 시스템을 추진하고 있다. 지난 8월 폭염경보를 받은 뒤 실제 방송까지 53분 넘게 걸린 사례가 발생하면서 기존 제작 절차와 자동화 기술의 역할이 주목받고 있다.전남광주통합특별시의회가 지난 5일 실시한…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217682",
+          "title": "폭염경보 방송까지 53분…광주, AI로 외국어 재난방송 자동화 추진"
+        }
+      ]
+    },
+    {
+      "id": "9edfd1b2669c8c92d083",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217698",
+      "title": "구글 AI 검색에 애플·레딧도 영향…검색 광고 수익성 저하",
+      "original_title": "구글 AI 검색에 애플·레딧도 영향…검색 광고 수익성 저하",
+      "published_at": "2026-11-23T07:49:33+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글의 AI 검색 서비스 이용이 늘면서 기존 검색보다 낮은 광고 수익성이 새로운 과제로 떠오르고 있다. 검색 광고 매출 성장세가 둔화하는 가운데, 구글과 광고 수익을 공유하는 애플과 검색을 통해 이용자를 확보해 온 레딧에도 영향을 미치고 있다는 분석이다.21일(현지시간) 디 인포메이션에 따르면, 구글의 검색 광고 매…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217698",
+          "title": "구글 AI 검색에 애플·레딧도 영향…검색 광고 수익성 저하"
+        }
+      ]
+    },
+    {
+      "id": "d35a6517ce79daa5db4d",
+      "url": "https://d2.naver.com/helloworld/1126768",
+      "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다",
+      "original_title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다",
+      "published_at": "2026-11-23T07:03:24+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 개발과 운영 당번을 함께 맡으며 새벽 알림에 깨는 일, 언제까지 사람이 해야 할까요? 원인을 찾는 일부터 직접 조치하는 일까지 AI Agent에게 안심하고 맡길 수 있도록 풀어 간 경험을 …",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/1126768",
+          "title": "새벽 3시 54분, Agent가 먼저 분석하고 처리했습니다"
+        }
+      ]
+    },
+    {
+      "id": "f45ec8210280caf84d75",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+      "title": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
+      "original_title": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
+      "published_at": "2026-11-23T07:01:27+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Saritha Rai / Bloomberg : Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B val…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/ant-group-bets-on-simplexity-to-thrive-in-china-s-humanoid-race",
+          "title": "Chinese physical AI startup Simplexity Robotics raised a $100M pre-Series A led by Ant Group, with Alibaba, Tencent, and others joining, at a $1.6B valuation (Saritha Rai/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261123/p4"
+        }
+      ]
+    },
+    {
+      "id": "043994e0282055e1042e",
+      "url": "https://d2.naver.com/helloworld/5087915",
+      "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+      "original_title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG",
+      "published_at": "2026-11-23T06:19:13+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ 발표 내용 기존 RAG의 텍스트 덤프 및 토큰 낭비 한계를 극복하고, 최신 인지 메모리 논문 기법을 결합해 지식 자율 진화와 99% 재현율을 달성하는 차세대 AI 메모리 아키텍처를 소개합니다. ​ 발…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/5087915",
+          "title": "뇌를 닮은 세컨드 브레인: 토큰 낭비 없는 RAG"
+        }
+      ]
+    },
+    {
+      "id": "b47e4011edb745a2394d",
+      "url": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai",
+      "title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners (Kyt Dotson/SiliconANGLE)",
+      "original_title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners (Kyt Dotson/SiliconANGLE)",
+      "published_at": "2026-11-23T05:30:01+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kyt Dotson / SiliconANGLE : London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners — Alect…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://siliconangle.com/2026/11/16/alecto-raises-20m-seed-funding-to-make-uk-property-law-more-accessible-to-consumers-with-ai",
+          "title": "London-based Alecto, which uses AI and legal experts to help consumers understand UK property law, raised a $20M seed led by Insight Partners (Kyt Dotson/SiliconANGLE)",
+          "discussion_url": "https://www.techmeme.com/261123/p1"
+        }
+      ]
+    },
+    {
+      "id": "aa47d36b443b523d80a3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42853",
+      "title": "LG CNS, 고교생 1,300명 AI 인재 육성…시각장애인 안내·어르신 재활 로봇 개발",
+      "original_title": "LG CNS, 고교생 1,300명 AI 인재 육성…시각장애인 안내·어르신 재활 로봇 개발",
+      "published_at": "2026-11-23T05:25:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "LG CNS(대표 현신균)가 고등학생 1,300명을 대상으로 인공지능(AI) 교육과 프로젝트 개발을 지원하고, 시각장애인과 고령자 등 사회적 약자를 돕는 생활밀착형 AI 서비스 개발 성과를 공개했다.LG CNS는 지난 20일 서울 마곡 LG사이언스파크 본사에서 ‘AI지니어스 아카데미 챌린지데이’를 개최했다고 23일 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42853",
+          "title": "LG CNS, 고교생 1,300명 AI 인재 육성…시각장애인 안내·어르신 재활 로봇 개발"
+        }
+      ]
+    },
+    {
+      "id": "fee9b5a4700b4ae17469",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42852",
+      "title": "루닛, UAE 헬스케어 그룹 M42와 협력…AI로 기존 흉부 엑스레이 재분석해 폐암 조기 발견 추진",
+      "original_title": "루닛, UAE 헬스케어 그룹 M42와 협력…AI로 기존 흉부 엑스레이 재분석해 폐암 조기 발견 추진",
+      "published_at": "2026-11-23T05:17:48+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "의료 인공지능(AI) 기업 루닛(대표 서범석)이 아랍에미리트(UAE)의 대형 헬스케어 그룹과 협력해 기존에 촬영된 흉부 엑스레이 영상을 AI로 재분석하고 폐암 의심 환자를 조기에 찾아내는 사업을 추진한다.루닛은 아부다비 국부펀드 무바달라(Mubadala)와 AI 기술 그룹 G42가 설립한 헬스테크 기업 엠42(M42…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42852",
+          "title": "루닛, UAE 헬스케어 그룹 M42와 협력…AI로 기존 흉부 엑스레이 재분석해 폐암 조기 발견 추진"
+        }
+      ]
+    },
+    {
+      "id": "2952ad4630ccf1c93f41",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42851",
+      "title": "에브리봇, 호텔 서비스에 피지컬 AI 로봇 적용…머큐어 서울 마곡서 현장 실증",
+      "original_title": "에브리봇, 호텔 서비스에 피지컬 AI 로봇 적용…머큐어 서울 마곡서 현장 실증",
+      "published_at": "2026-11-23T05:11:29+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "피지컬 인공지능(AI) 서비스로봇 전문기업 에브리봇(대표 정우철)은 지난 20일 서울 강서구에 위치한 ‘머큐어 서울 마곡(Mercure Ambassador Seoul Magok)’에서 서비스로봇 현장 실증(PoC)을 진행했다고 23일 밝혔다.실증에서는 호텔 직원의 업무 지원을 비롯해 국내외 고객을 대상으로 한 시설 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42851",
+          "title": "에브리봇, 호텔 서비스에 피지컬 AI 로봇 적용…머큐어 서울 마곡서 현장 실증"
+        }
+      ]
+    },
+    {
+      "id": "9a796dfd53597ea45041",
+      "url": "https://d2.naver.com/helloworld/2526679",
+      "title": "Spark 배치 파이프라인 Distributed Tracing 도입",
+      "original_title": "Spark 배치 파이프라인 Distributed Tracing 도입",
+      "published_at": "2026-11-23T05:02:11+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 Apache Spark가 지원하지 않는 분산 추적을 비즈니스 로직 수정 없이 플러그인 형태로 제공하여 연관된 애플리케이션들과 한 흐름으로 잇는 방법을 소개하고, 관측 결과를 성능 개선과…",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/2526679",
+          "title": "Spark 배치 파이프라인 Distributed Tracing 도입"
+        }
+      ]
+    },
+    {
+      "id": "15f73ca6d7b475b20053",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42847",
+      "title": "중소 제조기업 1,021곳에 2,696억원 지원…중기부, 2027년 스마트공장 구축지원사업 참여기업 모집",
+      "original_title": "중소 제조기업 1,021곳에 2,696억원 지원…중기부, 2027년 스마트공장 구축지원사업 참여기업 모집",
+      "published_at": "2026-11-23T03:00:00+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 2027년 중소 제조기업 1,021곳을 대상으로 총 2,696억원을 투입해 스마트공장 구축과 인공지능 전환(AX)을 지원한다. 기존 제조공정의 디지털전환(DX)을 넘어 제조 AI와 자율형공장, 피지컬 AI 도입을 확대하고 대기업의 기술과 인프라를 중소기업에 연결하는 것이 주요 방향이다.중소벤처기업부(장관 이소…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42847",
+          "title": "중소 제조기업 1,021곳에 2,696억원 지원…중기부, 2027년 스마트공장 구축지원사업 참여기업 모집"
+        }
+      ]
+    },
+    {
+      "id": "ed4464bb162ea138fc28",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42849",
+      "title": "카카오, AI 에이전트 실전 경진대회 개최…5,000명 지원해 100명 본선 진출",
+      "original_title": "카카오, AI 에이전트 실전 경진대회 개최…5,000명 지원해 100명 본선 진출",
+      "published_at": "2026-11-23T02:59:05+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "카카오(대표 정신아)가 인공지능(AI) 에이전트를 직접 설계하고 자율적으로 문제를 해결하도록 운영하는 실전 경진대회를 개최했다. 기존 AI 활용 능력 평가에서 한 단계 나아가, AI 에이전트의 행동을 설계하고 관리하는 역량을 검증하는 데 초점을 맞췄다.카카오는 카카오 임팩트재단이 주최하고 과학기술정보통신부와 카카오가…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42849",
+          "title": "카카오, AI 에이전트 실전 경진대회 개최…5,000명 지원해 100명 본선 진출"
+        }
+      ]
+    },
+    {
+      "id": "9de687ec467fa547c62b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42848",
+      "title": "LG전자, 싱가포르에 AI홈 체험공간 개설…동남아 7억 시장 공략 확대",
+      "original_title": "LG전자, 싱가포르에 AI홈 체험공간 개설…동남아 7억 시장 공략 확대",
+      "published_at": "2026-11-23T02:36:35+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "LG전자(대표이사 류재철)가 싱가포르에 인공지능(AI) 기반 스마트홈 체험공간을 마련하고, 약 7억 인구의 동남아시아 시장을 대상으로 AI홈 솔루션 확대에 나선다.LG전자는 최근 싱가포르 복합 쇼핑몰 밀레니아 워크(Millenia Walk)에 약 140㎡ 규모의 AI홈 체험 거점 매장을 개설했다고 밝혔다. 체험공간은…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42848",
+          "title": "LG전자, 싱가포르에 AI홈 체험공간 개설…동남아 7억 시장 공략 확대"
+        }
+      ]
+    },
+    {
+      "id": "81a6d8e8bd4da091b42b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42845",
+      "title": "KB금융 이재근 회장 취임…“AI 중심으로 일하는 방식 재설계, 리딩 플랫폼 전환”",
+      "original_title": "KB금융 이재근 회장 취임…“AI 중심으로 일하는 방식 재설계, 리딩 플랫폼 전환”",
+      "published_at": "2026-11-23T02:01:09+00:00",
+      "collected_at": "2026-11-23T11:55:09+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "KB금융그룹이 인공지능(AI)과 데이터를 기반으로 기존 금융서비스를 플랫폼 중심으로 전환하고, 2027년을 그룹의 새로운 성장 체계를 구축하는 ‘대전환의 원년’으로 삼는다. 은행·증권·보험·카드 등 계열사 간 경계를 허물고, AI 에이전트 시대에 대응하는 통합 금융서비스를 강화한다는 전략이다.KB금융지주는 23일, …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42845",
+          "title": "KB금융 이재근 회장 취임…“AI 중심으로 일하는 방식 재설계, 리딩 플랫폼 전환”"
+        }
+      ]
+    },
+    {
       "id": "6fa8c5db391204e7fa99",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42843",
       "title": "오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안",
