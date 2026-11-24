@@ -3,6 +3,851 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ef7e50054e95b5780b8b",
+      "url": "https://github.com/dorgrn/decloak",
+      "title": "Show HN: Decloak – Scan –/.claude and MCP configs for malware without an LLM",
+      "original_title": "Show HN: Decloak – Scan –/.claude and MCP configs for malware without an LLM",
+      "published_at": "2026-11-24T13:20:33+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/dorgrn/decloak",
+          "title": "Show HN: Decloak – Scan –/.claude and MCP configs for malware without an LLM",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627796"
+        }
+      ]
+    },
+    {
+      "id": "ade278c8145c4b2e43b5",
+      "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+      "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
+      "original_title": "Scoop – AI employees sound alarm: models too powerful to ever release",
+      "published_at": "2026-11-24T13:19:36+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+          "title": "Scoop – AI employees sound alarm: models too powerful to ever release",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627784"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks",
+          "title": "Sources: Anthropic and OpenAI employees warn that internal, unreleased models have achieved rapid advances in reasoning, making them unsafe to release publicly (Madison Mills/Axios)",
+          "discussion_url": "https://www.techmeme.com/261124/p11"
+        }
+      ]
+    },
+    {
+      "id": "4fc5bd89d0906f089960",
+      "url": "https://gist.github.com/corporatepiyush/bf41ec73f33ca30eeecae1a6147a377d",
+      "title": "Complete Prompt for creating LLM free chatbot for any business domain",
+      "original_title": "Complete Prompt for creating LLM free chatbot for any business domain",
+      "published_at": "2026-11-24T13:17:35+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://gist.github.com/corporatepiyush/bf41ec73f33ca30eeecae1a6147a377d",
+          "title": "Complete Prompt for creating LLM free chatbot for any business domain",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627760"
+        }
+      ]
+    },
+    {
+      "id": "189fa412f397c61ff0b8",
+      "url": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history",
+      "title": "Nvidia: the most expensive bargaining chip in history (November 16th-24th)",
+      "original_title": "Nvidia: the most expensive bargaining chip in history (November 16th-24th)",
+      "published_at": "2026-11-24T13:15:01+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history",
+          "title": "Nvidia: the most expensive bargaining chip in history (November 16th-24th)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627732"
+        }
+      ]
+    },
+    {
+      "id": "02a81ab131374d010a59",
+      "url": "https://www.nature.com/articles/d41586-026-03824-3",
+      "title": "Fight AI slop without punishing legitimate researchers",
+      "original_title": "Fight AI slop without punishing legitimate researchers",
+      "published_at": "2026-11-24T13:12:39+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.nature.com/articles/d41586-026-03824-3",
+          "title": "Fight AI slop without punishing legitimate researchers",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627707"
+        }
+      ]
+    },
+    {
+      "id": "3230b2d5a1499e13666a",
+      "url": "https://www.reddit.com/r/MistralAI/comments/1y3nr3a/vibe_update_vibe_allowance_changes",
+      "title": "Mistral restricts third party harnesses on paid plans",
+      "original_title": "Mistral restricts third party harnesses on paid plans",
+      "published_at": "2026-11-24T13:12:17+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reddit.com/r/MistralAI/comments/1y3nr3a/vibe_update_vibe_allowance_changes",
+          "title": "Mistral restricts third party harnesses on paid plans",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627703"
+        }
+      ]
+    },
+    {
+      "id": "bd1b771d1cb150b6be26",
+      "url": "https://searchvalley.co.uk/blog/hoppenheimer",
+      "title": "Hoppenheimer: The frog that watches Claude Code",
+      "original_title": "Hoppenheimer: The frog that watches Claude Code",
+      "published_at": "2026-11-24T13:04:14+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://searchvalley.co.uk/blog/hoppenheimer",
+          "title": "Hoppenheimer: The frog that watches Claude Code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627589"
+        }
+      ]
+    },
+    {
+      "id": "e2c1313ee21b942682ac",
+      "url": "https://chartsenseai.com/",
+      "title": "Show HN: ChartSense AI, structured chart analysis for crypto markets",
+      "original_title": "Show HN: ChartSense AI, structured chart analysis for crypto markets",
+      "published_at": "2026-11-24T13:03:34+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://chartsenseai.com/",
+          "title": "Show HN: ChartSense AI, structured chart analysis for crypto markets",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627579"
+        }
+      ]
+    },
+    {
+      "id": "16c5b624f5194921f83b",
+      "url": "https://vshulcz.github.io/deja-vu/guide/after-compaction.html",
+      "title": "What survives Claude Code compaction: 77% of decisions, 0.2% of commands",
+      "original_title": "What survives Claude Code compaction: 77% of decisions, 0.2% of commands",
+      "published_at": "2026-11-24T13:03:07+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://vshulcz.github.io/deja-vu/guide/after-compaction.html",
+          "title": "What survives Claude Code compaction: 77% of decisions, 0.2% of commands",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627573"
+        }
+      ]
+    },
+    {
+      "id": "096b407e26312c5e25b8",
+      "url": "https://octocheck.ai/",
+      "title": "Show HN: OctoCheck – see if AI crawlers can read and understand your pages",
+      "original_title": "Show HN: OctoCheck – see if AI crawlers can read and understand your pages",
+      "published_at": "2026-11-24T13:00:39+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://octocheck.ai/",
+          "title": "Show HN: OctoCheck – see if AI crawlers can read and understand your pages",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627543"
+        }
+      ]
+    },
+    {
+      "id": "c4de5f80fface5cd9512",
+      "url": "https://github.com/maxtechstack/ai-support-checker",
+      "title": "Show HN: A browser-only checker for what a support AI closed vs. handed back",
+      "original_title": "Show HN: A browser-only checker for what a support AI closed vs. handed back",
+      "published_at": "2026-11-24T12:59:53+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/maxtechstack/ai-support-checker",
+          "title": "Show HN: A browser-only checker for what a support AI closed vs. handed back",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627529"
+        }
+      ]
+    },
+    {
+      "id": "e9023417c644b88b7789",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million",
+      "title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
+      "original_title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
+      "published_at": "2026-11-24T12:52:40+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/ai-chipmaker-axelera-in-talks-to-raise-additional-400-million",
+          "title": "AI Chipmaker Axelera in Talks to Raise Additional $400M",
+          "discussion_url": "https://news.ycombinator.com/item?id=50627442"
+        }
+      ]
+    },
+    {
+      "id": "eda87b30a8c57dbc3b58",
+      "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?reflink=desktopwebshare_permalink&st=waZnXv",
+      "title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO (Wall Street Journal)",
+      "original_title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO (Wall Street Journal)",
+      "published_at": "2026-11-24T12:50:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Wall Street Journal : A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/tech/ai/riemann-hypothesis-anthropic-math-levent-alpoge-75351bcb?reflink=desktopwebshare_permalink&st=waZnXv",
+          "title": "A profile of Levent Alpöge, the Anthropic mathematician who found a Riemann hypothesis proof with Claude and held off releasing it until after Anthropic's IPO (Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261124/p16"
+        }
+      ]
+    },
+    {
+      "id": "13d825873dc139982ae1",
+      "url": "https://byline.network/2026/11/24-665",
+      "title": "20년 만에 돌아온 포티넷코리아 김종덕 대표 “AI 시대, 개별 보안 솔루션은 한계”",
+      "original_title": "20년 만에 돌아온 포티넷코리아 김종덕 대표 “AI 시대, 개별 보안 솔루션은 한계”",
+      "published_at": "2026-11-24T12:40:08+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“AI가 매일 새로운 취약점을 발견하는 시대에 개별 보안 제품으로 대응하는 것이 과연 맞는지 고민해야 합니다. 보다 다각적이고 지능적인 플랫폼 기반의 접근이 필요합니다. 제가 포티넷으로 다시 돌아온 이유이기도 합니다.” 김종덕 포티넷코리아 신임 대표는 24일 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/24-665",
+          "title": "20년 만에 돌아온 포티넷코리아 김종덕 대표 “AI 시대, 개별 보안 솔루션은 한계”"
+        }
+      ]
+    },
+    {
+      "id": "cb4e91427e172669e7b4",
+      "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44",
+      "title": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more (Financial Times)",
+      "original_title": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more (Financial Times)",
+      "published_at": "2026-11-24T11:55:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/c96c40c5-6b07-4433-b65f-19105e9ccb44",
+          "title": "How frontier AI labs and Big Tech companies are combatting rising state-sponsored espionage threats: recruiting CIA talent, limiting staff movements, and more (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261124/p13"
+        }
+      ]
+    },
+    {
+      "id": "36fb5b1c7a9ff4c850f9",
+      "url": "https://www.anthropic.com/research/working-with-ai",
+      "title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks (Anthropic)",
+      "original_title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks (Anthropic)",
+      "published_at": "2026-11-24T11:40:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Anthropic : Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks — How …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.anthropic.com/research/working-with-ai",
+          "title": "Study: most AI deployments derive value by expanding and accelerating output rather than reducing costs, with 80% of 100 AI-built apps automating manual tasks (Anthropic)",
+          "discussion_url": "https://www.techmeme.com/261124/p12"
+        }
+      ]
+    },
+    {
+      "id": "a014ace4e4b906f56578",
+      "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html?smid=url-share&unlocked_article_code=1.S1E.Kgj2.0MiuBqGVK4xy",
+      "title": "President Trump dismissed US intelligence findings to reinstate Jensen Huang, saying on CNBC he needed to stop market losses; Trump held $12M+ of NVDA in 2025 (Peter Baker/New York Times)",
+      "original_title": "President Trump dismissed US intelligence findings to reinstate Jensen Huang, saying on CNBC he needed to stop market losses; Trump held $12M+ of NVDA in 2025 (Peter Baker/New York Times)",
+      "published_at": "2026-11-24T11:00:59+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Peter Baker / New York Times : President Trump dismissed US intelligence findings to reinstate Jensen Huang, saying on CNBC he needed to stop market losses; Trump held $12M+ of …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/23/us/politics/trump-nvidia-national-security.html?smid=url-share&unlocked_article_code=1.S1E.Kgj2.0MiuBqGVK4xy",
+          "title": "President Trump dismissed US intelligence findings to reinstate Jensen Huang, saying on CNBC he needed to stop market losses; Trump held $12M+ of NVDA in 2025 (Peter Baker/New York Times)",
+          "discussion_url": "https://www.techmeme.com/261124/p9"
+        }
+      ]
+    },
+    {
+      "id": "518a8c99d08323ec96ac",
+      "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc",
+      "title": "Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)",
+      "original_title": "Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)",
+      "published_at": "2026-11-24T10:35:02+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc",
+          "title": "Sources: a Silicon Valley war room, including Travis Kalanick, Gavin Baker, Brad Gerstner, and Marc Andreessen, lobbied Trump and JD Vance to reinstate Huang (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261124/p6"
+        }
+      ]
+    },
+    {
+      "id": "aa0e2ce3b81c2e0e5a06",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42873",
+      "title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합",
+      "original_title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합",
+      "published_at": "2026-11-24T09:41:17+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 에이전트가 기업의 업무 수행과 의사결정에 참여하는 에이전틱 엔터프라이즈(Agentic Enterprise) 시대를 맞아 휴렛팩커드 엔터프라이즈(Hewlett Packard Enterprise, HPE)가 컴퓨팅과 데이터, 네트워킹, 하이브리드 클라우드를 아우르는 통합 AI 인프라 전략을 제시했다.HP…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42873",
+          "title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합"
+        }
+      ]
+    },
+    {
+      "id": "8ab193ed18c2df916a8d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217729",
+      "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
+      "original_title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
+      "published_at": "2026-11-24T09:28:58+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 AI가 작성한 코드를 검토하고 수정하는 데 이어, 팀의 규칙에 따라 승인 여부까지 판단하는 개발 자동화 도구를 선보였다. 코드 생성 이후 검토와 승인에 걸리는 시간을 줄여 개발 속도를 높이겠다는 전략이다.앤트로픽은 23일(현지시간) ‘클로드 십(Claude Ship)’을 베타 버전으로 출시했다고 밝혔다.코…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217729",
+          "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화"
+        }
+      ]
+    },
+    {
+      "id": "1491417370724a142bb1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217751",
+      "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진",
+      "original_title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진",
+      "published_at": "2026-11-24T09:17:40+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부의 내년 AI 예산이 정부안 기준 약 16조원 규모로 편성됐다. 올해 예산 대비 1.6배 늘어난 규모다.이진수 과학기술정보통신부 인공지능정책기획관은 24일 서울 삼정호텔에서 한국인공지능·소프트웨어산업협회(KOSA)가 개최한 AI 공급·수요기업 매칭 행사 '2026 K-AX 데이' 축사에서 이 같이 밝혔다.이 기획…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217751",
+          "title": "내년 정부 AI 예산 1.6배 확대…풀스택 AX 수출 추진"
+        }
+      ]
+    },
+    {
+      "id": "ea9168847539013e5585",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217728",
+      "title": "Z.ai, ‘GLM-5.4’에 루프 트랜스포머 적용…오픈AI 이어 반복 연산 경쟁",
+      "original_title": "Z.ai, ‘GLM-5.4’에 루프 트랜스포머 적용…오픈AI 이어 반복 연산 경쟁",
+      "published_at": "2026-11-24T09:15:58+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 Z.ai가 같은 신경망 레이어를 반복 실행하는 ‘루프 트랜스포머(Loop Transformer)’ 구조의 플래그십 모델 ‘GLM-5.4’를 출시했다. 오픈AI의 차세대 추론 기술로 주목받고 싱킹머신즈랩의 공개 모델에도 적용된 방식으로, 매개변수를 늘리는 것과 함께 내부 연산 깊이를 높이는 경쟁이 이어지고 있다.…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217728",
+          "title": "Z.ai, ‘GLM-5.4’에 루프 트랜스포머 적용…오픈AI 이어 반복 연산 경쟁"
+        }
+      ]
+    },
+    {
+      "id": "03a15d8312742d164ac6",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42872",
+      "title": "ABB, 세계 최초 AI 탑재 저전압 모터 공개…센싱·엣지 컴퓨팅으로 산업 AI 확산 가속화",
+      "original_title": "ABB, 세계 최초 AI 탑재 저전압 모터 공개…센싱·엣지 컴퓨팅으로 산업 AI 확산 가속화",
+      "published_at": "2026-11-24T08:54:04+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "산업용 모터가 단순한 동력 공급 장치에서 설비의 운영 상태를 실시간으로 파악하고 산업 인공지능(AI)에 필요한 데이터를 수집·처리하는 지능형 장치로 진화하고 있다.ABB는 24일(현지시간) 센싱(Sensing)과 엣지 컴퓨팅(Edge Computing), 데이터 연결 기능을 제조 단계부터 통합한 저전압 모터 ‘인텔렉…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42872",
+          "title": "ABB, 세계 최초 AI 탑재 저전압 모터 공개…센싱·엣지 컴퓨팅으로 산업 AI 확산 가속화"
+        }
+      ]
+    },
+    {
+      "id": "e62896d31d4c5a9fd692",
+      "url": "https://d2.naver.com/helloworld/2957037",
+      "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기 (영상)",
+      "original_title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기 (영상)",
+      "published_at": "2026-11-24T08:45:19+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "네이버 사내 기술 교류 행사인 NAVER Engineering Day 10th 에서 발표되었던 세션을 공개합니다. ​ ​ 발표 내용 가로로 넘기는 목록을 만들 때 대부분 LazyRow부터 떠올립니다. 하지만 카드가 비스듬히 겹겹이 쌓이고, 넘길 때마다 간격과 기울기가 바뀌는 3D 카드 덱은 LazyRow로 만들 수 …",
+      "sources": [
+        {
+          "source_id": "naver_d2",
+          "url": "https://d2.naver.com/helloworld/2957037",
+          "title": "Jetpack Compose 기반 커스텀 3D 캐러셀 개발기 (영상)"
+        }
+      ]
+    },
+    {
+      "id": "4862f1b41adc6562a2e3",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217749",
+      "title": "젠슨 황 부활에 국내 AI 인프라 서비스 관련 주가도 반등",
+      "original_title": "젠슨 황 부활에 국내 AI 인프라 서비스 관련 주가도 반등",
+      "published_at": "2026-11-24T08:00:25+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 최고경영자(CEO)의 복귀로 엘리스그룹과 래블업, 씨이랩 등 국내 AI 인프라 서비스 관련 주들도 일제히 반등했다. 24일 한국거래소에 따르면 엘리스그룹은 이날 전 거래일보다 3300원(7.58%) 오른 4만6850원에 거래를 마쳤다. 래블업은 440원(4.28%) 오른 1만730원, 씨이랩은 41…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217749",
+          "title": "젠슨 황 부활에 국내 AI 인프라 서비스 관련 주가도 반등"
+        }
+      ]
+    },
+    {
+      "id": "6134efd56980a3883ea5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217745",
+      "title": "[게시판] KT, 육군교육사령부와 AI 기반 지휘통제체계 고도화 등 단신",
+      "original_title": "[게시판] KT, 육군교육사령부와 AI 기반 지휘통제체계 고도화 등 단신",
+      "published_at": "2026-11-24T08:00:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ KT(대표 박윤영)는 육군교육사령부와 육군 차세대 지휘통제체계 ‘KCCS-Army’의 연구·발전을 위한 업무협약(MOU)을 체결했다고 밝혔다. 양측은 AI·클라우드·5G 등 첨단기술 공유와 자문, 전투실험 등 연구개발 과제 공동 발굴, 미래 육군 핵심기술 및 신무기체계 발굴 등을 추진한다. KT는 KCCS-Arm…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217745",
+          "title": "[게시판] KT, 육군교육사령부와 AI 기반 지휘통제체계 고도화 등 단신"
+        }
+      ]
+    },
+    {
+      "id": "21983cbdb77fa44e8731",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42870",
+      "title": "곽재도 제4대 인공지능산업융합사업단장 취임…“전남광주를 글로벌 AI 오픈생태계 중심지로”",
+      "original_title": "곽재도 제4대 인공지능산업융합사업단장 취임…“전남광주를 글로벌 AI 오픈생태계 중심지로”",
+      "published_at": "2026-11-24T07:55:51+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "곽재도 제4대 인공지능산업융합사업단(AICA) 신임 단장이 국가 AI 인프라를 산업 현장의 혁신과 기업 성장으로 연결해 전남광주를 글로벌 인공지능(AI) 융합혁신 거점으로 육성하겠다는 비전을 제시했다.곽 단장은 24일, 광주 북구 첨단3지구 AI집적단지 컨퍼런스홀에서 열린 취임식에서 “AI 산업의 경쟁은 기술개발과 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42870",
+          "title": "곽재도 제4대 인공지능산업융합사업단장 취임…“전남광주를 글로벌 AI 오픈생태계 중심지로”"
+        }
+      ]
+    },
+    {
+      "id": "4272a83e24ea12cb0225",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217735",
+      "title": "AWS “클라우드 사용자, 사람 아닌 에이전트”…CPU 인프라 강화 나선다",
+      "original_title": "AWS “클라우드 사용자, 사람 아닌 에이전트”…CPU 인프라 강화 나선다",
+      "published_at": "2026-11-24T07:51:39+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "'AI 에이전트가 사람 대신 클라우드를 직접 쓰는 시대'가 열리면서 클라우드 인프라 경쟁의 축이 GPU에서 CPU로 확대되고 있다. 글로벌 클라우드 서비스의 대표주자 아마존웹서비스(AWS)도 자체 CPU를 앞세워 에이전트 전용 인프라를 강화하고 있다.윤석찬 AWS코리아 수석 테크 에반젤리스트는 24일 열린 'AWS …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217735",
+          "title": "AWS “클라우드 사용자, 사람 아닌 에이전트”…CPU 인프라 강화 나선다"
+        }
+      ]
+    },
+    {
+      "id": "5936894b19dad718121f",
+      "url": "https://www.politico.eu/article/meta-ai-agent-muse-launch-uk",
+      "title": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)",
+      "original_title": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)",
+      "published_at": "2026-11-24T07:50:01+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Mizy Clifton / Politico : Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned abou…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.politico.eu/article/meta-ai-agent-muse-launch-uk",
+          "title": "Meta rolls out Muse to UK adults to help with everyday tasks, the first Big Tech company to launch an AI agent in the UK; UK watchdogs have warned about agents (Mizy Clifton/Politico)",
+          "discussion_url": "https://www.techmeme.com/261124/p4"
+        }
+      ]
+    },
+    {
+      "id": "674d8ba2258906208cab",
+      "url": "https://byline.network/2026/11/849852093482048230",
+      "title": "[요즘 채용] 스타트업 취직, 어떤 직군을 노리는 게 유리할까",
+      "original_title": "[요즘 채용] 스타트업 취직, 어떤 직군을 노리는 게 유리할까",
+      "published_at": "2026-11-24T07:37:44+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "올해 스타트업 채용 공고에서 개발·디자인 직무의 비중은 줄고 마케팅·영업 비중은 커졌다. 개발은 여전히 공고가 가장 많은 직무지만, 지난해 4개 직무 공고의 절반에 가까웠던 비중이 올해는 40% 수준으로 낮아졌다. 채용 현장에서는 AI 도구의 확산으로 개발·디자인 업무를 한 사람이 함께 맡는 사례가 생기고, 제품 출…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/849852093482048230",
+          "title": "[요즘 채용] 스타트업 취직, 어떤 직군을 노리는 게 유리할까"
+        }
+      ]
+    },
+    {
+      "id": "3c5bfbc05ea5f9ed56c6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217746",
+      "title": "멤텐서·엔비디아, 기억 내장 AI ‘멤T-1.0 프로’ 공개…과거 대화 재입력 줄인다",
+      "original_title": "멤텐서·엔비디아, 기억 내장 AI ‘멤T-1.0 프로’ 공개…과거 대화 재입력 줄인다",
+      "published_at": "2026-11-24T07:35:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 AI 스타트업 멤텐서(MemTensor)가 엔비디아와 협력해 과거 대화 정보를 내부 기억에 저장하고 활용하는 AI 모델 ‘멤T-1.0 프로(MemT-1.0-Pro)’를 공개했다. 대화 기록 원문을 매번 프롬프트에 다시 넣는 부담을 줄이고, 이전에 주고받은 정보를 다음 응답에 활용하도록 설계했다.멤텐서는 23일 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217746",
+          "title": "멤텐서·엔비디아, 기억 내장 AI ‘멤T-1.0 프로’ 공개…과거 대화 재입력 줄인다"
+        }
+      ]
+    },
+    {
+      "id": "c0bd23dd340266ef2295",
+      "url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
+      "title": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's \"engineering mindset\" overlooks human biology (Financial Times)",
+      "original_title": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's \"engineering mindset\" overlooks human biology (Financial Times)",
+      "published_at": "2026-11-24T07:30:08+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's “engineering mindset” overlooks human biology —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/1e5a9d70-221d-461d-ae03-dc235b1db340",
+          "title": "Novartis CEO and Anthropic board member Vas Narasimhan doubts AI will cure cancer in 5-10 years, arguing tech's \"engineering mindset\" overlooks human biology (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261124/p3"
+        }
+      ]
+    },
+    {
+      "id": "012b520daf9bd3dd3e9d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217741",
+      "title": "구글, AI 검색에 월렛·드라이브 연결…결제 내역·개인 문서까지 활용",
+      "original_title": "구글, AI 검색에 월렛·드라이브 연결…결제 내역·개인 문서까지 활용",
+      "published_at": "2026-11-24T07:15:48+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "구글이 AI 검색에 구글 월렛과 드라이브, 제미나이 앱을 연결해 개인 맞춤형 답변을 강화한다. 결제 내역과 개인 문서, 제미나이의 대화 기록까지 검색에 활용하는 것으로, 다양한 자체 서비스에 축적된 개인 데이터를 AI와 결합해 경쟁력을 높이려는 전략이다.구글은 23일(현지시간) 공식 블로그를 통해 검색의 AI 모드에…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217741",
+          "title": "구글, AI 검색에 월렛·드라이브 연결…결제 내역·개인 문서까지 활용"
+        }
+      ]
+    },
+    {
+      "id": "f75f5bc2598726cf8e10",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217730",
+      "title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\"",
+      "original_title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\"",
+      "published_at": "2026-11-24T07:03:58+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 정부가 메가스피드와 함께 중국 알리바바의 싱가포르 자회사를 수출 통제 블랙리스트에 올렸다. 알리바바는 해당 자회사가 미국의 AI 칩 수출 규제를 위반한 적이 없다며 법적 대응에 나서겠다고 밝혔다.미국 상무부 산업안보국(BIS)은 23일(현지시간) 연방관보 공고를 통해 알리바바의 싱가포르 자회사 에이펙스 엔터프라…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217730",
+          "title": "미국, 알리바바 계열사도 블랙리스트 등재…알리바바 \"법적 대응\""
+        }
+      ]
+    },
+    {
+      "id": "9569e812c6021bf29266",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217732",
+      "title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입",
+      "original_title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입",
+      "published_at": "2026-11-24T06:59:07+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "아마존이 이스라엘 AI 스타트업 데카르트(Decart)의 핵심 기술과 인력을 확보하는 데 75억달러(약 10조원)를 투입하기로 했다. 다양한 AI 칩에서 모델을 효율적으로 실행할 수 있는 소프트웨어를 확보해 자체 AI 칩의 경쟁력을 높이고, 엔비디아 의존도를 낮추려는 전략에 따른 것이다.아마존은 23일(현지시간) 공…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217732",
+          "title": "아마존, 데카르트의 'AI 최적화' 기술 10조원에 인수…창업자도 영입"
+        }
+      ]
+    },
+    {
+      "id": "99e29fddc3c8d76d2523",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217747",
+      "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로",
+      "original_title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로",
+      "published_at": "2026-11-24T06:55:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "오픈AI 이사회 의장 브렛 테일러가 이끄는 고객 서비스 AI 에이전트 기업 시에라(Sierra)가 기업가치 300억달러(약 40조원)를 기준으로 17억5000만달러(약 2조3000억원) 규모의 투자 유치를 발표했다. 6개월 만에 기업가치가 두 배 수준으로 높아진 것으로, 고객 문의에 답하는 것을 넘어 실제 업무를 처…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217747",
+          "title": "고객 서비스 AI 기업 시에라, 17.5억달러 투자 유치…기업가치 두 배로"
+        }
+      ]
+    },
+    {
+      "id": "2fcf9dcbfaeee9e750cb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217744",
+      "title": "지방소멸 대응에 AI 꺼낸 강진군…직원 72% 활용에 인사평가까지 개편",
+      "original_title": "지방소멸 대응에 AI 꺼낸 강진군…직원 72% 활용에 인사평가까지 개편",
+      "published_at": "2026-11-24T06:52:00+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "전남광주 강진군이 지방소멸에 대응하기 위해 4년 전부터 AI를 행정과 지역산업에 접목해 공무원 인사평가 제도까지 개편한다. 지난 9월 기준 전체 직원의 약 72%가 자발적으로 생성형 AI를 활용하는 가운데 개인의 업무 개선 성과를 부서 단위의 행정 혁신과 지역경제 활성화로 연결하겠다는 구상이다. 23일 강진군에 따르…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217744",
+          "title": "지방소멸 대응에 AI 꺼낸 강진군…직원 72% 활용에 인사평가까지 개편"
+        }
+      ]
+    },
+    {
+      "id": "bedf5dd51558e26f81e7",
+      "url": "https://byline.network/2026/11/24-654",
+      "title": "엔키화이트햇 “해커의 공격 전 과정 자동화, 국내선 우리가 앞서 있다”",
+      "original_title": "엔키화이트햇 “해커의 공격 전 과정 자동화, 국내선 우리가 앞서 있다”",
+      "published_at": "2026-11-24T06:32:37+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "“해커가 실제로 공격하는 순서를 그대로 따라가는 플랫폼입니다. 공격의 전 과정을 모두 갖춘 것은 현재 국내에서 저희가 유일하다고 말씀드릴 수 있습니다.” 이성권 엔키화이트햇 대표는 24일 서울 여의도에서 열린 기업공개(IPO) 기자간담회에서 이렇게 강조했다. 내달 코스닥 상장을 앞둔 엔키화이트햇은 인공지능(AI)을 …",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/24-654",
+          "title": "엔키화이트햇 “해커의 공격 전 과정 자동화, 국내선 우리가 앞서 있다”"
+        }
+      ]
+    },
+    {
+      "id": "c9022af5c96260b06243",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42869",
+      "title": "AI 로봇이 교정시설 자율 순찰…미국 AITX, 보안 인력 지원·운영비 절감 실증 착수",
+      "original_title": "AI 로봇이 교정시설 자율 순찰…미국 AITX, 보안 인력 지원·운영비 절감 실증 착수",
+      "published_at": "2026-11-24T05:44:40+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "피지컬 AI(Physical AI) 기반 자율주행 로봇의 활용 범위가 제조·물류 현장을 넘어 교정시설의 보안 순찰 업무로 확대되고 있다.미국 인공지능(AI) 기반 보안 솔루션 기업 아티피셜 인텔리전스 테크놀로지 솔루션스(Artificial Intelligence Technology Solutions, AITX)는 자…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42869",
+          "title": "AI 로봇이 교정시설 자율 순찰…미국 AITX, 보안 인력 지원·운영비 절감 실증 착수"
+        }
+      ]
+    },
+    {
+      "id": "3f127674ee511110884c",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42868",
+      "title": "AI 에이전트가 양자 알고리즘 최적화한다…구글 딥마인드, 핵융합 연산 비용 11.8분의 1로 줄여",
+      "original_title": "AI 에이전트가 양자 알고리즘 최적화한다…구글 딥마인드, 핵융합 연산 비용 11.8분의 1로 줄여",
+      "published_at": "2026-11-24T05:07:39+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 양자컴퓨팅(Quantum Computing)을 활용하는 수준을 넘어 양자 알고리즘 자체를 발견하고 최적화하는 과학 연구의 새로운 도구로 진화하고 있다.구글 딥마인드(Google DeepMind)와 구글 퀀텀 AI(Google Quantum AI) 공동 연구진은 다수의 AI 에이전트가 독립적으로 연구…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42868",
+          "title": "AI 에이전트가 양자 알고리즘 최적화한다…구글 딥마인드, 핵융합 연산 비용 11.8분의 1로 줄여"
+        }
+      ]
+    },
+    {
+      "id": "984ff90a78223e97b054",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42867",
+      "title": "오픈AI·시스코, 오픈소스 보안 런타임 시루도 공개...시스템 재시작 없이 리눅스 보호한다",
+      "original_title": "오픈AI·시스코, 오픈소스 보안 런타임 시루도 공개...시스템 재시작 없이 리눅스 보호한다",
+      "published_at": "2026-11-24T02:07:55+00:00",
+      "collected_at": "2026-11-24T13:21:10+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "인공지능(AI)이 소프트웨어의 보안 취약점을 발견하는 것을 넘어 시스템 운영을 중단하지 않고 사이버 공격을 차단하는 보안 기술 개발에도 활용되고 있다.오픈AI(OpenAI)와 시스코(Cisco)는 23일(현지시간) 보안 패치가 배포되거나 시스템이 재시작될 때까지 기다리지 않고 가동 중인 리눅스(Linux) 시스템을 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42867",
+          "title": "오픈AI·시스코, 오픈소스 보안 런타임 시루도 공개...시스템 재시작 없이 리눅스 보호한다"
+        }
+      ]
+    },
+    {
       "id": "7fd61811521de7273397",
       "url": "https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack",
       "title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
