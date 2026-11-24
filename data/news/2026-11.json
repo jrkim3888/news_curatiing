@@ -3,6 +3,1125 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "7fd61811521de7273397",
+      "url": "https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack",
+      "title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
+      "original_title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
+      "published_at": "2026-11-24T01:50:15+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack",
+          "title": "I've never hunted for a software vulnerability. AI helped me find one in 6 hrs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50622479"
+        }
+      ]
+    },
+    {
+      "id": "9da6995f3dc48868d98e",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42866",
+      "title": "AWS 맷 가먼 CEO “AI 안전, 모델의 행동을 신뢰하는 것은 희망에 의존하는 것”…독립적 통제 시스템 구축 촉구",
+      "original_title": "AWS 맷 가먼 CEO “AI 안전, 모델의 행동을 신뢰하는 것은 희망에 의존하는 것”…독립적 통제 시스템 구축 촉구",
+      "published_at": "2026-11-24T01:40:15+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "인공지능(AI) 에이전트가 인간을 대신해 자율적으로 판단하고 실제 업무를 수행하는 시대가 열리면서 AI 안전성 확보를 위한 기술적 통제 체계의 중요성이 커지고 있다.아마존웹서비스(AWS)의 맷 가먼(Matt Garman) CEO가 AI 시스템의 안전성을 모델 자체의 행동 규칙이나 비상 정지 장치에만 의존해서는 안 되…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42866",
+          "title": "AWS 맷 가먼 CEO “AI 안전, 모델의 행동을 신뢰하는 것은 희망에 의존하는 것”…독립적 통제 시스템 구축 촉구"
+        }
+      ]
+    },
+    {
+      "id": "27ea8a140388b5a3e39b",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42865",
+      "title": "삼성SDS, 2027년 임원 인사 10명 승진…AX·AI 인프라 사업 확대 위한 세대교체",
+      "original_title": "삼성SDS, 2027년 임원 인사 10명 승진…AX·AI 인프라 사업 확대 위한 세대교체",
+      "published_at": "2026-11-24T01:32:27+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성SDS가 기업의 인공지능 전환(AX) 수요 확대에 대응해 AI 서비스와 클라우드 인프라, 솔루션, 디지털 물류 분야의 사업 및 기술 인재를 전진 배치했다.삼성SDS는 24일 부사장 4명, 상무 6명 등 총 10명을 승진시키는 2027년 정기 임원 인사를 단행하고 기업용 AI 시장의 성장과 클라우드 기반 서비스 확…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42865",
+          "title": "삼성SDS, 2027년 임원 인사 10명 승진…AX·AI 인프라 사업 확대 위한 세대교체"
+        }
+      ]
+    },
+    {
+      "id": "cb40a3c98094f97aa3b7",
+      "url": "https://www.neuralopsnexus.ai/",
+      "title": "NeuralOps Nexus – self-hosted AI teammates that ask before they act",
+      "original_title": "NeuralOps Nexus – self-hosted AI teammates that ask before they act",
+      "published_at": "2026-11-24T01:21:57+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.neuralopsnexus.ai/",
+          "title": "NeuralOps Nexus – self-hosted AI teammates that ask before they act",
+          "discussion_url": "https://news.ycombinator.com/item?id=50622220"
+        }
+      ]
+    },
+    {
+      "id": "1074915a04dd01de2236",
+      "url": "https://twitter.com/bcherny/status/2124961485801836573",
+      "title": "Claude Ship (Beta)",
+      "original_title": "Claude Ship (Beta)",
+      "published_at": "2026-11-24T01:17:57+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/bcherny/status/2124961485801836573",
+          "title": "Claude Ship (Beta)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50622188"
+        }
+      ]
+    },
+    {
+      "id": "f2901da400d310277b1a",
+      "url": "https://docs.microfeed.org/",
+      "title": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
+      "original_title": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
+      "published_at": "2026-11-24T01:03:42+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://docs.microfeed.org/",
+          "title": "Show HN: Lightweight Agentic CMS on Cloudflare – API, MCP, CLI, Web",
+          "discussion_url": "https://news.ycombinator.com/item?id=50622072"
+        }
+      ]
+    },
+    {
+      "id": "6225d33bb39d62220b9d",
+      "url": "https://github.com/nuglifeleoji/Sentry",
+      "title": "Sentry: An external self-improving failure management layer for LLM agents",
+      "original_title": "Sentry: An external self-improving failure management layer for LLM agents",
+      "published_at": "2026-11-24T00:56:07+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/nuglifeleoji/Sentry",
+          "title": "Sentry: An external self-improving failure management layer for LLM agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621997"
+        }
+      ]
+    },
+    {
+      "id": "018e7a3d2802aa59b726",
+      "url": "https://laike9m.com/blog/what-ai-is-bad-at,174",
+      "title": "What AI Is Bad At?",
+      "original_title": "What AI Is Bad At?",
+      "published_at": "2026-11-24T00:52:36+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://laike9m.com/blog/what-ai-is-bad-at,174",
+          "title": "What AI Is Bad At?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621962"
+        }
+      ]
+    },
+    {
+      "id": "6203eea008e08af9f897",
+      "url": "https://founderarcstoneos.substack.com/p/the-invisible-puzzle-box-what-a-verified",
+      "title": "The Invisible Puzzle Box: What a Verified AI System Proves",
+      "original_title": "The Invisible Puzzle Box: What a Verified AI System Proves",
+      "published_at": "2026-11-24T00:47:20+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://founderarcstoneos.substack.com/p/the-invisible-puzzle-box-what-a-verified",
+          "title": "The Invisible Puzzle Box: What a Verified AI System Proves",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621912"
+        }
+      ]
+    },
+    {
+      "id": "29ef7979f3ab07e3cbd5",
+      "url": "https://www.bloomberg.com/features/2026-google-classroom-ai-safety",
+      "title": "What Google's Classroom AI Sees",
+      "original_title": "What Google's Classroom AI Sees",
+      "published_at": "2026-11-24T00:43:24+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bloomberg.com/features/2026-google-classroom-ai-safety",
+          "title": "What Google's Classroom AI Sees",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621872"
+        }
+      ]
+    },
+    {
+      "id": "2b6afcdaa5cef2fe29ed",
+      "url": "https://podcasts.apple.com/us/podcast/topic-deep-dive-the-geopolitics-of-ai-i-e-the-china-episode/id1502782720?i=1000803686828",
+      "title": "Last Week in AI Topic Deep Dive: The Geopolitics of AI (I.e. The China Episode)",
+      "original_title": "Last Week in AI Topic Deep Dive: The Geopolitics of AI (I.e. The China Episode)",
+      "published_at": "2026-11-24T00:38:25+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://podcasts.apple.com/us/podcast/topic-deep-dive-the-geopolitics-of-ai-i-e-the-china-episode/id1502782720?i=1000803686828",
+          "title": "Last Week in AI Topic Deep Dive: The Geopolitics of AI (I.e. The China Episode)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621815"
+        }
+      ]
+    },
+    {
+      "id": "52968b044f851ec79559",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42864",
+      "title": "삼성전자, 2027년 임원 인사 131명 승진…AI 메모리·피지컬 AI·파운드리 기술 인재 전진 배치",
+      "original_title": "삼성전자, 2027년 임원 인사 131명 승진…AI 메모리·피지컬 AI·파운드리 기술 인재 전진 배치",
+      "published_at": "2026-11-24T00:36:33+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성전자가 인공지능(AI) 메모리 시장에서 역대 최대 실적을 이끈 반도체 기술 인재를 중용하고, 피지컬 AI(Physical AI)와 휴머노이드, 파운드리 등 미래 성장동력 확보를 위한 차세대 기술리더를 전진 배치했다.삼성전자는 24일, 부사장 39명, 상무 78명, 펠로우(Fellow) 2명, 마스터(Master)…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42864",
+          "title": "삼성전자, 2027년 임원 인사 131명 승진…AI 메모리·피지컬 AI·파운드리 기술 인재 전진 배치"
+        }
+      ]
+    },
+    {
+      "id": "e814d45ec1e282567c51",
+      "url": "https://tosdr.org/en/service/7108",
+      "title": "ToS;DR: OpenAI's ChatGPT",
+      "original_title": "ToS;DR: OpenAI's ChatGPT",
+      "published_at": "2026-11-24T00:36:26+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tosdr.org/en/service/7108",
+          "title": "ToS;DR: OpenAI's ChatGPT",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621798"
+        }
+      ]
+    },
+    {
+      "id": "6e96e09d83a9fa5935c6",
+      "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+      "title": "AI conquered chess. What happened next should give us hope",
+      "original_title": "AI conquered chess. What happened next should give us hope",
+      "published_at": "2026-11-24T00:31:52+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+          "title": "AI conquered chess. What happened next should give us hope",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621752"
+        }
+      ]
+    },
+    {
+      "id": "ca90ecacdad9145216f4",
+      "url": "https://rentry.co/ai-safety-eval-comparison",
+      "title": "The Institutional Laundering of AI Safety",
+      "original_title": "The Institutional Laundering of AI Safety",
+      "published_at": "2026-11-24T00:30:27+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://rentry.co/ai-safety-eval-comparison",
+          "title": "The Institutional Laundering of AI Safety",
+          "discussion_url": "https://news.ycombinator.com/item?id=50621738"
+        }
+      ]
+    },
+    {
+      "id": "dab60d6bd4e27f4c8ee4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217620",
+      "title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법",
+      "original_title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법서지영 | 위키북스2026년 9월 10일추천이유저자가 OpenAI 코덱스를 활용해 실제 서비스 개발의 전 과정을 실습하도록 구성했습니다. 이 책은 단순한 AI 코드 생성을 넘어 분석, 개발, 테스트, 릴리스, 유지보수까지 실무 흐름 속에서 AI를 효과적으로 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217620",
+          "title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법"
+        }
+      ]
+    },
+    {
+      "id": "105d2dd6f5d647be40a4",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54",
+      "title": "GLM-5.4, Z.ai의 첫 루프 트랜스포머 모델 공개",
+      "original_title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "published_at": "2026-11-23T23:40:49+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architec…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/23/glm-54",
+          "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+        }
+      ],
+      "summary": "중국 AI 연구소 Z.ai가 GLM-5.4를 공개했다. 이 모델은 가중치를 공유하는 레이어 그룹을 여러 번 반복 실행해 파라미터 수를 늘리지 않고도 더 깊은 네트워크 효과를 내는 루프 트랜스포머 아키텍처를 처음 적용했다고 Z.ai는 설명한다. 현재 오픈 웨이트로는 제공되지 않으며, Z.ai의 코딩 플랜 구독을 통해 API로 접근할 수 있다.",
+      "why_it_matters": "루프 트랜스포머는 최근 Thinking Machines Lab의 Inkling 2 Mini에서도 언급된 접근법으로, 파라미터 효율을 높이는 대안 아키텍처로 주목받고 있다. GLM-5.4의 등장은 중국 AI 연구소들이 모델 구조 혁신에서도 경쟁에 나서고 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:47+00:00",
+        "input_hash": "5479551e75a0f90cf0831db6a91bfa4550579c1d0ac9c9ac077bfeb00ea47924",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "886a3c986c0eac893941",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42862",
+      "title": "젠슨 황 11일 만에 엔비디아 복귀…트럼프 직접 개입에 주가 31% 폭등, AI 산업 지배구조 논란 확산",
+      "original_title": "젠슨 황 11일 만에 엔비디아 복귀…트럼프 직접 개입에 주가 31% 폭등, AI 산업 지배구조 논란 확산",
+      "published_at": "2026-11-23T23:29:50+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "세계 인공지능(AI) 반도체 시장을 주도하는 엔비디아(NVIDIA)의 창업자 젠슨 황(Jensen Huang)이 사임 공식 발표 11일 만에 최고경영자(CEO)로 복귀했다. 도널드 트럼프(Donald Trump) 미국 대통령이 이사회에 직접 복귀를 설득하고, 엔비디아 이사회가 미국 정부 고위급의 의견을 근거로 국가안…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42862",
+          "title": "젠슨 황 11일 만에 엔비디아 복귀…트럼프 직접 개입에 주가 31% 폭등, AI 산업 지배구조 논란 확산"
+        }
+      ]
+    },
+    {
+      "id": "f527eaa6a46372c56e3e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217711",
+      "title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영",
+      "original_title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영",
+      "published_at": "2026-11-23T22:10:26+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황이 엔비디아 CEO로 복귀하자, 수백명의 직원이 본사에 모여 그의 이름을 연호하며 환호했다. 황은 \"두 번째에는 더 나은 CEO가 되겠다\"라고 약속했으며, 일론 머스크 테슬라 CEO와 샘 알트먼 오픈AI CEO 등 실리콘밸리 주요 인사들도 환영의 뜻을 밝혔다.테크크런치와 워싱턴포스트 등은 23일(현지시간) 황…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217711",
+          "title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영"
+        }
+      ]
+    },
+    {
+      "id": "5e2478fb7557e8d39a7d",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "original_title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "published_at": "2026-11-23T22:05:50+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+          "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes"
+        }
+      ]
+    },
+    {
+      "id": "876aad68c91f878f76e7",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "original_title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "published_at": "2026-11-23T22:02:05+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+          "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+          "title": "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)",
+          "discussion_url": "https://www.techmeme.com/261123/p46"
+        }
+      ]
+    },
+    {
+      "id": "1cfe67d5ea843c1c375d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217684",
+      "title": "[11월23일] 'GPT-6'가 로봇의 두뇌까지 맡기 시작했다는 것의 의미",
+      "original_title": "[11월23일] 'GPT-6'가 로봇의 두뇌까지 맡기 시작했다는 것의 의미",
+      "published_at": "2026-11-23T22:00:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 유니트리의 왕싱싱 CEO는 최근 오픈AI의 'GPT-6 아스트라'를 활용해 휴머노이드가 별도의 작업별 모델 훈련 없이 그림을 그리고 체스를 두는 모습을 소개했습니다. 그는 앞서 로봇 분야에도 '챗GPT 모먼트'가 찾아올 것이라고 전망한 바 있습니다.엔비디아의 디푸 탈라 로봇사업 부사장도 GPT-6 아스트라가 로…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217684",
+          "title": "[11월23일] 'GPT-6'가 로봇의 두뇌까지 맡기 시작했다는 것의 의미"
+        }
+      ]
+    },
+    {
+      "id": "affb554213303069d7fa",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "original_title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "published_at": "2026-11-23T21:47:41+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"The mistake has been corrected,\" Elon Musk chimed in.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+          "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal"
+        }
+      ]
+    },
+    {
+      "id": "879887686c5681a65c06",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+      "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
+      "original_title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
+      "published_at": "2026-11-23T21:40:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Jess Menton / Bloomberg : Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AM…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+          "title": "Tech stocks rally as Jensen Huang returns as Nvidia CEO; the Nasdaq 100 jumped 7%, a Magnificent Seven basket rose 8%, CoreWeave 22%, Tesla 11%, and AMD 7% (Jess Menton/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261123/p42"
+        }
+      ]
+    },
+    {
+      "id": "5d461cccb1ae1ad7cc3e",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217706",
+      "title": "[기고] AI가 리만 가설을 풀었다면 수학은 끝난 것인가",
+      "original_title": "[기고] AI가 리만 가설을 풀었다면 수학은 끝난 것인가",
+      "published_at": "2026-11-23T21:30:47+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "■ 1700만 줄짜리 증명이 도착했다지난 20일 AI 기업 앤트로픽의 수학자 레벤트 알포게가 자사 AI '클로드'로 리만 가설을 증명했다고 발표했다. 1859년 리만이 제기한 뒤 167년 동안 아무도 풀지 못한 수학에서 가장 유명한 난제다. 증명은 컴퓨터가 검사하는 코드 1700만 줄로 쓰였다.다만 컴퓨터의 검사를 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217706",
+          "title": "[기고] AI가 리만 가설을 풀었다면 수학은 끝난 것인가"
+        }
+      ]
+    },
+    {
+      "id": "ea39f8a43a60b7b5db52",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "original_title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "published_at": "2026-11-23T21:25:42+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal go…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+          "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist"
+        }
+      ]
+    },
+    {
+      "id": "00d61abfad74335c7e22",
+      "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try",
+      "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+      "original_title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+      "published_at": "2026-11-23T21:25:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Radhika Rajkumar / ZDNET : Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterp…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.zdnet.com/innovation/claude-ship-code-how-to-try",
+          "title": "Anthropic unveils Claude Ship, letting Claude review, fix, and approve GitHub pull requests based on team policies, in beta for Claude Team and Enterprise tiers (Radhika Rajkumar/ZDNET)",
+          "discussion_url": "https://www.techmeme.com/261123/p41"
+        }
+      ]
+    },
+    {
+      "id": "b0689cf87ab570a441c8",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "title": "OpenAI와 Cisco, 리눅스 런타임 보안 도구 'Shirudo' 오픈소스로 공개",
+      "original_title": "OpenAI and Cisco introduce Shirudo",
+      "published_at": "2026-11-23T21:20:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/introducing-shirudo",
+          "title": "OpenAI and Cisco introduce Shirudo"
+        }
+      ],
+      "summary": "OpenAI와 Cisco가 패치 전 리눅스 시스템을 보호하기 위한 오픈소스 런타임 Shirudo를 발표했다. Shirudo는 eBPF를 사용해 실행 중인 시스템에 임시 방어책인 '실드'를 적용하며, Codex로 생성한 실드가 Elasticsearch의 Java4Shell 취약점 공격 시도를 재시작 없이 차단했다고 밝혔다. BSD 2-Clause 라이선스로 공개되며 개발자와 보안 연구자들의 참여를 요청했다.",
+      "why_it_matters": "패치가 나오기 전 취약점 노출 기간을 줄이는 접근으로, 운영 중단 없이 임시 보호를 적용할 수 있다는 점이 인프라 보안 운영 방식에 영향을 줄 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:43+00:00",
+        "input_hash": "993b2f0571b2acdf1384d1c2adf9a744716c2903d24b9c08b1aebc88936be359",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "d70157d1228f26a021a1",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "original_title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "published_at": "2026-11-23T20:38:53+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"I'm going to be a better CEO the second time around,\" Huang told employees.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+          "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ"
+        }
+      ]
+    },
+    {
+      "id": "8f726fc9757cea4751f8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217709",
+      "title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등",
+      "original_title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등",
+      "published_at": "2026-11-23T20:22:38+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황이 엔비디아 CEO로 복귀하자 주가가 31% 급등하며 시가총액이 약 9500억달러(약 1275조원) 증가했다. 최근 급락했던 AI 반도체와 데이터센터 관련주에도 매수세가 몰리면서 나스닥 지수가 6% 넘게 오르는 등 미국 증시가 큰 폭으로 반등했다.23일(현지시간) 미국 증시에서 엔비디아 주가는 오후 3시12분…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217709",
+          "title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등"
+        }
+      ]
+    },
+    {
+      "id": "53c2c35b368eb5172919",
+      "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
+      "title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
+      "original_title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
+      "published_at": "2026-11-23T20:10:11+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Ashley Gold / Semafor : Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.semafor.com/article/11/23/2026/commerce-to-add-megaspeed-to-trade-blacklist",
+          "title": "Sources: the Commerce Department added Megaspeed to its entity list on Monday, barring US companies from selling chips to the company without a license (Ashley Gold/Semafor)",
+          "discussion_url": "https://www.techmeme.com/261123/p40"
+        }
+      ]
+    },
+    {
+      "id": "ccfb6ad3bd50514ee1f7",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217708",
+      "title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항",
+      "original_title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항",
+      "published_at": "2026-11-23T20:07:15+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황의 복귀를 거부했던 엔비디아 이사회가 불과 엿새 만에 결정을 뒤집은 데에는 도널드 트럼프 미국 대통령의 직접 개입과 주가 폭락, 후임자 물색의 어려움 등이 복합적으로 작용한 것으로 분석된다. 특히 백악관이 JD 밴스 부통령까지 동원해 이사회를 설득한 것으로 알려져, 미국 정부의 개입이 복귀 결정에 중요한 역할…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217708",
+          "title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항"
+        }
+      ]
+    },
+    {
+      "id": "08fd7747a73661e2de91",
+      "url": "https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return",
+      "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+      "original_title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+      "published_at": "2026-11-23T20:01:33+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Axios : Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was “too big to fail” for the US economy and a victim of “deep state” maneuvering — Preside…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/23/trump-vance-jensen-huang-nvidia-ceo-return",
+          "title": "Sources: Trump pushed Nvidia to reinstate Jensen Huang after allies argued he was \"too big to fail\" for the US economy and a victim of \"deep state\" maneuvering (Axios)",
+          "discussion_url": "https://www.techmeme.com/261123/p39"
+        }
+      ]
+    },
+    {
+      "id": "e95e27eb950ea7370235",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets",
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "original_title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "published_at": "2026-11-23T20:00:20+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets",
+          "title": "OpenRouter drops AI providers over leaked prompts and secrets"
+        }
+      ]
+    },
+    {
+      "id": "b8312c649fd1660540af",
+      "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0",
+      "title": "NVIDIA, cuDSS 1.0 공개… 직접 희소 솔버 성능·정확도 개선",
+      "original_title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0",
+      "published_at": "2026-11-23T19:59:40+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Sparse linear systems are at the core of nearly every engineering and scientific simulation, from structural mechanics and computational fluid dynamics to... Sparse linear syste…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/accelerating-direct-sparse-solvers-for-computational-engineering-with-nvidia-cudss-1-0",
+          "title": "Accelerating Direct Sparse Solvers for Computational Engineering with NVIDIA cuDSS 1.0"
+        }
+      ],
+      "summary": "NVIDIA가 GPU 가속 희소 선형 시스템 솔버 라이브러리 cuDSS 1.0을 발표했다. 회사에 따르면 이번 버전은 실제 엔지니어링 워크로드에서 분석 단계 2.5배, 수치 분해 5.9배, 삼각 솔브 151배의 기하평균 속도 향상을 제공하며, 대칭 부정 시스템을 위한 Bunch-Kaufman 피벗팅과 대칭 보존 매칭을 기본 활성화해 정확도를 높였다. 또한 하이브리드 메모리 모드로 GPU와 CPU 메모리를 함께 활용해 단일 GPU에서 더 큰 문제를 풀 수 있다고 밝혔다.",
+      "why_it_matters": "cuDSS 1.0은 반도체 설계, 유체역학 등 대규모 시뮬레이션의 계산 병목을 줄이고 단일 GPU로 처리 가능한 문제 크기를 넓힐 수 있다는 점에서 공학 소프트웨어 개발자들에게 의미가 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:40+00:00",
+        "input_hash": "2477071775eb844b2d1cf016b932a397006673349da68a1f1a2e5af613b96d36",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0e666d5d64db6ad16373",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217707",
+      "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입",
+      "original_title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입",
+      "published_at": "2026-11-23T19:50:17+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황이 사임 11일 만에 엔비디아 CEO로 복귀했다. 복귀를 거부했던 이사회가 도널드 트럼프 미국 대통령의 개입 이후 결정을 뒤집은 것으로, 황의 복귀를 요구해 온 투자자와 AI 업계의 요구가 받아들여졌다.엔비디아는 23일(현지시간) 공식 발표를 통해 이사회가 만장일치로 황의 CEO 복귀를 승인했다고 밝혔다. 이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217707",
+          "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입"
+        }
+      ]
+    },
+    {
+      "id": "ae97f2de64f4352a3612",
+      "url": "https://www.reuters.com/world/us/trump-saw-nvidias-huang-protector-open-weight-ai-models-sources-say-2026-11-23",
+      "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
+      "original_title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
+      "published_at": "2026-11-23T19:30:02+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Reuters : Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models — US President Donald Trump and Vice President JD Vance per…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/world/us/trump-saw-nvidias-huang-protector-open-weight-ai-models-sources-say-2026-11-23",
+          "title": "Sources: Trump and JD Vance were convinced Jensen Huang alone protected American-made open-weight AI models (Reuters)",
+          "discussion_url": "https://www.techmeme.com/261123/p38"
+        }
+      ]
+    },
+    {
+      "id": "25f33d1df44504de388c",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "original_title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "published_at": "2026-11-23T19:14:46+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+          "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses"
+        }
+      ]
+    },
+    {
+      "id": "862264eb6838c269dadf",
+      "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
+      "title": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
+      "original_title": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
+      "published_at": "2026-11-23T19:05:01+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Geoff Weiss / Business Insider : Jensen Huang returned to Nvidia's headquarters to cheers from employees and said “I'm gonna be a better CEO the second time around” — Jensen Hua…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.businessinsider.com/jensen-huang-returns-to-nvidia-hq-im-terribly-sorry-2026-11",
+          "title": "Jensen Huang returned to Nvidia's headquarters to cheers from employees and said \"I'm gonna be a better CEO the second time around\" (Geoff Weiss/Business Insider)",
+          "discussion_url": "https://www.techmeme.com/261123/p37"
+        }
+      ]
+    },
+    {
+      "id": "5dc94f81c1b405641242",
+      "url": "https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering",
+      "title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+      "original_title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+      "published_at": "2026-11-23T18:25:01+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "Matt Garman / About Amazon : AWS CEO Matt Garman says AI safety can't rely on an “emergency brake” and that the same engineering discipline behind decades of secure systems appl…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.aboutamazon.com/news/aws/aws-ceo-ai-safety-engineering",
+          "title": "AWS CEO Matt Garman says AI safety can't rely on an \"emergency brake\" and that the same engineering discipline behind decades of secure systems applies to AI (Matt Garman/About Amazon)",
+          "discussion_url": "https://www.techmeme.com/261123/p35"
+        }
+      ]
+    },
+    {
+      "id": "4aa489ee2a12fc5985d1",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "original_title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "published_at": "2026-11-23T18:12:22+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+          "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO"
+        }
+      ]
+    },
+    {
+      "id": "eb2701ff66febea27293",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "title": "RoboTrack: 실제 로봇 조작을 위한 포인트 추적 벤치마크 및 데이터 공개",
+      "original_title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "published_at": "2026-11-23T17:20:37+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/robotrack",
+          "title": "RoboTrack: Point tracking for real-world robotic manipulation"
+        }
+      ],
+      "summary": "Ai2가 실제 로봇 조작 환경에서 포인트 추적 성능을 평가하는 RoboTrack-Bench와 시뮬레이션 학습 데이터 RoboTrack-15M을 공개했다. RoboTrack-Bench는 DROID, Ego-Exo4D, MolmoAct 2, EgoVerse에서 가져온 307개 비디오와 2,522개 인간 검증 트랙으로 구성됐다. 평가 결과 기존 추적기들은 RoboTrack-Bench에서 기존 로봇 벤치마크보다 낮은 점수를 기록했고, RoboTrack-15M을 추가 학습에 사용하면 실제 조작 비디오에서 성능이 향상됐다고 발표했다.",
+      "why_it_matters": "실제 로봇 조작 환경에서 기존 포인트 추적기의 한계를 보여주고, 시뮬레이션 데이터가 실제 성능 향상에 기여할 수 있음을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:36+00:00",
+        "input_hash": "a6ccb0f208ecfc86ebd06a701c09dc94f5c548a8e86602c8f1e32f685481d9fc",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "fc32915cc49c0588c9bf",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "original_title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "published_at": "2026-11-23T17:14:23+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+          "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips"
+        }
+      ]
+    },
+    {
+      "id": "8be96404238dc665f51c",
+      "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension",
+      "title": "NVIDIA·DuckLabs, DuckDB용 GPU 가속 코어 확장 'Sirius' 공개",
+      "original_title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension",
+      "published_at": "2026-11-23T17:09:28+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "As datasets grow, analytical queries can take longer to run, slowing down data exploration, pipelines, and applications. For developers using DuckDB, reducing... As datasets gro…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/get-started-with-gpu-accelerated-duckdb-analytics-using-the-sirius-core-extension",
+          "title": "Get Started with GPU-Accelerated DuckDB Analytics Using the Sirius Core Extension"
+        }
+      ],
+      "summary": "NVIDIA와 DuckLabs가 협력해 DuckDB의 분석 쿼리 엔진에 GPU 가속을 제공하는 코어 확장 Sirius를 발표했다. 사용자는 INSTALL sirius;와 LOAD sirius; 두 SQL 명령으로 확장을 설치·활성화하고 기존 SQL을 재작성하지 않고 지원되는 분석 쿼리를 NVIDIA GPU에서 실행할 수 있다. 지원되지 않는 기능의 쿼리는 DuckDB CPU 엔진으로 자동 폴백된다.",
+      "why_it_matters": "GPU 가속이 DuckDB의 기존 SQL 워크플로에 통합되면 별도 GPU 프로그래밍 API 없이 분석 쿼리를 가속할 수 있는 선택지가 생긴다. 다만 성능 수치는 발표 측 벤치마크 결과로, 실제 효과는 워크로드와 하드웨어에 따라 달라질 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:32+00:00",
+        "input_hash": "55fb01de381cd51cb7ea9c3968473e5fb96522cc4459f2e62c2db2e41f8c2554",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "4f5fe20de68e9dfdec37",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+      "title": "구글, 검색 '퍼스널 인텔리전스'에 월렛·드라이브·제미니 앱 연결 확대",
+      "original_title": "A more tailored Google Search that’s uniquely yours",
+      "published_at": "2026-11-23T17:00:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
+          "title": "A more tailored Google Search that’s uniquely yours"
+        }
+      ],
+      "summary": "구글이 AI 모드의 퍼스널 인텔리전스에 구글 월렛을 연결하는 기능을 2026년 11월 23일부터 순차 출시하고, 향후 몇 주 안에 드라이브와 제미니 앱 지원도 추가한다고 밝혔다. 사용자가 선택적으로 연결하면 검색이 지출·문서·채팅 맥락을 활용해 더 맞춤화된 답변을 제공하며, 구글은 사용자가 언제든 설정에서 연결을 켜거나 끌 수 있고 데이터를 통제할 수 있다고 설명했다.",
+      "why_it_matters": "검색이 개인 데이터와 결합해 맞춤형 답변을 제공하는 방향으로 확장되면서, 편의성과 함께 개인정보 통제 방식이 중요한 쟁점이 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:28+00:00",
+        "input_hash": "f54215aee6cd8b51a42537d66aa78b21c85e87cf6869247859126c191d33a01f",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "895b540db6a8889e694c",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "original_title": "Finding faster quantum algorithms with agents and formal verification",
+      "published_at": "2026-11-23T16:59:40+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
+          "title": "Finding faster quantum algorithms with agents and formal verification"
+        }
+      ]
+    },
+    {
+      "id": "a62a31ba5f1d2afb9bba",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "original_title": "Jensen Huang isn’t out of the woods yet",
+      "published_at": "2026-11-23T16:57:40+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
+          "title": "Jensen Huang isn’t out of the woods yet"
+        }
+      ]
+    },
+    {
+      "id": "76b72dfbff18bdc0c2f4",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "original_title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "published_at": "2026-11-23T16:39:10+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+          "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return"
+        }
+      ]
+    },
+    {
+      "id": "7f1267ab2a86a15f8da6",
+      "url": "https://byline.network/2026/11/huang-2",
+      "title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정",
+      "original_title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정",
+      "published_at": "2026-11-23T15:18:52+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아 이사회가 23일(현지 시각) 젠슨 황 창업자를 CEO로 즉시 복귀시켰다고 발표했다. 엔비디아 이사회는 만장일치로 복귀를 의결했다. 황 CEO가 불륜 스캔들로 물러난 지 11일 만이다. 이사회는 지난 17일 실적 발표 콘퍼런스콜에서 황 CEO를 복귀시킬 계획이 없다고 밝혔지만, 일주일도 지나지 않아 그 결정을…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/huang-2",
+          "title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정"
+        }
+      ]
+    },
+    {
+      "id": "29c9de3a1f8674ad7ebd",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "original_title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "published_at": "2026-11-23T15:04:01+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
+          "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing"
+        }
+      ]
+    },
+    {
+      "id": "f623141117fe3174a17c",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "original_title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "published_at": "2026-11-23T14:43:03+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
+          "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off"
+        }
+      ]
+    },
+    {
+      "id": "512e774a62d8919a43c3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42861",
+      "title": "KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유",
+      "original_title": "KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유",
+      "published_at": "2026-11-23T12:46:01+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "한국과학기술원(KAIST)이 피지컬 인공지능(Physical AI)과 제조 AI 에이전트, 제조현장의 암묵지 활용 기술을 중심으로 산업계의 인공지능 전환(AX) 전략을 논의하는 자리를 마련한다. 제조업에 축적된 경험과 노하우를 AI가 활용할 수 있는 지식으로 전환하고, 실제 생산 현장에서 적용 가능한 기술과 사례를 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42861",
+          "title": "KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유"
+        }
+      ]
+    },
+    {
       "id": "3e66823ea56dd1762d44",
       "url": "https://www.gostudio.ai/",
       "title": "Gostudio.ai – AI photo and video studio with 38 one-click tools",
@@ -700,6 +1819,55 @@
       ]
     },
     {
+      "id": "1259b534687dd8b31711",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "title": "리치패널, 30일 내 고객지원 50% 자동화 보장",
+      "original_title": "Richpanel helps companies automate 50% of support in 30 days",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+          "title": "Richpanel helps companies automate 50% of support in 30 days"
+        }
+      ],
+      "summary": "리치패널은 GPT-6 아스트라와 GPT-6.1 솔을 활용해 AI 지원 에이전트의 도구와 절차를 설정하고, GPT-6 루나로 대화를 처리한다. CEO 아밋 RG에 따르면 지난 6개월간 약 300건의 AI 고객지원 배포를 완료했으며, 첫 30일 내 50% 자동화율을 보장하고 모든 배포에서 이를 달성했다고 주장했다.",
+      "why_it_matters": "고객지원 자동화가 단순 대화를 넘어 도구 실행과 절차 설정까지 AI로 처리하는 방향으로 진화하고 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:24+00:00",
+        "input_hash": "4e7636c535118837732597bb4638517c237ad0c0ecc82aa41bab80271d04e56f",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "10878202550bbbf922d1",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "title": "Connected intelligence for in-house legal",
+      "original_title": "Connected intelligence for in-house legal",
+      "published_at": "2026-11-23T08:00:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business context, build reus…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+          "title": "Connected intelligence for in-house legal"
+        }
+      ]
+    },
+    {
       "id": "1e233871daad1f142769",
       "url": "https://d2.naver.com/helloworld/3284900",
       "title": "AI 신입사원을 뉴스 데이터 시니어로 키우는 레포, news-data",
@@ -1231,6 +2399,35 @@
       ]
     },
     {
+      "id": "8a62ea05f675eb6ddfd1",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
+      "title": "datasette-charts 0.1a0 알파 버전 공개",
+      "original_title": "datasette-charts 0.1a0",
+      "published_at": "2026-11-23T00:37:20+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The p…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/23/datasette-charts",
+          "title": "datasette-charts 0.1a0"
+        }
+      ],
+      "summary": "datasette-charts 0.1a0 알파 버전이 공개됐다. 이 플러그인은 Datasette의 임의 테이블이나 SQL 쿼리에 대해 여러 차트 유형을 제공하며, 전체 결과 집합을 GROUP BY·시간 버킷팅·윈도 함수로 집계하는 SQL 쿼리로 컴파일해 최대 5,000행까지 차트로 표시한다. 차트 상태는 URL의 #fragment에 저장되어 북마크나 공유가 가능하다.",
+      "why_it_matters": "기존 차트 플러그인이 현재 페이지의 최대 100행만 시각화한 것과 달리, 전체 데이터를 집계해 보여준다는 점에서 데이터 탐색 방식의 변화를 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T02:01:18+00:00",
+        "input_hash": "fe1afb77dc0e847bca049a61f640317c61cc87de0dc87a1ab150f88848603f52",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "4de34673a8103a912b58",
       "url": "https://github.com/svailla4/glimpse",
       "title": "Glimpse – Generative UI for Codebases in Claude Code",
@@ -1372,6 +2569,26 @@
           "source_id": "aitimes",
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217619",
           "title": "[AI리더의 서가] The RLHF Book 한국어판"
+        }
+      ]
+    },
+    {
+      "id": "00d52199bef25f9eda98",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "title": "How to build and maintain an agentic evaluation",
+      "original_title": "How to build and maintain an agentic evaluation",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "collected_at": "2026-11-24T02:00:51+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/agentic-evals",
+          "title": "How to build and maintain an agentic evaluation"
         }
       ]
     },
