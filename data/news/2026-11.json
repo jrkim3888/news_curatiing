@@ -3,6 +3,903 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ebed988ea6d2cff0c55a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42876",
+      "title": "에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진",
+      "original_title": "에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진",
+      "published_at": "2026-11-24T23:40:09+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "대구경북과학기술원(DGIST) 창업기업 에스이노베이션스(각자대표 김정준·박형석)가 엣지 AI(Edge AI) 기반 첨단센서와 시스템반도체 연구 성과를 자율주행 로봇(AMR)에 적용하는 기술 개발 및 실증에 나선다.에스이노베이션스는 DGIST가 주관하는 총 72억 원 규모의 ‘엣지 AI 첨단센서 설계 및 시스템반도체 …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42876",
+          "title": "에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진"
+        }
+      ]
+    },
+    {
+      "id": "e0edcb85572a93e4ecc2",
+      "url": "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list",
+      "title": "Why supervision does not scale with the AI coding agents",
+      "original_title": "Why supervision does not scale with the AI coding agents",
+      "published_at": "2026-11-24T23:33:45+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tillerly.dev/blog/managing-multiple-ai-coding-agents-from-one-list",
+          "title": "Why supervision does not scale with the AI coding agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50636375"
+        }
+      ]
+    },
+    {
+      "id": "f243c5e6ef9594caa10e",
+      "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
+      "title": "Jensen Huang Reinstated as Nvidia CEO (Zvi Mowshowitz Writeup)",
+      "original_title": "Jensen Huang Reinstated as Nvidia CEO (Zvi Mowshowitz Writeup)",
+      "published_at": "2026-11-24T23:31:52+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia",
+          "title": "Jensen Huang Reinstated as Nvidia CEO (Zvi Mowshowitz Writeup)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50636356"
+        }
+      ]
+    },
+    {
+      "id": "fdb27e37ab1ba5ed4ff0",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42875",
+      "title": "AI 에이전트로 외국인 환자 유치 지원…인덴트코퍼레이션, K-의료관광 시장 공략",
+      "original_title": "AI 에이전트로 외국인 환자 유치 지원…인덴트코퍼레이션, K-의료관광 시장 공략",
+      "published_at": "2026-11-24T23:31:33+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "외국인 환자의 국내 의료 서비스 수요가 급증하는 가운데 인공지능(AI) 에이전트를 활용한 의료관광 마케팅이 확대되고 있는 가운데 커머스 AX 전문기업 인덴트코퍼레이션(대표 윤태석)은 AI 마케팅 에이전트 ‘인덴트M’과 ‘스프레이IO’를 활용해 국내 의료기관의 해외 홍보와 외국인 환자 유치를 지원하고 있다고 25일 밝…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42875",
+          "title": "AI 에이전트로 외국인 환자 유치 지원…인덴트코퍼레이션, K-의료관광 시장 공략"
+        }
+      ]
+    },
+    {
+      "id": "298edf4123fff47e1072",
+      "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24",
+      "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "original_title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+      "published_at": "2026-11-24T23:26:44+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/china/huangs-return-nvidia-brings-open-weight-ai-debate-forefront-washington-2026-11-24",
+          "title": "Huang's return to Nvidia brings open-weight AI debate to forefront in Washington",
+          "discussion_url": "https://news.ycombinator.com/item?id=50636313"
+        }
+      ]
+    },
+    {
+      "id": "5087bb98c43aa76463b3",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42874",
+      "title": "서비스나우, 기업 위험 관리에 에이전틱 AI 적용…규정 준수 점검부터 시정 조치까지 자동화",
+      "original_title": "서비스나우, 기업 위험 관리에 에이전틱 AI 적용…규정 준수 점검부터 시정 조치까지 자동화",
+      "published_at": "2026-11-24T23:26:06+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "서비스나우(ServiceNow)가 인공지능(AI) 에이전트를 활용해 기업의 내부 통제와 규정 준수 여부를 실시간으로 점검하고, 문제 탐지부터 원인 분석, 시정 조치까지 자동화하는 위험 관리 체계를 선보인다.서비스나우는 자사의 통합 위험 관리(IRM) 솔루션에 에이전틱 AI(Agentic AI) 기반의 지속적 통제 모…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42874",
+          "title": "서비스나우, 기업 위험 관리에 에이전틱 AI 적용…규정 준수 점검부터 시정 조치까지 자동화"
+        }
+      ]
+    },
+    {
+      "id": "5e8eba5b15ac60442c06",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+      "title": "Three LLM inflection points in twelve months",
+      "original_title": "Three LLM inflection points in twelve months",
+      "published_at": "2026-11-24T23:18:20+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+          "title": "Three LLM inflection points in twelve months",
+          "discussion_url": "https://news.ycombinator.com/item?id=50636242"
+        },
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points",
+          "title": "Three LLM inflection points in twelve months"
+        }
+      ]
+    },
+    {
+      "id": "20579b205a89296892c7",
+      "url": "https://byline.network/2026/11/1124-3",
+      "title": "지로, AI 영상 제작 넘어 애니메이션 직접 만든다…매달 신작 공개",
+      "original_title": "지로, AI 영상 제작 넘어 애니메이션 직접 만든다…매달 신작 공개",
+      "published_at": "2026-11-24T23:13:26+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "지로가 인공지능(AI) 영상 제작 플랫폼 ‘드롭샷 AI’를 넘어 자체 콘텐츠 지식재산권(IP)을 기획·제작하는 ‘드롭샷 스튜디오’를 출범했다. AI 기반 제작 공정을 통해 기존 업계 대비 제작 시간과 비용을 10분의 1 수준으로 줄이는 것을 목표로, 2027년 1분기부터 매달 AI 애니메이션을 선보일 계획이다. 자체…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1124-3",
+          "title": "지로, AI 영상 제작 넘어 애니메이션 직접 만든다…매달 신작 공개"
+        }
+      ]
+    },
+    {
+      "id": "45f2f396b0a0a561c1de",
+      "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week",
+      "title": "Trump says a pardon for Jensen Huang is \"always an option\" but likely unnecessary, and it's \"probably not too late\" for the US to take an equity stake in Nvidia (New York Post)",
+      "original_title": "Trump says a pardon for Jensen Huang is \"always an option\" but likely unnecessary, and it's \"probably not too late\" for the US to take an equity stake in Nvidia (New York Post)",
+      "published_at": "2026-11-24T23:10:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Post : Trump says a pardon for Jensen Huang is “always an option” but likely unnecessary, and it's “probably not too late” for the US to take an equity stake in Nvidia …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://nypost.com/2026/11/24/us-news/trump-leaves-door-open-to-jensen-huang-pardon-and-urges-him-not-to-plead-5th-to-congress-next-week",
+          "title": "Trump says a pardon for Jensen Huang is \"always an option\" but likely unnecessary, and it's \"probably not too late\" for the US to take an equity stake in Nvidia (New York Post)",
+          "discussion_url": "https://www.techmeme.com/261124/p42"
+        }
+      ]
+    },
+    {
+      "id": "f099908b2eca9d8c391a",
+      "url": "https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html",
+      "title": "Using AI Without Losing Your Humanity",
+      "original_title": "Using AI Without Losing Your Humanity",
+      "published_at": "2026-11-24T22:48:10+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.dbreunig.com/2026/11/24/using-ai-without-losing-your-humanity.html",
+          "title": "Using AI Without Losing Your Humanity",
+          "discussion_url": "https://news.ycombinator.com/item?id=50635903"
+        }
+      ]
+    },
+    {
+      "id": "d443c99e2833e70518e3",
+      "url": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
+      "title": "AI is moving way too fast (Nate Silver)",
+      "original_title": "AI is moving way too fast (Nate Silver)",
+      "published_at": "2026-11-24T22:31:37+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.natesilver.net/p/ai-is-moving-way-too-fast",
+          "title": "AI is moving way too fast (Nate Silver)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50635748"
+        }
+      ]
+    },
+    {
+      "id": "e1dacf50ca4e7a8344fc",
+      "url": "https://inmve.github.io/agentic-coding-practices",
+      "title": "A Year of Agentic Coding",
+      "original_title": "A Year of Agentic Coding",
+      "published_at": "2026-11-24T22:28:58+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://inmve.github.io/agentic-coding-practices",
+          "title": "A Year of Agentic Coding",
+          "discussion_url": "https://news.ycombinator.com/item?id=50635723"
+        }
+      ]
+    },
+    {
+      "id": "97f21b1a1bb0ae2bac51",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "original_title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "published_at": "2026-11-24T22:27:52+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+          "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
+        }
+      ]
+    },
+    {
+      "id": "3f23866df9f4f77693e6",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo",
+      "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+      "original_title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+      "published_at": "2026-11-24T22:27:19+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/anthropic-ceo-dario-amodei-sold-280-million-in-shares-as-part-of-record-ipo",
+          "title": "Anthropic CEO Dario Amodei and Sister Daniela Sold $561M in Stock During IPO",
+          "discussion_url": "https://news.ycombinator.com/item?id=50635706"
+        }
+      ]
+    },
+    {
+      "id": "b3db646d86cce70fafc8",
+      "url": "https://claude.com/resources/articles/install-as-app",
+      "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
+      "original_title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
+      "published_at": "2026-11-24T22:05:01+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Claude : Anthropic rolls out “Install as app” in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more — Open …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://claude.com/resources/articles/install-as-app",
+          "title": "Anthropic rolls out \"Install as app\" in beta, which turns Claude artifacts into Mac and Windows apps with notifications, optional full computer access, and more (Claude)",
+          "discussion_url": "https://www.techmeme.com/261124/p40"
+        }
+      ]
+    },
+    {
+      "id": "8c69ae03f14c9f9cbd3f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217724",
+      "title": "[11월24일] AI 업계, 초지능 경고 넘어 개발 제한 방안까지…미국 규제에 영향 줄까",
+      "original_title": "[11월24일] AI 업계, 초지능 경고 넘어 개발 제한 방안까지…미국 규제에 영향 줄까",
+      "published_at": "2026-11-24T22:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "메타의 최고AI책임자(CAIO)와 오픈AI 핵심 연구진이 잇달아 초지능의 위험성을 경고하며 개발 속도를 조절할 구체적인 방안까지 제시하고 있습니다. 단순한 위험 경고를 넘어 개발 제한 기준과 인간의 통제권을 유지할 방법을 제안하기 시작하면서, 미국 정치권의 AI 안전 규제 논의에도 영향을 미칠지 주목됩니다.올여름부터…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217724",
+          "title": "[11월24일] AI 업계, 초지능 경고 넘어 개발 제한 방안까지…미국 규제에 영향 줄까"
+        }
+      ]
+    },
+    {
+      "id": "171b94fafc685f0bbe01",
+      "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "original_title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+      "published_at": "2026-11-24T21:48:27+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy",
+          "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy"
+        }
+      ]
+    },
+    {
+      "id": "e42b08608ac6315c4a77",
+      "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw",
+      "title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)",
+      "original_title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)",
+      "published_at": "2026-11-24T21:35:02+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Will Knight / Wired : Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mytho…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw",
+          "title": "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)",
+          "discussion_url": "https://www.techmeme.com/261124/p38"
+        }
+      ]
+    },
+    {
+      "id": "86266e890e18a6d47c92",
+      "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+      "title": "Even the best AI agents struggle with everyday life",
+      "original_title": "Even the best AI agents struggle with everyday life",
+      "published_at": "2026-11-24T21:33:29+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introdu…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life",
+          "title": "Even the best AI agents struggle with everyday life"
+        }
+      ]
+    },
+    {
+      "id": "5edc970ed59b587c1ee8",
+      "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+      "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "original_title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+      "published_at": "2026-11-24T21:32:38+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+          "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+        }
+      ]
+    },
+    {
+      "id": "977f9f016cc6ca5bd411",
+      "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "original_title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+      "published_at": "2026-11-24T21:19:52+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself",
+          "title": "Maple raises $5.3M to build AI products that protect your data, even from itself"
+        }
+      ]
+    },
+    {
+      "id": "6f39a28988fc38b7182d",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+      "title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)",
+      "original_title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)",
+      "published_at": "2026-11-24T21:01:44+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody — Th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/openai-staffer-charged-with-planting-bug-released-on-bond",
+          "title": "A judge orders the ex-OpenAI staffer charged with bugging an exec conference room released on $1M bond, finding prosecutors lack evidence to keep him in custody (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261124/p36"
+        }
+      ]
+    },
+    {
+      "id": "76276b97e80257c8e1d6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217752",
+      "title": "젠슨 황, 복귀 후 첫 직원회의서 사과…복귀 정당성 강조",
+      "original_title": "젠슨 황, 복귀 후 첫 직원회의서 사과…복귀 정당성 강조",
+      "published_at": "2026-11-24T20:55:29+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "젠슨 황 엔비디아 CEO가 복귀 후 첫 전 직원회의에서 회사 행동 강령 위반을 인정하고 사과했으며, 심리 치료와 경영 방식 개선 등 재발 방지 대책을 공개했다. 또 자신이 특별 대우를 받거나 도널드 트럼프 미국 대통령의 압력으로 복귀한 것이 아니라 이사회의 판단에 따른 결정이었다고 강조했다.월스트리트저널(WSJ)과 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217752",
+          "title": "젠슨 황, 복귀 후 첫 직원회의서 사과…복귀 정당성 강조"
+        }
+      ]
+    },
+    {
+      "id": "57d92dac632d67775f8c",
+      "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+      "title": "Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)",
+      "original_title": "Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)",
+      "published_at": "2026-11-24T20:10:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CNBC : Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy — Nvidia C…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html",
+          "title": "Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261124/p34"
+        }
+      ]
+    },
+    {
+      "id": "026251549a431c4b4b88",
+      "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?smid=url-share&unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT",
+      "title": "Sources: the CIA, ODNI, and NGA found a breach of an open-source intelligence system that exposed some unclassified info; hackers likely used the AI tool Artex (New York Times)",
+      "original_title": "Sources: the CIA, ODNI, and NGA found a breach of an open-source intelligence system that exposed some unclassified info; hackers likely used the AI tool Artex (New York Times)",
+      "published_at": "2026-11-24T20:05:01+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "New York Times : Sources: the CIA, ODNI, and NGA found a breach of an open-source intelligence system that exposed some unclassified info; hackers likely used the AI tool Artex …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html?smid=url-share&unlocked_article_code=1.S1E.8Ak8.1m2taItvN8OT",
+          "title": "Sources: the CIA, ODNI, and NGA found a breach of an open-source intelligence system that exposed some unclassified info; hackers likely used the AI tool Artex (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261124/p33"
+        }
+      ]
+    },
+    {
+      "id": "33867658a36711cd55e1",
+      "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+      "title": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
+      "original_title": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
+      "published_at": "2026-11-24T19:35:01+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "CNBC : President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia — President Dona…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html",
+          "title": "President Trump finds himself isolated in DC over his moves to reinstate Jensen Huang as even some of his staunchest allies vow to probe Huang and Nvidia (CNBC)",
+          "discussion_url": "https://www.techmeme.com/261124/p32"
+        }
+      ]
+    },
+    {
+      "id": "988abc8669f802a48bb2",
+      "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html?smid=url-share&unlocked_article_code=1.S1E.xNC-.8GeedDSv6d1J",
+      "title": "Jensen Huang says he is back not as a \"tech bro\" or due to Trump's pressure, but because Nvidia's board \"evaluated the entire situation\" and \"gathered facts\" (New York Times)",
+      "original_title": "Jensen Huang says he is back not as a \"tech bro\" or due to Trump's pressure, but because Nvidia's board \"evaluated the entire situation\" and \"gathered facts\" (New York Times)",
+      "published_at": "2026-11-24T19:25:02+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Jensen Huang says he is back not as a “tech bro” or due to Trump's pressure, but because Nvidia's board “evaluated the entire situation” and “gathered facts” — …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html?smid=url-share&unlocked_article_code=1.S1E.xNC-.8GeedDSv6d1J",
+          "title": "Jensen Huang says he is back not as a \"tech bro\" or due to Trump's pressure, but because Nvidia's board \"evaluated the entire situation\" and \"gathered facts\" (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261124/p31"
+        }
+      ]
+    },
+    {
+      "id": "c0d507596078021a4d8b",
+      "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
+      "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "original_title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "published_at": "2026-11-24T18:44:05+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world... Running video…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
+          "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers"
+        }
+      ]
+    },
+    {
+      "id": "7992bf690613aecdb581",
+      "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+      "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "original_title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
+      "published_at": "2026-11-24T18:30:42+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+          "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+        }
+      ]
+    },
+    {
+      "id": "4113acb1424b41bba6ec",
+      "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+      "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "original_title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+      "published_at": "2026-11-24T18:02:59+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+          "title": "UK warns AI-driven cyberattacks are exposing years of weak security"
+        }
+      ]
+    },
+    {
+      "id": "b0f646dfac9a0a0a6352",
+      "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+      "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "original_title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+          "title": "Meta brings its Muse AI assistant directly into Instagram DMs"
+        }
+      ]
+    },
+    {
+      "id": "aeea7456d8046f44c635",
+      "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core",
+      "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+      "original_title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Market data arrives as a stream of trades and quotes: every execution, bid, and ask, timestamped to the microsecond. Preparing this data for AI-based market... Market data arriv…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/prepare-market-data-for-forecasting-with-nvidia-megatron-core",
+          "title": "Prepare Market Data for Forecasting with NVIDIA Megatron Core"
+        }
+      ]
+    },
+    {
+      "id": "2144450e43e277e0d3fb",
+      "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools",
+      "title": "NVIDIA, 게임 개발자를 위한 AI 애니메이션 및 RTX 도구 업데이트 발표",
+      "original_title": "What’s New for Game Developers: AI Animation and RTX Tools",
+      "published_at": "2026-11-24T17:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "This month’s NVIDIA game development updates help teams bring new graphics, animation, and local AI capabilities into their engines while balancing image... This month’s NVIDIA …",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/whats-new-for-game-developers-ai-animation-and-rtx-tools",
+          "title": "What’s New for Game Developers: AI Animation and RTX Tools"
+        }
+      ],
+      "summary": "NVIDIA가 게임 개발자 블로그를 통해 DLSS 5, Kimodo 애니메이션 생성, In-Game Inferencing SDK 1.8, RTX Dynamic Illumination 3.2, RTX Path Tracing 1.9, Nsight 도구 업데이트 등 여러 신기술을 공개했다. Gaijin Entertainment는 War Thunder에 DLSS 5와 3D-Guided Neural Rendering을 통합한 경험을 인터뷰에서 설명했으며, Kimodo는 언리얼 엔진 5.9 프리뷰의 가이드 애니메이션 프레임워크에 첫 모델로 통합되었다.",
+      "why_it_matters": "게임 개발자에게 AI 기반 애니메이션 생성과 실시간 레이 트레이싱 도구가 엔진 수준에서 통합되는 흐름을 보여주며, 개발 워크플로와 그래픽 품질에 영향을 줄 수 있는 업데이트다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:34+00:00",
+        "input_hash": "7e566ebef546b3e4fab1d9da09f7d5d7d9aff57b5115d7eeeaa6e12ebb298967",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "7eea171611f31c8f95c6",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "original_title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "published_at": "2026-11-24T16:53:59+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minim…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+          "title": "GPT 6.2 Astra Solves a Historical Mystery"
+        }
+      ]
+    },
+    {
+      "id": "6f0f83d3e1c30af402d3",
+      "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+      "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "original_title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+      "published_at": "2026-11-24T16:46:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The company said it will still accept songs that were made with AI assistance, but not fully generated.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming",
+          "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming"
+        }
+      ]
+    },
+    {
+      "id": "6a28e842b3bf4bfd8400",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "title": "NVIDIA, Isaac Lab·Newton으로 Microduck 장애물 회피 Sim2Real 워크플로 공개",
+      "original_title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "published_at": "2026-11-24T16:34:13+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton"
+        }
+      ],
+      "summary": "NVIDIA가 보행 정책을 고정한 채 ToF 센서 기반 회피 컨트롤러를 별도로 학습시키는 Microduck 장애물 회피 Sim2Real 워크플로를 공개했다. Isaac Lab에서 16,384개 병렬 환경으로 PPO 학습을 수행하고, Newton의 레이캐스터로 8×8 ToF 센서를 모델링하며, ONNX로 내보내 실제 로봇에 배포하는 과정을 다룬다. 회사는 DGX Spark에서 4,096개 환경으로 약 6시간 만에 학습한 사례도 제시했다.",
+      "why_it_matters": "보행과 회피를 분리해 기존 정책을 재학습하지 않고 인지 기반 제어를 추가하는 Sim2Real 파이프라인 사례로, 로봇 학습 재사용 전략을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:26+00:00",
+        "input_hash": "63b2df7b608ed0e8bd4efe203af5addd9a81cf55dd84889e8b17b714492a01c1",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "0d4dbfed2ba868d70455",
+      "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+      "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "original_title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+      "published_at": "2026-11-24T16:10:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers",
+          "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers"
+        }
+      ]
+    },
+    {
+      "id": "a9a1f591c3b5ca408b03",
+      "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+      "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "original_title": "Pinterest will now let parents limit the AI-generated content their teens see",
+      "published_at": "2026-11-24T16:02:37+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+          "title": "Pinterest will now let parents limit the AI-generated content their teens see"
+        }
+      ]
+    },
+    {
+      "id": "a7a0adf7d6c734e350c9",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "title": "구글 제미니, 골든스테이트와 파트너십 확대…NBA·WNBA·체이스센터 공식 AI 파트너",
+      "original_title": "How Gemini is changing the game for Golden State's organization and fans.",
+      "published_at": "2026-11-24T16:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.…",
+      "sources": [
+        {
+          "source_id": "google_ai",
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "title": "How Gemini is changing the game for Golden State's organization and fans."
+        }
+      ],
+      "summary": "구글이 골든스테이트와의 파트너십을 확대해 제미니를 워리어스, 2026 WNBA 챔피언 발키리스, 체이스센터의 공식 AI 어시스턴트 파트너이자 공식 생성형 AI·엔터프라이즈 LLM 파트너로 지정했다고 발표했다. 팬들에게는 체이스센터 내 인터랙티브 비디오보드 기능과 디지털 채널을 통한 게임데이 경험이 제공되고, 구단은 비즈니스용 제미니로 맞춤형 AI 에이전트를 구축해 비즈니스와 농구 운영 전반의 업무 효율을 높일 예정이라고 밝혔다.",
+      "why_it_matters": "스포츠 구단이 생성형 AI를 팬 경험과 내부 운영 양쪽에 통합하는 사례로, AI 파트너십이 엔터프라이즈 시장을 넘어 스포츠·엔터테인먼트 분야로 확장되는 흐름을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:23+00:00",
+        "input_hash": "f7bf2f388ac50966ed2a9ba8b9dc86d5de23026eaa7e45d39792ed1370e9407b",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "a4cb5a65f0d9bf1e691a",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "original_title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "published_at": "2026-11-24T15:51:07+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+          "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia"
+        }
+      ]
+    },
+    {
+      "id": "4a60cf75ab435f1bbee6",
+      "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5",
+      "title": "엘더스톤, '와호 미팅'에 NVIDIA DLSS 5 통합 Q&A 공개",
+      "original_title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5",
+      "published_at": "2026-11-24T14:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Where Winds Meet moves between distant mountain landscapes, bustling streets, and quiet moments with its characters. For Everstone Studio, bringing more... Where Winds Meet move…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/qa-how-everstone-brings-where-winds-meet-to-life-with-nvidia-dlss-5",
+          "title": "Q&A: How Everstone Brings Where Winds Meet to Life with NVIDIA DLSS 5"
+        }
+      ],
+      "summary": "엘더스톤 스튜디오의 아트 디렉터 무지 리와 엔진 테크 리드 코리 저우가 '와호 미팅'에 NVIDIA DLSS 5를 통합한 과정을 Q&A로 설명했다. 이들은 DLSS 5가 조명과 재질 디테일을 향상시키지만 추가 성능 오버헤드가 발생한다고 밝혔으며, 아트 방향과 성능 비용 사이의 균형을 맞추기 위해 아티스트와 엔지니어가 반복적으로 조정했다고 전했다. 스튜디오는 내부 플레이테스트에서 긍정적인 결과를 얻어 플레이어가 DLSS 5를 켜거나 끌 수 있는 옵션을 제공할 계획이라고 한다.",
+      "why_it_matters": "게임 개발사가 신규 업스케일링 기술 도입 시 시각적 향상과 성능 비용, 아트 방향 보존 사이의 균형을 어떻게 고려하는지 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:19+00:00",
+        "input_hash": "b8d6e9a86dab06b4240e5049a18388ae5ef933d26a579e4419ce22f1aa3c3345",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "cdf911afcab4ff07527a",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits",
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "original_title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "published_at": "2026-11-24T13:34:23+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators pr…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits",
+          "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits"
+        }
+      ]
+    },
+    {
       "id": "ef7e50054e95b5780b8b",
       "url": "https://github.com/dorgrn/decloak",
       "title": "Show HN: Decloak – Scan –/.claude and MCP configs for malware without an LLM",
@@ -219,6 +1116,41 @@
       ]
     },
     {
+      "id": "ac2f786b30f6d45772c4",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "OpenAI, GPT-6 모델의 단백질 설계 능력 발표",
+      "original_title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "published_at": "2026-11-24T13:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "title": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)",
+          "discussion_url": "https://www.techmeme.com/261124/p44"
+        }
+      ],
+      "summary": "OpenAI는 2026년 11월 24일 GPT-6 계열 모델이 전용 생물학 모델 없이 추론과 코드만으로 단백질 구조와 서열을 설계할 수 있다고 발표했다. 연구진은 온아바(Onava)와의 실험실 테스트에서 GPT-6.2 설계 기반 단백질이 5개 표적 중 최소 1개에서 결합 가능성을 보였고, 재설계된 항체도 결합력을 유지했다고 밝혔다. 다만 완전한 단백질 구조 예측은 여전히 약점으로 남아 있다고 회사는 전했다.",
+      "why_it_matters": "범용 모델이 전용 생물학 모델을 대체할 가능성을 제시하지만, 회사 자체 발표이며 독립 검증은 아직 없다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:15+00:00",
+        "input_hash": "67c17c56fa72a92b947ccda677efb19af975386abb8069564d740603a9d36974",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "c4de5f80fface5cd9512",
       "url": "https://github.com/maxtechstack/ai-support-checker",
       "title": "Show HN: A browser-only checker for what a support AI closed vs. handed back",
@@ -363,6 +1295,35 @@
           "discussion_url": "https://www.techmeme.com/261124/p9"
         }
       ]
+    },
+    {
+      "id": "7758c04a629331bf9638",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "아마추어 천문학자들, OpenAI의 Codex와 Astra로 외계행성 후보 신호 발견",
+      "original_title": "Searching for distant planets with Astra",
+      "published_at": "2026-11-24T11:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+          "title": "Searching for distant planets with Astra"
+        }
+      ],
+      "summary": "아마추어 천문학자 케빈 본드와 에단 버드는 각각 OpenAI의 Codex와 Astra를 활용해 공개 망원경 데이터에서 외계행성 후보 신호를 찾아냈다. 본드는 케플러 망원경 데이터에서 200개 이상의 신호를 찾았고, 그중 2개는 SETI 연구소의 독립 검색에서도 확인됐다. 버드는 TESS 데이터에서 49개의 후보를 찾았으며, 가장 유력한 후보를 TESS 연구진에 보내 추가 분석을 기다리고 있다.",
+      "why_it_matters": "AI 도구가 아마추어 연구자들의 데이터 분석을 도우며 전문 천문학자들이 추가로 조사할 후보를 제공하는 사례가 나왔다. 다만 발견된 신호는 아직 행성으로 확인된 것이 아니며 추가 관측과 검증이 필요하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:12+00:00",
+        "input_hash": "0c30534d2a9151f94c731ccc3e0812d8318c77a077f33699f486826625f5832d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "518a8c99d08323ec96ac",
@@ -1178,6 +2139,93 @@
           "title": "[AI리더의 서가] AI 네이티브 개발자를 위한 OpenAI 코덱스 실전 활용법"
         }
       ]
+    },
+    {
+      "id": "a3c9028eefd69cfd15ff",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "title": "OpenAI, Clay의 Codex·ChatGPT 연동 사례 공개",
+      "original_title": "Clay helps sales teams win with Codex and ChatGPT",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+          "title": "Clay helps sales teams win with Codex and ChatGPT"
+        }
+      ],
+      "summary": "OpenAI가 고객 사례로 Clay의 Codex 및 ChatGPT 플러그인 활용을 소개했다. Clay는 GPT-6 Astra, GPT-6 Sol 등 모델을 사용해 기업·인물 목록 생성과 데이터 보강, 시장 진출 전략 수립을 지원한다고 밝혔다. Clay의 AI 책임자 Jeff Barg는 Codex와 ChatGPT 플러그인이 영업 담당자의 고객·거래 조사에 맥락을 제공한다고 말했다.",
+      "why_it_matters": "생성형 AI가 영업 데이터 조사와 워크플로 실행에 접목되는 사례가 늘고 있음을 보여주지만, 성과 평가는 발표 주체의 주장에 기반한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:09+00:00",
+        "input_hash": "556acb4a04bbfe4da2e94679c67aa12045e304ffc947292fca21aedc94d42143",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "89a905d5eae9fa3ef5a8",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "title": "iFood, 15,000개 저장소에 코딩 에이전트 확장한 사례 공개",
+      "original_title": "How iFood scales coding agents across 15,000 repositories",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/ifood",
+          "title": "How iFood scales coding agents across 15,000 repositories"
+        }
+      ],
+      "summary": "iFood는 15,000개 이상의 코드 저장소에서 코딩 에이전트 작업을 확장하기 위해 Remote Agents Platform을 구축했다. 이 플랫폼은 REST API로 작업을 제출하면 격리된 샌드박스에서 GPT‑5.6 Luna가 실행되고 결과가 머지 리퀘스트로 반환되는 구조다. iFood에 따르면 플랫폼은 25,000건 이상의 실행을 완료했고 평균 실행 비용은 0.04달러였으며, 내부 보안 플랫폼에서 수정된 취약점 수가 두 배 이상 증가했다.",
+      "why_it_matters": "대규모 코드베이스에서 에이전트 실행 인프라와 비용 효율이 실무 확장의 핵심 변수임을 보여주는 사례로, 기업의 내부 개발 자동화 전략에 참고할 만하다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:06+00:00",
+        "input_hash": "c46e0f5b0374ed55b2a44a7753173ec0fdfad6fd999a92d3bb91b46528f37ae4",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "7e14b56be67443085907",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "title": "OpenAI, Intentful의 '닷' 활용 사례 공개",
+      "original_title": "How Intentful uses dots to make more time for growth",
+      "published_at": "2026-11-24T00:00:00+00:00",
+      "collected_at": "2026-11-24T23:46:40+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.…",
+      "sources": [
+        {
+          "source_id": "openai",
+          "url": "https://openai.com/business/customer-stories/intentful-dots",
+          "title": "How Intentful uses dots to make more time for growth"
+        }
+      ],
+      "summary": "OpenAI가 소규모 기업 Intentful의 CEO 마리나 페트로바가 '닷'을 활용해 300개 웹사이트 조사와 제안서 작성을 며칠에서 몇 시간으로 단축했다고 소개했다. 닷은 Gmail, Slack, HubSpot, Asana 등 기존 도구와 연동해 메시지 확인, 가격 책정, 제안서 초안 작성 등을 지원한다고 한다.",
+      "why_it_matters": "AI 에이전트가 소규모 비즈니스의 리서치·제안·커뮤니케이션 업무를 보조하는 구체적 사례로, 기업용 AI 도구의 실무 적용 가능성을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-24T23:47:03+00:00",
+        "input_hash": "20cf8d799f7809a99b40dc2760628097f063b47852b198fc9b55bfd5b5efc3aa",
+        "evidence_verified": true
+      }
     },
     {
       "id": "105d2dd6f5d647be40a4",
