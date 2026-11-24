@@ -623,14 +623,14 @@
     {
       "id": "8f726fc9757cea4751f8",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217709",
-      "title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등",
+      "title": "젠슨 황 복귀에 엔비디아 주가 31% 급등, AI 관련주 동반 반등",
       "original_title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등",
       "published_at": "2026-11-23T20:22:38+00:00",
       "collected_at": "2026-11-24T02:00:51+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "젠슨 황이 엔비디아 CEO로 복귀하자 주가가 31% 급등하며 시가총액이 약 9500억달러(약 1275조원) 증가했다. 최근 급락했던 AI 반도체와 데이터센터 관련주에도 매수세가 몰리면서 나스닥 지수가 6% 넘게 오르는 등 미국 증시가 큰 폭으로 반등했다.23일(현지시간) 미국 증시에서 엔비디아 주가는 오후 3시12분…",
       "sources": [
         {
@@ -638,7 +638,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217709",
           "title": "젠슨 황 복귀에 엔비디아 주가 31% 급등…AI 관련주 동반 반등"
         }
-      ]
+      ],
+      "summary": "젠슨 황이 엔비디아 CEO로 복귀하자 주가가 31% 급등하며 시가총액이 약 9500억달러 늘었다. AI 반도체와 데이터센터 관련주에도 매수세가 몰리며 나스닥 지수가 6% 넘게 올랐다. 다만 AI 데이터센터 수익성과 차입 부담, 규제 강화 가능성 등 투자자들의 의문은 남아 있다.",
+      "why_it_matters": "엔비디아 경영 안정이 AI 산업 전체의 투자 심리에 얼마나 큰 영향을 미치는지 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-24T05:28:18+00:00",
+        "briefing_day": "2026-11-24",
+        "input_hash": "f5c4777c4fde91e9986a584c70b52ee7f3a56cd311497cd3c613d02194bd4261",
+        "evidence_verified": true
+      }
     },
     {
       "id": "53c2c35b368eb5172919",
@@ -664,14 +674,14 @@
     {
       "id": "ccfb6ad3bd50514ee1f7",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217708",
-      "title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항",
+      "title": "황 복귀 배경은 트럼프 개입·주가 폭락·후임자 난항",
       "original_title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항",
       "published_at": "2026-11-23T20:07:15+00:00",
       "collected_at": "2026-11-24T02:00:51+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "젠슨 황의 복귀를 거부했던 엔비디아 이사회가 불과 엿새 만에 결정을 뒤집은 데에는 도널드 트럼프 미국 대통령의 직접 개입과 주가 폭락, 후임자 물색의 어려움 등이 복합적으로 작용한 것으로 분석된다. 특히 백악관이 JD 밴스 부통령까지 동원해 이사회를 설득한 것으로 알려져, 미국 정부의 개입이 복귀 결정에 중요한 역할…",
       "sources": [
         {
@@ -679,7 +689,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217708",
           "title": "젠슨 황 복귀 배경은…트럼프 개입·주가 폭락·후임자 난항"
         }
-      ]
+      ],
+      "summary": "엔비디아 이사회가 엿새 만에 황의 복귀를 결정한 배경으로 트럼프 대통령의 직접 개입과 주가 폭락, 후임자 물색의 어려움 등이 꼽힌다. 백악관이 JD 밴스 부통령까지 동원해 이사회를 설득한 것으로 알려졌다. 기업 지배구조 전문가들은 외부 압력과 주가 하락 때문에 이사회가 독립적 감독 권한을 약화시켰다고 지적한다.",
+      "why_it_matters": "정치적 압력과 시장 불안이 기업 이사회의 독립적 판단을 흔들 수 있음을 시사한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-24T05:28:18+00:00",
+        "briefing_day": "2026-11-24",
+        "input_hash": "cba00de278a432c15d3186bb85c43346b19ac93fd7f96ca44dce65fa5028c032",
+        "evidence_verified": true
+      }
     },
     {
       "id": "08fd7747a73661e2de91",
@@ -760,8 +780,8 @@
       "collected_at": "2026-11-24T02:00:51+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "젠슨 황이 사임 11일 만에 엔비디아 CEO로 복귀했다. 복귀를 거부했던 이사회가 도널드 트럼프 미국 대통령의 개입 이후 결정을 뒤집은 것으로, 황의 복귀를 요구해 온 투자자와 AI 업계의 요구가 받아들여졌다.엔비디아는 23일(현지시간) 공식 발표를 통해 이사회가 만장일치로 황의 CEO 복귀를 승인했다고 밝혔다. 이…",
       "sources": [
         {
@@ -769,7 +789,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217707",
           "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입"
         }
-      ]
+      ],
+      "summary": "젠슨 황이 사임 11일 만에 엔비디아 CEO로 복귀했으며, 복귀를 거부했던 이사회가 트럼프 대통령의 개입 이후 결정을 뒤집었다. 엔비디아는 이사회가 만장일치로 복귀를 승인했고 정부 고위 당국자 의견을 청취해 국가안보 위험이 없다고 판단했다고 밝혔다. 외국 정보기관 접근 의혹 조사와 SEC·법무부 조사, 주주 소송은 계속되고 있다.",
+      "why_it_matters": "정치적 개입이 기업 지배구조 결정을 바꾸고 시장에 즉각 영향을 줄 수 있음을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-24T05:28:18+00:00",
+        "briefing_day": "2026-11-24",
+        "input_hash": "6e0ab573b03ff4f2a9fa4ccbfed898661764029b24018b0e757ce91867201ddf",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ae97f2de64f4352a3612",
@@ -1044,14 +1074,14 @@
     {
       "id": "7f1267ab2a86a15f8da6",
       "url": "https://byline.network/2026/11/huang-2",
-      "title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정",
+      "title": "엔비디아 이사회, 젠슨 황 CEO 만장일치 복귀 결정",
       "original_title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정",
       "published_at": "2026-11-23T15:18:52+00:00",
       "collected_at": "2026-11-24T02:00:51+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "엔비디아 이사회가 23일(현지 시각) 젠슨 황 창업자를 CEO로 즉시 복귀시켰다고 발표했다. 엔비디아 이사회는 만장일치로 복귀를 의결했다. 황 CEO가 불륜 스캔들로 물러난 지 11일 만이다. 이사회는 지난 17일 실적 발표 콘퍼런스콜에서 황 CEO를 복귀시킬 계획이 없다고 밝혔지만, 일주일도 지나지 않아 그 결정을…",
       "sources": [
         {
@@ -1059,7 +1089,17 @@
           "url": "https://byline.network/2026/11/huang-2",
           "title": "젠슨 황, 엔비디아 복귀한다…이사회, 만장일치 복귀 결정"
         }
-      ]
+      ],
+      "summary": "엔비디아 이사회가 23일 젠슨 황 창업자를 CEO로 즉시 복귀시킨다고 발표했으며, 불륜 스캔들로 물러난 지 11일 만이다. 이사회는 지난 17일 복귀 계획이 없다고 밝혔다가 일주일도 지나지 않아 번복했다. 엔비디아는 국가안보·수출통제 위원회와 최고준법책임자 신설 등 감독 장치도 함께 내놨다.",
+      "why_it_matters": "창업자 의존도가 높은 기업에서 경영 공백이 시장과 사업 전반에 미치는 영향을 보여준다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-24T05:28:18+00:00",
+        "briefing_day": "2026-11-24",
+        "input_hash": "f4f863e964eac88fc0fc2286634940382455cdc69b0858fac8b607b470de2401",
+        "evidence_verified": true
+      }
     },
     {
       "id": "29c9de3a1f8674ad7ebd",
@@ -1418,14 +1458,14 @@
     {
       "id": "cd3031457ac794031845",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42859",
-      "title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현",
+      "title": "MIT, 노트북 구동 소형 AI로 아날로그 반도체 설계 자동화",
       "original_title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현",
       "published_at": "2026-11-23T10:03:33+00:00",
       "collected_at": "2026-11-23T11:55:09+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "미국 매사추세츠공과대학교(MIT) 연구진이 노트북에서 실행할 수 있는 소형 언어모델(SLM)로 복잡한 아날로그 반도체 회로 설계를 자동화하는 인공지능(AI) 학습 기술을 개발했다. 수십억개 매개변수의 소형 모델이 최첨단 대형언어모델(LLM)에 근접한 설계 성능을 구현하면서도 컴퓨팅 비용을 낮추고 기업의 반도체 설계 …",
       "sources": [
         {
@@ -1433,7 +1473,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42859",
           "title": "MIT, 노트북에서 구동하는 소형 AI로 아날로그 반도체 설계 자동화…최첨단 대형 AI에 근접한 성능 구현"
         }
-      ]
+      ],
+      "summary": "MIT 연구진이 노트북에서 실행할 수 있는 소형 언어모델로 아날로그 반도체 회로 설계를 자동화하는 '슬릭' 기술을 개발했다. 수십억개 매개변수의 소형 모델이 최신 GPT 모델인 GPT-6 아스트라에 근접한 설계 성능을 보이면서도 컴퓨팅 자원은 훨씬 적게 사용했다. MIT는 구체적인 설계 시간 단축률이나 비용 절감률은 공개하지 않았다.",
+      "why_it_matters": "클라우드 의존 없이 기업 내부에서 반도체 설계 기밀을 보호하며 AI를 활용할 가능성을 넓힌다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-24T05:28:18+00:00",
+        "briefing_day": "2026-11-24",
+        "input_hash": "6b79301e9d1168120cf0d539d5cd57c9afe02057648c12aae2e1e13080920fd5",
+        "evidence_verified": true
+      }
     },
     {
       "id": "33a400d40a16e9dc9747",
