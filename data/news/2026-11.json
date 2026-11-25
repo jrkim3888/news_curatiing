@@ -3,6 +3,693 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "48919c55052d9c9281a8",
+      "url": "https://blog.cloudflare.com/search-for-agents",
+      "title": "Cloudflare AI Search for Agents",
+      "original_title": "Cloudflare AI Search for Agents",
+      "published_at": "2026-11-25T23:25:46+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://blog.cloudflare.com/search-for-agents",
+          "title": "Cloudflare AI Search for Agents",
+          "discussion_url": "https://news.ycombinator.com/item?id=50649149"
+        }
+      ]
+    },
+    {
+      "id": "7916b22c2ad9363b95d7",
+      "url": "https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps",
+      "title": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app (Federico Viticci/MacStories)",
+      "original_title": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app (Federico Viticci/MacStories)",
+      "published_at": "2026-11-25T23:20:01+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Federico Viticci / MacStories : Hands-on with the “Install as app” feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the mai…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.macstories.net/stories/a-closer-look-at-claudes-mac-apps",
+          "title": "Hands-on with the \"Install as app\" feature for Claude artifacts: they are HTML apps wrapped inside an Electron shim, which is managed via the main Claude app (Federico Viticci/MacStories)",
+          "discussion_url": "https://www.techmeme.com/261125/p40"
+        }
+      ]
+    },
+    {
+      "id": "bb9b68b7eb7dea1c610e",
+      "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai",
+      "title": "RL Infrastructure at Microsoft AI",
+      "original_title": "RL Infrastructure at Microsoft AI",
+      "published_at": "2026-11-25T23:14:36+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://microsoft.ai/news/rl-infrastructure-at-microsoft-ai",
+          "title": "RL Infrastructure at Microsoft AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50649024"
+        }
+      ]
+    },
+    {
+      "id": "19b2f1457477d919c9ab",
+      "url": "https://www.reuters.com/technology/us-finds-no-evidence-china-directed-executive-spy-nvidia-ceo-wsj-reports-2026-11-25",
+      "title": "S&P warns Nvidia's board may be compromised",
+      "original_title": "S&P warns Nvidia's board may be compromised",
+      "published_at": "2026-11-25T23:03:16+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/technology/us-finds-no-evidence-china-directed-executive-spy-nvidia-ceo-wsj-reports-2026-11-25",
+          "title": "S&P warns Nvidia's board may be compromised",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648903"
+        }
+      ]
+    },
+    {
+      "id": "f74bc6215aeec303ba47",
+      "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo",
+      "title": "Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang (Washington Post)",
+      "original_title": "Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang (Washington Post)",
+      "published_at": "2026-11-25T22:55:03+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Washington Post : Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.washingtonpost.com/technology/2026/11/25/hegseth-pentagon-officials-floated-using-wartime-law-reappoint-nvidia-ceo",
+          "title": "Sources: Pete Hegseth and other Pentagon officials discussed using the Defense Production Act as leverage to pressure Nvidia's board to reinstate Jensen Huang (Washington Post)",
+          "discussion_url": "https://www.techmeme.com/261125/p39"
+        }
+      ]
+    },
+    {
+      "id": "7abc9ad04ec51d4882bf",
+      "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b",
+      "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "original_title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+      "published_at": "2026-11-25T22:49:05+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/finance/stocks/jensen-huang-trump-and-the-11-days-that-rocked-nvidia-604fff0b",
+          "title": "Jensen Huang, Trump and the 11 Days That Rocked Nvidia",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648740"
+        }
+      ]
+    },
+    {
+      "id": "77bb663b6361291f59ee",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "original_title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "published_at": "2026-11-25T22:44:32+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
+          "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks"
+        }
+      ]
+    },
+    {
+      "id": "ee0a969bd875cf99ac8b",
+      "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai",
+      "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+      "original_title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+      "published_at": "2026-11-25T22:41:09+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://brownstone.org/articles/the-near-coup-at-nvidia-and-the-war-on-open-source-ai",
+          "title": "The Near-Coup at Nvidia and the War on Open-Source AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648668"
+        }
+      ]
+    },
+    {
+      "id": "9dc01b6ea2baec9bd316",
+      "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
+      "title": "Etsy clarifies AI terms after seller backlash",
+      "original_title": "Etsy clarifies AI terms after seller backlash",
+      "published_at": "2026-11-25T22:33:06+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arstechnica.com/tech-policy/2026/11/etsy-clarifies-ai-terms-after-seller-backlash",
+          "title": "Etsy clarifies AI terms after seller backlash",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648587"
+        }
+      ]
+    },
+    {
+      "id": "e1f57b8709595e9969d6",
+      "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
+      "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
+      "original_title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
+      "published_at": "2026-11-25T22:16:36+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=11EoBiBh5QY",
+          "title": "Anna Groza and Bruce Dang – 0-Click Remote Exploits in an AI World [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648381"
+        }
+      ]
+    },
+    {
+      "id": "acd1839cbac010dd245e",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "title": "Bare Metal Qwen",
+      "original_title": "Bare Metal Qwen",
+      "published_at": "2026-11-25T22:15:34+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+          "title": "Bare Metal Qwen",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648365"
+        }
+      ]
+    },
+    {
+      "id": "5b4f2d62cd0d354b48ea",
+      "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence",
+      "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
+      "original_title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
+      "published_at": "2026-11-25T22:10:53+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://digitaleconomy.stanford.edu/publication/canaries-in-the-coal-mine-six-facts-about-the-recent-employment-effects-of-artificial-intelligence",
+          "title": "Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50648309"
+        }
+      ]
+    },
+    {
+      "id": "efa24c17b77685189bfe",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217759",
+      "title": "[11월25일] \"AI의 의식, 문제는 만드는 법도 막는 법도 모른다는 것\"",
+      "original_title": "[11월25일] \"AI의 의식, 문제는 만드는 법도 막는 법도 모른다는 것\"",
+      "published_at": "2026-11-25T22:00:00+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "2022년 6월 구글의 한 엔지니어가 AI 모델 '람다(LaMDA)'에 의식이 있다고 주장해 화제가 된 적이 있습니다. 당시에는 AI의 뛰어난 언어 능력을 의식으로 착각한 해프닝으로 받아들여졌지만, 이제 AI 의식은 주요 AI 기업들의 연구 대상이자 논쟁거리가 됐습니다.대표적인 곳이 앤트로픽입니다. AI가 의식을 갖…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217759",
+          "title": "[11월25일] \"AI의 의식, 문제는 만드는 법도 막는 법도 모른다는 것\""
+        }
+      ]
+    },
+    {
+      "id": "1bf0ed793ecc62cf58f5",
+      "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962",
+      "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+      "original_title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+      "published_at": "2026-11-25T21:30:02+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "NBC News : NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September — Gov…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nbcnews.com/tech/tech-news/new-york-governor-kathy-hochul-sign-ai-toy-ban-law-rcna610962",
+          "title": "NY Gov. Kathy Hochul signs a bill banning AI chatbot toys for five years, starting in February; California Gov. Gavin Newsom signed a four-year ban in September (NBC News)",
+          "discussion_url": "https://www.techmeme.com/261125/p37"
+        }
+      ]
+    },
+    {
+      "id": "ebf758683b22df11a036",
+      "url": "https://www.reuters.com/legal/government/nvidia-agrees-settle-2018-us-investor-class-action-for-290-million-2026-11-25",
+      "title": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
+      "original_title": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
+      "published_at": "2026-11-25T21:15:01+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mike Scarcella / Reuters : Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales — N…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.reuters.com/legal/government/nvidia-agrees-settle-2018-us-investor-class-action-for-290-million-2026-11-25",
+          "title": "Nvidia agrees to pay $290M to settle a 2018 class action lawsuit alleging it misled shareholders about how much crypto mining fueled its GPU sales (Mike Scarcella/Reuters)",
+          "discussion_url": "https://www.techmeme.com/261125/p36"
+        }
+      ]
+    },
+    {
+      "id": "c316a84c3cfd3a593f3f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217786",
+      "title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원",
+      "original_title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원",
+      "published_at": "2026-11-25T21:12:40+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 '클로드'에 자연어로 요청해 만든 프로그램을 PC에 직접 설치하고 실행할 수 있는 기능을 선보였다. 이미지 편집기나 파일 관리 프로그램 등 자신에게 필요한 소프트웨어를 누구나 코딩 없이 제작하고 일반 PC 프로그램처럼 쉽게 사용할 수 있게 된 것이다.앤트로픽은 24일(현지시간) 공식 블로그를 통해 클로드의…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217786",
+          "title": "앤트로픽, 클로드로 누구나 PC 앱 제작·배포하도록 지원"
+        }
+      ]
+    },
+    {
+      "id": "3a73412d0df0bb71aee5",
+      "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+      "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "original_title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+      "published_at": "2026-11-25T20:03:27+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+          "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
+        }
+      ]
+    },
+    {
+      "id": "c3986ed0d71a9c0fde5f",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "original_title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "published_at": "2026-11-25T19:54:57+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+          "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it"
+        }
+      ]
+    },
+    {
+      "id": "18256e5094351872aef9",
+      "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+      "title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios)",
+      "original_title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios)",
+      "published_at": "2026-11-25T19:45:01+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Madison Mills / Axios : Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of “vibes-based” positioning, rebutting a report on AI leaders' …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios",
+          "title": "Dario Amodei rejects the idea of surrendering free will to AI and accuses rival AI execs of \"vibes-based\" positioning, rebutting a report on AI leaders' views (Madison Mills/Axios)",
+          "discussion_url": "https://www.techmeme.com/261125/p31"
+        }
+      ]
+    },
+    {
+      "id": "71a07b1df043fc19097f",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "original_title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "published_at": "2026-11-25T19:44:24+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own r…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
+          "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’"
+        }
+      ]
+    },
+    {
+      "id": "30b9a8b58c82672d7546",
+      "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks",
+      "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "original_title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+      "published_at": "2026-11-25T19:39:31+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks",
+          "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks"
+        }
+      ]
+    },
+    {
+      "id": "f09aeb2897d181487b1d",
+      "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling",
+      "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "original_title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling",
+      "published_at": "2026-11-25T19:30:00+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Attention can be a major bottleneck when serving world foundation models, where long sequences make inference computationally demanding. On NVIDIA Hopper and... Attention can be…",
+      "sources": [
+        {
+          "source_id": "nvidia",
+          "url": "https://developer.nvidia.com/blog/how-to-optimize-nvfp4-attention-on-nvidia-rtx-blackwell-through-register-recycling",
+          "title": "How to Optimize NVFP4 Attention on NVIDIA RTX Blackwell Through Register Recycling"
+        }
+      ]
+    },
+    {
+      "id": "99064c93a4d71226bfce",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+      "title": "Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg)",
+      "original_title": "Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg)",
+      "published_at": "2026-11-25T19:00:46+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "Bloomberg : Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M — Ele…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-25/elevenlabs-in-early-talks-for-2027-funding-at-33-billion-value",
+          "title": "Sources: ElevenLabs is in early talks for a 2027 funding round at a $33B target valuation, up from $22B in September; its annual recurring revenue is now $700M (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261125/p30"
+        }
+      ]
+    },
+    {
+      "id": "88bd06d7e0e9b82f43a3",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "title": "AI2, 과학자 17명 인터뷰로 AI 에이전트의 신뢰 5차원 제시",
+      "original_title": "Where scientists draw the line on AI agents",
+      "published_at": "2026-11-25T18:52:55+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "title": "Where scientists draw the line on AI agents"
+        }
+      ],
+      "summary": "AI2는 자연·응용·사회과학 분야 과학자 17명을 인터뷰해 AI 에이전트의 책임 있는 개발에 대한 의견을 모았다. 인터뷰에서 검증, 프라이버시, 객관성, 책임성, 투명성이라는 과학적 신뢰의 다섯 차원이 도출됐으며, 과학자들이 에이전트의 연구 과제 선택과 운영, 성능 평가에 참여해야 한다는 제안이 나왔다. 이 연구는 미국 기반 과학자 17명을 대상으로 한 탐색적 인터뷰로, 대표성 있는 설문이나 특정 AI 에이전트에 대한 실증 평가는 아니라고 AI2는 밝혔다.",
+      "why_it_matters": "AI 에이전트가 연구에 쓰일 때 과학자들이 어떤 책임과 통제를 유지하려는지 보여주며, 향후 평가 기준과 가이드라인 논의에 참고가 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-25T23:29:23+00:00",
+        "input_hash": "de81d56d71e26f1d01c8518f567054700504f24753749224241498f31892d932",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "9bc500761b768865cd01",
+      "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+      "title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
+      "original_title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
+      "published_at": "2026-11-25T18:25:00+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Kai Nicol-Schwarz / CNBC : Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html",
+          "title": "Sources: an unusually high volume of Nvidia GPUs, including thousands of B300s, hit the market after the US curbed Chinese companies' remote access to AI chips (Kai Nicol-Schwarz/CNBC)",
+          "discussion_url": "https://www.techmeme.com/261125/p29"
+        }
+      ]
+    },
+    {
+      "id": "fd3eea6ab732b7250509",
+      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "original_title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+      "published_at": "2026-11-25T18:11:46+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and ris…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+          "title": "Want to buy your kid an AI toy this Christmas? Not in New York"
+        }
+      ]
+    },
+    {
+      "id": "aac3e24e5e4d1002c0fd",
+      "url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work",
+      "title": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
+      "original_title": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
+      "published_at": "2026-11-25T17:45:02+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Allie Garfinkle / Fortune : Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://fortune.com/2026/11/25/every-raises-17-5-million-110-million-valuation-betting-venture-backed-media-can-work",
+          "title": "Every, a media company that provides consulting services to help companies become AI-native, raised a $17.5M Series A at a $110M post-money valuation (Allie Garfinkle/Fortune)",
+          "discussion_url": "https://www.techmeme.com/261125/p28"
+        }
+      ]
+    },
+    {
+      "id": "628d3c512960bc42def6",
+      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+      "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "original_title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+      "published_at": "2026-11-25T17:35:58+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs sai…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
+          "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"
+        }
+      ]
+    },
+    {
+      "id": "69fbec9981f84b435a9d",
+      "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+      "title": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)",
+      "original_title": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)",
+      "published_at": "2026-11-25T17:05:04+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Anthropic : Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration — Su…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.anthropic.com/research/migrating-api-to-rust",
+          "title": "Anthropic details migrating its Messages API, the primary way customers access Claude, from Python to Rust, and using the Python service to verify the migration (Anthropic)",
+          "discussion_url": "https://www.techmeme.com/261125/p26"
+        }
+      ]
+    },
+    {
+      "id": "551b41b55629eb2adfe6",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "original_title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "published_at": "2026-11-25T15:41:43+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive de…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
+          "title": "AI data centers are becoming harder to build, and neoclouds are feeling it"
+        }
+      ]
+    },
+    {
+      "id": "3057c1692fc87eb12e35",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "original_title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "published_at": "2026-11-25T14:10:18+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+          "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse"
+        }
+      ]
+    },
+    {
+      "id": "ec57c99a6a096767a36e",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "original_title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "published_at": "2026-11-25T13:00:00+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doub…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
+          "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed"
+        }
+      ]
+    },
+    {
+      "id": "8edd23a422ee30e16707",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42892",
+      "title": "\"로봇이 움직이는 물체를 끝까지 추적한다\"…앨런인공지능연구소, 피지컬 AI 평가체계 ‘로보트랙’ 오픈소스로",
+      "original_title": "\"로봇이 움직이는 물체를 끝까지 추적한다\"…앨런인공지능연구소, 피지컬 AI 평가체계 ‘로보트랙’ 오픈소스로",
+      "published_at": "2026-11-25T12:28:44+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "로봇이 실제 환경에서 물체를 집거나 옮기고 정밀하게 조작하기 위해서는 물체의 위치와 움직임을 지속적으로 파악하는 시각 지능이 필요하다. 특히 로봇의 그리퍼에 물체가 가려지거나 카메라의 시점이 달라지는 상황에서도 동일한 물체를 추적하는 능력은 피지컬 AI(Physical AI)의 실제 환경 적용을 좌우하는 기술적 요소…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42892",
+          "title": "\"로봇이 움직이는 물체를 끝까지 추적한다\"…앨런인공지능연구소, 피지컬 AI 평가체계 ‘로보트랙’ 오픈소스로"
+        }
+      ]
+    },
+    {
       "id": "4de544b96cb8ae233e93",
       "url": "https://www.wsj.com/finance/investing/anthropic-committed-to-spend-900-billion-wall-street-expects-its-debt-to-be-junk-5514d55d",
       "title": "Wall Street Expects Anthropic's Committed $900B Debt to Be Junk",
@@ -1046,6 +1733,35 @@
           "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion"
         }
       ]
+    },
+    {
+      "id": "df3be113c8aed13fbadf",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "title": "RTX PRO 6000 단일 GPU에서 Inkling 2 Mini 추론 최적화 실험",
+      "original_title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "published_at": "2026-11-25T00:00:00+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+          "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000"
+        }
+      ],
+      "summary": "Hugging Face의 Niels Rogge가 코딩 에이전트를 활용해 단일 NVIDIA RTX PRO 6000 96GB에서 Inkling 2 Mini 추론 속도를 실험했다. vLLM nightly와 DSpark 추측 디코딩을 적용해 단일 사용자 디코드가 136에서 190.6 tok/s로 40% 향상됐고, 8사용자 집계 처리량은 약 570에서 716 tok/s로 26% 증가했다고 보고했다. 작성자는 이 수치가 측정된 메모리 대역폭 한계의 약 95%에 도달한 것이라고 밝혔다.",
+      "why_it_matters": "대형 MoE 모델을 단일 워크스테이션급 GPU에서 서빙할 때 추측 디코딩과 메모리 대역폭이 실질적 병목임을 보여주는 사례다. 다만 결과는 특정 하드웨어·소프트웨어 조합의 실험이며 독립 검증은 아니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-25T23:29:21+00:00",
+        "input_hash": "7ef1c00f7bec5dd08b523e9c3b3c34b7df9f4de7c4ec3dc0d65dd63d00949eb3",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ebed988ea6d2cff0c55a",
@@ -2111,6 +2827,26 @@
           "url": "https://www.reddit.com/r/MistralAI/comments/1y3nr3a/vibe_update_vibe_allowance_changes",
           "title": "Mistral restricts third party harnesses on paid plans",
           "discussion_url": "https://news.ycombinator.com/item?id=50627703"
+        }
+      ]
+    },
+    {
+      "id": "616293296550946fa78f",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "original_title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "published_at": "2026-11-24T13:07:53+00:00",
+      "collected_at": "2026-11-25T23:28:55+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass spectra.…",
+      "sources": [
+        {
+          "source_id": "deepmind",
+          "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity",
+          "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity"
         }
       ]
     },
