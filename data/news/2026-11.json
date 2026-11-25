@@ -566,14 +566,14 @@
     {
       "id": "c0d507596078021a4d8b",
       "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
-      "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+      "title": "엔비디아, 12GB GPU에서 코스모스 3 나노 실행하는 튜토리얼 공개",
       "original_title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
       "published_at": "2026-11-24T18:44:05+00:00",
       "collected_at": "2026-11-24T23:46:40+00:00",
       "published_precision": "time",
       "region": "global",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "Running video generation models locally can be challenging when model weights and intermediate data exceed available GPU memory. NVIDIA Cosmos 3 Nano is a world... Running video…",
       "sources": [
         {
@@ -581,7 +581,17 @@
           "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
           "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers"
         }
-      ]
+      ],
+      "summary": "엔비디아는 텍스트와 이미지 등에서 영상을 생성하는 월드 파운데이션 모델 코스모스 3 나노를 12GB VRAM GPU에서 실행하는 방법을 공개했습니다. 대부분의 모델 가중치를 시스템 RAM에 두고 필요할 때 GPU로 전송하며, 허깅페이스 디퓨저스와 FP8 체크포인트를 활용해 메모리 요구량을 줄입니다. 다만 시스템 RAM 사용량과 PCIe 전송이 늘어나는 대가가 따릅니다.",
+      "why_it_matters": "고사양 GPU 없이 영상 생성 모델을 실험할 수 있는 경로가 열리면 물리 AI 개발의 진입 장벽이 낮아질 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-25T04:30:59+00:00",
+        "briefing_day": "2026-11-25",
+        "input_hash": "626e066e33235e8a7986613e1f279e5de7ba4433f2867c2e95cd8eb3ded327e2",
+        "evidence_verified": true
+      }
     },
     {
       "id": "7992bf690613aecdb581",
@@ -695,14 +705,14 @@
     {
       "id": "7eea171611f31c8f95c6",
       "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "title": "GPT-6.2 아스트라, 1808년 익명 스케치북 제작자 22분 만에 식별",
       "original_title": "GPT 6.2 Astra Solves a Historical Mystery",
       "published_at": "2026-11-24T16:53:59+00:00",
       "collected_at": "2026-11-24T23:46:40+00:00",
       "published_precision": "time",
       "region": "global",
       "category": "모델·연구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minim…",
       "sources": [
         {
@@ -710,7 +720,17 @@
           "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
           "title": "GPT 6.2 Astra Solves a Historical Mystery"
         }
-      ]
+      ],
+      "summary": "역사학자 마크 험프리스는 GPT-6.2 아스트라가 최소한의 프롬프트로 예일 베이네케 도서관 소장 1808년 익명 스케치북의 제작자를 22분 만에 식별했다고 전했습니다. 아스트라는 공개 자료에서 샤보 자작의 방문 기록을 찾아내고 그의 여행 일지가 제작자 확인에 도움이 될 것이라고 예측했으며, 실제로 그 자료가 중요한 발견으로 이어졌습니다.",
+      "why_it_matters": "AI가 역사 연구에서 가설을 세우고 검증까지 수행하는 사례는 연구자의 역할과 신뢰성 기준에 대한 논의를 촉발합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-25T04:30:59+00:00",
+        "briefing_day": "2026-11-25",
+        "input_hash": "234af0463723518b819dd3e1722e6d6e763359219a5dfe2b7f3f4e90d9034b49",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6f0f83d3e1c30af402d3",
@@ -1216,14 +1236,14 @@
     {
       "id": "13d825873dc139982ae1",
       "url": "https://byline.network/2026/11/24-665",
-      "title": "20년 만에 돌아온 포티넷코리아 김종덕 대표 “AI 시대, 개별 보안 솔루션은 한계”",
+      "title": "포티넷코리아 김종덕 대표, AI 시대 통합 보안 플랫폼 전략 제시",
       "original_title": "20년 만에 돌아온 포티넷코리아 김종덕 대표 “AI 시대, 개별 보안 솔루션은 한계”",
       "published_at": "2026-11-24T12:40:08+00:00",
       "collected_at": "2026-11-24T13:21:10+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "“AI가 매일 새로운 취약점을 발견하는 시대에 개별 보안 제품으로 대응하는 것이 과연 맞는지 고민해야 합니다. 보다 다각적이고 지능적인 플랫폼 기반의 접근이 필요합니다. 제가 포티넷으로 다시 돌아온 이유이기도 합니다.” 김종덕 포티넷코리아 신임 대표는 24일 서울 삼성동 그랜드 인터컨티넨탈 서울 파르나스에서 열린 ‘…",
       "sources": [
         {
@@ -1231,7 +1251,17 @@
           "url": "https://byline.network/2026/11/24-665",
           "title": "20년 만에 돌아온 포티넷코리아 김종덕 대표 “AI 시대, 개별 보안 솔루션은 한계”"
         }
-      ]
+      ],
+      "summary": "약 20년 만에 포티넷으로 돌아온 김종덕 포티넷코리아 신임 대표는 AI 사이버보안 서밋 2026 개회사에서 개별 보안 제품으로는 AI가 매일 발견하는 취약점에 대응하기 어렵다며 플랫폼 기반 접근이 필요하다고 말했습니다. 그는 섀도우 AI와 데이터 유출, 규제 대응을 주요 과제로 꼽고 포티OS와 시큐리티 패브릭 중심의 통합 보안 전략을 강화하겠다고 밝혔습니다.",
+      "why_it_matters": "AI 에이전트 확산으로 관리 대상이 늘어나는 상황에서 기업 보안이 개별 제품에서 통합 플랫폼으로 이동하는 배경을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-25T04:30:59+00:00",
+        "briefing_day": "2026-11-25",
+        "input_hash": "22e9b16dc20ae9ab5fa8f09786614b82715786c2559b45ab5d781899d5020e7d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "cb4e91427e172669e7b4",
@@ -1349,14 +1379,14 @@
     {
       "id": "aa0e2ce3b81c2e0e5a06",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42873",
-      "title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합",
+      "title": "HPE, 에이전틱 엔터프라이즈 겨냥 통합 AI 인프라 전략 발표",
       "original_title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합",
       "published_at": "2026-11-24T09:41:17+00:00",
       "collected_at": "2026-11-24T13:21:10+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "인공지능(AI) 에이전트가 기업의 업무 수행과 의사결정에 참여하는 에이전틱 엔터프라이즈(Agentic Enterprise) 시대를 맞아 휴렛팩커드 엔터프라이즈(Hewlett Packard Enterprise, HPE)가 컴퓨팅과 데이터, 네트워킹, 하이브리드 클라우드를 아우르는 통합 AI 인프라 전략을 제시했다.HP…",
       "sources": [
         {
@@ -1364,19 +1394,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42873",
           "title": "HPE, 에이전틱 엔터프라이즈 시대 AI 인프라 전략 제시…네트워킹·컴퓨팅·하이브리드 클라우드 통합"
         }
-      ]
+      ],
+      "summary": "HPE는 서울에서 열린 HPE 디스커버 모어 서울 2026에서 AI 에이전트가 업무와 의사결정에 참여하는 에이전틱 엔터프라이즈 시대를 겨냥한 통합 AI 인프라 전략을 제시했습니다. 컴퓨팅과 데이터, 네트워킹, 하이브리드 클라우드를 아우르는 전략으로 AI 팩토리와 프라이빗 클라우드 AI, 그린레이크 인텔리전스를 결합해 데이터 주권과 거버넌스까지 확보하는 방안을 내놨습니다. 행사에서는 KISTI의 국가 고성능컴퓨팅 시스템 한강 구축 사례도 공유됐습니다.",
+      "why_it_matters": "AI 경쟁력이 모델 성능을 넘어 데이터와 네트워크, 보안, 운영체계의 통합 관리로 이동하고 있음을 보여줍니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-25T04:30:59+00:00",
+        "briefing_day": "2026-11-25",
+        "input_hash": "746d9cc3d12b5838009299184911597d4d41c56eff8ebf784f5848f4b8d1e51c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "8ab193ed18c2df916a8d",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217729",
-      "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
+      "title": "앤트로픽, 코드 검토·수정·승인 자동화 도구 클로드 십 베타 공개",
       "original_title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
       "published_at": "2026-11-24T09:28:58+00:00",
       "collected_at": "2026-11-24T13:21:10+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "개발·도구",
+      "status": "summarized",
       "excerpt": "앤트로픽이 AI가 작성한 코드를 검토하고 수정하는 데 이어, 팀의 규칙에 따라 승인 여부까지 판단하는 개발 자동화 도구를 선보였다. 코드 생성 이후 검토와 승인에 걸리는 시간을 줄여 개발 속도를 높이겠다는 전략이다.앤트로픽은 23일(현지시간) ‘클로드 십(Claude Ship)’을 베타 버전으로 출시했다고 밝혔다.코…",
       "sources": [
         {
@@ -1384,7 +1424,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217729",
           "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화"
         }
-      ]
+      ],
+      "summary": "앤트로픽이 코드 변경 요청을 검토하고 수정하며 팀 정책에 따라 승인까지 판단하는 클로드 십을 베타로 출시했습니다. 수정 도구는 스스로 승인하거나 병합하지 않도록 설계됐고, 실제 병합은 깃허브 저장소의 보호 규칙과 필수 검사 설정에 따릅니다. 초기에는 승인 정책 판단 결과만 확인하는 관찰 모드 운영이 권장됩니다.",
+      "why_it_matters": "코드 생성 이후 단계까지 자동화되면 개발 속도는 빨라지지만, 승인 정책과 병합 규칙 설계가 안전성을 좌우합니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-25T04:30:59+00:00",
+        "briefing_day": "2026-11-25",
+        "input_hash": "3539b830851a21699badfc02f8ab82a71f6a986edf7ed77d87fd382a6e6f7910",
+        "evidence_verified": true
+      }
     },
     {
       "id": "1491417370724a142bb1",

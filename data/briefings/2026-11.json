@@ -3,6 +3,315 @@
   "month": "2026-11",
   "editions": [
     {
+      "id": "2026-11-25",
+      "day": "2026-11-25",
+      "scheduled_at": "2026-11-24T21:30:00+00:00",
+      "generated_at": "2026-11-25T04:30:59+00:00",
+      "window_start": "2026-11-23T21:00:00+00:00",
+      "window_end": "2026-11-24T21:00:00+00:00",
+      "status": "published",
+      "headline": "AI가 코드 승인과 단백질 설계까지 맡는 날",
+      "takeaway": "오늘의 한 줄: AI가 개발과 연구의 검토·설계 단계로 확장될수록 자동화의 편의만큼 검증과 통제 설계가 중요해집니다.",
+      "overview": [
+        {
+          "text": "앤트로픽이 코드 검토와 수정, 팀 정책에 따른 승인까지 처리하는 개발 자동화 도구 클로드 십을 베타로 공개했습니다. 수정 도구는 스스로 코드 변경 요청을 승인하거나 병합하지 않도록 설계됐고, 실제 병합은 저장소의 보호 규칙과 필수 검사 설정에 따릅니다. 개발 속도를 높이는 대신 승인 정책과 관찰 모드 운영 방식이 안전성을 좌우할 수 있습니다.",
+          "issue_ids": [
+            "issue-1"
+          ]
+        },
+        {
+          "text": "오픈AI는 GPT-6 계열 모델이 별도 생물학 모델 없이 추론과 코드만으로 단백질 구조와 서열을 설계할 수 있다고 발표했습니다. 실험실 테스트에서 GPT-6.2 설계 기반 단백질은 다섯 개 표적에서 결합 가능성을 보였고 재설계된 항체도 결합력을 유지했습니다. 별도 사례로 GPT-6.2 아스트라는 예일이 소장한 1808년 익명 스케치북의 제작자를 22분 만에 식별해 역사 연구에서의 활용 가능성도 제기됐습니다.",
+          "issue_ids": [
+            "issue-2",
+            "issue-3"
+          ]
+        },
+        {
+          "text": "구글은 골든스테이트와의 파트너십을 확대해 제미나이를 구단과 체이스 센터의 공식 AI 파트너로 지정했습니다. 엔비디아는 12GB GPU에서 코스모스 3 나노 영상 생성 모델을 실행하는 방법을 공개하며 로컬 실행 문턱을 낮추는 도구를 제시했습니다. 두 사례 모두 생성형 AI가 스포츠 운영과 개인 개발 환경으로 적용 범위를 넓히는 흐름을 보여줍니다.",
+          "issue_ids": [
+            "issue-4",
+            "issue-5"
+          ]
+        }
+      ],
+      "issues": [
+        {
+          "id": "issue-1",
+          "title": "앤트로픽, 코드 검토·수정·승인 자동화 도구 '클로드 십' 베타 출시",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "앤트로픽이 코드 변경 요청을 검토하고 수정하며 팀 정책에 따라 승인까지 판단하는 개발 자동화 도구 '클로드 십'을 베타 버전으로 출시했다.",
+              "article_ids": [
+                "8ab193ed18c2df916a8d"
+              ],
+              "links": [
+                {
+                  "text": "클로드 십",
+                  "article_id": "8ab193ed18c2df916a8d"
+                }
+              ]
+            },
+            {
+              "text": "클로드 십은 기존 코드 리뷰에 수정 도구 'PR 스튜어드'와 승인 도구 '클로드 어프루벌스'를 연결했으며, PR 스튜어드는 스스로 PR을 승인하거나 병합하지 않도록 설계됐다.",
+              "article_ids": [
+                "8ab193ed18c2df916a8d"
+              ],
+              "links": [
+                {
+                  "text": "클로드 어프루벌스",
+                  "article_id": "8ab193ed18c2df916a8d"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "코드 생성 이후 검토와 승인까지 자동화되면 개발 속도가 빨라지지만, 승인 정책과 병합 규칙을 어떻게 설계하느냐가 안전성을 좌우한다.",
+          "article_ids": [
+            "8ab193ed18c2df916a8d"
+          ]
+        },
+        {
+          "id": "issue-2",
+          "title": "오픈AI, GPT-6 계열이 별도 생물학 모델 없이 단백질 설계 가능하다고 발표",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "오픈AI는 GPT-6 계열 모델이 추론과 코드만으로 새로운 단백질 구조와 아미노산 서열을 설계할 수 있으며, 내부 연구 모델이 여러 단백질 설계 과제에서 특화 모델과 대등하거나 더 나은 성능을 냈다고 밝혔다.",
+              "article_ids": [
+                "ac2f786b30f6d45772c4"
+              ],
+              "links": [
+                {
+                  "text": "GPT-6",
+                  "article_id": "ac2f786b30f6d45772c4"
+                }
+              ]
+            },
+            {
+              "text": "오나바와의 실험실 테스트에서 GPT-6.2 설계 기반 단백질은 다섯 개 표적에서 결합 가능성을 보였고, 재설계된 항체도 결합력을 유지했다.",
+              "article_ids": [
+                "ac2f786b30f6d45772c4"
+              ],
+              "links": [
+                {
+                  "text": "오나바",
+                  "article_id": "ac2f786b30f6d45772c4"
+                },
+                {
+                  "text": "GPT-6.2",
+                  "article_id": "ac2f786b30f6d45772c4"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "범용 모델이 생물학 특화 모델의 영역으로 확장되면 연구 도구 구성과 검증 방식이 달라질 수 있다.",
+          "article_ids": [
+            "ac2f786b30f6d45772c4"
+          ]
+        },
+        {
+          "id": "issue-3",
+          "title": "GPT-6.2 아스트라, 예일 소장 1808년 익명 스케치북 제작자 규명",
+          "category": "모델·연구",
+          "facts": [
+            {
+              "text": "역사학자 마크 험프리스에 따르면 GPT-6.2 아스트라는 최소한의 프롬프트로 22분 만에 예일 베이네케 도서관 소장 1808년 익명 스케치북의 제작자를 공개 자료만으로 식별했다.",
+              "article_ids": [
+                "7eea171611f31c8f95c6"
+              ],
+              "links": [
+                {
+                  "text": "GPT-6.2 아스트라",
+                  "article_id": "7eea171611f31c8f95c6"
+                },
+                {
+                  "text": "스케치북",
+                  "article_id": "7eea171611f31c8f95c6"
+                }
+              ]
+            },
+            {
+              "text": "아스트라는 스케치북에 언급된 날짜보다 닷새 앞선 샤보 자작 방문 기록을 찾아내고, 샤보의 여행 일지가 제작자 확인에 도움이 될 것이라고 예측했으며 실제로 그 자료가 중요한 발견으로 이어졌다.",
+              "article_ids": [
+                "7eea171611f31c8f95c6"
+              ],
+              "links": []
+            }
+          ],
+          "why_it_matters": "AI가 역사 연구에서 가설을 세우고 검증까지 수행하는 사례는 연구자의 역할과 신뢰성 기준에 대한 논의를 촉발한다.",
+          "article_ids": [
+            "7eea171611f31c8f95c6"
+          ]
+        },
+        {
+          "id": "issue-4",
+          "title": "구글, 골든스테이트와 제미나이 공식 AI 파트너십 확대",
+          "category": "산업·비즈니스",
+          "facts": [
+            {
+              "text": "구글은 골든스테이트와의 파트너십을 확대해 제미나이를 워리어스, 발키리스, 체이스 센터의 공식 AI 어시스턴트 및 생성형 AI·엔터프라이즈 LLM 파트너로 지정했다.",
+              "article_ids": [
+                "a7a0adf7d6c734e350c9"
+              ],
+              "links": [
+                {
+                  "text": "골든스테이트",
+                  "article_id": "a7a0adf7d6c734e350c9"
+                },
+                {
+                  "text": "제미나이",
+                  "article_id": "a7a0adf7d6c734e350c9"
+                }
+              ]
+            },
+            {
+              "text": "골든스테이트는 비즈니스 부문에서 맞춤형 AI 에이전트를 구축하기 위해 제미나이를 도입하고, 팬 대상으로는 체이스 센터 내 비디오보드와 디지털 채널에서 상호작용형 경기 경험을 제공한다.",
+              "article_ids": [
+                "a7a0adf7d6c734e350c9"
+              ],
+              "links": [
+                {
+                  "text": "AI 에이전트",
+                  "article_id": "a7a0adf7d6c734e350c9"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "스포츠 구단 운영과 팬 경험에 생성형 AI가 결합되는 사례로, 기업용 AI 도입이 업종을 넓히고 있음을 보여준다.",
+          "article_ids": [
+            "a7a0adf7d6c734e350c9"
+          ]
+        },
+        {
+          "id": "issue-5",
+          "title": "엔비디아, 12GB GPU에서 코스모스 3 나노 실행하는 방법 공개",
+          "category": "개발·도구",
+          "facts": [
+            {
+              "text": "엔비디아는 텍스트와 이미지 등에서 영상을 생성하는 월드 파운데이션 모델 코스모스 3 나노를 12GB VRAM GPU에서 실행하는 튜토리얼을 공개했다.",
+              "article_ids": [
+                "c0d507596078021a4d8b"
+              ],
+              "links": [
+                {
+                  "text": "코스모스 3 나노",
+                  "article_id": "c0d507596078021a4d8b"
+                },
+                {
+                  "text": "12GB VRAM",
+                  "article_id": "c0d507596078021a4d8b"
+                }
+              ]
+            },
+            {
+              "text": "이 방식은 대부분의 모델 가중치를 시스템 RAM에 두고 필요할 때 GPU로 전송하며, 허깅페이스 디퓨저스와 FP8 체크포인트를 활용해 메모리 요구량을 줄인다.",
+              "article_ids": [
+                "c0d507596078021a4d8b"
+              ],
+              "links": [
+                {
+                  "text": "허깅페이스 디퓨저스",
+                  "article_id": "c0d507596078021a4d8b"
+                },
+                {
+                  "text": "FP8 체크포인트",
+                  "article_id": "c0d507596078021a4d8b"
+                }
+              ]
+            }
+          ],
+          "why_it_matters": "고사양 GPU 없이도 영상 생성 모델을 실험할 수 있는 경로가 열리면 물리 AI 개발의 진입 장벽이 낮아질 수 있다.",
+          "article_ids": [
+            "c0d507596078021a4d8b"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "id": "c0d507596078021a4d8b",
+          "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+          "published_at": "2026-11-24T18:44:05+00:00",
+          "sources": [
+            {
+              "source_id": "nvidia",
+              "url": "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers",
+              "title": "How to Run NVIDIA Cosmos 3 on Local AI Devices Using Hugging Face Diffusers",
+              "name": "NVIDIA Technical Blog",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "7eea171611f31c8f95c6",
+          "title": "GPT 6.2 Astra Solves a Historical Mystery",
+          "published_at": "2026-11-24T16:53:59+00:00",
+          "sources": [
+            {
+              "source_id": "simonwillison",
+              "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery",
+              "title": "GPT 6.2 Astra Solves a Historical Mystery",
+              "name": "Simon Willison",
+              "role": "analysis"
+            }
+          ]
+        },
+        {
+          "id": "a7a0adf7d6c734e350c9",
+          "title": "How Gemini is changing the game for Golden State's organization and fans.",
+          "published_at": "2026-11-24T16:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "google_ai",
+              "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+              "title": "How Gemini is changing the game for Golden State's organization and fans.",
+              "name": "Google The Keyword / AI",
+              "role": "official"
+            }
+          ]
+        },
+        {
+          "id": "ac2f786b30f6d45772c4",
+          "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "published_at": "2026-11-24T13:00:00+00:00",
+          "sources": [
+            {
+              "source_id": "openai",
+              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+              "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+              "name": "OpenAI News",
+              "role": "official"
+            },
+            {
+              "source_id": "techmeme",
+              "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+              "title": "OpenAI says GPT-6 models can design new protein shapes and sequences using only reasoning and code, without calling specialized biology models to generate them (OpenAI)",
+              "discussion_url": "https://www.techmeme.com/261124/p44",
+              "name": "Techmeme",
+              "role": "signal"
+            }
+          ]
+        },
+        {
+          "id": "8ab193ed18c2df916a8d",
+          "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
+          "published_at": "2026-11-24T09:28:58+00:00",
+          "sources": [
+            {
+              "source_id": "aitimes",
+              "url": "https://www.aitimes.com/news/articleView.html?idxno=217729",
+              "title": "앤트로픽, ‘클로드 십’ 출시…AI가 코드 검토부터 수정·승인까지 자동화",
+              "name": "AI타임스",
+              "role": "media"
+            }
+          ]
+        }
+      ],
+      "reviewed_articles": 8,
+      "model": "deepseek/deepseek-v4.1-flash",
+      "prompt_version": "daily-brief-v11",
+      "input_hash": "6568ec21d79a7e92d258bae21e27768e3e88c23479fdd036ae5309d19d914091"
+    },
+    {
       "id": "2026-11-24",
       "day": "2026-11-24",
       "scheduled_at": "2026-11-23T21:30:00+00:00",
