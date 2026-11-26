@@ -3,6 +3,522 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "6cad01e61e7c391c6746",
+      "url": "https://openharness.prakhargurunani.com/",
+      "title": "OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs",
+      "original_title": "OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs",
+      "published_at": "2026-11-26T23:26:23+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://openharness.prakhargurunani.com/",
+          "title": "OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs",
+          "discussion_url": "https://news.ycombinator.com/item?id=50661000"
+        }
+      ]
+    },
+    {
+      "id": "fc9f341e22c475c79bf1",
+      "url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970",
+      "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
+      "original_title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
+      "published_at": "2026-11-26T23:21:15+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.wsj.com/tech/ai/for-better-or-worse-the-fate-of-the-ai-boom-is-in-nvidias-hands-d0f88970",
+          "title": "For Better or Worse, the Fate of the AI Boom Is in Nvidia's Hands",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660963"
+        }
+      ]
+    },
+    {
+      "id": "4f67eadb339a04ed3c7e",
+      "url": "https://thesis.truffle.net/introduction",
+      "title": "The Local AI Opportunity",
+      "original_title": "The Local AI Opportunity",
+      "published_at": "2026-11-26T23:21:14+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://thesis.truffle.net/introduction",
+          "title": "The Local AI Opportunity",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660962"
+        }
+      ]
+    },
+    {
+      "id": "e8393315052fead6f9b9",
+      "url": "https://github.com/aigeano/kaju",
+      "title": "Show HN: Kaju – Annotate, comment and collaborate with Claude Code",
+      "original_title": "Show HN: Kaju – Annotate, comment and collaborate with Claude Code",
+      "published_at": "2026-11-26T23:03:42+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/aigeano/kaju",
+          "title": "Show HN: Kaju – Annotate, comment and collaborate with Claude Code",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660837"
+        }
+      ]
+    },
+    {
+      "id": "dca0c099832e3bb7ceb4",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217839",
+      "title": "미 정보당국 \"중국, 젠슨 황 사건 배후 조종 증거 없어\"…간첩 의혹 판단은 엇갈려",
+      "original_title": "미 정보당국 \"중국, 젠슨 황 사건 배후 조종 증거 없어\"…간첩 의혹 판단은 엇갈려",
+      "published_at": "2026-11-26T23:01:21+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 정보당국이 젠슨 황 엔비디아 CEO의 혼외 관계를 중국 정보기관이 배후에서 조종했다는 증거를 확보하지 못했다고 의회에 보고했다. 그러나 상대 여성인 앨리스 황의 중국 정보기관 연계 의혹을 놓고는 미국 정보당국자들의 판단이 엇갈리는 것으로 알려졌다.월스트리트저널(WSJ)은 25일(현지시간) 소식통을 인용, 미국 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217839",
+          "title": "미 정보당국 \"중국, 젠슨 황 사건 배후 조종 증거 없어\"…간첩 의혹 판단은 엇갈려"
+        }
+      ]
+    },
+    {
+      "id": "2bb714fbc5927fdef459",
+      "url": "https://kendell.dev/blog/venicewrapper",
+      "title": "Potemkin Inference on Openrouter (Venice AI)",
+      "original_title": "Potemkin Inference on Openrouter (Venice AI)",
+      "published_at": "2026-11-26T22:47:04+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://kendell.dev/blog/venicewrapper",
+          "title": "Potemkin Inference on Openrouter (Venice AI)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660720"
+        }
+      ]
+    },
+    {
+      "id": "08b200224e4ba2bfd868",
+      "url": "https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream",
+      "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
+      "original_title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
+      "published_at": "2026-11-26T22:10:01+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nathan Grayson / Aftermath : A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://aftermath.site/n3on-impersonator-ai-prison-260000-dollars-kick-stream",
+          "title": "A US judge sentences a Florida man to 47 months in prison for using AI to impersonate Kick streamer N3on, defrauding a memecoin's organizers out of ~$260K (Nathan Grayson/Aftermath)",
+          "discussion_url": "https://www.techmeme.com/261126/p25"
+        }
+      ]
+    },
+    {
+      "id": "df31934cbc6601faaaa7",
+      "url": "https://automato.substack.com/p/siri-plus-claude-plus-shortcuts",
+      "title": "I asked Siri to team up with Claude and read me the news",
+      "original_title": "I asked Siri to team up with Claude and read me the news",
+      "published_at": "2026-11-26T22:07:32+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://automato.substack.com/p/siri-plus-claude-plus-shortcuts",
+          "title": "I asked Siri to team up with Claude and read me the news",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660350"
+        }
+      ]
+    },
+    {
+      "id": "ed742ff59e2680453edc",
+      "url": "https://benedictide.com/posts/ai",
+      "title": "You are mad at AI for the wrong reasons",
+      "original_title": "You are mad at AI for the wrong reasons",
+      "published_at": "2026-11-26T22:02:28+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://benedictide.com/posts/ai",
+          "title": "You are mad at AI for the wrong reasons",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660301"
+        }
+      ]
+    },
+    {
+      "id": "955cdbc201efb2537913",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217803",
+      "title": "[11월26일] 앤트로픽이 던진 역설…AI 기술 발전에 깊어지는 투자자들의 고민",
+      "original_title": "[11월26일] 앤트로픽이 던진 역설…AI 기술 발전에 깊어지는 투자자들의 고민",
+      "published_at": "2026-11-26T22:00:00+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "앤트로픽이 기업공개(IPO) 과정에서 강조한 기술 경쟁력이 역설적으로 AI 인프라 투자자들의 불안 요인으로 떠올랐습니다. AI 개발과 서비스에 필요한 컴퓨팅 자원을 절감하는 기술이 빠르게 발전하면서, 지금 추진 중인 천문학적인 인프라 투자가 과연 적정한 규모인지에 대한 의문이 커지고 있습니다.비즈니스 인사이더는 25…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217803",
+          "title": "[11월26일] 앤트로픽이 던진 역설…AI 기술 발전에 깊어지는 투자자들의 고민"
+        }
+      ]
+    },
+    {
+      "id": "8eaa344b65bc1a962684",
+      "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c",
+      "title": "Nvidia's 'great man theory' is flawed",
+      "original_title": "Nvidia's 'great man theory' is flawed",
+      "published_at": "2026-11-26T21:56:28+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.ft.com/content/6a01bdc9-f242-4272-b5e3-a147af5b125c",
+          "title": "Nvidia's 'great man theory' is flawed",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660252"
+        }
+      ]
+    },
+    {
+      "id": "aebfbe56731bd98a52c5",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "AI made self-hosting fun again",
+      "original_title": "AI made self-hosting fun again",
+      "published_at": "2026-11-26T21:47:45+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "title": "AI made self-hosting fun again",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660180"
+        }
+      ]
+    },
+    {
+      "id": "a9a9677403c4443143b8",
+      "url": "https://www.economist.com/business/2026/11/26/how-will-anthropics-cashed-up-employees-spend-their-riches",
+      "title": "How will Anthropic's cashed-up employees spend their riches?",
+      "original_title": "How will Anthropic's cashed-up employees spend their riches?",
+      "published_at": "2026-11-26T21:42:28+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.economist.com/business/2026/11/26/how-will-anthropics-cashed-up-employees-spend-their-riches",
+          "title": "How will Anthropic's cashed-up employees spend their riches?",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660132"
+        }
+      ]
+    },
+    {
+      "id": "d0e7bf4ab248d561e319",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+      "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+      "original_title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망",
+      "published_at": "2026-11-26T21:20:35+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "미국의 첨단 AI 반도체 수출 규제와 증류 차단으로 중국 대표 AI 개발사들의 모델 개발에 차질이 발생하고 있다. Z.ai의 차세대 모델 'GLM-5.5' 출시가 내년으로 밀릴 가능성이 커졌으며, 문샷 AI는 주요 모델 출시 주기가 기존의 두배 이상으로 늘어날 수 있다는 내부 전망을 내놓은 것으로 알려졌다.로이터는 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217838",
+          "title": "Z.ai 'GLM-5.5' 출시 지연…문샷 AI도 개발 주기 두배 전망"
+        }
+      ]
+    },
+    {
+      "id": "15cc3a3798f8b3694310",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug",
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "original_title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "published_at": "2026-11-26T21:06:22+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug",
+          "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug"
+        }
+      ]
+    },
+    {
+      "id": "e67a2db7b63da8499f1b",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217837",
+      "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
+      "original_title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단",
+      "published_at": "2026-11-26T20:55:39+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아가 미국의 AI 반도체 수출 규제 강화에 따라 동남아시아 4개국으로의 AI 서버 출하를 중단했다. 중국 기업에 컴퓨팅 자원을 임대하는 클라우드 업체에 대한 GPU 공급도 제한하기 시작해, 중국의 AI 모델 개발과 동남아시아 데이터센터 산업에 타격이 예상된다.파이낸셜타임스(FT)는 26일(현지시간) 정통한 소식…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217837",
+          "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단"
+        }
+      ]
+    },
+    {
+      "id": "33b3d08d99aeb285e8be",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "original_title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "published_at": "2026-11-26T20:03:54+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia"
+        }
+      ]
+    },
+    {
+      "id": "08c326dd24dcd490b8f8",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins",
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "original_title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "published_at": "2026-11-26T17:15:27+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using f…",
+      "sources": [
+        {
+          "source_id": "bleepingcomputer",
+          "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins",
+          "title": "Fake paid expert interviews impersonate brands to steal Google logins"
+        }
+      ]
+    },
+    {
+      "id": "5e3725d5381f951d1235",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+      "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+      "original_title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+      "published_at": "2026-11-26T16:50:28+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Christina Kyriasoglou / Bloomberg : Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+          "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261126/p22"
+        }
+      ]
+    },
+    {
+      "id": "7aa896c7cb490e59f4cc",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "original_title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "published_at": "2026-11-26T16:00:00+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.…",
+      "sources": [
+        {
+          "source_id": "techcrunch",
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+          "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue"
+        }
+      ]
+    },
+    {
+      "id": "d5701e01da626ca88807",
+      "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+      "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
+      "original_title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
+      "published_at": "2026-11-26T15:50:27+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Cristian Dina / The Next Web : Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsu…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://thenextweb.com/news/avicena-100m-series-c-microled-optical-interconnects-ai",
+          "title": "Avicena, which links AI chips with microLEDs instead of lasers, raised a $100M+ Series C led by Intervest, with participation from SK Hynix, Samsung, and AMD (Cristian Dina/The Next Web)",
+          "discussion_url": "https://www.techmeme.com/261126/p20"
+        }
+      ]
+    },
+    {
+      "id": "dbe542754cd1612143a2",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+      "title": "Quoting Jack Despain Zhou",
+      "original_title": "Quoting Jack Despain Zhou",
+      "published_at": "2026-11-26T15:09:31+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Cl…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou",
+          "title": "Quoting Jack Despain Zhou"
+        }
+      ]
+    },
+    {
+      "id": "f808463a9806e7605ba9",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
+      "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
+      "original_title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
+      "published_at": "2026-11-26T13:30:01+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Davey Alba / Bloomberg : TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-26/trustedrouter-aims-to-give-companies-greater-privacy-with-ai",
+          "title": "TrustedRouter, which raised $6M to offer E2EE and confidential computing for enterprise AI queries, says it processes 6B+ tokens per day, up from 1B in August (Davey Alba/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261126/p18"
+        }
+      ]
+    },
+    {
+      "id": "d6ee28e91b113718def2",
+      "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster",
+      "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
+      "original_title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
+      "published_at": "2026-11-26T13:01:08+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Graham Barlow / TechRadar : OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.techradar.com/ai-platforms-assistants/chatgpt/weve-fixed-this-now-so-the-same-work-will-use-more-of-your-plans-usage-allowance-openai-admits-it-made-a-mistake-when-launching-gpt-6-2-and-now-paying-chatgpt-users-could-hit-their-usage-limits-up-to-40-percent-faster",
+          "title": "OpenAI says it corrected a GPT-6.2 Astra and Sol launch billing mistake that had incorrectly discounted usage; Astra users will now hit their limits 40% faster (Graham Barlow/TechRadar)",
+          "discussion_url": "https://www.techmeme.com/261126/p16"
+        }
+      ]
+    },
+    {
+      "id": "be7a16bd1c306f51fc71",
+      "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11",
+      "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
+      "original_title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
+      "published_at": "2026-11-26T12:35:21+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds —…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/0278cbea-a0b6-4a30-80f2-f31ac6657f11",
+          "title": "Analysis: institutional investors are selling stakes in older VC funds from the 2021 investment boom peak at steep discounts and rushing to back new AI funds (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261126/p14"
+        }
+      ]
+    },
+    {
       "id": "5fdeabdc43811cb1fea3",
       "url": "https://olmapp.com/About.html",
       "title": "Dr. Israel Alguindigue joins olmapp.ai advisory board",
@@ -70,6 +586,12 @@
           "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26",
           "title": "Sources: Z.ai's 3T-parameter flagship GLM-5.5 missed its November release and could be delayed to Q1 2027 or later due to US rules and labs' distillation curbs (Reuters)",
           "discussion_url": "https://www.techmeme.com/261126/p11"
+        },
+        {
+          "source_id": "hackernews",
+          "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26",
+          "title": "US chip curbs, distillation crackdown threaten Chinese AI model development",
+          "discussion_url": "https://news.ycombinator.com/item?id=50660915"
         }
       ]
     },
@@ -763,6 +1285,35 @@
       ]
     },
     {
+      "id": "fc654cd8c7a75232f8f6",
+      "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+      "title": "뉴욕타임스, AI 기능 이유로 포토샵 업데이트 말라는 경고 보도",
+      "original_title": "The New York Times warns photographers not to update Photoshop over AI features",
+      "published_at": "2026-11-26T05:08:46+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "산업·비즈니스",
+      "status": "summarized",
+      "excerpt": "My comment on The New York Times warns photographers not to update Photoshop over AI features — Hacker News. I had a NYT photographer take my picture at my home earlier this yea…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/26/hn-50651685",
+          "title": "The New York Times warns photographers not to update Photoshop over AI features"
+        }
+      ],
+      "summary": "사이먼 윌리슨은 허커뉴스에서 뉴욕타임스가 AI 기능을 이유로 사진기자들에게 포토샵 업데이트를 하지 말라고 경고했다는 글에 대한 자신의 논평을 남겼다. 그는 올해 초 뉴욕타임스 사진기자가 자신의 집에서 사진을 찍었을 때, 사진기자가 셔츠의 얼룩을 보정해 달라는 요청을 거절하고 크롭과 밸런싱 외에는 편집을 하지 않는다고 말했다고 전했다. 윌리슨은 신문 사진은 포토저널리즘이며 뉴욕타임스가 이를 진지하게 다룬다고 덧붙였다.",
+      "why_it_matters": "AI 편집 기능이 저널리즘 사진의 신뢰성 기준과 충돌할 수 있다는 우려를 보여주는 사례다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-26T23:32:25+00:00",
+        "input_hash": "5488b960b77ee3f38f675640012d6a49b91afa9752077cacfc6ab0ab3f82bc18",
+        "evidence_verified": true
+      }
+    },
+    {
       "id": "3d2697b636d74b834fc0",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "title": "NVIDIA, Nemotron 3.5 Parse 기반 오픈 데이터·파인튜닝·추론 가속 공개",
@@ -890,6 +1441,35 @@
           "title": "AI로 만든 가짜 의사·교수의 제품 추천 광고 못한다!…식약처, 위반 시 영업정지 등 행정처분"
         }
       ]
+    },
+    {
+      "id": "819f2bb8e324e5e7f3ab",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "title": "다중 에이전트 시스템 구축·훈련·평가: 스웜 훈련 실험 소개",
+      "original_title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "published_at": "2026-11-26T00:00:00+00:00",
+      "collected_at": "2026-11-26T23:32:00+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/training-swarms",
+          "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
+        }
+      ],
+      "summary": "허깅페이스 블로그는 다중 에이전트 시스템을 구축하고 훈련하는 방법을 다루는 시리즈를 시작하며, 첫 글에서 네 개의 에이전트가 공유 언어 모델을 통해 정보를 교환하는 과제를 소개했다. 이 실험에서 훈련 성공률은 75스텝 동안 6.6%에서 82.3%로 상승했고, 팀당 생성 토큰은 약 37.4% 감소했다고 보고했다. 저자들은 에이전트 간 통신이 실제로 도움이 되는지, 아니면 단순히 더 많은 연산을 사용하는 것인지 질문하며 동일 예산 비교의 필요성을 강조했다.",
+      "why_it_matters": "다중 에이전트 시스템의 효과를 평가할 때 통신 자체의 이점과 추가 연산 비용을 구분하는 것이 중요하다는 문제를 제기한다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-26T23:32:23+00:00",
+        "input_hash": "02caa8f21cbb33d089b1e17eb5cba9a92a650e3c35504f0bde5de7aa9b6bc89a",
+        "evidence_verified": true
+      }
     },
     {
       "id": "3c53fbfc405d080f0b26",
