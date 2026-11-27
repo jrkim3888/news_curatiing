@@ -3,6 +3,881 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "39d06ac9951051ce1721",
+      "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+      "title": "AI Finds 28 Zero-Day Flaws in Physical Robotics Software",
+      "original_title": "AI Finds 28 Zero-Day Flaws in Physical Robotics Software",
+      "published_at": "2026-11-27T11:47:30+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
+          "title": "AI Finds 28 Zero-Day Flaws in Physical Robotics Software",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665776"
+        }
+      ]
+    },
+    {
+      "id": "47d9efded1c8f44ede10",
+      "url": "https://www.csail.mit.edu/news/agentic-system-personalizes-physical-controls-help-users-dj-their-art",
+      "title": "Agentic system personalizes physical controls to help users \"DJ their art\"",
+      "original_title": "Agentic system personalizes physical controls to help users \"DJ their art\"",
+      "published_at": "2026-11-27T11:45:41+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.csail.mit.edu/news/agentic-system-personalizes-physical-controls-help-users-dj-their-art",
+          "title": "Agentic system personalizes physical controls to help users \"DJ their art\"",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665759"
+        }
+      ]
+    },
+    {
+      "id": "8f2e40c1c08429dc027e",
+      "url": "https://www.csail.mit.edu/news/adapt-ai-model-small-device-keep-its-training-notes-concise",
+      "title": "To adapt an AI model to a small device, keep its training notes concise",
+      "original_title": "To adapt an AI model to a small device, keep its training notes concise",
+      "published_at": "2026-11-27T11:42:22+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.csail.mit.edu/news/adapt-ai-model-small-device-keep-its-training-notes-concise",
+          "title": "To adapt an AI model to a small device, keep its training notes concise",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665738"
+        }
+      ]
+    },
+    {
+      "id": "eb7fcc6a71409cefe8e8",
+      "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+      "title": "Nvidia chip buyers told to rule out Chinese renters",
+      "original_title": "Nvidia chip buyers told to rule out Chinese renters",
+      "published_at": "2026-11-27T11:41:36+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html",
+          "title": "Nvidia chip buyers told to rule out Chinese renters",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665735"
+        }
+      ]
+    },
+    {
+      "id": "d7a5446727907e74c9b2",
+      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+      "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "original_title": "Pizza history: AI agent's cardless purchase is a first for UK",
+      "published_at": "2026-11-27T11:41:11+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+          "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665732"
+        }
+      ]
+    },
+    {
+      "id": "c774e08c060ae311c665",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "original_title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "published_at": "2026-11-27T11:09:04+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665488"
+        }
+      ]
+    },
+    {
+      "id": "bcbc881dc3ac1c6450a9",
+      "url": "https://tomassetti.me/ai-code-review-mistral-large",
+      "title": "We Chose Mistral Large for Code Reviews",
+      "original_title": "We Chose Mistral Large for Code Reviews",
+      "published_at": "2026-11-27T11:00:09+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://tomassetti.me/ai-code-review-mistral-large",
+          "title": "We Chose Mistral Large for Code Reviews",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665427"
+        }
+      ]
+    },
+    {
+      "id": "1da218b1d8e034a4dbe2",
+      "url": "https://standardkernel.com/blog/intel-gaudi2-outperforms-h100",
+      "title": "AI used to make Intel Gaudi2 chips outperform Nvidia H100",
+      "original_title": "AI used to make Intel Gaudi2 chips outperform Nvidia H100",
+      "published_at": "2026-11-27T10:58:56+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://standardkernel.com/blog/intel-gaudi2-outperforms-h100",
+          "title": "AI used to make Intel Gaudi2 chips outperform Nvidia H100",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665420"
+        }
+      ]
+    },
+    {
+      "id": "164d88bdcb4b0cf195aa",
+      "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.jakaria.docscanner",
+      "title": "DocScanner: PDF Scanner and OCR – AI Document Scanner and PDF Editor",
+      "original_title": "DocScanner: PDF Scanner and OCR – AI Document Scanner and PDF Editor",
+      "published_at": "2026-11-27T10:47:48+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.jakaria.docscanner",
+          "title": "DocScanner: PDF Scanner and OCR – AI Document Scanner and PDF Editor",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665341"
+        }
+      ]
+    },
+    {
+      "id": "68aae6a8c0df36ab0497",
+      "url": "https://arxiv.org/html/2611.33490v1",
+      "title": "Cross-Layer Characterization and AI-Assisted Diagnosis of C-to-Rust Performance",
+      "original_title": "Cross-Layer Characterization and AI-Assisted Diagnosis of C-to-Rust Performance",
+      "published_at": "2026-11-27T10:36:28+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://arxiv.org/html/2611.33490v1",
+          "title": "Cross-Layer Characterization and AI-Assisted Diagnosis of C-to-Rust Performance",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665279"
+        }
+      ]
+    },
+    {
+      "id": "93a64d90cbc8e916b918",
+      "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.pdfbuddy",
+      "title": "PDF Buddy: PDF Converter and AI",
+      "original_title": "PDF Buddy: PDF Converter and AI",
+      "published_at": "2026-11-27T10:22:38+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://play.google.com/store/apps/details?hl=en_US&id=com.pdfbuddy",
+          "title": "PDF Buddy: PDF Converter and AI",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665189"
+        }
+      ]
+    },
+    {
+      "id": "2da6a592d656851f48bb",
+      "url": "https://byline.network/2026/11/1126-5",
+      "title": "NIPA, AI 인재 양성 방향 전환…산업 현장 문제 해결·성과 중심으로",
+      "original_title": "NIPA, AI 인재 양성 방향 전환…산업 현장 문제 해결·성과 중심으로",
+      "published_at": "2026-11-27T10:04:26+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정보통신산업진흥원(NIPA)이 산업 현장에서 AI를 활용해 실질적인 업무 개선과 성과를 낼 수 있도록 인재 양성 정책을 개편한다. 대한제강과 삼양사 등은 재직자 교육을 통해 생산 공정 개선과 비용 절감 성과를 거뒀으며, 충북대는 중소 제조기업과 대학생을 연계한 산학협력 모델을 운영했다. 기업과 학계는 일회성 교육보다…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1126-5",
+          "title": "NIPA, AI 인재 양성 방향 전환…산업 현장 문제 해결·성과 중심으로"
+        }
+      ]
+    },
+    {
+      "id": "ca88c4b88438fd62e13c",
+      "url": "https://aronbijl.com/blog/the-ghost-in-the-bibliography",
+      "title": "Let AI fix the mess it created",
+      "original_title": "Let AI fix the mess it created",
+      "published_at": "2026-11-27T10:04:14+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://aronbijl.com/blog/the-ghost-in-the-bibliography",
+          "title": "Let AI fix the mess it created",
+          "discussion_url": "https://news.ycombinator.com/item?id=50665038"
+        }
+      ]
+    },
+    {
+      "id": "0318d4d5175e4ff7c50a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42930",
+      "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
+      "original_title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
+      "published_at": "2026-11-27T09:47:23+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "구글이 대규모 소프트웨어 개발 과정에서 발생하는 소스코드 다운로드와 빌드 병목현상을 해결하고, 다수의 인공지능(AI) 에이전트가 동시에 개발 업무를 수행할 수 있는 새로운 소프트웨어 개발 인프라를 오픈소스로 공개했다.AI 코딩 에이전트의 코드 생성 능력이 빠르게 발전하는 가운데 기존 개발 인프라의 물리적·구조적 제약…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42930",
+          "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개"
+        }
+      ]
+    },
+    {
+      "id": "a4b4efbc94da7250bd80",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42927",
+      "title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증",
+      "original_title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증",
+      "published_at": "2026-11-27T08:36:35+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "엔비디아(NVIDIA)가 고대역폭 메모리(High Bandwidth Memory, HBM)의 물리적 용량 한계를 극복하기 위해 고성능 솔리드 스테이트 드라이브(Solid-state Drive, SSD)를 활용한 GPU 메모리 확장 기술 개발에 속도를 내고 있다.기존 SSD를 단순한 데이터 저장장치가 아닌 GPU가 대…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42927",
+          "title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증"
+        }
+      ]
+    },
+    {
+      "id": "a0e900e832fbfb1bd152",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42926",
+      "title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색",
+      "original_title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색",
+      "published_at": "2026-11-27T08:07:14+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "한국지능정보사회진흥원(NIA, 원장 김형철)이 인공지능(AI)의 안전성 확보와 이용자 권리 보호, AI 격차 해소를 위한 법제도 개선 방향을 모색한다. NIA는 27일 한양대학교 백남학술정보관에서 한양대 법학연구소, 한국인공지능법학회와 공동으로 ‘함께 누리는 AI와 법제도’를 주제로 공개세미나를 개최했다.사법부 인공…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42926",
+          "title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색"
+        }
+      ]
+    },
+    {
+      "id": "ea2fa349608937e391c6",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42925",
+      "title": "퀀텀에이아이·스퀘어원, 음성 AI 기술협력 MOU…AICC ‘순이’ 음성 합성 고도화",
+      "original_title": "퀀텀에이아이·스퀘어원, 음성 AI 기술협력 MOU…AICC ‘순이’ 음성 합성 고도화",
+      "published_at": "2026-11-27T07:34:22+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "퀀텀에이아이(대표 최성집)가 포항공과대학교(POSTECH) 연구실 창업 음성 인공지능(AI) 스타트업 스퀘어원(대표 서영주)과 ‘음성 AI 기술협력 및 AI 컨택센터(AICC) 업무 제휴 협약’을 체결했다고 27일 밝혔다.이번 협약에 따라 퀀텀에이아이는 스퀘어원이 보유한 음성 생성 기술 ‘카멜레온’을 자사 AICC …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42925",
+          "title": "퀀텀에이아이·스퀘어원, 음성 AI 기술협력 MOU…AICC ‘순이’ 음성 합성 고도화"
+        }
+      ]
+    },
+    {
+      "id": "c20ed4eb42baecec3753",
+      "url": "https://byline.network/2026/11/1127-6",
+      "title": "삼성증권, AI로 고객·영업·업무 전반 혁신…내년 전사 확산 본격화",
+      "original_title": "삼성증권, AI로 고객·영업·업무 전반 혁신…내년 전사 확산 본격화",
+      "published_at": "2026-11-27T07:32:16+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "삼성증권이 인공지능(AI)을 활용해 금융 업무 전반의 혁신을 추진하고 있다. 임직원의 문서 작성과 정보 탐색 등 일상 업무에 AI를 적용하고 AI 에이전트를 활용한 업무 자동화 과제도 발굴하고 있다. 고객 서비스와 영업, 데이터 활용 영역으로 AI 적용 범위를 넓히는 한편 금융사에 필요한 보안과 내부통제 체계도 함께…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/1127-6",
+          "title": "삼성증권, AI로 고객·영업·업무 전반 혁신…내년 전사 확산 본격화"
+        }
+      ]
+    },
+    {
+      "id": "8eaa0c9eed0436b1cf62",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
+      "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
+      "original_title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
+      "published_at": "2026-11-27T07:30:00+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Eunice Xu / Bloomberg : Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech s…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/foreign-funds-on-pace-for-record-taiwan-stock-exodus-in-ai-rout",
+          "title": "Foreign investors sold a record net $33.1B of Taiwanese stocks in November, topping October's record outflow amid AI valuation fears and a broader tech sell-off (Eunice Xu/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261127/p2"
+        }
+      ]
+    },
+    {
+      "id": "4617740c6aeb9bde2afa",
+      "url": "https://byline.network/2026/11/27-713",
+      "title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화",
+      "original_title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화",
+      "published_at": "2026-11-27T07:05:23+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "마이크로소프트가 소프트웨어와 서비스의 중심에 AI 에이전트를 두고 새 운영체제(OS)로 격상시키면서, 윈도우11은 AI 에이전트의 활동을 제어하는 상위 OS로 바뀌고 있다. AI 에이전트 시대를 준비하는 윈도우11은 AI 에이전트에게 PC의 제어권을 넘겨주는 대신 전반적인 보안성을 강화하면서 에이전트의 활동을 관리감…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/27-713",
+          "title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화"
+        }
+      ]
+    },
+    {
+      "id": "ecf52ea2d3eccd152e8d",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217874",
+      "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
+      "original_title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
+      "published_at": "2026-11-27T07:02:18+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "\"해당 시험지의 AI 풀이를 금지합니다.\"시험지 곳곳에 숨겨 둔 경고문은 AI 안경의 공격 앞에 무력화됐다. 시험 부정행위를 막으려고 동원한 방어 기법 상당수가 공격조의 우회 전략에 잇따라 뚫렸다.기자는 커뮤니티 '다스 누미너스'가 26일 서울 영등포구 워크모어 여의도당산에서 개최한 'AI 바이 디폴트' 해커톤을 참…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217874",
+          "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인"
+        }
+      ]
+    },
+    {
+      "id": "8e97f431cdf8142b2315",
+      "url": "https://byline.network/2026/11/27_291727374",
+      "title": "자율주행차 3000대로 늘리면 한국에서도 웨이모가 탄생할까?",
+      "original_title": "자율주행차 3000대로 늘리면 한국에서도 웨이모가 탄생할까?",
+      "published_at": "2026-11-27T06:37:31+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 내년 광주 등 5~6곳에서 도시 단위 실증을 벌이고 자율주행차 운행 규모를 3000대까지 늘린다. 웨이모·포니AI처럼 해외 기업이 수천대를 굴리며 사업을 키우는 만큼 한국도 상용화를 준비하는 듯하다. 하지만 차를 많이 달리게 하는 것과 사업에 성공하는 건 다른 문제다. 차두원 퓨처링크 대표는 한국 자율주행 산…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/27_291727374",
+          "title": "자율주행차 3000대로 늘리면 한국에서도 웨이모가 탄생할까?"
+        }
+      ]
+    },
+    {
+      "id": "f9bc69fe7c1880621812",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217878",
+      "title": "무디스 \"젠슨 황 복귀로 엔비디아 불확실성 완화\"…신용등급 유지",
+      "original_title": "무디스 \"젠슨 황 복귀로 엔비디아 불확실성 완화\"…신용등급 유지",
+      "published_at": "2026-11-27T06:21:45+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국제 신용평가사 무디스가 젠슨 황의 엔비디아 CEO 복귀로 경영 불확실성이 줄었다고 평가하며 기존 신용등급을 유지했다. 같은 날 S&P가 지배구조 문제를 이유로 신용등급 하향 검토에 나선 것과 차이를 보였다.로이터에 따르면 무디스는 25일(현지시간) 황 CEO의 복귀로 엔비디아의 경영진과 사업 전략에 관한 단기 불확…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217878",
+          "title": "무디스 \"젠슨 황 복귀로 엔비디아 불확실성 완화\"…신용등급 유지"
+        }
+      ]
+    },
+    {
+      "id": "6008ac1a00dfe3a20f09",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217867",
+      "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장",
+      "original_title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장",
+      "published_at": "2026-11-27T06:20:00+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "산업·비즈니스",
+      "status": "link",
+      "excerpt": "구글이 AI 에이전트가 독자적으로 작성한 수학 논문 6편을 공개했다. 최근 오픈AI와 앤트로픽이 수학 난제 해결과 과학적 발견 능력을 앞세워 경쟁을 벌이는 가운데, 구글도 범용 AI를 활용한 연구 성과를 잇달아 내놓고 있다.구글 리서치는 25일(현지시간) 깃허브를 통해 '제미나이 4' 기반의 수학 연구 에이전트 시스…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217867",
+          "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장"
+        }
+      ]
+    },
+    {
+      "id": "ead92668c201e72d7011",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217882",
+      "title": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍",
+      "original_title": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍",
+      "published_at": "2026-11-27T06:17:09+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "올해 10월까지 접수된 개인정보 유출신고가 1019건으로 지난해 전체(447건)의 2배를 넘어선 것으로 나타났다.개인정보보호위원회는 27일 AI 기반 해킹 확산에 맞선 긴급대응 및 점검지원 체계를 가동한다고 밝혔다.개인정보위는 AI를 활용한 해킹이 공격 과정을 자동화·고도화해 기존보다 빠르게 대규모 공격을 가능하게 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217882",
+          "title": "AI 기반 해킹 확산에 올해 개인정보유출 신고 전년 2배 훌쩍"
+        }
+      ]
+    },
+    {
+      "id": "2ccce2e613d58788b400",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217856",
+      "title": "서로 다른 AI 로봇도 학습데이터 공유…정부, 국가표준 제정 추진",
+      "original_title": "서로 다른 AI 로봇도 학습데이터 공유…정부, 국가표준 제정 추진",
+      "published_at": "2026-11-27T06:15:52+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 제조사와 기종이 다른 AI 로봇의 학습데이터를 공유하고 재사용할 수 있도록 국가표준을 마련한다. 해외 연구에서는 개별 데이터를 학습한 AI 모델의 평균 작업 성공률이 41%였으나 여러 기종의 데이터를 함께 학습한 모델은 63%를 기록했다.산업통상부 국가기술표준원은 27일 '로봇 조작 학습을 위한 데이터셋' 국…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217856",
+          "title": "서로 다른 AI 로봇도 학습데이터 공유…정부, 국가표준 제정 추진"
+        }
+      ]
+    },
+    {
+      "id": "6268496887b6c024098c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217872",
+      "title": "래블업, 로컬AI PC 앱 '에이아이고 2.0' 출시",
+      "original_title": "래블업, 로컬AI PC 앱 '에이아이고 2.0' 출시",
+      "published_at": "2026-11-27T06:14:47+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "AI 인프라 솔루션 전문 래블업(대표 신정규)이 개인 PC에서 AI 모델과 에이전트를 직접 실행할 수 있는 로컬 AI 데스크톱 앱 '에이아이고(AI:GO) 2.0'을 출시했다.AI:GO 2.0은 언어·비전·이미지·음성 로컬 AI 모델을 하나의 앱에서 구동한다. 올해 1월 CES 2026에서 '백엔드.AI:GO'로 공…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217872",
+          "title": "래블업, 로컬AI PC 앱 '에이아이고 2.0' 출시"
+        }
+      ]
+    },
+    {
+      "id": "8a35357ca55ca483348f",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217871",
+      "title": "EU, AI·양자컴퓨팅 육성에 최대 73조원 '기술 주권 펀드' 추진",
+      "original_title": "EU, AI·양자컴퓨팅 육성에 최대 73조원 '기술 주권 펀드' 추진",
+      "published_at": "2026-11-27T05:47:55+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "유럽연합(EU)이 미국과 중국에 대한 기술 의존도를 낮추기 위해 최대 500억유로(약 73조원) 규모의 '기술 주권 펀드(STEF)' 조성을 추진한다. 그동안 AI 인프라 구축과 스타트업 육성에 투자해 온 EU가 이번에는 대규모 장기 지분 투자를 통해 글로벌 시장에서 경쟁할 수 있는 유럽 기술 기업을 육성하겠다는 구…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217871",
+          "title": "EU, AI·양자컴퓨팅 육성에 최대 73조원 '기술 주권 펀드' 추진"
+        }
+      ]
+    },
+    {
+      "id": "e6651ba3abd85cabeec1",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42924",
+      "title": "中, 6G 넘어 AI 에이전트 연결하는 국가 지능형 네트워크 구축…2030년 차세대 통신망 실행계획 발표",
+      "original_title": "中, 6G 넘어 AI 에이전트 연결하는 국가 지능형 네트워크 구축…2030년 차세대 통신망 실행계획 발표",
+      "published_at": "2026-11-27T05:42:07+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "중국이 6세대 이동통신(6G)과 저궤도 위성인터넷, 초고속 광통신, 인공지능(AI) 컴퓨팅 인프라를 통합하고 AI 에이전트들이 상호 연결돼 자율적으로 협업하는 국가 차원의 지능형 인터넷 구축에 나선다.이는 기존 통신망을 인간과 기기 사이의 데이터 전송 수단에서 AI 모델과 에이전트, 휴머노이드 로봇, 자율주행차, 뇌…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42924",
+          "title": "中, 6G 넘어 AI 에이전트 연결하는 국가 지능형 네트워크 구축…2030년 차세대 통신망 실행계획 발표"
+        }
+      ]
+    },
+    {
+      "id": "709736d2a8193dd71a18",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217817",
+      "title": "\"피클 AI전화 거부 사태\"...'모두의 AI' 전화 대행은 어디까지",
+      "original_title": "\"피클 AI전화 거부 사태\"...'모두의 AI' 전화 대행은 어디까지",
+      "published_at": "2026-11-27T05:34:32+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오는 12월 정식 출시를 앞둔 전 국민 무료 AI 서비스 '모두의 AI'에 탑재될 AI 전화대행의 기능과 적용 범위에 관심이 모아지고 있다. 컨소시엄 사업자로 선정된 이동통신 3사와 네이버 등이 '피클' 등 AI 비서 서비스의 자사 고객센터 상담전화 연결에 잇따라 제한방침을 밝히고 있기 때문이다.27일 통신 및 관련…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217817",
+          "title": "\"피클 AI전화 거부 사태\"...'모두의 AI' 전화 대행은 어디까지"
+        }
+      ]
+    },
+    {
+      "id": "bf3da701f5ceb45a2361",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217863",
+      "title": "앤트로픽, AI 내부 뉴런 직접 분석…숨겨진 위험 행동 탐지 기술 연구",
+      "original_title": "앤트로픽, AI 내부 뉴런 직접 분석…숨겨진 위험 행동 탐지 기술 연구",
+      "published_at": "2026-11-27T05:28:31+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앤트로픽이 AI 모델 내부의 개별 뉴런을 직접 분석해 숨겨진 위험 행동을 찾아내는 연구 결과를 공개했다. 별도의 분석 모델을 훈련하지 않고 기존 모델의 내부 연산과 가중치를 분석하는 방식으로, AI의 답변이나 사고 과정(CoT)에 의존하는 안전성 감시 기술의 한계를 보완할 수 있다는 설명이다.앤트로픽의 재스민 숀과 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217863",
+          "title": "앤트로픽, AI 내부 뉴런 직접 분석…숨겨진 위험 행동 탐지 기술 연구"
+        }
+      ]
+    },
+    {
+      "id": "581644cbc3a326da02d1",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217870",
+      "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란",
+      "original_title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란",
+      "published_at": "2026-11-27T05:25:00+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "애플이 중국 미니맥스의 AI 동반자 앱 '토키(Talkie)'를 전 세계 앱스토어에서 삭제했다. AI 캐릭터가 미성년자에게 성적으로 부적절한 메시지를 보냈다는 탐사보도가 나온 데 이어 미니맥스도 호주와 영국에서 웹사이트 접속을 차단했다.로이터는 26일(현지시간) 애플이 해당 앱을 전 세계 앱스토어에서 삭제했다고 보도…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217870",
+          "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란"
+        }
+      ]
+    },
+    {
+      "id": "b832edb5fe3037690c57",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217869",
+      "title": "중국 기업, 미국 법인 통해 엔비디아 첨단 AI 칩 확보…또 다른 규제 허점",
+      "original_title": "중국 기업, 미국 법인 통해 엔비디아 첨단 AI 칩 확보…또 다른 규제 허점",
+      "published_at": "2026-11-27T05:05:00+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "중국 기업이 소유한 미국 법인들이 엔비디아의 최첨단 인공지능(AI) 칩을 구매해 온 것으로 드러났다. 기존 AI 칩 밀수와 해외 데이터센터를 통한 우회 접속에 이어 중국계 기업이 엔비디아의 미국 내 공식 공급망에 진입한 사례까지 확인됐다.CBS는 25일(현지시간) 기업 공시와 법원 기록 등을 조사한 결과, 중국 기업…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217869",
+          "title": "중국 기업, 미국 법인 통해 엔비디아 첨단 AI 칩 확보…또 다른 규제 허점"
+        }
+      ]
+    },
+    {
+      "id": "1a3f2c8f158b1ef5cf50",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42923",
+      "title": "독일·오스트리아, 틱톡 AI 알고리즘 통제권 확보 나선다…규제 넘어 유럽 사업 소유구조 재편 추진",
+      "original_title": "독일·오스트리아, 틱톡 AI 알고리즘 통제권 확보 나선다…규제 넘어 유럽 사업 소유구조 재편 추진",
+      "published_at": "2026-11-27T04:57:53+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "독일과 오스트리아가 중국 바이트댄스(ByteDance)가 소유한 글로벌 숏폼 동영상 플랫폼 틱톡(TikTok)의 유럽 사업 소유구조 재편과 인공지능(AI) 추천 알고리즘에 대한 실질적인 통제권 확보에 나섰다.개인정보 보호와 유해 콘텐츠 차단 등 기존 플랫폼 규제를 넘어 수억명의 유럽인이 접하는 정보를 결정하는 AI …",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42923",
+          "title": "독일·오스트리아, 틱톡 AI 알고리즘 통제권 확보 나선다…규제 넘어 유럽 사업 소유구조 재편 추진"
+        }
+      ]
+    },
+    {
+      "id": "4dc0cee8dfc2d5e47dcb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217862",
+      "title": "'GPT-6.2 아스트라', 218년 된 스케치북 작가 22분 만에 찾아",
+      "original_title": "'GPT-6.2 아스트라', 218년 된 스케치북 작가 22분 만에 찾아",
+      "published_at": "2026-11-27T04:55:42+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI의 'GPT-6.2 아스트라'가 218년 전 제작된 작자 미상의 여행 스케치북 작가를 22분 만에 찾아냈다. 역사학자가 수년간 풀지 못했던 문제를 해결했을 뿐 아니라 학계에 거의 알려지지 않았던 사료까지 발굴한 것으로, 범용 AI의 연구 능력이 수학과 과학을 넘어 역사학으로까지 확대되고 있음을 보여주는 사례다…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217862",
+          "title": "'GPT-6.2 아스트라', 218년 된 스케치북 작가 22분 만에 찾아"
+        }
+      ]
+    },
+    {
+      "id": "124ddd24aab3bd63626a",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42922",
+      "title": "알리바바, AI 기술을 사회적 가치 창출로…안전·의료·과학·교육 등 8대 분야 혁신 성과 공개",
+      "original_title": "알리바바, AI 기술을 사회적 가치 창출로…안전·의료·과학·교육 등 8대 분야 혁신 성과 공개",
+      "published_at": "2026-11-27T03:17:20+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "중국 알리바바그룹(Alibaba Group)이 인공지능(AI) 기술의 발전 방향을 성능 향상과 산업 생산성 제고를 넘어 인류의 복지 증진과 사회적 가치 창출로 확장하고 있다.알리바바는 26일(현지시간) 그룹의 두 번째 연례 ‘2026 사회적 가치를 위한 AI 행동 보고서(2026 AI for Good Action R…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42922",
+          "title": "알리바바, AI 기술을 사회적 가치 창출로…안전·의료·과학·교육 등 8대 분야 혁신 성과 공개"
+        }
+      ]
+    },
+    {
+      "id": "523dbf22e17700e537cf",
+      "url": "https://www.calcalistech.com/ctechnews/article/h18nob7kml",
+      "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+      "original_title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+      "published_at": "2026-11-27T03:15:01+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "Meir Orbach / CTech : Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX — Dante Securit…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.calcalistech.com/ctechnews/article/h18nob7kml",
+          "title": "Dante Security, which has developed a platform for monitoring the activity of AI agents within organizations, raised a $10M seed led by NFX (Meir Orbach/CTech)",
+          "discussion_url": "https://www.techmeme.com/261126/p27"
+        }
+      ]
+    },
+    {
+      "id": "a3b5807cdf0d5a65befb",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42921",
+      "title": "英, 루시 리그비 재무부 차관 “금융서비스의 AI 도입, 영국 경제 전체의 생산성 향상과 성장으로 연결해야”",
+      "original_title": "英, 루시 리그비 재무부 차관 “금융서비스의 AI 도입, 영국 경제 전체의 생산성 향상과 성장으로 연결해야”",
+      "published_at": "2026-11-27T02:53:07+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "영국 정부가 금융산업의 인공지능(AI) 혁신을 국가 경제성장의 동력으로 삼고, AI 에이전트가 자율적으로 결제를 수행하는 에이전틱 결제(Agentic Payments) 시대에 대비한 규제체계 정비에 나선다.영국 금융기업의 AI 활용이 실험과 시범사업을 넘어 본격적인 서비스 운영 단계로 진입한 가운데, 대형 금융기관에…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42921",
+          "title": "英, 루시 리그비 재무부 차관 “금융서비스의 AI 도입, 영국 경제 전체의 생산성 향상과 성장으로 연결해야”"
+        }
+      ]
+    },
+    {
+      "id": "11ea09f11a2c87eb99aa",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42920",
+      "title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진",
+      "original_title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진",
+      "published_at": "2026-11-27T02:32:04+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 휴머노이드를 비롯한 인공지능(AI) 로봇의 학습 데이터를 국가표준(KS)으로 체계화한다. 기업과 연구기관이 개별적으로 구축해 온 로봇 학습 데이터의 상호운용성을 확보하고, 데이터 공유와 재사용을 촉진해 국내 피지컬 AI 산업의 기술개발 경쟁력을 높인다는 전략이다.산업통상부 국가기술표준원(원장 김규성, 이하 국…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42920",
+          "title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진"
+        }
+      ]
+    },
+    {
+      "id": "eb4b13368f78963e3744",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42919",
+      "title": "정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축",
+      "original_title": "정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축",
+      "published_at": "2026-11-27T02:10:10+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "정부가 국가 연구개발(R&D) 과정에서 생산되는 연구데이터를 인공지능(AI) 모델 학습과 후속 연구, 학제 간 융합연구에 활용할 수 있는 국가 전략자산으로 육성한다. 개별 연구자와 기관에 분산된 데이터를 체계적으로 축적하고 공유하는 국가연구데이터 생태계를 구축해 과학기술 연구개발 경쟁력을 높인다는 전략이다.과학기술정…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42919",
+          "title": "정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축"
+        }
+      ]
+    },
+    {
+      "id": "24ee833e80c005857046",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42918",
+      "title": "AI로 다시 만나는 순직 영웅…보훈부·SKT, 유가족에게 함께하지 못한 일상 선물한다",
+      "original_title": "AI로 다시 만나는 순직 영웅…보훈부·SKT, 유가족에게 함께하지 못한 일상 선물한다",
+      "published_at": "2026-11-27T02:02:50+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "국가를 위해 헌신하다 순직한 군인과 경찰, 소방공무원이 인공지능(AI) 영상 속에서 가족과 다시 만난다. 함께 떠나지 못했던 캠핑과 가족이 둘러앉은 저녁 식사, 아빠와 함께하는 야구 경기 등 유가족이 소망했던 평범한 일상이 AI 기술로 구현된다.국가보훈부(장관 권오을)는 SK텔레콤과 함께 28일 오전 11시 서울 포…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42918",
+          "title": "AI로 다시 만나는 순직 영웅…보훈부·SKT, 유가족에게 함께하지 못한 일상 선물한다"
+        }
+      ]
+    },
+    {
+      "id": "a311c51612e1fb47ebad",
+      "url": "https://www.aitimes.kr/news/articleView.html?idxno=42917",
+      "title": "캐나다, 소버린 AI 경쟁력 강화에 7억 캐나다달러 추가 투입…AI 컴퓨팅 지원기금 10억 달러로 확대",
+      "original_title": "캐나다, 소버린 AI 경쟁력 강화에 7억 캐나다달러 추가 투입…AI 컴퓨팅 지원기금 10억 달러로 확대",
+      "published_at": "2026-11-27T01:46:21+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "캐나다 정부가 자국 인공지능(AI) 기업의 기술 혁신과 상용화를 촉진하고 해외 컴퓨팅 인프라에 대한 의존도를 낮추기 위해 AI 컴퓨팅 지원기금을 대폭 확대한다. 국가 차원의 AI 인프라 확보와 함께 실제 AI 제품과 서비스를 개발하는 중소기업의 연산 자원 접근성을 높여 소버린 AI 생태계를 구축한다는 전략이다.캐나다…",
+      "sources": [
+        {
+          "source_id": "aitimes_kr",
+          "url": "https://www.aitimes.kr/news/articleView.html?idxno=42917",
+          "title": "캐나다, 소버린 AI 경쟁력 강화에 7억 캐나다달러 추가 투입…AI 컴퓨팅 지원기금 10억 달러로 확대"
+        }
+      ]
+    },
+    {
+      "id": "94cdbd22cc216418bb06",
+      "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+      "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+      "original_title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+      "published_at": "2026-11-27T00:30:01+00:00",
+      "collected_at": "2026-11-27T11:50:25+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "정책·사회",
+      "status": "link",
+      "excerpt": "New York Times : Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles — Me…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/26/us/politics/ai-regulation-congress-nvidia.html",
+          "title": "Bipartisan efforts in Congress to regulate AI are gaining momentum, but they face an uphill climb due to the slow pace of legislative work and turf battles (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261126/p26"
+        }
+      ]
+    },
+    {
       "id": "6cad01e61e7c391c6746",
       "url": "https://openharness.prakhargurunani.com/",
       "title": "OpenHarness – Build customizable agents as single-binary, OpenAI-compatible APIs",
@@ -399,6 +1274,12 @@
         {
           "source_id": "techmeme",
           "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring",
+          "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261126/p22"
+        },
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-26/sap-weighs-cutting-at-least-10-000-positions-in-ai-restructuring?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc2NzIxOCwiZXhwIjoxNzk2MzcyMDE4LCJhcnRpY2xlSWQiOiJUUDNNNTNUOTZPU0kwMCIsImJjb25uZWN0SWQiOiIyQjM1RjE2RDc1RTU0RTUxQjJFOEEyQkYyQjZDRDhCRiJ9.hYzC51tOUhg7VeYouYj5-6c97qgB7NNSSimalKOpqHI",
           "title": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
           "discussion_url": "https://www.techmeme.com/261126/p22"
         }
