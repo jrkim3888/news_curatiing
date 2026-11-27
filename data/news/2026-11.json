@@ -3,6 +3,383 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "07ba0f168b76edd92a32",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-pushes-back-axios-184139218.html",
+      "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+      "original_title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+      "published_at": "2026-11-27T23:07:02+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-pushes-back-axios-184139218.html",
+          "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672567"
+        }
+      ]
+    },
+    {
+      "id": "5e5461085dd5e53176cc",
+      "url": "https://dataconomy.com/2026/11/17/openai-grants-nato-access-to-advanced-cybersecurity-models",
+      "title": "NATO uses OpenAI for cybersecurity, 300B tokens monthly",
+      "original_title": "NATO uses OpenAI for cybersecurity, 300B tokens monthly",
+      "published_at": "2026-11-27T22:54:08+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://dataconomy.com/2026/11/17/openai-grants-nato-access-to-advanced-cybersecurity-models",
+          "title": "NATO uses OpenAI for cybersecurity, 300B tokens monthly",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672488"
+        }
+      ]
+    },
+    {
+      "id": "aa753b245f5834673c57",
+      "url": "https://www.youtube.com/watch?v=AL9_42YQZzE",
+      "title": "Which AI Would You Trust to Build a Bridge? [video]",
+      "original_title": "Which AI Would You Trust to Build a Bridge? [video]",
+      "published_at": "2026-11-27T22:49:41+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=AL9_42YQZzE",
+          "title": "Which AI Would You Trust to Build a Bridge? [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672457"
+        }
+      ]
+    },
+    {
+      "id": "baea6735688e9d4c595c",
+      "url": "https://twitter.com/imjustnewatai/status/2124999308298567840",
+      "title": "Rumor: P equals NP and OpenAI was the lab that solved it",
+      "original_title": "Rumor: P equals NP and OpenAI was the lab that solved it",
+      "published_at": "2026-11-27T22:40:16+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://twitter.com/imjustnewatai/status/2124999308298567840",
+          "title": "Rumor: P equals NP and OpenAI was the lab that solved it",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672403"
+        }
+      ]
+    },
+    {
+      "id": "61f8d7b6bc30a40d6c83",
+      "url": "https://bicamerallabs.org/qualiaphobia",
+      "title": "Qualiaphobic Artificial Neural Networks",
+      "original_title": "Qualiaphobic Artificial Neural Networks",
+      "published_at": "2026-11-27T22:35:41+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://bicamerallabs.org/qualiaphobia",
+          "title": "Qualiaphobic Artificial Neural Networks",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672363"
+        }
+      ]
+    },
+    {
+      "id": "b652481ed466aff9dae0",
+      "url": "https://github.com/routeflags/ai-citation-monitor",
+      "title": "Show HN: A CLI that measures whether AI answers cite your site",
+      "original_title": "Show HN: A CLI that measures whether AI answers cite your site",
+      "published_at": "2026-11-27T22:29:07+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/routeflags/ai-citation-monitor",
+          "title": "Show HN: A CLI that measures whether AI answers cite your site",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672315"
+        }
+      ]
+    },
+    {
+      "id": "f86ecceff574b3cf737e",
+      "url": "https://www.youtube.com/watch?v=Ch5qycwmjUE",
+      "title": "First time AI employee presents PPTX on call [video]",
+      "original_title": "First time AI employee presents PPTX on call [video]",
+      "published_at": "2026-11-27T22:21:58+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=Ch5qycwmjUE",
+          "title": "First time AI employee presents PPTX on call [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672263"
+        }
+      ]
+    },
+    {
+      "id": "1c13e76641400c240d96",
+      "url": "https://github.com/ctronikstudio-74/SynapseGateway",
+      "title": "CTronik Synapse Gateway– Open-source agentic gateway and secure MFT protocol.)",
+      "original_title": "CTronik Synapse Gateway– Open-source agentic gateway and secure MFT protocol.)",
+      "published_at": "2026-11-27T22:16:46+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/ctronikstudio-74/SynapseGateway",
+          "title": "CTronik Synapse Gateway– Open-source agentic gateway and secure MFT protocol.)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672217"
+        }
+      ]
+    },
+    {
+      "id": "39dde65e49fa2cd244bf",
+      "url": "https://www.youtube.com/watch?v=2zufRUcZeuc",
+      "title": "Show HN: I ran an LLM written in F# on a Commodore 64 [video]",
+      "original_title": "Show HN: I ran an LLM written in F# on a Commodore 64 [video]",
+      "published_at": "2026-11-27T22:03:30+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.youtube.com/watch?v=2zufRUcZeuc",
+          "title": "Show HN: I ran an LLM written in F# on a Commodore 64 [video]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50672125"
+        }
+      ]
+    },
+    {
+      "id": "c5154b6569897d9f5883",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217855",
+      "title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제",
+      "original_title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제",
+      "published_at": "2026-11-27T22:00:00+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "16세 고등학생이 AI를 활용해 100개 이상의 수학 추측을 해결했다고 주장해 화제입니다. AI의 발전으로 전문 연구자가 아닌 사람도 수학이나 과학 난제에 도전할 수 있게 됐지만, 쏟아지는 연구 결과를 어떻게 검증할지가 새로운 문제로 떠오르고 있습니다.미국의 수학·과학 영재교육 고등학교에 재학 중인 16세 시나 데이…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217855",
+          "title": "[11월27일] 16세 고등학생도 AI로 수학 난제 해결 주장…이제는 검증이 문제"
+        }
+      ]
+    },
+    {
+      "id": "a6ec8d5421fc51ad6428",
+      "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+      "title": "OpenAI countersues Apple for stealing trade secrets",
+      "original_title": "OpenAI countersues Apple for stealing trade secrets",
+      "published_at": "2026-11-27T21:44:25+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.cnbc.com/2026/11/27/openai-countersues-apple-for-stealing-trade-secrets-ft-reports.html",
+          "title": "OpenAI countersues Apple for stealing trade secrets",
+          "discussion_url": "https://news.ycombinator.com/item?id=50671976"
+        }
+      ]
+    },
+    {
+      "id": "abacbee203a24ba31bbd",
+      "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+      "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "original_title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+      "published_at": "2026-11-27T21:42:15+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+          "title": "Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+          "discussion_url": "https://news.ycombinator.com/item?id=50671959"
+        }
+      ]
+    },
+    {
+      "id": "5428c0521e27d38969fc",
+      "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html",
+      "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+      "original_title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+      "published_at": "2026-11-27T21:35:01+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Drew Breunig : Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following — Is…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.dbreunig.com/2026/11/27/proactivity-can-read-as-sabotage.html",
+          "title": "Some users claim Claude is silently sabotaging projects, but the behavior may stem from a clash between its proactive nature and strict instruction following (Drew Breunig)",
+          "discussion_url": "https://www.techmeme.com/261127/p14"
+        }
+      ]
+    },
+    {
+      "id": "795d73d38accc580432e",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+      "original_title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+      "published_at": "2026-11-27T20:15:01+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Dwarkesh Patel / Dwarkesh Podcast : Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+          "title": "Q&A with AI researchers Ege Erdil and Daniel Kokotajlo on the odds of an intelligence explosion before 2029, pausing AI, the US antagonizing China, and more (Dwarkesh Patel/Dwarkesh Podcast)",
+          "discussion_url": "https://www.techmeme.com/261127/p13"
+        }
+      ]
+    },
+    {
+      "id": "617255acb5680be2b9ed",
+      "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4",
+      "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+      "original_title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+      "published_at": "2026-11-27T18:57:47+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Financial Times : OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and “coercing and threatening” suppliers that work with both …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4",
+          "title": "OpenAI countersues Apple for allegedly stealing trade secrets via a staffer who returned to Apple and \"coercing and threatening\" suppliers that work with both (Financial Times)",
+          "discussion_url": "https://www.techmeme.com/261127/p12"
+        }
+      ]
+    },
+    {
+      "id": "1dcaa8936010b591076c",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
+      "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+      "original_title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+      "published_at": "2026-11-27T18:15:00+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Alexander Weber / Bloomberg : European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, abo…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/european-workers-ai-use-on-par-with-that-of-us-peers-ecb-says",
+          "title": "European Central Bank survey: 44% of employed EU consumers reported using AI weekly at work in August, on par with US peers; 18% used it daily, above US levels (Alexander Weber/Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261127/p10"
+        }
+      ]
+    },
+    {
+      "id": "e35bab72574b6ff3bc12",
+      "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?smid=nytcore-ios-share&unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe",
+      "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+      "original_title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+      "published_at": "2026-11-27T14:20:01+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "New York Times : Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions — A…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.nytimes.com/2026/11/26/business/huawei-trump-china-ai.html?smid=nytcore-ios-share&unlocked_article_code=1.TlE.eHV_.2f70GvuLgZxe",
+          "title": "Interviews with Huawei CEO Ren Zhengfei and others on how Trump's restrictions pushed Huawei toward self-reliance, making it central to China's AI ambitions (New York Times)",
+          "discussion_url": "https://www.techmeme.com/261127/p7"
+        }
+      ]
+    },
+    {
+      "id": "da978fc1cf713f9e0f36",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q",
+      "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+      "original_title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+      "published_at": "2026-11-27T13:05:01+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Bloomberg : Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed — A pa…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5NTc4ODgyMywiZXhwIjoxNzk2MzkzNjIzLCJhcnRpY2xlSWQiOiJUUDFVMFJUOU5KTFMwMCIsImJjb25uZWN0SWQiOiI3QTcxRTEyQjY2RTM0RkI3ODlCQTA5NEZBQzVGMkE0OSJ9.tcyYBUyKr7A_4Qyf4S69z95uT1ZiyuOyOOZi73bhQ7Q",
+          "title": "Serial numbers in Chinese filings reveal that Nvidia's restricted Blackwell chips were installed at a Shanghai data center linked to Alice Huang and Megaspeed (Bloomberg)",
+          "discussion_url": "https://www.techmeme.com/261127/p6"
+        }
+      ]
+    },
+    {
       "id": "39d06ac9951051ce1721",
       "url": "https://spectrum.ieee.org/zero-day-robotics-vulnerabilities-vicone-security",
       "title": "AI Finds 28 Zero-Day Flaws in Physical Robotics Software",
@@ -876,6 +1253,35 @@
           "discussion_url": "https://www.techmeme.com/261126/p26"
         }
       ]
+    },
+    {
+      "id": "c2bd7953104652e48b06",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "title": "Trainium3에서 LTX-2.5로 비디오 생성: Hugging Face 블로그 정리",
+      "original_title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "published_at": "2026-11-27T00:00:00+00:00",
+      "collected_at": "2026-11-27T23:15:02+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "summarized",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "huggingface",
+          "url": "https://huggingface.co/blog/video-trainium3",
+          "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5"
+        }
+      ],
+      "summary": "Hugging Face 팀이 AWS와의 파트너십으로 Trainium3 머신(trn3.48xlarge, 64 NeuronCores)을 한 달간 사용하며 LTX-2.5 모델을 최적화해 10초 분량의 사운드 포함 비디오를 22~23초에 생성했다고 밝혔다. 이는 LTX의 온라인 API가 10초 1080p 클립을 23.7초에 만든다고 주장하는 것과 비슷하거나 약간 앞선 성능이다. 최적화 과정에서 텐서 병렬화, 시퀀스 병렬화, 호스트 최적화 등을 적용했으며, 여러 기술적 문제를 해결했다고 설명했다.",
+      "why_it_matters": "이 사례는 Trainium3에서 복잡한 비디오 생성 모델을 실행하고 최적화할 수 있음을 보여주며, 대체 하드웨어에서의 생성 AI 워크로드 가능성을 시사한다. 다만 회사의 성능 주장은 독립 검증되지 않았다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-27T23:15:24+00:00",
+        "input_hash": "2ea132762a54a7a38cb5df8a205ca08a14322322dbf4939a52408e5211f3c186",
+        "evidence_verified": true
+      }
     },
     {
       "id": "6cad01e61e7c391c6746",
