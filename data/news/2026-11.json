@@ -3,6 +3,527 @@
   "month": "2026-11",
   "articles": [
     {
+      "id": "ac1ff23395fe5868e875",
+      "url": "https://taoofmac.com/space/blog/2026/11/28/1108",
+      "title": "Apple Nukes Open Minis, Shoots Itself on Foot, Agentic Edition",
+      "original_title": "Apple Nukes Open Minis, Shoots Itself on Foot, Agentic Edition",
+      "published_at": "2026-11-28T11:13:40+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://taoofmac.com/space/blog/2026/11/28/1108",
+          "title": "Apple Nukes Open Minis, Shoots Itself on Foot, Agentic Edition",
+          "discussion_url": "https://news.ycombinator.com/item?id=50676564"
+        }
+      ]
+    },
+    {
+      "id": "b58470888b50ddd53121",
+      "url": "https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege",
+      "title": "Nvidia Seeded Pirated Books and Shared Them with Adobe, Authors Allege",
+      "original_title": "Nvidia Seeded Pirated Books and Shared Them with Adobe, Authors Allege",
+      "published_at": "2026-11-28T11:12:29+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://torrentfreak.com/nvidia-seeded-pirated-books-and-shared-them-with-adobe-authors-allege",
+          "title": "Nvidia Seeded Pirated Books and Shared Them with Adobe, Authors Allege",
+          "discussion_url": "https://news.ycombinator.com/item?id=50676556"
+        }
+      ]
+    },
+    {
+      "id": "82d791fb8b445f867df4",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "original_title": "Claude Code sabotage: preliminary benchmarking",
+      "published_at": "2026-11-28T10:37:40+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+          "title": "Claude Code sabotage: preliminary benchmarking",
+          "discussion_url": "https://news.ycombinator.com/item?id=50676390"
+        }
+      ]
+    },
+    {
+      "id": "8c558ea388688519c652",
+      "url": "https://8rank.ai/game/vast-cloud-sync-host-write",
+      "title": "Vulnerability enabled attackers to comprise vast.ai hosts (20k GPUs)",
+      "original_title": "Vulnerability enabled attackers to comprise vast.ai hosts (20k GPUs)",
+      "published_at": "2026-11-28T10:14:36+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://8rank.ai/game/vast-cloud-sync-host-write",
+          "title": "Vulnerability enabled attackers to comprise vast.ai hosts (20k GPUs)",
+          "discussion_url": "https://news.ycombinator.com/item?id=50676292"
+        }
+      ]
+    },
+    {
+      "id": "004b94d5fc206f02f23c",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+      "title": "GTA 6: The AI race to clone the biggest video game for PC",
+      "original_title": "GTA 6: The AI race to clone the biggest video game for PC",
+      "published_at": "2026-11-28T09:59:57+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+          "title": "GTA 6: The AI race to clone the biggest video game for PC",
+          "discussion_url": "https://news.ycombinator.com/item?id=50676233"
+        }
+      ]
+    },
+    {
+      "id": "a26ba008ce289d056dd5",
+      "url": "https://concordia-ai.com/wp-content/uploads/2026/11/deepseek_v4_pro_0813_systemic_risk_assessment.pdf",
+      "title": "DeepSeek has commissioned a third-party risk evaluation of V4 Pro [pdf]",
+      "original_title": "DeepSeek has commissioned a third-party risk evaluation of V4 Pro [pdf]",
+      "published_at": "2026-11-28T09:49:56+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://concordia-ai.com/wp-content/uploads/2026/11/deepseek_v4_pro_0813_systemic_risk_assessment.pdf",
+          "title": "DeepSeek has commissioned a third-party risk evaluation of V4 Pro [pdf]",
+          "discussion_url": "https://news.ycombinator.com/item?id=50676166"
+        }
+      ]
+    },
+    {
+      "id": "58aa63d0b84f8fe5b89a",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217900",
+      "title": "유발 하라리 \"AI 최대 위협은 '집단적 치매'...인류, 세상 이해 못할 것\"",
+      "original_title": "유발 하라리 \"AI 최대 위협은 '집단적 치매'...인류, 세상 이해 못할 것\"",
+      "published_at": "2026-11-28T09:31:30+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "세계적인 역사학자 유발 하라리가 AI 발전이 초래할 가장 큰 위협으로 인류가 세상을 이해하는 능력을 잃는 '집단적 치매(Collective dementia)'를 꼽았다. 앞으로 5~20년 사이 금융과 정치, 과학 등 현대 문명을 움직이는 핵심 시스템이 인간의 지적 능력을 넘어서는 수준으로 발전, 인류가 무슨 일이 벌…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217900",
+          "title": "유발 하라리 \"AI 최대 위협은 '집단적 치매'...인류, 세상 이해 못할 것\""
+        }
+      ]
+    },
+    {
+      "id": "a34910ac96adbad087c1",
+      "url": "https://github.com/markaboucher61-hash/Apex-Neural-Studio/releases/tag/v1.0.0](https://github.com/markaboucher61-hash/Apex-Neural-Studio/releases/tag/v1.0.0",
+      "title": "Apex Neural Studio v1.0 – 100% offline local GGUF workstation for Windows",
+      "original_title": "Apex Neural Studio v1.0 – 100% offline local GGUF workstation for Windows",
+      "published_at": "2026-11-28T09:08:10+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://github.com/markaboucher61-hash/Apex-Neural-Studio/releases/tag/v1.0.0](https://github.com/markaboucher61-hash/Apex-Neural-Studio/releases/tag/v1.0.0",
+          "title": "Apex Neural Studio v1.0 – 100% offline local GGUF workstation for Windows",
+          "discussion_url": "https://news.ycombinator.com/item?id=50675978"
+        }
+      ]
+    },
+    {
+      "id": "990d87c7cf605458676a",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback",
+      "title": "Refusals and Fallback of Anthropic Models",
+      "original_title": "Refusals and Fallback of Anthropic Models",
+      "published_at": "2026-11-28T09:07:04+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "",
+      "sources": [
+        {
+          "source_id": "hackernews",
+          "url": "https://platform.claude.com/docs/en/build-with-claude/refusals-and-fallback",
+          "title": "Refusals and Fallback of Anthropic Models",
+          "discussion_url": "https://news.ycombinator.com/item?id=50675972"
+        }
+      ]
+    },
+    {
+      "id": "c3b2da65fba872b9f9fb",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217899",
+      "title": "샤오펑 \"휴머노이드 가격 전기차 수준\"...자동차 기술로 양산·수익화",
+      "original_title": "샤오펑 \"휴머노이드 가격 전기차 수준\"...자동차 기술로 양산·수익화",
+      "published_at": "2026-11-28T09:02:58+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 전기차 업체 샤오펑이 내년 출시할 휴머노이드 로봇의 가격을 전기차 수준으로 책정할 계획이라고 밝혔다. 자동차 사업의 AI 기술과 부품 공급망, 양산 노하우를 활용해 로봇 생산 비용을 낮추고 소프트웨어 구독을 결합해 자동차 사업을 뛰어넘는 수익성을 확보한다는 구상이다.구훙디 샤오펑 부회장 겸 공동대표는 26일 블…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217899",
+          "title": "샤오펑 \"휴머노이드 가격 전기차 수준\"...자동차 기술로 양산·수익화"
+        }
+      ]
+    },
+    {
+      "id": "61e22e75d3ab3de9e880",
+      "url": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq",
+      "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+      "original_title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+      "published_at": "2026-11-28T07:40:01+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Erich Schwartzel / Wall Street Journal : A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://www.wsj.com/business/jensen-huang-nvidia-ping-pong-rise-and-fall-bfd13000?st=NG91Cq",
+          "title": "A profile of Jensen Huang, whom longtime friends and associates say has an unrelenting ability to make the most of any situation, as he returns as Nvidia's CEO (Erich Schwartzel/Wall Street Journal)",
+          "discussion_url": "https://www.techmeme.com/261128/p4"
+        }
+      ]
+    },
+    {
+      "id": "3ca6059f16acef7d41c0",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217892",
+      "title": "사카나 AI, 30B급 추론 모델 '나마즈 스몰' 공개...웹 검색서 120B 모델 압도",
+      "original_title": "사카나 AI, 30B급 추론 모델 '나마즈 스몰' 공개...웹 검색서 120B 모델 압도",
+      "published_at": "2026-11-28T07:38:14+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "일본의 사카나 AI가 엔비디아의 오픈 모델을 기반으로 웹 검색과 장문서 이해 능력을 강화한 소형 추론 모델을 공개했다. 자체 평가에서 매개변수가 4배 많은 엔비디아 모델의 평균 성능을 넘어섰으며, 기업의 자체 서버에서도 운영할 수 있도록 개발했다.사카나 AI는 25일 공식 블로그를 통해 300억개 매개변수 규모의 추…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217892",
+          "title": "사카나 AI, 30B급 추론 모델 '나마즈 스몰' 공개...웹 검색서 120B 모델 압도"
+        }
+      ]
+    },
+    {
+      "id": "70bbc7b3ecb12c17b8d6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217893",
+      "title": "프리즘ML, 5.9GB AI 모델 '본사이 2.5' 출시...코딩·에이전트 성능 대폭 향상",
+      "original_title": "프리즘ML, 5.9GB AI 모델 '본사이 2.5' 출시...코딩·에이전트 성능 대폭 향상",
+      "published_at": "2026-11-28T07:20:56+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "프리즘ML(PrismML)이 270억개 매개변수 규모의 AI 모델을 5.9GB로 압축한 오픈웨이트 모델을 출시했다. 기존 버전과 동일한 용량을 유지하면서도 원본 모델의 99%에 달하는 도구 호출 성능과 90% 수준의 에이전트 코딩 성능을 구현, 개인용 기기에서 AI 에이전트를 실행할 가능성을 높였다.프리즘ML은 24…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217893",
+          "title": "프리즘ML, 5.9GB AI 모델 '본사이 2.5' 출시...코딩·에이전트 성능 대폭 향상"
+        }
+      ]
+    },
+    {
+      "id": "6cc107d3161c5998c6e6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217894",
+      "title": "바이트댄스, AI 에이전트 강화학습 도구 '라미나' 공개...GPU 사용 시간 64% 절감",
+      "original_title": "바이트댄스, AI 에이전트 강화학습 도구 '라미나' 공개...GPU 사용 시간 64% 절감",
+      "published_at": "2026-11-28T07:09:21+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "바이트댄스가 AI 에이전트의 강화학습에 필요한 GPU 자원을 크게 줄이는 오픈소스 도구를 공개했다. 코딩 에이전트 학습 실험에서 기존 방식 대비 GPU 사용 시간을 64%, 학습 샘플을 33% 줄이면서도 모델 성능을 높였다.바이트댄스의 AI 연구 조직 시드(Seed)와 홍콩대학교 공동 연구진은 24일 대형언어모델(L…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217894",
+          "title": "바이트댄스, AI 에이전트 강화학습 도구 '라미나' 공개...GPU 사용 시간 64% 절감"
+        }
+      ]
+    },
+    {
+      "id": "ee9c58a22b7de55df56c",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217891",
+      "title": "앨리스 황 관련 중국 데이터센터서 블랙웰 확인…일련번호까지 추적",
+      "original_title": "앨리스 황 관련 중국 데이터센터서 블랙웰 확인…일련번호까지 추적",
+      "published_at": "2026-11-28T06:49:25+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "앨리스 황과 관련된 중국 상하이 데이터센터에 미국의 수출 규제 대상인 엔비디아의 '블랙웰' AI 칩이 설치된 사실이 문서를 통해 확인됐다. 젠슨 황 엔비디아 CEO가 크기와 무게 때문에 밀수가 어렵다고 설명했던 대형 서버 랙의 일련번호와 제조사까지 밝혀졌다.블룸버그는 27일(현지시간) 중국 규제 당국에 제출된 금융기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217891",
+          "title": "앨리스 황 관련 중국 데이터센터서 블랙웰 확인…일련번호까지 추적"
+        }
+      ]
+    },
+    {
+      "id": "a9ade05cb10ecfc19f44",
+      "url": "https://embo.com/introducing-embo",
+      "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+      "original_title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+      "published_at": "2026-11-28T05:50:02+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Embo : Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z — Embo is building th…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://embo.com/introducing-embo",
+          "title": "Embo, which is developing world models for robotics trained on massive amounts of internet video, emerges from stealth with a $110M seed led by a16z (Embo)",
+          "discussion_url": "https://www.techmeme.com/261128/p1"
+        }
+      ]
+    },
+    {
+      "id": "47b16a7d0bf1ee9fd5f8",
+      "url": "https://x.com/edwinarbus/status/2126507795642187855",
+      "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+      "original_title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+      "published_at": "2026-11-28T03:35:05+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "Edwin / @edwinarbus : Anthropic says Claude doesn't silently sabotage work and that some user reports reflect “overcaution”, where Claude clings to self-imposed rules on long ta…",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://x.com/edwinarbus/status/2126507795642187855",
+          "title": "Anthropic says Claude doesn't silently sabotage work and that some user reports reflect \"overcaution\", where Claude clings to self-imposed rules on long tasks (Edwin/@edwinarbus)",
+          "discussion_url": "https://www.techmeme.com/261127/p17"
+        }
+      ]
+    },
+    {
+      "id": "54381fb88af9152f2dc6",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217889",
+      "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\"",
+      "original_title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\"",
+      "published_at": "2026-11-28T03:02:54+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "오픈AI가 애플을 상대로 맞소송을 제기하며 자사의 AI 기기 개발을 방해하기 위해 제조 협력업체에 압력을 행사했다고 주장했다. 불공정한 고용 계약과 영업비밀 침해 의혹도 제기하면서 양사의 갈등이 인재 확보를 넘어 하드웨어 공급망 경쟁으로 번지고 있다.블룸버그와 로이터 등에 따르면 오픈AI는 27일(현지시간) 미국 캘…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217889",
+          "title": "오픈AI, 애플에 맞소송…\"협력업체 압박해 AI 기기 생산 방해\""
+        }
+      ]
+    },
+    {
+      "id": "3fd5cf5aa53a8e542548",
+      "url": "https://lithowar.com/lithography-war",
+      "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+      "original_title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+      "published_at": "2026-11-28T02:00:01+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "LithoWar : How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff — At …",
+      "sources": [
+        {
+          "source_id": "techmeme",
+          "url": "https://lithowar.com/lithography-war",
+          "title": "How the MATCH Act could backfire by barring ASML from its ~350 immersion scanners in China, letting rivals service and reverse engineer them, and hire its staff (LithoWar)",
+          "discussion_url": "https://www.techmeme.com/261127/p16"
+        }
+      ]
+    },
+    {
+      "id": "e8bb369aaf0a363abcc5",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217895",
+      "title": "[AI카툰] Bob, Senior IT guy - 밥, 휴먼러닝하기",
+      "original_title": "[AI카툰] Bob, Senior IT guy - 밥, 휴먼러닝하기",
+      "published_at": "2026-11-28T01:00:00+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "글·그림 Dr. Alf…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217895",
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, 휴먼러닝하기"
+        }
+      ]
+    },
+    {
+      "id": "d95506b595974aff5576",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217830",
+      "title": "창문으로 태양광 발전하고 AI로 발전량 예측…일본 간사이전력 실증 추진",
+      "original_title": "창문으로 태양광 발전하고 AI로 발전량 예측…일본 간사이전력 실증 추진",
+      "published_at": "2026-11-28T00:20:00+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "일본 간사이전력이 건물 창문에 설치되는 페로브스카이트 태양전지의 발전량을 AI로 예측하는 실증사업을 추진한다. 파나소닉홀딩스가 유리형 페로브스카이트 태양전지의 판매를 시작한 가운데 실제 건물에서 설치·운용 방법과 발전량 예측 정확도를 검증한다.간사이전력과 간사이대학은 지난 20일(현지시간) 파나소닉홀딩스 등 3개 기…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217830",
+          "title": "창문으로 태양광 발전하고 AI로 발전량 예측…일본 간사이전력 실증 추진"
+        }
+      ]
+    },
+    {
+      "id": "1fe0dc2ebdadbddcf957",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217890",
+      "title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+      "original_title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과",
+      "published_at": "2026-11-28T00:11:38+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "중국 텐센트가 AI를 이용해 두 개의 치료 표적에 동시에 작용하는 새로운 약물 후보물질을 설계하는 데 성공했다. 동물 실험에서 기존 비만 치료제의 10분의 1 용량으로 더 큰 체중 감소 효과를 냈으며, 암 치료 후보물질은 대조군 대비 종양 부피를 94.2% 줄였다.텐센트는 26일(현지시간) 생명과학연구소가 주도하고 …",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217890",
+          "title": "텐센트, AI로 비만·암 치료 후보물질 설계…네이처에 연구 성과"
+        }
+      ]
+    },
+    {
+      "id": "9e4ae7f8dcf438b27157",
+      "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+      "title": "datasette-charts 0.4a0, 플러그인 훅 개선 및 공식 웹사이트 공개",
+      "original_title": "datasette-charts 0.4a0",
+      "published_at": "2026-11-27T23:57:17+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "global",
+      "category": "개발·도구",
+      "status": "summarized",
+      "excerpt": "Release: datasette-charts 0.4a0 The new datasette-charts plugin has its own plugin hook to allow other plugins to define new chart types, but I hadn't actually used it for anyth…",
+      "sources": [
+        {
+          "source_id": "simonwillison",
+          "url": "https://simonwillison.net/2026/Nov/27/datasette-charts",
+          "title": "datasette-charts 0.4a0"
+        }
+      ],
+      "summary": "datasette-charts 0.4a0 버전이 공개됐다. 이번 릴리스는 다른 플러그인이 새로운 차트 유형을 정의할 수 있는 플러그인 훅의 설계 문제를 개선해 차트 플러그인 제작 편의성을 높였으며, charts.datasette.io 웹사이트도 새로 추가됐다. 새 웹사이트에는 플러그인 작성자용 튜토리얼과 핵심 차트·주석 갤러리가 포함되며, 각 항목은 Datasette Lite의 인터랙티브 데모로 연결된다.",
+      "why_it_matters": "플러그인 훅의 실제 사용성 개선과 문서·데모 제공은 서드파티 차트 플러그인 생태계 확장에 도움이 될 수 있다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "ko-brief-v3",
+        "generated_at": "2026-11-28T11:26:28+00:00",
+        "input_hash": "de9c39ca0f02f2f74873db88fde520ab625674a5bbafef3ca5c5376087ed5806",
+        "evidence_verified": true
+      }
+    },
+    {
+      "id": "47df1505e43bc8221396",
+      "url": "https://byline.network/2026/11/27_2918273",
+      "title": "한 달 새 40만명 쓴 AI 에이전트 ‘피클’…고민 깊어지는 플랫폼 기업들",
+      "original_title": "한 달 새 40만명 쓴 AI 에이전트 ‘피클’…고민 깊어지는 플랫폼 기업들",
+      "published_at": "2026-11-27T23:52:30+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "개발·도구",
+      "status": "link",
+      "excerpt": "인공지능(AI) 스타트업 피클AI가 선보인 AI 비서 ‘피클(Pickle)’이 국내에서 돌풍을 일으키면서 플랫폼 기업들의 고민도 깊어지고 있다. 사람이 아닌 AI가 이용자를 대신해 플랫폼에 접속하고 각종 서비스를 이용하기 시작했기 때문이다. 그간 사람이 직접 서비스를 이용하는 것을 전제로 사업을 해 온 플랫폼 기업들…",
+      "sources": [
+        {
+          "source_id": "byline",
+          "url": "https://byline.network/2026/11/27_2918273",
+          "title": "한 달 새 40만명 쓴 AI 에이전트 ‘피클’…고민 깊어지는 플랫폼 기업들"
+        }
+      ]
+    },
+    {
+      "id": "fb7265593817876f5cf8",
+      "url": "https://www.aitimes.com/news/articleView.html?idxno=217888",
+      "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나",
+      "original_title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나",
+      "published_at": "2026-11-27T23:22:12+00:00",
+      "collected_at": "2026-11-28T11:26:05+00:00",
+      "published_precision": "time",
+      "region": "kr",
+      "category": "모델·연구",
+      "status": "link",
+      "excerpt": "미국 공군과 재무부, 영국 정부 부처 등 서방 주요 기관에서 사이버 공격과 시스템 장애가 잇따르고 있다. AI의 소프트웨어 취약점 발견 능력이 급격하게 발전하면서 공격자와 방어자의 보안 경쟁이 치열해지고, 노후한 디지털 인프라가 이를 감당할 수 있을지에 대한 의문도 커지고 있다.파이낸셜타임스(FT)는 27일(현지시간…",
+      "sources": [
+        {
+          "source_id": "aitimes",
+          "url": "https://www.aitimes.com/news/articleView.html?idxno=217888",
+          "title": "미국·유럽 잇단 사이버 공격…AI 시대 디지털 인프라 취약성 드러나"
+        }
+      ]
+    },
+    {
       "id": "07ba0f168b76edd92a32",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-pushes-back-axios-184139218.html",
       "title": "Anthropic CEO pushes back on Axios reporting on AI and free will",
