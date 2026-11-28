@@ -613,14 +613,14 @@
     {
       "id": "2da6a592d656851f48bb",
       "url": "https://byline.network/2026/11/1126-5",
-      "title": "NIPA, AI 인재 양성 방향 전환…산업 현장 문제 해결·성과 중심으로",
+      "title": "NIPA, AI 인재 양성을 현장 문제 해결·성과 중심으로 전환",
       "original_title": "NIPA, AI 인재 양성 방향 전환…산업 현장 문제 해결·성과 중심으로",
       "published_at": "2026-11-27T10:04:26+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "정보통신산업진흥원(NIPA)이 산업 현장에서 AI를 활용해 실질적인 업무 개선과 성과를 낼 수 있도록 인재 양성 정책을 개편한다. 대한제강과 삼양사 등은 재직자 교육을 통해 생산 공정 개선과 비용 절감 성과를 거뒀으며, 충북대는 중소 제조기업과 대학생을 연계한 산학협력 모델을 운영했다. 기업과 학계는 일회성 교육보다…",
       "sources": [
         {
@@ -628,7 +628,17 @@
           "url": "https://byline.network/2026/11/1126-5",
           "title": "NIPA, AI 인재 양성 방향 전환…산업 현장 문제 해결·성과 중심으로"
         }
-      ]
+      ],
+      "summary": "신성호 정보통신산업진흥원 정책기획단장이 내년 인재 양성 방향을 단순 교육 규모 확대보다 산업 현장에서 실제 활용할 수 있는 인력 양성에 집중하겠다고 밝혔습니다. 대한제강은 NIPA 지원사업을 통해 핵심 인력 21명을 육성하고 직원들이 13건의 개념검증을 수행했으며, 외부 기관의 AI 전환 진단 점수도 660점에서 980점으로 상승했습니다.",
+      "why_it_matters": "AI 교육의 성과를 사용 경험이 아니라 업무 개선과 비용 절감으로 측정하려는 전환은 기업의 AI 도입 효과 판단 기준을 바꿀 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "11d7f78039ade7d9f4e5758d38a08887ac310da42b5b809d76d482ebfa2eb486",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ca88c4b88438fd62e13c",
@@ -654,14 +664,14 @@
     {
       "id": "0318d4d5175e4ff7c50a",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42930",
-      "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
+      "title": "구글, 안드로이드 빌드 가속 프레임워크 ABFS 오픈소스 공개",
       "original_title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개",
       "published_at": "2026-11-27T09:47:23+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "개발·도구",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "구글이 대규모 소프트웨어 개발 과정에서 발생하는 소스코드 다운로드와 빌드 병목현상을 해결하고, 다수의 인공지능(AI) 에이전트가 동시에 개발 업무를 수행할 수 있는 새로운 소프트웨어 개발 인프라를 오픈소스로 공개했다.AI 코딩 에이전트의 코드 생성 능력이 빠르게 발전하는 가운데 기존 개발 인프라의 물리적·구조적 제약…",
       "sources": [
         {
@@ -669,19 +679,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42930",
           "title": "[AI 리뷰] \"AI 에이전트 시대 개발 인프라 혁신\"…구글, 안드로이드 빌드 80분에서 2분으로 줄인 ‘ABFS’ 오픈소스 공개"
         }
-      ]
+      ],
+      "summary": "구글이 대규모 깃 저장소의 소스코드 다운로드와 빌드 병목을 해결하는 소프트웨어 프레임워크 ABFS를 오픈소스로 공개했습니다. 자체 실험에서 안드로이드 소스코드 체크아웃은 약 36분에서 8초 미만으로, 전체 빌드는 약 80분에서 2분여로 단축됐으며, 여러 AI 에이전트가 빌드 캐시를 공유할 수 있는 구조를 갖췄습니다.",
+      "why_it_matters": "AI 코딩 에이전트가 늘어날수록 빌드·테스트 인프라의 병목을 줄이는 것이 개발 생산성의 핵심이 됩니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "483d8e913715f86f96bb3aed832ed0ea6182c9b95e811b83fac4000274ab95a8",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a4b4efbc94da7250bd80",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42927",
-      "title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증",
+      "title": "엔비디아·키옥시아, SSD로 GPU 메모리 1페타바이트 확장 실증",
       "original_title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증",
       "published_at": "2026-11-27T08:36:35+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "엔비디아(NVIDIA)가 고대역폭 메모리(High Bandwidth Memory, HBM)의 물리적 용량 한계를 극복하기 위해 고성능 솔리드 스테이트 드라이브(Solid-state Drive, SSD)를 활용한 GPU 메모리 확장 기술 개발에 속도를 내고 있다.기존 SSD를 단순한 데이터 저장장치가 아닌 GPU가 대…",
       "sources": [
         {
@@ -689,19 +709,29 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42927",
           "title": "엔비디아, SSD로 GPU 메모리 용량 한계 넘는다…키옥시아와 1페타바이트급 AI 메모리 확장 기술 실증"
         }
-      ]
+      ],
+      "summary": "키옥시아가 엔비디아와 함께 GPU의 유효 메모리 공간을 1페타바이트 이상으로 확장하고 2조개 벡터 데이터베이스를 처리할 수 있는 기술적 가능성을 확인했다고 밝혔습니다. 양사는 엔비디아 GB200 NVL72 시스템에 키옥시아 NVMe SSD 144개를 탑재해 약 1.1PB 규모의 플래시 기반 확장 메모리 구성으로 개념검증을 진행했습니다.",
+      "why_it_matters": "고대역폭 메모리 한계를 저장장치로 보완하려는 시도는 대규모 검색증강생성과 AI 에이전트의 메모리 확장성에 영향을 줄 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "206eb824083447598956a1d8f575d47f3462c4275f8abaed16507bdc70ee897d",
+        "evidence_verified": true
+      }
     },
     {
       "id": "a0e900e832fbfb1bd152",
       "url": "https://www.aitimes.kr/news/articleView.html?idxno=42926",
-      "title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색",
+      "title": "NIA, AI 안전성·이용자 권리 보장 법제도 개선 모색",
       "original_title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색",
       "published_at": "2026-11-27T08:07:14+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
       "category": "정책·사회",
-      "status": "link",
+      "status": "summarized",
       "excerpt": "한국지능정보사회진흥원(NIA, 원장 김형철)이 인공지능(AI)의 안전성 확보와 이용자 권리 보호, AI 격차 해소를 위한 법제도 개선 방향을 모색한다. NIA는 27일 한양대학교 백남학술정보관에서 한양대 법학연구소, 한국인공지능법학회와 공동으로 ‘함께 누리는 AI와 법제도’를 주제로 공개세미나를 개최했다.사법부 인공…",
       "sources": [
         {
@@ -709,7 +739,17 @@
           "url": "https://www.aitimes.kr/news/articleView.html?idxno=42926",
           "title": "NIA, AI 안전성·이용자 권리 보장과 AI 격차 해소 위한 법제도 개선 모색"
         }
-      ]
+      ],
+      "summary": "한국지능정보사회진흥원이 한양대 법학연구소, 한국인공지능법학회와 공동으로 AI 안전성 확보와 이용자 권리 보호, AI 격차 해소를 위한 법제도 개선 방향을 논의하는 공개세미나를 개최했습니다. 이숙연 대법관은 기조강연에서 누구나 AI 혜택을 안전하게 누릴 수 있는 법적·제도적 방향을 제시했습니다.",
+      "why_it_matters": "AI 격차가 기회와 삶의 격차로 이어질 수 있다는 문제의식은 포용적 AI 법제 논의의 출발점이 됩니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "5ed92a8db62eabf072c2a26c513e6a0b9adc2327f3ceacabd55b11316ee6c203",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ea2fa349608937e391c6",
@@ -734,14 +774,14 @@
     {
       "id": "c20ed4eb42baecec3753",
       "url": "https://byline.network/2026/11/1127-6",
-      "title": "삼성증권, AI로 고객·영업·업무 전반 혁신…내년 전사 확산 본격화",
+      "title": "삼성증권, AI로 고객·영업·업무 전반 혁신 추진",
       "original_title": "삼성증권, AI로 고객·영업·업무 전반 혁신…내년 전사 확산 본격화",
       "published_at": "2026-11-27T07:32:16+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "삼성증권이 인공지능(AI)을 활용해 금융 업무 전반의 혁신을 추진하고 있다. 임직원의 문서 작성과 정보 탐색 등 일상 업무에 AI를 적용하고 AI 에이전트를 활용한 업무 자동화 과제도 발굴하고 있다. 고객 서비스와 영업, 데이터 활용 영역으로 AI 적용 범위를 넓히는 한편 금융사에 필요한 보안과 내부통제 체계도 함께…",
       "sources": [
         {
@@ -749,7 +789,17 @@
           "url": "https://byline.network/2026/11/1127-6",
           "title": "삼성증권, AI로 고객·영업·업무 전반 혁신…내년 전사 확산 본격화"
         }
-      ]
+      ],
+      "summary": "삼성증권이 임직원 문서 작성과 정보 탐색 등 일상 업무에 AI를 적용하고 AI 에이전트를 활용한 업무 자동화 과제를 발굴하고 있습니다. 올해 7월 AI와 데이터, 프로세스 혁신 기능을 통합한 AX/PI센터를 신설하고 내년에는 성과 검증과 전사 확산에 주력할 계획입니다.",
+      "why_it_matters": "금융사가 AI 활용을 확대할수록 보안과 내부통제를 유지하면서 성과를 검증하는 체계가 경쟁력이 됩니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "372f87df0a436effbcdd417b39470a6165dae06c33c5b17aceffdf31843170c8",
+        "evidence_verified": true
+      }
     },
     {
       "id": "8eaa0c9eed0436b1cf62",
@@ -775,14 +825,14 @@
     {
       "id": "4617740c6aeb9bde2afa",
       "url": "https://byline.network/2026/11/27-713",
-      "title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화",
+      "title": "마이크로소프트, 윈도우11을 AI 에이전트 관리 운영체제로 전환",
       "original_title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화",
       "published_at": "2026-11-27T07:05:23+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "산업·비즈니스",
+      "status": "summarized",
       "excerpt": "마이크로소프트가 소프트웨어와 서비스의 중심에 AI 에이전트를 두고 새 운영체제(OS)로 격상시키면서, 윈도우11은 AI 에이전트의 활동을 제어하는 상위 OS로 바뀌고 있다. AI 에이전트 시대를 준비하는 윈도우11은 AI 에이전트에게 PC의 제어권을 넘겨주는 대신 전반적인 보안성을 강화하면서 에이전트의 활동을 관리감…",
       "sources": [
         {
@@ -790,19 +840,29 @@
           "url": "https://byline.network/2026/11/27-713",
           "title": "윈도우11 대전환, AI에 PC 제어권 넘기며 플랫폼 격리 강화"
         }
-      ]
+      ],
+      "summary": "마이크로소프트가 이그나이트 2026에서 윈도우11을 AI 에이전트의 활동을 관리·감독하는 상위 운영체제로 격상한다고 발표했습니다. 코파일럿은 로컬 파일과 앱, 기기 상태를 권한 승인 기반으로 활용하며 파일 정리와 PC 진단 같은 실제 조작을 수행하고, 윈도우는 엔드포인트 보안 플랫폼으로 에이전트 실행 환경을 관리합니다.",
+      "why_it_matters": "운영체제가 AI 에이전트 실행과 통제의 중심이 되면 기업의 보안·권한 관리 방식도 함께 바뀔 수 있습니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "4891e0f464234eedfed23cfb433af8a9164741f89c9e89933714965de3714f04",
+        "evidence_verified": true
+      }
     },
     {
       "id": "ecf52ea2d3eccd152e8d",
       "url": "https://www.aitimes.com/news/articleView.html?idxno=217874",
-      "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
+      "title": "AI 안경 부정행위 해커톤, 방어 대부분 뚫려",
       "original_title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인",
       "published_at": "2026-11-27T07:02:18+00:00",
       "collected_at": "2026-11-27T11:50:25+00:00",
       "published_precision": "time",
       "region": "kr",
-      "category": "모델·연구",
-      "status": "link",
+      "category": "정책·사회",
+      "status": "summarized",
       "excerpt": "\"해당 시험지의 AI 풀이를 금지합니다.\"시험지 곳곳에 숨겨 둔 경고문은 AI 안경의 공격 앞에 무력화됐다. 시험 부정행위를 막으려고 동원한 방어 기법 상당수가 공격조의 우회 전략에 잇따라 뚫렸다.기자는 커뮤니티 '다스 누미너스'가 26일 서울 영등포구 워크모어 여의도당산에서 개최한 'AI 바이 디폴트' 해커톤을 참…",
       "sources": [
         {
@@ -810,7 +870,17 @@
           "url": "https://www.aitimes.com/news/articleView.html?idxno=217874",
           "title": "\"막을 테면 막아봐!\"...AI 안경 부정행위 차단, 해커톤서 역부족 확인"
         }
-      ]
+      ],
+      "summary": "26일 서울 여의도에서 열린 AI 안경 해커톤에서 방어조가 시험지에 프롬프트 인젝션과 가짜 정답 등을 심었지만, 공격조가 우회 전략으로 문제를 풀어 5개 팀 중 2개 팀이 만점을 받았습니다. 이한울 에임인텔리전스 부문장은 부정행위 방식을 100% 막는 것은 사실상 불가능하다며 다층 구조로 피해를 최소화해야 한다고 강조했습니다.",
+      "why_it_matters": "웨어러블 AI 기기가 보급되면 시험·평가의 공정성과 보안 통제 방식에 대한 재검토가 필요해집니다.",
+      "summary_meta": {
+        "model": "deepseek/deepseek-v4.1-flash",
+        "prompt_version": "daily-brief-v11",
+        "generated_at": "2026-11-28T03:28:33+00:00",
+        "briefing_day": "2026-11-28",
+        "input_hash": "b97f75c9f3b263d7aaeb772551e5d272fb0a46c804f17f43586bbcb5351d635c",
+        "evidence_verified": true
+      }
     },
     {
       "id": "8e97f431cdf8142b2315",
